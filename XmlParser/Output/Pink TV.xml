@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+  <channel id="Pink TV">
+    <display-name>test</display-name>
+  </channel>
+  <programme channel="test" start="20151124000000 +0100" stop="20151124022500 +0100">
+    <length units="minutes">145</length>
+    <title>Mes rendez-vous à la brésilienne (?)</title>
+    <category>Film</category>
+    <desc>Paulo Massa a la réputation d'être le plus gros nikeur brésilien en France et il adore ça ! Il nous montre tout son savoir-faire lors de ses... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Fred Sneaker</name>
+      <name function="actor">Mario Hernandez</name>
+      <name function="actor">Jérôme Dubois</name>
+      <name function="actor">Paulo Massa</name>
+      <name function="actor">Manuel Dee</name>
+      <name function="actor">Wladimir Germain</name>
+      <name function="actor">Micha Ruscoff</name>
+      <name function="actor">Momo</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124022500 +0100" stop="20151124042500 +0100">
+    <length units="minutes">120</length>
+    <title>Nomades (Baazar Hotel) (?)</title>
+    <category>Film</category>
+    <desc>Dans le cadre des échanges Nord-Sud, l'Europe dépêche des jeunes gens pour oeuvrer en Afrique du Nord en ayant pour mission de transformer un... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jean-Daniel Cadinot</name>
+      <name function="actor">Marc van Dervel</name>
+      <name function="actor">Karim Nadir</name>
+      <name function="actor">Lucas Samara</name>
+      <name function="actor">Cyann Espaïsy</name>
+      <name function="actor">Majid Akhram</name>
+      <name function="actor">Mehdi Faviano</name>
+      <name function="actor">Mario Nadir</name>
+      <name function="actor">Badri Elkefi</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124042500 +0100" stop="20151125000000 +0100">
+    <length units="minutes">1175</length>
+    <title>Rendez-vous à 0h</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+</tv>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+  <channel id="Be Sport 1">
+    <display-name>test</display-name>
+  </channel>
+  <programme channel="test" start="20151123133000 +0100" stop="20151123153000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Hambourg / Borussia Dortmund)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123153000 +0100" stop="20151123173500 +0100">
+    <length units="minutes">125</length>
+    <title>Football (Tottenham / West Ham)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123173500 +0100" stop="20151123180000 +0100">
+    <length units="minutes">25</length>
+    <title>World Sport</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123180000 +0100" stop="20151123194000 +0100">
+    <length units="minutes">100</length>
+    <title>L'Europe des 11</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123194000 +0100" stop="20151123202000 +0100">
+    <length units="minutes">40</length>
+    <title>Docs de sport</title>
+    <category>Documentaire</category>
+    <desc>Les insurgés du foot syrien Exilés des quatre coins de la Syrie, des footballeurs, réunis autour d'un projet sportif et politique, ambitionnent de créer une sélection... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123202000 +0100" stop="20151123205500 +0100">
+    <length units="minutes">35</length>
+    <title>Docs de sport</title>
+    <category>Documentaire</category>
+    <desc>Hongrie, un football d'état Il faut remonter à la Coupe du monde 1986 pour voir la sélection nationale hongroise disputer une grande compétition. Trente ans que les Hongrois... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123205500 +0100" stop="20151123225500 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Crystal Palace / Sunderland)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123225500 +0100" stop="20151124004000 +0100">
+    <length units="minutes">105</length>
+    <title>L'Europe des 11</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+</tv>

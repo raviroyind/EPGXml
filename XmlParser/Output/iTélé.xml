@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+  <channel id="iTélé">
+    <display-name>test</display-name>
+  </channel>
+  <programme channel="test" start="20151124070000 +0100" stop="20151124100000 +0100">
+    <length units="minutes">180</length>
+    <title>Team Toussaint, la matinale info</title>
+    <category>Magazine</category>
+    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité :... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Christophe Barbier,</name>
+      <name function="presenter">Stefan Etcheverry,</name>
+      <name function="presenter">Bruce Toussaint,</name>
+      <name function="presenter">Marie Colmant,</name>
+      <name function="presenter">Claire Fournier,</name>
+      <name function="presenter">Alice Darfeuille,</name>
+      <name function="presenter">Thierry Fréret</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124100000 +0100" stop="20151124130000 +0100">
+    <length units="minutes">180</length>
+    <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Sonia Chironi,</name>
+      <name function="presenter">Adrien Borne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124130000 +0100" stop="20151124180000 +0100">
+    <length units="minutes">300</length>
+    <title>La Newsroom</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Caroline Delage,</name>
+      <name function="presenter">Romain Desarbres</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124180000 +0100" stop="20151124193000 +0100">
+    <length units="minutes">90</length>
+    <title>Tirs croisés Ferrari</title>
+    <category>Magazine</category>
+    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Laurence Ferrari,</name>
+      <name function="presenter">Romain Desarbres</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124193000 +0100" stop="20151124203000 +0100">
+    <length units="minutes">60</length>
+    <title>20h Foot</title>
+    <category>Magazine</category>
+    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Pascal Praud,</name>
+      <name function="presenter">François Pinet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124203000 +0100" stop="20151124210000 +0100">
+    <length units="minutes">30</length>
+    <title>Le grand JT d'Audrey Pulvar</title>
+    <category>Journal</category>
+    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Audrey Pulvar</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124210000 +0100" stop="20151124220000 +0100">
+    <length units="minutes">60</length>
+    <title>On ne va pas se mentir</title>
+    <category>Magazine</category>
+    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Audrey Pulvar</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124220000 +0100" stop="20151125003000 +0100">
+    <length units="minutes">150</length>
+    <title>Galzi jusqu'à minuit</title>
+    <category>Magazine</category>
+    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Olivier Galzi,</name>
+      <name function="presenter">Soizic Boisard</name>
+    </credits>
+    <image />
+  </programme>
+</tv>

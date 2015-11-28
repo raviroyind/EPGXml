@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+  <channel id="TV5MONDE">
+    <display-name>test</display-name>
+  </channel>
+  <programme channel="test" start="20151124060000 +0100" stop="20151124061000 +0100">
+    <length units="minutes">10</length>
+    <title>TV5MONDE, le journal</title>
+    <category>Journal</category>
+    <desc>Un point sur l'actualité dans le monde par la... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124061000 +0100" stop="20151124061500 +0100">
+    <length units="minutes">5</length>
+    <title>Météo</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124061500 +0100" stop="20151124062000 +0100">
+    <length units="minutes">5</length>
+    <title>Le journal de l'économie</title>
+    <category>Magazine</category>
+    <desc>Trois minutes pour décrypter, expliquer et... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Antoine Fonteneau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124062000 +0100" stop="20151124062500 +0100">
+    <length units="minutes">5</length>
+    <title>L'invité</title>
+    <category>Magazine</category>
+    <desc>Entretien avec un invité au coeur de l'actualité (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Patrick Simonin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124062500 +0100" stop="20151124063000 +0100">
+    <length units="minutes">5</length>
+    <title>La tête dans le guidon</title>
+    <category>Série</category>
+    <desc>Les plus grands moments du Tour de France vu... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Bruno Collet</name>
+      <name function="writer">Jean-François Le Corre</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124063000 +0100" stop="20151124064000 +0100">
+    <length units="minutes">10</length>
+    <title>TV5MONDE, le journal</title>
+    <category>Journal</category>
+    <desc>Un point sur l'actualité dans le monde par la... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124064000 +0100" stop="20151124064500 +0100">
+    <length units="minutes">5</length>
+    <title>Météo</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124064500 +0100" stop="20151124065000 +0100">
+    <length units="minutes">5</length>
+    <title>Le journal de l'économie</title>
+    <category>Magazine</category>
+    <desc>Trois minutes pour décrypter, expliquer et... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Antoine Fonteneau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124065000 +0100" stop="20151124065500 +0100">
+    <length units="minutes">5</length>
+    <title>L'invité</title>
+    <category>Magazine</category>
+    <desc>Entretien avec un invité au coeur de l'actualité (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Patrick Simonin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124065500 +0100" stop="20151124070000 +0100">
+    <length units="minutes">5</length>
+    <title>Maisons d'ici et d'ailleurs</title>
+    <category>Documentaire</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124070000 +0100" stop="20151124073000 +0100">
+    <length units="minutes">30</length>
+    <title>Journal Radio Canada</title>
+    <category>Journal</category>
+    <desc>Le Journal de Radio Canada constitue le... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124073000 +0100" stop="20151124075500 +0100">
+    <length units="minutes">25</length>
+    <title>Télématin</title>
+    <category>Magazine</category>
+    <desc>William Leymergie propose une émission... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">William Leymergie</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124075500 +0100" stop="20151124080000 +0100">
+    <length units="minutes">5</length>
+    <title>Vestiaires</title>
+    <category>Série</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Kris Debusscher</name>
+      <name function="actor">Erico Salamone</name>
+      <name function="actor">Damien Gillard</name>
+      <name function="actor">Bertrand Crasson</name>
+      <name function="actor">Thierry De Coster</name>
+      <name function="actor">Kris Debusscher</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124080000 +0100" stop="20151124082500 +0100">
+    <length units="minutes">25</length>
+    <title>Télématin</title>
+    <category>Magazine</category>
+    <desc>William Leymergie propose une émission... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">William Leymergie</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124082500 +0100" stop="20151124083000 +0100">
+    <length units="minutes">5</length>
+    <title>Un livre, un jour</title>
+    <category>Magazine</category>
+    <desc>Olivier Barrot présente un ouvrage récemment... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Olivier Barrot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124083000 +0100" stop="20151124084000 +0100">
+    <length units="minutes">10</length>
+    <title>TV5MONDE, le journal</title>
+    <category>Journal</category>
+    <desc>Un point sur l'actualité dans le monde par la... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124084000 +0100" stop="20151124084500 +0100">
+    <length units="minutes">5</length>
+    <title>Météo</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124084500 +0100" stop="20151124091500 +0100">
+    <length units="minutes">30</length>
+    <title>Une brique dans le ventre</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : Plateau : Deux maisons ré-aménagées (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Cédric Wautier,</name>
+      <name function="presenter">Virginie Jacobs</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124091500 +0100" stop="20151124093000 +0100">
+    <length units="minutes">15</length>
+    <title>Echo-logis</title>
+    <category>Documentaire</category>
+    <desc>En Hollande, le quartier écologique d'Eva... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Cécile Nicouleaud</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124093000 +0100" stop="20151124100000 +0100">
+    <length units="minutes">30</length>
+    <title>Chroniques d'en haut</title>
+    <category>Magazine</category>
+    <desc>Chronique de la vie en altitude, balades dans... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Laurent Guillaume</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124100000 +0100" stop="20151124100500 +0100">
+    <length units="minutes">5</length>
+    <title>Flash info</title>
+    <category>Journal</category>
+    <desc>Point info tout en images proposé par la... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124100500 +0100" stop="20151124105500 +0100">
+    <length units="minutes">50</length>
+    <title>Les châteaux de la Loire</title>
+    <category>Documentaire</category>
+    <desc>Une escapade au coeur de la Touraine pour... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Olivier Hennegrave</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124105500 +0100" stop="20151124110000 +0100">
+    <length units="minutes">5</length>
+    <title>Merci professeur !</title>
+    <category>Magazine</category>
+    <desc>Une chronique sur la langue française, ses... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Bernard Cerquiglini</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124110000 +0100" stop="20151124111500 +0100">
+    <length units="minutes">15</length>
+    <title>TV5MONDE, le journal</title>
+    <category>Journal</category>
+    <desc>Un point sur l'actualité dans le monde par la... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124111500 +0100" stop="20151124120000 +0100">
+    <length units="minutes">45</length>
+    <title>Tout le monde veut prendre sa place</title>
+    <category>Jeu</category>
+    <desc>Sous la houlette de Nagui, six candidats... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Nagui</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124120000 +0100" stop="20151124123000 +0100">
+    <length units="minutes">30</length>
+    <title>Les p'tits plats de Babette</title>
+    <category>Magazine</category>
+    <desc>La chef Babette de Rozières part à la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Babette de Rozières,</name>
+      <name function="presenter">Emmanuel Maubert</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124123000 +0100" stop="20151124130500 +0100">
+    <length units="minutes">35</length>
+    <title>Le jardin extraordinaire</title>
+    <category>Magazine</category>
+    <desc>La peur des araignées pourrait être d'origine... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Tanguy Dumortier</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124130500 +0100" stop="20151124133500 +0100">
+    <length units="minutes">30</length>
+    <title>Questions pour un champion</title>
+    <category>Jeu</category>
+    <desc>Les «neuf points gagnants», le «quatre à la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Julien Lepers</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124133500 +0100" stop="20151124141500 +0100">
+    <length units="minutes">40</length>
+    <title>Journal (RTBF)</title>
+    <category>Journal</category>
+    <desc>Un point sur l'actualité dans le monde et en... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124141500 +0100" stop="20151124160500 +0100">
+    <length units="minutes">110</length>
+    <title>L'état sauvage (?)</title>
+    <category>Film</category>
+    <desc>En 1960, Laurence, une jeune énarque, quitte... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Francis Girod</name>
+      <name function="actor">Michel Piccoli</name>
+      <name function="actor">Claude Brasseur</name>
+      <name function="actor">Marie-Christine Barrault</name>
+      <name function="actor">Jacques Dutronc</name>
+      <name function="actor">Umban U'kset</name>
+      <name function="actor">Baaron</name>
+      <name function="actor">Doura Mané</name>
+      <name function="actor">Jean-Baptiste Tiemele</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124160500 +0100" stop="20151124170500 +0100">
+    <length units="minutes">60</length>
+    <title>Les châteaux de la Loire</title>
+    <category>Documentaire</category>
+    <desc>La façade du château de Cheverny est connue... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Olivier Hennegrave</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124170500 +0100" stop="20151124180000 +0100">
+    <length units="minutes">55</length>
+    <title>Temps présent</title>
+    <category>Magazine</category>
+    <desc>Les témoignages anonymes affluent lorsque... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jean-Philippe Ceppi</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124180000 +0100" stop="20151124182000 +0100">
+    <length units="minutes">20</length>
+    <title>64', le monde en français, 1re partie</title>
+    <category>Magazine</category>
+    <desc>Le rendez-vous de l'information et de la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Mohamed Kaci</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124182000 +0100" stop="20151124182500 +0100">
+    <length units="minutes">5</length>
+    <title>Le journal de l'économie</title>
+    <category>Magazine</category>
+    <desc>Trois minutes pour décrypter, expliquer et... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Antoine Fonteneau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124182500 +0100" stop="20151124183000 +0100">
+    <length units="minutes">5</length>
+    <title>Météo</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124183000 +0100" stop="20151124185000 +0100">
+    <length units="minutes">20</length>
+    <title>64', le monde en français, 2e partie</title>
+    <category>Magazine</category>
+    <desc>Le rendez-vous de l'information et de la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Mohamed Kaci</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124185000 +0100" stop="20151124190000 +0100">
+    <length units="minutes">10</length>
+    <title>L'invité</title>
+    <category>Magazine</category>
+    <desc>Entretien avec un invité au coeur de l'actualité (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Patrick Simonin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124190000 +0100" stop="20151124190500 +0100">
+    <length units="minutes">5</length>
+    <title>64', l'essentiel</title>
+    <category>Magazine</category>
+    <desc>Le rendez-vous de l'information et de la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Mohamed Kaci</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124190500 +0100" stop="20151124193500 +0100">
+    <length units="minutes">30</length>
+    <title>Epicerie fine</title>
+    <category>Magazine</category>
+    <desc>Dans l'imaginaire collectif, pieuvres et... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Guy Martin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124193500 +0100" stop="20151124194500 +0100">
+    <length units="minutes">10</length>
+    <title>Rêves d'hôtel</title>
+    <category>Documentaire</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124194500 +0100" stop="20151124203000 +0100">
+    <length units="minutes">45</length>
+    <title>Tout le monde veut prendre sa place</title>
+    <category>Jeu</category>
+    <desc>Sous la houlette de Nagui, six candidats... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Nagui</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124203000 +0100" stop="20151124210000 +0100">
+    <length units="minutes">30</length>
+    <title>Journal (France 2)</title>
+    <category>Journal</category>
+    <desc>Un point sur l'actualité dans le monde et en... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124210000 +0100" stop="20151124223500 +0100">
+    <length units="minutes">95</length>
+    <title>La clinique du docteur Blanche</title>
+    <category>Téléfilm</category>
+    <desc>Au XIXe siècle. Emile Blanche, un étudiant en... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Sarah Lévy</name>
+      <name function="actor">Danièle Lebrun</name>
+      <name function="actor">Serge Riaboukine</name>
+      <name function="actor">Philippe Laudenbach</name>
+      <name function="actor">Lionnel Astier</name>
+      <name function="actor">Bruno Lochet</name>
+      <name function="actor">Hervé Ganem</name>
+      <name function="actor">Julie Duclos</name>
+      <name function="actor">Stanley Weber</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124223500 +0100" stop="20151124230000 +0100">
+    <length units="minutes">25</length>
+    <title>Journal (RTS)</title>
+    <category>Journal</category>
+    <desc>Un point sur l'actualité dans le monde et en... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124230000 +0100" stop="20151124230500 +0100">
+    <length units="minutes">5</length>
+    <title>Météo</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124230500 +0100" stop="20151125000000 +0100">
+    <length units="minutes">55</length>
+    <title>Survie, éviter l'apocalypse</title>
+    <category>Documentaire</category>
+    <desc>L'agriculture profite de l'apparente abondance en (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">André Paradis</name>
+    </credits>
+    <image />
+  </programme>
+</tv>

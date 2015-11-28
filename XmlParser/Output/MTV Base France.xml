@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+  <channel id="MTV Base France">
+    <display-name>test</display-name>
+  </channel>
+  <programme channel="test" start="20151124060000 +0100" stop="20151124065000 +0100">
+    <length units="minutes">50</length>
+    <title>Beats &amp; Lyrics</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124065000 +0100" stop="20151124065500 +0100">
+    <length units="minutes">5</length>
+    <title>Le Buzz</title>
+    <category>Magazine</category>
+    <desc>Un tour d'horizon de l'actualité musicale et cinématographique, avec chaque semaine une interview et des infos exclusives. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124065500 +0100" stop="20151124105500 +0100">
+    <length units="minutes">240</length>
+    <title>Beats &amp; Lyrics</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124105500 +0100" stop="20151124145500 +0100">
+    <length units="minutes">240</length>
+    <title>Beats &amp; Lyrics</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124145500 +0100" stop="20151124163000 +0100">
+    <length units="minutes">95</length>
+    <title>Beats &amp; Lyrics</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124163000 +0100" stop="20151124180500 +0100">
+    <length units="minutes">95</length>
+    <title>MTV Base News</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124180500 +0100" stop="20151124222000 +0100">
+    <length units="minutes">255</length>
+    <title>Beats &amp; Lyrics</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124222000 +0100" stop="20151125002000 +0100">
+    <length units="minutes">120</length>
+    <title>BET Break</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+</tv>

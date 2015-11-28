@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+  <channel id="La Chaîne Météo">
+    <display-name>test</display-name>
+  </channel>
+  <programme channel="test" start="20151124063000 +0100" stop="20151124063500 +0100">
+    <length units="minutes">5</length>
+    <title>Edition du matin</title>
+    <category />
+    <desc>Au programme : (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124063500 +0100" stop="20151124120000 +0100">
+    <length units="minutes">325</length>
+    <title>Journal</title>
+    <category />
+    <desc>Au programme : (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124120000 +0100" stop="20151124150000 +0100">
+    <length units="minutes">180</length>
+    <title>Journal</title>
+    <category />
+    <desc>Au programme : (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124150000 +0100" stop="20151124180000 +0100">
+    <length units="minutes">180</length>
+    <title>Journal</title>
+    <category />
+    <desc>Au programme : (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124180000 +0100" stop="20151125063000 +0100">
+    <length units="minutes">750</length>
+    <title>Edition du soir</title>
+    <category />
+    <desc>Au programme : (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+</tv>

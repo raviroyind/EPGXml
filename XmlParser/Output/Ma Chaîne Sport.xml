@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+  <channel id="Ma Chaîne Sport">
+    <display-name>test</display-name>
+  </channel>
+  <programme channel="test" start="20151124060000 +0100" stop="20151124063000 +0100">
+    <length units="minutes">30</length>
+    <title>Teleshopping</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124063000 +0100" stop="20151124074500 +0100">
+    <length units="minutes">75</length>
+    <title>La super émission (de foot)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124074500 +0100" stop="20151124111500 +0100">
+    <length units="minutes">210</length>
+    <title>Gymnastique artistique (Championnats du monde 2015)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124111500 +0100" stop="20151124131500 +0100">
+    <length units="minutes">120</length>
+    <title>Basket-ball (Chalon / Strasbourg)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124131500 +0100" stop="20151124140000 +0100">
+    <length units="minutes">45</length>
+    <title>La grande soirée basket</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124140000 +0100" stop="20151124161500 +0100">
+    <length units="minutes">135</length>
+    <title>Basket-ball (Cholet / Gravelines-Dunkerque)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124161500 +0100" stop="20151124183000 +0100">
+    <length units="minutes">135</length>
+    <title>Les yeux dans les Blues</title>
+    <category>Sport</category>
+    <desc>Chelsea / Norwich (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124183000 +0100" stop="20151124204500 +0100">
+    <length units="minutes">135</length>
+    <title>Une saison au Bayern</title>
+    <category>Sport</category>
+    <desc>Schalke 04 / Bayern Munich (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124204500 +0100" stop="20151124224500 +0100">
+    <length units="minutes">120</length>
+    <title>Basket-ball (Duke / Georgetown)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124224500 +0100" stop="20151125010000 +0100">
+    <length units="minutes">135</length>
+    <title>Viva Juve</title>
+    <category>Sport</category>
+    <desc>Juventus Turin / Milan AC (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+</tv>

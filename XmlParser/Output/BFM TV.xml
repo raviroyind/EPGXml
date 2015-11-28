@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+  <channel id="BFM TV">
+    <display-name>test</display-name>
+  </channel>
+  <programme channel="test" start="20151123060000 +0100" stop="20151123083500 +0100">
+    <length units="minutes">155</length>
+    <title>Première édition</title>
+    <category>Journal</category>
+    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire : (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Christophe Delay,</name>
+      <name function="presenter">Pascale de La Tour du Pin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123083500 +0100" stop="20151123090000 +0100">
+    <length units="minutes">25</length>
+    <title>Bourdin direct</title>
+    <category>Magazine</category>
+    <desc>Un face à face percutant avec une personnalité qui fait l'actualité. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jean-Jacques Bourdin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123090000 +0100" stop="20151123120000 +0100">
+    <length units="minutes">180</length>
+    <title>Non Stop</title>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Roselyne Dubois,</name>
+      <name function="presenter">Damien Gourlet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123120000 +0100" stop="20151123150000 +0100">
+    <length units="minutes">180</length>
+    <title>Midi-15h</title>
+    <category>Journal</category>
+    <desc>Le cocktail d'infos de la mi-journée. Au sommaire : (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Ronald Guintrange,</name>
+      <name function="presenter">Karine de Ménonville</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123150000 +0100" stop="20151123180000 +0100">
+    <length units="minutes">180</length>
+    <title>Non Stop</title>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Florence Duprat,</name>
+      <name function="presenter">Gilane Barret</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123180000 +0100" stop="20151123190000 +0100">
+    <length units="minutes">60</length>
+    <title>BFM Story</title>
+    <category>Magazine</category>
+    <desc>Retour sur le fait marquant du jour. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Olivier Truchot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123190000 +0100" stop="20151123200000 +0100">
+    <length units="minutes">60</length>
+    <title>19h Ruth Elkrief</title>
+    <category>Journal</category>
+    <desc>En compagnie d'invités, Ruth Elkrief revient sur l'actualité politique du jour. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Ruth Elkrief</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123200000 +0100" stop="20151123203000 +0100">
+    <length units="minutes">30</length>
+    <title>20h politique</title>
+    <category>Magazine</category>
+    <desc>Alain Marschall revisite et décrypte l'actualité politique du jour. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Alain Marschall</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123203000 +0100" stop="20151123210000 +0100">
+    <length units="minutes">30</length>
+    <title>20h30 Live</title>
+    <category>Journal</category>
+    <desc>En compagnie des spécialistes de la chaîne, Alain Marschall dresse un tour d'horizon de l'actualité du jour. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Alain Marschall</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123210000 +0100" stop="20151123220000 +0100">
+    <length units="minutes">60</length>
+    <title>News et compagnie</title>
+    <category>Magazine</category>
+    <desc>Nathalie Levy accueille un invité pendant une heure. Ensemble, ils se penchent sur son actualité et abordent les infos du... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Nathalie Lévy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123220000 +0100" stop="20151124000000 +0100">
+    <length units="minutes">120</length>
+    <title>Grand angle</title>
+    <category>Magazine</category>
+    <desc>Jean-Baptiste Boursier pilote cette émission de décryptage de l'actualité qui repose sur deux piliers : le reportage et le... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jean-Baptiste Boursier</name>
+    </credits>
+    <image />
+  </programme>
+</tv>

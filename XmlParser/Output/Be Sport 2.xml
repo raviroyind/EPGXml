@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+  <channel id="Be Sport 2">
+    <display-name>test</display-name>
+  </channel>
+  <programme channel="test" start="20151123154000 +0100" stop="20151123181000 +0100">
+    <length units="minutes">150</length>
+    <title>Tennis (Novak Djokovic (Ser) / Rafael Nadal (Esp))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123181000 +0100" stop="20151123204500 +0100">
+    <length units="minutes">155</length>
+    <title>Tennis (Roger Federer (Sui) / Andy Murray (G-B) ou Stanislas Wawrinka (Sui))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123204500 +0100" stop="20151123230000 +0100">
+    <length units="minutes">135</length>
+    <title>Tennis (Novak Djokovic (Ser) / Roger Federer (Sui))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151123230000 +0100" stop="20151124155500 +0100">
+    <length units="minutes">1015</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+</tv>

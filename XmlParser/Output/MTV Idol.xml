@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+  <channel id="MTV Idol">
+    <display-name>test</display-name>
+  </channel>
+  <programme channel="test" start="20151124060000 +0100" stop="20151124063000 +0100">
+    <length units="minutes">30</length>
+    <title>Morning Pop</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124063000 +0100" stop="20151124071000 +0100">
+    <length units="minutes">40</length>
+    <title>Le buzz</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124071000 +0100" stop="20151124085000 +0100">
+    <length units="minutes">100</length>
+    <title>Top actu pop France</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124085000 +0100" stop="20151124123500 +0100">
+    <length units="minutes">225</length>
+    <title>Les 50 meilleurs</title>
+    <category>Clips</category>
+    <desc>Clips latino (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124123500 +0100" stop="20151124141500 +0100">
+    <length units="minutes">100</length>
+    <title>Top actu pop rock</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124141500 +0100" stop="20151124180000 +0100">
+    <length units="minutes">225</length>
+    <title>Hits Idol</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124180000 +0100" stop="20151124194000 +0100">
+    <length units="minutes">100</length>
+    <title>Le top MTV Idol</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151124194000 +0100" stop="20151125000000 +0100">
+    <length units="minutes">260</length>
+    <title>Hits Idol</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+</tv>
