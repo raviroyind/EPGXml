@@ -3,180 +3,1462 @@
   <channel id="Chérie 25">
     <display-name>test</display-name>
   </channel>
-  <programme channel="test" start="20151124060000 +0100" stop="20151124090000 +0100">
+  <programme channel="test" start="20151205004500 +0100" stop="20151205014500 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule revisitée de «C'est mon choix». Mêlant à la fois témoignage et divertissement, le but de l'émission est... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205014500 +0100" stop="20151205060000 +0100">
+    <length units="minutes">255</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205060000 +0100" stop="20151205090000 +0100">
     <length units="minutes">180</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124090000 +0100" stop="20151124094500 +0100">
-    <length units="minutes">45</length>
-    <title>Sans tabou</title>
-    <category>Documentaire</category>
-    <desc>Le portrait d'hommes et de femmes confrontés à divers accidents de la vie ou à des problématiques particulières, qui témoignent et transmettent... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124094500 +0100" stop="20151124103000 +0100">
-    <length units="minutes">45</length>
-    <title>Sans tabou</title>
-    <category>Documentaire</category>
-    <desc>Le portrait d'hommes et de femmes confrontés à divers accidents de la vie ou à des problématiques particulières, qui témoignent et transmettent... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124103000 +0100" stop="20151124113000 +0100">
-    <length units="minutes">60</length>
-    <title>Sans tabou</title>
-    <category>Documentaire</category>
-    <desc>Le portrait d'hommes et de femmes confrontés à divers accidents de la vie ou à des problématiques particulières, qui témoignent et transmettent... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124113000 +0100" stop="20151124123000 +0100">
-    <length units="minutes">60</length>
-    <title>C'est mon choix</title>
-    <category>Magazine</category>
-    <desc>Evelyne Thomas revient avec une formule revisitée de son émission fétiche : «C'est mon choix». Mêlant à la fois témoignage et divertissement, le... (Lire la suite).(n)</desc>
+  <programme channel="test" start="20151205090000 +0100" stop="20151205095000 +0100">
+    <length units="minutes">50</length>
+    <title>New York 911</title>
+    <category>Série</category>
+    <desc>Ty Davis informe Sully que l'arme qui a servi à abattre son père avait été subtilisée dans la salle des pièces à conviction. Par ailleurs, il lui... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Evelyne Thomas</name>
+      <name function="director">Rosemary Rodriguez</name>
+      <name function="actor">Charles Haid</name>
+      <name function="actor">Cara Buono</name>
+      <name function="actor">Nia Long</name>
+      <name function="actor">Jason Wiles</name>
+      <name function="actor">Skipp Sudduth</name>
+      <name function="actor">Coby Bell</name>
+      <name function="actor">Molly Price</name>
+      <name function="actor">Josh Stewart</name>
+      <name function="writer">Siobhan Byrne O'Connor</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124123000 +0100" stop="20151124133000 +0100">
-    <length units="minutes">60</length>
-    <title>C'est mon choix</title>
-    <category>Magazine</category>
-    <desc>Evelyne Thomas revient avec une formule revisitée de son émission fétiche : «C'est mon choix». Mêlant à la fois témoignage et divertissement, le... (Lire la suite).(n)</desc>
+  <programme channel="test" start="20151205095000 +0100" stop="20151205104000 +0100">
+    <length units="minutes">50</length>
+    <title>New York 911</title>
+    <category>Série</category>
+    <desc>Sasha Monroe tente par tous les moyens à sa disposition de mettre un dealer du nom de Skeeter Matthews hors d'état de nuire. Au cours d'une... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Evelyne Thomas</name>
+      <name function="director">Matt Earl Beesley</name>
+      <name function="actor">Charles Haid</name>
+      <name function="actor">Nia Long</name>
+      <name function="actor">Skipp Sudduth</name>
+      <name function="actor">Coby Bell</name>
+      <name function="actor">Tia Texada</name>
+      <name function="actor">Molly Price</name>
+      <name function="actor">Josh Stewart</name>
+      <name function="actor">Tobias Truvillion</name>
+      <name function="writer">Charles Alfrazier Murray</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124133000 +0100" stop="20151124151500 +0100">
-    <length units="minutes">105</length>
-    <title>Les Cordier, juge et flic</title>
+  <programme channel="test" start="20151205104000 +0100" stop="20151205113500 +0100">
+    <length units="minutes">55</length>
+    <title>New York 911</title>
+    <category>Série</category>
+    <desc>Sullivan sait que le meurtrier de son coéquipier, mort il y a une vingtaine d'années, n'est autre que le capitaine CT Finney. Avec Monroe, il... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Matt Earl Beesley</name>
+      <name function="actor">Charles Haid</name>
+      <name function="actor">Nia Long</name>
+      <name function="actor">Skipp Sudduth</name>
+      <name function="actor">Coby Bell</name>
+      <name function="actor">Tia Texada</name>
+      <name function="actor">Molly Price</name>
+      <name function="actor">Anthony Ruivivar</name>
+      <name function="actor">Josh Stewart</name>
+      <name function="writer">Charles Alfrazier Murray</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205113500 +0100" stop="20151205123000 +0100">
+    <length units="minutes">55</length>
+    <title>New York 911</title>
+    <category>Série</category>
+    <desc>Avec opiniâtreté, Sullivan poursuit son action contre le capitaine Finney. Le sergent Maritza Cruz, de son côté, fait équipe avec l'inspecteur... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Matt Earl Beesley</name>
+      <name function="actor">Charles Haid</name>
+      <name function="actor">Mykelti Williamson</name>
+      <name function="actor">Nia Long</name>
+      <name function="actor">Skipp Sudduth</name>
+      <name function="actor">Coby Bell</name>
+      <name function="actor">Tia Texada</name>
+      <name function="actor">Josh Stewart</name>
+      <name function="actor">Laith Nakli</name>
+      <name function="writer">Charles Alfrazier Murray</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205123000 +0100" stop="20151205132500 +0100">
+    <length units="minutes">55</length>
+    <title>New York 911</title>
+    <category>Série</category>
+    <desc>L'attentat qui s'est produit dans le café est encore dans toutes les mémoires. Alors même que la police a réussi à mettre la main sur les... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Edward Allen Bernero</name>
+      <name function="actor">Cara Buono</name>
+      <name function="actor">Nia Long</name>
+      <name function="actor">Skipp Sudduth</name>
+      <name function="actor">Coby Bell</name>
+      <name function="actor">Tia Texada</name>
+      <name function="actor">Molly Price</name>
+      <name function="actor">Anthony Ruivivar</name>
+      <name function="actor">Josh Stewart</name>
+      <name function="writer">Charles Holland</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205132500 +0100" stop="20151205142000 +0100">
+    <length units="minutes">55</length>
+    <title>New York 911</title>
+    <category>Série</category>
+    <desc>Le lieutenant Swersky dirige une descente de police pour arrêter l'assassin d'un policier de Philadelphie. Pendant ce temps, Brendan reçoit un... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Stephen Cragg</name>
+      <name function="actor">Cara Buono</name>
+      <name function="actor">Joe Lisi</name>
+      <name function="actor">Coby Bell</name>
+      <name function="actor">Tia Texada</name>
+      <name function="actor">Molly Price</name>
+      <name function="actor">Anthony Ruivivar</name>
+      <name function="actor">Josh Stewart</name>
+      <name function="actor">Zach Savage</name>
+      <name function="writer">Simon Mirren</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205142000 +0100" stop="20151205153000 +0100">
+    <length units="minutes">70</length>
+    <title>Sous les jupons de l'histoire</title>
+    <category>Magazine</category>
+    <desc>Christine Bravo retrace l'ultime journée de la vie de Marie-Antoinette, dernière reine de France. Depuis sa cellule de la Conciergerie de Paris... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Christine Bravo</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205153000 +0100" stop="20151205163500 +0100">
+    <length units="minutes">65</length>
+    <title>Sous les jupons de l'histoire</title>
+    <category>Magazine</category>
+    <desc>Depuis le Château de Châteaubriant, Christine Bravo raconte l'histoire du premier amour de François Ier, une femme célèbre pour sa beauté. Du... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Christine Bravo</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205163500 +0100" stop="20151205174500 +0100">
+    <length units="minutes">70</length>
+    <title>Sous les jupons de l'histoire</title>
+    <category>Magazine</category>
+    <desc>Depuis le Château de Versailles, Christine Bravo dresse le portrait de la plus flamboyante des maîtresses de Louis XIV. De la chambre du roi aux... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Christine Bravo</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205174500 +0100" stop="20151205190000 +0100">
+    <length units="minutes">75</length>
+    <title>Sous les jupons de l'histoire</title>
+    <category>Magazine</category>
+    <desc>Depuis le château de Maintenon, Christine Bravo soulève les jupons de l'histoire de celle qui fut le dernier amour de Louis XIV. Gouvernante des... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Christine Bravo</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205190000 +0100" stop="20151205205500 +0100">
+    <length units="minutes">115</length>
+    <title>Diane, femme flic</title>
     <category>Téléfilm</category>
-    <desc>Le commissaire Cordier se réjouit du prochain mariage de son collègue Lambert avec la ravissante Aline. Un peu vite sans doute, car l'homme est... (Lire la suite).(n)</desc>
+    <desc>Eugénie, 16 ans, finit de se faire ausculter par un gynécologue. Sa mère, Noëlle Derval, la rejoint, bouleversée. Elle vient d'apprendre... (Lire la suite).</desc>
     <credits>
-      <name function="director">Gilles Béhat</name>
-      <name function="actor">Pierre Mondy</name>
-      <name function="actor">Bruno Madinier</name>
-      <name function="actor">Antonella Lualdi</name>
-      <name function="actor">Charlotte Valandrey</name>
-      <name function="actor">Martine Sarcey</name>
-      <name function="actor">Gérard Lartigau</name>
-      <name function="actor">Aïssa Maïga</name>
-      <name function="actor">Lucien Jean-Baptiste</name>
+      <name function="director">Marc Angelo</name>
+      <name function="actor">Isabel Otero</name>
+      <name function="actor">Laurent Gamelon</name>
+      <name function="actor">Arnaud Arbessier</name>
+      <name function="actor">Joël Zaffarano</name>
+      <name function="actor">Audrey Fleurot</name>
+      <name function="actor">Emilie de Pressac</name>
+      <name function="actor">Vanessa Guedj</name>
+      <name function="actor">Karine Lazard</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124151500 +0100" stop="20151124170000 +0100">
-    <length units="minutes">105</length>
-    <title>Les Cordier, juge et flic</title>
+  <programme channel="test" start="20151205205500 +0100" stop="20151205225000 +0100">
+    <length units="minutes">115</length>
+    <title>Pour le meilleur et pour le pire</title>
     <category>Téléfilm</category>
-    <desc>Marek Rozinski, un repris de justice, est accusé avec son fils, Fred, d'avoir assassiné Denise et Charles Pereire, leurs employeurs. Au comble du... (Lire la suite).(n)</desc>
+    <desc>Kay, mariée depuis plusieurs années à... (Lire la suite).(c)</desc>
     <credits>
-      <name function="director">Gilles Béhat</name>
-      <name function="actor">Pierre Mondy</name>
-      <name function="actor">Bruno Madinier</name>
-      <name function="actor">Antonella Lualdi</name>
-      <name function="actor">Charlotte Valandrey</name>
-      <name function="actor">Yves Lambrecht</name>
-      <name function="actor">Isabelle Roelandt</name>
-      <name function="actor">Xavier Roge</name>
-      <name function="actor">Jean-Pierre Malo</name>
+      <name function="director">Clive Donner</name>
+      <name function="actor">Jennifer Beals</name>
+      <name function="actor">Kate Nelligan</name>
+      <name function="actor">Manfred Lehmann</name>
+      <name function="actor">Madeleine Robinson</name>
+      <name function="actor">Werner Stocker</name>
+      <name function="actor">Geraint Wyn Davies</name>
+      <name function="actor">Gertrud Prey</name>
+      <name function="actor">Hans Irle</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124170000 +0100" stop="20151124180000 +0100">
+  <programme channel="test" start="20151205225000 +0100" stop="20151206004000 +0100">
+    <length units="minutes">110</length>
+    <title>La clinique du docteur H</title>
+    <category>Téléfilm</category>
+    <desc>Le docteur Edgar Highley a d'étranges... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Rob W King</name>
+      <name function="actor">Dennis Akayama</name>
+      <name function="actor">Alan C Peterson</name>
+      <name function="actor">Philippe Brenninkmeyer</name>
+      <name function="actor">John Ralston</name>
+      <name function="actor">Stephen Spender</name>
+      <name function="actor">Carol Higgins Clark</name>
+      <name function="actor">Angie Everhart</name>
+      <name function="actor">William B Davis</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206004000 +0100" stop="20151206021500 +0100">
+    <length units="minutes">95</length>
+    <title>Ce soir, je veillerai sur toi</title>
+    <category>Téléfilm</category>
+    <desc>Sterling Brooks, un cadre dynamique, mais... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">David Winning</name>
+      <name function="actor">Greg Evigan</name>
+      <name function="actor">Udo Kier</name>
+      <name function="actor">Eli Gabay</name>
+      <name function="actor">Sean Campbell</name>
+      <name function="actor">Landy Cannon</name>
+      <name function="actor">Cameron Bancroft</name>
+      <name function="actor">Erika Eleniak</name>
+      <name function="actor">Nickol Tschenscher</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206021500 +0100" stop="20151206060000 +0100">
+    <length units="minutes">225</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206060000 +0100" stop="20151206080000 +0100">
+    <length units="minutes">120</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206080000 +0100" stop="20151206081000 +0100">
+    <length units="minutes">10</length>
+    <title>Destins de sportives</title>
+    <category>Documentaire</category>
+    <desc>Ski nautique : Manon Costard (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206081000 +0100" stop="20151206091000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
-    <desc>Evelyne Thomas revient avec une formule revisitée de son émission fétiche : «C'est mon choix». Mêlant à la fois témoignage et divertissement, le... (Lire la suite).(n)</desc>
+    <desc>Evelyne Thomas revient avec une formule revisitée de «C'est mon choix». Mêlant à la fois témoignage et divertissement, le but de l'émission est... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Evelyne Thomas</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124180000 +0100" stop="20151124190500 +0100">
+  <programme channel="test" start="20151206091000 +0100" stop="20151206101500 +0100">
     <length units="minutes">65</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
-    <desc>Evelyne Thomas revient avec une formule revisitée de son émission fétiche : «C'est mon choix». Mêlant à la fois témoignage et divertissement, le... (Lire la suite).(n)</desc>
+    <desc>Evelyne Thomas revient avec une formule revisitée de «C'est mon choix». Mêlant à la fois témoignage et divertissement, le but de l'émission est... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Evelyne Thomas</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124190500 +0100" stop="20151124200000 +0100">
-    <length units="minutes">55</length>
-    <title>Pour l'amour du risque</title>
-    <category>Série</category>
-    <desc>L'acquisition par Jennifer d'une pièce de monnaie datant de la Renaissance met la vie des Hart en danger. En effet, deux hommes bien déterminés à... (Lire la suite).(n)</desc>
+  <programme channel="test" start="20151206101500 +0100" stop="20151206112000 +0100">
+    <length units="minutes">65</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule revisitée de «C'est mon choix». Mêlant à la fois témoignage et divertissement, le but de l'émission est... (Lire la suite).</desc>
     <credits>
-      <name function="director">Karen Arthur</name>
-      <name function="actor">Scott Hylands</name>
-      <name function="actor">Richard Bradford</name>
-      <name function="actor">Robert Wagner</name>
-      <name function="actor">Stefanie Powers</name>
-      <name function="actor">Eduard Franz</name>
-      <name function="actor">Lionel Stander</name>
-      <name function="actor">Patricia Davis</name>
-      <name function="actor">Anthony Costello</name>
-      <name function="writer">Catherine Bacos</name>
+      <name function="presenter">Evelyne Thomas</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124200000 +0100" stop="20151124205500 +0100">
+  <programme channel="test" start="20151206112000 +0100" stop="20151206122500 +0100">
+    <length units="minutes">65</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule revisitée de «C'est mon choix». Mêlant à la fois témoignage et divertissement, le but de l'émission est... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206122500 +0100" stop="20151206133500 +0100">
+    <length units="minutes">70</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule revisitée de «C'est mon choix». Mêlant à la fois témoignage et divertissement, le but de l'émission est... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206133500 +0100" stop="20151206152000 +0100">
+    <length units="minutes">105</length>
+    <title>Pleure pas ma belle</title>
+    <category>Téléfilm</category>
+    <desc>Leila, une actrice brillante, est en plein... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Michel Andrieu</name>
+      <name function="actor">Stéphane Audran</name>
+      <name function="actor">Shelley Winters</name>
+      <name function="actor">Robin Renucci</name>
+      <name function="actor">Daniel J Travanti</name>
+      <name function="actor">Francesca Annis</name>
+      <name function="actor">Cécile Paoli</name>
+      <name function="actor">George Touliatos</name>
+      <name function="actor">Kristin Scott Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206152000 +0100" stop="20151206171000 +0100">
+    <length units="minutes">110</length>
+    <title>Ce soir, je veillerai sur toi</title>
+    <category>Téléfilm</category>
+    <desc>Sterling Brooks, un cadre dynamique, mais... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">David Winning</name>
+      <name function="actor">Greg Evigan</name>
+      <name function="actor">Udo Kier</name>
+      <name function="actor">Eli Gabay</name>
+      <name function="actor">Sean Campbell</name>
+      <name function="actor">Landy Cannon</name>
+      <name function="actor">Cameron Bancroft</name>
+      <name function="actor">Erika Eleniak</name>
+      <name function="actor">Nickol Tschenscher</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206171000 +0100" stop="20151206190000 +0100">
+    <length units="minutes">110</length>
+    <title>Diane, femme flic</title>
+    <category>Téléfilm</category>
+    <desc>Eugénie, 16 ans, finit de se faire ausculter par un gynécologue. Sa mère, Noëlle Derval, la rejoint, bouleversée. Elle vient d'apprendre... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Marc Angelo</name>
+      <name function="actor">Isabel Otero</name>
+      <name function="actor">Laurent Gamelon</name>
+      <name function="actor">Arnaud Arbessier</name>
+      <name function="actor">Joël Zaffarano</name>
+      <name function="actor">Audrey Fleurot</name>
+      <name function="actor">Emilie de Pressac</name>
+      <name function="actor">Vanessa Guedj</name>
+      <name function="actor">Karine Lazard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206190000 +0100" stop="20151206205500 +0100">
+    <length units="minutes">115</length>
+    <title>Diane, femme flic</title>
+    <category>Téléfilm</category>
+    <desc>La police découvre le cadavre de Jérémy Dangin, tué par balle. Jérémy Dangin, un déménageur qui gagnait très bien sa vie, semblait prêt à quitter... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Marc Angelo</name>
+      <name function="actor">Isabel Otero</name>
+      <name function="actor">Laurent Gamelon</name>
+      <name function="actor">Silvie Laguna</name>
+      <name function="actor">Vanessa Guedj</name>
+      <name function="actor">Joël Zaffarano</name>
+      <name function="actor">Hassan Koubba</name>
+      <name function="actor">Audrey Cauillaud</name>
+      <name function="actor">Caroline Bernard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206205500 +0100" stop="20151206215500 +0100">
+    <length units="minutes">60</length>
+    <title>Diane, femme flic</title>
+    <category>Série</category>
+    <desc>Juge pour mineurs, Alain Chanet a été assassiné dans son jardin de deux coups de couteau pendant que ses enfants dormaient dans la maison. Diane... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Dominique Tabuteau</name>
+      <name function="actor">Isabel Otero</name>
+      <name function="actor">Laurent Gamelon</name>
+      <name function="actor">Joël Zaffarano</name>
+      <name function="actor">Jeffrey Barbeau</name>
+      <name function="actor">Audrey Caillaud</name>
+      <name function="actor">Jean-Roch Pirot</name>
+      <name function="actor">Hassan Koubba</name>
+      <name function="actor">Stana Roumillac</name>
+      <name function="writer">Marie Guilmineau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206215500 +0100" stop="20151206230500 +0100">
+    <length units="minutes">70</length>
+    <title>Diane, femme flic</title>
+    <category>Série</category>
+    <desc>Diane poursuit son enquête sur plusieurs fronts, notamment la piste d'un jugement rendu par Chanet concernant Djamel, un adolescent de la cité... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Dominique Tabuteau</name>
+      <name function="actor">Isabel Otero</name>
+      <name function="actor">Laurent Gamelon</name>
+      <name function="actor">Joël Zaffarano</name>
+      <name function="actor">Jeffrey Barbeau</name>
+      <name function="actor">Audrey Caillaud</name>
+      <name function="actor">Hassan Koubba</name>
+      <name function="actor">Stana Roumillac</name>
+      <name function="actor">Tella Kpomahou</name>
+      <name function="writer">Marie Guilmineau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206230500 +0100" stop="20151207004500 +0100">
+    <length units="minutes">100</length>
+    <title>Diane, femme flic</title>
+    <category>Téléfilm</category>
+    <desc>Une nuit, un pavillon résidentiel est attaqué par de mystérieux assaillants. Les habitants, un couple avec un enfant, sont surpris dans leur... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jean-Marc Seban</name>
+      <name function="actor">Isabel Otero</name>
+      <name function="actor">Laurent Gamelon</name>
+      <name function="actor">Vanessa Guedj</name>
+      <name function="actor">Alexis Michalik</name>
+      <name function="actor">Joël Zaffarano</name>
+      <name function="actor">Brigitte Charamande</name>
+      <name function="actor">Hassan Koubba</name>
+      <name function="actor">Patrick Hamel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207004500 +0100" stop="20151207021500 +0100">
+    <length units="minutes">90</length>
+    <title>Diane, femme flic</title>
+    <category>Téléfilm</category>
+    <desc>La police découvre le cadavre de Jérémy... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Marc Angelo</name>
+      <name function="actor">Isabel Otero</name>
+      <name function="actor">Laurent Gamelon</name>
+      <name function="actor">Silvie Laguna</name>
+      <name function="actor">Vanessa Guedj</name>
+      <name function="actor">Joël Zaffarano</name>
+      <name function="actor">Hassan Koubba</name>
+      <name function="actor">Audrey Cauillaud</name>
+      <name function="actor">Caroline Bernard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207021500 +0100" stop="20151207060000 +0100">
+    <length units="minutes">225</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207060000 +0100" stop="20151207090000 +0100">
+    <length units="minutes">180</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207090000 +0100" stop="20151207094500 +0100">
+    <length units="minutes">45</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207094500 +0100" stop="20151207103000 +0100">
+    <length units="minutes">45</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207103000 +0100" stop="20151207113000 +0100">
+    <length units="minutes">60</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207113000 +0100" stop="20151207123000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207123000 +0100" stop="20151207133000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207133000 +0100" stop="20151207151500 +0100">
+    <length units="minutes">105</length>
+    <title>Les Cordier, juge et flic</title>
+    <category>Téléfilm</category>
+    <desc>Une riche famille d'industriels, les Neubourg, (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jean-Marc Seban</name>
+      <name function="actor">Pierre Mondy</name>
+      <name function="actor">Bruno Madinier</name>
+      <name function="actor">Jean-Marie Winling</name>
+      <name function="actor">François Siener</name>
+      <name function="actor">Philippe Nahon</name>
+      <name function="actor">Pierre-Arnaud Juin</name>
+      <name function="actor">Boris Terral</name>
+      <name function="actor">Lucie Jeanne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207151500 +0100" stop="20151207170000 +0100">
+    <length units="minutes">105</length>
+    <title>Les Cordier, juge et flic</title>
+    <category>Téléfilm</category>
+    <desc>Savignard, qui a été condamné à une lourde... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Michaël Perrotta</name>
+      <name function="actor">Pierre Mondy</name>
+      <name function="actor">Bruno Madinier</name>
+      <name function="actor">Antonella Lualdi</name>
+      <name function="actor">Charlotte Valandrey</name>
+      <name function="actor">Luc Thuillier</name>
+      <name function="actor">Pierre-François Pistorio</name>
+      <name function="actor">Nathalie Cerda</name>
+      <name function="actor">Adam Douieb</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207170000 +0100" stop="20151207180000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207180000 +0100" stop="20151207190500 +0100">
+    <length units="minutes">65</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207190500 +0100" stop="20151207200000 +0100">
     <length units="minutes">55</length>
     <title>Pour l'amour du risque</title>
     <category>Série</category>
-    <desc>Ron Camp et Marty Willis mettent au point un stratagème pour gagner beaucoup d'argent. Marty décide de simuler un accident avec une voiture de... (Lire la suite).(n)</desc>
+    <desc>Le roi Rashid est en visite aux Etats-Unis.... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Gabrielle Beaumont</name>
+      <name function="actor">Stefanie Powers</name>
+      <name function="actor">George Innes</name>
+      <name function="actor">Robert Wagner</name>
+      <name function="actor">Lionel Stander</name>
+      <name function="actor">Trisha Noble</name>
+      <name function="writer">Duane Poole</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207200000 +0100" stop="20151207205500 +0100">
+    <length units="minutes">55</length>
+    <title>Pour l'amour du risque</title>
+    <category>Série</category>
+    <desc>Jennifer se rend dans un club de remise en... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Peter Medak</name>
+      <name function="actor">Robert Wagner</name>
+      <name function="actor">Stefanie Powers</name>
+      <name function="actor">Peter Donat</name>
+      <name function="actor">Lionel Stander</name>
+      <name function="actor">Carole Cook</name>
+      <name function="actor">Karen Leigh Hopkins</name>
+      <name function="writer">Sharon Boorstin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207205500 +0100" stop="20151207223500 +0100">
+    <length units="minutes">100</length>
+    <title>Fantôme avec chauffeur (?)</title>
+    <category>Film</category>
+    <desc>Philippe Bruneau-Tessier, un brillant chef... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Gérard Oury</name>
+      <name function="actor">Daniel Gélin</name>
+      <name function="actor">Philippe Noiret</name>
+      <name function="actor">Charlotte Kady</name>
+      <name function="actor">Daniel Russo</name>
+      <name function="actor">Sophie Desmarets</name>
+      <name function="actor">Béatrice Agenin</name>
+      <name function="actor">Jean-Luc Bideau</name>
+      <name function="actor">Gérard Jugnot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207223500 +0100" stop="20151208002000 +0100">
+    <length units="minutes">105</length>
+    <title>Alexandre le Bienheureux (?)</title>
+    <category>Film</category>
+    <desc>Alexandre a épousé La Grande, la plus jolie... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Yves Robert</name>
+      <name function="actor">Pierre Richard</name>
+      <name function="actor">Jean Carmet</name>
+      <name function="actor">Françoise Brion</name>
+      <name function="actor">Marlène Jobert</name>
+      <name function="actor">Tsilla Chelton</name>
+      <name function="actor">Paul Le Person</name>
+      <name function="actor">Léonce Corne</name>
+      <name function="actor">Philippe Noiret</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208002000 +0100" stop="20151208004500 +0100">
+    <length units="minutes">25</length>
+    <title>J'ai dit oui pour la robe Atlanta</title>
+    <category>Documentaire</category>
+    <desc>Jessie n'arrive pas à trouver un terrain... (Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208004500 +0100" stop="20151208011000 +0100">
+    <length units="minutes">25</length>
+    <title>J'ai dit oui pour la robe Atlanta</title>
+    <category>Documentaire</category>
+    <desc>Deux mariées sont extrêmement anxieuses dans... (Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208011000 +0100" stop="20151208013500 +0100">
+    <length units="minutes">25</length>
+    <title>J'ai dit oui pour la robe Atlanta</title>
+    <category>Documentaire</category>
+    <desc>Deux mariées, au lourd passé, sont toutes... (Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208013500 +0100" stop="20151208060000 +0100">
+    <length units="minutes">265</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208060000 +0100" stop="20151208090000 +0100">
+    <length units="minutes">180</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208090000 +0100" stop="20151208094500 +0100">
+    <length units="minutes">45</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208094500 +0100" stop="20151208103000 +0100">
+    <length units="minutes">45</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208103000 +0100" stop="20151208113000 +0100">
+    <length units="minutes">60</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208113000 +0100" stop="20151208123000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208123000 +0100" stop="20151208133000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208133000 +0100" stop="20151208151500 +0100">
+    <length units="minutes">105</length>
+    <title>Les Cordier, juge et flic</title>
+    <category>Téléfilm</category>
+    <desc>Le commissaire Pierre Cordier s'apprête à... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Gilles Béhat</name>
+      <name function="actor">Pierre Mondy</name>
+      <name function="actor">Bruno Madinier</name>
+      <name function="actor">Antonella Lualdi</name>
+      <name function="actor">Paul Barge</name>
+      <name function="actor">Marc Duret</name>
+      <name function="actor">Matthieu Rozé</name>
+      <name function="actor">Stéphanie Vicat</name>
+      <name function="actor">Laura Quintyn</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208151500 +0100" stop="20151208170000 +0100">
+    <length units="minutes">105</length>
+    <title>Les Cordier, juge et flic</title>
+    <category>Téléfilm</category>
+    <desc>Luc Millas, un professeur qui travaille dans... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jean-Marc Seban</name>
+      <name function="actor">Pierre Mondy</name>
+      <name function="actor">Bruno Madinier</name>
+      <name function="actor">Christian Brendel</name>
+      <name function="actor">Jean-Baptiste Marcenac</name>
+      <name function="actor">Manuela Servais</name>
+      <name function="actor">Stéphanie Vicat</name>
+      <name function="actor">Nabil El Bouhairi</name>
+      <name function="actor">Rachid Djaïdani</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208170000 +0100" stop="20151208180000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208180000 +0100" stop="20151208190500 +0100">
+    <length units="minutes">65</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208190500 +0100" stop="20151208200000 +0100">
+    <length units="minutes">55</length>
+    <title>Pour l'amour du risque</title>
+    <category>Série</category>
+    <desc>Jennifer se rend dans un club de remise en... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Peter Medak</name>
+      <name function="actor">Robert Wagner</name>
+      <name function="actor">Stefanie Powers</name>
+      <name function="actor">Peter Donat</name>
+      <name function="actor">Lionel Stander</name>
+      <name function="actor">Carole Cook</name>
+      <name function="actor">Karen Leigh Hopkins</name>
+      <name function="writer">Sharon Boorstin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208200000 +0100" stop="20151208205500 +0100">
+    <length units="minutes">55</length>
+    <title>Pour l'amour du risque</title>
+    <category>Série</category>
+    <desc>Max organise une petite fête pour Jennifer,... (Lire la suite).</desc>
     <credits>
       <name function="director">Gabrielle Beaumont</name>
       <name function="actor">Stefanie Powers</name>
       <name function="actor">Lionel Stander</name>
-      <name function="actor">Lawrence Pressman</name>
-      <name function="actor">Sandy Ward</name>
-      <name function="actor">Mark Withers</name>
-      <name function="actor">Charlie Brill</name>
+      <name function="actor">Jesse White</name>
+      <name function="actor">Dana Kimmell</name>
+      <name function="actor">Ken Michelman</name>
+      <name function="actor">Steven Hirsch</name>
+      <name function="actor">John Reilly</name>
       <name function="actor">Robert Wagner</name>
-      <name function="writer">Donna Pekkonen</name>
+      <name function="writer">Rowby Goren</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124205500 +0100" stop="20151124225500 +0100">
-    <length units="minutes">120</length>
-    <title>Quelque chose à te dire (?)</title>
+  <programme channel="test" start="20151208205500 +0100" stop="20151208231500 +0100">
+    <length units="minutes">140</length>
+    <title>La jurée (?)</title>
     <category>Film</category>
-    <desc>Mady, une bourgeoise austère et hautaine, n'a de cesse de souligner les échecs de ses enfants. Henry, son époux, patron à la retraite, tente... (Lire la suite).(n)</desc>
+    <desc>Annie Laird met autant de rigueur et de... (Lire la suite).(r)</desc>
     <credits>
-      <name function="director">Cécile Telerman</name>
-      <name function="actor">Patrick Chesnais</name>
-      <name function="actor">Marina Tomé</name>
-      <name function="actor">Mathilde Seigner</name>
-      <name function="actor">Gwendoline Hamon</name>
-      <name function="actor">Olivier Marchal</name>
-      <name function="actor">Charlotte Rampling</name>
-      <name function="actor">Sophie Cattani</name>
-      <name function="actor">Pascal Elbé</name>
+      <name function="director">Brian Gibson</name>
+      <name function="actor">Alec Baldwin</name>
+      <name function="actor">Lindsay Crouse</name>
+      <name function="actor">Michael Constantine</name>
+      <name function="actor">Demi Moore</name>
+      <name function="actor">James Gandolfini</name>
+      <name function="actor">Joseph Gordon-Levitt</name>
+      <name function="actor">Anne Heche</name>
+      <name function="actor">Tony Lo Bianco</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124225500 +0100" stop="20151125004000 +0100">
-    <length units="minutes">105</length>
-    <title>Le pigeon</title>
-    <category>Téléfilm</category>
-    <desc>Aussi naïf que sympathique, Jean-Claude Jourdain est à la tête d'une petite PME de produits laitiers sur le déclin. Mais un jour, par un coup du... (Lire la suite).(n)</desc>
+  <programme channel="test" start="20151208231500 +0100" stop="20151209012000 +0100">
+    <length units="minutes">125</length>
+    <title>Road House (?)</title>
+    <category>Film</category>
+    <desc>Diplômé en philosophie et en arts martiaux,... (Lire la suite).(r)</desc>
     <credits>
-      <name function="director">Lorenzo Gabriele</name>
-      <name function="actor">Thierry Lhermitte</name>
-      <name function="actor">Jean-Michel Noirey</name>
-      <name function="actor">Claire Keim</name>
-      <name function="actor">Camille Japy</name>
-      <name function="actor">Christiane Bopp</name>
-      <name function="actor">Mathias Mlekuz</name>
-      <name function="actor">François Morel</name>
-      <name function="actor">Lucie Lucas</name>
+      <name function="director">Rowdy Herrington</name>
+      <name function="actor">Ben Gazzara</name>
+      <name function="actor">Keith David</name>
+      <name function="actor">Patrick Swayze</name>
+      <name function="actor">Sam Elliott</name>
+      <name function="actor">Kelly Lynch</name>
+      <name function="actor">Marshall Teague</name>
+      <name function="actor">Red West</name>
+      <name function="actor">Julie Michaels</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209012000 +0100" stop="20151209014500 +0100">
+    <length units="minutes">25</length>
+    <title>J'ai dit oui pour la robe Atlanta</title>
+    <category>Documentaire</category>
+    <desc>Des drames familiaux éclatent dans la... (Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209014500 +0100" stop="20151209021000 +0100">
+    <length units="minutes">25</length>
+    <title>J'ai dit oui pour la robe Atlanta</title>
+    <category>Documentaire</category>
+    <desc>Une mariée de la classe supérieure du sud... (Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209021000 +0100" stop="20151209060000 +0100">
+    <length units="minutes">230</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209060000 +0100" stop="20151209090000 +0100">
+    <length units="minutes">180</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209090000 +0100" stop="20151209094500 +0100">
+    <length units="minutes">45</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209094500 +0100" stop="20151209103000 +0100">
+    <length units="minutes">45</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209103000 +0100" stop="20151209113000 +0100">
+    <length units="minutes">60</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209113000 +0100" stop="20151209123000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209123000 +0100" stop="20151209133000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209133000 +0100" stop="20151209151500 +0100">
+    <length units="minutes">105</length>
+    <title>Les Cordier, juge et flic</title>
+    <category>Téléfilm</category>
+    <desc>Les Cordier n'auront pas à exercer leurs... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jean-Marc Seban</name>
+      <name function="actor">Pierre Mondy</name>
+      <name function="actor">Bruno Madinier</name>
+      <name function="actor">Corinne Dacla</name>
+      <name function="actor">Pierre-Arnaud Juin</name>
+      <name function="actor">Stéphanie Pasterkamp</name>
+      <name function="actor">Manuela Servais</name>
+      <name function="actor">Pierre-Augustin Crenn</name>
+      <name function="actor">Estelle Caumartin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209151500 +0100" stop="20151209170000 +0100">
+    <length units="minutes">105</length>
+    <title>Les Cordier, juge et flic</title>
+    <category>Téléfilm</category>
+    <desc>Les Cordier passent un week-end tranquille... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Eric Summer</name>
+      <name function="actor">Pierre Mondy</name>
+      <name function="actor">Bruno Madinier</name>
+      <name function="actor">Antonella Lualdi</name>
+      <name function="actor">Philippe Magnan</name>
+      <name function="actor">Dany Brillant</name>
+      <name function="actor">Pierre-Arnaud Juin</name>
+      <name function="actor">Julien Chatelet</name>
+      <name function="actor">Laura Quintyn</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209170000 +0100" stop="20151209180000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209180000 +0100" stop="20151209190500 +0100">
+    <length units="minutes">65</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209190500 +0100" stop="20151209200000 +0100">
+    <length units="minutes">55</length>
+    <title>Pour l'amour du risque</title>
+    <category>Série</category>
+    <desc>Max organise une petite fête pour Jennifer,... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Gabrielle Beaumont</name>
+      <name function="actor">Stefanie Powers</name>
+      <name function="actor">Lionel Stander</name>
+      <name function="actor">Jesse White</name>
+      <name function="actor">Dana Kimmell</name>
+      <name function="actor">Ken Michelman</name>
+      <name function="actor">Steven Hirsch</name>
+      <name function="actor">John Reilly</name>
+      <name function="actor">Robert Wagner</name>
+      <name function="writer">Rowby Goren</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209200000 +0100" stop="20151209205500 +0100">
+    <length units="minutes">55</length>
+    <title>Pour l'amour du risque</title>
+    <category>Série</category>
+    <desc>Jennifer et Jonathan se félicitent de leur... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Sidney Sheldon</name>
+      <name function="actor">Robert Wagner</name>
+      <name function="actor">David McCallum</name>
+      <name function="actor">Kenneth Tigar</name>
+      <name function="actor">Stefanie Powers</name>
+      <name function="actor">Ian Bannen</name>
+      <name function="actor">Tippi Hedren</name>
+      <name function="actor">Lionel Stander</name>
+      <name function="actor">Philip Morris</name>
+      <name function="writer">Donald Ross</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209205500 +0100" stop="20151209225000 +0100">
+    <length units="minutes">115</length>
+    <title>Maldonne</title>
+    <category>Téléfilm</category>
+    <desc>Sandrine Petit, la quarantaine, élève seule... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Patrice Martineau</name>
+      <name function="actor">Corinne Touzet</name>
+      <name function="actor">Lysiane Meis</name>
+      <name function="actor">Jauris Casanova</name>
+      <name function="actor">Maaike Jansen</name>
+      <name function="actor">Patrick Catalifo</name>
+      <name function="actor">Ibtissem Guerda</name>
+      <name function="actor">Alice Bromberg</name>
+      <name function="actor">Karina Marimon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209225000 +0100" stop="20151210003500 +0100">
+    <length units="minutes">105</length>
+    <title>Y'a pas d'âge pour s'aimer</title>
+    <category>Téléfilm</category>
+    <desc>Christine et Roland, la cinquantaine bien... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Thierry Chabert</name>
+      <name function="actor">Roger Van Hool</name>
+      <name function="actor">Bernard Yerlès</name>
+      <name function="actor">Nade Dieu</name>
+      <name function="actor">Bernard Le Coq</name>
+      <name function="actor">Charlotte de Turckheim</name>
+      <name function="actor">Fanny Duret</name>
+      <name function="actor">Catherine Risack</name>
+      <name function="actor">Lesly Bunton</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210003500 +0100" stop="20151210013500 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210013500 +0100" stop="20151210023500 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210023500 +0100" stop="20151210060000 +0100">
+    <length units="minutes">205</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210060000 +0100" stop="20151210090000 +0100">
+    <length units="minutes">180</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210090000 +0100" stop="20151210094500 +0100">
+    <length units="minutes">45</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210094500 +0100" stop="20151210103000 +0100">
+    <length units="minutes">45</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210103000 +0100" stop="20151210113000 +0100">
+    <length units="minutes">60</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210113000 +0100" stop="20151210123000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210123000 +0100" stop="20151210133000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210133000 +0100" stop="20151210151500 +0100">
+    <length units="minutes">105</length>
+    <title>Les Cordier, juge et flic</title>
+    <category>Téléfilm</category>
+    <desc>Luc Mailly, un employé de banque apparemment... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Bertrand Van Effenterre</name>
+      <name function="actor">Pierre Mondy</name>
+      <name function="actor">Bruno Madinier</name>
+      <name function="actor">Antonella Lualdi</name>
+      <name function="actor">Charlotte Valandrey</name>
+      <name function="actor">Caroline Baehr</name>
+      <name function="actor">Julien Chatelet</name>
+      <name function="actor">Stéphanie Vicat</name>
+      <name function="actor">Laura Quintyn</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210151500 +0100" stop="20151210170000 +0100">
+    <length units="minutes">105</length>
+    <title>Les Cordier, juge et flic</title>
+    <category>Téléfilm</category>
+    <desc>Christine Fontanges, une femme despotique,... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Christiane Lehérissey</name>
+      <name function="actor">Pierre Mondy</name>
+      <name function="actor">Bruno Madinier</name>
+      <name function="actor">Charlotte Valandrey</name>
+      <name function="actor">Patrick Raynal</name>
+      <name function="actor">Suzanne Legrand</name>
+      <name function="actor">Anthony Decadi</name>
+      <name function="actor">Stéphanie Vicat</name>
+      <name function="actor">Estelle Caumartin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210170000 +0100" stop="20151210180000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210180000 +0100" stop="20151210190500 +0100">
+    <length units="minutes">65</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210190500 +0100" stop="20151210200000 +0100">
+    <length units="minutes">55</length>
+    <title>Pour l'amour du risque</title>
+    <category>Série</category>
+    <desc>Jennifer et Jonathan se félicitent de leur... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Sidney Sheldon</name>
+      <name function="actor">Robert Wagner</name>
+      <name function="actor">David McCallum</name>
+      <name function="actor">Kenneth Tigar</name>
+      <name function="actor">Stefanie Powers</name>
+      <name function="actor">Ian Bannen</name>
+      <name function="actor">Tippi Hedren</name>
+      <name function="actor">Lionel Stander</name>
+      <name function="actor">Philip Morris</name>
+      <name function="writer">Donald Ross</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210200000 +0100" stop="20151210205500 +0100">
+    <length units="minutes">55</length>
+    <title>Pour l'amour du risque</title>
+    <category>Série</category>
+    <desc>Le week-end «évasion» de Jennifer et Jonathan... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Bruce Kessler</name>
+      <name function="actor">Robert Wagner</name>
+      <name function="actor">Stefanie Powers</name>
+      <name function="actor">Lionel Stander</name>
+      <name function="actor">Andrew Robinson</name>
+      <name function="actor">Peter Hobbs</name>
+      <name function="actor">Gary Lockwood</name>
+      <name function="writer">Lawrence Hertzog</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210205500 +0100" stop="20151210224500 +0100">
+    <length units="minutes">110</length>
+    <title>Scoop (?)</title>
+    <category>Film</category>
+    <desc>Joe Strombel, célèbre journaliste britannique, (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Woody Allen</name>
+      <name function="actor">Charles Dance</name>
+      <name function="actor">Ian McShane</name>
+      <name function="actor">Scarlett Johansson</name>
+      <name function="actor">Hugh Jackman</name>
+      <name function="actor">Romola Garai</name>
+      <name function="actor">Fenella Woolgar</name>
+      <name function="actor">Julian Glover</name>
+      <name function="actor">Woody Allen</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210224500 +0100" stop="20151211010000 +0100">
+    <length units="minutes">135</length>
+    <title>Match Point (?)</title>
+    <category>Film</category>
+    <desc>Jeune professeur de tennis issu d'un milieu... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Woody Allen</name>
+      <name function="actor">Rupert Penry-Jones</name>
+      <name function="actor">Penelope Wilton</name>
+      <name function="actor">Scarlett Johansson</name>
+      <name function="actor">Emily Mortimer</name>
+      <name function="actor">Miranda Raison</name>
+      <name function="actor">Jonathan Rhys Meyers</name>
+      <name function="actor">Matthew Goode</name>
+      <name function="actor">Brian Cox</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211010000 +0100" stop="20151211012500 +0100">
+    <length units="minutes">25</length>
+    <title>J'ai dit oui pour la robe Atlanta</title>
+    <category>Documentaire</category>
+    <desc>Le bonheur d'une mariée est gâché quand elle... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211012500 +0100" stop="20151211015000 +0100">
+    <length units="minutes">25</length>
+    <title>J'ai dit oui pour la robe Atlanta</title>
+    <category>Documentaire</category>
+    <desc>Une mariée confond essayage de robe et séance... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211015000 +0100" stop="20151211021500 +0100">
+    <length units="minutes">25</length>
+    <title>J'ai dit oui pour la robe Atlanta</title>
+    <category>Documentaire</category>
+    <desc>Jessie n'arrive pas à trouver un terrain... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211021500 +0100" stop="20151211060000 +0100">
+    <length units="minutes">225</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211060000 +0100" stop="20151211090000 +0100">
+    <length units="minutes">180</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211090000 +0100" stop="20151211094500 +0100">
+    <length units="minutes">45</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211094500 +0100" stop="20151211103000 +0100">
+    <length units="minutes">45</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211103000 +0100" stop="20151211113000 +0100">
+    <length units="minutes">60</length>
+    <title>Sans tabou</title>
+    <category>Documentaire</category>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211113000 +0100" stop="20151211123000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211123000 +0100" stop="20151211133000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211133000 +0100" stop="20151211151500 +0100">
+    <length units="minutes">105</length>
+    <title>Les Cordier, juge et flic</title>
+    <category>Téléfilm</category>
+    <desc>Isabelle Klein, psychologue dans un centre de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Alain Wermus</name>
+      <name function="actor">Pierre Mondy</name>
+      <name function="actor">Bruno Madinier</name>
+      <name function="actor">Antonella Lualdi</name>
+      <name function="actor">Charlotte Valandrey</name>
+      <name function="actor">Thomas Jouannet</name>
+      <name function="actor">Dominique Guillo</name>
+      <name function="actor">Julien Chatelet</name>
+      <name function="actor">Manuela Servais</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211151500 +0100" stop="20151211170000 +0100">
+    <length units="minutes">105</length>
+    <title>Les Cordier, juge et flic</title>
+    <category>Téléfilm</category>
+    <desc>Une riche famille d'industriels, les Neubourg, (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jean-Marc Seban</name>
+      <name function="actor">Pierre Mondy</name>
+      <name function="actor">Bruno Madinier</name>
+      <name function="actor">Jean-Marie Winling</name>
+      <name function="actor">François Siener</name>
+      <name function="actor">Philippe Nahon</name>
+      <name function="actor">Pierre-Arnaud Juin</name>
+      <name function="actor">Boris Terral</name>
+      <name function="actor">Lucie Jeanne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211170000 +0100" stop="20151211180000 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211180000 +0100" stop="20151211190500 +0100">
+    <length units="minutes">65</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211190500 +0100" stop="20151211200000 +0100">
+    <length units="minutes">55</length>
+    <title>Pour l'amour du risque</title>
+    <category>Série</category>
+    <desc>Le week-end «évasion» de Jennifer et Jonathan... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Bruce Kessler</name>
+      <name function="actor">Robert Wagner</name>
+      <name function="actor">Stefanie Powers</name>
+      <name function="actor">Lionel Stander</name>
+      <name function="actor">Andrew Robinson</name>
+      <name function="actor">Peter Hobbs</name>
+      <name function="actor">Gary Lockwood</name>
+      <name function="writer">Lawrence Hertzog</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211200000 +0100" stop="20151211205500 +0100">
+    <length units="minutes">55</length>
+    <title>Pour l'amour du risque</title>
+    <category>Série</category>
+    <desc>Jennifer et Jonathan quittent le Mexique, où... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Harry Winer</name>
+      <name function="actor">Robert Wagner</name>
+      <name function="actor">Carlos Romero</name>
+      <name function="actor">Stefanie Powers</name>
+      <name function="actor">Lionel Stander</name>
+      <name function="actor">Edward Winter</name>
+      <name function="actor">Edith Atwater</name>
+      <name function="actor">Peter White</name>
+      <name function="actor">Shelley Smith</name>
+      <name function="writer">Donald Ross</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211205500 +0100" stop="20151211224500 +0100">
+    <length units="minutes">110</length>
+    <title>Sherlock Holmes</title>
+    <category>Téléfilm</category>
+    <desc>Londres, en 1900. Lorsque Sherlock Holmes... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Desmond Davis</name>
+      <name function="actor">Cherie Lunghi</name>
+      <name function="actor">Ian Richardson</name>
+      <name function="actor">Thorley Walters</name>
+      <name function="actor">Clive Merrison</name>
+      <name function="actor">David Healy</name>
+      <name function="actor">Joe Melia</name>
+      <name function="actor">Terence Rigby</name>
+      <name function="actor">Richard Heffer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211224500 +0100" stop="20151211234500 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211234500 +0100" stop="20151212004500 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
     </credits>
     <image />
   </programme>

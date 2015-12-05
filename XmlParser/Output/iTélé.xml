@@ -3,7 +3,739 @@
   <channel id="iTélé">
     <display-name>test</display-name>
   </channel>
-  <programme channel="test" start="20151124070000 +0100" stop="20151124100000 +0100">
+  <programme channel="test" start="20151205003000 +0100" stop="20151205070000 +0100">
+    <length units="minutes">390</length>
+    <title>L'édition de la nuit</title>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205070000 +0100" stop="20151205100000 +0100">
+    <length units="minutes">180</length>
+    <title>La matinale week-end</title>
+    <category>Magazine</category>
+    <desc>L'essentiel de l'actualité avec des reportages, des analyses politiques, les résultats sportifs et la météo. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Claude Askolovitch,</name>
+      <name function="presenter">Frédéric Plisson,</name>
+      <name function="presenter">Florent Peiffer,</name>
+      <name function="presenter">Eléonore Boccara,</name>
+      <name function="presenter">Alice Rougerie</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205100000 +0100" stop="20151205101500 +0100">
+    <length units="minutes">15</length>
+    <title>La Newsroom week-end</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
+      <name function="presenter">Clément Méric (en alternance)</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205101500 +0100" stop="20151205110000 +0100">
+    <length units="minutes">45</length>
+    <title>CQFD</title>
+    <category>Magazine</category>
+    <desc>Florent Peiffer et ses quatre intervenants proposent de décrypter l'actualité politique : réseaux sociaux, sondages et communication sont... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Florent Peiffer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205110000 +0100" stop="20151205130000 +0100">
+    <length units="minutes">120</length>
+    <title>La Newsroom week-end</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
+      <name function="presenter">Clément Méric (en alternance)</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205130000 +0100" stop="20151205140000 +0100">
+    <length units="minutes">60</length>
+    <title>13h Foot</title>
+    <category>Magazine</category>
+    <desc>Le rendez-vous foot de la mi-journée. A travers des analyses et des reportages, Pascal Praud et Julien Pasquet présentent les enjeux des... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Pascal Praud,</name>
+      <name function="presenter">Julien Pasquet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205140000 +0100" stop="20151205180000 +0100">
+    <length units="minutes">240</length>
+    <title>La Newsroom week-end</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
+      <name function="presenter">Clément Méric (en alternance)</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205180000 +0100" stop="20151205200000 +0100">
+    <length units="minutes">120</length>
+    <title>Intégrale week-end</title>
+    <category>Magazine</category>
+    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Antoine Genton,</name>
+      <name function="presenter">Aurélie Casse</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205200000 +0100" stop="20151205220000 +0100">
+    <length units="minutes">120</length>
+    <title>Intégrale week-end</title>
+    <category>Magazine</category>
+    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Antoine Genton,</name>
+      <name function="presenter">Aurélie Casse</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205220000 +0100" stop="20151206000000 +0100">
+    <length units="minutes">120</length>
+    <title>Intégrale week-end</title>
+    <category>Magazine</category>
+    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Antoine Genton,</name>
+      <name function="presenter">Aurélie Casse</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206000000 +0100" stop="20151206070000 +0100">
+    <length units="minutes">420</length>
+    <title>L'édition de la nuit</title>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206070000 +0100" stop="20151206100000 +0100">
+    <length units="minutes">180</length>
+    <title>La matinale week-end</title>
+    <category>Magazine</category>
+    <desc>L'essentiel de l'actualité avec des reportages, des analyses politiques, les résultats sportifs et la météo. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Claude Askolovitch,</name>
+      <name function="presenter">Frédéric Plisson,</name>
+      <name function="presenter">Florent Peiffer,</name>
+      <name function="presenter">Eléonore Boccara,</name>
+      <name function="presenter">Alice Rougerie</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206100000 +0100" stop="20151206100500 +0100">
+    <length units="minutes">5</length>
+    <title>La Newsroom week-end</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
+      <name function="presenter">Clément Méric (en alternance)</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206100500 +0100" stop="20151206110000 +0100">
+    <length units="minutes">55</length>
+    <title>Le grand rendez-vous</title>
+    <category>Magazine</category>
+    <desc>Le Monde, Europe 1 et i&gt;TELE s'associent pour couvrir l'actualité. Chaque dimanche, un acteur du monde économique, politique ou intellectuel... &lt;a ref="nofollow" href="javascript:;" onclick="setCurrentTraTvDiffusion('132007233'); document.location='/tele/programmes-tv/le-grand-rendez-vous,99219345.php';"&gt;(Lire la suite)&lt;/a&gt; &lt;/p&gt;.</desc>
+    <credits>
+      <name function="presenter">Jean-Pierre Elkabbach,</name>
+      <name function="presenter">Arnaud Leparmentier,</name>
+      <name function="presenter">Michaël Darmon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206110000 +0100" stop="20151206110500 +0100">
+    <length units="minutes">5</length>
+    <title>La Newsroom week-end</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
+      <name function="presenter">Clément Méric (en alternance)</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206110500 +0100" stop="20151206120000 +0100">
+    <length units="minutes">55</length>
+    <title>D'un monde à l'autre</title>
+    <category>Magazine</category>
+    <desc>Des correspondants de la presse étrangère basés en France commentent, analysent et décryptent l'actualité française de la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Florent Peiffer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206120000 +0100" stop="20151206124500 +0100">
+    <length units="minutes">45</length>
+    <title>La Newsroom week-end</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
+      <name function="presenter">Clément Méric (en alternance)</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206124500 +0100" stop="20151206130000 +0100">
+    <length units="minutes">15</length>
+    <title>L'hebdo de l'éco</title>
+    <category>Magazine</category>
+    <desc>Economistes ou chefs d'entreprises viennent débattre des grands thèmes de la semaine et analyser les mouvements de... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Jérôme Libeskind</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206130000 +0100" stop="20151206140000 +0100">
+    <length units="minutes">60</length>
+    <title>13h Foot</title>
+    <category>Magazine</category>
+    <desc>Le rendez-vous foot de la mi-journée. A travers des analyses et des reportages, Pascal Praud et Julien Pasquet présentent les enjeux des... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Pascal Praud,</name>
+      <name function="presenter">Julien Pasquet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206140000 +0100" stop="20151206170500 +0100">
+    <length units="minutes">185</length>
+    <title>La Newsroom week-end</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
+      <name function="presenter">Clément Méric (en alternance)</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206170500 +0100" stop="20151206180000 +0100">
+    <length units="minutes">55</length>
+    <title>Le grand rendez-vous</title>
+    <category>Magazine</category>
+    <desc>Le Monde, Europe 1 et i&gt;TELE s'associent pour couvrir l'actualité. Chaque dimanche, un acteur du monde économique, politique ou intellectuel... &lt;a ref="nofollow" href="javascript:;" onclick="setCurrentTraTvDiffusion('132007240'); document.location='/tele/programmes-tv/le-grand-rendez-vous,99219352.php';"&gt;(Lire la suite)&lt;/a&gt; &lt;/p&gt;.</desc>
+    <credits>
+      <name function="presenter">Jean-Pierre Elkabbach,</name>
+      <name function="presenter">Arnaud Leparmentier,</name>
+      <name function="presenter">Michaël Darmon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206180000 +0100" stop="20151206200000 +0100">
+    <length units="minutes">120</length>
+    <title>Elections régionales 2015</title>
+    <category />
+    <desc>Analyse du taux de participation à ce premier tour des élections régionales, décryptage avec des invités et des experts des premières estimations... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Audrey Pulvar</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206200000 +0100" stop="20151206220000 +0100">
+    <length units="minutes">120</length>
+    <title>Elections régionales 2015</title>
+    <category />
+    <desc>Analyse du taux de participation à ce premier tour des élections régionales, décryptage avec des invités et des experts des premières estimations... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Laurence Ferrari,</name>
+      <name function="presenter">Bruce Toussaint</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206220000 +0100" stop="20151206230000 +0100">
+    <length units="minutes">60</length>
+    <title>Elections régionales 2015</title>
+    <category />
+    <desc>Analyse du taux de participation à ce premier tour des élections régionales, décryptage avec des invités et des experts des premières estimations... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Olivier Galzi,</name>
+      <name function="presenter">Soizic Boisard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206230000 +0100" stop="20151207010000 +0100">
+    <length units="minutes">120</length>
+    <title>Elections régionales 2015</title>
+    <category />
+    <desc>Analyse du taux de participation à ce premier tour des élections régionales, décryptage avec des invités et des experts des premières estimations... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Olivier Galzi,</name>
+      <name function="presenter">Soizic Boisard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207010000 +0100" stop="20151207050000 +0100">
+    <length units="minutes">240</length>
+    <title>L'édition de la nuit</title>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207050000 +0100" stop="20151207070000 +0100">
+    <length units="minutes">120</length>
+    <title>Dès 5h, Laurent Bazin</title>
+    <category>Magazine</category>
+    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit.... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurent Bazin,</name>
+      <name function="presenter">Isabelle Moreau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207070000 +0100" stop="20151207100000 +0100">
+    <length units="minutes">180</length>
+    <title>Team Toussaint, la matinale info</title>
+    <category>Magazine</category>
+    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité :... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Christophe Barbier,</name>
+      <name function="presenter">Stefan Etcheverry,</name>
+      <name function="presenter">Bruce Toussaint,</name>
+      <name function="presenter">Marie Colmant,</name>
+      <name function="presenter">Claire Fournier,</name>
+      <name function="presenter">Alice Darfeuille,</name>
+      <name function="presenter">Thierry Fréret</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207100000 +0100" stop="20151207130000 +0100">
+    <length units="minutes">180</length>
+    <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Sonia Chironi,</name>
+      <name function="presenter">Adrien Borne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207130000 +0100" stop="20151207180000 +0100">
+    <length units="minutes">300</length>
+    <title>La Newsroom</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Caroline Delage,</name>
+      <name function="presenter">Romain Desarbres</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207180000 +0100" stop="20151207193000 +0100">
+    <length units="minutes">90</length>
+    <title>Tirs croisés Ferrari</title>
+    <category>Magazine</category>
+    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurence Ferrari,</name>
+      <name function="presenter">Romain Desarbres</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207193000 +0100" stop="20151207203000 +0100">
+    <length units="minutes">60</length>
+    <title>20h Foot</title>
+    <category>Magazine</category>
+    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Pascal Praud,</name>
+      <name function="presenter">François Pinet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207203000 +0100" stop="20151207210000 +0100">
+    <length units="minutes">30</length>
+    <title>Le grand JT d'Audrey Pulvar</title>
+    <category>Journal</category>
+    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Audrey Pulvar</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207210000 +0100" stop="20151207220000 +0100">
+    <length units="minutes">60</length>
+    <title>On ne va pas se mentir</title>
+    <category>Magazine</category>
+    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Audrey Pulvar</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207220000 +0100" stop="20151208003000 +0100">
+    <length units="minutes">150</length>
+    <title>Galzi jusqu'à minuit</title>
+    <category>Magazine</category>
+    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Olivier Galzi,</name>
+      <name function="presenter">Soizic Boisard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208003000 +0100" stop="20151208050000 +0100">
+    <length units="minutes">270</length>
+    <title>L'édition de la nuit</title>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208050000 +0100" stop="20151208070000 +0100">
+    <length units="minutes">120</length>
+    <title>Dès 5h, Laurent Bazin</title>
+    <category>Magazine</category>
+    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit.... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurent Bazin,</name>
+      <name function="presenter">Isabelle Moreau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208070000 +0100" stop="20151208100000 +0100">
+    <length units="minutes">180</length>
+    <title>Team Toussaint, la matinale info</title>
+    <category>Magazine</category>
+    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité :... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Christophe Barbier,</name>
+      <name function="presenter">Stefan Etcheverry,</name>
+      <name function="presenter">Bruce Toussaint,</name>
+      <name function="presenter">Marie Colmant,</name>
+      <name function="presenter">Claire Fournier,</name>
+      <name function="presenter">Alice Darfeuille,</name>
+      <name function="presenter">Thierry Fréret</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208100000 +0100" stop="20151208130000 +0100">
+    <length units="minutes">180</length>
+    <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Sonia Chironi,</name>
+      <name function="presenter">Adrien Borne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208130000 +0100" stop="20151208180000 +0100">
+    <length units="minutes">300</length>
+    <title>La Newsroom</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Caroline Delage,</name>
+      <name function="presenter">Romain Desarbres</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208180000 +0100" stop="20151208193000 +0100">
+    <length units="minutes">90</length>
+    <title>Tirs croisés Ferrari</title>
+    <category>Magazine</category>
+    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurence Ferrari,</name>
+      <name function="presenter">Romain Desarbres</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208193000 +0100" stop="20151208203000 +0100">
+    <length units="minutes">60</length>
+    <title>20h Foot</title>
+    <category>Magazine</category>
+    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Pascal Praud,</name>
+      <name function="presenter">François Pinet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208203000 +0100" stop="20151208210000 +0100">
+    <length units="minutes">30</length>
+    <title>Le grand JT d'Audrey Pulvar</title>
+    <category>Journal</category>
+    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Audrey Pulvar</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208210000 +0100" stop="20151208220000 +0100">
+    <length units="minutes">60</length>
+    <title>On ne va pas se mentir</title>
+    <category>Magazine</category>
+    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Audrey Pulvar</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208220000 +0100" stop="20151209003000 +0100">
+    <length units="minutes">150</length>
+    <title>Galzi jusqu'à minuit</title>
+    <category>Magazine</category>
+    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Olivier Galzi,</name>
+      <name function="presenter">Soizic Boisard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209003000 +0100" stop="20151209050000 +0100">
+    <length units="minutes">270</length>
+    <title>L'édition de la nuit</title>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209050000 +0100" stop="20151209070000 +0100">
+    <length units="minutes">120</length>
+    <title>Dès 5h, Laurent Bazin</title>
+    <category>Magazine</category>
+    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit.... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurent Bazin,</name>
+      <name function="presenter">Isabelle Moreau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209070000 +0100" stop="20151209100000 +0100">
+    <length units="minutes">180</length>
+    <title>Team Toussaint, la matinale info</title>
+    <category>Magazine</category>
+    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité :... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Christophe Barbier,</name>
+      <name function="presenter">Stefan Etcheverry,</name>
+      <name function="presenter">Bruce Toussaint,</name>
+      <name function="presenter">Marie Colmant,</name>
+      <name function="presenter">Claire Fournier,</name>
+      <name function="presenter">Alice Darfeuille,</name>
+      <name function="presenter">Thierry Fréret</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209100000 +0100" stop="20151209130000 +0100">
+    <length units="minutes">180</length>
+    <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Sonia Chironi,</name>
+      <name function="presenter">Adrien Borne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209130000 +0100" stop="20151209180000 +0100">
+    <length units="minutes">300</length>
+    <title>La Newsroom</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Caroline Delage,</name>
+      <name function="presenter">Romain Desarbres</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209180000 +0100" stop="20151209193000 +0100">
+    <length units="minutes">90</length>
+    <title>Tirs croisés Ferrari</title>
+    <category>Magazine</category>
+    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurence Ferrari,</name>
+      <name function="presenter">Romain Desarbres</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209193000 +0100" stop="20151209203000 +0100">
+    <length units="minutes">60</length>
+    <title>20h Foot</title>
+    <category>Magazine</category>
+    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Pascal Praud,</name>
+      <name function="presenter">François Pinet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209203000 +0100" stop="20151209210000 +0100">
+    <length units="minutes">30</length>
+    <title>Le grand JT d'Audrey Pulvar</title>
+    <category>Journal</category>
+    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Audrey Pulvar</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209210000 +0100" stop="20151209220000 +0100">
+    <length units="minutes">60</length>
+    <title>On ne va pas se mentir</title>
+    <category>Magazine</category>
+    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Audrey Pulvar</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209220000 +0100" stop="20151210003000 +0100">
+    <length units="minutes">150</length>
+    <title>Galzi jusqu'à minuit</title>
+    <category>Magazine</category>
+    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Olivier Galzi,</name>
+      <name function="presenter">Soizic Boisard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210003000 +0100" stop="20151210050000 +0100">
+    <length units="minutes">270</length>
+    <title>L'édition de la nuit</title>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210050000 +0100" stop="20151210070000 +0100">
+    <length units="minutes">120</length>
+    <title>Dès 5h, Laurent Bazin</title>
+    <category>Magazine</category>
+    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit.... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurent Bazin,</name>
+      <name function="presenter">Isabelle Moreau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210070000 +0100" stop="20151210100000 +0100">
+    <length units="minutes">180</length>
+    <title>Team Toussaint, la matinale info</title>
+    <category>Magazine</category>
+    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité :... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Christophe Barbier,</name>
+      <name function="presenter">Stefan Etcheverry,</name>
+      <name function="presenter">Bruce Toussaint,</name>
+      <name function="presenter">Marie Colmant,</name>
+      <name function="presenter">Claire Fournier,</name>
+      <name function="presenter">Alice Darfeuille,</name>
+      <name function="presenter">Thierry Fréret</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210100000 +0100" stop="20151210130000 +0100">
+    <length units="minutes">180</length>
+    <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Sonia Chironi,</name>
+      <name function="presenter">Adrien Borne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210130000 +0100" stop="20151210180000 +0100">
+    <length units="minutes">300</length>
+    <title>La Newsroom</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Caroline Delage,</name>
+      <name function="presenter">Romain Desarbres</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210180000 +0100" stop="20151210193000 +0100">
+    <length units="minutes">90</length>
+    <title>Tirs croisés Ferrari</title>
+    <category>Magazine</category>
+    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurence Ferrari,</name>
+      <name function="presenter">Romain Desarbres</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210193000 +0100" stop="20151210203000 +0100">
+    <length units="minutes">60</length>
+    <title>20h Foot</title>
+    <category>Magazine</category>
+    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Pascal Praud,</name>
+      <name function="presenter">François Pinet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210203000 +0100" stop="20151210210000 +0100">
+    <length units="minutes">30</length>
+    <title>Le grand JT d'Audrey Pulvar</title>
+    <category>Journal</category>
+    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Audrey Pulvar</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210210000 +0100" stop="20151210220000 +0100">
+    <length units="minutes">60</length>
+    <title>On ne va pas se mentir</title>
+    <category>Magazine</category>
+    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Audrey Pulvar</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210220000 +0100" stop="20151211003000 +0100">
+    <length units="minutes">150</length>
+    <title>Galzi jusqu'à minuit</title>
+    <category>Magazine</category>
+    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Olivier Galzi,</name>
+      <name function="presenter">Soizic Boisard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211003000 +0100" stop="20151211050000 +0100">
+    <length units="minutes">270</length>
+    <title>L'édition de la nuit</title>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211050000 +0100" stop="20151211070000 +0100">
+    <length units="minutes">120</length>
+    <title>Dès 5h, Laurent Bazin</title>
+    <category>Magazine</category>
+    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit.... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Laurent Bazin,</name>
+      <name function="presenter">Isabelle Moreau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211070000 +0100" stop="20151211100000 +0100">
     <length units="minutes">180</length>
     <title>Team Toussaint, la matinale info</title>
     <category>Magazine</category>
@@ -19,7 +751,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124100000 +0100" stop="20151124130000 +0100">
+  <programme channel="test" start="20151211100000 +0100" stop="20151211130000 +0100">
     <length units="minutes">180</length>
     <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
     <category>Magazine</category>
@@ -30,7 +762,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124130000 +0100" stop="20151124180000 +0100">
+  <programme channel="test" start="20151211130000 +0100" stop="20151211180000 +0100">
     <length units="minutes">300</length>
     <title>La Newsroom</title>
     <category>Magazine</category>
@@ -41,18 +773,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124180000 +0100" stop="20151124193000 +0100">
+  <programme channel="test" start="20151211180000 +0100" stop="20151211193000 +0100">
     <length units="minutes">90</length>
-    <title>Tirs croisés Ferrari</title>
+    <title>Intégrale week-end</title>
     <category>Magazine</category>
-    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une... (Lire la suite).(n)</desc>
+    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Laurence Ferrari,</name>
-      <name function="presenter">Romain Desarbres</name>
+      <name function="presenter">Antoine Genton,</name>
+      <name function="presenter">Aurélie Casse</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124193000 +0100" stop="20151124203000 +0100">
+  <programme channel="test" start="20151211193000 +0100" stop="20151211203000 +0100">
     <length units="minutes">60</length>
     <title>20h Foot</title>
     <category>Magazine</category>
@@ -63,34 +795,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124203000 +0100" stop="20151124210000 +0100">
+  <programme channel="test" start="20151211203000 +0100" stop="20151211210000 +0100">
     <length units="minutes">30</length>
-    <title>Le grand JT d'Audrey Pulvar</title>
+    <title>Le grand JT</title>
     <category>Journal</category>
-    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Audrey Pulvar</name>
-    </credits>
+    <desc>Le grand journal du soir, qui décrypte et analyse l'actualité autour de nombreux invités. (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124210000 +0100" stop="20151124220000 +0100">
+  <programme channel="test" start="20151211210000 +0100" stop="20151211220000 +0100">
     <length units="minutes">60</length>
-    <title>On ne va pas se mentir</title>
+    <title>CQFD</title>
     <category>Magazine</category>
-    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité. (Lire la suite).(n)</desc>
+    <desc>Florent Peiffer et ses quatre intervenants proposent de décrypter l'actualité politique : réseaux sociaux, sondages et communication sont... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Audrey Pulvar</name>
+      <name function="presenter">Bruno Jeudy,</name>
+      <name function="presenter">Céline Bracq,</name>
+      <name function="presenter">Régis Lefebvre,</name>
+      <name function="presenter">Florent Peiffer,</name>
+      <name function="presenter">Véronique Reille-Soult</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124220000 +0100" stop="20151125003000 +0100">
+  <programme channel="test" start="20151211220000 +0100" stop="20151212003000 +0100">
     <length units="minutes">150</length>
-    <title>Galzi jusqu'à minuit</title>
+    <title>Intégrale week-end</title>
     <category>Magazine</category>
-    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde... (Lire la suite).(n)</desc>
+    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Olivier Galzi,</name>
-      <name function="presenter">Soizic Boisard</name>
+      <name function="presenter">Antoine Genton,</name>
+      <name function="presenter">Aurélie Casse</name>
     </credits>
     <image />
   </programme>

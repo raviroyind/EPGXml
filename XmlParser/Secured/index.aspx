@@ -151,25 +151,7 @@
                                                                     <div class="two-columns">
                                                                         <div class="left-column"></div>
                                                                         <div class="right-column">
-                                                                            <div id="myModal" class="modal fade" role="dialog">
-                                                                                <div class="modal-dialog">
-
-                                                                                    <!-- Modal content-->
-                                                                                    <div class="modal-content">
-                                                                                        <div class="modal-header">
-                                                                                            <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                                                            <h4 class="modal-title">Modal Header</h4>
-                                                                                        </div>
-                                                                                        <div class="modal-body">
-                                                                                            <p>Some text in the modal.</p>
-                                                                                        </div>
-                                                                                        <div class="modal-footer">
-                                                                                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                                                                                        </div>
-                                                                                    </div>
-
-                                                                                </div>
-                                                                            </div>
+                                                                            
                                                                             <asp:ValidationSummary runat="server" ID="ValidationSummary2" DisplayMode="List" ShowSummary="True" ShowMessageBox="False" ValidationGroup="imp" ForeColor="red" />
                                                                             <table class="table table-striped table-bordered table-hover table-condensed table-mptt" style="border-collapse: collapse; width: 60%;">
                                                                                 <tr>
@@ -223,18 +205,26 @@
                                                                                             Text="!" ForeColor="Red" ValidationGroup="add" InitialValue="Select" ControlToValidate="ddlSourceType"></asp:RequiredFieldValidator>
                                                                                     </td>
                                                                                     <td style="width: 80px;">
-                                                                                        <asp:Button ID="btnAdd" runat="server" ValidationGroup="add" CausesValidation="True" CssClass="btn btn-primary" Text="+ Add   " OnClick="btnAdd_OnClick" />
+                                                                                        <asp:LinkButton ID="btnAddLink" runat="server" ValidationGroup="add" CausesValidation="True" CssClass="btn btn-primary" Text="Add" OnClick="btnAdd_OnClick" ><i class="glyphicon glyphicon-plus"></i> <span class="bold">  Add</span></asp:LinkButton>
                                                                                     </td>
                                                                                 </tr>
                                                                             </table>
-
+                                                                             
                                                                             <div style="width: 50%;">
                                                                                 <hr />
-                                                                                <strong><span class="alert-info">Select one or more URLs below & Click on 'Generate Output' to process.</span></strong><div style="float: right;">
-                                                                                    <asp:LinkButton ID="btnGetenerate" runat="server" CausesValidation="True" CssClass="btn btn-info" ValidationGroup="sel"
-                                                                                        Text="Generate Output" OnClientClick="ValidateGrid" OnClick="btnGetenerate_OnClick"></asp:LinkButton>
-                                                                                </div>
+                                                                                <strong><span class="alert-info">Select one or more URLs below & Click on 'Generate Output' to process.</span></strong>
                                                                                 <hr />
+                                                                                <div class="alert" role="alert">
+                                                                                    Important: If "Select Channels" button is red it means no channels are selected<br/> for corressponding source.
+                                                                                    Please click on "Select Channels" button to set the channels.
+                                                                                </div>
+                                                                                <div style="float: right; margin-right: 12px;">
+                                                                                    <asp:LinkButton ID="btnGetenerate" runat="server" CausesValidation="True" CssClass="btn btn-info" ValidationGroup="sel"
+                                                                                        Text="Generate Output" OnClientClick="ValidateGrid" OnClick="btnGetenerate_OnClick">
+                                                                                        <i class="glyphicon glyphicon-cog"></i> <span class="bold">  Generate Xml</span>
+                                                                                    </asp:LinkButton>
+                                                                                </div>
+                                                                                <br/>
                                                                                 <asp:ValidationSummary runat="server" ID="ValidationSummary3" DisplayMode="List" ShowSummary="True" ShowMessageBox="False" ValidationGroup="grid" ForeColor="red" />
                                                                                 <asp:CustomValidator ID="CustomValidator1" ValidationGroup="sel" runat="server" ErrorMessage="Please select at least one record."
                                                                                     ClientValidationFunction="ValidateGrid" ForeColor="Red"></asp:CustomValidator>
@@ -292,16 +282,17 @@
                                                                                         </asp:CommandField>
                                                                                         <asp:TemplateField HeaderText="" ItemStyle-Width="120">
                                                                                             <ItemTemplate>
-                                                                                                <asp:HyperLink runat="server" CssClass="btn btn-default" Width="120" NavigateUrl='<%# Eval("Srno", "ChannelSelection.aspx?id={0}") %>'>Select Channels</asp:HyperLink>
+                                                                                                <asp:HyperLink ID="hypChannel" runat="server" CssClass="btn btn-danger" ToolTip="No channels selected!" Width="120" NavigateUrl='<%# Eval("Srno", "ChannelSelection.aspx?id={0}") %>'>Select Channels</asp:HyperLink>
                                                                                             </ItemTemplate>
                                                                                         </asp:TemplateField>
 
                                                                                     </Columns>
                                                                                 </asp:GridView>
-                                                                                <div style="float: right;">
-                                                                                    <asp:LinkButton ID="lnkClear" runat="server" CausesValidation="False" CssClass="btn btn-success"
-                                                                                        Text="  Reset  " OnClientClick="SelectAllCheckboxes(false);return false;"></asp:LinkButton>
-                                                                                    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
+                                                                                <div style="text-align: center;">
+                                                                                    <asp:LinkButton ID="lnkClear" runat="server" CausesValidation="False" CssClass="btn-lg btn-success"
+                                                                                        Text="  Reset  " OnClientClick="SelectAllCheckboxes(false);return false;">
+                                                                                        <i class="glyphicon glyphicon-refresh"> Reset</i>
+                                                                                    </asp:LinkButton>
                                                                                 </div>
                                                                             </div>
                                                                         </div>

@@ -3,44 +3,1336 @@
   <channel id="NRJ 12">
     <display-name>test</display-name>
   </channel>
-  <programme channel="test" start="20151124063000 +0100" stop="20151124093000 +0100">
-    <length units="minutes">180</length>
-    <title>Télé-achat</title>
+  <programme channel="test" start="20151205003500 +0100" stop="20151205021500 +0100">
+    <length units="minutes">100</length>
+    <title>Mission plus-value</title>
     <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124093000 +0100" stop="20151124102000 +0100">
-    <length units="minutes">50</length>
-    <title>Smallville</title>
-    <category>Série</category>
-    <desc>Lex découvre que son père l'a placé sous surveillance électronique. Il prend d'autant plus mal la chose qu'il s'aperçoit que celui-ci utilise les... (Lire la suite).(n)</desc>
+    <desc>Guy et Marie-Françoise peinent à trouver des acquéreurs pour leur maison d'Alfortville, dont l'occupation de l'espace n'est pas rationnel. A... (Lire la suite).</desc>
     <credits>
-      <name function="director">James Marshall</name>
-      <name function="actor">Patrick Cassidy</name>
-      <name function="actor">Byron Mann</name>
-      <name function="actor">Kevin Gage</name>
-      <name function="actor">Colin Cunningham</name>
-      <name function="actor">Michael Rosenbaum</name>
-      <name function="actor">Tom Welling</name>
-      <name function="actor">Annette O'Toole</name>
-      <name function="actor">John Glover</name>
-      <name function="writer">Jeph Loeb</name>
+      <name function="presenter">Valérie Damidot,</name>
+      <name function="presenter">Philippe Auriel</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124102000 +0100" stop="20151124111000 +0100">
+  <programme channel="test" start="20151205021500 +0100" stop="20151205030500 +0100">
+    <length units="minutes">50</length>
+    <title>Shark Cage</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205030500 +0100" stop="20151205064000 +0100">
+    <length units="minutes">215</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205064000 +0100" stop="20151205100000 +0100">
+    <length units="minutes">200</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205100000 +0100" stop="20151205102500 +0100">
+    <length units="minutes">25</length>
+    <title>Big Bang Theory</title>
+    <category>Série</category>
+    <desc>Penny organise une soirée football avec ses copains, sans inviter Leonard, sous prétexte qu'il n'aime pas ce sport. Leonard la soupçonne de ne... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Mark Cendrowski</name>
+      <name function="actor">Johnny Galecki</name>
+      <name function="actor">Kaley Cuoco</name>
+      <name function="actor">Simon Helberg</name>
+      <name function="actor">Jim Parsons</name>
+      <name function="actor">Kunal Nayyar</name>
+      <name function="actor">Zachary Abel</name>
+      <name function="actor">Jason Mesches</name>
+      <name function="writer">Bill Prady</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205102500 +0100" stop="20151205105000 +0100">
+    <length units="minutes">25</length>
+    <title>Big Bang Theory</title>
+    <category>Série</category>
+    <desc>Bernadette s'intéresse au travail de Howard, son fiancé, ainsi qu'à celui de Leonard. Elle veut même assister au lancement de l'accélérateur... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Mark Cendrowski</name>
+      <name function="actor">Johnny Galecki</name>
+      <name function="actor">Kaley Cuoco</name>
+      <name function="actor">Carol Ann Susi</name>
+      <name function="actor">Simon Helberg</name>
+      <name function="actor">Jim Parsons</name>
+      <name function="actor">Kunal Nayyar</name>
+      <name function="actor">Melissa Rauch</name>
+      <name function="writer">Bill Prady</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205105000 +0100" stop="20151205111500 +0100">
+    <length units="minutes">25</length>
+    <title>Big Bang Theory</title>
+    <category>Série</category>
+    <desc>C'est la période de Noël et Sheldon est excité à l'annonce de la venue de Beverly, la mère de Leonard. Ce dernier découvre que sa maman lui cache... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="actor">Christine Baranski</name>
+      <name function="actor">Johnny Galecki</name>
+      <name function="actor">Kaley Cuoco</name>
+      <name function="actor">Simon Helberg</name>
+      <name function="actor">Jim Parsons</name>
+      <name function="actor">Kunal Nayyar</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205111500 +0100" stop="20151205114000 +0100">
+    <length units="minutes">25</length>
+    <title>Big Bang Theory</title>
+    <category>Série</category>
+    <desc>Alors que Penny et Leonard sont en rendez-vous avec Howard et Bernadette, Penny déclare que sa voyante lui a prédit un bel avenir. Le repas... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Mark Cendrowski</name>
+      <name function="actor">Johnny Galecki</name>
+      <name function="actor">Danica McKellar</name>
+      <name function="actor">Kaley Cuoco</name>
+      <name function="actor">Simon Helberg</name>
+      <name function="actor">Jim Parsons</name>
+      <name function="actor">Jen Drohan</name>
+      <name function="actor">Kunal Nayyar</name>
+      <name function="actor">Melissa Rauch</name>
+      <name function="writer">Chuck Lorre</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205114000 +0100" stop="20151205120500 +0100">
+    <length units="minutes">25</length>
+    <title>Big Bang Theory</title>
+    <category>Série</category>
+    <desc>En rentrant chez eux, Sheldon et Leonard découvrent qu'ils ont été cambriolés. Sheldon, inquiet, demande alors à Howard d'installer un système... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Mark Cendrowski</name>
+      <name function="actor">Johnny Galecki</name>
+      <name function="actor">Julio Oscar Mechoso</name>
+      <name function="actor">Kaley Cuoco</name>
+      <name function="actor">Simon Helberg</name>
+      <name function="actor">Jim Parsons</name>
+      <name function="actor">Kunal Nayyar</name>
+      <name function="actor">Artie O'Daly</name>
+      <name function="writer">Steve Holland</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205120500 +0100" stop="20151205123000 +0100">
+    <length units="minutes">25</length>
+    <title>Big Bang Theory</title>
+    <category>Série</category>
+    <desc>Sheldon commence à souffrir du «blocage des théoriciens» et perd toute notion de physique. Il en devient dépressif et il est prêt à faire... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Mark Cendrowski</name>
+      <name function="actor">Johnny Galecki</name>
+      <name function="actor">Yeardley Smith</name>
+      <name function="actor">Kaley Cuoco</name>
+      <name function="actor">Simon Helberg</name>
+      <name function="actor">Jim Parsons</name>
+      <name function="actor">Kunal Nayyar</name>
+      <name function="actor">Melissa Rauch</name>
+      <name function="actor">Kevin Brief</name>
+      <name function="writer">Steve Holland</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205123000 +0100" stop="20151205125500 +0100">
+    <length units="minutes">25</length>
+    <title>Big Bang Theory</title>
+    <category>Série</category>
+    <desc>Leonard est invité en Suisse pour visiter le grand collisionneur du Cern (l'accélérateur de particules le plus grand du monde). Il peut convier... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Mark Cendrowski</name>
+      <name function="actor">Johnny Galecki</name>
+      <name function="actor">Kaley Cuoco</name>
+      <name function="actor">Simon Helberg</name>
+      <name function="actor">Jim Parsons</name>
+      <name function="actor">Kunal Nayyar</name>
+      <name function="actor">Erin Pickett</name>
+      <name function="writer">Jim Reynolds</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205125500 +0100" stop="20151205132000 +0100">
+    <length units="minutes">25</length>
+    <title>Big Bang Theory</title>
+    <category>Série</category>
+    <desc>Evénement au magasin de comics : Stan Lee vient faire une séance de dédicaces. Les garçons sont surexcités. Mais Sheldon manque cette occasion... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Peter Chakos</name>
+      <name function="actor">Johnny Galecki</name>
+      <name function="actor">Steve Paymer</name>
+      <name function="actor">Kaley Cuoco</name>
+      <name function="actor">Kevin Sussman</name>
+      <name function="actor">Simon Helberg</name>
+      <name function="actor">Stan Lee</name>
+      <name function="actor">Jim Parsons</name>
+      <name function="actor">Kunal Nayyar</name>
+      <name function="writer">Steven Molaro</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205132000 +0100" stop="20151205134500 +0100">
+    <length units="minutes">25</length>
+    <title>Big Bang Theory</title>
+    <category>Série</category>
+    <desc>A l'occasion d'un vide-grenier, les garçons trouvent une bague ayant servi lors du tournage du film «Le Seigneur des anneaux». Ils ne cessent de... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Mark Cendrowski</name>
+      <name function="actor">Johnny Galecki</name>
+      <name function="actor">Kaley Cuoco</name>
+      <name function="actor">Simon Helberg</name>
+      <name function="actor">Jim Parsons</name>
+      <name function="actor">Kunal Nayyar</name>
+      <name function="actor">Frank Maharajh</name>
+      <name function="writer">Bill Prady</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205134500 +0100" stop="20151205141000 +0100">
+    <length units="minutes">25</length>
+    <title>Big Bang Theory</title>
+    <category>Série</category>
+    <desc>Sheldon est sur le point de recevoir une récompense scientifique très convoitée. A cette occasion, il doit faire un discours. Mais Sheldon a très... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Mark Cendrowski</name>
+      <name function="actor">Johnny Galecki</name>
+      <name function="actor">Kaley Cuoco</name>
+      <name function="actor">Simon Helberg</name>
+      <name function="actor">Jim Parsons</name>
+      <name function="actor">Kunal Nayyar</name>
+      <name function="writer">Eric Kaplan</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205141000 +0100" stop="20151205143500 +0100">
+    <length units="minutes">25</length>
+    <title>Big Bang Theory</title>
+    <category>Série</category>
+    <desc>La relation entre Penny et Leonard ne tient plus qu'à un fil. Ces deux-là se disputent avec force parce que, lorsque Leonard a dit à Penny qu'il... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Mark Cendrowski</name>
+      <name function="actor">Johnny Galecki</name>
+      <name function="actor">Kaley Cuoco</name>
+      <name function="actor">Simon Helberg</name>
+      <name function="actor">Jim Parsons</name>
+      <name function="actor">Kunal Nayyar</name>
+      <name function="writer">Bill Prady</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205143500 +0100" stop="20151205150000 +0100">
+    <length units="minutes">25</length>
+    <title>Big Bang Theory</title>
+    <category>Série</category>
+    <desc>Leonard et Penny n'arrivent plus du tout à communiquer. Sheldon fait tout son possible pour arranger la situation entre eux, mais rien n'y... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Anthony Joseph Rich</name>
+      <name function="actor">Johnny Galecki</name>
+      <name function="actor">Kaley Cuoco</name>
+      <name function="actor">Simon Helberg</name>
+      <name function="actor">Jim Parsons</name>
+      <name function="actor">Kunal Nayyar</name>
+      <name function="actor">Jannette Bloom</name>
+      <name function="writer">Chuck Lorre</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205150000 +0100" stop="20151205152500 +0100">
+    <length units="minutes">25</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>A l'approche de la Saint-Valentin, Axl, Sean et Darrin proposent leurs services à des garçons qui veulent rompre avec leur petite amie. Brick est... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Phil Traill</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Beau Wirick</name>
+      <name function="actor">Moises Arias</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">John Gammon</name>
+      <name function="writer">Jana Hunter</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205152500 +0100" stop="20151205155000 +0100">
+    <length units="minutes">25</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Frankie hésite à laisser Brick partir trois jours à Chicago pour un voyage scolaire. Elle finit par accepter, et, comme c'est aussi l'époque de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">John Putch</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Carolyn Hennesy</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Beau Wirick</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">John Gammon</name>
+      <name function="writer">David S Rosenthal</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205155000 +0100" stop="20151205161500 +0100">
+    <length units="minutes">25</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Tandis que Frankie et Mike étaient de sortie, Axl, Sue et Brick n'ont rien trouvé de mieux à faire que de casser une vitre. Au retour de leurs... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Lee Shallat Chemel</name>
+      <name function="actor">Jane Kaczmarek</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Brock Ciarlelli</name>
+      <name function="actor">Blaine Saunders</name>
+      <name function="writer">Michael Saltzman</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205161500 +0100" stop="20151205164000 +0100">
+    <length units="minutes">25</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Janet, la soeur de Frankie, accepte de venir l'aider à tenir la maisonnée, le temps que Frankie termine ses études. Les enfants ne sont pas très... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Alex Hardcastle</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Molly Shannon</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Galadriel Stineman</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Ryan Rottman</name>
+      <name function="writer">Roy Brown</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205164000 +0100" stop="20151205170500 +0100">
+    <length units="minutes">25</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Tandis qu'Axl ne recule devant rien pour reconquérir Cassidy, Mike accepte à contrecoeur d'enseigner le tennis à sa fille. Pendant ce temps,... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Lee Shallat Chemel</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Beau Wirick</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Galadriel Stineman</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Brittany Ross</name>
+      <name function="writer">Tim Hobert</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205170500 +0100" stop="20151205173000 +0100">
+    <length units="minutes">25</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Toujours à la recherche d'un emploi, Frankie envisage de devenir assistante dentaire. Axl ne supporte plus Sue et Darrin, qui se prennent pour... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Phil Traill</name>
+      <name function="actor">Marsha Mason</name>
+      <name function="actor">Jim Beaver</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Jack McBrayer</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="writer">Jana Hunter</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205173000 +0100" stop="20151205175500 +0100">
+    <length units="minutes">25</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>En surfant sur un réseau social, Sue découvre que toutes ses amies de lycée se retrouvent pour passer leurs samedis soirs ensemble et postent des... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Lee Shallat Chemel</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Jerry Van Dyke</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Blaine Saunders</name>
+      <name function="actor">Bailey Buntain</name>
+      <name function="writer">Robin Shorr</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205175500 +0100" stop="20151205182000 +0100">
+    <length units="minutes">25</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>A l'approche de la Fête des mères, Frankie décide de préciser à ses enfants ce qu'elle souhaite exactement recevoir, afin de ne pas être déçue.... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Blake T Evans</name>
+      <name function="actor">Paul Hipp</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Beau Wirick</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">John Gammon</name>
+      <name function="writer">David S Rosenthal</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205182000 +0100" stop="20151205190000 +0100">
+    <length units="minutes">40</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Vêtue de sa blouse d'assistante dentaire, Frankie attend son tour pour payer sa facture d'électricité. Persuadés qu'elle est médecin, les gens la... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Lee Shallat Chemel</name>
+      <name function="actor">Dave Foley</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Sam Lloyd</name>
+      <name function="actor">Jack McBrayer</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="writer">Roy Brown</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205190000 +0100" stop="20151205205500 +0100">
+    <length units="minutes">115</length>
+    <title>Mission plus-value</title>
+    <category>Magazine</category>
+    <desc>En compagnie de Philippe Auriel, Valérie Damidot vient en aide à des propriétaires, afin de les aider à vendre leur bien immobilier au prix... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Valérie Damidot,</name>
+      <name function="presenter">Philippe Auriel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205205500 +0100" stop="20151205224500 +0100">
+    <length units="minutes">110</length>
+    <title>Les Cordier, juge et flic</title>
+    <category>Téléfilm</category>
+    <desc>Le jeune Sébastien, 12 ans, est mort après avoir consommé du fromage contaminé par la listéria, une bactérie redoutable. La société Duprez, qui... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jean-Marc Seban</name>
+      <name function="actor">Pierre Mondy</name>
+      <name function="actor">Bruno Madinier</name>
+      <name function="actor">Antonella Lualdi</name>
+      <name function="actor">Charlotte Valandrey</name>
+      <name function="actor">Jean-Luc Porraz</name>
+      <name function="actor">Alain Sachs</name>
+      <name function="actor">Pierre-Arnaud Juin</name>
+      <name function="actor">Sophie de la Rochefoucauld</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205224500 +0100" stop="20151206004000 +0100">
+    <length units="minutes">115</length>
+    <title>Les Cordier, juge et flic</title>
+    <category>Téléfilm</category>
+    <desc>Un accident de voiture a laissé Lucia Cordier totalement défigurée. Pour pouvoir à nouveau affronter le monde et le regard de ses amis, Lucia... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Christiane Lehérissey</name>
+      <name function="actor">Pierre Mondy</name>
+      <name function="actor">Bruno Madinier</name>
+      <name function="actor">Antonella Lualdi</name>
+      <name function="actor">Charlotte Valandrey</name>
+      <name function="actor">Bruno Wolkowitch</name>
+      <name function="actor">Isabelle Petit-Jacques</name>
+      <name function="actor">Marie Nicolas</name>
+      <name function="actor">Carole Bouvier</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206004000 +0100" stop="20151206022000 +0100">
+    <length units="minutes">100</length>
+    <title>Les Cordier, juge et flic</title>
+    <category>Téléfilm</category>
+    <desc>Le juge et le commissaire Cordier travaillent cette fois main dans la main. Un enfant, laveur de pare-brise, vient de mourir, fauché par une... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Gilles Béhat</name>
+      <name function="actor">Pierre Mondy</name>
+      <name function="actor">Bruno Madinier</name>
+      <name function="actor">Antonella Lualdi</name>
+      <name function="actor">Charlotte Valandrey</name>
+      <name function="actor">Jean-Jacques Moreau</name>
+      <name function="actor">Bernard Haller</name>
+      <name function="actor">Jean-Michel Dupuis</name>
+      <name function="actor">Pierre-Arnaud Juin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206022000 +0100" stop="20151206031000 +0100">
+    <length units="minutes">50</length>
+    <title>Shark Cage</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206031000 +0100" stop="20151206064000 +0100">
+    <length units="minutes">210</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206064000 +0100" stop="20151206095500 +0100">
+    <length units="minutes">195</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206095500 +0100" stop="20151206102000 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Stan Smith ne garde pas un bon souvenir du bal de promo au cours duquel il avait été victime d'une mauvaise blague. Il pense tenir sa revanche... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Rodney Clouden</name>
+      <name function="writer">Alison McDonald</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206102000 +0100" stop="20151206104500 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Stan part pour Atlantic City où il doit assister à une soirée d'enterrement de vie de garçon. Sur place, son soi-disant meilleur ami se moque... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Anthony Lioi</name>
+      <name function="writer">Rick Wiener</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206104500 +0100" stop="20151206111000 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Stan essaie de venir en aide à Steve : pour ce faire, il lui donne des stéroïdes à gober. Le but : le rendre plus grand, plus... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Caleb Meurer</name>
+      <name function="writer">Nahnatchka Khan</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206111000 +0100" stop="20151206113500 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Steve ne se montre pas vraiment intéressé par le job exercé par Stan. Ni une ni deux : celui-ci le remplace par le patibulaire... (Lire la suite).</desc>
+    <credits>
+      <name function="director">John Aoshima</name>
+      <name function="writer">Erik Durbin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206113500 +0100" stop="20151206120000 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>L'anniversaire de Francine fait remonter de drôles de souvenirs à la surface. Il y est question de George Clooney et de vengeance comme un plat... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Brent Woods</name>
+      <name function="writer">Matt McKenna</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206120000 +0100" stop="20151206122500 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Pour l'été, Stan décide d'envoyer Steve dans un camp de vacances en plein air. Mais les choses tournent mal et, sans comprendre comment, Steve se... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Albert Calleros</name>
+      <name function="writer">Josh Bycel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206122500 +0100" stop="20151206125000 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Stan prend conscience de son problème de poids. Il décide de s'occuper de sa santé en faisant de l'exercice. L'entraînement s'avère... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Pam Cooke</name>
+      <name function="writer">Dan Vebber</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206125000 +0100" stop="20151206131500 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Stan a perdu confiance en lui. Il a été viré parce qu'un vendeur de voitures l'a roulé dans la farine... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Rodney Clouden</name>
+      <name function="writer">Etan Cohen</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206131500 +0100" stop="20151206134000 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Francine confie à son époux qu'elle souhaiterait un peu plus d'action dans leur couple. La monotonie actuelle lui semble insupportable. De son... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Kurt Dumas</name>
+      <name function="writer">Michael Shipley</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206134000 +0100" stop="20151206140500 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Stan décide d'emmener le jeune Steve à la première réunion des Conservateurs de Langley : les membres du parti ont en effet choisi Stan pour les... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Brent Woods</name>
+      <name function="writer">Rick Wiener</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206140500 +0100" stop="20151206143000 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Maintenant que Steve a une petite amie, Francine ressent un grand vide dans sa vie. Elle essaye donc désespérément de convaincre Stan d'avoir un... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Caleb Meurer</name>
+      <name function="writer">Steve Hely</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206143000 +0100" stop="20151206150500 +0100">
+    <length units="minutes">35</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Quand Francine découvre le secret de Stan, elle décide de le soutenir contre vents et marées. Mais Stan n'hésite pas à... (Lire la suite).</desc>
+    <credits>
+      <name function="director">John Aoshima</name>
+      <name function="writer">Brian Boyle</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206150500 +0100" stop="20151206161000 +0100">
+    <length units="minutes">65</length>
+    <title>S.O.S. ma famille a besoin d'aide</title>
+    <category>Magazine</category>
+    <desc>Chez Myriam, le conflit est devenu une insupportable routine quotidienne. Ses deux filles, Chloé, 20 ans, et Orlane, 16 ans, n'ont aucun respect... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Pascal Soetens</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206161000 +0100" stop="20151206175000 +0100">
+    <length units="minutes">100</length>
+    <title>S.O.S. ma famille a besoin d'aide</title>
+    <category>Magazine</category>
+    <desc>Depuis la naissance de Clément, le cadet de la famille, les relations entre Maxime et son beau-père Vincent se sont considérablement dégradées.... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Pascal Soetens</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206175000 +0100" stop="20151206190000 +0100">
+    <length units="minutes">70</length>
+    <title>Le labo de Damidot</title>
+    <category>Magazine</category>
+    <desc>Aujourd'hui, Valérie, sa bande de laborantins vont tester les expériences les plus loufoques et les plus incroyables en plateau. Des faits... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Valérie Damidot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206190000 +0100" stop="20151206205500 +0100">
+    <length units="minutes">115</length>
+    <title>Mission plus-value</title>
+    <category>Magazine</category>
+    <desc>Valérie Damidot et Phil entrent en compétition afin de faire réaliser la plus-value la plus importante à deux familles qui souhaitent vendre leur... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Valérie Damidot,</name>
+      <name function="presenter">Philippe Auriel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206205500 +0100" stop="20151206222500 +0100">
+    <length units="minutes">90</length>
+    <title>S.O.S. ma famille a besoin d'aide</title>
+    <category>Magazine</category>
+    <desc>Pascal Soetens intervient auprès de Sandrine, afin de l'aider à rétablir le dialogue entre elle et son fils Kévin. L'adolescent, qui n'a jamais... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Pascal Soetens</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206222500 +0100" stop="20151206235000 +0100">
+    <length units="minutes">85</length>
+    <title>S.O.S. ma famille a besoin d'aide</title>
+    <category>Magazine</category>
+    <desc>Depuis le départ de Bruno, son mari, il y a quatre ans, Sandrine est seule pour élever ses quatre enfants. Désormais, Quentin, 18 ans, s'impose... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Pascal Soetens</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206235000 +0100" stop="20151207003500 +0100">
+    <length units="minutes">45</length>
+    <title>American Horror Story : Murder House</title>
+    <category>Série</category>
+    <desc>A l'approche d'Halloween, l'agent immobilier des Harmon engage Chad et Patrick, un couple de décorateurs qui s'avèrent être d'anciens... (Lire la suite).</desc>
+    <credits>
+      <name function="director">David Semel</name>
+      <name function="actor">Connie Britton</name>
+      <name function="actor">Dylan McDermott</name>
+      <name function="actor">Jessica Lange</name>
+      <name function="actor">Zachary Quinto</name>
+      <name function="actor">Evan Peters</name>
+      <name function="actor">Teddy Sears</name>
+      <name function="actor">Taissa Farmiga</name>
+      <name function="actor">Jamie Brewer</name>
+      <name function="writer">James Wong</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207003500 +0100" stop="20151207012000 +0100">
+    <length units="minutes">45</length>
+    <title>American Horror Story : Murder House</title>
+    <category>Série</category>
+    <desc>Une véritable complicité amoureuse s'est instaurée entre Violet et Tate, qui décident de passer la nuit d'Halloween sur la plage. Leur... (Lire la suite).</desc>
+    <credits>
+      <name function="director">David Semel</name>
+      <name function="actor">Dylan McDermott</name>
+      <name function="actor">Jessica Lange</name>
+      <name function="actor">Denis O'Hare</name>
+      <name function="actor">Kate Mara</name>
+      <name function="actor">Zachary Quinto</name>
+      <name function="actor">Evan Peters</name>
+      <name function="actor">Taissa Farmiga</name>
+      <name function="actor">Connie Britton</name>
+      <name function="writer">Tim Minear</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207012000 +0100" stop="20151207021500 +0100">
+    <length units="minutes">55</length>
+    <title>American Horror Story : Murder House</title>
+    <category>Série</category>
+    <desc>Intriguée par les événements récents, Violet enquête et finit par découvrir sur Internet le secret de Tate. Elle décide de prendre conseil auprès... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Michael Uppendahl</name>
+      <name function="actor">Connie Britton</name>
+      <name function="actor">Dylan McDermott</name>
+      <name function="actor">Frances Conroy</name>
+      <name function="actor">Jessica Lange</name>
+      <name function="actor">Matt Ross</name>
+      <name function="actor">Eric Stonestreet</name>
+      <name function="actor">Evan Peters</name>
+      <name function="actor">Taissa Farmiga</name>
+      <name function="writer">Jessica Sharzer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207021500 +0100" stop="20151207025500 +0100">
+    <length units="minutes">40</length>
+    <title>The Big Game</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207025500 +0100" stop="20151207063000 +0100">
+    <length units="minutes">215</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207063000 +0100" stop="20151207093000 +0100">
+    <length units="minutes">180</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207093000 +0100" stop="20151207102000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
-    <desc>Lionel Luthor a été victime d'une tentative d'assassinat dans le manoir de son fils, Lex. Un homme a fait feu sur lui et l'a sérieusement blessé.... (Lire la suite).(n)</desc>
+    <desc>Clark décide de s'éloigner de Lana pour préserver la sécurité de la jeune femme. Lana ne comprend pas ce geste et se tourne vers Seth Nelson, un... (Lire la suite).</desc>
+    <credits>
+      <name function="director">David Jackson</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">Kevin Zegers</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Tom Heaton</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Adrian McMorran</name>
+      <name function="writer">Holly Harold</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207102000 +0100" stop="20151207111000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Le roi de la pègre Morgan Edge vient de s'évader du pénitencier où il était retenu. Convaincu que Lex Luthor est à l'origine de son... (Lire la suite).</desc>
     <credits>
       <name function="director">Kenneth Biller</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">John Glover</name>
+      <name function="actor">Patrick Bergin</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Lorena Gale</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="writer">Kenneth Biller</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207111000 +0100" stop="20151207120000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Sur les conseils de l'entourage de Lex, Clark se rend à l'asile pour voir le jeune homme. Sur place, il comprend que son ami n'est pas traité... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Greg Beeman</name>
+      <name function="actor">Annette O'Toole</name>
       <name function="actor">John Glover</name>
       <name function="actor">John Schneider</name>
-      <name function="actor">Jason Connery</name>
-      <name function="actor">Patrick Cassidy</name>
+      <name function="actor">Lorena Gale</name>
       <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Allison Mack</name>
+      <name function="writer">Darren Swimmer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207120000 +0100" stop="20151207123000 +0100">
+    <length units="minutes">30</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Rita Glossner, la voisine dérangée, est de retour. Elle attaque la famille Heck en accusant Frankie de lui avoir volé son tuyau d'arrosage. Après... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Lee Shallat Chemel</name>
+      <name function="actor">Chris Kattan</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Brock Ciarlelli</name>
+      <name function="actor">Brooke Shields</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="writer">Stacey Pulwer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207123000 +0100" stop="20151207130000 +0100">
+    <length units="minutes">30</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Alors qu'Halloween approche, la famille Heck est effrayée à l'idée que Sue reçoive son permis d'apprentie conductrice. C'est à Frankie et Mike... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Phil Traill</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Chris Kattan</name>
+      <name function="actor">Jeanette Miller</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Jen Ray</name>
+      <name function="writer">Roy Brown</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207130000 +0100" stop="20151207133000 +0100">
+    <length units="minutes">30</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Frankie est montrée en exemple devant toute sa classe pour sa première journée de formation d'assistante dentaire, mais pas pour les bonnes... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Lee Shallat Chemel</name>
+      <name function="actor">Chris Kattan</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Rick Harrison</name>
+      <name function="actor">Jane Kaczmarek</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="writer">Robin Shorr</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207133000 +0100" stop="20151207151000 +0100">
+    <length units="minutes">100</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207151000 +0100" stop="20151207165000 +0100">
+    <length units="minutes">100</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207165000 +0100" stop="20151207171500 +0100">
+    <length units="minutes">25</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207171500 +0100" stop="20151207174000 +0100">
+    <length units="minutes">25</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207174000 +0100" stop="20151207181000 +0100">
+    <length units="minutes">30</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207181000 +0100" stop="20151207190000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Alicia prétend être guérie et est autorisée à quitter l'hôpital. Elle retourne à Smallville pour retrouver Clark. Celui-ci se montre d'abord... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Greg Beeman</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Jensen Ackles</name>
+      <name function="actor">Sarah Carter</name>
+      <name function="actor">Allison Mack</name>
+      <name function="writer">Steven S DeKnight</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207190000 +0100" stop="20151207195000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Lana est agressée dans sa salle de bains par un mystérieux inconnu. Alerté par ses cris, Jason découvre la jeune femme inconsciente. Lois et... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Paul Shapiro</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Jensen Ackles</name>
+      <name function="actor">Sarah Carter</name>
+      <name function="actor">Allison Mack</name>
+      <name function="actor">Jane Seymour</name>
+      <name function="actor">Erica Durance</name>
+      <name function="writer">Holly Harold</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207195000 +0100" stop="20151207205500 +0100">
+    <length units="minutes">65</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Clark est contacté par Geoff Johns, la star de l'équipe de football américain de l'université de Metropolis, qui souhaite le voir renforcer les... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jeannot Szwarc</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Jensen Ackles</name>
+      <name function="actor">Allison Mack</name>
+      <name function="actor">Chris Carmack</name>
+      <name function="actor">Erica Durance</name>
+      <name function="writer">Todd Slavkin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207205500 +0100" stop="20151207225000 +0100">
+    <length units="minutes">115</length>
+    <title>Crimes</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : Carnage à Berck. Dans la nuit du 19 au 20 septembre 2006, les pompiers de Berck découvrent les cadavres d'une mère et de sa fille... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Jean-Marc Morandini</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207225000 +0100" stop="20151208004000 +0100">
+    <length units="minutes">110</length>
+    <title>Crimes en direct</title>
+    <category>Magazine</category>
+    <desc>Jean-Marc Morandini plonge dans deux affaires de disparitions, toujours non élucidées. Il revient sur la disparition de Lucas, 14 ans, en... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Jean-Marc Morandini</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208004000 +0100" stop="20151208023000 +0100">
+    <length units="minutes">110</length>
+    <title>Crimes</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : La tuerie d'Huos. Le 13 juillet 1988, Henri-Jean Jacomet découvre, dans la maison de ses beaux-parents, les cadavres de son épouse,... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Jean-Marc Morandini</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208023000 +0100" stop="20151208032000 +0100">
+    <length units="minutes">50</length>
+    <title>Shark Cage</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208032000 +0100" stop="20151208063000 +0100">
+    <length units="minutes">190</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208063000 +0100" stop="20151208093000 +0100">
+    <length units="minutes">180</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208093000 +0100" stop="20151208102000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Sur les conseils de l'entourage de Lex, Clark se rend à l'asile pour voir le jeune homme. Sur place, il comprend que son ami n'est pas traité... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Greg Beeman</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">John Glover</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Lorena Gale</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Allison Mack</name>
+      <name function="writer">Darren Swimmer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208102000 +0100" stop="20151208111000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Clark intervient alors qu'un braquage est commis dans une boutique de Smallville. Mais, tandis qu'il utilise sa vision thermique pour stopper les... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Thomas J Wright</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Camille Mitchell</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">John Glover</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Allison Mack</name>
+      <name function="writer">Ken Horton</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208111000 +0100" stop="20151208120000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Depuis quelques jours, le comportement de Clark et de Lana n'est pas très naturel. Les deux jeunes gens sont en effet victimes de pulsions... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Pat Williams</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">Martin Cummins</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Ian Somerhalder</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Allison Mack</name>
+      <name function="writer">Brian Peterson</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208120000 +0100" stop="20151208123000 +0100">
+    <length units="minutes">30</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Alors qu'Halloween approche, la famille Heck est effrayée à l'idée que Sue reçoive son permis d'apprentie conductrice. C'est à Frankie et Mike... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Phil Traill</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Chris Kattan</name>
+      <name function="actor">Jeanette Miller</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Jen Ray</name>
+      <name function="writer">Roy Brown</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208123000 +0100" stop="20151208130000 +0100">
+    <length units="minutes">30</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Frankie est montrée en exemple devant toute sa classe pour sa première journée de formation d'assistante dentaire, mais pas pour les bonnes... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Lee Shallat Chemel</name>
+      <name function="actor">Chris Kattan</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Rick Harrison</name>
+      <name function="actor">Jane Kaczmarek</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="writer">Robin Shorr</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208130000 +0100" stop="20151208133000 +0100">
+    <length units="minutes">30</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>A l'occasion de Thanksgiving, Frankie invite deux Marines à dîner pour damer le pion à Nancy Donahue. De son côté, Axl éprouve toujours plus de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Blake T Evans</name>
+      <name function="actor">Marsha Mason</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Jerry Van Dyke</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Chris Kattan</name>
+      <name function="writer">Tim Hobert</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208133000 +0100" stop="20151208151000 +0100">
+    <length units="minutes">100</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208151000 +0100" stop="20151208165000 +0100">
+    <length units="minutes">100</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208165000 +0100" stop="20151208171500 +0100">
+    <length units="minutes">25</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208171500 +0100" stop="20151208174000 +0100">
+    <length units="minutes">25</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208174000 +0100" stop="20151208181000 +0100">
+    <length units="minutes">30</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208181000 +0100" stop="20151208190000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Clark est contacté par Geoff Johns, la star de l'équipe de football américain de l'université de Metropolis, qui souhaite le voir renforcer les... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jeannot Szwarc</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Jensen Ackles</name>
+      <name function="actor">Allison Mack</name>
+      <name function="actor">Chris Carmack</name>
+      <name function="actor">Erica Durance</name>
+      <name function="writer">Todd Slavkin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208190000 +0100" stop="20151208195000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Au volant de sa voiture, Lois a accidentellement heurté un chien. Elle ramène l'animal à la ferme pour le soigner, mais Clark se rend rapidement... (Lire la suite).</desc>
+    <credits>
+      <name function="director">James Marshall</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Jensen Ackles</name>
+      <name function="actor">Allison Mack</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Erica Durance</name>
+      <name function="writer">Luke Schelhaas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208195000 +0100" stop="20151208205500 +0100">
+    <length units="minutes">65</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Clark reçoit un message du défunt professeur Swann. Il y apprend en substance que Jason et Lex se sont rendus en Chine pour trouver un des... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Brad Turner</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">John Glover</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Byron Mann</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Jensen Ackles</name>
+      <name function="writer">Kelly Souders</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208205500 +0100" stop="20151208223000 +0100">
+    <length units="minutes">95</length>
+    <title>Albert est méchant (?)</title>
+    <category>Film</category>
+    <desc>Patrick Lechat, dont la situation financière est au plus mal, apprend la mort de Jo, son père, qu'il n'a jamais connu. Le défunt laisse derrière... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Hervé Palud</name>
+      <name function="actor">Jackie Berroyer</name>
+      <name function="actor">Christian Clavier</name>
+      <name function="actor">Arielle Dombasle</name>
+      <name function="actor">Hans Meyer</name>
+      <name function="actor">Bernard Farcy</name>
+      <name function="actor">Priscilla</name>
+      <name function="actor">Michel Serrault</name>
+      <name function="actor">Ged Marlon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208223000 +0100" stop="20151209003000 +0100">
+    <length units="minutes">120</length>
+    <title>J'ai faim !!! (?)</title>
+    <category>Film</category>
+    <desc>Lily est une femme de nature anxieuse, qui passe le plus clair de son temps à ruminer ses problèmes et ses angoisses. Son univers s'écroule... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Florence Quentin</name>
+      <name function="actor">Samuel Labarthe</name>
+      <name function="actor">Isabelle Candelier</name>
+      <name function="actor">Catherine Jacob</name>
+      <name function="actor">Alessandra Martines</name>
+      <name function="actor">Garance Clavel</name>
+      <name function="actor">Serge Hazanavicius</name>
+      <name function="actor">Michèle Laroque</name>
+      <name function="actor">Yvan Le Bolloc'h</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209003000 +0100" stop="20151209021500 +0100">
+    <length units="minutes">105</length>
+    <title>Crimes</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : La millionnaire «suicidée». Le 1er décembre à Neuilly-sur-Seine, Patrick découvre le corps de son amie Sylvie, 57 ans, pendu dans... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Jean-Marc Morandini</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209021500 +0100" stop="20151209030500 +0100">
+    <length units="minutes">50</length>
+    <title>Shark Cage</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209030500 +0100" stop="20151209063000 +0100">
+    <length units="minutes">205</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209063000 +0100" stop="20151209093000 +0100">
+    <length units="minutes">180</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209093000 +0100" stop="20151209102000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Depuis quelques jours, le comportement de Clark et de Lana n'est pas très naturel. Les deux jeunes gens sont en effet victimes de pulsions... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Pat Williams</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">Martin Cummins</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Ian Somerhalder</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Allison Mack</name>
+      <name function="writer">Brian Peterson</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209102000 +0100" stop="20151209111000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Lana accepte d'héberger Adam dans la réserve de son bar au premier étage. Mais un soir, en plein cauchemar, Adam frappe violemment la jeune femme... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Greg Beeman</name>
+      <name function="actor">Joseph Cross</name>
+      <name function="actor">Greg Kean</name>
+      <name function="actor">Camille Mitchell</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Ian Somerhalder</name>
       <name function="actor">Tom Welling</name>
       <name function="actor">Kristin Kreuk</name>
       <name function="actor">Allison Mack</name>
@@ -48,101 +1340,567 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124111000 +0100" stop="20151124120000 +0100">
+  <programme channel="test" start="20151209111000 +0100" stop="20151209120000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
-    <desc>Un étudiant est retrouvé mort à l'issue d'une soirée. Il s'est visiblement suicidé. Pete est soudain envahi par une force étrange, qui lui semble... (Lire la suite).(n)</desc>
+    <desc>En revenant de l'hôpital où ils ont rendu visite à Jonathan, victime d'une crise cardiaque, Clark et Martha évitent de justesse deux bolides qui... (Lire la suite).</desc>
     <credits>
-      <name function="director">Rick Rosenthal</name>
+      <name function="director">Jeannot Szwarc</name>
       <name function="actor">John Schneider</name>
+      <name function="actor">Ryan Merriman</name>
       <name function="actor">Michael Rosenbaum</name>
-      <name function="actor">Eric Johnson</name>
+      <name function="actor">Ian Somerhalder</name>
       <name function="actor">Tom Welling</name>
       <name function="actor">Kristin Kreuk</name>
-      <name function="actor">Allison Mack</name>
       <name function="actor">Sam Jones III</name>
+      <name function="actor">Annette O'Toole</name>
       <name function="writer">Todd Slavkin</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124120000 +0100" stop="20151124123000 +0100">
+  <programme channel="test" start="20151209120000 +0100" stop="20151209123000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
-    <desc>Invités par un employé de Mike, les Heck assistent à une célébration dans une église évangéliste. Séduits par les negro spirituals et par... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Blake T Evans</name>
-      <name function="actor">Chris Kattan</name>
-      <name function="actor">Neil Flynn</name>
-      <name function="actor">Patricia Heaton</name>
-      <name function="actor">Charlie McDermott</name>
-      <name function="actor">Atticus Shaffer</name>
-      <name function="actor">Eden Sher</name>
-      <name function="writer">Vijal Patel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124123000 +0100" stop="20151124130000 +0100">
-    <length units="minutes">30</length>
-    <title>The Middle</title>
-    <category>Série</category>
-    <desc>Frankie en a assez de dormir dans un vieux lit. Elle tente de persuader Mike d'en acheter un autre et en profite pour transformer leur chambre en... (Lire la suite).(n)</desc>
+    <desc>Frankie est montrée en exemple devant toute sa classe pour sa première journée de formation d'assistante dentaire, mais pas pour les bonnes... (Lire la suite).</desc>
     <credits>
       <name function="director">Lee Shallat Chemel</name>
-      <name function="actor">Whoopi Goldberg</name>
-      <name function="actor">Patricia Heaton</name>
       <name function="actor">Chris Kattan</name>
       <name function="actor">Neil Flynn</name>
       <name function="actor">Charlie McDermott</name>
       <name function="actor">Atticus Shaffer</name>
       <name function="actor">Eden Sher</name>
-      <name function="actor">Brittany Ross</name>
-      <name function="writer">Jena Hunter</name>
+      <name function="actor">Rick Harrison</name>
+      <name function="actor">Jane Kaczmarek</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="writer">Robin Shorr</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124130000 +0100" stop="20151124133000 +0100">
+  <programme channel="test" start="20151209123000 +0100" stop="20151209130000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
-    <desc>Axl se rend au bal de sa promotion avec Ashley et n'en croit pas ses yeux lorsque son ami Darrin invite Sue. Brick trouve un trèfle à quatre... (Lire la suite).(n)</desc>
+    <desc>A l'occasion de Thanksgiving, Frankie invite deux Marines à dîner pour damer le pion à Nancy Donahue. De son côté, Axl éprouve toujours plus de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Blake T Evans</name>
+      <name function="actor">Marsha Mason</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Jerry Van Dyke</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Chris Kattan</name>
+      <name function="writer">Tim Hobert</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209130000 +0100" stop="20151209133000 +0100">
+    <length units="minutes">30</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Noël et son lot d'épreuves approchent. Les sous manquent, et les combines de chacun pour trouver des cadeaux ne sont pas des plus heureuses.... (Lire la suite).</desc>
     <credits>
       <name function="director">Phil Traill</name>
+      <name function="actor">Paul Hipp</name>
+      <name function="actor">Norm MacDonald</name>
       <name function="actor">Patricia Heaton</name>
       <name function="actor">Chris Kattan</name>
       <name function="actor">Neil Flynn</name>
       <name function="actor">Charlie McDermott</name>
       <name function="actor">Atticus Shaffer</name>
       <name function="actor">Eden Sher</name>
-      <name function="actor">John Gammon</name>
-      <name function="actor">Katlin Mastandrea</name>
-      <name function="writer">Roy Brown</name>
+      <name function="writer">Jana Hunter</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124133000 +0100" stop="20151124151000 +0100">
+  <programme channel="test" start="20151209133000 +0100" stop="20151209150500 +0100">
+    <length units="minutes">95</length>
+    <title>S.O.S. ma famille a besoin d'aide</title>
+    <category>Magazine</category>
+    <desc>Pascal Soetens intervient auprès de Sandrine, afin de l'aider à rétablir le dialogue entre elle et son fils Kévin. L'adolescent, qui n'a jamais... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Pascal Soetens</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209150500 +0100" stop="20151209162500 +0100">
+    <length units="minutes">80</length>
+    <title>S.O.S. ma famille a besoin d'aide</title>
+    <category>Magazine</category>
+    <desc>Chrystelle, mère de famille célibataire, ne parvient plus à communiquer avec Kimberley, sa fille de 18 ans. Depuis la séparation et le départ du... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Pascal Soetens</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209162500 +0100" stop="20151209165000 +0100">
+    <length units="minutes">25</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209165000 +0100" stop="20151209171500 +0100">
+    <length units="minutes">25</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209171500 +0100" stop="20151209174000 +0100">
+    <length units="minutes">25</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209174000 +0100" stop="20151209181000 +0100">
+    <length units="minutes">30</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209181000 +0100" stop="20151209190000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Clark reçoit un message du défunt professeur Swann. Il y apprend en substance que Jason et Lex se sont rendus en Chine pour trouver un des... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Brad Turner</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">John Glover</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Byron Mann</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Jensen Ackles</name>
+      <name function="writer">Kelly Souders</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209190000 +0100" stop="20151209195000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Lucy, la petite soeur de Lois, que celle-ci n'apprécie guère, arrive en ville et séduit toutes les personnes qu'elle rencontre. Mais Clark ne se... (Lire la suite).</desc>
+    <credits>
+      <name function="director">David Barrett</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Jensen Ackles</name>
+      <name function="actor">Allison Mack</name>
+      <name function="actor">Erica Durance</name>
+      <name function="actor">Peyton List</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">John Schneider</name>
+      <name function="writer">Neil Sadhu</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209195000 +0100" stop="20151209205500 +0100">
+    <length units="minutes">65</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Une explosion de kryptonite noire, au cours d'une expérience en laboratoire mal maîtrisée, scinde Lex en deux personnalités distinctes. Son côté... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Terrence O'Hara</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">Malcolm Stewart</name>
+      <name function="actor">John Glover</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Allison Mack</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209205500 +0100" stop="20151209214500 +0100">
+    <length units="minutes">50</length>
+    <title>New York police judiciaire</title>
+    <category>Série</category>
+    <desc>Sans-abri, Harvey Bower passe le plus clair de son temps à errer dans les rues à la recherche d'un coin où dormir et d'un peu d'argent pour... (Lire la suite).</desc>
+    <credits>
+      <name function="director">David Platt</name>
+      <name function="actor">Jerry Orbach</name>
+      <name function="actor">Sam Waterston</name>
+      <name function="actor">Joseph Hindy</name>
+      <name function="actor">Roberta Maxwell</name>
+      <name function="actor">Tovah Feldshuh</name>
+      <name function="actor">Jesse L Martin</name>
+      <name function="actor">Marcia Jean Kurtz</name>
+      <name function="actor">Seth Barrish</name>
+      <name function="writer">Gerry Conway</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209214500 +0100" stop="20151209223500 +0100">
+    <length units="minutes">50</length>
+    <title>New York police judiciaire</title>
+    <category>Série</category>
+    <desc>Amy Beltran, une jeune mère, est poursuivie pour avoir provoqué la mort de son bébé. Son enfant est en effet décédé parce qu'il a été privé de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Richard Dobbs</name>
+      <name function="actor">Jerry Orbach</name>
+      <name function="actor">Sam Waterston</name>
+      <name function="actor">Susan Blommaert</name>
+      <name function="actor">Jesse L Martin</name>
+      <name function="actor">Michael C Williams</name>
+      <name function="actor">Tessa Ghylin</name>
+      <name function="actor">Austin Lysy</name>
+      <name function="actor">Peggy Roeder</name>
+      <name function="writer">Lynn Mamet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209223500 +0100" stop="20151209232500 +0100">
+    <length units="minutes">50</length>
+    <title>New York police judiciaire</title>
+    <category>Série</category>
+    <desc>Chris Skinner, un lycéen, est retrouvé mort. Le coupable serait un autre élève de l'établissement, John Telford, dont le père aurait encouragé le... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Constantine Makris</name>
+      <name function="actor">Paul Sorvino</name>
+      <name function="actor">Jerry Orbach</name>
+      <name function="actor">Robert Clohessy</name>
+      <name function="actor">John Carter</name>
+      <name function="actor">Chris Noth</name>
+      <name function="actor">Jacob Pitts</name>
+      <name function="actor">Julie Boyd</name>
+      <name function="actor">Max Ligosh</name>
+      <name function="writer">Richard Sweren</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209232500 +0100" stop="20151210001500 +0100">
+    <length units="minutes">50</length>
+    <title>New York police judiciaire</title>
+    <category>Série</category>
+    <desc>Cecilia Knowles, une jeune femme travaillant pour le compte d'une agence de voyages, est agressée dans son appartement par un inconnu. Lorsque... (Lire la suite).</desc>
+    <credits>
+      <name function="director">David Platt</name>
+      <name function="actor">Jerry Orbach</name>
+      <name function="actor">Sam Waterston</name>
+      <name function="actor">James Rebhorn</name>
+      <name function="actor">Lynne Thigpen</name>
+      <name function="actor">Jesse L Martin</name>
+      <name function="actor">Sebastian Roché</name>
+      <name function="actor">Judy Kaye</name>
+      <name function="actor">Ramsey Faragallah</name>
+      <name function="writer">Rene Balcer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210001500 +0100" stop="20151210010500 +0100">
+    <length units="minutes">50</length>
+    <title>New York police judiciaire</title>
+    <category>Série</category>
+    <desc>Un chauffeur de taxi transporte Peter Grimaldi, un homme d'un certain âge. En cours de trajet, il se rend compte que son passager est mort. Les... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Matthew Penn</name>
+      <name function="actor">Jerry Orbach</name>
+      <name function="actor">Sam Waterston</name>
+      <name function="actor">George Grizzard</name>
+      <name function="actor">Kim Yancey-Moore</name>
+      <name function="actor">Matt Servitto</name>
+      <name function="actor">Philip Goodwin</name>
+      <name function="actor">Laura Esterman</name>
+      <name function="actor">Jesse L Martin</name>
+      <name function="writer">Barry Schindel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210010500 +0100" stop="20151210020000 +0100">
+    <length units="minutes">55</length>
+    <title>New York police judiciaire</title>
+    <category>Série</category>
+    <desc>Dans un accès de violence et de jalousie, un homme atteint de la maladie d'Alzheimer tue sa femme. Sa fille Lisa se bat pour faire reconnaître sa... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jace Alexander</name>
+      <name function="actor">Glynnis O'Connor</name>
+      <name function="actor">Jerry Orbach</name>
+      <name function="actor">Sam Waterston</name>
+      <name function="actor">Kathryn Hays</name>
+      <name function="actor">Mark Pinter</name>
+      <name function="actor">Jesse L Martin</name>
+      <name function="actor">Bradley White</name>
+      <name function="actor">Missy Yager</name>
+      <name function="writer">Krista Vernoff</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210020000 +0100" stop="20151210025000 +0100">
+    <length units="minutes">50</length>
+    <title>Shark Cage</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210025000 +0100" stop="20151210063000 +0100">
+    <length units="minutes">220</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210063000 +0100" stop="20151210093000 +0100">
+    <length units="minutes">180</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210093000 +0100" stop="20151210102000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>En revenant de l'hôpital où ils ont rendu visite à Jonathan, victime d'une crise cardiaque, Clark et Martha évitent de justesse deux bolides qui... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jeannot Szwarc</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Ryan Merriman</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Ian Somerhalder</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Sam Jones III</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="writer">Todd Slavkin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210102000 +0100" stop="20151210111000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Le jour où il se retrouve coincé avec Alissa dans un ascenseur en chute libre, Clark est obligé d'utiliser sa force extraterrestre sous les yeux... (Lire la suite).</desc>
+    <credits>
+      <name function="director">James Marshall</name>
+      <name function="actor">Joseph Cross</name>
+      <name function="actor">Camille Mitchell</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Ian Somerhalder</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Sarah Carter</name>
+      <name function="actor">Allison Mack</name>
+      <name function="writer">Holly Harold</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210111000 +0100" stop="20151210120000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Vincent Davis, le frère de Garrett, un ami de Clark, vient de mourir d'un cancer du foie. Son corps, qui devait être transporté au crématorium,... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Terrence O'Hara</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Sarah Carter</name>
+      <name function="actor">James Kirk</name>
+      <name function="actor">Allison Mack</name>
+      <name function="actor">Tahmoh Penikett</name>
+      <name function="writer">Darren Swimmer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210120000 +0100" stop="20151210123000 +0100">
+    <length units="minutes">30</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>A l'occasion de Thanksgiving, Frankie invite deux Marines à dîner pour damer le pion à Nancy Donahue. De son côté, Axl éprouve toujours plus de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Blake T Evans</name>
+      <name function="actor">Marsha Mason</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Jerry Van Dyke</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Chris Kattan</name>
+      <name function="writer">Tim Hobert</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210123000 +0100" stop="20151210130000 +0100">
+    <length units="minutes">30</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Noël et son lot d'épreuves approchent. Les sous manquent, et les combines de chacun pour trouver des cadeaux ne sont pas des plus heureuses.... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Phil Traill</name>
+      <name function="actor">Paul Hipp</name>
+      <name function="actor">Norm MacDonald</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Chris Kattan</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="writer">Jana Hunter</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210130000 +0100" stop="20151210133000 +0100">
+    <length units="minutes">30</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Vingt ans de mariage, ça se fête, mais Frankie, amère, constate que Mike ne décroche plus son téléphone quand elle l'appelle. Sue décide de leur... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Phil Traill</name>
+      <name function="actor">John Cullum</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Jen Ray</name>
+      <name function="writer">David S Rosenthal</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210133000 +0100" stop="20151210151000 +0100">
     <length units="minutes">100</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
-    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).(n)</desc>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124151000 +0100" stop="20151124172000 +0100">
-    <length units="minutes">130</length>
+  <programme channel="test" start="20151210151000 +0100" stop="20151210165000 +0100">
+    <length units="minutes">100</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
-    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).(n)</desc>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124172000 +0100" stop="20151124181000 +0100">
+  <programme channel="test" start="20151210165000 +0100" stop="20151210171500 +0100">
+    <length units="minutes">25</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210171500 +0100" stop="20151210174000 +0100">
+    <length units="minutes">25</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210174000 +0100" stop="20151210181000 +0100">
+    <length units="minutes">30</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210181000 +0100" stop="20151210190000 +0100">
     <length units="minutes">50</length>
-    <title>Tellement vrai</title>
-    <category>Magazine</category>
-    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).(n)</desc>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Une explosion de kryptonite noire, au cours d'une expérience en laboratoire mal maîtrisée, scinde Lex en deux personnalités distinctes. Son côté... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Terrence O'Hara</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">Malcolm Stewart</name>
+      <name function="actor">John Glover</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Allison Mack</name>
+    </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124181000 +0100" stop="20151124190000 +0100">
+  <programme channel="test" start="20151210190000 +0100" stop="20151210195000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Dawn Stiles, la tenante du titre de Reine de l'année, découvre avec colère que Chloe a été sélectionnée pour concourir lors du prochain bal de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Whitney Ransick</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Jensen Ackles</name>
+      <name function="actor">Allison Mack</name>
+      <name function="actor">Erica Durance</name>
+      <name function="actor">Beatrice Rosen</name>
+      <name function="actor">Annette O'Toole</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210195000 +0100" stop="20151210205500 +0100">
+    <length units="minutes">65</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Un jeune homme profite de l'affluence pour dérober la caisse du Talon. Lois s'interpose, mais le malfaiteur, un certain Kevin Grady, la... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jeannot Szwarc</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Tom Butler</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Allison Mack</name>
+      <name function="actor">Jonathan Bennett</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">Erica Durance</name>
+      <name function="writer">Kelly Souders</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210205500 +0100" stop="20151210224500 +0100">
+    <length units="minutes">110</length>
+    <title>Enquêtes et découvertes</title>
+    <category>Documentaire</category>
+    <desc>Grands magasins : au coeur de la magie de noël A deux semaines des fêtes de Noël, Anne-Gaëlle Riccio plonge dans les coulisses des grands magasins parisiens. Celui du boulevard Haussmann,... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210224500 +0100" stop="20151211003500 +0100">
+    <length units="minutes">110</length>
+    <title>Une saison extraordinaire à Courchevel</title>
+    <category>Documentaire</category>
+    <desc>Une saison extraordinaire à Courchevel Courchevel, station de sports d'hiver huppée de Savoie, attire chaque année de nombreux visiteurs, parmi lesquels des millionnaires, mais aussi... (Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211003500 +0100" stop="20151211022000 +0100">
+    <length units="minutes">105</length>
+    <title>Enquêtes et découvertes</title>
+    <category>Documentaire</category>
+    <desc>Les secrets de la côte Basque Anne-Gaëlle Riccio propose de découvrir la côte Basque, une terre de traditions qui accueille chaque année plus de deux millions de touristes.... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211022000 +0100" stop="20151211031000 +0100">
+    <length units="minutes">50</length>
+    <title>Shark Cage</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211031000 +0100" stop="20151211063000 +0100">
+    <length units="minutes">200</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211063000 +0100" stop="20151211093000 +0100">
+    <length units="minutes">180</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211093000 +0100" stop="20151211102000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -161,7 +1919,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124190000 +0100" stop="20151124195000 +0100">
+  <programme channel="test" start="20151211102000 +0100" stop="20151211111000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -180,8 +1938,8 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124195000 +0100" stop="20151124205500 +0100">
-    <length units="minutes">65</length>
+  <programme channel="test" start="20151211111000 +0100" stop="20151211120000 +0100">
+    <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
     <desc>Jonathan se comporte étrangement. Clark en déduit que Jor-El lui fait parvenir des messages par l'intermédiaire de la fameuse clé et qu'il est... (Lire la suite).(n)</desc>
@@ -199,33 +1957,173 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124205500 +0100" stop="20151124223500 +0100">
-    <length units="minutes">100</length>
-    <title>Age of Heroes (?)</title>
-    <category>Film</category>
-    <desc>Un service spécial de la Royal Navy fait appel à Ian Fleming. Devenu commandant, l'homme est chargé, au cours de la Seconde Guerre mondiale, de... (Lire la suite).(n)</desc>
+  <programme channel="test" start="20151211120000 +0100" stop="20151211123000 +0100">
+    <length units="minutes">30</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Noël et son lot d'épreuves approchent. Les sous manquent, et les combines de chacun pour trouver des cadeaux ne sont pas des plus heureuses.... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Adrian Vitoria</name>
-      <name function="actor">Sean Bean</name>
-      <name function="actor">Danny Dyer</name>
-      <name function="actor">William Houston</name>
-      <name function="actor">Izabella Miko</name>
-      <name function="actor">Aksel Hennie</name>
-      <name function="actor">James d'Arcy</name>
-      <name function="actor">John Dagleish</name>
-      <name function="actor">Sebastian Street</name>
+      <name function="director">Phil Traill</name>
+      <name function="actor">Paul Hipp</name>
+      <name function="actor">Norm MacDonald</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Chris Kattan</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="writer">Jana Hunter</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124223500 +0100" stop="20151125002000 +0100">
-    <length units="minutes">105</length>
-    <title>Face à France</title>
-    <category>Talk show</category>
-    <desc>Le concept de cette nouvelle émission est simple : plusieurs invités, qui font l'actualité, répondent en plateau aux questions sans concessions... (Lire la suite).(n)</desc>
+  <programme channel="test" start="20151211123000 +0100" stop="20151211130000 +0100">
+    <length units="minutes">30</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Vingt ans de mariage, ça se fête, mais Frankie, amère, constate que Mike ne décroche plus son téléphone quand elle l'appelle. Sue décide de leur... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Jean-Marc Morandini,</name>
-      <name function="presenter">Willy Rovelli,</name>
-      <name function="presenter">Adrien Rohard</name>
+      <name function="director">Phil Traill</name>
+      <name function="actor">John Cullum</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="actor">Jen Ray</name>
+      <name function="writer">David S Rosenthal</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211130000 +0100" stop="20151211133000 +0100">
+    <length units="minutes">30</length>
+    <title>The Middle</title>
+    <category>Série</category>
+    <desc>Le pare-brise de la voiture des Heck a explosé sous le poids d'une branche cassée. Mike et Frankie contactent leur assureur pour être indemnisés.... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Lee Shallat Chemel</name>
+      <name function="actor">French Stewart</name>
+      <name function="actor">Dave Foley</name>
+      <name function="actor">Patricia Heaton</name>
+      <name function="actor">Chris Kattan</name>
+      <name function="actor">Neil Flynn</name>
+      <name function="actor">Charlie McDermott</name>
+      <name function="actor">Atticus Shaffer</name>
+      <name function="actor">Eden Sher</name>
+      <name function="writer">Roy Brown</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211133000 +0100" stop="20151211151000 +0100">
+    <length units="minutes">100</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211151000 +0100" stop="20151211165000 +0100">
+    <length units="minutes">100</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211165000 +0100" stop="20151211171500 +0100">
+    <length units="minutes">25</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211171500 +0100" stop="20151211174000 +0100">
+    <length units="minutes">25</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211174000 +0100" stop="20151211181000 +0100">
+    <length units="minutes">30</length>
+    <title>Tellement vrai</title>
+    <category>Magazine</category>
+    <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211181000 +0100" stop="20151211190000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>Un jeune homme profite de l'affluence pour dérober la caisse du Talon. Lois s'interpose, mais le malfaiteur, un certain Kevin Grady, la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jeannot Szwarc</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Tom Butler</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Allison Mack</name>
+      <name function="actor">Jonathan Bennett</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">Erica Durance</name>
+      <name function="writer">Kelly Souders</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211190000 +0100" stop="20151211195000 +0100">
+    <length units="minutes">50</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>En se promenant à travers champs, Clark et Lana découvrent, dans un cratère encore fumant, un bébé abandonné. Ils le ramènent à la ferme des Kent... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Steven S DeKnight</name>
+      <name function="actor">John Glover</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Michael Rosenbaum</name>
+      <name function="actor">Annette O'Toole</name>
+      <name function="actor">Jane Seymour</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Allison Mack</name>
+      <name function="writer">Steven S DeKnight</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211195000 +0100" stop="20151211205500 +0100">
+    <length units="minutes">65</length>
+    <title>Smallville</title>
+    <category>Série</category>
+    <desc>L'année scolaire touche à sa fin et Brendan, un lycéen qui n'a pas eu la chance d'être accepté à l'université, se venge en congelant les élèves... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">James Marshall</name>
+      <name function="actor">Tom Welling</name>
+      <name function="actor">Kristin Kreuk</name>
+      <name function="actor">Jensen Ackles</name>
+      <name function="actor">Allison Mack</name>
+      <name function="actor">Steven Grayhm</name>
+      <name function="actor">Jane Seymour</name>
+      <name function="actor">John Schneider</name>
+      <name function="actor">Erica Durance</name>
+      <name function="writer">Kelly Souders</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211205500 +0100" stop="20151211224500 +0100">
+    <length units="minutes">110</length>
+    <title>Mission plus-value</title>
+    <category>Magazine</category>
+    <desc>Valérie Damidot et Phil entrent en compétition afin de faire réaliser la plus-value la plus importante à deux familles qui souhaitent vendre leur... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Valérie Damidot,</name>
+      <name function="presenter">Philippe Auriel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211224500 +0100" stop="20151212004000 +0100">
+    <length units="minutes">115</length>
+    <title>Mission plus-value</title>
+    <category>Magazine</category>
+    <desc>Valérie Damidot et Phil entrent en compétition afin de faire réaliser la plus-value la plus importante à deux familles qui souhaitent vendre leur... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Valérie Damidot,</name>
+      <name function="presenter">Philippe Auriel</name>
     </credits>
     <image />
   </programme>

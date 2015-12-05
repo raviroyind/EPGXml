@@ -3,60 +3,487 @@
   <channel id="Be Sport 1">
     <display-name>test</display-name>
   </channel>
-  <programme channel="test" start="20151123133000 +0100" stop="20151123153000 +0100">
+  <programme channel="test" start="20151205011500 +0100" stop="20151205104000 +0100">
+    <length units="minutes">565</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205104000 +0100" stop="20151205124000 +0100">
     <length units="minutes">120</length>
-    <title>Football (Hambourg / Borussia Dortmund)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
+    <title>Be Sport en résumés</title>
+    <category>Magazine</category>
+    <desc>Toutes les images des événements sportifs qui ont marqué l'antenne de Be Sport durant la semaine écoulée. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151123153000 +0100" stop="20151123173500 +0100">
-    <length units="minutes">125</length>
-    <title>Football (Tottenham / West Ham)</title>
+  <programme channel="test" start="20151205124000 +0100" stop="20151205131000 +0100">
+    <length units="minutes">30</length>
+    <title>Voitures de légende</title>
     <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151123173500 +0100" stop="20151123180000 +0100">
+  <programme channel="test" start="20151205131000 +0100" stop="20151205134000 +0100">
+    <length units="minutes">30</length>
+    <title>Preview Show</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205134000 +0100" stop="20151205154000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Stoke / Manchester City)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205154000 +0100" stop="20151205155500 +0100">
+    <length units="minutes">15</length>
+    <title>Das Rekap</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205155500 +0100" stop="20151205175500 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Manchester United / West Ham)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205175500 +0100" stop="20151205182500 +0100">
+    <length units="minutes">30</length>
+    <title>Le monde de la Premier League</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205182500 +0100" stop="20151205202500 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Chelsea / Bournemouth)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205202500 +0100" stop="20151205221000 +0100">
+    <length units="minutes">105</length>
+    <title>Football (Vitesse Arnhem / PSV Eindhoven)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205221000 +0100" stop="20151205223500 +0100">
     <length units="minutes">25</length>
+    <title>Hockey sur gazon (Inde / Belgique)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205223500 +0100" stop="20151206003000 +0100">
+    <length units="minutes">115</length>
+    <title>Basket-ball (Verviers-Pepinster / Charleroi)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206003000 +0100" stop="20151206122000 +0100">
+    <length units="minutes">710</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206122000 +0100" stop="20151206124500 +0100">
+    <length units="minutes">25</length>
+    <title>World Sport</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206124500 +0100" stop="20151206143000 +0100">
+    <length units="minutes">105</length>
+    <title>Football (Vitesse Arnhem / PSV Eindhoven)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206143000 +0100" stop="20151206162500 +0100">
+    <length units="minutes">115</length>
+    <title>Basket-ball (Real Madrid (Esp) / Fenerbahçe (Tur))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206162500 +0100" stop="20151206165500 +0100">
+    <length units="minutes">30</length>
+    <title>Le monde de la Premier League</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206165500 +0100" stop="20151206185500 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Newcastle / Liverpool)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206185500 +0100" stop="20151206205000 +0100">
+    <length units="minutes">115</length>
+    <title>Basket-ball (Willebroek / Louvain)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206205000 +0100" stop="20151206224500 +0100">
+    <length units="minutes">115</length>
+    <title>Basket-ball (Verviers-Pepinster / Charleroi)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206224500 +0100" stop="20151206234000 +0100">
+    <length units="minutes">55</length>
+    <title>Docs de sport</title>
+    <category>Documentaire</category>
+    <desc>Exilés, Swim and Run Plus d'une centaine de concurrents ont pris le départ de l'Otillo race, épreuve alliant course à pied et natation, disputée dans les îles de... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206234000 +0100" stop="20151207132500 +0100">
+    <length units="minutes">825</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207132500 +0100" stop="20151207152500 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Schalke 04 / Hanovre 96)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207152500 +0100" stop="20151207172500 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Chelsea / Bournemouth)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207172500 +0100" stop="20151207180000 +0100">
+    <length units="minutes">35</length>
+    <title>Docs de sport</title>
+    <category>Documentaire</category>
+    <desc>Zlatan, l'autre roi de Suède ? (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207180000 +0100" stop="20151207193000 +0100">
+    <length units="minutes">90</length>
+    <title>L'Europe des 11</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207193000 +0100" stop="20151207195500 +0100">
+    <length units="minutes">25</length>
+    <title>World Sport</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207195500 +0100" stop="20151207205500 +0100">
+    <length units="minutes">60</length>
+    <title>Docs de sport</title>
+    <category>Documentaire</category>
+    <desc>Exilés, Swim and Run Plus d'une centaine de concurrents ont pris... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207205500 +0100" stop="20151207225500 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Everton / Crystal Palace)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207225500 +0100" stop="20151208003000 +0100">
+    <length units="minutes">95</length>
+    <title>L'Europe des 11</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208003000 +0100" stop="20151208131500 +0100">
+    <length units="minutes">765</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208131500 +0100" stop="20151208151000 +0100">
+    <length units="minutes">115</length>
+    <title>Basket-ball (Willebroek / Louvain)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208151000 +0100" stop="20151208164000 +0100">
+    <length units="minutes">90</length>
+    <title>L'Europe des 11</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208164000 +0100" stop="20151208184000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Championnat européen)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208184000 +0100" stop="20151208204500 +0100">
+    <length units="minutes">125</length>
+    <title>Football (Championnat européen)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208204500 +0100" stop="20151208213500 +0100">
+    <length units="minutes">50</length>
+    <title>Football (Championnat d'Angleterre)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208213500 +0100" stop="20151208223000 +0100">
+    <length units="minutes">55</length>
+    <title>Football (Championnat d'Allemagne)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208223000 +0100" stop="20151209001500 +0100">
+    <length units="minutes">105</length>
+    <title>Basket-ball (Real Madrid (Esp) / Fenerbahçe (Tur))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209001500 +0100" stop="20151209132500 +0100">
+    <length units="minutes">790</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209132500 +0100" stop="20151209142000 +0100">
+    <length units="minutes">55</length>
+    <title>Football (Championnat d'Angleterre)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209142000 +0100" stop="20151209151000 +0100">
+    <length units="minutes">50</length>
+    <title>Football (Championnat d'Allemagne)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209151000 +0100" stop="20151209171000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Championnat européen)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209171000 +0100" stop="20151209191000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Championnat européen)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209191000 +0100" stop="20151209204500 +0100">
+    <length units="minutes">95</length>
+    <title>L'Europe des 11</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209204500 +0100" stop="20151209211000 +0100">
+    <length units="minutes">25</length>
+    <title>Spirit of Yachting</title>
+    <category>Sport</category>
+    <desc>Middle Sea (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209211000 +0100" stop="20151209230500 +0100">
+    <length units="minutes">115</length>
+    <title>Basket-ball (Verviers-Pepinster / Charleroi)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209230500 +0100" stop="20151209233000 +0100">
+    <length units="minutes">25</length>
+    <title>World Sport</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209233000 +0100" stop="20151209235500 +0100">
+    <length units="minutes">25</length>
+    <title>Voitures de légende</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209235500 +0100" stop="20151210134500 +0100">
+    <length units="minutes">830</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210134500 +0100" stop="20151210154000 +0100">
+    <length units="minutes">115</length>
+    <title>Basket-ball (Verviers-Pepinster / Charleroi)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210154000 +0100" stop="20151210173500 +0100">
+    <length units="minutes">115</length>
+    <title>Basket-ball (Willebroek / Louvain)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210173500 +0100" stop="20151210183000 +0100">
+    <length units="minutes">55</length>
+    <title>Football (Championnat d'Allemagne)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210183000 +0100" stop="20151210192000 +0100">
+    <length units="minutes">50</length>
+    <title>Football (Championnat d'Angleterre)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210192000 +0100" stop="20151210195000 +0100">
+    <length units="minutes">30</length>
+    <title>Le monde de la Premier League</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210195000 +0100" stop="20151210214500 +0100">
+    <length units="minutes">115</length>
+    <title>Basket-ball (Efes Istanbul (Tur) / Vitoria (Esp))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210214500 +0100" stop="20151210231500 +0100">
+    <length units="minutes">90</length>
+    <title>L'Europe des 11</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210231500 +0100" stop="20151210234500 +0100">
+    <length units="minutes">30</length>
+    <title>Voitures de légende</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210234500 +0100" stop="20151211135500 +0100">
+    <length units="minutes">850</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211135500 +0100" stop="20151211153500 +0100">
+    <length units="minutes">100</length>
+    <title>Rugby (Toulouse / Oyonnax)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211153500 +0100" stop="20151211161500 +0100">
+    <length units="minutes">40</length>
+    <title>Jour de rugby</title>
+    <category>Sport</category>
+    <desc>10e journée de Top 14 (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211161500 +0100" stop="20151211171000 +0100">
+    <length units="minutes">55</length>
+    <title>Football (Championnat d'Allemagne)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211171000 +0100" stop="20151211180000 +0100">
+    <length units="minutes">50</length>
+    <title>Football (Championnat d'Angleterre)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211180000 +0100" stop="20151211195500 +0100">
+    <length units="minutes">115</length>
+    <title>Basket-ball (Efes Istanbul (Tur) / Vitoria (Esp))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211195500 +0100" stop="20151211202500 +0100">
+    <length units="minutes">30</length>
     <title>World Sport</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151123180000 +0100" stop="20151123194000 +0100">
-    <length units="minutes">100</length>
-    <title>L'Europe des 11</title>
+  <programme channel="test" start="20151211202500 +0100" stop="20151211222500 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Mayence / Stuttgart)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151123194000 +0100" stop="20151123202000 +0100">
-    <length units="minutes">40</length>
-    <title>Docs de sport</title>
-    <category>Documentaire</category>
-    <desc>Les insurgés du foot syrien Exilés des quatre coins de la Syrie, des footballeurs, réunis autour d'un projet sportif et politique, ambitionnent de créer une sélection... (Lire la suite).(n)</desc>
+  <programme channel="test" start="20151211222500 +0100" stop="20151211225000 +0100">
+    <length units="minutes">25</length>
+    <title>Preview Show</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151123202000 +0100" stop="20151123205500 +0100">
+  <programme channel="test" start="20151211225000 +0100" stop="20151211231500 +0100">
+    <length units="minutes">25</length>
+    <title>Le monde de la Premier League</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211231500 +0100" stop="20151211235000 +0100">
     <length units="minutes">35</length>
     <title>Docs de sport</title>
     <category>Documentaire</category>
-    <desc>Hongrie, un football d'état Il faut remonter à la Coupe du monde 1986 pour voir la sélection nationale hongroise disputer une grande compétition. Trente ans que les Hongrois... (Lire la suite).(n)</desc>
+    <desc>Mazembe : au royaume du Tout Puissant (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151123205500 +0100" stop="20151123225500 +0100">
+  <programme channel="test" start="20151211235000 +0100" stop="20151212015000 +0100">
     <length units="minutes">120</length>
-    <title>Football (Crystal Palace / Sunderland)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151123225500 +0100" stop="20151124004000 +0100">
-    <length units="minutes">105</length>
-    <title>L'Europe des 11</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
+    <title>Be Sport en résumés</title>
+    <category>Magazine</category>
+    <desc>Toutes les images des événements sportifs qui... (Lire la suite).(n)</desc>
     <image />
   </programme>
 </tv>

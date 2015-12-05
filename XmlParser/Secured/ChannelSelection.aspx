@@ -183,90 +183,89 @@
                     },
                     moveToRight: function (multiselect, options, event, silent, skipStack) {
 
-                        document.getElementById("<%=hidLeft.ClientID%>").value = '';
+                        document.getElementById("<%=hidLeft.ClientID%>").value = "";
+
+                        for (var i = 0; i < options.length; i++) {
+                            document.getElementById("<%=hidRight.ClientID%>").value += options[i].value + ",";
+                        }
+
+                        var button = $(event.currentTarget).attr("id");
+                        var leftOptions;
+
+                        if (button == "FeaturedContent_undo_redo_rightSelected") {
+                            leftOptions = multiselect.left.find("option:selected");
+                            multiselect.right.eq(0).append(leftOptions);
+
+                            if (typeof multiselect.callbacks.sort == "function" && !silent) {
+                                multiselect.right.eq(0).find("option").sort(multiselect.callbacks.sort).appendTo(multiselect.right.eq(0));
+                            }
+                        } else if (button == "FeaturedContent_undo_redo_rightAll") {
+                            leftOptions = multiselect.left.find("option");
+                            multiselect.right.eq(0).append(leftOptions);
+
+                            if (typeof multiselect.callbacks.sort == "function" && !silent) {
+                                multiselect.right.eq(0).find("option").sort(multiselect.callbacks.sort).appendTo(multiselect.right.eq(0));
+                            }
+                        } else if (button == "FeaturedContent_undo_redo_rightSelected_2") {
+                            leftOptions = multiselect.left.find("option:selected");
+                            multiselect.right.eq(1).append(leftOptions);
+
+                            if (typeof multiselect.callbacks.sort == "function" && !silent) {
+                                multiselect.right.eq(1).find("option").sort(multiselect.callbacks.sort).appendTo(multiselect.right.eq(1));
+                            }
+                        } else if (button == "FeaturedContent_undo_redo_rightAll_2") {
+                            leftOptions = multiselect.left.find("option");
+                            multiselect.right.eq(1).append(leftOptions);
+
+                            if (typeof multiselect.callbacks.sort == "function" && !silent) {
+                                multiselect.right.eq(1).eq(1).find("option").sort(multiselect.callbacks.sort).appendTo(multiselect.right.eq(1));
+                            }
+                        }
+                    },
+
+
+                    moveToLeft: function (multiselect, options, event, silent, skipStack) {
+
+                        document.getElementById("<%=hidRight.ClientID%>").value = "";
 
                     for (var i = 0; i < options.length; i++) {
-                        if (document.getElementById("<%=hidRight.ClientID%>").value.indexOf(options[i].value) == -1)
-                                document.getElementById("<%=hidRight.ClientID%>").value += options[i].value + ",";
+                        document.getElementById("<%=hidLeft.ClientID%>").value += options[i].value + ",";
                         }
 
                     var button = $(event.currentTarget).attr('id');
+                    var rightOptions;
+                    if (button == "FeaturedContent_undo_redo_leftAll") {
+                        rightOptions = multiselect.right.eq(0).find("option");
+                        multiselect.left.append(rightOptions);
 
-                    if (button == 'FeaturedContent_undo_redo_rightSelected') {
-                        var left_options = multiselect.left.find('option:selected');
-                        multiselect.right.eq(0).append(left_options);
-
-                        if (typeof multiselect.callbacks.sort == 'function' && !silent) {
-                            multiselect.right.eq(0).find('option').sort(multiselect.callbacks.sort).appendTo(multiselect.right.eq(0));
+                        if (typeof multiselect.callbacks.sort == "function" && !silent) {
+                            multiselect.left.find("option").sort(multiselect.callbacks.sort).appendTo(multiselect.left);
                         }
-                    } else if (button == 'FeaturedContent_undo_redo_rightAll') {
-                        var left_options = multiselect.left.find('option');
-                        multiselect.right.eq(0).append(left_options);
+                    } else if (button == "FeaturedContent_undo_redo_leftSelected") {
+                        rightOptions = multiselect.right.eq(0).find("option:selected");
+                        multiselect.left.append(rightOptions);
 
-                        if (typeof multiselect.callbacks.sort == 'function' && !silent) {
-                            multiselect.right.eq(0).find('option').sort(multiselect.callbacks.sort).appendTo(multiselect.right.eq(0));
+                        if (typeof multiselect.callbacks.sort == "function" && !silent) {
+                            multiselect.left.find("option").sort(multiselect.callbacks.sort).appendTo(multiselect.left);
                         }
-                    } else if (button == 'FeaturedContent_undo_redo_rightSelected_2') {
-                        var left_options = multiselect.left.find('option:selected');
-                        multiselect.right.eq(1).append(left_options);
+                    } else if (button == "FeaturedContent_leftSelected_2") {
+                        rightOptions = multiselect.right.eq(1).find("option:selected");
+                        multiselect.left.append(rightOptions);
 
-                        if (typeof multiselect.callbacks.sort == 'function' && !silent) {
-                            multiselect.right.eq(1).find('option').sort(multiselect.callbacks.sort).appendTo(multiselect.right.eq(1));
+                        if (typeof multiselect.callbacks.sort == "function" && !silent) {
+                            multiselect.left.find("option").sort(multiselect.callbacks.sort).appendTo(multiselect.left);
                         }
-                    } else if (button == 'FeaturedContent_undo_redo_rightAll_2') {
-                        var left_options = multiselect.left.find('option');
-                        multiselect.right.eq(1).append(left_options);
+                    } else if (button == "FeaturedContent_leftAll_2") {
+                        rightOptions = multiselect.right.eq(1).find("option");
+                        multiselect.left.append(rightOptions);
 
-                        if (typeof multiselect.callbacks.sort == 'function' && !silent) {
-                            multiselect.right.eq(1).eq(1).find('option').sort(multiselect.callbacks.sort).appendTo(multiselect.right.eq(1));
-                        }
-                    }
-                },
-
-
-                moveToLeft: function (multiselect, options, event, silent, skipStack) {
-
-                    document.getElementById("<%=hidRight.ClientID%>").value = '';
-
-                        for (var i = 0; i < options.length; i++) {
-                            if (document.getElementById("<%=hidLeft.ClientID%>").value.indexOf(options[i].value) == -1)
-                                document.getElementById("<%=hidLeft.ClientID%>").value += options[i].value + ",";
-                        }
-
-                        var button = $(event.currentTarget).attr('id');
-                        if (button == 'FeaturedContent_undo_redo_leftAll') {
-                            var right_options = multiselect.right.eq(0).find('option');
-                            multiselect.left.append(right_options);
-
-                            if (typeof multiselect.callbacks.sort == 'function' && !silent) {
-                                multiselect.left.find('option').sort(multiselect.callbacks.sort).appendTo(multiselect.left);
-                            }
-                        } else if (button == 'FeaturedContent_undo_redo_leftSelected') {
-                            var right_options = multiselect.right.eq(0).find('option:selected');
-                            multiselect.left.append(right_options);
-
-                            if (typeof multiselect.callbacks.sort == 'function' && !silent) {
-                                multiselect.left.find('option').sort(multiselect.callbacks.sort).appendTo(multiselect.left);
-                            }
-                        } else if (button == 'FeaturedContent_leftSelected_2') {
-                            var right_options = multiselect.right.eq(1).find('option:selected');
-                            multiselect.left.append(right_options);
-
-                            if (typeof multiselect.callbacks.sort == 'function' && !silent) {
-                                multiselect.left.find('option').sort(multiselect.callbacks.sort).appendTo(multiselect.left);
-                            }
-                        } else if (button == 'FeaturedContent_leftAll_2') {
-                            var right_options = multiselect.right.eq(1).find('option');
-                            multiselect.left.append(right_options);
-
-                            if (typeof multiselect.callbacks.sort == 'function' && !silent) {
-                                multiselect.left.find('option').sort(multiselect.callbacks.sort).appendTo(multiselect.left);
-                            }
+                        if (typeof multiselect.callbacks.sort == "function" && !silent) {
+                            multiselect.left.find("option").sort(multiselect.callbacks.sort).appendTo(multiselect.left);
                         }
                     }
-
+                }
+                });
             });
-        });
 
         </script>
     </div>

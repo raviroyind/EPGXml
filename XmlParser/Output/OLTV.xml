@@ -3,137 +3,1068 @@
   <channel id="OLTV">
     <display-name>test</display-name>
   </channel>
-  <programme channel="test" start="20151124060000 +0100" stop="20151124064500 +0100">
+  <programme channel="test" start="20151205001500 +0100" stop="20151205004500 +0100">
+    <length units="minutes">30</length>
+    <title>Veille de match</title>
+    <category>Sport</category>
+    <desc>Présentation de Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205004500 +0100" stop="20151205014500 +0100">
+    <length units="minutes">60</length>
+    <title>L'avant-match</title>
+    <category>Sport</category>
+    <desc>Présentation Nantes / Lyon (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205014500 +0100" stop="20151205033000 +0100">
+    <length units="minutes">105</length>
+    <title>Football (Nantes / Lyon)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205033000 +0100" stop="20151205043000 +0100">
+    <length units="minutes">60</length>
+    <title>L'après-match</title>
+    <category>Sport</category>
+    <desc>Après Nantes / Lyon (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205043000 +0100" stop="20151205053000 +0100">
+    <length units="minutes">60</length>
+    <title>Dr'OL de DAM</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205053000 +0100" stop="20151205060000 +0100">
+    <length units="minutes">30</length>
+    <title>Veille de match</title>
+    <category>Sport</category>
+    <desc>Présentation de Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205060000 +0100" stop="20151205064500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205064500 +0100" stop="20151205070000 +0100">
+    <length units="minutes">15</length>
+    <title>Intermède</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205070000 +0100" stop="20151205080000 +0100">
+    <length units="minutes">60</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205080000 +0100" stop="20151205090000 +0100">
+    <length units="minutes">60</length>
+    <title>Dr'OL de DAM</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205090000 +0100" stop="20151205093000 +0100">
+    <length units="minutes">30</length>
+    <title>OL Infos</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205093000 +0100" stop="20151205100000 +0100">
+    <length units="minutes">30</length>
+    <title>Veille de match</title>
+    <category>Sport</category>
+    <desc>Présentation de Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205100000 +0100" stop="20151205103000 +0100">
+    <length units="minutes">30</length>
+    <title>OL Infos</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205103000 +0100" stop="20151205123000 +0100">
+    <length units="minutes">120</length>
+    <title>OL Rétro</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205123000 +0100" stop="20151205130000 +0100">
+    <length units="minutes">30</length>
+    <title>OL Infos</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205130000 +0100" stop="20151205133000 +0100">
+    <length units="minutes">30</length>
+    <title>Veille de match</title>
+    <category>Sport</category>
+    <desc>Présentation de Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205133000 +0100" stop="20151205140000 +0100">
+    <length units="minutes">30</length>
+    <title>OL Infos</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205140000 +0100" stop="20151205143000 +0100">
+    <length units="minutes">30</length>
+    <title>Sur la route</title>
+    <category>Sport</category>
+    <desc>Patrick Müller (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205143000 +0100" stop="20151205150000 +0100">
+    <length units="minutes">30</length>
+    <title>Veille de match</title>
+    <category>Sport</category>
+    <desc>Présentation de Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205150000 +0100" stop="20151205170000 +0100">
+    <length units="minutes">120</length>
+    <title>L'avant-match</title>
+    <category>Sport</category>
+    <desc>Présentation de Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205170000 +0100" stop="20151205190000 +0100">
+    <length units="minutes">120</length>
+    <title>Direct audio</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205190000 +0100" stop="20151205200000 +0100">
+    <length units="minutes">60</length>
+    <title>L'après-match</title>
+    <category>Sport</category>
+    <desc>Après Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205200000 +0100" stop="20151205210000 +0100">
+    <length units="minutes">60</length>
+    <title>Dr'OL de DAM</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205210000 +0100" stop="20151205230000 +0100">
+    <length units="minutes">120</length>
+    <title>OL Rétro</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205230000 +0100" stop="20151205233000 +0100">
+    <length units="minutes">30</length>
+    <title>Grand stade, le mag</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205233000 +0100" stop="20151206000000 +0100">
+    <length units="minutes">30</length>
+    <title>L'extra</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206000000 +0100" stop="20151206030000 +0100">
+    <length units="minutes">180</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Coline Benaboura décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>La compil' de la semaine (Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206030000 +0100" stop="20151206050000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Nantes / Lyon)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206050000 +0100" stop="20151206060000 +0100">
+    <length units="minutes">60</length>
+    <title>L'après-match</title>
+    <category>Sport</category>
+    <desc>Après Nantes / Lyon (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206060000 +0100" stop="20151206080000 +0100">
+    <length units="minutes">120</length>
+    <title>OL Rétro</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206080000 +0100" stop="20151206083000 +0100">
+    <length units="minutes">30</length>
+    <title>Grand stade, le mag</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206083000 +0100" stop="20151206113000 +0100">
+    <length units="minutes">180</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Coline Benaboura décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>La compil' de la semaine (Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206113000 +0100" stop="20151206123000 +0100">
+    <length units="minutes">60</length>
+    <title>Sur la route</title>
+    <category>Sport</category>
+    <desc>Patrick Müller (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206123000 +0100" stop="20151206133000 +0100">
+    <length units="minutes">60</length>
+    <title>Dr'OL de DAM</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206133000 +0100" stop="20151206140000 +0100">
+    <length units="minutes">30</length>
+    <title>L'extra</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206140000 +0100" stop="20151206143000 +0100">
+    <length units="minutes">30</length>
+    <title>Grand stade, le mag</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206143000 +0100" stop="20151206163000 +0100">
+    <length units="minutes">120</length>
+    <title>OL Rétro</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206163000 +0100" stop="20151206183000 +0100">
+    <length units="minutes">120</length>
+    <title>Sur la route</title>
+    <category>Sport</category>
+    <desc>Patrick Müller (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206183000 +0100" stop="20151206213000 +0100">
+    <length units="minutes">180</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Coline Benaboura décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>La compil' de la semaine (Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206213000 +0100" stop="20151206220000 +0100">
+    <length units="minutes">30</length>
+    <title>Grand stade, le mag</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206220000 +0100" stop="20151207000000 +0100">
+    <length units="minutes">120</length>
+    <title>L'avant-match</title>
+    <category>Sport</category>
+    <desc>Présentation de Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207000000 +0100" stop="20151207020000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Lyon / Angers)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207020000 +0100" stop="20151207030000 +0100">
+    <length units="minutes">60</length>
+    <title>L'après-match</title>
+    <category>Sport</category>
+    <desc>Après Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207030000 +0100" stop="20151207060000 +0100">
+    <length units="minutes">180</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Coline Benaboura décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>La compil' de la semaine (Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207060000 +0100" stop="20151207063000 +0100">
+    <length units="minutes">30</length>
+    <title>Grand stade, le mag</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207063000 +0100" stop="20151207073000 +0100">
+    <length units="minutes">60</length>
+    <title>Dr'OL de DAM</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207073000 +0100" stop="20151207093000 +0100">
+    <length units="minutes">120</length>
+    <title>L'avant-match</title>
+    <category>Sport</category>
+    <desc>Présentation de Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207093000 +0100" stop="20151207113000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Lyon / Angers)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207113000 +0100" stop="20151207123000 +0100">
+    <length units="minutes">60</length>
+    <title>L'après-match</title>
+    <category>Sport</category>
+    <desc>Après Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207123000 +0100" stop="20151207130000 +0100">
+    <length units="minutes">30</length>
+    <title>Grand stade, le mag</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207130000 +0100" stop="20151207140000 +0100">
+    <length units="minutes">60</length>
+    <title>Dr'OL de DAM</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207140000 +0100" stop="20151207143000 +0100">
+    <length units="minutes">30</length>
+    <title>L'extra</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207143000 +0100" stop="20151207163000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Lyon / Angers)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207163000 +0100" stop="20151207183000 +0100">
+    <length units="minutes">120</length>
+    <title>L'hebdo féminin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207183000 +0100" stop="20151207191500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207191500 +0100" stop="20151207193000 +0100">
+    <length units="minutes">15</length>
+    <title>Intermède</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207193000 +0100" stop="20151207201500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207201500 +0100" stop="20151207223000 +0100">
+    <length units="minutes">135</length>
+    <title>Football (Lyon / Jura Sud)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207223000 +0100" stop="20151207231500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207231500 +0100" stop="20151207233000 +0100">
+    <length units="minutes">15</length>
+    <title>Intermède</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207233000 +0100" stop="20151208001500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208001500 +0100" stop="20151208020000 +0100">
+    <length units="minutes">105</length>
+    <title>Football (Lyon / Jura Sud)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208020000 +0100" stop="20151208040000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Montpellier / Lyon)</title>
+    <category>Sport</category>
+    <desc>Le stade de l'Epopée, à Calais, accueille la finale de la Coupe de France féminine qui met aux prises les invincibles Lyonnaises, de nouveau... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208040000 +0100" stop="20151208060000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Lyon / Angers)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208060000 +0100" stop="20151208064500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208064500 +0100" stop="20151208070000 +0100">
+    <length units="minutes">15</length>
+    <title>Intermède</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208070000 +0100" stop="20151208074500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208074500 +0100" stop="20151208100000 +0100">
+    <length units="minutes">135</length>
+    <title>Football (Lyon / Angers)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208100000 +0100" stop="20151208110000 +0100">
+    <length units="minutes">60</length>
+    <title>L'après-match</title>
+    <category>Sport</category>
+    <desc>Après Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208110000 +0100" stop="20151208113000 +0100">
+    <length units="minutes">30</length>
+    <title>Grand stade, le mag</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208113000 +0100" stop="20151208123000 +0100">
+    <length units="minutes">60</length>
+    <title>Dr'OL de DAM</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208123000 +0100" stop="20151208131500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208131500 +0100" stop="20151208133000 +0100">
+    <length units="minutes">15</length>
+    <title>Intermède</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208133000 +0100" stop="20151208141500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208141500 +0100" stop="20151208163000 +0100">
+    <length units="minutes">135</length>
+    <title>L'hebdo féminin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208163000 +0100" stop="20151208183000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Lyon / Jura Sud)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208183000 +0100" stop="20151208191500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208191500 +0100" stop="20151208193000 +0100">
+    <length units="minutes">15</length>
+    <title>Intermède</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208193000 +0100" stop="20151208201500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208201500 +0100" stop="20151208223000 +0100">
+    <length units="minutes">135</length>
+    <title>Football (Lyon / Angers)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208223000 +0100" stop="20151208231500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208231500 +0100" stop="20151208233000 +0100">
+    <length units="minutes">15</length>
+    <title>Intermède</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208233000 +0100" stop="20151209001500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209001500 +0100" stop="20151209021500 +0100">
+    <length units="minutes">120</length>
+    <title>L'avant-match</title>
+    <category>Sport</category>
+    <desc>Présentation de Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209021500 +0100" stop="20151209040000 +0100">
+    <length units="minutes">105</length>
+    <title>Football (Lyon / Angers)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209040000 +0100" stop="20151209050000 +0100">
+    <length units="minutes">60</length>
+    <title>L'après-match</title>
+    <category>Sport</category>
+    <desc>Après Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209050000 +0100" stop="20151209060000 +0100">
+    <length units="minutes">60</length>
+    <title>Dr'OL de DAM</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209060000 +0100" stop="20151209064500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209064500 +0100" stop="20151209070000 +0100">
+    <length units="minutes">15</length>
+    <title>Intermède</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209070000 +0100" stop="20151209074500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209074500 +0100" stop="20151209081500 +0100">
+    <length units="minutes">30</length>
+    <title>L'extra</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209081500 +0100" stop="20151209103000 +0100">
+    <length units="minutes">135</length>
+    <title>Football (Lyon / Jura Sud)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209103000 +0100" stop="20151209123000 +0100">
+    <length units="minutes">120</length>
+    <title>L'hebdo féminin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209123000 +0100" stop="20151209131500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209131500 +0100" stop="20151209133000 +0100">
+    <length units="minutes">15</length>
+    <title>Intermède</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209133000 +0100" stop="20151209141500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209141500 +0100" stop="20151209160000 +0100">
+    <length units="minutes">105</length>
+    <title>Football (Lyon / Angers)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209160000 +0100" stop="20151209170000 +0100">
+    <length units="minutes">60</length>
+    <title>L'après-match</title>
+    <category>Sport</category>
+    <desc>Après Lyon / Angers (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209170000 +0100" stop="20151209190000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Lyon (Fra) / Valence (Esp))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209190000 +0100" stop="20151209194500 +0100">
+    <length units="minutes">45</length>
+    <title>Grand stade, le mag</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209194500 +0100" stop="20151209204500 +0100">
+    <length units="minutes">60</length>
+    <title>L'avant-match</title>
+    <category>Sport</category>
+    <desc>Présentation Valence / Lyon (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209204500 +0100" stop="20151209224500 +0100">
+    <length units="minutes">120</length>
+    <title>Direct audio</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209224500 +0100" stop="20151210000000 +0100">
+    <length units="minutes">75</length>
+    <title>L'après-match</title>
+    <category>Sport</category>
+    <desc>Après Valence / Lyon (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210000000 +0100" stop="20151210020000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Valence (Esp) / Lyon (Fra))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210020000 +0100" stop="20151210030000 +0100">
+    <length units="minutes">60</length>
+    <title>L'après-match</title>
+    <category>Sport</category>
+    <desc>Après Valence / Lyon (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210030000 +0100" stop="20151210040000 +0100">
+    <length units="minutes">60</length>
+    <title>Dr'OL de DAM</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210040000 +0100" stop="20151210060000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Lyon / Jura Sud)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210060000 +0100" stop="20151210080000 +0100">
+    <length units="minutes">120</length>
+    <title>L'hebdo féminin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210080000 +0100" stop="20151210083000 +0100">
+    <length units="minutes">30</length>
+    <title>Grand stade, le mag</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210083000 +0100" stop="20151210093000 +0100">
+    <length units="minutes">60</length>
+    <title>L'avant-match</title>
+    <category>Sport</category>
+    <desc>Présentation Valence / Lyon (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210093000 +0100" stop="20151210113000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Valence (Esp) / Lyon (Fra))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210113000 +0100" stop="20151210123000 +0100">
+    <length units="minutes">60</length>
+    <title>L'après-match</title>
+    <category>Sport</category>
+    <desc>Après Valence / Lyon (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210123000 +0100" stop="20151210143000 +0100">
+    <length units="minutes">120</length>
+    <title>L'hebdo féminin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210143000 +0100" stop="20151210163000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Valence (Esp) / Lyon (Fra))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210163000 +0100" stop="20151210183000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Valence (Esp) / Lyon (Fra))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210183000 +0100" stop="20151210191500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210191500 +0100" stop="20151210193000 +0100">
+    <length units="minutes">15</length>
+    <title>Intermède</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210193000 +0100" stop="20151210201500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210201500 +0100" stop="20151210204500 +0100">
+    <length units="minutes">30</length>
+    <title>Le mag Europe</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210204500 +0100" stop="20151210211500 +0100">
+    <length units="minutes">30</length>
+    <title>L'extra</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210211500 +0100" stop="20151210221500 +0100">
+    <length units="minutes">60</length>
+    <title>Dr'OL de DAM</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210221500 +0100" stop="20151210230000 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210230000 +0100" stop="20151210231500 +0100">
+    <length units="minutes">15</length>
+    <title>Intermède</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210231500 +0100" stop="20151211001500 +0100">
+    <length units="minutes">60</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211001500 +0100" stop="20151211004500 +0100">
+    <length units="minutes">30</length>
+    <title>Le mag Europe</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211004500 +0100" stop="20151211014500 +0100">
+    <length units="minutes">60</length>
+    <title>L'avant-match</title>
+    <category>Sport</category>
+    <desc>Présentation de Lyon / Valence (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211014500 +0100" stop="20151211034500 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Lyon (Fra) / Valence (Esp))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211034500 +0100" stop="20151211050000 +0100">
+    <length units="minutes">75</length>
+    <title>L'après-match</title>
+    <category>Sport</category>
+    <desc>Après Lyon / Valence (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211050000 +0100" stop="20151211053000 +0100">
+    <length units="minutes">30</length>
+    <title>Grand stade, le mag</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211053000 +0100" stop="20151211060000 +0100">
+    <length units="minutes">30</length>
+    <title>Le mag Europe</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211060000 +0100" stop="20151211064500 +0100">
     <length units="minutes">45</length>
     <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124064500 +0100" stop="20151124070000 +0100">
+  <programme channel="test" start="20151211064500 +0100" stop="20151211070000 +0100">
     <length units="minutes">15</length>
     <title>Intermède</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124070000 +0100" stop="20151124080000 +0100">
-    <length units="minutes">60</length>
+  <programme channel="test" start="20151211070000 +0100" stop="20151211074500 +0100">
+    <length units="minutes">45</length>
     <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124080000 +0100" stop="20151124083000 +0100">
-    <length units="minutes">30</length>
-    <title>OL Infos</title>
+  <programme channel="test" start="20151211074500 +0100" stop="20151211100000 +0100">
+    <length units="minutes">135</length>
+    <title>Football (Valence (Esp) / Lyon (Fra))</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124083000 +0100" stop="20151124090000 +0100">
-    <length units="minutes">30</length>
-    <title>L'extra</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124090000 +0100" stop="20151124093000 +0100">
-    <length units="minutes">30</length>
-    <title>OL Infos</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124093000 +0100" stop="20151124103000 +0100">
-    <length units="minutes">60</length>
-    <title>Génération OL</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124103000 +0100" stop="20151124110000 +0100">
-    <length units="minutes">30</length>
-    <title>OL Infos</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124110000 +0100" stop="20151124123000 +0100">
-    <length units="minutes">90</length>
-    <title>L'hebdo féminin</title>
-    <category>Sport</category>
-    <desc>Spécial Ligue des champions féminine (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124123000 +0100" stop="20151124130000 +0100">
-    <length units="minutes">30</length>
-    <title>OL Infos</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124130000 +0100" stop="20151124133000 +0100">
-    <length units="minutes">30</length>
-    <title>L'extra</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124133000 +0100" stop="20151124140000 +0100">
-    <length units="minutes">30</length>
-    <title>OL Infos</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124140000 +0100" stop="20151124160000 +0100">
+  <programme channel="test" start="20151211100000 +0100" stop="20151211120000 +0100">
     <length units="minutes">120</length>
-    <title>Football (Lyon / Troyes)</title>
+    <title>Football (Valence (Esp) / Lyon (Fra))</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124160000 +0100" stop="20151124164500 +0100">
+  <programme channel="test" start="20151211120000 +0100" stop="20151211123000 +0100">
+    <length units="minutes">30</length>
+    <title>Le mag Europe</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211123000 +0100" stop="20151211131500 +0100">
     <length units="minutes">45</length>
-    <title>Sur la route</title>
-    <category>Sport</category>
-    <desc>Patrick Müller (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124164500 +0100" stop="20151124171500 +0100">
-    <length units="minutes">30</length>
-    <title>OL Infos</title>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124171500 +0100" stop="20151124190000 +0100">
+  <programme channel="test" start="20151211131500 +0100" stop="20151211133000 +0100">
+    <length units="minutes">15</length>
+    <title>Intermède</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211133000 +0100" stop="20151211141500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211141500 +0100" stop="20151211160000 +0100">
     <length units="minutes">105</length>
-    <title>Football (La Gantoise (Bel) / Lyon (Fra))</title>
-    <category>Sport</category>
-    <desc>L'Olympique Lyonnais fait sa rentrée européenne en défiant La Gantoise, le champion de Belgique en titre. Dans ce groupe H, où figurent également... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124190000 +0100" stop="20151124204000 +0100">
-    <length units="minutes">100</length>
-    <title>Avant-match</title>
-    <category>Sport</category>
-    <desc>Présentation du match de la Ligue des champions : Lyon / La Gantoise (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124204000 +0100" stop="20151124224000 +0100">
-    <length units="minutes">120</length>
-    <title>Direct audio</title>
+    <title>Football (Valence (Esp) / Lyon (Fra))</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124224000 +0100" stop="20151125000000 +0100">
-    <length units="minutes">80</length>
-    <title>L'après-match</title>
+  <programme channel="test" start="20151211160000 +0100" stop="20151211163000 +0100">
+    <length units="minutes">30</length>
+    <title>Le mag Europe</title>
     <category>Sport</category>
-    <desc>Après Lyon / La Gantoise (Lire la suite).(n)</desc>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211163000 +0100" stop="20151211170000 +0100">
+    <length units="minutes">30</length>
+    <title>L'extra</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211170000 +0100" stop="20151211180000 +0100">
+    <length units="minutes">60</length>
+    <title>Dr'OL de DAM</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211180000 +0100" stop="20151211183000 +0100">
+    <length units="minutes">30</length>
+    <title>Grand stade, le mag</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211183000 +0100" stop="20151211191500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211191500 +0100" stop="20151211193000 +0100">
+    <length units="minutes">15</length>
+    <title>Intermède</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211193000 +0100" stop="20151211201500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211201500 +0100" stop="20151211204500 +0100">
+    <length units="minutes">30</length>
+    <title>Veille de match</title>
+    <category>Sport</category>
+    <desc>Présentation de Paris-SG / Lyon (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211204500 +0100" stop="20151211223000 +0100">
+    <length units="minutes">105</length>
+    <title>Football (Valence (Esp) / Lyon (Fra))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211223000 +0100" stop="20151211231500 +0100">
+    <length units="minutes">45</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211231500 +0100" stop="20151211233000 +0100">
+    <length units="minutes">15</length>
+    <title>Intermède</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211233000 +0100" stop="20151212050000 +0100">
+    <length units="minutes">330</length>
+    <title>Culture Club (En compagnie d'un journaliste et d'un invité, Héloïse Basson décortique l'actualité de l'OL)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
 </tv>

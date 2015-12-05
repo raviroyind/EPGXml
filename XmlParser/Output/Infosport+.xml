@@ -3,176 +3,1001 @@
   <channel id="Infosport+">
     <display-name>test</display-name>
   </channel>
-  <programme channel="test" start="20151124060000 +0100" stop="20151124100000 +0100">
+  <programme channel="test" start="20151205000000 +0100" stop="20151205050000 +0100">
+    <length units="minutes">300</length>
+    <title>Sports Week-end</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Vincent Radureau,</name>
+      <name function="presenter">Virginie Ramel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205050000 +0100" stop="20151205060000 +0100">
+    <length units="minutes">60</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205060000 +0100" stop="20151205120000 +0100">
+    <length units="minutes">360</length>
+    <title>La matinale</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Lesly Boitrelle</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205120000 +0100" stop="20151205163000 +0100">
+    <length units="minutes">270</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205163000 +0100" stop="20151205164500 +0100">
+    <length units="minutes">15</length>
+    <title>Journal en langue des signes</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205164500 +0100" stop="20151205170000 +0100">
+    <length units="minutes">15</length>
+    <title>Debrief Rugby</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205170000 +0100" stop="20151205190000 +0100">
+    <length units="minutes">120</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205190000 +0100" stop="20151205200000 +0100">
+    <length units="minutes">60</length>
+    <title>Debrief L1</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205200000 +0100" stop="20151205204500 +0100">
+    <length units="minutes">45</length>
+    <title>Sports Week-end</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Vincent Radureau,</name>
+      <name function="presenter">Virginie Ramel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205204500 +0100" stop="20151205210000 +0100">
+    <length units="minutes">15</length>
+    <title>Debrief Rugby</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205210000 +0100" stop="20151205220000 +0100">
+    <length units="minutes">60</length>
+    <title>Sports Week-end</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Vincent Radureau,</name>
+      <name function="presenter">Virginie Ramel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205220000 +0100" stop="20151205224500 +0100">
+    <length units="minutes">45</length>
+    <title>Debrief L1</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205224500 +0100" stop="20151205230000 +0100">
+    <length units="minutes">15</length>
+    <title>Debrief Rugby</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205230000 +0100" stop="20151206000000 +0100">
+    <length units="minutes">60</length>
+    <title>Sports Week-end</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Vincent Radureau,</name>
+      <name function="presenter">Virginie Ramel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206000000 +0100" stop="20151206050000 +0100">
+    <length units="minutes">300</length>
+    <title>Sports Week-end</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Vincent Radureau,</name>
+      <name function="presenter">Virginie Ramel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206050000 +0100" stop="20151206060000 +0100">
+    <length units="minutes">60</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206060000 +0100" stop="20151206120000 +0100">
+    <length units="minutes">360</length>
+    <title>La matinale</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Lesly Boitrelle</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206120000 +0100" stop="20151206163000 +0100">
+    <length units="minutes">270</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206163000 +0100" stop="20151206164500 +0100">
+    <length units="minutes">15</length>
+    <title>Journal en langue des signes</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206164500 +0100" stop="20151206180000 +0100">
+    <length units="minutes">75</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206180000 +0100" stop="20151206190000 +0100">
+    <length units="minutes">60</length>
+    <title>Sports Week-end</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Vincent Radureau,</name>
+      <name function="presenter">Virginie Ramel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206190000 +0100" stop="20151206200000 +0100">
+    <length units="minutes">60</length>
+    <title>Debrief L1</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206200000 +0100" stop="20151206230000 +0100">
+    <length units="minutes">180</length>
+    <title>Sports Week-end</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Vincent Radureau,</name>
+      <name function="presenter">Virginie Ramel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206230000 +0100" stop="20151207000000 +0100">
+    <length units="minutes">60</length>
+    <title>Debrief L1</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207000000 +0100" stop="20151207050000 +0100">
+    <length units="minutes">300</length>
+    <title>Sports Week-end</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Vincent Radureau,</name>
+      <name function="presenter">Virginie Ramel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207050000 +0100" stop="20151207060000 +0100">
+    <length units="minutes">60</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207060000 +0100" stop="20151207120000 +0100">
+    <length units="minutes">360</length>
+    <title>La matinale</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Lesly Boitrelle</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207120000 +0100" stop="20151207163000 +0100">
+    <length units="minutes">270</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207163000 +0100" stop="20151207164500 +0100">
+    <length units="minutes">15</length>
+    <title>Journal en langue des signes</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207164500 +0100" stop="20151207180000 +0100">
+    <length units="minutes">75</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207180000 +0100" stop="20151207183000 +0100">
+    <length units="minutes">30</length>
+    <title>Le journal du foot</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Eric Besnard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207183000 +0100" stop="20151207190000 +0100">
+    <length units="minutes">30</length>
+    <title>Le journal du foot</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Eric Besnard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207190000 +0100" stop="20151207191500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207191500 +0100" stop="20151207193000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de F1</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207193000 +0100" stop="20151207194500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207194500 +0100" stop="20151207200000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de F1</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207200000 +0100" stop="20151207201500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207201500 +0100" stop="20151207203000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de F1</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207203000 +0100" stop="20151207204500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207204500 +0100" stop="20151207210000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de F1</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207210000 +0100" stop="20151207211500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207211500 +0100" stop="20151207213000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de F1</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207213000 +0100" stop="20151207214500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207214500 +0100" stop="20151207220000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de F1</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207220000 +0100" stop="20151207221500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207221500 +0100" stop="20151207223000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de F1</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207223000 +0100" stop="20151208000000 +0100">
+    <length units="minutes">90</length>
+    <title>Sport Club</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Thomas Guichard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208000000 +0100" stop="20151208050000 +0100">
+    <length units="minutes">300</length>
+    <title>Sport Club</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Thomas Guichard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208050000 +0100" stop="20151208060000 +0100">
+    <length units="minutes">60</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208060000 +0100" stop="20151208100000 +0100">
     <length units="minutes">240</length>
     <title>La matinale</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Flora Moussy</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124100000 +0100" stop="20151124163000 +0100">
+  <programme channel="test" start="20151208100000 +0100" stop="20151208163000 +0100">
+    <length units="minutes">390</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208163000 +0100" stop="20151208164500 +0100">
+    <length units="minutes">15</length>
+    <title>Journal en langue des signes</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208164500 +0100" stop="20151208180000 +0100">
+    <length units="minutes">75</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208180000 +0100" stop="20151208183000 +0100">
+    <length units="minutes">30</length>
+    <title>Le journal du foot</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Eric Besnard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208183000 +0100" stop="20151208190000 +0100">
+    <length units="minutes">30</length>
+    <title>Le journal du foot</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Eric Besnard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208190000 +0100" stop="20151208191500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208191500 +0100" stop="20151208193000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Premier League</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208193000 +0100" stop="20151208194500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208194500 +0100" stop="20151208200000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Premier League</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208200000 +0100" stop="20151208201500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208201500 +0100" stop="20151208203000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Premier League</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208203000 +0100" stop="20151208204500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208204500 +0100" stop="20151208210000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Premier League</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208210000 +0100" stop="20151208211500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208211500 +0100" stop="20151208213000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Premier League</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208213000 +0100" stop="20151208214500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208214500 +0100" stop="20151208220000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Premier League</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208220000 +0100" stop="20151208221500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208221500 +0100" stop="20151208223000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Premier League</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208223000 +0100" stop="20151209000000 +0100">
+    <length units="minutes">90</length>
+    <title>Sport Club</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Thomas Guichard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209000000 +0100" stop="20151209050000 +0100">
+    <length units="minutes">300</length>
+    <title>Sport Club</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Thomas Guichard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209050000 +0100" stop="20151209060000 +0100">
+    <length units="minutes">60</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209060000 +0100" stop="20151209100000 +0100">
+    <length units="minutes">240</length>
+    <title>La matinale</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Marina Lorenzo</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209100000 +0100" stop="20151209163000 +0100">
+    <length units="minutes">390</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209163000 +0100" stop="20151209164500 +0100">
+    <length units="minutes">15</length>
+    <title>Journal en langue des signes</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209164500 +0100" stop="20151209180000 +0100">
+    <length units="minutes">75</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209180000 +0100" stop="20151209183000 +0100">
+    <length units="minutes">30</length>
+    <title>Le journal du foot</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Eric Besnard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209183000 +0100" stop="20151209190000 +0100">
+    <length units="minutes">30</length>
+    <title>Le journal du foot</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Eric Besnard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209190000 +0100" stop="20151209191500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209191500 +0100" stop="20151209193000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Golf</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209193000 +0100" stop="20151209194500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209194500 +0100" stop="20151209200000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Golf</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209200000 +0100" stop="20151209201500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209201500 +0100" stop="20151209203000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Golf</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209203000 +0100" stop="20151209204500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209204500 +0100" stop="20151209210000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Golf</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209210000 +0100" stop="20151209211500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209211500 +0100" stop="20151209213000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Golf</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209213000 +0100" stop="20151209214500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209214500 +0100" stop="20151209220000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Golf</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209220000 +0100" stop="20151209221500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209221500 +0100" stop="20151209223000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Golf</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209223000 +0100" stop="20151210000000 +0100">
+    <length units="minutes">90</length>
+    <title>Sport Club</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Thomas Guichard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210000000 +0100" stop="20151210050000 +0100">
+    <length units="minutes">300</length>
+    <title>Sport Club</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Thomas Guichard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210050000 +0100" stop="20151210060000 +0100">
+    <length units="minutes">60</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210060000 +0100" stop="20151210100000 +0100">
+    <length units="minutes">240</length>
+    <title>La matinale</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Marina Lorenzo</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210100000 +0100" stop="20151210163000 +0100">
+    <length units="minutes">390</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210163000 +0100" stop="20151210164500 +0100">
+    <length units="minutes">15</length>
+    <title>Journal en langue des signes</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210164500 +0100" stop="20151210180000 +0100">
+    <length units="minutes">75</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210180000 +0100" stop="20151210183000 +0100">
+    <length units="minutes">30</length>
+    <title>Le journal du foot</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Eric Besnard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210183000 +0100" stop="20151210190000 +0100">
+    <length units="minutes">30</length>
+    <title>Le journal du foot</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Eric Besnard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210190000 +0100" stop="20151210191500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210191500 +0100" stop="20151210193000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Rugby</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210193000 +0100" stop="20151210194500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210194500 +0100" stop="20151210200000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Rugby</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210200000 +0100" stop="20151210201500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210201500 +0100" stop="20151210203000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Rugby</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210203000 +0100" stop="20151210204500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210204500 +0100" stop="20151210210000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Rugby</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210210000 +0100" stop="20151210211500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210211500 +0100" stop="20151210213000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Rugby</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210213000 +0100" stop="20151210214500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210214500 +0100" stop="20151210220000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Rugby</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210220000 +0100" stop="20151210221500 +0100">
+    <length units="minutes">15</length>
+    <title>Le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210221500 +0100" stop="20151210223000 +0100">
+    <length units="minutes">15</length>
+    <title>+ de Rugby</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210223000 +0100" stop="20151211000000 +0100">
+    <length units="minutes">90</length>
+    <title>Sport Club</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Thomas Guichard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211000000 +0100" stop="20151211050000 +0100">
+    <length units="minutes">300</length>
+    <title>Sport Club</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Thomas Guichard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211050000 +0100" stop="20151211060000 +0100">
+    <length units="minutes">60</length>
+    <title>Le journal en images</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211060000 +0100" stop="20151211100000 +0100">
+    <length units="minutes">240</length>
+    <title>La matinale</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Pauline Sanzey</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211100000 +0100" stop="20151211163000 +0100">
     <length units="minutes">390</length>
     <title>Le journal en images</title>
     <category>Journal</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124163000 +0100" stop="20151124164500 +0100">
+  <programme channel="test" start="20151211163000 +0100" stop="20151211164500 +0100">
     <length units="minutes">15</length>
     <title>Journal en langue des signes</title>
     <category>Journal</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124164500 +0100" stop="20151124171500 +0100">
-    <length units="minutes">30</length>
+  <programme channel="test" start="20151211164500 +0100" stop="20151211180000 +0100">
+    <length units="minutes">75</length>
     <title>Le journal en images</title>
     <category>Journal</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124171500 +0100" stop="20151124174500 +0100">
-    <length units="minutes">30</length>
-    <title>Conférence de presse du Paris-SG</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124174500 +0100" stop="20151124180000 +0100">
-    <length units="minutes">15</length>
-    <title>Le journal en images</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124180000 +0100" stop="20151124183000 +0100">
-    <length units="minutes">30</length>
-    <title>Le journal du foot</title>
+  <programme channel="test" start="20151211180000 +0100" stop="20151211223000 +0100">
+    <length units="minutes">270</length>
+    <title>Sports Week-end</title>
     <category>Journal</category>
     <desc>(Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Eric Besnard</name>
+      <name function="presenter">Vincent Radureau,</name>
+      <name function="presenter">Virginie Ramel</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124183000 +0100" stop="20151124190000 +0100">
+  <programme channel="test" start="20151211223000 +0100" stop="20151211230000 +0100">
     <length units="minutes">30</length>
-    <title>Le journal du foot</title>
+    <title>Debrief L1</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211230000 +0100" stop="20151211231500 +0100">
+    <length units="minutes">15</length>
+    <title>Debrief Rugby</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211231500 +0100" stop="20151211233000 +0100">
+    <length units="minutes">15</length>
+    <title>Debrief L1</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211233000 +0100" stop="20151212000000 +0100">
+    <length units="minutes">30</length>
+    <title>Sports Week-end</title>
     <category>Journal</category>
     <desc>(Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Eric Besnard</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124190000 +0100" stop="20151124191500 +0100">
-    <length units="minutes">15</length>
-    <title>Le JT</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124191500 +0100" stop="20151124193000 +0100">
-    <length units="minutes">15</length>
-    <title>+ de Premier League</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124193000 +0100" stop="20151124194500 +0100">
-    <length units="minutes">15</length>
-    <title>Le JT</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124194500 +0100" stop="20151124200000 +0100">
-    <length units="minutes">15</length>
-    <title>+ de Premier League</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124200000 +0100" stop="20151124201500 +0100">
-    <length units="minutes">15</length>
-    <title>Le JT</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124201500 +0100" stop="20151124203000 +0100">
-    <length units="minutes">15</length>
-    <title>+ de Premier League</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124203000 +0100" stop="20151124204500 +0100">
-    <length units="minutes">15</length>
-    <title>Le JT</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124204500 +0100" stop="20151124210000 +0100">
-    <length units="minutes">15</length>
-    <title>+ de Premier League</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124210000 +0100" stop="20151124211500 +0100">
-    <length units="minutes">15</length>
-    <title>Le JT</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124211500 +0100" stop="20151124213000 +0100">
-    <length units="minutes">15</length>
-    <title>+ de Premier League</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124213000 +0100" stop="20151124214500 +0100">
-    <length units="minutes">15</length>
-    <title>Le JT</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124214500 +0100" stop="20151124220000 +0100">
-    <length units="minutes">15</length>
-    <title>+ de Premier League</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124220000 +0100" stop="20151124221500 +0100">
-    <length units="minutes">15</length>
-    <title>Le JT</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124221500 +0100" stop="20151124223000 +0100">
-    <length units="minutes">15</length>
-    <title>+ de Premier League</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124223000 +0100" stop="20151125000000 +0100">
-    <length units="minutes">90</length>
-    <title>Sport Club</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Thomas Guichard</name>
+      <name function="presenter">Vincent Radureau,</name>
+      <name function="presenter">Virginie Ramel</name>
     </credits>
     <image />
   </programme>

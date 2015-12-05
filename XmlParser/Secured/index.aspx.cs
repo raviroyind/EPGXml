@@ -12,6 +12,8 @@ using System.Linq;
 using System.Net;
 using System.Text.RegularExpressions;
 using System.Web;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
 using System.Web.UI.WebControls;
 using System.Xml.Linq;
 using Ionic.Zip;
@@ -117,7 +119,7 @@ namespace XmlParser
                                          // ignored
                                      }
 
-                                     GenerateOutputXml(xmlFile, newChannelName, newOffset);
+                                     GenerateOutputXml(xmlFile,source.Srno, newChannelName, newOffset);
                                  }
                             }
                         }
@@ -398,7 +400,7 @@ namespace XmlParser
         /// <param name="sourceXml"></param>
         /// <param name="newChannelName"></param>
         /// <param name="newOffset"></param>
-        private  void GenerateOutputXml(string sourceXml,string newChannelName=null,int newOffset=0)
+        private  void GenerateOutputXml(string sourceXml,long srno, string newChannelName=null, int newOffset=0)
         {
             
             var document = XDocument.Load(sourceXml);
@@ -461,8 +463,6 @@ namespace XmlParser
                             channelName = channelName.Substring(0, channelName.IndexOf("http:", StringComparison.Ordinal));
                         }
 
-
-
                         if (string.IsNullOrEmpty(channelName))
                         {
                             channelName = xElements[i].Attributes("display-name").First().Value;
@@ -479,10 +479,35 @@ namespace XmlParser
                     }
 
                     outputFileName = channelName;
+                    
                 }
 
-
                 #endregion Channel Name...
+
+                //1.> Nov-19 - Remove any Illegeal characters from filename.
+                
+                
+                //2.> Nov-25 - Task ID:  1647 (duplicate channel bug ).
+                if (outputFileName.Contains("http://"))
+                {
+                    outputFileName = outputFileName.Substring(0, outputFileName.IndexOf("http://", StringComparison.Ordinal));
+                }
+
+                outputFileName = GetSafeFilename(outputFileName);
+
+                //Check if current channe is active.
+                using (var dataContext=new EPGDataModel())
+                {
+                    var channelList =
+                        dataContext.SourceURLs.Find(srno)
+                            .ActiveChannels.FirstOrDefault(c => c.ChannelName.Equals(outputFileName) && c.IsActive);
+
+                    if (channelList == null)
+                        continue;
+                }
+                //End
+
+
 
                 var tvChannel = new tvChannel
                 {
@@ -627,16 +652,7 @@ namespace XmlParser
 
                 #endregion Programme Nodes...
 
-                //2.> Nov-25 - Task ID:  1647 (duplicate channel bug ).
-                if (outputFileName.Contains("http://"))
-                {
-                    outputFileName = outputFileName.Substring(0, outputFileName.IndexOf("http:", StringComparison.Ordinal));
-                }
-
-                //1.> Nov-19 - Remove any Illegeal characters from filename.
-                
-                outputFileName = GetSafeFilename(outputFileName);
-
+                 
                 _tv.Save(Server.MapPath("../Output/" + outputFileName + ".xml"));
 
 
@@ -782,6 +798,25 @@ namespace XmlParser
             {
                 (e.Row.Cells[3].Controls[2] as ImageButton).Attributes["onclick"] =
                     "if(!confirm('Do you want to delete the record?')){ return false; };";
+
+                var hypChannel = (HyperLink)e.Row.FindControl("hypChannel");
+                if (hypChannel != null)
+                {
+                    var srno = Convert.ToInt64(gvXMLSource.DataKeys[e.Row.RowIndex].Values[0]);
+                    using (var dataContext=new EPGDataModel())
+                    {
+                        var channelList =
+                            dataContext.ActiveChannels.Where(c => c.SourceId.Equals(srno) && c.IsActive).ToList();
+
+                        if (channelList.Count > 0)
+                        {
+                            hypChannel.CssClass = "btn btn-success";
+                            hypChannel.ToolTip = channelList.Count +" channels active!";
+                        }
+                    }
+                    
+                }
+
             }
         }
 
@@ -846,6 +881,7 @@ namespace XmlParser
             using (var dataContext = new EPGDataModel())
             {
                 var source = dataContext.SourceURLs.Find(srno);
+                dataContext.ActiveChannels.RemoveRange(source.ActiveChannels);
                 dataContext.SourceURLs.Remove(source);
                 dataContext.SaveChanges();
             }

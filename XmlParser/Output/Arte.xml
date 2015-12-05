@@ -3,34 +3,478 @@
   <channel id="Arte">
     <display-name>test</display-name>
   </channel>
-  <programme channel="test" start="20151123061500 +0100" stop="20151123064500 +0100">
+  <programme channel="test" start="20151205002000 +0100" stop="20151205011500 +0100">
+    <length units="minutes">55</length>
+    <title>Court-circuit</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : Mon ange - Un court métrage allemand réalisé par Miriam Bliese en 2013, avec Irina Vinogradova, Yekaterina Medvedeva. Une véritable... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205011500 +0100" stop="20151205014500 +0100">
     <length units="minutes">30</length>
-    <title>Mystères d'archives</title>
-    <category>Documentaire</category>
-    <desc>A New Delhi, le 30 janvier 1948, le Mahatma Gandhi, apôtre de la non-violence et «père de la nation indienne», est assassiné par un extrêmiste... (Lire la suite).(n)</desc>
+    <title>Notre chanson (?)</title>
+    <category>Film</category>
+    <desc>Coni ne dort presque jamais. Manutentionnaire... (Lire la suite).</desc>
     <credits>
-      <name function="director">Pierre Catalan,</name>
-      <name function="director">Serge Viallet,</name>
-      <name function="director">Julien Gaurichon</name>
+      <name function="director">Catalina Molina</name>
+      <name function="actor">Anton Anditsch</name>
+      <name function="actor">Stefanie Anditsch</name>
+      <name function="actor">Natalie Assman</name>
+      <name function="actor">Namiya Etti</name>
+      <name function="actor">Conrado Molina</name>
+      <name function="actor">Ossi Weissensteiner</name>
+      <name function="actor">Michael Fuith</name>
+      <name function="actor">Emily Cox</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123064500 +0100" stop="20151123073500 +0100">
+  <programme channel="test" start="20151205014500 +0100" stop="20151205015000 +0100">
+    <length units="minutes">5</length>
+    <title>Product</title>
+    <category>Documentaire</category>
+    <desc>Zoom sur la production de papier en Finlande, dévoilant le nombre de litres d'eau nécessaires à la fabrication des feuilles sur lesquelles nous... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Simon Bouisson,</name>
+      <name function="director">Ludovic Zuili</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205015000 +0100" stop="20151205033500 +0100">
+    <length units="minutes">105</length>
+    <title>L'incroyable histoire de Superman</title>
+    <category>Documentaire</category>
+    <desc>Savait-on jusqu'ici que le premier Superman n'était pas un «gentil», mais un criminel voulant mettre le monde à genoux ? Que le personnage a été... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Kevin Burns</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205033500 +0100" stop="20151205042000 +0100">
+    <length units="minutes">45</length>
+    <title>Tracks</title>
+    <category>Magazine</category>
+    <desc>Spécial web Au sommaire : (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205042000 +0100" stop="20151205044500 +0100">
+    <length units="minutes">25</length>
+    <title>Arte journal best of</title>
+    <category>Journal</category>
+    <desc>Un best of du JT d'Arte. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205044500 +0100" stop="20151205051000 +0100">
+    <length units="minutes">25</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205051000 +0100" stop="20151205053500 +0100">
+    <length units="minutes">25</length>
+    <title>Les petits secrets des grands tableaux</title>
+    <category>Documentaire</category>
+    <desc>Avec «Les Noces de Cana», Véronèse transpose le récit biblique du premier miracle du Christ, la transformation de l'eau en vin, sur la scène d'un... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Clément Cogitore</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205053500 +0100" stop="20151205060500 +0100">
+    <length units="minutes">30</length>
+    <title>Square Europe</title>
+    <category>Magazine</category>
+    <desc>Chaque dimanche, intellectuels, créateurs et artistes débattent d'un thème précis et posent leur regard sur un monde en mutation. Les... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205060500 +0100" stop="20151205064000 +0100">
+    <length units="minutes">35</length>
+    <title>Personne ne bouge !</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Philippe Collin,</name>
+      <name function="presenter">Frédéric Bonnaud,</name>
+      <name function="presenter">Xavier Mauduit</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205064000 +0100" stop="20151205071000 +0100">
+    <length units="minutes">30</length>
+    <title>Escapade gourmande</title>
+    <category>Documentaire</category>
+    <desc>Au menu, notamment, une visite du quartier des Halles, où s'ouvrirent les premiers «restaurants» au XVIIIe siècle, et une rencontre avec le chef... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Guy Lemaire,</name>
+      <name function="director">Catherine Haxhe</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205071000 +0100" stop="20151205073500 +0100">
+    <length units="minutes">25</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>Beaucoup de gens hésitent à prendre une décision qui pourrait sauver des vies : accepter le prélèvement de leurs organes après leur décès. D'ici... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dörthe Eickelberg,</name>
+      <name function="presenter">Pierre Girard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205073500 +0100" stop="20151205080500 +0100">
+    <length units="minutes">30</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>Un bel homme est forcément plus intelligent et compétent que le commun des mortels. Cette assertion, sans aucun fondement scientifique, guide... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dörthe Eickelberg,</name>
+      <name function="presenter">Pierre Girard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205080500 +0100" stop="20151205085500 +0100">
     <length units="minutes">50</length>
+    <title>360°-GEO</title>
+    <category>Documentaire</category>
+    <desc>Dans l'Etat indien de Chhattisgarh, quand un policier meurt, l'un de ses enfants peut le remplacer, quel que soit son âge : quatre d'entre eux... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Vardan Hovhannisyan,</name>
+      <name function="director">Emily Mkrtichian</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205085500 +0100" stop="20151205095000 +0100">
+    <length units="minutes">55</length>
+    <title>360°-GEO</title>
+    <category>Documentaire</category>
+    <desc>En Arctique, les habitants du Spitzberg ont l'habitude de passer des hivers longs et sombres ; Rupert Krapp est chargé d'approvisionner les... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Therese Engels</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205095000 +0100" stop="20151205103500 +0100">
+    <length units="minutes">45</length>
+    <title>360°-GEO</title>
+    <category>Documentaire</category>
+    <desc>Le parc national de Komodo, qui couvre plusieurs îles indonésiennes, est le dernier refuge des plus grands varans du monde, les dragons de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Markus Schmidbauer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205103500 +0100" stop="20151205112000 +0100">
+    <length units="minutes">45</length>
+    <title>Les îles du futur</title>
+    <category>Documentaire</category>
+    <desc>L'Islande, pays de geysers, de glaciers, de volcans : après avoir lutté contre les éléments, les habitants ont fait de leur île un des pays les... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Daniel Münter</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205112000 +0100" stop="20151205120000 +0100">
+    <length units="minutes">40</length>
+    <title>Les îles du futur</title>
+    <category>Documentaire</category>
+    <desc>Samso, île danoise de la mer Baltique, est considérée comme le modèle à suivre en matière de transition énergétique : tout a débuté en... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Daniel Münter</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205120000 +0100" stop="20151205124500 +0100">
+    <length units="minutes">45</length>
+    <title>Les îles du futur</title>
+    <category>Documentaire</category>
+    <desc>El Hierro, une île volcanique des Canaries, produit son électricité grâce à une centrale exploitant à la fois l'énergie éolienne et... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Michael R Gärtner</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205124500 +0100" stop="20151205133000 +0100">
+    <length units="minutes">45</length>
+    <title>L'Europe en bouteilles</title>
+    <category>Documentaire</category>
+    <desc>Dans le Jura suisse, Antoine est négociant en absinthe et autres boissons anisées : il part régulièrement en quête de nouvelles productions... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Rolf Lambert</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205133000 +0100" stop="20151205140000 +0100">
+    <length units="minutes">30</length>
+    <title>Futuremag</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205140000 +0100" stop="20151205143000 +0100">
+    <length units="minutes">30</length>
+    <title>Yourope</title>
+    <category>Magazine</category>
+    <desc>Attentats de Paris et de Copenhague, guerre civile en Ukraine, Grèce au bord de la faillite, crise des réfugiés : l'année a été rude pour... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Andreas Korn</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205143000 +0100" stop="20151205151000 +0100">
+    <length units="minutes">40</length>
+    <title>Mystères d'archives</title>
+    <category>Documentaire</category>
+    <desc>Au lendemain de la Seconde Guerre mondiale, de nombreuses caméras ont rapporté les images de deux explosions atomiques qui ont eu lieu dans le... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Serge Viallet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205151000 +0100" stop="20151205155500 +0100">
+    <length units="minutes">45</length>
+    <title>Conquérants</title>
+    <category>Documentaire</category>
+    <desc>Introduit sur les côtes d'Europe du Nord par les Russes, dans les années 1960, le crabe royal ne cesse d'étendre son territoire, notamment sur le... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Nicolas Gabriel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205155500 +0100" stop="20151205164000 +0100">
+    <length units="minutes">45</length>
+    <title>Conquérants</title>
+    <category>Documentaire</category>
+    <desc>Les experts s'inquiètent de l'invasion du poisson-lion, un prédateur redoutable qui a conquis l'ensemble du littoral américain et les Caraïbes en... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jérôme Ségur</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205164000 +0100" stop="20151205172500 +0100">
+    <length units="minutes">45</length>
+    <title>Ma vie avec 16 dindons sauvages</title>
+    <category>Documentaire</category>
+    <desc>L'expérience hors du commun de Joe Hutto, naturaliste et écrivain américain, qui a élevé pendant plus d'un an, dans un isolement total, seize... (Lire la suite).</desc>
+    <credits>
+      <name function="director">David Allen</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205172500 +0100" stop="20151205181000 +0100">
+    <length units="minutes">45</length>
+    <title>Le silure, géant des rivières</title>
+    <category>Documentaire</category>
+    <desc>Venu des fleuves de l'Est, le silure a colonisé la quasi-totalité des lacs, canaux et rivières d'Europe depuis 1950. Adulte, ce géant ne... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Bertrand Loyer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205181000 +0100" stop="20151205183500 +0100">
+    <length units="minutes">25</length>
+    <title>Cuisines des terroirs</title>
+    <category>Documentaire</category>
+    <desc>Le sel est depuis le XIIe siècle l'une des richesses de l'île de Ré et les marais salants aménagés à l'époque par les moines font toujours partie... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Alix François Meier</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205183500 +0100" stop="20151205193000 +0100">
+    <length units="minutes">55</length>
     <title>Arte reportage</title>
     <category>Magazine</category>
-    <desc>Au sommaire : France : Paris se relève - Une semaine après les attentats, comment la vie reprend-elle son cours à Paris, et en France ? Comment... (Lire la suite).(n)</desc>
+    <desc>Chaque semaine, le point sur l'actualité internationale à travers quelques reportages, complétés de rappels historiques, géopolitiques,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Andrea Fies,</name>
       <name function="presenter">William Irigoyen (en alternance)</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123073500 +0100" stop="20151123074500 +0100">
-    <length units="minutes">10</length>
+  <programme channel="test" start="20151205193000 +0100" stop="20151205194500 +0100">
+    <length units="minutes">15</length>
+    <title>Le dessous des cartes</title>
+    <category>Magazine</category>
+    <desc>Les énergies fossiles ont façonné les économies, les déplacements, les échanges et les modes de vie. Que se passerait-il si le monde réduisait... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Jean-Christophe Victor</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205194500 +0100" stop="20151205200000 +0100">
+    <length units="minutes">15</length>
+    <title>Arte journal</title>
+    <category>Journal</category>
+    <desc>L'actualité internationale, présentée en alternance le week-end par Dorothee Haffner et Meline Freda. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dorothee Haffner,</name>
+      <name function="presenter">Meline Freda</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205200000 +0100" stop="20151205204500 +0100">
+    <length units="minutes">45</length>
+    <title>360°-GEO</title>
+    <category>Documentaire</category>
+    <desc>Voyage dans les montagnes du Yunnan dans les pas de Meiyun, jeune femme encore célibataire de la minorité Hani sommée de trouver rapidement un... (Lire la suite).</desc>
+    <credits>
+      <name function="director">J Michael Schumacher</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205204500 +0100" stop="20151205205000 +0100">
+    <length units="minutes">5</length>
+    <title>Silex and the City</title>
+    <category>Série</category>
+    <desc>Arboricole Porter, Abilis Holiday, Crabe Calloway : pour les amateurs de jazz préhistorique, ce sont des idoles absolues. Mais contrairement à... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jean-Paul Guigue</name>
+      <name function="writer">Jul</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205205000 +0100" stop="20151205222000 +0100">
+    <length units="minutes">90</length>
+    <title>Chambord</title>
+    <category>Documentaire</category>
+    <desc>Chambord, le plus célèbre château de la Loire, demeure une énigme sur laquelle les chercheurs se penchent depuis des générations. Qui en fut... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Marc Jampolsky</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205222000 +0100" stop="20151205231500 +0100">
+    <length units="minutes">55</length>
+    <title>Trop jeune pour mourir</title>
+    <category>Documentaire</category>
+    <desc>En février 2014, Philip Seymour Hoffman, 46 ans, l'un des acteurs majeurs de sa génération, également metteur en scène, est retrouvé mort dans... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Matthias Schmidt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205231500 +0100" stop="20151206000000 +0100">
+    <length units="minutes">45</length>
+    <title>Tracks</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206000000 +0100" stop="20151206005500 +0100">
+    <length units="minutes">55</length>
+    <title>Lollapalooza Berlin 2015</title>
+    <category>Concert</category>
+    <desc>Muse, Macklemore &amp; Ryan Lewis Le Lollapalooza Festival a été créé aux Etats-Unis en 1991 et a réuni au fil du temps les grands noms de la pop et du rock. Il s'est transporté... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206005500 +0100" stop="20151206024500 +0100">
+    <length units="minutes">110</length>
+    <title>Frenzy (?)</title>
+    <category>Film</category>
+    <desc>Pendant le discours d'un ministre se flattant... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Alfred Hitchcock</name>
+      <name function="actor">Vivien Merchant</name>
+      <name function="actor">Anna Massey</name>
+      <name function="actor">Alec McCowen</name>
+      <name function="actor">Jon Finch</name>
+      <name function="actor">Bernard Cribbins</name>
+      <name function="actor">Billie Whitelaw</name>
+      <name function="actor">Barry Foster</name>
+      <name function="actor">Barbara Leigh-Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206024500 +0100" stop="20151206042000 +0100">
+    <length units="minutes">95</length>
+    <title>Un tour du monde à vol d'oiseau</title>
+    <category>Documentaire</category>
+    <desc>Au fil des quatre saisons, John Downer et ses équipes ont suivi les grandes migrations des oiseaux à travers les cinq continents. Grâce à des... (Lire la suite).</desc>
+    <credits>
+      <name function="director">John Downer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206042000 +0100" stop="20151206044500 +0100">
+    <length units="minutes">25</length>
+    <title>Voyage aux Amériques</title>
+    <category>Documentaire</category>
+    <desc>A 400 kilomètres de Salvador, loin des plages tropicales, déferlent les chaînes montagneuses, les lacs et les cascades de la Chapada... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Daniel Duncan</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206044500 +0100" stop="20151206050000 +0100">
+    <length units="minutes">15</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206050000 +0100" stop="20151206061000 +0100">
+    <length units="minutes">70</length>
+    <title>Court-circuit</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : Mon ange - Un court métrage allemand réalisé par Miriam Bliese en 2013, avec Irina Vinogradova, Yekaterina Medvedeva. Une véritable... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206061000 +0100" stop="20151206070500 +0100">
+    <length units="minutes">55</length>
+    <title>Inondation !</title>
+    <category>Documentaire</category>
+    <desc>Pluies diluviennes, régions englouties sous les eaux, flots de boue destructeurs : les informations rappellent avec une régularité dramatique le... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Tilman Jens</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206070500 +0100" stop="20151206080000 +0100">
+    <length units="minutes">55</length>
+    <title>Le plastique</title>
+    <category>Documentaire</category>
+    <desc>Chaque année, l'humanité déverse six millions de tonnes de plastique dans les mers. L'océanographe et militant écologiste Markus Eriksen sillonne... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Max Mönch,</name>
+      <name function="director">Friedemann Hottenbacher</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206080000 +0100" stop="20151206082500 +0100">
+    <length units="minutes">25</length>
+    <title>Passe me voir !</title>
+    <category>Documentaire</category>
+    <desc>Todd, 6 ans, vit avec sa famille, des éleveurs, dans l'immense désert rouge au coeur de l'Australie ; il fréquente une école virtuelle, située à... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Cordula Henne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206082500 +0100" stop="20151206084000 +0100">
+    <length units="minutes">15</length>
+    <title>Je voudrais devenir...</title>
+    <category>Documentaire</category>
+    <desc>Mark, un fauconnier, élève et soigne des oiseaux de proie, et leur apprend un certain nombre de tâches, car les rapaces aident à la chasse et à... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Benoit Van Wambeke</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206084000 +0100" stop="20151206090500 +0100">
+    <length units="minutes">25</length>
+    <title>La fille du boucher (?)</title>
+    <category>Film</category>
+    <desc>Pour plaire à un garçon, une petite fille,... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Tim Klaasse</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206090500 +0100" stop="20151206092000 +0100">
+    <length units="minutes">15</length>
     <title>Arte journal junior</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Carolyn Höfchen,</name>
       <name function="presenter">Dorothee Haffner,</name>
@@ -39,180 +483,481 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123074500 +0100" stop="20151123083000 +0100">
-    <length units="minutes">45</length>
-    <title>Conquérants</title>
-    <category>Documentaire</category>
-    <desc>En moins d'un siècle, la fourmi de feu a envahi le monde ; partout, elle extermine les autres espèces et confisque la nourriture à son... (Lire la suite).(n)</desc>
+  <programme channel="test" start="20151206092000 +0100" stop="20151206105000 +0100">
+    <length units="minutes">90</length>
+    <title>Miss Sixty (?)</title>
+    <category>Film</category>
+    <desc>Luise Jansen, biologiste moléculaire renommée, (Lire la suite).(r)</desc>
     <credits>
-      <name function="director">Bruno Victor-Pujebet</name>
+      <name function="director">Sigrid Hoerner</name>
+      <name function="actor">Edgar Selge</name>
+      <name function="actor">Iris Berben</name>
+      <name function="actor">Michael Gwisdek</name>
+      <name function="actor">Götz Schubert</name>
+      <name function="actor">Kirsten Block</name>
+      <name function="actor">Carmen-Maja Antoni</name>
+      <name function="actor">Jördis Richter</name>
+      <name function="actor">Björn von der Wellen</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123083000 +0100" stop="20151123085500 +0100">
-    <length units="minutes">25</length>
-    <title>X:enius</title>
+  <programme channel="test" start="20151206105000 +0100" stop="20151206112000 +0100">
+    <length units="minutes">30</length>
+    <title>Voyage aux Amériques</title>
+    <category>Documentaire</category>
+    <desc>A 400 kilomètres de Salvador, loin des plages tropicales, déferlent les chaînes montagneuses, les lacs et les cascades de la Chapada... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Daniel Duncan</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206112000 +0100" stop="20151206120500 +0100">
+    <length units="minutes">45</length>
+    <title>Metropolis</title>
     <category>Magazine</category>
-    <desc>Alors que les ouragans et autres phénomènes extrêmes représentent un problème à l'échelle de la planète, les scientifiques cherchent des moyens... (Lire la suite).(n)</desc>
+    <desc>Au sommaire : Lisbonne - Il y a quelques années, Lisbonne était au bord du gouffre. Aujourd'hui, la ville brille à nouveau de tous ses feux. A... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206120500 +0100" stop="20151206123500 +0100">
+    <length units="minutes">30</length>
+    <title>Les petits secrets des grands tableaux</title>
+    <category>Documentaire</category>
+    <desc>Une décennie après la fin de la guerre de Cent Ans, à Tours, où Charles VII a installé sa cour, Jean Fouquet réalise une miniature inspirée du... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Dörthe Eickelberg,</name>
-      <name function="presenter">Pierre Girard</name>
+      <name function="director">Carlos Franklin</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123085500 +0100" stop="20151123095000 +0100">
+  <programme channel="test" start="20151206123500 +0100" stop="20151206130000 +0100">
+    <length units="minutes">25</length>
+    <title>Streetphilosophy</title>
+    <category>Magazine</category>
+    <desc>Le «minimalisme» a le vent en poupe auprès des jeunes Berlinois. Véritable ascèse ou effet de mode ? Jonas Bosslet se rend dans la forêt. Il y... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Jonas Bosslet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206130000 +0100" stop="20151206135500 +0100">
     <length units="minutes">55</length>
-    <title>Daech, naissance d'un Etat terroriste</title>
+    <title>Square idée</title>
+    <category>Magazine</category>
+    <desc>La troisième révolution industrielle ? Chaque dimanche, intellectuels, créateurs et artistes débattent d'un thème précis et posent leur regard sur un monde en mutation. Les... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206135500 +0100" stop="20151206155500 +0100">
+    <length units="minutes">120</length>
+    <title>Don Quichotte</title>
+    <category>Ballet</category>
+    <desc>Don Quichotte, le chevalier à la triste figure, et son écuyer dévoué Sancho Pança se retrouvent mêlés aux amours tumultueuses de Kitri, la fille... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206155500 +0100" stop="20151206162000 +0100">
+    <length units="minutes">25</length>
+    <title>Graines d'étoiles</title>
     <category>Documentaire</category>
-    <desc>L'Etat islamique en Irak et au Levant, Daech en arabe, contrôle un territoire grand comme la moitié de la France, à cheval sur la Syrie et... (Lire la suite).(n)</desc>
+    <desc>Une année au sein de l'Ecole de danse de l'Opéra national de Paris : six épisodes pour découvrir la vie des élèves et une étonnante mécanique de... (Lire la suite).</desc>
     <credits>
-      <name function="director">Jérôme Fritel</name>
+      <name function="director">Françoise Marie</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123095000 +0100" stop="20151123105500 +0100">
-    <length units="minutes">65</length>
-    <title>Encerclés par l'Etat islamique</title>
+  <programme channel="test" start="20151206162000 +0100" stop="20151206165000 +0100">
+    <length units="minutes">30</length>
+    <title>Graines d'étoiles</title>
     <category>Documentaire</category>
-    <desc>Irak, décembre 2014. Les forces de l'Etat islamique ont encerclé les montagnes du Sinjar, à l'ouest de Mossoul. Une population de Kurdes yézidis,... (Lire la suite).(n)</desc>
+    <desc>En participant au défilé du corps de ballet, les élèves ont éprouvé un sentiment d'appartenance : ils vont maintenant devoir supporter la... (Lire la suite).</desc>
     <credits>
-      <name function="director">Xavier Muntz</name>
+      <name function="director">Françoise Marie</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123105500 +0100" stop="20151123114000 +0100">
-    <length units="minutes">45</length>
-    <title>Les nouveaux paradis</title>
+  <programme channel="test" start="20151206165000 +0100" stop="20151206171500 +0100">
+    <length units="minutes">25</length>
+    <title>Graines d'étoiles</title>
     <category>Documentaire</category>
-    <desc>Au Sri Lanka, un orphelinat d'éléphants accueille les pachydermes blessés et les éléphanteaux délaissés par leur mère : un tourisme raisonné y a... (Lire la suite).(n)</desc>
+    <desc>En décembre, chaque division va présenter son travail sur la scène du palais Garnier : les élèves redoublent de rigueur et de... (Lire la suite).</desc>
     <credits>
-      <name function="director">Pascal Sarragot,</name>
-      <name function="director">Salvatore Guadagnino</name>
+      <name function="director">Françoise Marie</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123114000 +0100" stop="20151123122500 +0100">
-    <length units="minutes">45</length>
-    <title>La Corée du Sud, le pays aux multiples miracles</title>
+  <programme channel="test" start="20151206171500 +0100" stop="20151206174500 +0100">
+    <length units="minutes">30</length>
+    <title>Graines d'étoiles</title>
     <category>Documentaire</category>
-    <desc>Un portrait de la capitale de la Corée du Sud, Séoul, à travers le regard de ses grands artistes et intellectuels, comme la photographe Jun... (Lire la suite).(n)</desc>
+    <desc>Les élèves vivent leur adolescence dans un cocon protecteur, nourris d'enseignements variés ; une fois l'an, les portes s'ouvrent à d'autres... (Lire la suite).</desc>
     <credits>
-      <name function="director">Jacques Debs</name>
+      <name function="director">Françoise Marie</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123122500 +0100" stop="20151123132000 +0100">
-    <length units="minutes">55</length>
-    <title>360°-GEO</title>
+  <programme channel="test" start="20151206174500 +0100" stop="20151206181000 +0100">
+    <length units="minutes">25</length>
+    <title>Graines d'étoiles</title>
     <category>Documentaire</category>
-    <desc>En Islande, un singulier berger s'en va en transhumance en montagne avec ses moutons ; toute une équipe à cheval le suit pour surveiller le... (Lire la suite).(n)</desc>
+    <desc>Voici venu le temps de briller comme de vrais professionnels : les élèves participent à un spectacle sur la grande scène de... (Lire la suite).</desc>
     <credits>
-      <name function="director">Svea Andersson</name>
+      <name function="director">Françoise Marie</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123132000 +0100" stop="20151123133500 +0100">
+  <programme channel="test" start="20151206181000 +0100" stop="20151206184000 +0100">
+    <length units="minutes">30</length>
+    <title>Graines d'étoiles</title>
+    <category>Documentaire</category>
+    <desc>Le mois de mai est là, temps des examens, de la peur d'être exclu ; pour les élèves de dernière année, se joue l'étape du concours d'entrée dans... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Françoise Marie</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206184000 +0100" stop="20151206191500 +0100">
+    <length units="minutes">35</length>
+    <title>Personne ne bouge !</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Philippe Collin,</name>
+      <name function="presenter">Frédéric Bonnaud,</name>
+      <name function="presenter">Xavier Mauduit</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206191500 +0100" stop="20151206194500 +0100">
+    <length units="minutes">30</length>
+    <title>Cuisines des terroirs</title>
+    <category>Documentaire</category>
+    <desc>Chaque année, autour du solstice d'hiver, les habitants de Kirchseeon, en Haute-Bavière, s'adonnent à un étrange rituel, prétexte à des... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Alois Berger</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206194500 +0100" stop="20151206200000 +0100">
     <length units="minutes">15</length>
     <title>Arte journal</title>
     <category>Journal</category>
-    <desc>L'actualité de la mi-journée en voix off. (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151123133500 +0100" stop="20151123154000 +0100">
-    <length units="minutes">125</length>
-    <title>La forêt d'émeraude (?)</title>
-    <category>Film</category>
-    <desc>Bill Markham et sa femme s'installent en Amazonie, où Bill est chargé de diriger la construction d'un grand barrage. Leurs deux enfants les... (Lire la suite).(n)</desc>
+    <desc>L'actualité internationale, présentée en alternance le week-end par Dorothee Haffner et Meline Freda. (Lire la suite).</desc>
     <credits>
-      <name function="director">John Boorman</name>
-      <name function="actor">Meg Foster</name>
-      <name function="actor">Charley Boorman</name>
-      <name function="actor">Dira Paes</name>
-      <name function="actor">Estee Chandler</name>
-      <name function="actor">Ruy Polanah</name>
-      <name function="actor">Yara Vaneau</name>
-      <name function="actor">William Rodriguez</name>
-      <name function="actor">Powers Boothe</name>
+      <name function="presenter">Dorothee Haffner,</name>
+      <name function="presenter">Meline Freda</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123154000 +0100" stop="20151123162500 +0100">
+  <programme channel="test" start="20151206200000 +0100" stop="20151206201000 +0100">
+    <length units="minutes">10</length>
+    <title>Karambolage</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Claire Doutriaux</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206201000 +0100" stop="20151206204000 +0100">
+    <length units="minutes">30</length>
+    <title>Vox pop</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : L'enquête : légiférer sur la traçabilité des vêtements et accessoires - En France et en Belgique, ONG et lobbies s'opposent autour... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">John Paul Lepers</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206204000 +0100" stop="20151206204500 +0100">
+    <length units="minutes">5</length>
+    <title>Silex and the City</title>
+    <category>Série</category>
+    <desc>Ce n'est pas parce que Web et Eve se sont inscrites au cours de danse classique de Mollusque Béjart qu'elles vont interpréter demain «Le Lac des... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jean-Paul Guigue</name>
+      <name function="writer">Jul</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206204500 +0100" stop="20151206221500 +0100">
+    <length units="minutes">90</length>
+    <title>Flashdance (?)</title>
+    <category>Film</category>
+    <desc>A Pittsburgh. Le jour, Alex travaille comme... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Adrian Lyne</name>
+      <name function="actor">Jennifer Beals</name>
+      <name function="actor">Belinda Bauer</name>
+      <name function="actor">Michael Nouri</name>
+      <name function="actor">Lee Ving</name>
+      <name function="actor">Lilia Skala</name>
+      <name function="actor">Kyle T Heffner</name>
+      <name function="actor">Ron Karabatsos</name>
+      <name function="actor">Sunny Johnson</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206221500 +0100" stop="20151206233500 +0100">
+    <length units="minutes">80</length>
+    <title>Forever Crazy</title>
+    <category>Spectacle</category>
+    <desc>Durant une semaine, du 30 septembre au 8 octobre 2011, le «Crazy Horse» présentait à Bruxelles, à La Madeleine, son tout dernier spectacle,... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206233500 +0100" stop="20151207010000 +0100">
+    <length units="minutes">85</length>
+    <title>Ballet de Maurice Béjart : 9e de Beethoven</title>
+    <category>Ballet</category>
+    <desc>En 1964, à l'apogée de son énergie créatrice, Maurice Béjart s'immerge dans la partition de la «9e Symphonie» de Beethoven, qu'il entend... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207010000 +0100" stop="20151207015000 +0100">
+    <length units="minutes">50</length>
+    <title>La truite, une version chorégraphiée</title>
+    <category>Ballet</category>
+    <desc>Pour ce ballet inspiré par «La Truite» de... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207015000 +0100" stop="20151207031500 +0100">
+    <length units="minutes">85</length>
+    <title>Le rêve d'Hollywood</title>
+    <category>Documentaire</category>
+    <desc>Entre janvier et avril, des milliers d'enfants (Lire la suite).</desc>
+    <credits>
+      <name function="director">Dan Sturman,</name>
+      <name function="director">Dylan Nelson</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207031500 +0100" stop="20151207041000 +0100">
+    <length units="minutes">55</length>
+    <title>Robin Williams, un génie de la comédie</title>
+    <category>Documentaire</category>
+    <desc>Peter Pan pour Steven Spielberg, clochard... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Steve J Boettcher,</name>
+      <name function="director">Michael J Trinklein</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207041000 +0100" stop="20151207044000 +0100">
+    <length units="minutes">30</length>
+    <title>Streetphilosophy</title>
+    <category>Magazine</category>
+    <desc>Le «minimalisme» a le vent en poupe auprès... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Jonas Bosslet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207044000 +0100" stop="20151207052500 +0100">
+    <length units="minutes">45</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207052500 +0100" stop="20151207064500 +0100">
+    <length units="minutes">80</length>
+    <title>Etienne Daho au Koko, Londres</title>
+    <category>Concert</category>
+    <desc>En 2014, la tournée à guichets fermés... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207064500 +0100" stop="20151207074000 +0100">
+    <length units="minutes">55</length>
+    <title>Arte reportage</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, le point sur l'actualité... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Andrea Fies,</name>
+      <name function="presenter">William Irigoyen (en alternance)</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207074000 +0100" stop="20151207074500 +0100">
+    <length units="minutes">5</length>
+    <title>Arte journal junior</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Carolyn Höfchen,</name>
+      <name function="presenter">Dorothee Haffner,</name>
+      <name function="presenter">Magali Kreuzer,</name>
+      <name function="presenter">Frank Rauschendorf</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207074500 +0100" stop="20151207083000 +0100">
     <length units="minutes">45</length>
     <title>Polar Sea 360°, le guide du voyageur inter-arctique</title>
     <category>Documentaire</category>
-    <desc>En 2013, l'architecte suédois Richard Tegnér est parti à la conquête du passage du Nord-Ouest sur le voilier Dax ; au Groenland, il a étudié la... (Lire la suite).(n)</desc>
+    <desc>Richard Tegnér se trouve au coeur du passage... (Lire la suite).</desc>
     <credits>
       <name function="director">Kevin McMahon</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123162500 +0100" stop="20151123171500 +0100">
-    <length units="minutes">50</length>
-    <title>Paris-Berlin, destins croisés</title>
-    <category>Documentaire</category>
-    <desc>Le 18 janvier 1871, l'empire allemand est proclamé dans la galerie des Glaces de Versailles. Berlin devient capitale impériale. Ce nouveau statut... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Frédéric Wilner</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151123171500 +0100" stop="20151123174500 +0100">
-    <length units="minutes">30</length>
+  <programme channel="test" start="20151207083000 +0100" stop="20151207085500 +0100">
+    <length units="minutes">25</length>
     <title>X:enius</title>
     <category>Magazine</category>
-    <desc>Alors que les ouragans et autres phénomènes extrêmes représentent un problème à l'échelle de la planète, les scientifiques cherchent des moyens... (Lire la suite).(n)</desc>
+    <desc>En situation de stress, l'organisme passe en... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Dörthe Eickelberg,</name>
       <name function="presenter">Pierre Girard</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123174500 +0100" stop="20151123181500 +0100">
-    <length units="minutes">30</length>
-    <title>Mystères d'archives</title>
+  <programme channel="test" start="20151207085500 +0100" stop="20151207103000 +0100">
+    <length units="minutes">95</length>
+    <title>Arctique, la conquête glaciale</title>
     <category>Documentaire</category>
-    <desc>Au lendemain de la Seconde Guerre mondiale, de nombreuses caméras ont rapporté les images de deux explosions atomiques qui ont eu lieu dans le... (Lire la suite).(n)</desc>
+    <desc>Longtemps à l'abri d'une exploitation... (Lire la suite).</desc>
     <credits>
-      <name function="director">Serge Viallet</name>
+      <name function="director">Tania Rakhmanova</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123181500 +0100" stop="20151123190000 +0100">
+  <programme channel="test" start="20151207103000 +0100" stop="20151207111000 +0100">
+    <length units="minutes">40</length>
+    <title>Pacifique sud</title>
+    <category>Documentaire</category>
+    <desc>De la plus haute montagne volcanique d'Hawaii... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Chiara Bellati</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207111000 +0100" stop="20151207115500 +0100">
     <length units="minutes">45</length>
-    <title>L'Europe en bouteilles</title>
+    <title>Pacifique sud</title>
     <category>Documentaire</category>
-    <desc>Sur l'île d'Islay, le whisky prend un goût de tourbe fumée, tandis que sur l'île de Skye, il entre dans la gastronomie : découverte d'un breuvage... (Lire la suite).(n)</desc>
+    <desc>Parmi les îles du Pacifique sud, la Nouvelle-Guiné (Lire la suite).</desc>
     <credits>
-      <name function="director">Bernd Girrbach</name>
+      <name function="director">Mark Brownlow</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123190000 +0100" stop="20151123194500 +0100">
+  <programme channel="test" start="20151207115500 +0100" stop="20151207122500 +0100">
+    <length units="minutes">30</length>
+    <title>Fait main</title>
+    <category>Documentaire</category>
+    <desc>A Berlin, dans les quartiers branchés de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jessica Krauss</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207122500 +0100" stop="20151207132000 +0100">
+    <length units="minutes">55</length>
+    <title>360°-GEO</title>
+    <category>Documentaire</category>
+    <desc>Au printemps, les rennes de Laponie, qui... (Lire la suite).</desc>
+    <credits>
+      <name function="director">J Michael Schumacher</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207132000 +0100" stop="20151207133500 +0100">
+    <length units="minutes">15</length>
+    <title>Arte journal</title>
+    <category>Journal</category>
+    <desc>L'actualité de la mi-journée en voix (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207133500 +0100" stop="20151207154000 +0100">
+    <length units="minutes">125</length>
+    <title>Tirez la langue, mademoiselle (?)</title>
+    <category>Film</category>
+    <desc>Les frères Boris et Dimitri Pizarnik sont... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Axelle Ropert</name>
+      <name function="actor">Serge Bozon</name>
+      <name function="actor">Gilles Gaston-Dreyfus</name>
+      <name function="actor">Laurent Stocker</name>
+      <name function="actor">Jean-Pierre Petit</name>
+      <name function="actor">Cédric Kahn</name>
+      <name function="actor">Camille Cayol</name>
+      <name function="actor">Louise Bourgoin</name>
+      <name function="actor">Paula Denis</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207154000 +0100" stop="20151207162000 +0100">
+    <length units="minutes">40</length>
+    <title>Les hautes Tatras : des Alpes miniatures</title>
+    <category>Documentaire</category>
+    <desc>La Pologne et la Slovaquie ont crée des parcs... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Till Lehmann</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207162000 +0100" stop="20151207172000 +0100">
+    <length units="minutes">60</length>
+    <title>Papous, entre deux mondes</title>
+    <category>Documentaire</category>
+    <desc>Benneth, un jeune Papou venu vivre en ville... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Daniel Vigne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207172000 +0100" stop="20151207174500 +0100">
+    <length units="minutes">25</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>En situation de stress, l'organisme passe en... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dörthe Eickelberg,</name>
+      <name function="presenter">Pierre Girard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207174500 +0100" stop="20151207181500 +0100">
+    <length units="minutes">30</length>
+    <title>Quel cirque !</title>
+    <category>Documentaire</category>
+    <desc>A la découverte du cirque indien, dont les... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Olivier Le Hellard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207181500 +0100" stop="20151207190000 +0100">
     <length units="minutes">45</length>
     <title>Les îles du futur</title>
     <category>Documentaire</category>
-    <desc>El Hierro, une île volcanique des Canaries, produit son électricité grâce à une centrale exploitant à la fois l'énergie éolienne et... (Lire la suite).(n)</desc>
+    <desc>El Hierro, une île volcanique des Canaries,... (Lire la suite).</desc>
     <credits>
       <name function="director">Michael R Gärtner</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123194500 +0100" stop="20151123200500 +0100">
+  <programme channel="test" start="20151207190000 +0100" stop="20151207194500 +0100">
+    <length units="minutes">45</length>
+    <title>A +/- 5 mètres de la surface des océans</title>
+    <category>Documentaire</category>
+    <desc>En Floride, au Sénagal ou en Indonésie, le... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Dominique Hennequin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207194500 +0100" stop="20151207200500 +0100">
     <length units="minutes">20</length>
     <title>Arte journal</title>
     <category>Journal</category>
-    <desc>L'actualité internationale, présentée en alternance par Marie Labory et Kady Adoum-Douass. (Lire la suite).(n)</desc>
+    <desc>L'actualité internationale, présentée en... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Marie Labory,</name>
       <name function="presenter">Kady Adoum-Douass</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123200500 +0100" stop="20151123205000 +0100">
+  <programme channel="test" start="20151207200500 +0100" stop="20151207205000 +0100">
     <length units="minutes">45</length>
     <title>28 minutes</title>
     <category>Magazine</category>
-    <desc>Elisabeth Quin accueille un invité, avec lequel elle s'entretient, et orchestre un débat en lien avec l'actualité. Elle est entourée d'une équipe... (Lire la suite).(n)</desc>
+    <desc>Elisabeth Quin accueille un invité, avec... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Elisabeth Quin,</name>
       <name function="presenter">Guillaume Roquette,</name>
@@ -226,22 +971,1147 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123205000 +0100" stop="20151123205500 +0100">
+  <programme channel="test" start="20151207205000 +0100" stop="20151207205500 +0100">
     <length units="minutes">5</length>
     <title>Silex and the City</title>
     <category>Série</category>
-    <desc>Les aventures d'une famille d'Homo sapiens avant-gardistes, en plein Paléolithique. (Lire la suite).(n)</desc>
+    <desc>Web souhaite entrer au Conservatoire. Mais il... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jean-Paul Guigue</name>
+      <name function="writer">Jul</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207205500 +0100" stop="20151207223000 +0100">
+    <length units="minutes">95</length>
+    <title>Mais qui a tué Harry ? (?)</title>
+    <category>Film</category>
+    <desc>En jouant dans les collines du Vermont, par... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Alfred Hitchcock</name>
+      <name function="actor">John Forsythe</name>
+      <name function="actor">Mildred Natwick</name>
+      <name function="actor">Shirley MacLaine</name>
+      <name function="actor">Edmund Gwenn</name>
+      <name function="actor">Mildred Dunnock</name>
+      <name function="actor">Royal Dano</name>
+      <name function="actor">Jerry Mathers</name>
+      <name function="actor">Barry Macollum</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207223000 +0100" stop="20151208011500 +0100">
+    <length units="minutes">165</length>
+    <title>Giovanna d'Arco</title>
+    <category>Opéra</category>
+    <desc>En France, en 1429. Depuis l'âge de 13 ans,... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208011500 +0100" stop="20151208021500 +0100">
+    <length units="minutes">60</length>
+    <title>Aranda</title>
+    <category>Documentaire</category>
+    <desc>Le navire de recherche de la marine finlandaise (Lire la suite).</desc>
+    <credits>
+      <name function="director">Anu Kuivalainen</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208021500 +0100" stop="20151208031000 +0100">
+    <length units="minutes">55</length>
+    <title>Trop jeune pour mourir</title>
+    <category>Documentaire</category>
+    <desc>Enchaînant les tubes dans les années 80,... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jobst Knigge</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208031000 +0100" stop="20151208035500 +0100">
+    <length units="minutes">45</length>
+    <title>Metropolis</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : Lisbonne - Il y a quelques... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208035500 +0100" stop="20151208050000 +0100">
+    <length units="minutes">65</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208050000 +0100" stop="20151208060500 +0100">
+    <length units="minutes">65</length>
+    <title>Mozart, la Grande Messe</title>
+    <category>Concert</category>
+    <desc>Entourée d'un quatuor de solistes talentueux,... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208060500 +0100" stop="20151208064000 +0100">
+    <length units="minutes">35</length>
+    <title>Mystères d'archives</title>
+    <category>Documentaire</category>
+    <desc>Le 15 février 1954, Marilyn Monroe interrompt... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Serge Viallet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208064000 +0100" stop="20151208071000 +0100">
+    <length units="minutes">30</length>
+    <title>Vox pop</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : L'enquête : légiférer sur la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">John Paul Lepers</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208071000 +0100" stop="20151208073500 +0100">
+    <length units="minutes">25</length>
+    <title>Yourope</title>
+    <category>Magazine</category>
+    <desc>Attentats de Paris et de Copenhague, guerre... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Andreas Korn</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208073500 +0100" stop="20151208074500 +0100">
+    <length units="minutes">10</length>
+    <title>Arte journal junior</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Carolyn Höfchen,</name>
+      <name function="presenter">Dorothee Haffner,</name>
+      <name function="presenter">Magali Kreuzer,</name>
+      <name function="presenter">Frank Rauschendorf</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208074500 +0100" stop="20151208083000 +0100">
+    <length units="minutes">45</length>
+    <title>Polar Sea 360°, le guide du voyageur inter-arctique</title>
+    <category>Documentaire</category>
+    <desc>Fin août, Richard Tegnér est à mi-parcours de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Kevin McMahon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208083000 +0100" stop="20151208085500 +0100">
+    <length units="minutes">25</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>Alors que chaque année, plus d'un million de... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dörthe Eickelberg,</name>
+      <name function="presenter">Pierre Girard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208085500 +0100" stop="20151208102000 +0100">
+    <length units="minutes">85</length>
+    <title>Méthane, rêve ou cauchemar ?</title>
+    <category>Documentaire</category>
+    <desc>Quel impact aura le méthane sur le climat ?... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Luc Riolon,</name>
+      <name function="director">Rachel Seddoh,</name>
+      <name function="director">Pascal Cuissot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208102000 +0100" stop="20151208111000 +0100">
+    <length units="minutes">50</length>
+    <title>Le plastique</title>
+    <category>Documentaire</category>
+    <desc>Chaque année, l'humanité déverse six millions... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Max Mönch,</name>
+      <name function="director">Friedemann Hottenbacher</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208111000 +0100" stop="20151208114000 +0100">
+    <length units="minutes">30</length>
+    <title>Fait main</title>
+    <category>Documentaire</category>
+    <desc>Stockholm l'élitiste attire de nombreux... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Martin Koddenberg</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208114000 +0100" stop="20151208120500 +0100">
+    <length units="minutes">25</length>
+    <title>Fait main</title>
+    <category>Documentaire</category>
+    <desc>Rencontre, à Marseille, de quelques artistes... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Caroline Haertel,</name>
+      <name function="director">Marie Villetelle</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208120500 +0100" stop="20151208123500 +0100">
+    <length units="minutes">30</length>
+    <title>Fait main</title>
+    <category>Documentaire</category>
+    <desc>Métropole de la finance et de la mode,... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Kristian Kähler,</name>
+      <name function="director">Martin Koddenberg</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208123500 +0100" stop="20151208132000 +0100">
+    <length units="minutes">45</length>
+    <title>360°-GEO</title>
+    <category>Documentaire</category>
+    <desc>Des parfumeurs français indépendants révèlent... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Maja Dielhenn</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208132000 +0100" stop="20151208133500 +0100">
+    <length units="minutes">15</length>
+    <title>Arte journal</title>
+    <category>Journal</category>
+    <desc>L'actualité de la mi-journée en voix (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208133500 +0100" stop="20151208154000 +0100">
+    <length units="minutes">125</length>
+    <title>Mais qui a tué Harry ? (?)</title>
+    <category>Film</category>
+    <desc>En jouant dans les collines du Vermont, par... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Alfred Hitchcock</name>
+      <name function="actor">John Forsythe</name>
+      <name function="actor">Mildred Natwick</name>
+      <name function="actor">Shirley MacLaine</name>
+      <name function="actor">Edmund Gwenn</name>
+      <name function="actor">Mildred Dunnock</name>
+      <name function="actor">Royal Dano</name>
+      <name function="actor">Jerry Mathers</name>
+      <name function="actor">Barry Macollum</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208154000 +0100" stop="20151208162500 +0100">
+    <length units="minutes">45</length>
+    <title>Au coeur des montagnes bulgares</title>
+    <category>Documentaire</category>
+    <desc>Du Balkan, qui a donné son nom à la péninsule, (Lire la suite).</desc>
+    <credits>
+      <name function="director">Barbara Gayler</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208162500 +0100" stop="20151208172000 +0100">
+    <length units="minutes">55</length>
+    <title>Le vaisseau sous la Baltique</title>
+    <category>Documentaire</category>
+    <desc>En 2007, la découverte en mer Baltique de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Malcolm Dixelius</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208172000 +0100" stop="20151208174500 +0100">
+    <length units="minutes">25</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>Alors que chaque année, plus d'un million de... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dörthe Eickelberg,</name>
+      <name function="presenter">Pierre Girard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208174500 +0100" stop="20151208181500 +0100">
+    <length units="minutes">30</length>
+    <title>Quel cirque !</title>
+    <category>Documentaire</category>
+    <desc>Sarah Schwartz part découvrir le Cirque du... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Guy Beauché</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208181500 +0100" stop="20151208190000 +0100">
+    <length units="minutes">45</length>
+    <title>Les îles du futur</title>
+    <category>Documentaire</category>
+    <desc>A dix kilomètres au large des côtes écossaises, (Lire la suite).</desc>
+    <credits>
+      <name function="director">Christian Heynen</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208190000 +0100" stop="20151208194500 +0100">
+    <length units="minutes">45</length>
+    <title>A +/- 5 mètres de la surface des océans</title>
+    <category>Documentaire</category>
+    <desc>Dans les plaines et les récifs coralliens, en... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Dominique Hennequin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208194500 +0100" stop="20151208200500 +0100">
+    <length units="minutes">20</length>
+    <title>Arte journal</title>
+    <category>Journal</category>
+    <desc>L'actualité internationale, présentée en... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Marie Labory,</name>
+      <name function="presenter">Kady Adoum-Douass</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208200500 +0100" stop="20151208205000 +0100">
+    <length units="minutes">45</length>
+    <title>28 minutes</title>
+    <category>Magazine</category>
+    <desc>Elisabeth Quin accueille un invité, avec... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Elisabeth Quin,</name>
+      <name function="presenter">Guillaume Roquette,</name>
+      <name function="presenter">Claude Askolovitch,</name>
+      <name function="presenter">Vincent Giret,</name>
+      <name function="presenter">Arnaud Leparmentier,</name>
+      <name function="presenter">Renaud Dély,</name>
+      <name function="presenter">Nadia Daam,</name>
+      <name function="presenter">Xavier Mauduit,</name>
+      <name function="presenter">Jean-Mathieu Pernin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208205000 +0100" stop="20151208205500 +0100">
+    <length units="minutes">5</length>
+    <title>Silex and the City</title>
+    <category>Série</category>
+    <desc>Sa majesté des poulpes Dans la grotte de Versailles, tous les... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208205500 +0100" stop="20151208215000 +0100">
+    <length units="minutes">55</length>
+    <title>Jésus et l'islam</title>
+    <category>Documentaire</category>
+    <desc>Pourquoi Jésus occupe-t-il une place exceptionnell (Lire la suite).</desc>
+    <credits>
+      <name function="director">Gérard Mordillat,</name>
+      <name function="director">Jérôme Prieur</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208215000 +0100" stop="20151208224000 +0100">
+    <length units="minutes">50</length>
+    <title>Jésus et l'islam</title>
+    <category>Documentaire</category>
+    <desc>D'après la sourate IV du Coran, «les gens du... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Gérard Mordillat,</name>
+      <name function="director">Jérôme Prieur</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208224000 +0100" stop="20151208234500 +0100">
+    <length units="minutes">65</length>
+    <title>Jésus et l'islam</title>
+    <category>Documentaire</category>
+    <desc>Le Coran accorde une place éminente à Marie,... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Gérard Mordillat,</name>
+      <name function="director">Jérôme Prieur</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208234500 +0100" stop="20151209004000 +0100">
+    <length units="minutes">55</length>
+    <title>Espagne, la nouvelle donne</title>
+    <category>Documentaire</category>
+    <desc>Longtemps considérée comme exemplaire, la... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Sergio Ghizzardi</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209004000 +0100" stop="20151209024000 +0100">
+    <length units="minutes">120</length>
+    <title>L'Apollonide, souvenirs de la maison close (?)</title>
+    <category>Film</category>
+    <desc>A la charnière entre le XIXe et le XXe... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Bertrand Bonello</name>
+      <name function="actor">Xavier Beauvois</name>
+      <name function="actor">Jacques Nolot</name>
+      <name function="actor">Jasmine Trinca</name>
+      <name function="actor">Noémie Lvovsky</name>
+      <name function="actor">Céline Sallette</name>
+      <name function="actor">Hafsia Herzi</name>
+      <name function="actor">Alice Barnole</name>
+      <name function="actor">Adèle Haenel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209024000 +0100" stop="20151209040000 +0100">
+    <length units="minutes">80</length>
+    <title>Tomboy (?)</title>
+    <category>Film</category>
+    <desc>La jeune Laure, 10 ans, est un vrai garçon... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Céline Sciamma</name>
+      <name function="actor">Mathieu Demy</name>
+      <name function="actor">Sophie Cattani</name>
+      <name function="actor">Zoé Héran</name>
+      <name function="actor">Jeanne Disson</name>
+      <name function="actor">Malonn Lévana</name>
+      <name function="actor">Yohan Vero</name>
+      <name function="actor">Noah Vero</name>
+      <name function="actor">Cheyenne Lainé</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209040000 +0100" stop="20151209043000 +0100">
+    <length units="minutes">30</length>
+    <title>Yourope</title>
+    <category>Magazine</category>
+    <desc>Attentats de Paris et de Copenhague, guerre... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Andreas Korn</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209043000 +0100" stop="20151209044500 +0100">
+    <length units="minutes">15</length>
+    <title>Sweetheart, deux soeurs amoureuses (?)</title>
+    <category>Film</category>
+    <desc>Une jeune trisomique tente de se libérer de... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Eva Riley</name>
+      <name function="actor">Jo Eastwood</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209044500 +0100" stop="20151209050500 +0100">
+    <length units="minutes">20</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209050500 +0100" stop="20151209060500 +0100">
+    <length units="minutes">60</length>
+    <title>Udo Lindenberg</title>
+    <category>Concert</category>
+    <desc>Longtemps enfant terrible du rock allemand,... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209060500 +0100" stop="20151209063000 +0100">
+    <length units="minutes">25</length>
+    <title>Mystères d'archives</title>
+    <category>Documentaire</category>
+    <desc>Le 11 juin 1955, pendant les 24 Heures du... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Serge Viallet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209063000 +0100" stop="20151209071000 +0100">
+    <length units="minutes">40</length>
+    <title>Personne ne bouge !</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Philippe Collin,</name>
+      <name function="presenter">Frédéric Bonnaud,</name>
+      <name function="presenter">Xavier Mauduit</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209071000 +0100" stop="20151209073500 +0100">
+    <length units="minutes">25</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>Alos que les antibiotiques sont de moins en... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Caro Matzko,</name>
+      <name function="presenter">Gunnar Mergner</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209073500 +0100" stop="20151209074500 +0100">
+    <length units="minutes">10</length>
+    <title>Arte journal junior</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Carolyn Höfchen,</name>
+      <name function="presenter">Dorothee Haffner,</name>
+      <name function="presenter">Magali Kreuzer,</name>
+      <name function="presenter">Frank Rauschendorf</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209074500 +0100" stop="20151209082500 +0100">
+    <length units="minutes">40</length>
+    <title>Polar Sea 360°, le guide du voyageur inter-arctique</title>
+    <category>Documentaire</category>
+    <desc>Richard Tegner fait voile vers l'ouest en... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Kevin McMahon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209082500 +0100" stop="20151209085500 +0100">
+    <length units="minutes">30</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>Le lait a longtemps été présenté comme bon... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dörthe Eickelberg,</name>
+      <name function="presenter">Pierre Girard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209085500 +0100" stop="20151209095000 +0100">
+    <length units="minutes">55</length>
+    <title>Daech, naissance d'un Etat terroriste</title>
+    <category>Documentaire</category>
+    <desc>L'Etat islamique en Irak et au Levant, Daech... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jérôme Fritel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209095000 +0100" stop="20151209105500 +0100">
+    <length units="minutes">65</length>
+    <title>Encerclés par l'Etat islamique</title>
+    <category>Documentaire</category>
+    <desc>Irak, décembre 2014. Les forces de l'Etat... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Xavier Muntz</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209105500 +0100" stop="20151209114000 +0100">
+    <length units="minutes">45</length>
+    <title>Pacifique sud</title>
+    <category>Documentaire</category>
+    <desc>Les îles du Pacifique sud recèlent des... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Huw Cordey,</name>
+      <name function="director">Fiona Pitcher,</name>
+      <name function="director">Jonathan Clay</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209114000 +0100" stop="20151209122500 +0100">
+    <length units="minutes">45</length>
+    <title>Le silure, géant des rivières</title>
+    <category>Documentaire</category>
+    <desc>Venu des fleuves de l'Est, le silure a... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Bertrand Loyer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209122500 +0100" stop="20151209132000 +0100">
+    <length units="minutes">55</length>
+    <title>360°-GEO</title>
+    <category>Documentaire</category>
+    <desc>En Colombie, les conducteurs de «chivas», ces... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Stefan Richts</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209132000 +0100" stop="20151209133500 +0100">
+    <length units="minutes">15</length>
+    <title>Arte journal</title>
+    <category>Journal</category>
+    <desc>L'actualité de la mi-journée en voix (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209133500 +0100" stop="20151209151500 +0100">
+    <length units="minutes">100</length>
+    <title>Flashdance (?)</title>
+    <category>Film</category>
+    <desc>A Pittsburgh. Le jour, Alex travaille comme... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Adrian Lyne</name>
+      <name function="actor">Jennifer Beals</name>
+      <name function="actor">Belinda Bauer</name>
+      <name function="actor">Michael Nouri</name>
+      <name function="actor">Lee Ving</name>
+      <name function="actor">Lilia Skala</name>
+      <name function="actor">Kyle T Heffner</name>
+      <name function="actor">Ron Karabatsos</name>
+      <name function="actor">Sunny Johnson</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209151500 +0100" stop="20151209154000 +0100">
+    <length units="minutes">25</length>
+    <title>Mystères d'archives</title>
+    <category>Documentaire</category>
+    <desc>En mars 1916, Pancho Villa attaque la petite... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Pierre Catalan,</name>
+      <name function="director">Serge Viallet,</name>
+      <name function="director">Julien Gaurichon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209154000 +0100" stop="20151209162500 +0100">
+    <length units="minutes">45</length>
+    <title>Les rizières célestes des Philippines</title>
+    <category>Documentaire</category>
+    <desc>Le peuple montagnard des Ifugao a su faire de... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209162500 +0100" stop="20151209172000 +0100">
+    <length units="minutes">55</length>
+    <title>Ouragan</title>
+    <category>Documentaire</category>
+    <desc>Les scientifiques du monde entier étudient... (Lire la suite).</desc>
+    <credits>
+      <name function="director">John Jackson,</name>
+      <name function="director">Andy Byatt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209172000 +0100" stop="20151209174500 +0100">
+    <length units="minutes">25</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>Le lait a longtemps été présenté comme bon... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dörthe Eickelberg,</name>
+      <name function="presenter">Pierre Girard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209174500 +0100" stop="20151209181500 +0100">
+    <length units="minutes">30</length>
+    <title>Quel cirque !</title>
+    <category>Documentaire</category>
+    <desc>Paris a accueilli dès 1782 son premier... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jean-Thomas Ceccaldi</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209181500 +0100" stop="20151209190000 +0100">
+    <length units="minutes">45</length>
+    <title>Les îles du futur</title>
+    <category>Documentaire</category>
+    <desc>A Madère, un immense parc éolien, le recours... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Frank Nischk</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209190000 +0100" stop="20151209194500 +0100">
+    <length units="minutes">45</length>
+    <title>A +/- 5 mètres de la surface des océans</title>
+    <category>Documentaire</category>
+    <desc>Alors que l'océan est devenu une immense... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Dominique Hennequin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209194500 +0100" stop="20151209200500 +0100">
+    <length units="minutes">20</length>
+    <title>Arte journal</title>
+    <category>Journal</category>
+    <desc>L'actualité internationale, présentée en... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Marie Labory,</name>
+      <name function="presenter">Kady Adoum-Douass</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209200500 +0100" stop="20151209205000 +0100">
+    <length units="minutes">45</length>
+    <title>28 minutes</title>
+    <category>Magazine</category>
+    <desc>Elisabeth Quin accueille un invité, avec... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Elisabeth Quin,</name>
+      <name function="presenter">Guillaume Roquette,</name>
+      <name function="presenter">Claude Askolovitch,</name>
+      <name function="presenter">Vincent Giret,</name>
+      <name function="presenter">Arnaud Leparmentier,</name>
+      <name function="presenter">Renaud Dély,</name>
+      <name function="presenter">Nadia Daam,</name>
+      <name function="presenter">Xavier Mauduit,</name>
+      <name function="presenter">Jean-Mathieu Pernin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209205000 +0100" stop="20151209205500 +0100">
+    <length units="minutes">5</length>
+    <title>Silex and the City</title>
+    <category>Série</category>
+    <desc>Les aventures d'une famille d'Homo sapiens... (Lire la suite).</desc>
     <credits>
       <name function="director">Jérémie Hoarau</name>
       <name function="writer">Jul</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123205500 +0100" stop="20151123225000 +0100">
+  <programme channel="test" start="20151209205500 +0100" stop="20151209230000 +0100">
+    <length units="minutes">125</length>
+    <title>La grâce (?)</title>
+    <category>Film</category>
+    <desc>Un couple d'Allemands, Niels et Maria, vivent... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Matthias Glasner</name>
+      <name function="actor">Birgit Minichmayr</name>
+      <name function="actor">Jürgen Vogel</name>
+      <name function="actor">Ane Dahl Torp</name>
+      <name function="actor">Stig Henrik Hoff</name>
+      <name function="actor">Henry Stange</name>
+      <name function="actor">Iren Reppen</name>
+      <name function="actor">Maria Bock</name>
+      <name function="actor">Richard André Knutsen</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209230000 +0100" stop="20151209235500 +0100">
+    <length units="minutes">55</length>
+    <title>Jésus et l'islam</title>
+    <category>Documentaire</category>
+    <desc>Que sait-on historiquement de Mahomet ? Ses... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Gérard Mordillat,</name>
+      <name function="director">Jérôme Prieur</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209235500 +0100" stop="20151210005000 +0100">
+    <length units="minutes">55</length>
+    <title>Jésus et l'islam</title>
+    <category>Documentaire</category>
+    <desc>Le Coran fait de nombreuses références à la... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Gérard Mordillat,</name>
+      <name function="director">Jérôme Prieur</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210005000 +0100" stop="20151210021500 +0100">
+    <length units="minutes">85</length>
+    <title>Rebelle (?)</title>
+    <category>Film</category>
+    <desc>Dans un pays d'Afrique subsaharienne, Komona,... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Kim Nguyen</name>
+      <name function="actor">Ralph Prosper</name>
+      <name function="actor">Rachel Mwanza</name>
+      <name function="actor">Alain Lino Mic Eli Bastien</name>
+      <name function="actor">Serge Kanyinda</name>
+      <name function="actor">Mizinga Mwinga</name>
+      <name function="actor">Jean Kabuya</name>
+      <name function="actor">Jupiter Bokondji</name>
+      <name function="actor">Starlette Mathata</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210021500 +0100" stop="20151210030000 +0100">
+    <length units="minutes">45</length>
+    <title>Occupied</title>
+    <category>Série</category>
+    <desc>Le départ des Russes est annoncé comme... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Pal Sletaune</name>
+      <name function="actor">Ingeborga Dapkunaite</name>
+      <name function="actor">Ane Dahl Torp</name>
+      <name function="actor">Henrik Mestad</name>
+      <name function="actor">Emil Johnsen</name>
+      <name function="actor">Eldar Skar</name>
+      <name function="actor">Vergard Hoel</name>
+      <name function="actor">Ragnhild Gudbrandsen</name>
+      <name function="actor">Hippolyte Girardot</name>
+      <name function="writer">Erik Richter Strand</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210030000 +0100" stop="20151210035000 +0100">
+    <length units="minutes">50</length>
+    <title>Occupied</title>
+    <category>Série</category>
+    <desc>Contre l'avis des Russes, le Premier ministre... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Pal Sletaune</name>
+      <name function="actor">Ingeborga Dapkunaite</name>
+      <name function="actor">Ane Dahl Torp</name>
+      <name function="actor">Henrik Mestad</name>
+      <name function="actor">Eldar Skar</name>
+      <name function="actor">Vergard Hoel</name>
+      <name function="actor">Ranghild Gudbrandsens</name>
+      <name function="actor">Hippolyte Girardot</name>
+      <name function="writer">Erik Richter Strand</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210035000 +0100" stop="20151210041500 +0100">
+    <length units="minutes">25</length>
+    <title>Square idée</title>
+    <category>Magazine</category>
+    <desc>La troisième révolution industrielle ? Chaque dimanche, intellectuels, créateurs et... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210041500 +0100" stop="20151210044000 +0100">
+    <length units="minutes">25</length>
+    <title>Voyage aux Amériques</title>
+    <category>Documentaire</category>
+    <desc>En compagnie d'archéologues, David Yetman... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Daniel Duncan</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210044000 +0100" stop="20151210051000 +0100">
+    <length units="minutes">30</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210051000 +0100" stop="20151210055500 +0100">
+    <length units="minutes">45</length>
+    <title>Florilège Offenbach</title>
+    <category>Concert</category>
+    <desc>En 2013, à l'occasion des 50 ans de l'anniversaire (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210055500 +0100" stop="20151210062500 +0100">
+    <length units="minutes">30</length>
+    <title>Mystères d'archives</title>
+    <category>Documentaire</category>
+    <desc>Dès l'annonce de l'assassinat de JFK, et... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Serge Viallet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210062500 +0100" stop="20151210065000 +0100">
+    <length units="minutes">25</length>
+    <title>Mystères d'archives</title>
+    <category>Documentaire</category>
+    <desc>Au lendemain de la Seconde Guerre mondiale,... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Serge Viallet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210065000 +0100" stop="20151210073500 +0100">
+    <length units="minutes">45</length>
+    <title>Metropolis</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : Lisbonne - Il y a quelques... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210073500 +0100" stop="20151210074500 +0100">
+    <length units="minutes">10</length>
+    <title>Arte journal junior</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Carolyn Höfchen,</name>
+      <name function="presenter">Dorothee Haffner,</name>
+      <name function="presenter">Magali Kreuzer,</name>
+      <name function="presenter">Frank Rauschendorf</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210074500 +0100" stop="20151210083000 +0100">
+    <length units="minutes">45</length>
+    <title>Polar Sea 360°, le guide du voyageur inter-arctique</title>
+    <category>Documentaire</category>
+    <desc>En Alaska, les étendues sauvages laissent... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Kevin McMahon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210083000 +0100" stop="20151210085500 +0100">
+    <length units="minutes">25</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>Presque partout dans le monde, quelle que... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dörthe Eickelberg,</name>
+      <name function="presenter">Pierre Girard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210085500 +0100" stop="20151210102500 +0100">
+    <length units="minutes">90</length>
+    <title>Albert Einstein, portrait d'un rebelle</title>
+    <category>Documentaire</category>
+    <desc>Peu après la Première Guerre mondiale, la... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Sylvia Strasser,</name>
+      <name function="director">Wolfgang Würker</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210102500 +0100" stop="20151210111000 +0100">
+    <length units="minutes">45</length>
+    <title>Pacifique sud</title>
+    <category>Documentaire</category>
+    <desc>La biodiversité des innombrables îles du... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Huw Cordey,</name>
+      <name function="director">Fiona Pitcher,</name>
+      <name function="director">Jonathan Clay</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210111000 +0100" stop="20151210115500 +0100">
+    <length units="minutes">45</length>
+    <title>Pacifique sud</title>
+    <category>Documentaire</category>
+    <desc>Le Pacifique Sud est vaste et se compose de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Andy Netley</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210115500 +0100" stop="20151210122500 +0100">
+    <length units="minutes">30</length>
+    <title>Fait main</title>
+    <category>Documentaire</category>
+    <desc>Moins élitiste que Milan, moins commerciale... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Hanna Leissner</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210122500 +0100" stop="20151210132000 +0100">
+    <length units="minutes">55</length>
+    <title>360°-GEO</title>
+    <category>Documentaire</category>
+    <desc>En mai et juin, les habitants de la province... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Lou Petho</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210132000 +0100" stop="20151210133500 +0100">
+    <length units="minutes">15</length>
+    <title>Arte journal</title>
+    <category>Journal</category>
+    <desc>L'actualité de la mi-journée en voix (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210133500 +0100" stop="20151210151500 +0100">
+    <length units="minutes">100</length>
+    <title>Scoop en talons aiguilles</title>
+    <category>Téléfilm</category>
+    <desc>Au cours d'un cocktail caritatif, Fanny... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Hermine Huntgeburth</name>
+      <name function="actor">Anke Engelke</name>
+      <name function="actor">Charly Hübner</name>
+      <name function="actor">Dirk Böhling</name>
+      <name function="actor">Johanna Bantzer</name>
+      <name function="actor">Ole Fischer</name>
+      <name function="actor">Robert Palfrader</name>
+      <name function="actor">Oliver Michael Jaksch</name>
+      <name function="actor">Jan Peter Heyne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210151500 +0100" stop="20151210154000 +0100">
+    <length units="minutes">25</length>
+    <title>Mystères d'archives</title>
+    <category>Documentaire</category>
+    <desc>En 1939, deux reporters tournent des images... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Pierre Catalan,</name>
+      <name function="director">Serge Viallet,</name>
+      <name function="director">Julien Gaurichon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210154000 +0100" stop="20151210162500 +0100">
+    <length units="minutes">45</length>
+    <title>En Suède, sur la piste des élans</title>
+    <category>Documentaire</category>
+    <desc>Frederick Stenbacka, biologiste spécialiste... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Heiko De Groot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210162500 +0100" stop="20151210172000 +0100">
+    <length units="minutes">55</length>
+    <title>Ouragan</title>
+    <category>Documentaire</category>
+    <desc>Depuis des millions d'années, la nature est... (Lire la suite).</desc>
+    <credits>
+      <name function="director">John Jackson,</name>
+      <name function="director">Andy Byatt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210172000 +0100" stop="20151210174500 +0100">
+    <length units="minutes">25</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>Presque partout dans le monde, quelle que... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dörthe Eickelberg,</name>
+      <name function="presenter">Pierre Girard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210174500 +0100" stop="20151210181500 +0100">
+    <length units="minutes">30</length>
+    <title>Quel cirque !</title>
+    <category>Documentaire</category>
+    <desc>Sarah Schwartz part découvrir le cirque... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Philippe Moreau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210181500 +0100" stop="20151210190000 +0100">
+    <length units="minutes">45</length>
+    <title>Les îles du futur</title>
+    <category>Documentaire</category>
+    <desc>Samso, île danoise de la mer Baltique, est... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Daniel Münter</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210190000 +0100" stop="20151210194500 +0100">
+    <length units="minutes">45</length>
+    <title>A +/- 5 mètres de la surface des océans</title>
+    <category>Documentaire</category>
+    <desc>Aux Açores et en Polynésie australe, Joe... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Dominique Hennequin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210194500 +0100" stop="20151210200500 +0100">
+    <length units="minutes">20</length>
+    <title>Arte journal</title>
+    <category>Journal</category>
+    <desc>L'actualité internationale, présentée en... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Marie Labory,</name>
+      <name function="presenter">Kady Adoum-Douass</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210200500 +0100" stop="20151210205000 +0100">
+    <length units="minutes">45</length>
+    <title>28 minutes</title>
+    <category>Magazine</category>
+    <desc>Elisabeth Quin accueille un invité, avec... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Elisabeth Quin,</name>
+      <name function="presenter">Guillaume Roquette,</name>
+      <name function="presenter">Claude Askolovitch,</name>
+      <name function="presenter">Vincent Giret,</name>
+      <name function="presenter">Arnaud Leparmentier,</name>
+      <name function="presenter">Renaud Dély,</name>
+      <name function="presenter">Nadia Daam,</name>
+      <name function="presenter">Xavier Mauduit,</name>
+      <name function="presenter">Jean-Mathieu Pernin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210205000 +0100" stop="20151210205500 +0100">
+    <length units="minutes">5</length>
+    <title>Silex and the City</title>
+    <category>Série</category>
+    <desc>Week-end romantique à Bab-el-Bipède : Spam et... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jérémie Hoarau</name>
+      <name function="writer">Jul</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210205500 +0100" stop="20151210214000 +0100">
+    <length units="minutes">45</length>
+    <title>Occupied</title>
+    <category>Série</category>
+    <desc>Une majorité de Norvégiens a approuvé la... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Eva Sorhaug</name>
+      <name function="actor">Ingeborga Dapkunaite</name>
+      <name function="actor">Ane Dahl Torp</name>
+      <name function="actor">Henrik Mestad</name>
+      <name function="actor">Emil Johnsen</name>
+      <name function="actor">Eldar Skar</name>
+      <name function="actor">Vergard Hoel</name>
+      <name function="actor">Ragnhild Gudbrandsen</name>
+      <name function="actor">Lisa Loven</name>
+      <name function="writer">Tomas Solli</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210214000 +0100" stop="20151210222500 +0100">
+    <length units="minutes">45</length>
+    <title>Occupied</title>
+    <category>Série</category>
+    <desc>Dans les rues d'Oslo, l'atmopshère est de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Eva Sorhaug</name>
+      <name function="actor">Ingeborga Dapkunaite</name>
+      <name function="actor">Ane Dahl Torp</name>
+      <name function="actor">Henrik Mestad</name>
+      <name function="actor">Eldar Skar</name>
+      <name function="actor">Vergard Hoel</name>
+      <name function="actor">Ranghild Gudbrandsens</name>
+      <name function="actor">Lisa Loven</name>
+      <name function="actor">Elishan Naurbiev</name>
+      <name function="writer">Tomas Solli</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210222500 +0100" stop="20151210232000 +0100">
+    <length units="minutes">55</length>
+    <title>Jésus et l'islam</title>
+    <category>Documentaire</category>
+    <desc>Mahomet a-t-il voulu créer une nouvelle... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Gérard Mordillat,</name>
+      <name function="director">Jérôme Prieur</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210232000 +0100" stop="20151211001500 +0100">
+    <length units="minutes">55</length>
+    <title>Jésus et l'islam</title>
+    <category>Documentaire</category>
+    <desc>Dans le Coran, Mahomet est présenté comme un... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Gérard Mordillat,</name>
+      <name function="director">Jérôme Prieur</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211001500 +0100" stop="20151211021000 +0100">
     <length units="minutes">115</length>
     <title>Jude (?)</title>
     <category>Film</category>
-    <desc>A la fin du XIXe siècle, en Angleterre. Jude Fawley, un petit paysan, prend conscience qu'une promotion sociale passe obligatoirement par... (Lire la suite).(n)</desc>
+    <desc>A la fin du XIXe siècle, en Angleterre. Jude... (Lire la suite).(n)</desc>
     <credits>
       <name function="director">Michael Winterbottom</name>
       <name function="actor">Kate Winslet</name>
@@ -255,21 +2125,329 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151123225000 +0100" stop="20151124002000 +0100">
-    <length units="minutes">90</length>
-    <title>I Want You (?)</title>
+  <programme channel="test" start="20151211021000 +0100" stop="20151211034500 +0100">
+    <length units="minutes">95</length>
+    <title>Marga (?)</title>
     <category>Film</category>
-    <desc>Après neuf ans passés en prison, Martin revient à Haven, une station balnéaire anglaise. Solitaire, peu loquace, il n'a qu'une idée en tête :... (Lire la suite).(n)</desc>
+    <desc>En 1943, en Westphalie, Menne Spiegel,... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Michael Winterbottom</name>
-      <name function="actor">Alessandro Nivola</name>
-      <name function="actor">Rachel Weisz</name>
-      <name function="actor">Labina Mitevska</name>
-      <name function="actor">Ben Daniels</name>
-      <name function="actor">Graham Crowden</name>
-      <name function="actor">Geraldine O'Rawe</name>
-      <name function="actor">Carmen Ejogo</name>
-      <name function="actor">Luka Petrusic</name>
+      <name function="director">Ludi Boeken</name>
+      <name function="actor">Armin Rohde</name>
+      <name function="actor">Veronica Ferres</name>
+      <name function="actor">Margarita Broich</name>
+      <name function="actor">Kilian Schüler</name>
+      <name function="actor">Lia Hoensbroech</name>
+      <name function="actor">Luisa Mix</name>
+      <name function="actor">Tjard Krusius</name>
+      <name function="actor">Martin Horn</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211034500 +0100" stop="20151211043500 +0100">
+    <length units="minutes">50</length>
+    <title>Ports d'attache</title>
+    <category>Documentaire</category>
+    <desc>Située au confluent de l'Europe et de l'Asie,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Etienne Deslières,</name>
+      <name function="director">Nicolas Boucher,</name>
+      <name function="director">Myriam Côté</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211043500 +0100" stop="20151211051000 +0100">
+    <length units="minutes">35</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211051000 +0100" stop="20151211061000 +0100">
+    <length units="minutes">60</length>
+    <title>Berlin Live</title>
+    <category>Concert</category>
+    <desc>Depuis leurs premiers succès à la fin des... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211061000 +0100" stop="20151211064000 +0100">
+    <length units="minutes">30</length>
+    <title>Mystères d'archives</title>
+    <category>Documentaire</category>
+    <desc>Plus de 600 millions de téléspectateurs ont... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Serge Viallet,</name>
+      <name function="director">Alexandre Auque</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211064000 +0100" stop="20151211070500 +0100">
+    <length units="minutes">25</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>En Allemagne comme en France, les poissons... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Adrian Pflug,</name>
+      <name function="presenter">Emilie Langlade</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211070500 +0100" stop="20151211073500 +0100">
+    <length units="minutes">30</length>
+    <title>Futuremag</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211073500 +0100" stop="20151211074500 +0100">
+    <length units="minutes">10</length>
+    <title>Arte journal junior</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Carolyn Höfchen,</name>
+      <name function="presenter">Dorothee Haffner,</name>
+      <name function="presenter">Magali Kreuzer,</name>
+      <name function="presenter">Frank Rauschendorf</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211074500 +0100" stop="20151211083000 +0100">
+    <length units="minutes">45</length>
+    <title>Polar Sea 360°, le guide du voyageur inter-arctique</title>
+    <category>Documentaire</category>
+    <desc>Après deux mois passés sur les flots, les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Kevin McMahon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211083000 +0100" stop="20151211085500 +0100">
+    <length units="minutes">25</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>Le métabolisme est le moteur de l'organisme.... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Adrian Pflug,</name>
+      <name function="presenter">Emilie Langlade</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211085500 +0100" stop="20151211103000 +0100">
+    <length units="minutes">95</length>
+    <title>Climat, pour quelques degrés de moins</title>
+    <category>Documentaire</category>
+    <desc>Depuis le sommet de la Terre à Rio, il y a... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Thierry Robert,</name>
+      <name function="director">Elena Sender,</name>
+      <name function="director">Alexis Barbier-Bouvier</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211103000 +0100" stop="20151211111500 +0100">
+    <length units="minutes">45</length>
+    <title>Mousson</title>
+    <category>Documentaire</category>
+    <desc>En Inde, zoom sur la longue attente des... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Sturla Gunnarsson</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211111500 +0100" stop="20151211115500 +0100">
+    <length units="minutes">40</length>
+    <title>Mousson</title>
+    <category>Documentaire</category>
+    <desc>A la saison des pluies, en Inde, les tigres... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Sturla Gunnarsson</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211115500 +0100" stop="20151211122500 +0100">
+    <length units="minutes">30</length>
+    <title>L'Europe en bouteilles</title>
+    <category>Documentaire</category>
+    <desc>Découverte des différents alcools produits à... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Bernd Girrbach,</name>
+      <name function="director">Dimitrios Kisoudis</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211122500 +0100" stop="20151211132000 +0100">
+    <length units="minutes">55</length>
+    <title>360°-GEO</title>
+    <category>Documentaire</category>
+    <desc>A vingt kilomètres de Fukushima, où les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">J Michael Schumacher</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211132000 +0100" stop="20151211133500 +0100">
+    <length units="minutes">15</length>
+    <title>Arte journal</title>
+    <category>Journal</category>
+    <desc>L'actualité de la mi-journée en voix (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211133500 +0100" stop="20151211154000 +0100">
+    <length units="minutes">125</length>
+    <title>La forêt d'émeraude (?)</title>
+    <category>Film</category>
+    <desc>Bill Markham et sa femme s'installent en... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">John Boorman</name>
+      <name function="actor">Meg Foster</name>
+      <name function="actor">Charley Boorman</name>
+      <name function="actor">Dira Paes</name>
+      <name function="actor">Estee Chandler</name>
+      <name function="actor">Ruy Polanah</name>
+      <name function="actor">Yara Vaneau</name>
+      <name function="actor">William Rodriguez</name>
+      <name function="actor">Powers Boothe</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211154000 +0100" stop="20151211162500 +0100">
+    <length units="minutes">45</length>
+    <title>Montecristo : combat pour une île</title>
+    <category>Documentaire</category>
+    <desc>Protégée mais menacée, l'île de Montecristo,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Florian Guthknecht</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211162500 +0100" stop="20151211172000 +0100">
+    <length units="minutes">55</length>
+    <title>Ouragan</title>
+    <category>Documentaire</category>
+    <desc>L'Est des Etats-Unis, les Caraïbes et... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">John Jackson,</name>
+      <name function="director">Andy Byatt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211172000 +0100" stop="20151211174500 +0100">
+    <length units="minutes">25</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>Le métabolisme est le moteur de l'organisme.... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Adrian Pflug,</name>
+      <name function="presenter">Emilie Langlade</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211174500 +0100" stop="20151211181500 +0100">
+    <length units="minutes">30</length>
+    <title>Quel cirque !</title>
+    <category>Documentaire</category>
+    <desc>Au coeur de Mexico, la fildefériste Sarah... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Guy Beauché</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211181500 +0100" stop="20151211190000 +0100">
+    <length units="minutes">45</length>
+    <title>Les îles du futur</title>
+    <category>Documentaire</category>
+    <desc>L'Islande, pays de geysers, de glaciers, de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Daniel Münter</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211190000 +0100" stop="20151211194500 +0100">
+    <length units="minutes">45</length>
+    <title>A +/- 5 mètres de la surface des océans</title>
+    <category>Documentaire</category>
+    <desc>En Arctique, le photographe Joe Bunni... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Dominique Hennequin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211194500 +0100" stop="20151211200500 +0100">
+    <length units="minutes">20</length>
+    <title>Arte journal</title>
+    <category>Journal</category>
+    <desc>L'actualité internationale, présentée en... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Marie Labory,</name>
+      <name function="presenter">Kady Adoum-Douass</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211200500 +0100" stop="20151211205000 +0100">
+    <length units="minutes">45</length>
+    <title>28 minutes</title>
+    <category>Magazine</category>
+    <desc>Elisabeth Quin accueille un invité, avec... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Elisabeth Quin,</name>
+      <name function="presenter">Guillaume Roquette,</name>
+      <name function="presenter">Claude Askolovitch,</name>
+      <name function="presenter">Vincent Giret,</name>
+      <name function="presenter">Arnaud Leparmentier,</name>
+      <name function="presenter">Renaud Dély,</name>
+      <name function="presenter">Nadia Daam,</name>
+      <name function="presenter">Xavier Mauduit,</name>
+      <name function="presenter">Jean-Mathieu Pernin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211205000 +0100" stop="20151211205500 +0100">
+    <length units="minutes">5</length>
+    <title>Silex and the City</title>
+    <category>Série</category>
+    <desc>Sur le plateau de Darwin Pujadas, tous les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jérémie Hoarau</name>
+      <name function="writer">Jul</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211205500 +0100" stop="20151211223000 +0100">
+    <length units="minutes">95</length>
+    <title>Neuf jours en hiver</title>
+    <category>Téléfilm</category>
+    <desc>Suite à l'accident de voiture mortel de ses... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Alain Tasma</name>
+      <name function="actor">Bruno Abraham-Kremer</name>
+      <name function="actor">Robinson Stévenin</name>
+      <name function="actor">Stéphane Caillard</name>
+      <name function="actor">Patrick Mille</name>
+      <name function="actor">Yannick Choirat</name>
+      <name function="actor">Lucie Debay</name>
+      <name function="actor">Elina Solomon</name>
+      <name function="actor">Catherine Hiegel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211223000 +0100" stop="20151211232000 +0100">
+    <length units="minutes">50</length>
+    <title>Nos ordinateurs ont-ils la mémoire courte ?</title>
+    <category>Documentaire</category>
+    <desc>Aujourd'hui, le numérique a remplacé les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Vincent Amouroux</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211232000 +0100" stop="20151212010500 +0100">
+    <length units="minutes">105</length>
+    <title>Vue imprenable</title>
+    <category>Documentaire</category>
+    <desc>En Allemagne, Dortmund, dans la Ruhr, a été... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Ulrike Franke,</name>
+      <name function="director">Michael Loeken</name>
     </credits>
     <image />
   </programme>

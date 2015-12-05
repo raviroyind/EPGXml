@@ -64,6 +64,9 @@ namespace XmlParser.Secured
                 foreach (var item in sourceList)
                 {
                     item.Text = item.Text.Substring(item.Text.LastIndexOf("/", StringComparison.Ordinal) + 1);
+
+                    if (item.Text.Contains("?"))
+                        item.Text = item.Text.Substring(0, item.Text.LastIndexOf("?", StringComparison.Ordinal));
                 }
                 
                 ddlSourceXml.Items.Clear();

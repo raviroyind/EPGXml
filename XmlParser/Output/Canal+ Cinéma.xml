@@ -3,35 +3,359 @@
   <channel id="Canal+ Cinéma">
     <display-name>test</display-name>
   </channel>
-  <programme channel="test" start="20151124074000 +0100" stop="20151124081000 +0100">
-    <length units="minutes">30</length>
-    <title>Mickrociné</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : Blanquette - Un court métrage français réalisé par Charlie Belin. Une famille est réunie autour d'un repas dominical. Un véritable... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124081000 +0100" stop="20151124081600 +0100">
-    <length units="minutes">6</length>
-    <title>Le film en +</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124081600 +0100" stop="20151124082000 +0100">
-    <length units="minutes">4</length>
+  <programme channel="test" start="20151205010200 +0100" stop="20151205010500 +0100">
+    <length units="minutes">3</length>
     <title>Cinéastes</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Dominique Besnehard</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124082000 +0100" stop="20151124095000 +0100">
+  <programme channel="test" start="20151205010500 +0100" stop="20151205025500 +0100">
+    <length units="minutes">110</length>
+    <title>Bande de filles (?)</title>
+    <category>Film</category>
+    <desc>Marieme, 16 ans, vit en banlieue. Silhouette... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Céline Sciamma</name>
+      <name function="actor">Cyril Mendy</name>
+      <name function="actor">Rabah Naït Oufella</name>
+      <name function="actor">Diabate Idrissa</name>
+      <name function="actor">Karidja Touré</name>
+      <name function="actor">Assa Sylla</name>
+      <name function="actor">Lindsay Karamoh</name>
+      <name function="actor">Mariétou Touré</name>
+      <name function="actor">Djibril Gueye</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205025500 +0100" stop="20151205031500 +0100">
+    <length units="minutes">20</length>
+    <title>Rencontres de cinéma</title>
+    <category>Magazine</category>
+    <desc>Rencontre avec l'équipe du film «Babysitting 2» : les réalisateurs Nicolas Benamou et Philippe Lacheau, ce dernier également interprète aux côtés... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurent Weil</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205031500 +0100" stop="20151205034000 +0100">
+    <length units="minutes">25</length>
+    <title>Le mari, la femme, le cochon et l'amant (?)</title>
+    <category>Film</category>
+    <desc>Une battue est organisée pour chasser un... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jacques Mitsch</name>
+      <name function="actor">Samuel Mathieu</name>
+      <name function="actor">Alain Dumas</name>
+      <name function="actor">Muriel Bénazéraf</name>
+      <name function="actor">Jean-Yves Michaux</name>
+      <name function="actor">Nathalie Hauwelle</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205034000 +0100" stop="20151205074500 +0100">
+    <length units="minutes">245</length>
+    <title>Interruption des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205074500 +0100" stop="20151205075500 +0100">
+    <length units="minutes">10</length>
+    <title>L'hebd'Hollywood</title>
+    <category>Magazine</category>
+    <desc>Toute l'actualité d'Hollywood, des stars et des derniers films à ne pas manquer. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Didier Allouch</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205075500 +0100" stop="20151205094500 +0100">
+    <length units="minutes">110</length>
+    <title>La rançon de la gloire (?)</title>
+    <category>Film</category>
+    <desc>A la veille de Noël 1977, dans une petite... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Xavier Beauvois</name>
+      <name function="actor">Peter Coyote</name>
+      <name function="actor">Roschdy Zem</name>
+      <name function="actor">Chiara Mastroianni</name>
+      <name function="actor">Dolores Chaplin</name>
+      <name function="actor">Benoît Poelvoorde</name>
+      <name function="actor">Nadine Labaki</name>
+      <name function="actor">Isabelle Caillat</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205094500 +0100" stop="20151205112500 +0100">
+    <length units="minutes">100</length>
+    <title>El Ardor (?)</title>
+    <category>Film</category>
+    <desc>En pleine forêt argentine, trois frères,... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Pablo Fendrik</name>
+      <name function="actor">Claudio Tolcachir</name>
+      <name function="actor">Gael García Bernal</name>
+      <name function="actor">Julián Tello</name>
+      <name function="actor">Jorge Sesán</name>
+      <name function="actor">Iván Steinhardt</name>
+      <name function="actor">Lautaro Vilo</name>
+      <name function="actor">Chico Díaz</name>
+      <name function="actor">Alice Braga</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205112500 +0100" stop="20151205113000 +0100">
+    <length units="minutes">5</length>
+    <title>Le film en +</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205113000 +0100" stop="20151205125000 +0100">
+    <length units="minutes">80</length>
+    <title>Slow West (?)</title>
+    <category>Film</category>
+    <desc>A la fin du XIXe siècle, Rose Ross, une jeune... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">John Maclean</name>
+      <name function="actor">Ben Mendelsohn</name>
+      <name function="actor">Michael Fassbender</name>
+      <name function="actor">Andrew Robertt</name>
+      <name function="actor">Alex MacQueen</name>
+      <name function="actor">Kodi Smit-McPhee</name>
+      <name function="actor">Edwin Wright</name>
+      <name function="actor">Caren Pistorius</name>
+      <name function="actor">Rory McCann</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205125000 +0100" stop="20151205134000 +0100">
+    <length units="minutes">50</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205134000 +0100" stop="20151205162500 +0100">
+    <length units="minutes">165</length>
+    <title>Interstellar (?)</title>
+    <category>Film</category>
+    <desc>La planète Terre se meurt par trop de... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Christopher Nolan</name>
+      <name function="actor">Michael Caine</name>
+      <name function="actor">Ellen Burstyn</name>
+      <name function="actor">Matthew McConaughey</name>
+      <name function="actor">Casey Affleck</name>
+      <name function="actor">Wes Bentley</name>
+      <name function="actor">Anne Hathaway</name>
+      <name function="actor">Jessica Chastain</name>
+      <name function="actor">Mackenzie Foy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205162500 +0100" stop="20151205164100 +0100">
+    <length units="minutes">16</length>
+    <title>L'hebd'Hollywood</title>
+    <category>Magazine</category>
+    <desc>Toute l'actualité d'Hollywood, des stars et... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Didier Allouch</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205164100 +0100" stop="20151205164200 +0100">
+    <length units="minutes">1</length>
+    <title>La séance de Mouloud Achour</title>
+    <category>Magazine</category>
+    <desc>Mouloud propose un nouveau rendez-vous... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Mouloud</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205164200 +0100" stop="20151205181600 +0100">
+    <length units="minutes">94</length>
+    <title>The Anomaly (?)</title>
+    <category>Film</category>
+    <desc>Dans le futur, un homme se réveille à... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Noel Clarke</name>
+      <name function="actor">Brian Cox</name>
+      <name function="actor">Ian Somerhalder</name>
+      <name function="actor">Noel Clarke</name>
+      <name function="actor">Michael Bisping</name>
+      <name function="actor">Alexis Knapp</name>
+      <name function="actor">Art Parkinson</name>
+      <name function="actor">Niall Greig Fulton</name>
+      <name function="actor">Luke Hemsworth</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205181600 +0100" stop="20151205181900 +0100">
+    <length units="minutes">3</length>
+    <title>Nouveau genre</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Ivan Guyot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205181900 +0100" stop="20151205195000 +0100">
+    <length units="minutes">91</length>
+    <title>Kidnapping Mr. Heineken (?)</title>
+    <category>Film</category>
+    <desc>En 1983, cinq malfaiteurs se préparent... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Daniel Alfredson</name>
+      <name function="actor">Ryan Kwanten</name>
+      <name function="actor">Sam Worthington</name>
+      <name function="actor">Jim Sturgess</name>
+      <name function="actor">Jemima West</name>
+      <name function="actor">David Dencik</name>
+      <name function="actor">Mark van Eeuwen</name>
+      <name function="actor">Thomas Cocquerel</name>
+      <name function="actor">Anthony Hopkins</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205195000 +0100" stop="20151205195500 +0100">
+    <length units="minutes">5</length>
+    <title>Le film en +</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205195500 +0100" stop="20151205205000 +0100">
+    <length units="minutes">55</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques retrouvent le plateau du «Cercle» pour une nouvelle saison. Chaque vendredi, en deuxième partie de... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205205000 +0100" stop="20151205223000 +0100">
+    <length units="minutes">100</length>
+    <title>A la vie (?)</title>
+    <category>Film</category>
+    <desc>A la fin de la guerre, Hélène tente de... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Jean-Jacques Zilbermann</name>
+      <name function="actor">Hippolyte Girardot</name>
+      <name function="actor">Wojciech Pszoniak</name>
+      <name function="actor">Julie Depardieu</name>
+      <name function="actor">Mathias Mlekuz</name>
+      <name function="actor">Suzanne Clément</name>
+      <name function="actor">Johanna ter Steege</name>
+      <name function="actor">Benjamin Wangermee</name>
+      <name function="actor">Béatrice Michel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205223000 +0100" stop="20151206000000 +0100">
     <length units="minutes">90</length>
+    <title>Toute première fois (?)</title>
+    <category>Film</category>
+    <desc>Mais que fait Jérémie, 34 ans, dans le lit de... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Noémie Saglio,</name>
+      <name function="director">Maxime Govare</name>
+      <name function="actor">Isabelle Candelier</name>
+      <name function="actor">Frédéric Pierrot</name>
+      <name function="actor">Sébastien Castro</name>
+      <name function="actor">Lannick Gautry</name>
+      <name function="actor">Pio Marmaï</name>
+      <name function="actor">Franck Gastambide</name>
+      <name function="actor">Camille Cottin</name>
+      <name function="actor">Adrianna Gradziel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206000000 +0100" stop="20151206013500 +0100">
+    <length units="minutes">95</length>
+    <title>Papa Was Not a Rolling Stone (?)</title>
+    <category>Film</category>
+    <desc>La Courneuve, les années 1980. Stéphanie est... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Sylvie Ohayon</name>
+      <name function="actor">Sylvie Testud</name>
+      <name function="actor">Marc Lavoine</name>
+      <name function="actor">Claudine Baschet</name>
+      <name function="actor">Aure Atika</name>
+      <name function="actor">Doria Achour</name>
+      <name function="actor">Nathalie Rhéa</name>
+      <name function="actor">Soumaye Bocoum</name>
+      <name function="actor">Azedine Kasri</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206013500 +0100" stop="20151206020000 +0100">
+    <length units="minutes">25</length>
+    <title>L'oeil de Links</title>
+    <category>Magazine</category>
+    <desc>Le webazine de l'activité créative du net :... (Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206020000 +0100" stop="20151206035000 +0100">
+    <length units="minutes">110</length>
+    <title>Ghost World (?)</title>
+    <category>Film</category>
+    <desc>Enid et Rebecca viennent tout juste de finir... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Terry Zwigoff</name>
+      <name function="actor">Bob Balaban</name>
+      <name function="actor">Steve Buscemi</name>
+      <name function="actor">Thora Birch</name>
+      <name function="actor">Illeana Douglas</name>
+      <name function="actor">Brad Renfro</name>
+      <name function="actor">Scarlett Johansson</name>
+      <name function="actor">Stacey Travis</name>
+      <name function="actor">Charles C Stevenson Jr</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206035000 +0100" stop="20151206070000 +0100">
+    <length units="minutes">190</length>
+    <title>Interruption des programmes</title>
+    <category />
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206070000 +0100" stop="20151206075500 +0100">
+    <length units="minutes">55</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206075500 +0100" stop="20151206075800 +0100">
+    <length units="minutes">3</length>
+    <title>Cinéastes</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Dominique Besnehard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206075800 +0100" stop="20151206092500 +0100">
+    <length units="minutes">87</length>
     <title>Mon amie Victoria (?)</title>
     <category>Film</category>
-    <desc>Parce que sa maman ne peut s'occuper d'elle, Victoria, une fillette noire est recueillie pour une nuit au sein d'une famille bourgeoise. Elle y... (Lire la suite).(n)</desc>
+    <desc>Parce que sa maman ne peut s'occuper d'elle,... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Jean-Paul Civeyrac</name>
       <name function="actor">Alexis Loret</name>
@@ -45,120 +369,702 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124095000 +0100" stop="20151124112000 +0100">
-    <length units="minutes">90</length>
-    <title>Ablations (?)</title>
+  <programme channel="test" start="20151206092500 +0100" stop="20151206112000 +0100">
+    <length units="minutes">115</length>
+    <title>Samba (?)</title>
     <category>Film</category>
-    <desc>Pastor Cartalas, un homme d'une quarantaine d'années, tente de comprendre ce qu'il lui est arrivé. Il se réveille un matin dans un terrain vague.... (Lire la suite).(n)</desc>
+    <desc>Samba, un sans-papiers sénégalais, vit en... (Lire la suite).(c)</desc>
     <credits>
-      <name function="director">Arnold de Parscau</name>
-      <name function="actor">Florence Thomassin</name>
-      <name function="actor">Yolande Moreau</name>
-      <name function="actor">Philippe Nahon</name>
-      <name function="actor">Serge Riaboukine</name>
-      <name function="actor">Virginie Ledoyen</name>
-      <name function="actor">Philippe Rebbot</name>
-      <name function="actor">Denis Ménochet</name>
-      <name function="actor">Lika Minamoto</name>
+      <name function="director">Olivier Nakache,</name>
+      <name function="director">Eric Toledano</name>
+      <name function="actor">Christiane Millet</name>
+      <name function="actor">Charlotte Gainsbourg</name>
+      <name function="actor">Hélène Vincent</name>
+      <name function="actor">Omar Sy</name>
+      <name function="actor">Tahar Rahim</name>
+      <name function="actor">Isaka Sawadogo</name>
+      <name function="actor">Izïa Higelin</name>
+      <name function="actor">Youngar Fall</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124112000 +0100" stop="20151124121500 +0100">
-    <length units="minutes">55</length>
+  <programme channel="test" start="20151206112000 +0100" stop="20151206125000 +0100">
+    <length units="minutes">90</length>
+    <title>Toute première fois (?)</title>
+    <category>Film</category>
+    <desc>Mais que fait Jérémie, 34 ans, dans le lit de... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Noémie Saglio,</name>
+      <name function="director">Maxime Govare</name>
+      <name function="actor">Isabelle Candelier</name>
+      <name function="actor">Frédéric Pierrot</name>
+      <name function="actor">Sébastien Castro</name>
+      <name function="actor">Lannick Gautry</name>
+      <name function="actor">Pio Marmaï</name>
+      <name function="actor">Franck Gastambide</name>
+      <name function="actor">Camille Cottin</name>
+      <name function="actor">Adrianna Gradziel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206125000 +0100" stop="20151206131000 +0100">
+    <length units="minutes">20</length>
+    <title>Rencontres de cinéma</title>
+    <category>Magazine</category>
+    <desc>Laurent Weil lève le voile sur les coulisses... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Laurent Weil</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206131000 +0100" stop="20151206140000 +0100">
+    <length units="minutes">50</length>
+    <title>Panthers</title>
+    <category>Série</category>
+    <desc>Le casse sanglant d'une bijouterie de... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Johan Renck</name>
+      <name function="actor">John Hurt</name>
+      <name function="actor">Samantha Morton</name>
+      <name function="actor">Corinne Masiero</name>
+      <name function="actor">Tahar Rahim</name>
+      <name function="actor">Kobna Holdbrook-Smith</name>
+      <name function="actor">Goran Bogdan</name>
+      <name function="actor">Igor Bencina</name>
+      <name function="actor">Peter Alberti</name>
+      <name function="writer">Jack Thorne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206140000 +0100" stop="20151206145000 +0100">
+    <length units="minutes">50</length>
+    <title>Panthers</title>
+    <category>Série</category>
+    <desc>Au petit matin, les hommes du GIPN effectuent... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Johan Renck</name>
+      <name function="actor">John Hurt</name>
+      <name function="actor">Samantha Morton</name>
+      <name function="actor">Tahar Rahim</name>
+      <name function="actor">Kobna Holdbrook-Smith</name>
+      <name function="actor">Yann Ebongé</name>
+      <name function="actor">Goran Bogdan</name>
+      <name function="actor">Igor Bencina</name>
+      <name function="actor">Peter Alberti</name>
+      <name function="writer">Jack Thorne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206145000 +0100" stop="20151206162500 +0100">
+    <length units="minutes">95</length>
+    <title>Turks and Caicos</title>
+    <category>Téléfilm</category>
+    <desc>Johnny Worricker séjourne de manière totalement (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">David Hare</name>
+      <name function="actor">Christopher Walken</name>
+      <name function="actor">Rupert Graves</name>
+      <name function="actor">Ralph Fiennes</name>
+      <name function="actor">Ewen Bremner</name>
+      <name function="actor">Zach Grenier</name>
+      <name function="actor">Bill Nighy</name>
+      <name function="actor">Helena Bonham Carter</name>
+      <name function="actor">Winona Ryder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206162500 +0100" stop="20151206180000 +0100">
+    <length units="minutes">95</length>
+    <title>Salting the Battlefield</title>
+    <category>Téléfilm</category>
+    <desc>Johnny Worricker et son ex-petite amie,... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">David Hare</name>
+      <name function="actor">Judy Davis</name>
+      <name function="actor">Saskia Reeves</name>
+      <name function="actor">Ralph Fiennes</name>
+      <name function="actor">Ewen Bremner</name>
+      <name function="actor">Bill Nighy</name>
+      <name function="actor">Helena Bonham Carter</name>
+      <name function="actor">Daniel Ryan</name>
+      <name function="actor">Shazad Latif</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206180000 +0100" stop="20151206185000 +0100">
+    <length units="minutes">50</length>
     <title>Le cercle</title>
     <category>Magazine</category>
-    <desc>Frédéric Beigbeder et son équipe de critiques retrouvent le plateau du «Cercle» pour une nouvelle saison. Chaque vendredi, en deuxième partie de... (Lire la suite).(n)</desc>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).(c)</desc>
     <credits>
       <name function="presenter">Frédéric Beigbeder</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124121500 +0100" stop="20151124122000 +0100">
-    <length units="minutes">5</length>
-    <title>Le film en +</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+  <programme channel="test" start="20151206185000 +0100" stop="20151206205000 +0100">
+    <length units="minutes">120</length>
+    <title>Un homme très recherché (?)</title>
+    <category>Film</category>
+    <desc>Plus de dix ans après les attentats du 11... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Anton Corbijn</name>
+      <name function="actor">Martin Wuttke</name>
+      <name function="actor">Nina Hoss</name>
+      <name function="actor">Rachel McAdams</name>
+      <name function="actor">Daniel Brühl</name>
+      <name function="actor">Willem Dafoe</name>
+      <name function="actor">Philip Seymour Hoffman</name>
+      <name function="actor">Robin Wright</name>
+      <name function="actor">Grigoriy Dobrygin</name>
+    </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124122000 +0100" stop="20151124141000 +0100">
+  <programme channel="test" start="20151206205000 +0100" stop="20151206224000 +0100">
     <length units="minutes">110</length>
-    <title>Le labyrinthe (?)</title>
+    <title>Bande de filles (?)</title>
     <category>Film</category>
-    <desc>Thomas, un adolescent, se réveille amnésique dans un étrange endroit à ciel ouvert entouré de hauts murs, et où vivent cinquante autres garçons.... (Lire la suite).(n)</desc>
+    <desc>Marieme, 16 ans, vit en banlieue. Silhouette... (Lire la suite).(c)</desc>
     <credits>
-      <name function="director">Wes Ball</name>
-      <name function="actor">Patricia Clarkson</name>
-      <name function="actor">Kaya Scodelario</name>
-      <name function="actor">Will Poulter</name>
-      <name function="actor">Thomas Brodie-Sangster</name>
-      <name function="actor">Jacob Latimore</name>
-      <name function="actor">Dylan O'Brien</name>
-      <name function="actor">Blake Cooper</name>
-      <name function="actor">Lee Ki Hong</name>
+      <name function="director">Céline Sciamma</name>
+      <name function="actor">Cyril Mendy</name>
+      <name function="actor">Rabah Naït Oufella</name>
+      <name function="actor">Diabate Idrissa</name>
+      <name function="actor">Karidja Touré</name>
+      <name function="actor">Assa Sylla</name>
+      <name function="actor">Lindsay Karamoh</name>
+      <name function="actor">Mariétou Touré</name>
+      <name function="actor">Djibril Gueye</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124141000 +0100" stop="20151124141200 +0100">
-    <length units="minutes">2</length>
-    <title>La séance de Mouloud Achour</title>
+  <programme channel="test" start="20151206224000 +0100" stop="20151206230700 +0100">
+    <length units="minutes">27</length>
+    <title>Mickrociné</title>
     <category>Magazine</category>
-    <desc>Mouloud propose un nouveau rendez-vous cinéphilique pour mettre en lumière les oeuvres qu'il affectionne. (Lire la suite).(n)</desc>
+    <desc>Une compilation de courts métrages du monde... (Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206230700 +0100" stop="20151206231000 +0100">
+    <length units="minutes">3</length>
+    <title>Nouveau genre</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(c)</desc>
     <credits>
-      <name function="presenter">Mouloud</name>
+      <name function="presenter">Ivan Guyot</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124141200 +0100" stop="20151124170500 +0100">
-    <length units="minutes">173</length>
-    <title>Le loup de Wall Street (?)</title>
+  <programme channel="test" start="20151206231000 +0100" stop="20151207010500 +0100">
+    <length units="minutes">115</length>
+    <title>Du sang et des larmes (?)</title>
     <category>Film</category>
-    <desc>Au début des années 1990, Jordan Belfort, trader à Wall Street, s'enrichit à la vitesse grand V. Il a à peine 30 ans et a trouvé la botte secrète... (Lire la suite).(n)</desc>
+    <desc>Marcus, Mike, Matt et Danny sont unis par... (Lire la suite).(c)</desc>
     <credits>
-      <name function="director">Martin Scorsese</name>
-      <name function="actor">Kyle Chandler</name>
-      <name function="actor">Jon Favreau</name>
-      <name function="actor">Leonardo DiCaprio</name>
-      <name function="actor">Ethan Suplee</name>
-      <name function="actor">Jon Bernthal</name>
-      <name function="actor">Jonah Hill</name>
-      <name function="actor">Margot Robbie</name>
-      <name function="actor">Matthew McConaughey</name>
+      <name function="director">Peter Berg</name>
+      <name function="actor">Ben Foster</name>
+      <name function="actor">Mark Wahlberg</name>
+      <name function="actor">Emile Hirsch</name>
+      <name function="actor">Eric Bana</name>
+      <name function="actor">Jerry Ferrara</name>
+      <name function="actor">Taylor Kitsch</name>
+      <name function="actor">Alexander Ludwig</name>
+      <name function="actor">Scott Elrod</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124170500 +0100" stop="20151124185900 +0100">
-    <length units="minutes">114</length>
-    <title>Ma vie avec Liberace (?)</title>
+  <programme channel="test" start="20151207010500 +0100" stop="20151207025500 +0100">
+    <length units="minutes">110</length>
+    <title>La rançon de la gloire (?)</title>
     <category>Film</category>
-    <desc>Au cours de l'été 1977, le jeune Scott Thorson, dresseur pour animaux employé sur des tournages de films, fait la connaissance de Bob Black dans... (Lire la suite).(n)</desc>
+    <desc>A la veille de Noël 1977, dans une petite... (Lire la suite).(c)</desc>
     <credits>
-      <name function="director">Steven Soderbergh</name>
-      <name function="actor">Dan Aykroyd</name>
-      <name function="actor">Michael Douglas</name>
-      <name function="actor">Debbie Reynolds</name>
-      <name function="actor">Paul Reiser</name>
-      <name function="actor">Scott Bakula</name>
-      <name function="actor">Rob Lowe</name>
-      <name function="actor">Matt Damon</name>
-      <name function="actor">Cheyenne Jackson</name>
+      <name function="director">Xavier Beauvois</name>
+      <name function="actor">Peter Coyote</name>
+      <name function="actor">Roschdy Zem</name>
+      <name function="actor">Chiara Mastroianni</name>
+      <name function="actor">Dolores Chaplin</name>
+      <name function="actor">Benoît Poelvoorde</name>
+      <name function="actor">Nadine Labaki</name>
+      <name function="actor">Isabelle Caillat</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124185900 +0100" stop="20151124190000 +0100">
-    <length units="minutes">1</length>
+  <programme channel="test" start="20151207025500 +0100" stop="20151207065500 +0100">
+    <length units="minutes">240</length>
+    <title>Interruption des programmes</title>
+    <category />
+    <desc>(Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207065500 +0100" stop="20151207071500 +0100">
+    <length units="minutes">20</length>
+    <title>Rencontres de cinéma</title>
+    <category>Magazine</category>
+    <desc>Laurent Weil lève le voile sur les coulisses... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurent Weil</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207071500 +0100" stop="20151207081200 +0100">
+    <length units="minutes">57</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207081200 +0100" stop="20151207081500 +0100">
+    <length units="minutes">3</length>
     <title>Cinéastes</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Dominique Besnehard</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124190000 +0100" stop="20151124203500 +0100">
+  <programme channel="test" start="20151207081500 +0100" stop="20151207101800 +0100">
+    <length units="minutes">123</length>
+    <title>Her (?)</title>
+    <category>Film</category>
+    <desc>Dans un futur proche à Los Angeles, Theodore... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Spike Jonze</name>
+      <name function="actor">Joaquin Phoenix</name>
+      <name function="actor">Scarlett Johansson</name>
+      <name function="actor">Amy Adams</name>
+      <name function="actor">Matt Letscher</name>
+      <name function="actor">Chris Pratt</name>
+      <name function="actor">Rooney Mara</name>
+      <name function="actor">Portia Doubleday</name>
+      <name function="actor">Robert Benard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207101800 +0100" stop="20151207101900 +0100">
+    <length units="minutes">1</length>
+    <title>La séance de Mouloud Achour</title>
+    <category>Magazine</category>
+    <desc>Mouloud propose un nouveau rendez-vous... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Mouloud</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207101900 +0100" stop="20151207115000 +0100">
+    <length units="minutes">91</length>
+    <title>The Anomaly (?)</title>
+    <category>Film</category>
+    <desc>Dans le futur, un homme se réveille à... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Noel Clarke</name>
+      <name function="actor">Brian Cox</name>
+      <name function="actor">Ian Somerhalder</name>
+      <name function="actor">Noel Clarke</name>
+      <name function="actor">Michael Bisping</name>
+      <name function="actor">Alexis Knapp</name>
+      <name function="actor">Art Parkinson</name>
+      <name function="actor">Niall Greig Fulton</name>
+      <name function="actor">Luke Hemsworth</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207115000 +0100" stop="20151207120500 +0100">
+    <length units="minutes">15</length>
+    <title>L'hebd'Hollywood</title>
+    <category>Magazine</category>
+    <desc>Toute l'actualité d'Hollywood, des stars et... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Didier Allouch</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207120500 +0100" stop="20151207140000 +0100">
+    <length units="minutes">115</length>
+    <title>Un illustre inconnu (?)</title>
+    <category>Film</category>
+    <desc>Sébastien Nicolas, 42 ans, est un agent... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Matthieu Delaporte</name>
+      <name function="actor">Olivier Rabourdin</name>
+      <name function="actor">Geneviève Mnich</name>
+      <name function="actor">Philippe Duclos</name>
+      <name function="actor">Mathieu Kassovitz</name>
+      <name function="actor">Siobhan Finneran</name>
+      <name function="actor">Eric Caravaca</name>
+      <name function="actor">Ludovic Berthillot</name>
+      <name function="actor">Marie-Josée Croze</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207140000 +0100" stop="20151207142000 +0100">
+    <length units="minutes">20</length>
+    <title>Rencontres de cinéma</title>
+    <category>Magazine</category>
+    <desc>Par le biais d'un entretien, Laurent Weil... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurent Weil</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207142000 +0100" stop="20151207155500 +0100">
     <length units="minutes">95</length>
+    <title>Sous X (?)</title>
+    <category>Film</category>
+    <desc>Après neuf ans passés derrière les barreaux... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Jean-Michel Correia</name>
+      <name function="actor">Pierre Douglas</name>
+      <name function="actor">David Saracino</name>
+      <name function="actor">Lisa Livane</name>
+      <name function="actor">Karim Leklou</name>
+      <name function="actor">Mariama Gueye</name>
+      <name function="actor">Jean-Michel Correia</name>
+      <name function="actor">Anissa Allali</name>
+      <name function="actor">Nizar Saïdi</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207155500 +0100" stop="20151207164500 +0100">
+    <length units="minutes">50</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207164500 +0100" stop="20151207183500 +0100">
+    <length units="minutes">110</length>
+    <title>Bande de filles (?)</title>
+    <category>Film</category>
+    <desc>Marieme, 16 ans, vit en banlieue. Silhouette... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Céline Sciamma</name>
+      <name function="actor">Cyril Mendy</name>
+      <name function="actor">Rabah Naït Oufella</name>
+      <name function="actor">Diabate Idrissa</name>
+      <name function="actor">Karidja Touré</name>
+      <name function="actor">Assa Sylla</name>
+      <name function="actor">Lindsay Karamoh</name>
+      <name function="actor">Mariétou Touré</name>
+      <name function="actor">Djibril Gueye</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207183500 +0100" stop="20151207202500 +0100">
+    <length units="minutes">110</length>
+    <title>La rançon de la gloire (?)</title>
+    <category>Film</category>
+    <desc>A la veille de Noël 1977, dans une petite... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Xavier Beauvois</name>
+      <name function="actor">Peter Coyote</name>
+      <name function="actor">Roschdy Zem</name>
+      <name function="actor">Chiara Mastroianni</name>
+      <name function="actor">Dolores Chaplin</name>
+      <name function="actor">Benoît Poelvoorde</name>
+      <name function="actor">Nadine Labaki</name>
+      <name function="actor">Isabelle Caillat</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207202500 +0100" stop="20151207205000 +0100">
+    <length units="minutes">25</length>
+    <title>Rencontres de cinéma</title>
+    <category>Magazine</category>
+    <desc>Laurent Weil lève le voile sur les coulisses... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurent Weil</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207205000 +0100" stop="20151207221000 +0100">
+    <length units="minutes">80</length>
+    <title>Slow West (?)</title>
+    <category>Film</category>
+    <desc>A la fin du XIXe siècle, Rose Ross, une jeune... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">John Maclean</name>
+      <name function="actor">Ben Mendelsohn</name>
+      <name function="actor">Michael Fassbender</name>
+      <name function="actor">Andrew Robertt</name>
+      <name function="actor">Alex MacQueen</name>
+      <name function="actor">Kodi Smit-McPhee</name>
+      <name function="actor">Edwin Wright</name>
+      <name function="actor">Caren Pistorius</name>
+      <name function="actor">Rory McCann</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207221000 +0100" stop="20151207234000 +0100">
+    <length units="minutes">90</length>
+    <title>Shérif Jackson (?)</title>
+    <category>Film</category>
+    <desc>Au Nouveau-Mexique, Sarah mène une existence... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Logan Miller</name>
+      <name function="actor">Ed Harris</name>
+      <name function="actor">Stephen Root</name>
+      <name function="actor">Jason Isaacs</name>
+      <name function="actor">Eduardo Noriega</name>
+      <name function="actor">January Jones</name>
+      <name function="actor">Luce Rains</name>
+      <name function="actor">Vic Browder</name>
+      <name function="actor">Jason Aldean</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207234000 +0100" stop="20151207235000 +0100">
+    <length units="minutes">10</length>
+    <title>Le film en +</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207235000 +0100" stop="20151207235300 +0100">
+    <length units="minutes">3</length>
+    <title>Cinéastes</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dominique Besnehard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207235300 +0100" stop="20151208021000 +0100">
+    <length units="minutes">137</length>
+    <title>Léviathan (?)</title>
+    <category>Film</category>
+    <desc>Mécanicien modeste, Kolia habite dans une... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Andreï Zviaguintsev</name>
+      <name function="actor">Vladimir Vdovichenkov</name>
+      <name function="actor">Anna Ukolova</name>
+      <name function="actor">Roman Madyanov</name>
+      <name function="actor">Aleksey Rozin</name>
+      <name function="actor">Aleksey Serebryakov</name>
+      <name function="actor">Elena Lyadova</name>
+      <name function="actor">Sergey Pokhodaev</name>
+      <name function="actor">Platon Kamenev</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208021000 +0100" stop="20151208023000 +0100">
+    <length units="minutes">20</length>
+    <title>Rencontres de cinéma</title>
+    <category>Magazine</category>
+    <desc>Laurent Weil lève le voile sur les coulisses... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurent Weil</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208023000 +0100" stop="20151208025500 +0100">
+    <length units="minutes">25</length>
+    <title>L'oeil de Links</title>
+    <category>Magazine</category>
+    <desc>Le webazine de l'activité créative du net :... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208025500 +0100" stop="20151208074500 +0100">
+    <length units="minutes">290</length>
+    <title>Interruption des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208074500 +0100" stop="20151208081500 +0100">
+    <length units="minutes">30</length>
+    <title>Mickrociné</title>
+    <category>Magazine</category>
+    <desc>Une compilation de courts métrages du monde... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208081500 +0100" stop="20151208093500 +0100">
+    <length units="minutes">80</length>
+    <title>Slow West (?)</title>
+    <category>Film</category>
+    <desc>A la fin du XIXe siècle, Rose Ross, une jeune... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">John Maclean</name>
+      <name function="actor">Ben Mendelsohn</name>
+      <name function="actor">Michael Fassbender</name>
+      <name function="actor">Andrew Robertt</name>
+      <name function="actor">Alex MacQueen</name>
+      <name function="actor">Kodi Smit-McPhee</name>
+      <name function="actor">Edwin Wright</name>
+      <name function="actor">Caren Pistorius</name>
+      <name function="actor">Rory McCann</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208093500 +0100" stop="20151208102500 +0100">
+    <length units="minutes">50</length>
+    <title>Western, nouvelles frontières</title>
+    <category>Documentaire</category>
+    <desc>Le genre du western a déserté Hollywood et... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Marius Doïcov,</name>
+      <name function="director">Julien Dupuy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208102500 +0100" stop="20151208111900 +0100">
+    <length units="minutes">54</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208111900 +0100" stop="20151208112000 +0100">
+    <length units="minutes">1</length>
+    <title>Cinéastes</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dominique Besnehard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208112000 +0100" stop="20151208124600 +0100">
+    <length units="minutes">86</length>
+    <title>Bébé Tigre (?)</title>
+    <category>Film</category>
+    <desc>Réfugié en France, Many est un jeune indien... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Cyprien Vial</name>
+      <name function="actor">Aurore Broutin</name>
+      <name function="actor">Lauriane Escaffre</name>
+      <name function="actor">Harmandeep Palminder</name>
+      <name function="actor">Elisabeth Lando</name>
+      <name function="actor">Vikram Sharma</name>
+      <name function="actor">Bilal Baggad</name>
+      <name function="actor">Billel Brima</name>
+      <name function="actor">Marie Berto</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208124600 +0100" stop="20151208124900 +0100">
+    <length units="minutes">3</length>
+    <title>L'oeil de Links</title>
+    <category>Magazine</category>
+    <desc>Une équipe de chroniqueurs réguliers, formée... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208124900 +0100" stop="20151208125000 +0100">
+    <length units="minutes">1</length>
+    <title>Cinéastes</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dominique Besnehard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208125000 +0100" stop="20151208142500 +0100">
+    <length units="minutes">95</length>
+    <title>Retour à Ithaque (?)</title>
+    <category>Film</category>
+    <desc>Un soir d'été sur une terrasse de La Havane,... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Laurent Cantet</name>
+      <name function="actor">Jorge Perugorría</name>
+      <name function="actor">Nestor Jimenez</name>
+      <name function="actor">Pedro Julio Diaz Ferran</name>
+      <name function="actor">Carmen Solar</name>
+      <name function="actor">Rone Luis Reinoso</name>
+      <name function="actor">Andrea Doimeadios</name>
+      <name function="actor">Fernando Hechavarria</name>
+      <name function="actor">Isabel Santos</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208142500 +0100" stop="20151208142800 +0100">
+    <length units="minutes">3</length>
+    <title>Nouveau genre</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Ivan Guyot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208142800 +0100" stop="20151208160500 +0100">
+    <length units="minutes">97</length>
+    <title>Young Ones (?)</title>
+    <category>Film</category>
+    <desc>Dans un monde où, l'eau est devenue une... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Jake Paltrow</name>
+      <name function="actor">Nicholas Hoult</name>
+      <name function="actor">Elle Fanning</name>
+      <name function="actor">Andy McPhee</name>
+      <name function="actor">Aimee Mullins</name>
+      <name function="actor">Michael Shannon</name>
+      <name function="actor">Robert Hobbs</name>
+      <name function="actor">Kodi Smit-McPhee</name>
+      <name function="actor">Alex McGregor</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208160500 +0100" stop="20151208161100 +0100">
+    <length units="minutes">6</length>
+    <title>Le film en +</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208161100 +0100" stop="20151208161200 +0100">
+    <length units="minutes">1</length>
+    <title>La séance de Mouloud Achour</title>
+    <category>Magazine</category>
+    <desc>Mouloud propose un nouveau rendez-vous... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Mouloud</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208161200 +0100" stop="20151208185600 +0100">
+    <length units="minutes">164</length>
+    <title>Interstellar (?)</title>
+    <category>Film</category>
+    <desc>La planète Terre se meurt par trop de... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Christopher Nolan</name>
+      <name function="actor">Michael Caine</name>
+      <name function="actor">Ellen Burstyn</name>
+      <name function="actor">Matthew McConaughey</name>
+      <name function="actor">Casey Affleck</name>
+      <name function="actor">Wes Bentley</name>
+      <name function="actor">Anne Hathaway</name>
+      <name function="actor">Jessica Chastain</name>
+      <name function="actor">Mackenzie Foy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208185600 +0100" stop="20151208190000 +0100">
+    <length units="minutes">4</length>
+    <title>Cinéastes</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Dominique Besnehard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208190000 +0100" stop="20151208203000 +0100">
+    <length units="minutes">90</length>
     <title>Qu'Allah bénisse la France (?)</title>
     <category>Film</category>
-    <desc>Doué pour la littérature et la philosophie, Régis, qui vit dans une cité à Strasbourg, se fait remarquer par ses professeurs. Ses notes étant... (Lire la suite).(n)</desc>
+    <desc>Doué pour la littérature et la philosophie,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Abd Al Malik</name>
       <name function="actor">Mireille Perrier</name>
@@ -172,76 +1078,76 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124203500 +0100" stop="20151124204900 +0100">
-    <length units="minutes">14</length>
+  <programme channel="test" start="20151208203000 +0100" stop="20151208204800 +0100">
+    <length units="minutes">18</length>
     <title>L'hebd'Hollywood</title>
     <category>Magazine</category>
-    <desc>Toute l'actualité d'Hollywood, des stars et des derniers films à ne pas manquer. (Lire la suite).(n)</desc>
+    <desc>Toute l'actualité d'Hollywood, des stars et... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Didier Allouch</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124204900 +0100" stop="20151124205000 +0100">
-    <length units="minutes">1</length>
+  <programme channel="test" start="20151208204800 +0100" stop="20151208205000 +0100">
+    <length units="minutes">2</length>
     <title>La séance de Mouloud Achour</title>
     <category>Magazine</category>
-    <desc>Mouloud propose un nouveau rendez-vous cinéphilique pour mettre en lumière les oeuvres qu'il affectionne. (Lire la suite).(n)</desc>
+    <desc>Mouloud propose un nouveau rendez-vous... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Mouloud</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124205000 +0100" stop="20151124231100 +0100">
-    <length units="minutes">141</length>
-    <title>Le Hobbit : la bataille des cinq armées (?)</title>
+  <programme channel="test" start="20151208205000 +0100" stop="20151208223000 +0100">
+    <length units="minutes">100</length>
+    <title>Cops : les forces du désordre (?)</title>
     <category>Film</category>
-    <desc>Thorin Ecu de Chêne et les Nains ont repris possession de la Montagne Solitaire. Ils détiennent désormais tous les inestimables joyaux qu'elle... (Lire la suite).(n)</desc>
+    <desc>Ryan est un comédien raté, qui se contente de... (Lire la suite).</desc>
     <credits>
-      <name function="director">Peter Jackson</name>
-      <name function="actor">Ian McKellen</name>
-      <name function="actor">Cate Blanchett</name>
-      <name function="actor">Martin Freeman</name>
-      <name function="actor">Orlando Bloom</name>
-      <name function="actor">Richard Armitage</name>
-      <name function="actor">Lee Pace</name>
-      <name function="actor">Evangeline Lilly</name>
-      <name function="actor">Luke Evans</name>
+      <name function="director">Luke Greenfield</name>
+      <name function="actor">Damon Wayans Jr</name>
+      <name function="actor">James d'Arcy</name>
+      <name function="actor">Nina Dobrev</name>
+      <name function="actor">Jake Johnson</name>
+      <name function="actor">Rob Riggle</name>
+      <name function="actor">Keegan Michael Key</name>
+      <name function="actor">Jonathan Lajoie</name>
+      <name function="actor">Andy Garcia</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124231100 +0100" stop="20151124231500 +0100">
-    <length units="minutes">4</length>
+  <programme channel="test" start="20151208223000 +0100" stop="20151208223500 +0100">
+    <length units="minutes">5</length>
     <title>Le film en +</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124231500 +0100" stop="20151124233000 +0100">
+  <programme channel="test" start="20151208223500 +0100" stop="20151208225000 +0100">
     <length units="minutes">15</length>
     <title>L'hebd'Hollywood</title>
     <category>Magazine</category>
-    <desc>Toute l'actualité d'Hollywood, des stars et des derniers films à ne pas manquer. (Lire la suite).(n)</desc>
+    <desc>Toute l'actualité d'Hollywood, des stars et... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Didier Allouch</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124233000 +0100" stop="20151124233100 +0100">
+  <programme channel="test" start="20151208225000 +0100" stop="20151208225100 +0100">
     <length units="minutes">1</length>
     <title>La séance de Mouloud Achour</title>
     <category>Magazine</category>
-    <desc>Mouloud propose un nouveau rendez-vous cinéphilique pour mettre en lumière les oeuvres qu'il affectionne. (Lire la suite).(n)</desc>
+    <desc>Mouloud propose un nouveau rendez-vous... (Lire la suite).(c)</desc>
     <credits>
       <name function="presenter">Mouloud</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124233100 +0100" stop="20151125010500 +0100">
+  <programme channel="test" start="20151208225100 +0100" stop="20151209002500 +0100">
     <length units="minutes">94</length>
     <title>The Anomaly (?)</title>
     <category>Film</category>
-    <desc>Dans le futur, un homme se réveille à l'arrière d'un camion où il découvre un jeune garçon cagoulé et ligoté par des chaînes. L'inconnu lui... (Lire la suite).(n)</desc>
+    <desc>Dans le futur, un homme se réveille à... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Noel Clarke</name>
       <name function="actor">Brian Cox</name>
@@ -252,6 +1158,846 @@
       <name function="actor">Art Parkinson</name>
       <name function="actor">Niall Greig Fulton</name>
       <name function="actor">Luke Hemsworth</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209002500 +0100" stop="20151209011500 +0100">
+    <length units="minutes">50</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209011500 +0100" stop="20151209041000 +0100">
+    <length units="minutes">175</length>
+    <title>National Gallery (?)</title>
+    <category>Film</category>
+    <desc>A l'instar du Louvre à Paris, la National... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Frederick Wiseman</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209041000 +0100" stop="20151209072500 +0100">
+    <length units="minutes">195</length>
+    <title>Interruption des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209072500 +0100" stop="20151209074500 +0100">
+    <length units="minutes">20</length>
+    <title>Rencontres de cinéma</title>
+    <category>Magazine</category>
+    <desc>Rencontre avec l'équipe du film «Babysitting... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurent Weil</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209074500 +0100" stop="20151209081200 +0100">
+    <length units="minutes">27</length>
+    <title>L'oeil de Links</title>
+    <category>Magazine</category>
+    <desc>Le webazine de l'activité créative du net :... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209081200 +0100" stop="20151209081400 +0100">
+    <length units="minutes">2</length>
+    <title>La séance de Daphné Bürki</title>
+    <category>Magazine</category>
+    <desc>Daphné Bürki évoque le cinéma qui la fait... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Daphné Bürki</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209081400 +0100" stop="20151209100500 +0100">
+    <length units="minutes">111</length>
+    <title>Samba (?)</title>
+    <category>Film</category>
+    <desc>Samba, un sans-papiers sénégalais, vit en... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Olivier Nakache,</name>
+      <name function="director">Eric Toledano</name>
+      <name function="actor">Christiane Millet</name>
+      <name function="actor">Charlotte Gainsbourg</name>
+      <name function="actor">Hélène Vincent</name>
+      <name function="actor">Omar Sy</name>
+      <name function="actor">Tahar Rahim</name>
+      <name function="actor">Isaka Sawadogo</name>
+      <name function="actor">Izïa Higelin</name>
+      <name function="actor">Youngar Fall</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209100500 +0100" stop="20151209102500 +0100">
+    <length units="minutes">20</length>
+    <title>Rencontres de cinéma</title>
+    <category>Magazine</category>
+    <desc>Trois ans après le film «Intouchables», le... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Laurent Weil</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209102500 +0100" stop="20151209115500 +0100">
+    <length units="minutes">90</length>
+    <title>Toute première fois (?)</title>
+    <category>Film</category>
+    <desc>Mais que fait Jérémie, 34 ans, dans le lit de... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Noémie Saglio,</name>
+      <name function="director">Maxime Govare</name>
+      <name function="actor">Isabelle Candelier</name>
+      <name function="actor">Frédéric Pierrot</name>
+      <name function="actor">Sébastien Castro</name>
+      <name function="actor">Lannick Gautry</name>
+      <name function="actor">Pio Marmaï</name>
+      <name function="actor">Franck Gastambide</name>
+      <name function="actor">Camille Cottin</name>
+      <name function="actor">Adrianna Gradziel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209115500 +0100" stop="20151209125000 +0100">
+    <length units="minutes">55</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209125000 +0100" stop="20151209143200 +0100">
+    <length units="minutes">102</length>
+    <title>Elle l'adore (?)</title>
+    <category>Film</category>
+    <desc>Esthéticienne sympathique mais mythomane,... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Jeanne Herry</name>
+      <name function="actor">Sébastien Knafo</name>
+      <name function="actor">Pascal Demolon</name>
+      <name function="actor">Nicolas Bridet</name>
+      <name function="actor">Sharif Andoura</name>
+      <name function="actor">Benjamin Lavernhe</name>
+      <name function="actor">Laurent Lafitte</name>
+      <name function="actor">Sandrine Kiberlain</name>
+      <name function="actor">Olivia Côte</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209143200 +0100" stop="20151209143400 +0100">
+    <length units="minutes">2</length>
+    <title>La séance de Daphné Bürki</title>
+    <category>Magazine</category>
+    <desc>Daphné Bürki évoque le cinéma qui la fait... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Daphné Bürki</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209143400 +0100" stop="20151209161800 +0100">
+    <length units="minutes">104</length>
+    <title>Admission (?)</title>
+    <category>Film</category>
+    <desc>A l'université de Princeton, Portia Nathan a... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="director">Paul Weitz</name>
+      <name function="actor">Gloria Reuben</name>
+      <name function="actor">Wallace Shawn</name>
+      <name function="actor">Paul Rudd</name>
+      <name function="actor">Ann Harada</name>
+      <name function="actor">Tina Fey</name>
+      <name function="actor">Christopher Evan Welch</name>
+      <name function="actor">Dan Levy</name>
+      <name function="actor">Ben Levin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209161800 +0100" stop="20151209162000 +0100">
+    <length units="minutes">2</length>
+    <title>Nouveau genre</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Ivan Guyot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209162000 +0100" stop="20151209183500 +0100">
+    <length units="minutes">135</length>
+    <title>Divergente (?)</title>
+    <category>Film</category>
+    <desc>Dans un Chicago post-apocalyptique, la... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Neil Burger</name>
+      <name function="actor">Ray Stevenson</name>
+      <name function="actor">Kate Winslet</name>
+      <name function="actor">Shailene Woodley</name>
+      <name function="actor">Zoë Kravitz</name>
+      <name function="actor">Theo James</name>
+      <name function="actor">Jai Courtney</name>
+      <name function="actor">Miles Teller</name>
+      <name function="actor">Ansel Elgort</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209183500 +0100" stop="20151209202000 +0100">
+    <length units="minutes">105</length>
+    <title>I Origins (?)</title>
+    <category>Film</category>
+    <desc>Ian Gray, un jeune docteur en biologie... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Mike Cahill</name>
+      <name function="actor">Archie Panjabi</name>
+      <name function="actor">Michael Pitt</name>
+      <name function="actor">William Mapother</name>
+      <name function="actor">Cara Seymour</name>
+      <name function="actor">Astrid Bergès-Frisbey</name>
+      <name function="actor">Brit Marling</name>
+      <name function="actor">Steven Yeun</name>
+      <name function="actor">Crystal Anne Dickinson</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209202000 +0100" stop="20151209204700 +0100">
+    <length units="minutes">27</length>
+    <title>L'oeil de Links</title>
+    <category>Magazine</category>
+    <desc>Le webazine de l'activité créative du net :... (Lire la suite).(c)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209204700 +0100" stop="20151209205000 +0100">
+    <length units="minutes">3</length>
+    <title>Nouveau genre</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Ivan Guyot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209205000 +0100" stop="20151209224000 +0100">
+    <length units="minutes">110</length>
+    <title>Refroidis (?)</title>
+    <category>Film</category>
+    <desc>Dans une petite ville de Norvège perdue dans... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Hans Petter Moland</name>
+      <name function="actor">Bruno Ganz</name>
+      <name function="actor">Sergej Trifunovic</name>
+      <name function="actor">Stellan Skarsgard</name>
+      <name function="actor">Birgitte Hjort Sorensen</name>
+      <name function="actor">Tobias Santelmann</name>
+      <name function="actor">Jakob Oftebro</name>
+      <name function="actor">Pal Sverre Hagen</name>
+      <name function="actor">Kristofer Hivju</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209224000 +0100" stop="20151210003000 +0100">
+    <length units="minutes">110</length>
+    <title>Edge of Tomorrow (?)</title>
+    <category>Film</category>
+    <desc>Dans un futur lointain, la Terre est sous le... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Doug Liman</name>
+      <name function="actor">Bill Paxton</name>
+      <name function="actor">Brendan Gleeson</name>
+      <name function="actor">Tom Cruise</name>
+      <name function="actor">Tony Way</name>
+      <name function="actor">Kick Gurry</name>
+      <name function="actor">Emily Blunt</name>
+      <name function="actor">Jonas Armstrong</name>
+      <name function="actor">Lara Pulver</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210003000 +0100" stop="20151210004700 +0100">
+    <length units="minutes">17</length>
+    <title>L'hebd'Hollywood</title>
+    <category>Magazine</category>
+    <desc>Toute l'actualité d'Hollywood, des stars et... (Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Didier Allouch</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210004700 +0100" stop="20151210005000 +0100">
+    <length units="minutes">3</length>
+    <title>Nouveau genre</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(c)</desc>
+    <credits>
+      <name function="presenter">Ivan Guyot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210005000 +0100" stop="20151210024500 +0100">
+    <length units="minutes">115</length>
+    <title>Du sang et des larmes (?)</title>
+    <category>Film</category>
+    <desc>Marcus, Mike, Matt et Danny sont unis par... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Peter Berg</name>
+      <name function="actor">Ben Foster</name>
+      <name function="actor">Mark Wahlberg</name>
+      <name function="actor">Emile Hirsch</name>
+      <name function="actor">Eric Bana</name>
+      <name function="actor">Jerry Ferrara</name>
+      <name function="actor">Taylor Kitsch</name>
+      <name function="actor">Alexander Ludwig</name>
+      <name function="actor">Scott Elrod</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210024500 +0100" stop="20151210041500 +0100">
+    <length units="minutes">90</length>
+    <title>Catacombes (?)</title>
+    <category>Film</category>
+    <desc>Scarlet Marlowe est étudiante en archéologie... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">John Erick Dowdle</name>
+      <name function="actor">Perdita Weeks</name>
+      <name function="actor">Cosme Castro</name>
+      <name function="actor">Edwin Hodge</name>
+      <name function="actor">Ben Feldman</name>
+      <name function="actor">François Civil</name>
+      <name function="actor">Ali Marhyar</name>
+      <name function="actor">Marion Lambert</name>
+      <name function="actor">Hamid Djavadan</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210041500 +0100" stop="20151210071500 +0100">
+    <length units="minutes">180</length>
+    <title>Interruption des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210071500 +0100" stop="20151210081200 +0100">
+    <length units="minutes">57</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210081200 +0100" stop="20151210081500 +0100">
+    <length units="minutes">3</length>
+    <title>La séance de Daphné Bürki</title>
+    <category>Magazine</category>
+    <desc>Daphné Bürki évoque le cinéma qui la fait... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Daphné Bürki</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210081500 +0100" stop="20151210100100 +0100">
+    <length units="minutes">106</length>
+    <title>Serena (?)</title>
+    <category>Film</category>
+    <desc>1929, alors que débute la Grande Dépression,... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Susanne Bier</name>
+      <name function="actor">Ana Ularu</name>
+      <name function="actor">Rhys Ifans</name>
+      <name function="actor">Toby Jones</name>
+      <name function="actor">Blake Ritson</name>
+      <name function="actor">Bradley Cooper</name>
+      <name function="actor">Sean Harris</name>
+      <name function="actor">Jennifer Lawrence</name>
+      <name function="actor">Sam Reid</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210100100 +0100" stop="20151210100200 +0100">
+    <length units="minutes">1</length>
+    <title>La séance de Mouloud Achour</title>
+    <category>Magazine</category>
+    <desc>Mouloud propose un nouveau rendez-vous... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Mouloud</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210100200 +0100" stop="20151210114400 +0100">
+    <length units="minutes">102</length>
+    <title>Cops : les forces du désordre (?)</title>
+    <category>Film</category>
+    <desc>Ryan est un comédien raté, qui se contente de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Luke Greenfield</name>
+      <name function="actor">Damon Wayans Jr</name>
+      <name function="actor">James d'Arcy</name>
+      <name function="actor">Nina Dobrev</name>
+      <name function="actor">Jake Johnson</name>
+      <name function="actor">Rob Riggle</name>
+      <name function="actor">Keegan Michael Key</name>
+      <name function="actor">Jonathan Lajoie</name>
+      <name function="actor">Andy Garcia</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210114400 +0100" stop="20151210115000 +0100">
+    <length units="minutes">6</length>
+    <title>Le film en +</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210115000 +0100" stop="20151210133300 +0100">
+    <length units="minutes">103</length>
+    <title>Quand vient la nuit (?)</title>
+    <category>Film</category>
+    <desc>Bob Saginowski, barman solitaire dans un... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Michaël R Roskam</name>
+      <name function="actor">John Ortiz</name>
+      <name function="actor">Tom Hardy</name>
+      <name function="actor">Matthias Schoenaerts</name>
+      <name function="actor">Michael Aronov</name>
+      <name function="actor">James Gandolfini</name>
+      <name function="actor">Elizabeth Rodriguez</name>
+      <name function="actor">Noomi Rapace</name>
+      <name function="actor">Morgan Spector</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210133300 +0100" stop="20151210133500 +0100">
+    <length units="minutes">2</length>
+    <title>Les nouvelles frontières : la résurrection du western</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210133500 +0100" stop="20151210154700 +0100">
+    <length units="minutes">132</length>
+    <title>Unforgiven (?)</title>
+    <category>Film</category>
+    <desc>En 1880, sur l'île d'Hokkaido, Jubee Kamata,... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Lee Sang-Il</name>
+      <name function="actor">Ken Watanabe</name>
+      <name function="actor">Akira Emoto</name>
+      <name function="actor">Jun Kunimura</name>
+      <name function="actor">Yûya Yagira</name>
+      <name function="actor">Yukiyoshi Ozawa</name>
+      <name function="actor">Takahiro Miura</name>
+      <name function="actor">Kôichi Satô</name>
+      <name function="actor">Shiori Kutsuna</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210154700 +0100" stop="20151210155000 +0100">
+    <length units="minutes">3</length>
+    <title>Cinéastes</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dominique Besnehard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210155000 +0100" stop="20151210171500 +0100">
+    <length units="minutes">85</length>
+    <title>Bébé Tigre (?)</title>
+    <category>Film</category>
+    <desc>Réfugié en France, Many est un jeune indien... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Cyprien Vial</name>
+      <name function="actor">Aurore Broutin</name>
+      <name function="actor">Lauriane Escaffre</name>
+      <name function="actor">Harmandeep Palminder</name>
+      <name function="actor">Elisabeth Lando</name>
+      <name function="actor">Vikram Sharma</name>
+      <name function="actor">Bilal Baggad</name>
+      <name function="actor">Billel Brima</name>
+      <name function="actor">Marie Berto</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210171500 +0100" stop="20151210185600 +0100">
+    <length units="minutes">101</length>
+    <title>Elle l'adore (?)</title>
+    <category>Film</category>
+    <desc>Esthéticienne sympathique mais mythomane,... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Jeanne Herry</name>
+      <name function="actor">Sébastien Knafo</name>
+      <name function="actor">Pascal Demolon</name>
+      <name function="actor">Nicolas Bridet</name>
+      <name function="actor">Sharif Andoura</name>
+      <name function="actor">Benjamin Lavernhe</name>
+      <name function="actor">Laurent Lafitte</name>
+      <name function="actor">Sandrine Kiberlain</name>
+      <name function="actor">Olivia Côte</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210185600 +0100" stop="20151210185800 +0100">
+    <length units="minutes">2</length>
+    <title>Les nouvelles frontières : la résurrection du western</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210185800 +0100" stop="20151210201500 +0100">
+    <length units="minutes">77</length>
+    <title>Slow West (?)</title>
+    <category>Film</category>
+    <desc>A la fin du XIXe siècle, Rose Ross, une jeune... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">John Maclean</name>
+      <name function="actor">Ben Mendelsohn</name>
+      <name function="actor">Michael Fassbender</name>
+      <name function="actor">Andrew Robertt</name>
+      <name function="actor">Alex MacQueen</name>
+      <name function="actor">Kodi Smit-McPhee</name>
+      <name function="actor">Edwin Wright</name>
+      <name function="actor">Caren Pistorius</name>
+      <name function="actor">Rory McCann</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210201500 +0100" stop="20151210204700 +0100">
+    <length units="minutes">32</length>
+    <title>Mickrociné</title>
+    <category>Magazine</category>
+    <desc>Une compilation de courts métrages du monde... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210204700 +0100" stop="20151210205000 +0100">
+    <length units="minutes">3</length>
+    <title>La séance de Daphné Bürki</title>
+    <category>Magazine</category>
+    <desc>Daphné Bürki évoque le cinéma qui la fait... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Daphné Bürki</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210205000 +0100" stop="20151210223000 +0100">
+    <length units="minutes">100</length>
+    <title>Belle (?)</title>
+    <category>Film</category>
+    <desc>En Angleterre au XVIIIe siècle, Dido Belle... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Amma Asante</name>
+      <name function="actor">Miranda Richardson</name>
+      <name function="actor">Emily Watson</name>
+      <name function="actor">Tom Wilkinson</name>
+      <name function="actor">Sarah Gadon</name>
+      <name function="actor">Matthew Goode</name>
+      <name function="actor">Alan McKenna</name>
+      <name function="actor">Gugu Mbatha-Raw</name>
+      <name function="actor">Sam Reid</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210223000 +0100" stop="20151211001000 +0100">
+    <length units="minutes">100</length>
+    <title>Valentin Valentin (?)</title>
+    <category>Film</category>
+    <desc>Presque malgré lui, Valentin, jeune homme... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Pascal Thomas</name>
+      <name function="actor">Isabelle Candelier</name>
+      <name function="actor">Geraldine Chaplin</name>
+      <name function="actor">Marie Gillain</name>
+      <name function="actor">Christine Citti</name>
+      <name function="actor">Arielle Dombasle</name>
+      <name function="actor">Vincent Rottiers</name>
+      <name function="actor">Agathe Bonitzer</name>
+      <name function="actor">Marilou Berry</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211001000 +0100" stop="20151211004000 +0100">
+    <length units="minutes">30</length>
+    <title>L'oeil de Links</title>
+    <category>Magazine</category>
+    <desc>Le webazine de l'activité créative du net :... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211004000 +0100" stop="20151211025000 +0100">
+    <length units="minutes">130</length>
+    <title>The Search (?)</title>
+    <category>Film</category>
+    <desc>Pendant la seconde guerre de Tchétchénie, en... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Michel Hazanavicius</name>
+      <name function="actor">Annette Bening</name>
+      <name function="actor">Bérénice Bejo</name>
+      <name function="actor">Youris Tsourilo</name>
+      <name function="actor">Maksim Emelyanov</name>
+      <name function="actor">Abdul Khalim Mamutsiev</name>
+      <name function="actor">Zukhra Duishvili</name>
+      <name function="actor">Lela Bagakashvili</name>
+      <name function="actor">Anton Dolgov</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211025000 +0100" stop="20151211034000 +0100">
+    <length units="minutes">50</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211034000 +0100" stop="20151211072000 +0100">
+    <length units="minutes">220</length>
+    <title>Interruption des programmes</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211072000 +0100" stop="20151211075000 +0100">
+    <length units="minutes">30</length>
+    <title>Mickrociné</title>
+    <category>Magazine</category>
+    <desc>Une compilation de courts métrages du monde... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211075000 +0100" stop="20151211081100 +0100">
+    <length units="minutes">21</length>
+    <title>Rencontres de cinéma</title>
+    <category>Magazine</category>
+    <desc>Laurent Weil lève le voile sur les coulisses... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Laurent Weil</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211081100 +0100" stop="20151211081500 +0100">
+    <length units="minutes">4</length>
+    <title>Nouveau genre</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Ivan Guyot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211081500 +0100" stop="20151211102500 +0100">
+    <length units="minutes">130</length>
+    <title>Divergente (?)</title>
+    <category>Film</category>
+    <desc>Dans un Chicago post-apocalyptique, la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Neil Burger</name>
+      <name function="actor">Ray Stevenson</name>
+      <name function="actor">Kate Winslet</name>
+      <name function="actor">Shailene Woodley</name>
+      <name function="actor">Zoë Kravitz</name>
+      <name function="actor">Theo James</name>
+      <name function="actor">Jai Courtney</name>
+      <name function="actor">Miles Teller</name>
+      <name function="actor">Ansel Elgort</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211102500 +0100" stop="20151211121500 +0100">
+    <length units="minutes">110</length>
+    <title>La rançon de la gloire (?)</title>
+    <category>Film</category>
+    <desc>A la veille de Noël 1977, dans une petite... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Xavier Beauvois</name>
+      <name function="actor">Peter Coyote</name>
+      <name function="actor">Roschdy Zem</name>
+      <name function="actor">Chiara Mastroianni</name>
+      <name function="actor">Dolores Chaplin</name>
+      <name function="actor">Benoît Poelvoorde</name>
+      <name function="actor">Nadine Labaki</name>
+      <name function="actor">Isabelle Caillat</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211121500 +0100" stop="20151211140100 +0100">
+    <length units="minutes">106</length>
+    <title>Valentin Valentin (?)</title>
+    <category>Film</category>
+    <desc>Presque malgré lui, Valentin, jeune homme... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Pascal Thomas</name>
+      <name function="actor">Isabelle Candelier</name>
+      <name function="actor">Geraldine Chaplin</name>
+      <name function="actor">Marie Gillain</name>
+      <name function="actor">Christine Citti</name>
+      <name function="actor">Arielle Dombasle</name>
+      <name function="actor">Vincent Rottiers</name>
+      <name function="actor">Agathe Bonitzer</name>
+      <name function="actor">Marilou Berry</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211140100 +0100" stop="20151211140300 +0100">
+    <length units="minutes">2</length>
+    <title>Les nouvelles frontières : la résurrection du western</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211140300 +0100" stop="20151211154000 +0100">
+    <length units="minutes">97</length>
+    <title>El Ardor (?)</title>
+    <category>Film</category>
+    <desc>En pleine forêt argentine, trois frères,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Pablo Fendrik</name>
+      <name function="actor">Claudio Tolcachir</name>
+      <name function="actor">Gael García Bernal</name>
+      <name function="actor">Julián Tello</name>
+      <name function="actor">Jorge Sesán</name>
+      <name function="actor">Iván Steinhardt</name>
+      <name function="actor">Lautaro Vilo</name>
+      <name function="actor">Chico Díaz</name>
+      <name function="actor">Alice Braga</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211154000 +0100" stop="20151211154200 +0100">
+    <length units="minutes">2</length>
+    <title>La séance de Mouloud Achour</title>
+    <category>Magazine</category>
+    <desc>Mouloud propose un nouveau rendez-vous... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Mouloud</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211154200 +0100" stop="20151211172000 +0100">
+    <length units="minutes">98</length>
+    <title>Cops : les forces du désordre (?)</title>
+    <category>Film</category>
+    <desc>Ryan est un comédien raté, qui se contente de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Luke Greenfield</name>
+      <name function="actor">Damon Wayans Jr</name>
+      <name function="actor">James d'Arcy</name>
+      <name function="actor">Nina Dobrev</name>
+      <name function="actor">Jake Johnson</name>
+      <name function="actor">Rob Riggle</name>
+      <name function="actor">Keegan Michael Key</name>
+      <name function="actor">Jonathan Lajoie</name>
+      <name function="actor">Andy Garcia</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211172000 +0100" stop="20151211172500 +0100">
+    <length units="minutes">5</length>
+    <title>Le film en +</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211172500 +0100" stop="20151211190000 +0100">
+    <length units="minutes">95</length>
+    <title>Repas de famille (?)</title>
+    <category>Film</category>
+    <desc>Bernard, un carrossier de droite qui convoite... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Pierre-Henry Salfati</name>
+      <name function="actor">Lorella Cravotta</name>
+      <name function="actor">Joël Cantona</name>
+      <name function="actor">Eric Carrière</name>
+      <name function="actor">Noëlle Perna</name>
+      <name function="actor">Ludivine Manca</name>
+      <name function="actor">Francis Ginibre</name>
+      <name function="actor">Lamine Lezghad</name>
+      <name function="actor">Yves Pujol</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211190000 +0100" stop="20151211202500 +0100">
+    <length units="minutes">85</length>
+    <title>Astérix : le domaine des dieux (?)</title>
+    <category>Film</category>
+    <desc>En 50 avant Jésus-Christ, les irréductibles... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Alexandre Astier,</name>
+      <name function="director">Louis Clichy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211202500 +0100" stop="20151211204700 +0100">
+    <length units="minutes">22</length>
+    <title>Rencontres de cinéma</title>
+    <category>Magazine</category>
+    <desc>Laurent Weil lève le voile sur les coulisses... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Laurent Weil</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211204700 +0100" stop="20151211205000 +0100">
+    <length units="minutes">3</length>
+    <title>Cinéastes</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Dominique Besnehard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211205000 +0100" stop="20151211223500 +0100">
+    <length units="minutes">105</length>
+    <title>Le sel de la Terre (?)</title>
+    <category>Film</category>
+    <desc>Wim Wenders, admiratif du travail du photographe (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Wim Wenders,</name>
+      <name function="director">Juliano Ribeiro Salgado</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211223500 +0100" stop="20151211233000 +0100">
+    <length units="minutes">55</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211233000 +0100" stop="20151211233300 +0100">
+    <length units="minutes">3</length>
+    <title>Cinéastes</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Dominique Besnehard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211233300 +0100" stop="20151212005500 +0100">
+    <length units="minutes">82</length>
+    <title>Bébé Tigre (?)</title>
+    <category>Film</category>
+    <desc>Réfugié en France, Many est un jeune indien... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Cyprien Vial</name>
+      <name function="actor">Aurore Broutin</name>
+      <name function="actor">Lauriane Escaffre</name>
+      <name function="actor">Harmandeep Palminder</name>
+      <name function="actor">Elisabeth Lando</name>
+      <name function="actor">Vikram Sharma</name>
+      <name function="actor">Bilal Baggad</name>
+      <name function="actor">Billel Brima</name>
+      <name function="actor">Marie Berto</name>
     </credits>
     <image />
   </programme>

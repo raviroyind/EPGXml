@@ -3,109 +3,829 @@
   <channel id="L'Equipe 21">
     <display-name>test</display-name>
   </channel>
-  <programme channel="test" start="20151124070000 +0100" stop="20151124080000 +0100">
+  <programme channel="test" start="20151205000000 +0100" stop="20151205070000 +0100">
+    <length units="minutes">420</length>
+    <title>Programmes de la nuit</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205070000 +0100" stop="20151205080000 +0100">
+    <length units="minutes">60</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205080000 +0100" stop="20151205090000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du matin</title>
     <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124080000 +0100" stop="20151124090000 +0100">
+  <programme channel="test" start="20151205090000 +0100" stop="20151205110000 +0100">
+    <length units="minutes">120</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205110000 +0100" stop="20151205113000 +0100">
+    <length units="minutes">30</length>
+    <title>Sportbuzz</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205113000 +0100" stop="20151205120000 +0100">
+    <length units="minutes">30</length>
+    <title>Le magazine Auto</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205120000 +0100" stop="20151205121500 +0100">
+    <length units="minutes">15</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205121500 +0100" stop="20151205141500 +0100">
+    <length units="minutes">120</length>
+    <title>Biathlon (Sprint 10 km messieurs)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205141500 +0100" stop="20151205151500 +0100">
+    <length units="minutes">60</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205151500 +0100" stop="20151205171500 +0100">
+    <length units="minutes">120</length>
+    <title>Biathlon (Sprint 7,5 km dames)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205171500 +0100" stop="20151205190000 +0100">
+    <length units="minutes">105</length>
+    <title>Course sur glace (Trophée Andros 2015/2016)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205190000 +0100" stop="20151205201500 +0100">
+    <length units="minutes">75</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205201500 +0100" stop="20151205230000 +0100">
+    <length units="minutes">165</length>
+    <title>Hockey sur glace (Morzine-Avoriaz / Bordeaux)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151205230000 +0100" stop="20151206000000 +0100">
+    <length units="minutes">60</length>
+    <title>L'Équipe du week-end</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206000000 +0100" stop="20151206003000 +0100">
+    <length units="minutes">30</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206003000 +0100" stop="20151206070000 +0100">
+    <length units="minutes">390</length>
+    <title>Programmes de la nuit</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206070000 +0100" stop="20151206080000 +0100">
+    <length units="minutes">60</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206080000 +0100" stop="20151206090000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du matin</title>
     <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124090000 +0100" stop="20151124103000 +0100">
-    <length units="minutes">90</length>
+  <programme channel="test" start="20151206090000 +0100" stop="20151206104500 +0100">
+    <length units="minutes">105</length>
     <title>L'Équipe du matin</title>
     <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124103000 +0100" stop="20151124120000 +0100">
-    <length units="minutes">90</length>
-    <title>L'Équipe du soir</title>
+  <programme channel="test" start="20151206104500 +0100" stop="20151206123000 +0100">
+    <length units="minutes">105</length>
+    <title>Biathlon (Poursuite 12,5 km messieurs)</title>
     <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124120000 +0100" stop="20151124133000 +0100">
+  <programme channel="test" start="20151206123000 +0100" stop="20151206130000 +0100">
+    <length units="minutes">30</length>
+    <title>Le magazine Auto</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206130000 +0100" stop="20151206131500 +0100">
+    <length units="minutes">15</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206131500 +0100" stop="20151206143000 +0100">
+    <length units="minutes">75</length>
+    <title>Biathlon (Poursuite 10 km dames)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206143000 +0100" stop="20151206153000 +0100">
+    <length units="minutes">60</length>
+    <title>Biathlon (Poursuite 12,5 km messieurs)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206153000 +0100" stop="20151206160000 +0100">
+    <length units="minutes">30</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206160000 +0100" stop="20151206183000 +0100">
+    <length units="minutes">150</length>
+    <title>Course sur glace (Trophée Andros 2015/2016)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206183000 +0100" stop="20151206190000 +0100">
+    <length units="minutes">30</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206190000 +0100" stop="20151206210000 +0100">
+    <length units="minutes">120</length>
+    <title>Basket-ball (Manresa / FC Barcelone)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206210000 +0100" stop="20151206224500 +0100">
+    <length units="minutes">105</length>
+    <title>Course sur glace (Trophée Andros 2015/2016)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151206224500 +0100" stop="20151207000000 +0100">
+    <length units="minutes">75</length>
+    <title>L'Équipe du week-end</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207000000 +0100" stop="20151207003000 +0100">
+    <length units="minutes">30</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207003000 +0100" stop="20151207070000 +0100">
+    <length units="minutes">390</length>
+    <title>Programmes de la nuit</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207070000 +0100" stop="20151207080000 +0100">
+    <length units="minutes">60</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207080000 +0100" stop="20151207090000 +0100">
+    <length units="minutes">60</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207090000 +0100" stop="20151207113000 +0100">
+    <length units="minutes">150</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207113000 +0100" stop="20151207120000 +0100">
+    <length units="minutes">30</length>
+    <title>Sportbuzz</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207120000 +0100" stop="20151207133000 +0100">
     <length units="minutes">90</length>
     <title>Menu sport</title>
     <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124133000 +0100" stop="20151124140000 +0100">
+  <programme channel="test" start="20151207133000 +0100" stop="20151207140000 +0100">
     <length units="minutes">30</length>
     <title>La course CasaqLigue</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Sébastien Darras,</name>
+      <name function="presenter">Julien Pichené</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207140000 +0100" stop="20151207154500 +0100">
+    <length units="minutes">105</length>
+    <title>Biathlon (Coupe du monde 2015/2016)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207154500 +0100" stop="20151207161500 +0100">
+    <length units="minutes">30</length>
+    <title>Le magazine Auto</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207161500 +0100" stop="20151207174500 +0100">
+    <length units="minutes">90</length>
+    <title>Course sur glace (Trophée Andros 2015/2016)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207174500 +0100" stop="20151207185700 +0100">
+    <length units="minutes">72</length>
+    <title>L'Équipe Type</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207185700 +0100" stop="20151207192300 +0100">
+    <length units="minutes">26</length>
+    <title>La grande édition</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207192300 +0100" stop="20151207203500 +0100">
+    <length units="minutes">72</length>
+    <title>L'Équipe Type</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207203500 +0100" stop="20151207205000 +0100">
+    <length units="minutes">15</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207205000 +0100" stop="20151207220000 +0100">
+    <length units="minutes">70</length>
+    <title>L'Équipe enquête</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207220000 +0100" stop="20151207223000 +0100">
+    <length units="minutes">30</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151207223000 +0100" stop="20151208000000 +0100">
+    <length units="minutes">90</length>
+    <title>L'Équipe du soir</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208000000 +0100" stop="20151208070000 +0100">
+    <length units="minutes">420</length>
+    <title>Programmes de la nuit</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208070000 +0100" stop="20151208080000 +0100">
+    <length units="minutes">60</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208080000 +0100" stop="20151208090000 +0100">
+    <length units="minutes">60</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208090000 +0100" stop="20151208103000 +0100">
+    <length units="minutes">90</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208103000 +0100" stop="20151208120000 +0100">
+    <length units="minutes">90</length>
+    <title>L'Équipe du soir</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208120000 +0100" stop="20151208133000 +0100">
+    <length units="minutes">90</length>
+    <title>Menu sport</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208133000 +0100" stop="20151208140000 +0100">
+    <length units="minutes">30</length>
+    <title>La course CasaqLigue</title>
+    <category />
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Guillaume Covès,</name>
       <name function="presenter">Julien Pichené</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151124140000 +0100" stop="20151124141500 +0100">
+  <programme channel="test" start="20151208140000 +0100" stop="20151208150000 +0100">
+    <length units="minutes">60</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208150000 +0100" stop="20151208170000 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Modène / Bari)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208170000 +0100" stop="20151208171500 +0100">
+    <length units="minutes">15</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208171500 +0100" stop="20151208174500 +0100">
+    <length units="minutes">30</length>
+    <title>Le magazine Auto</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208174500 +0100" stop="20151208185700 +0100">
+    <length units="minutes">72</length>
+    <title>L'Équipe Type</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208185700 +0100" stop="20151208191000 +0100">
+    <length units="minutes">13</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208191000 +0100" stop="20151208202000 +0100">
+    <length units="minutes">70</length>
+    <title>L'Équipe Type</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208202000 +0100" stop="20151208223000 +0100">
+    <length units="minutes">130</length>
+    <title>Basket-ball (Nanterre (Fra) / Oldenbourg (All))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151208223000 +0100" stop="20151209000000 +0100">
+    <length units="minutes">90</length>
+    <title>L'Équipe du soir</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209000000 +0100" stop="20151209070000 +0100">
+    <length units="minutes">420</length>
+    <title>Programmes de la nuit</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209070000 +0100" stop="20151209080000 +0100">
+    <length units="minutes">60</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209080000 +0100" stop="20151209090000 +0100">
+    <length units="minutes">60</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209090000 +0100" stop="20151209103000 +0100">
+    <length units="minutes">90</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209103000 +0100" stop="20151209120000 +0100">
+    <length units="minutes">90</length>
+    <title>L'Équipe du soir</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209120000 +0100" stop="20151209133000 +0100">
+    <length units="minutes">90</length>
+    <title>Menu sport</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209133000 +0100" stop="20151209140000 +0100">
+    <length units="minutes">30</length>
+    <title>La course CasaqLigue</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Guillaume Covès,</name>
+      <name function="presenter">Julien Pichené</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209140000 +0100" stop="20151209141500 +0100">
+    <length units="minutes">15</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209141500 +0100" stop="20151209160000 +0100">
+    <length units="minutes">105</length>
+    <title>Basket-ball (Nanterre (Fra) / Oldenbourg (All))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209160000 +0100" stop="20151209161500 +0100">
+    <length units="minutes">15</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209161500 +0100" stop="20151209174500 +0100">
+    <length units="minutes">90</length>
+    <title>L'Équipe enquête</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209174500 +0100" stop="20151209185700 +0100">
+    <length units="minutes">72</length>
+    <title>L'Équipe Type</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209185700 +0100" stop="20151209192000 +0100">
+    <length units="minutes">23</length>
+    <title>La grande édition</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209192000 +0100" stop="20151209203000 +0100">
+    <length units="minutes">70</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209203000 +0100" stop="20151209223000 +0100">
+    <length units="minutes">120</length>
+    <title>Basket-ball (Gérone (Esp) / Bourges (Fra))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151209223000 +0100" stop="20151210000000 +0100">
+    <length units="minutes">90</length>
+    <title>L'Équipe du soir</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210000000 +0100" stop="20151210070000 +0100">
+    <length units="minutes">420</length>
+    <title>Programmes de la nuit</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210070000 +0100" stop="20151210080000 +0100">
+    <length units="minutes">60</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210080000 +0100" stop="20151210090000 +0100">
+    <length units="minutes">60</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210090000 +0100" stop="20151210103000 +0100">
+    <length units="minutes">90</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210103000 +0100" stop="20151210120000 +0100">
+    <length units="minutes">90</length>
+    <title>L'Équipe du soir</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210120000 +0100" stop="20151210133000 +0100">
+    <length units="minutes">90</length>
+    <title>Menu sport</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210133000 +0100" stop="20151210140000 +0100">
+    <length units="minutes">30</length>
+    <title>La course CasaqLigue</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Guillaume Covès,</name>
+      <name function="presenter">Julien Pichené</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210140000 +0100" stop="20151210141500 +0100">
+    <length units="minutes">15</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210141500 +0100" stop="20151210160000 +0100">
+    <length units="minutes">105</length>
+    <title>Basket-ball (Gérone (Esp) / Bourges (Fra))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210160000 +0100" stop="20151210161500 +0100">
+    <length units="minutes">15</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210161500 +0100" stop="20151210174500 +0100">
+    <length units="minutes">90</length>
+    <title>Biathlon (Coupe du monde 2015/2016)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210174500 +0100" stop="20151210185700 +0100">
+    <length units="minutes">72</length>
+    <title>L'Équipe Type</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210185700 +0100" stop="20151210192000 +0100">
+    <length units="minutes">23</length>
+    <title>La grande édition</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210192000 +0100" stop="20151210203000 +0100">
+    <length units="minutes">70</length>
+    <title>L'Équipe Type</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210203000 +0100" stop="20151210204000 +0100">
+    <length units="minutes">10</length>
+    <title>Le journal</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210204000 +0100" stop="20151210223000 +0100">
+    <length units="minutes">110</length>
+    <title>The Two Escobars</title>
+    <category>Documentaire</category>
+    <desc>Durant les années 1980 et 1990, beaucoup estimaient que les cartels de Medellin et de Cali avaient contribué à financer et construire l'équipe... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jeff Zimbalist,</name>
+      <name function="director">Michael Zimbalist</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151210223000 +0100" stop="20151211000000 +0100">
+    <length units="minutes">90</length>
+    <title>L'Équipe du soir</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211000000 +0100" stop="20151211070000 +0100">
+    <length units="minutes">420</length>
+    <title>Programmes de la nuit</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211070000 +0100" stop="20151211080000 +0100">
+    <length units="minutes">60</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211080000 +0100" stop="20151211090000 +0100">
+    <length units="minutes">60</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211090000 +0100" stop="20151211094500 +0100">
+    <length units="minutes">45</length>
+    <title>L'Équipe du matin</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211094500 +0100" stop="20151211111500 +0100">
+    <length units="minutes">90</length>
+    <title>L'Équipe du soir</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211111500 +0100" stop="20151211123000 +0100">
+    <length units="minutes">75</length>
+    <title>Biathlon (Sprint 7,5 km dames)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211123000 +0100" stop="20151211133000 +0100">
+    <length units="minutes">60</length>
+    <title>Menu sport</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211133000 +0100" stop="20151211140000 +0100">
+    <length units="minutes">30</length>
+    <title>La course CasaqLigue</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Fabien Cailler,</name>
+      <name function="presenter">Julien Pichené</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211140000 +0100" stop="20151211141500 +0100">
     <length units="minutes">15</length>
     <title>Le journal</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124141500 +0100" stop="20151124160000 +0100">
-    <length units="minutes">105</length>
-    <title>Volley-ball (Nantes / Cannes)</title>
+  <programme channel="test" start="20151211141500 +0100" stop="20151211160500 +0100">
+    <length units="minutes">110</length>
+    <title>Biathlon (Sprint 10 km messieurs)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124160000 +0100" stop="20151124180000 +0100">
-    <length units="minutes">120</length>
-    <title>Basket-ball (Limoges / Paris-Levallois)</title>
+  <programme channel="test" start="20151211160500 +0100" stop="20151211171500 +0100">
+    <length units="minutes">70</length>
+    <title>L'Équipe enquête</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124180000 +0100" stop="20151124190000 +0100">
-    <length units="minutes">60</length>
+  <programme channel="test" start="20151211171500 +0100" stop="20151211174500 +0100">
+    <length units="minutes">30</length>
+    <title>Esprit bleu</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211174500 +0100" stop="20151211185700 +0100">
+    <length units="minutes">72</length>
     <title>L'Équipe Type</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124190000 +0100" stop="20151124193000 +0100">
-    <length units="minutes">30</length>
+  <programme channel="test" start="20151211185700 +0100" stop="20151211192300 +0100">
+    <length units="minutes">26</length>
     <title>La grande édition</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124193000 +0100" stop="20151124194500 +0100">
-    <length units="minutes">15</length>
+  <programme channel="test" start="20151211192300 +0100" stop="20151211203000 +0100">
+    <length units="minutes">67</length>
     <title>L'Équipe Type</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124194500 +0100" stop="20151124203000 +0100">
-    <length units="minutes">45</length>
-    <title>Avant-match</title>
-    <category>Sport</category>
-    <desc>Présentation du match de la Ligue des champions : Lyon / La Gantoise (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151124203000 +0100" stop="20151124223000 +0100">
-    <length units="minutes">120</length>
-    <title>Basket-ball (Ljubljana (Slo) / Nanterre (Fra))</title>
+  <programme channel="test" start="20151211203000 +0100" stop="20151211205500 +0100">
+    <length units="minutes">25</length>
+    <title>Le journal</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151124223000 +0100" stop="20151125000000 +0100">
+  <programme channel="test" start="20151211205500 +0100" stop="20151211223000 +0100">
+    <length units="minutes">95</length>
+    <title>Catch (Ring of Honor)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151211223000 +0100" stop="20151212000000 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe du soir</title>
     <category>Sport</category>
