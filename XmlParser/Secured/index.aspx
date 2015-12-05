@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="XmlParser.Index" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
+
     <script type="text/javascript">
         function SelectAllCheckboxesSpecific(spanChk) {
             var isChecked = spanChk.checked;
@@ -59,6 +60,8 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="FeaturedContent" runat="server">
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
+    <!-- Modal -->
+
     <!-- Sticky footer wrap -->
     <div id="wrap">
         <!-- Container -->
@@ -125,6 +128,7 @@
 
                                     </div>
                                     <div>
+
                                         <div id="divResults" runat="server" style="display: block;" class="results">
                                             <div class="breadcrumb">
                                                 <span class="alert-info"></span>
@@ -147,11 +151,31 @@
                                                                     <div class="two-columns">
                                                                         <div class="left-column"></div>
                                                                         <div class="right-column">
+                                                                            <div id="myModal" class="modal fade" role="dialog">
+                                                                                <div class="modal-dialog">
+
+                                                                                    <!-- Modal content-->
+                                                                                    <div class="modal-content">
+                                                                                        <div class="modal-header">
+                                                                                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                                                            <h4 class="modal-title">Modal Header</h4>
+                                                                                        </div>
+                                                                                        <div class="modal-body">
+                                                                                            <p>Some text in the modal.</p>
+                                                                                        </div>
+                                                                                        <div class="modal-footer">
+                                                                                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                                                                        </div>
+                                                                                    </div>
+
+                                                                                </div>
+                                                                            </div>
                                                                             <asp:ValidationSummary runat="server" ID="ValidationSummary2" DisplayMode="List" ShowSummary="True" ShowMessageBox="False" ValidationGroup="imp" ForeColor="red" />
                                                                             <table class="table table-striped table-bordered table-hover table-condensed table-mptt" style="border-collapse: collapse; width: 60%;">
                                                                                 <tr>
                                                                                     <td colspan="3">
                                                                                         <i class="add-row">+</i>Import Source Urls
+                                                                                        <asp:HiddenField runat="server" ID="hidSourceId" />
                                                                                     </td>
                                                                                 </tr>
                                                                                 <tr nowrap="nowrap">
@@ -177,7 +201,7 @@
 
 
                                                                             <asp:ValidationSummary runat="server" ID="ValidationSummary1" DisplayMode="List" ShowSummary="True" ShowMessageBox="False" ValidationGroup="add" ForeColor="red" />
-                                                                            <table class="table table-striped table-bordered table-hover table-condensed table-mptt" style="border-collapse: collapse; width: 60%;">
+                                                                            <table class="table table-striped table-hover table-condensed table-mptt" style="border-collapse: collapse; width: 60%;">
                                                                                 <tr>
                                                                                     <td colspan="3">
                                                                                         <i class="add-row">+</i>Add New Source
@@ -214,7 +238,7 @@
                                                                                 <asp:ValidationSummary runat="server" ID="ValidationSummary3" DisplayMode="List" ShowSummary="True" ShowMessageBox="False" ValidationGroup="grid" ForeColor="red" />
                                                                                 <asp:CustomValidator ID="CustomValidator1" ValidationGroup="sel" runat="server" ErrorMessage="Please select at least one record."
                                                                                     ClientValidationFunction="ValidateGrid" ForeColor="Red"></asp:CustomValidator>
-                                                                                <asp:GridView ID="gvXMLSource" runat="server" Width="100%" DataKeyNames="Srno" AutoGenerateColumns="False" HeaderStyle-CssClass="visible-desktop" CssClass="table table-striped table-bordered table-hover table-condensed table-mptt" GridLines="None"
+                                                                                <asp:GridView ID="gvXMLSource" runat="server" Width="100%" DataKeyNames="Srno" AutoGenerateColumns="False" HeaderStyle-CssClass="visible-desktop" CssClass="table table-striped table-hover table-condensed table-mptt" GridLines="None"
                                                                                     CellPadding="0" border="0" AllowPaging="False" EmptyDataText="No records has been added."
                                                                                     OnRowDataBound="gvXMLSource_OnRowDataBound" OnRowEditing="gvXMLSource_OnRowEditing" OnRowCancelingEdit="gvXMLSource_OnRowCancelingEdit"
                                                                                     OnRowUpdating="gvXMLSource_OnRowUpdating" OnRowDeleting="gvXMLSource_OnRowDeleting">
@@ -262,14 +286,22 @@
                                                                                             CancelImageUrl="../CSS/cancel.png" CancelText="Cancel"
                                                                                             UpdateImageUrl="../CSS/Save.png" ValidationGroup="grid"
                                                                                             CausesValidation="True" UpdateText="Save"
-                                                                                            ShowDeleteButton="true" ItemStyle-Width="70">
+                                                                                            ShowDeleteButton="true" ItemStyle-Width="100">
                                                                                             <ItemStyle HorizontalAlign="Right" />
+
                                                                                         </asp:CommandField>
+                                                                                        <asp:TemplateField HeaderText="" ItemStyle-Width="120">
+                                                                                            <ItemTemplate>
+                                                                                                <asp:HyperLink runat="server" CssClass="btn btn-default" Width="120" NavigateUrl='<%# Eval("Srno", "ChannelSelection.aspx?id={0}") %>'>Select Channels</asp:HyperLink>
+                                                                                            </ItemTemplate>
+                                                                                        </asp:TemplateField>
+
                                                                                     </Columns>
                                                                                 </asp:GridView>
                                                                                 <div style="float: right;">
                                                                                     <asp:LinkButton ID="lnkClear" runat="server" CausesValidation="False" CssClass="btn btn-success"
                                                                                         Text="  Reset  " OnClientClick="SelectAllCheckboxes(false);return false;"></asp:LinkButton>
+                                                                                    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -297,19 +329,23 @@
 
 
                 <div id="suit-left" class="suit-column">
-                    <div class="left-nav" id="left-nav" style="margin-left: 15px;">
-                        <ul>
-                            <li class="alert-info">
+                    <div class="left-nav actions active" id="left-nav">
+                        <ul style="margin-left: 40px;">
+                            <li>
                                 <asp:HyperLink runat="server" CssClass="user-links" ID="hypHome" NavigateUrl="../Admin/Dashboard.aspx" Text="Home"></asp:HyperLink>
                             </li>
-                            <li class="alert-info">
+                            <li>
+                                <a href="../Secured/index.aspx" class="bold info">Xml Generation</a>
+                            </li>
+                            <li>
                                 <a href="../Secured/XmlHistory.aspx" class="user-links">View Output Xmls</a>
+                            </li>
+                            <li>
+                                <a href="ChannelSelection.aspx" class="user-links">Channel Selection</a>
                             </li>
                         </ul>
                     </div>
                 </div>
-
-
 
             </div>
 

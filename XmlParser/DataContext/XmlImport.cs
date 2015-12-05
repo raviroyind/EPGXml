@@ -31,6 +31,5 @@ namespace XmlParser.DataContext
 
         [StringLength(250)]
         public string SourceUrl { get; set; }
-        
     }
 }

@@ -2,6 +2,7 @@
 #region Using ...
 
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Data.Entity.Validation;
@@ -195,7 +196,7 @@ namespace XmlParser
 
         protected void btnAdd_OnClick(object sender, EventArgs e)
         {
-            grid.InnerHtml = "";
+             grid.InnerHtml = "";
             lblMsg.Text = "";
             using (var dataContext = new EPGDataModel())
             {
@@ -210,12 +211,14 @@ namespace XmlParser
                 };
                 dataContext.SourceURLs.Add(source);
                 dataContext.SaveChanges();
+                source.ActiveChannels = GetActiveChannels(source.URL, source.Srno);
+                dataContext.SaveChanges(); 
             }
 
             lblMsg.Text = "Record added successfully!";
             BindGrid();
         }
-
+         
         protected void btnImport_OnClick(object sender, EventArgs e)
         {
             if (fileUploadCtl.HasFile)
@@ -251,12 +254,14 @@ namespace XmlParser
                         IsActive= true,
                         EntryId = Convert.ToString(Session["USER_KEY"]),
                     };
-
+                     
                     try
                     {
                         using (var dataContext = new EPGDataModel())
                         {
                             dataContext.SourceURLs.Add(sourceUrl);
+                            dataContext.SaveChanges();
+                            sourceUrl.ActiveChannels = GetActiveChannels(sourceUrl.URL,sourceUrl.Srno);
                             dataContext.SaveChanges();
                         }
                     }
@@ -269,6 +274,85 @@ namespace XmlParser
                 lblMsg.Text = "List Imported successfully!";
                 BindGrid();
             }
+        }
+
+        private static ICollection<ActiveChannel> GetActiveChannels(string url, long id)
+        {
+            ICollection<ActiveChannel> activeChannelList=new List<ActiveChannel>();
+            var type = string.Empty;
+
+            switch (url.Substring(url.LastIndexOf('.'), 4).ToLower())
+            {
+                case ".zip":
+                    type = "Zip";
+                    break;
+                case ".xml":
+                    type = "Xml";
+                    break;
+            }
+
+            if (type.Equals("Xml"))
+            {
+                var localFile = HttpContext.Current.Server.MapPath(DownloadFile(url, ".xml"));
+                var doc = XDocument.Load(localFile);
+                var channelList = doc.Descendants("channel").ToList();
+
+                foreach (var channel in channelList)
+                {
+                    var name = channel.Value;
+
+                    if (string.IsNullOrEmpty(name))
+                        name = channel.Attributes("display-name").First().Value;
+
+                    if (name.Contains("http://"))
+                        name = name.Substring(0, name.IndexOf("http:", StringComparison.Ordinal));
+                    
+                    activeChannelList.Add(
+                        new ActiveChannel
+                        {
+                            SourceId = id,
+                            ChannelName = name,
+                            IsActive = false
+                        });
+                }
+            }
+            else if (type.Equals("Zip"))
+            {
+                ClearDirectory(HttpContext.Current.Server.MapPath(@"../ZipArchives/"));
+                var localFile = HttpContext.Current.Server.MapPath(DownloadFile(url, ".zip"));
+                var zip = ZipFile.Read(localFile);
+                zip.ExtractAll(HttpContext.Current.Server.MapPath(@"../ZipArchives/"), ExtractExistingFileAction.OverwriteSilently);
+
+                var files = Directory.GetFiles(HttpContext.Current.Server.MapPath(@"../ZipArchives/" + Path.GetFileNameWithoutExtension(localFile)), "*.xml", SearchOption.TopDirectoryOnly);
+
+                foreach (var xmlFile in files)
+                {
+                    var doc = XDocument.Load(xmlFile);
+                    var channelList = doc.Descendants("channel").ToList();
+
+                    foreach (var channel in channelList)
+                    {
+                        var name = channel.Value;
+
+                        if (string.IsNullOrEmpty(name))
+                            name = channel.Attributes("display-name").First().Value;
+
+                        if (name.Contains("http://"))
+                            name = name.Substring(0, name.IndexOf("http:", StringComparison.Ordinal));
+
+                        activeChannelList.Add(
+                            new ActiveChannel
+                            {
+                                SourceId = id,
+                                ChannelName = name,
+                                IsActive = false
+                            });
+                    }
+                }
+                 
+            }
+
+            return activeChannelList;
         }
 
         #endregion Events....
@@ -650,13 +734,13 @@ namespace XmlParser
             return retval + " " +dtAdditionalValue;
         }
 
-        private string DownloadFile(string sourceUrl, string extension)
+        private static string DownloadFile(string sourceUrl, string extension)
         {
             sourceUrl=sourceUrl.Trim();
             var file = GetSafeFilename(Path.GetFileNameWithoutExtension(sourceUrl));
             var saveLocation = "..\\ZipArchives\\" + file + extension;
 
-            saveLocation = Server.MapPath(saveLocation);
+            saveLocation = HttpContext.Current.Server.MapPath(saveLocation);
 
             using (WebClient webClt = new WebClient())
             {
@@ -671,7 +755,7 @@ namespace XmlParser
             return "../ZipArchives/" + file + extension;
         }
 
-        private string GetSafeFilename(string illegal)
+        private static string GetSafeFilename(string illegal)
         {
             var regexSearch = new string(Path.GetInvalidFileNameChars()) + new string(Path.GetInvalidPathChars());
             var r = new Regex(string.Format("[{0}]", Regex.Escape(regexSearch)));
@@ -769,6 +853,6 @@ namespace XmlParser
         }
 
         #endregion Grid Events....
-       
+         
     }
 }

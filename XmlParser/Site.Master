@@ -5,7 +5,9 @@
 <head runat="server">
     <meta charset="utf-8" />
     <title>:: Xml Generation ::</title>
-    <script type="text/javascript" src="CSS/core.js"></script>
+  <%--  <script type="text/javascript" src="CSS/core.js"></script>--%>
+     <link href="CSS/bootstrap.min.css" rel="stylesheet" />
+    <link href="CSS/bootstrap-theme.css" rel="stylesheet" />
     <link href="CSS/style.min.css" rel="stylesheet"  media="all"/>
     <link rel="stylesheet" type="text/css" href="CSS/suit.css" media="all"/>
     <link rel="stylesheet" type="text/css" href="CSS/examples.css" media="all"/>
@@ -31,7 +33,7 @@
      <footer class="navbar navbar-fixed-bottom navbar-inverse" style="background-color:#373b3d;">
         <div class="footerMenu">
             <div style="margin-right: 560px; float: left; margin-top: 10px;">
-                <span style="font-size: 0.8em; margin-top: 20%; margin-left: 25px;">Copyright <i class="glyphicon glyphicon-copyright-mark"></i></span>
+                <span style="font-size: 0.8em; margin-top: 20%; margin-left: 25px;">Copyright Alternet -2015 <i class="glyphicon glyphicon-copyright-mark"></i></span>
             </div>
             <div style="margin-right: 25px; float: right; margin-top: 10px;">
             </div>

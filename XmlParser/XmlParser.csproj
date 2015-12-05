@@ -74,6 +74,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Admin\Dashboard.aspx" />
+    <Content Include="Content\styles.css" />
+    <Content Include="Content\theme.min.css" />
     <Content Include="Controls\Paging.ascx" />
     <Content Include="CSS\bootstrap-theme.css" />
     <Content Include="CSS\bootstrap-theme.min.css" />
@@ -81,6 +83,7 @@
     <Content Include="CSS\bootstrap.min.css" />
     <Content Include="CSS\cancel.png" />
     <Content Include="CSS\delete.png" />
+    <Content Include="CSS\duallist.css" />
     <Content Include="CSS\edit.png" />
     <Content Include="CSS\images\ui-bg_diagonals-thick_18_b81900_40x40.png" />
     <Content Include="CSS\images\ui-bg_diagonals-thick_20_666666_40x40.png" />
@@ -103,6 +106,9 @@
     <Content Include="CSS\images\ui-icons_ffd27a_256x240.png" />
     <Content Include="CSS\images\ui-icons_ffffff_256x240.png" />
     <Content Include="CSS\jquery-ui.css" />
+    <Content Include="CSS\multiselect.js" />
+    <Content Include="CSS\multiselect.min.js" />
+    <Content Include="CSS\prettify.css" />
     <Content Include="CSS\Save.png" />
     <Content Include="default.aspx" />
     <Content Include="Images\but\001.gif" />
@@ -136,9 +142,15 @@
     <Content Include="Images\ico\001.gif" />
     <Content Include="Images\ico\007.gif" />
     <Content Include="Images\ico\icon.png" />
+    <Content Include="login.aspx" />
+    <Content Include="Secured\ChannelSelection.aspx" />
     <Content Include="Secured\index.aspx" />
+    <Content Include="Secured\newindex.aspx" />
     <Content Include="Secured\XmlHistory.aspx" />
     <Content Include="Site.Master" />
+    <Content Include="Lite.Master" />
+    <Content Include="Content\theme.less" />
+    <Content Include="Content\variables.less" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -184,6 +196,7 @@
     <Compile Include="Controls\Paging.ascx.designer.cs">
       <DependentUpon>Paging.ascx</DependentUpon>
     </Compile>
+    <Compile Include="DataContext\ActiveChannel.cs" />
     <Compile Include="DataContext\EPGDataModel.cs" />
     <Compile Include="DataContext\SourceURL.cs" />
     <Compile Include="DataContext\User.cs" />
@@ -198,6 +211,27 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Lite.Master.cs">
+      <DependentUpon>Lite.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Lite.Master.designer.cs">
+      <DependentUpon>Lite.Master</DependentUpon>
+    </Compile>
+    <Compile Include="login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secured\ChannelSelection.aspx.cs">
+      <DependentUpon>ChannelSelection.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secured\ChannelSelection.aspx.designer.cs">
+      <DependentUpon>ChannelSelection.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Secured\index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -206,6 +240,13 @@
       <DependentUpon>index.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Secured\newindex.aspx.cs">
+      <DependentUpon>newindex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secured\newindex.aspx.designer.cs">
+      <DependentUpon>newindex.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Secured\XmlHistory.aspx.cs">
       <DependentUpon>XmlHistory.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -226,6 +267,9 @@
     <Folder Include="Output\" />
     <Folder Include="SourceXmlFiles\" />
     <Folder Include="ZipArchives\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

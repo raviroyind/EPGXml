@@ -12,15 +12,15 @@
             var isChecked = spanChk.checked;
             var chk = spanChk;
             Parent = document.getElementById('<%=gvFiles.ClientID %>');
-           var items = Parent.getElementsByTagName('input');
-           for (i = 0; i < items.length; i++) {
-               if (items[i].id != chk && items[i].type == "checkbox") {
-                   if (items[i].checked != isChecked) {
-                       items[i].click();
-                   }
-               }
-           }
-       }
+            var items = Parent.getElementsByTagName('input');
+            for (i = 0; i < items.length; i++) {
+                if (items[i].id != chk && items[i].type == "checkbox") {
+                    if (items[i].checked != isChecked) {
+                        items[i].click();
+                    }
+                }
+            }
+        }
         function ValidateGrid(sender, args) {
             var gridView = document.getElementById("<%=gvFiles.ClientID %>");
             var checkBoxes = gridView.getElementsByTagName("input");
@@ -33,28 +33,28 @@
             args.IsValid = false;
         }
 
-       $(function () {
-           $(".date-input").datepicker();
-       });
+        $(function () {
+            $(".date-input").datepicker();
+        });
 
-       function SetPagenoValue(txt1, txt2) {
-           return AllowKeyPress(event, document.getElementById(txt1), document.getElementById(txt2));
-       }
+        function SetPagenoValue(txt1, txt2) {
+            return AllowKeyPress(event, document.getElementById(txt1), document.getElementById(txt2));
+        }
 
 
-       function ShowFilter(contl) {
+        function ShowFilter(contl) {
 
-           var obj = document.getElementById(contl);
+            var obj = document.getElementById(contl);
 
-           if (obj.style.display == "block")
-               obj.style.display = "none";
-           else
-               obj.style.display = "block";
-       }
+            if (obj.style.display == "block")
+                obj.style.display = "none";
+            else
+                obj.style.display = "block";
+        }
 
-       $(document.ready()(function () {
-           $("chklstRptKeys").multiselect().multiselectfilter();
-       }));
+        $(document.ready()(function () {
+            $("chklstRptKeys").multiselect().multiselectfilter();
+        }));
     </script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="FeaturedContent" runat="server">
@@ -68,7 +68,7 @@
                 <nav class="navbar navbar-inverse" style="height: 45px; width: 100%; padding: 0 0 0 0; background-color: #2f3334;">
                     <div id="branding" style="width: 100%;">
 
-                        <span style="color: #ffffff; font-size: 18px; padding-left: 10px;">Xml Generation</span>
+                        <span style="color: #ffffff; font-size: 18px; padding-left: 10px; border-right: 1px solid #2f3334; padding-top: 10px;">Xml Generation</span>
                         <div class="pull-right" style="color: #ffffff; padding-right: 10px;">
                             <asp:Label ID="lblUser" runat="server"></asp:Label>
                             <i class="clearfix"></i>
@@ -134,9 +134,9 @@
                                                                     <div class="col-lg-1">
                                                                         <asp:TextBox runat="server" ID="txtChannelName" CssClass="input-xlarge" Height="35" Style="font-weight: bold;"></asp:TextBox>
                                                                     </div>
-                                                                    <div class="col-lg-1"></div>
-                                                                    <div class="col-lg-1">
-                                                                        <label style="padding-left: 20px; padding-top: 8px; text-align: right;">Import Date:</label>
+                                                                  
+                                                                    <div class="col-lg-3">
+                                                                        <label style="padding-left: 20px; padding-top: 8px; text-align: right; margin-left: 60%;">Import Date:</label>
                                                                     </div>
 
                                                                     <div class="col-md-2">
@@ -163,8 +163,7 @@
                                                                             runat="server" CssClass="btn btn-info" OnClick="lnkBtnResetSearch_Click"><span aria-hidden="true" class="glyphicon glyphicon-refresh"></span> Reset
                                                                         </asp:LinkButton>
                                                                     </div>
-                                                                    <div class="col-md-1 pull-left">
-                                                                    </div>
+                                                                    
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -187,7 +186,7 @@
                                                                     runat="server" CssClass="btn btn-info" CausesValidation="True" ValidationGroup="grid" OnClick="lnkBtnDownload_OnClick"><span aria-hidden="true" class="glyphicon glyphicon-download-alt"></span> Download
                                                                 </asp:LinkButton>
                                                                 <asp:CustomValidator ID="CustomValidator1" ValidationGroup="grid" runat="server" ErrorMessage="Please select at least one file to download."
-                                                                                    ClientValidationFunction="ValidateGrid" ForeColor="Red"></asp:CustomValidator>
+                                                                    ClientValidationFunction="ValidateGrid" ForeColor="Red"></asp:CustomValidator>
                                                             </div>
                                                             <span class="alert-info">(Click on a column name to sort by.it.)</span>
                                                             <asp:GridView ID="gvFiles" runat="server" Width="100%" AutoGenerateColumns="False" HeaderStyle-CssClass="visible-desktop"
@@ -208,9 +207,9 @@
                                                                             <asp:CheckBox ID="chkSelect" runat="server" />
                                                                         </ItemTemplate>
                                                                     </asp:TemplateField>
-                                                                    
-                                                                    
-                                                                    
+
+
+
                                                                     <asp:TemplateField>
                                                                         <HeaderTemplate>
                                                                             <asp:LinkButton ID="lnkbtnSourceURL" runat="server" Text="Source" CommandArgument="SourceURL"
@@ -218,8 +217,8 @@
                                                                             <asp:ImageButton ID="btnSort_SourceURL" runat="server" OnClick="gvFilesImg_Sorting"
                                                                                 CommandArgument="SourceURL" ImageUrl="../Images/but/sort03.gif" />
                                                                             <asp:ImageButton ID="imgbtnFilter" runat="server" AlternateText="Filter data" ImageUrl="~/Images/but/filter.png" Height="16px" /><br />
-                                                                            <div id="divProductNameFilter"   runat="server"  style="display: none; z-index: 101; position: absolute; width: 150px;">
-                                                                                <table  border="0" cellpadding="0" class="" cellspacing="0" >
+                                                                            <div id="divProductNameFilter" runat="server" style="display: none; z-index: 101; position: absolute; width: 150px;">
+                                                                                <table border="0" cellpadding="0" class="" cellspacing="0">
                                                                                     <tr class="header-row">
                                                                                         <td align="left" style="border: none;">
                                                                                             <asp:LinkButton ID="imgbtnRptRemoveFilter" runat="server" Text="Clear" CommandArgument="SourceURL"
@@ -236,13 +235,13 @@
                                                                                     <tr>
                                                                                         <td colspan="3" valign="top" class="search-container">
                                                                                             <div id="divChklstRpt" runat="server" style="overflow: auto; border: solid 1px #d1d1d1; background-color: White; padding: 0;">
-                                                                                                <asp:CheckBoxList ID="chklstRptKeys" runat="server"  CssClass="text-nowrap" >
+                                                                                                <asp:CheckBoxList ID="chklstRptKeys" runat="server" CssClass="text-nowrap">
                                                                                                 </asp:CheckBoxList>
                                                                                             </div>
                                                                                         </td>
                                                                                     </tr>
                                                                                 </table>
-                                                                                
+
                                                                             </div>
                                                                         </HeaderTemplate>
                                                                         <ItemTemplate>
@@ -250,7 +249,7 @@
                                                                                 NavigateUrl='<%# Eval("SourceURL") %>'></asp:HyperLink>
                                                                         </ItemTemplate>
                                                                     </asp:TemplateField>
-                                                                    
+
 
 
                                                                     <asp:TemplateField>
@@ -339,24 +338,25 @@
                 </div>
 
                 <div id="suit-left" class="suit-column">
-                    <div class="left-nav" id="left-nav">
+                    <div class="left-nav actions active" id="left-nav">
                         <ul style="margin-left: 40px;">
                             <li>
-                                <asp:HyperLink runat="server" CssClass="alert-info" ID="hypHomeLink" NavigateUrl="index.aspx">Home</asp:HyperLink>
+                                <asp:HyperLink runat="server" CssClass="bold info" ID="hypHomeLink" NavigateUrl="../Admin/Dashboard.aspx" Text="Home"></asp:HyperLink>
                             </li>
-                            <li class="alert-info">
-                                <a href="../Secured/index.aspx" class="actions">Xml Generation</a>
+                            <li>
+                                <a href="index.aspx" class="user-links">Xml Generation</a>
+                            </li>
+                            <li>
+                                <a href="XmlHistory.aspx" class="user-links">View Output Xmls</a>
+                            </li>
+                            <li>
+                                <a href="ChannelSelection.aspx" class="user-links">Channel Selection</a>
                             </li>
                         </ul>
-
                     </div>
                 </div>
-
-
             </div>
         </div>
-
-
         <!-- Sticky footer push -->
         <div id="push"></div>
     </div>

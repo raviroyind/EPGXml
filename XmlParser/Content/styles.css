@@ -1,0 +1,80 @@
+﻿@CHARSET "UTF-8";
+
+* {
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	outline: none;
+} 
+
+.login-form {
+	max-width: 540px;
+	margin: 100px auto;
+}
+
+form[role=login] {
+	font: 14px/2em Lato, serif;
+	color: #626161;
+	background: #fff;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+	form[role=login] > div.outer {
+		padding: 15px 35px 20px 35px;
+	}
+	form[role=login] > section {
+		border-top: 1px solid #ccc;
+		padding: 15px 35px;
+	}
+	form[role=login] h3 {
+		font-size: 30px;
+		color: #02385e;
+	}
+	form[role=login] span.glyphicon {
+		color: #a0a0a0;
+	}
+	form[role=login] input,
+	form[role=login] button {
+		font-size: 14px;
+		margin: 12px 0;
+	}
+	form[role=login] input {
+		color: #c1c4c5;
+		background: #fafafa;
+		border: none;
+		border: 1px solid #EDEDED;
+	}
+		form[role=login] input::-webkit-input-placeholder {
+			color: #a0a0a0;
+		}
+		form[role=login] input:-moz-placeholder {
+			color: #a0a0a0;
+		}
+		form[role=login] input::-moz-placeholder {
+			color: #a0a0a0;
+		}
+		form[role=login] input:-ms-input-placeholder {  
+			color: #a0a0a0;
+		}
+	form[role=login] button {
+		font-size: 24px;
+		font-weight: bold;
+		line-height: 24px;
+		border: none;
+	}
+
+		form[role=login] button span.glyphicon {
+			color: #fff;
+		}
+	
+	
+.login-form .form-control {
+    padding-left: 35px;
+}
+.login-form .form-control + .glyphicon {
+    position: absolute;
+    left: 0;
+	top: 24%;
+    padding: 8px 0 0 27px;
+}

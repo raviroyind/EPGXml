@@ -1,13 +1,13 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="XmlParser._default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
-     <script type="text/javascript">
-         function clearForm() {
-             document.getElementById('<%=txtUserId.ClientID %>').value = '';
-             document.getElementById('<%=txtPassword.ClientID %>').value = '';
-             document.getElementById('<%=divMsg.ClientID %>').style.display = 'none';
-             document.getElementById('<%=lblMsg.ClientID %>').value = '';
-         }
+    <script type="text/javascript">
+        function clearForm() {
+            document.getElementById('<%=txtUserId.ClientID %>').value = '';
+            document.getElementById('<%=txtPassword.ClientID %>').value = '';
+            document.getElementById('<%=divMsg.ClientID %>').style.display = 'none';
+            document.getElementById('<%=lblMsg.ClientID %>').value = '';
+        }
     </script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="FeaturedContent" runat="server">
@@ -54,42 +54,56 @@
                 <div class="well" style="background-color: #5295b0;">
                     <h2 style="color: #ffffff;">Login</h2>
                 </div>
-                <div class="well" style="padding-top: 0;">
-
+                <div class="well" style="padding-top: 0; text-align: center;">
                     <br />
                     <div class="form-horizontal">
-                        <div class="form-group">
-                            <div>
-                                <asp:ValidationSummary runat="server" ID="valSum" ForeColor="Red" DisplayMode="List" ShowSummary="True" ShowMessageBox="False"/>
-                                <asp:Label runat="server" id="lblMsg" CssClass="alert-danger"></asp:Label>
+
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <asp:ValidationSummary runat="server" ID="valSum" ForeColor="Red" DisplayMode="List" ShowSummary="True" ShowMessageBox="False" />
+                                <asp:Label runat="server" ID="lblMsg" CssClass="alert-danger"></asp:Label>
                             </div>
-                            <div class="col-sm-4">
-                                <asp:TextBox ID="txtUserId" placeholder="User Name" CssClass="form-control" runat="server"></asp:TextBox>
-                                <asp:RequiredFieldValidator runat="server" id="reqId" ControlToValidate="txtUserId" ErrorMessage="User Id is required!" Text="!"></asp:RequiredFieldValidator>
-                            </div>
+
                         </div>
-                        <br />
-                        <div class="form-group">
-                            <div class="col-sm-4">
-                                <asp:TextBox ID="txtPassword" placeholder="Password" CssClass="form-control" TextMode="Password" runat="server"></asp:TextBox>
-                                <asp:RequiredFieldValidator runat="server" id="reqPass" ControlToValidate="txtPassword" ErrorMessage="Password is required!" Text="!"></asp:RequiredFieldValidator>
+                        <div class="row">
+                            <div class="col-xs-4"></div>
+                            <div class="col-xs-4">
+                                <asp:TextBox ID="txtUserId" placeholder="User Name" CssClass="form-control" runat="server"></asp:TextBox>
+                                <asp:RequiredFieldValidator runat="server" ID="reqId" ControlToValidate="txtUserId" ErrorMessage="User Id is required!" Text="!"></asp:RequiredFieldValidator>
                             </div>
+                            <div class="col-xs-4"></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-4"></div>
+                            <div class="col-xs-4">
+                                <asp:TextBox ID="txtPassword" placeholder="Password" CssClass="form-control" TextMode="Password" runat="server"></asp:TextBox>
+                                <asp:RequiredFieldValidator runat="server" ID="reqPass" ControlToValidate="txtPassword" ErrorMessage="Password is required!" Text="!"></asp:RequiredFieldValidator>
+
+                            </div>
+                            <div class="col-xs-4"></div>
                         </div>
 
-                    </div>
-                    <br />
-                    <div>
-                        <asp:LinkButton runat="server" id="btnLogin" CausesValidation="True" class="btn btn-info" OnClick="btnLogin_Click">Logon</asp:LinkButton>
-                        <asp:LinkButton runat="server" id="btnCancel" OnClientClick="clearForm();return false;"  class="btn btn-info">Cancel</asp:LinkButton>
-                    </div>
-                    <br />
-                    <div style="display: none;" id="divMsg" runat="server"><span style="color: red">Invalid credentials. Please try again!</span></div>
-                    <div class="alert-info">
-                        Un-authorized use is prohibited.
+                        <div class="row">
+                            <div class="col-xs-4"></div>
+                            <div class="col-xs-4">
+                                <asp:LinkButton runat="server" ID="btnLogin" CausesValidation="True" class="btn btn-info" OnClick="btnLogin_Click">Logon</asp:LinkButton>
+                                <asp:LinkButton runat="server" ID="btnCancel" OnClientClick="clearForm();return false;" class="btn btn-info">Cancel</asp:LinkButton>
+
+                            </div>
+                            <div class="col-xs-4"></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <div style="display: none;" id="divMsg" runat="server"><span style="color: red">Invalid credentials. Please try again!</span></div>
+                                <br/>
+                                <div class="alert alert-info">
+                                    Un-authorized use is prohibited.
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-
-            </div>
+                </div>
 
             <!-- Content -->
             <div id="content" class="flex row-fluid">

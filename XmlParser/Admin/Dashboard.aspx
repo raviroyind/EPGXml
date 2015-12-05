@@ -80,7 +80,7 @@
                                                         <div class="right-column">
                                                             <asp:Label runat="server" ID="lblMsg" CssClass="alert-danger"></asp:Label>
                                                             <asp:ValidationSummary runat="server" ID="valSum" DisplayMode="List" ShowSummary="True" ShowMessageBox="False" ValidationGroup="add" ForeColor="red" />
-                                                            <table class="table table-striped table-bordered table-hover table-condensed table-mptt" style="border-collapse: collapse">
+                                                            <table class="table table-striped table-hover table-condensed table-mptt" style="border-collapse: collapse">
                                                                 <tr>
                                                                     <td colspan="6">
                                                                         <i class="add-row"></i>Add New User
@@ -196,13 +196,19 @@
                     </div>
                 </div>
                 <div id="suit-left" class="suit-column">
-                    <div class="left-nav" id="left-nav" style="margin-left: 15px;">
-                        <ul>
-                            <li class="alert-info">
-                                <a href="../Secured/index.aspx" class="actions">Xml Generation</a>
+                     <div class="left-nav actions active" id="left-nav">
+                        <ul style="margin-left: 40px;">
+                            <li>
+                                <asp:HyperLink runat="server" CssClass="bold info" ID="hypHome" NavigateUrl="../Admin/Dashboard.aspx" Text="Home"></asp:HyperLink>
                             </li>
-                            <li class="alert-info">
+                            <li>
+                                <a href="../Secured/index.aspx" class="user-links">Xml Generation</a>
+                            </li>
+                            <li>
                                 <a href="../Secured/XmlHistory.aspx" class="user-links">View Output Xmls</a>
+                            </li>
+                            <li>
+                                <a href="../Secured/ChannelSelection.aspx" class="user-links">Channel Selection</a>
                             </li>
                         </ul>
                     </div>

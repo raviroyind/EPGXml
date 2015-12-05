@@ -9,6 +9,11 @@ namespace XmlParser.DataContext
     [Table("SourceURL")]
     public partial class SourceURL
     {
+        public SourceURL()
+        {
+            ActiveChannels = new HashSet<ActiveChannel>();
+        }
+
         [Key]
         public long Srno { get; set; }
 
@@ -30,5 +35,7 @@ namespace XmlParser.DataContext
         public string EntryIP { get; set; }
 
         public bool IsActive { get; set; }
+
+        public virtual ICollection<ActiveChannel> ActiveChannels { get; set; }
     }
 }
