@@ -1,312 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="TF1">
-    <display-name>test</display-name>
+    <display-name>MTV</display-name>
   </channel>
-  <programme channel="test" start="20151205014000 +0100" stop="20151205021000 +0100">
-    <length units="minutes">30</length>
-    <title>L'affiche de la semaine</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205021000 +0100" stop="20151205035500 +0100">
-    <length units="minutes">105</length>
-    <title>Vendredi, tout est permis avec Arthur</title>
-    <category>Divertissement</category>
-    <desc>Comme toujours, le «Vendredi, tout est permis avec Arthur» ! Et ce ne sont pas Cartman, Julien Courbet, Andy Cocq, Nadia Roz, Anne-Sophie Girard,... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Arthur</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205035500 +0100" stop="20151205040000 +0100">
-    <length units="minutes">5</length>
-    <title>Trafic info</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205040000 +0100" stop="20151205050000 +0100">
-    <length units="minutes">60</length>
-    <title>50mn Inside</title>
-    <category>Magazine</category>
-    <desc>Un regard hebdomadaire sur l'actualité des stars. Au sommaire : (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Sandrine Quétier,</name>
-      <name function="presenter">Nikos Aliagas</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205050000 +0100" stop="20151205051000 +0100">
-    <length units="minutes">10</length>
-    <title>Musiques</title>
-    <category>Clips</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205051000 +0100" stop="20151205053500 +0100">
-    <length units="minutes">25</length>
-    <title>Une histoire, une urgence</title>
-    <category>Série</category>
-    <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205053500 +0100" stop="20151205060000 +0100">
-    <length units="minutes">25</length>
-    <title>Petits secrets entre voisins</title>
-    <category>Série</category>
-    <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205060000 +0100" stop="20151205063000 +0100">
-    <length units="minutes">30</length>
-    <title>Petits secrets entre voisins</title>
-    <category>Série</category>
-    <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205063000 +0100" stop="20151205083000 +0100">
-    <length units="minutes">120</length>
-    <title>TFou</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205083000 +0100" stop="20151205101000 +0100">
-    <length units="minutes">100</length>
-    <title>Téléshopping samedi</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Marie-Ange Nardi,</name>
-      <name function="presenter">Alexandre Devoise</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205101000 +0100" stop="20151205115000 +0100">
-    <length units="minutes">100</length>
-    <title>Nos chers voisins</title>
-    <category>Série</category>
-    <desc>Problèmes de famille ou d'éducation, justice, religion, politique : la vie des voisins rebondit sur les sujets de société de manière drôle,... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Stephan Kopecky</name>
-      <name function="actor">Joy Esther</name>
-      <name function="actor">Jean-Baptiste Shelmerdine</name>
-      <name function="actor">Christelle Reboul</name>
-      <name function="actor">Gil Alma</name>
-      <name function="actor">Issa Doumbia</name>
-      <name function="actor">Damien Ferdel</name>
-      <name function="actor">Martin Lamotte</name>
-      <name function="actor">Thierry Samitier</name>
-      <name function="writer">Olivier Berclaz</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205115000 +0100" stop="20151205120000 +0100">
-    <length units="minutes">10</length>
-    <title>L'affiche de la semaine</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205120000 +0100" stop="20151205124500 +0100">
-    <length units="minutes">45</length>
-    <title>Les douze coups de midi</title>
-    <category>Jeu</category>
-    <desc>Chaque jour, des candidats tentent de répondre à des questions ludiques et culturelles afin de gagner jusqu'à 30 000 euros. Mais attention, ils... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Luc Reichmann</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205124500 +0100" stop="20151205125000 +0100">
-    <length units="minutes">5</length>
-    <title>Météo</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205125000 +0100" stop="20151205130000 +0100">
-    <length units="minutes">10</length>
-    <title>L'affiche du jour</title>
-    <category>Magazine</category>
-    <desc>Un consultant raconte une histoire autour d'une rencontre sportive. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205130000 +0100" stop="20151205132000 +0100">
-    <length units="minutes">20</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Anne-Claire Coudray</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205132000 +0100" stop="20151205151500 +0100">
-    <length units="minutes">115</length>
-    <title>Reportages</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : Enquête et portraits. Les rois des camelots - Depuis des décennies, ils sont les stars des foires et des marchés. Rencontre avec... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Anne-Claire Coudray</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205151500 +0100" stop="20151205165500 +0100">
-    <length units="minutes">100</length>
-    <title>Neuf vies pour Noël</title>
-    <category>Téléfilm</category>
-    <desc>Zachary, un jeune pompier, aime passionnément sa liberté et ne croit pas en l'amour, s'investissant corps et âme dans son métier. Marilee, une... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Mark Jean</name>
-      <name function="actor">Stephen Dimopoulos</name>
-      <name function="actor">Stephanie Bennett</name>
-      <name function="actor">Chelsea Hobbs</name>
-      <name function="actor">Brandon Routh</name>
-      <name function="actor">Dalias Blake</name>
-      <name function="actor">Sean Tyson</name>
-      <name function="actor">Alison Araya</name>
-      <name function="actor">Kimberly Sustad</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205165500 +0100" stop="20151205175000 +0100">
-    <length units="minutes">55</length>
-    <title>Nos chers voisins</title>
-    <category>Série</category>
-    <desc>Entre les problèmes de famille ou d'éducation, de justice, de religion et de politique : la vie des voisins rebondit sur les sujets de société de... (Lire la suite).(c)</desc>
-    <credits>
-      <name function="actor">Martin Lamotte</name>
-      <name function="actor">Thierry Samitier</name>
-      <name function="actor">Isabelle Vitari</name>
-      <name function="actor">Jean-Baptiste Shelmerdine</name>
-      <name function="actor">Christelle Reboul</name>
-      <name function="actor">Gil Alma</name>
-      <name function="actor">Issa Doumbia</name>
-      <name function="actor">Damien Ferdel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205175000 +0100" stop="20151205190500 +0100">
-    <length units="minutes">75</length>
-    <title>50mn Inside</title>
-    <category>Magazine</category>
-    <desc>Un regard hebdomadaire sur l'actualité des stars. Au sommaire : (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Sandrine Quétier,</name>
-      <name function="presenter">Nikos Aliagas</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205190500 +0100" stop="20151205195000 +0100">
-    <length units="minutes">45</length>
-    <title>50mn Inside</title>
-    <category>Magazine</category>
-    <desc>Un regard hebdomadaire sur l'actualité des stars. Au sommaire : (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Sandrine Quétier,</name>
-      <name function="presenter">Nikos Aliagas</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205195000 +0100" stop="20151205195500 +0100">
-    <length units="minutes">5</length>
-    <title>Là où je t'emmènerai</title>
-    <category>Magazine</category>
-    <desc>Une personnalité invite à découvrir l'endroit où elle rêverait d'emmener un être cher. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205195500 +0100" stop="20151205200000 +0100">
-    <length units="minutes">5</length>
-    <title>Météo</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205200000 +0100" stop="20151205203000 +0100">
-    <length units="minutes">30</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Anne-Claire Coudray</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205203000 +0100" stop="20151205203500 +0100">
-    <length units="minutes">5</length>
-    <title>Du côté de chez vous</title>
-    <category>Magazine</category>
-    <desc>A la découverte de demeures aménagées avec imagination et ingéniosité. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205203500 +0100" stop="20151205204000 +0100">
-    <length units="minutes">5</length>
-    <title>Tirage du Loto</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205204000 +0100" stop="20151205204500 +0100">
-    <length units="minutes">5</length>
-    <title>Météo</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205204500 +0100" stop="20151205205500 +0100">
-    <length units="minutes">10</length>
-    <title>Nos chers voisins</title>
-    <category>Série</category>
-    <desc>Problèmes de famille ou d'éducation, justice, religion, politique : la vie des voisins rebondit sur les sujets de société de manière drôle,... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Stephan Kopecky</name>
-      <name function="actor">Joy Esther</name>
-      <name function="actor">Jean-Baptiste Shelmerdine</name>
-      <name function="actor">Christelle Reboul</name>
-      <name function="actor">Gil Alma</name>
-      <name function="actor">Issa Doumbia</name>
-      <name function="actor">Damien Ferdel</name>
-      <name function="actor">Martin Lamotte</name>
-      <name function="actor">Thierry Samitier</name>
-      <name function="writer">Olivier Berclaz</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205205500 +0100" stop="20151205232500 +0100">
-    <length units="minutes">150</length>
-    <title>Danse avec les stars</title>
-    <category>Divertissement</category>
-    <desc>Une soirée particulière attend les stars avec le retour du switch. Jusqu'au 29 novembre, le public a pu associer chaque star à un danseur,... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Marie-Claude Pietragalla,</name>
-      <name function="presenter">Sandrine Quétier,</name>
-      <name function="presenter">Laurent Ournac,</name>
-      <name function="presenter">Chris Marques,</name>
-      <name function="presenter">Jean-Marc Généreux,</name>
-      <name function="presenter">Fauve Hautot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205232500 +0100" stop="20151206000500 +0100">
-    <length units="minutes">40</length>
-    <title>Danse avec les stars, la suite</title>
-    <category>Divertissement</category>
-    <desc>Sur Twitter #DALS. Sandrine Quétier et Laurent Ournac reviennent sur les temps forts de ce prime spécial switch, commentés par les juges et les... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Marie-Claude Pietragalla,</name>
-      <name function="presenter">Sandrine Quétier,</name>
-      <name function="presenter">Guillaume Stanczyk,</name>
-      <name function="presenter">Laurent Ournac,</name>
-      <name function="presenter">Chris Marques,</name>
-      <name function="presenter">Jean-Marc Généreux,</name>
-      <name function="presenter">Fauve Hautot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206000500 +0100" stop="20151206020000 +0100">
+  <programme channel="MTV" start="20151206060500 +0100" stop="20151206080000 +0100">
     <length units="minutes">115</length>
     <title>Le grand blind test</title>
     <category>Divertissement</category>
@@ -316,7 +13,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206020000 +0100" stop="20151206024500 +0100">
+  <programme channel="MTV" start="20151206080000 +0100" stop="20151206084500 +0100">
     <length units="minutes">45</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -335,7 +32,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206024500 +0100" stop="20151206033500 +0100">
+  <programme channel="MTV" start="20151206084500 +0100" stop="20151206093500 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -353,7 +50,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206033500 +0100" stop="20151206044000 +0100">
+  <programme channel="MTV" start="20151206093500 +0100" stop="20151206104000 +0100">
     <length units="minutes">65</length>
     <title>50mn Inside</title>
     <category>Magazine</category>
@@ -364,7 +61,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206044000 +0100" stop="20151206051000 +0100">
+  <programme channel="MTV" start="20151206104000 +0100" stop="20151206111000 +0100">
     <length units="minutes">30</length>
     <title>50mn Inside</title>
     <category>Magazine</category>
@@ -375,14 +72,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206051000 +0100" stop="20151206053000 +0100">
+  <programme channel="MTV" start="20151206111000 +0100" stop="20151206113000 +0100">
     <length units="minutes">20</length>
     <title>Musiques</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206053000 +0100" stop="20151206063000 +0100">
+  <programme channel="MTV" start="20151206113000 +0100" stop="20151206123000 +0100">
     <length units="minutes">60</length>
     <title>Reportages</title>
     <category>Magazine</category>
@@ -392,35 +89,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206063000 +0100" stop="20151206102000 +0100">
+  <programme channel="MTV" start="20151206123000 +0100" stop="20151206162000 +0100">
     <length units="minutes">230</length>
     <title>TFou</title>
     <category>Magazine</category>
     <desc>Au sommaire : (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206102000 +0100" stop="20151206110000 +0100">
+  <programme channel="MTV" start="20151206162000 +0100" stop="20151206170000 +0100">
     <length units="minutes">40</length>
     <title>Automoto</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206110000 +0100" stop="20151206115500 +0100">
+  <programme channel="MTV" start="20151206170000 +0100" stop="20151206175500 +0100">
     <length units="minutes">55</length>
     <title>Téléfoot</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206115500 +0100" stop="20151206120000 +0100">
+  <programme channel="MTV" start="20151206175500 +0100" stop="20151206180000 +0100">
     <length units="minutes">5</length>
     <title>L'affiche du jour</title>
     <category>Magazine</category>
     <desc>Un consultant raconte une histoire autour d'une rencontre sportive. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206120000 +0100" stop="20151206124500 +0100">
+  <programme channel="MTV" start="20151206180000 +0100" stop="20151206184500 +0100">
     <length units="minutes">45</length>
     <title>Les douze coups de midi</title>
     <category>Jeu</category>
@@ -430,21 +127,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206124500 +0100" stop="20151206125000 +0100">
+  <programme channel="MTV" start="20151206184500 +0100" stop="20151206185000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206125000 +0100" stop="20151206130000 +0100">
+  <programme channel="MTV" start="20151206185000 +0100" stop="20151206190000 +0100">
     <length units="minutes">10</length>
     <title>Du côté de chez vous</title>
     <category>Magazine</category>
     <desc>A la découverte de demeures aménagées avec imagination et ingéniosité. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206130000 +0100" stop="20151206133000 +0100">
+  <programme channel="MTV" start="20151206190000 +0100" stop="20151206193000 +0100">
     <length units="minutes">30</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -454,7 +151,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206133000 +0100" stop="20151206145000 +0100">
+  <programme channel="MTV" start="20151206193000 +0100" stop="20151206205000 +0100">
     <length units="minutes">80</length>
     <title>Grands reportages</title>
     <category>Magazine</category>
@@ -464,7 +161,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206145000 +0100" stop="20151206163000 +0100">
+  <programme channel="MTV" start="20151206205000 +0100" stop="20151206223000 +0100">
     <length units="minutes">100</length>
     <title>Le médaillon de Noël</title>
     <category>Téléfilm</category>
@@ -482,7 +179,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206163000 +0100" stop="20151206180500 +0100">
+  <programme channel="MTV" start="20151206223000 +0100" stop="20151207000500 +0100">
     <length units="minutes">95</length>
     <title>Noël au soleil</title>
     <category>Téléfilm</category>
@@ -500,7 +197,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206180500 +0100" stop="20151206192500 +0100">
+  <programme channel="MTV" start="20151207000500 +0100" stop="20151207012500 +0100">
     <length units="minutes">80</length>
     <title>Sept à huit</title>
     <category>Magazine</category>
@@ -510,14 +207,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206192500 +0100" stop="20151206193000 +0100">
+  <programme channel="MTV" start="20151207012500 +0100" stop="20151207013000 +0100">
     <length units="minutes">5</length>
     <title>Solutions pour le climat</title>
     <category>Magazine</category>
     <desc>Le covoiturage / Rezo pàouce (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206193000 +0100" stop="20151206195000 +0100">
+  <programme channel="MTV" start="20151207013000 +0100" stop="20151207015000 +0100">
     <length units="minutes">20</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -527,7 +224,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206195000 +0100" stop="20151206211000 +0100">
+  <programme channel="MTV" start="20151207015000 +0100" stop="20151207031000 +0100">
     <length units="minutes">80</length>
     <title>Elections régionales</title>
     <category />
@@ -540,14 +237,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206211000 +0100" stop="20151206211500 +0100">
+  <programme channel="MTV" start="20151207031000 +0100" stop="20151207031500 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206211500 +0100" stop="20151206233500 +0100">
+  <programme channel="MTV" start="20151207031500 +0100" stop="20151207053500 +0100">
     <length units="minutes">140</length>
     <title>Ocean's Eleven (?)</title>
     <category>Film</category>
@@ -565,7 +262,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206233500 +0100" stop="20151207002500 +0100">
+  <programme channel="MTV" start="20151207053500 +0100" stop="20151207062500 +0100">
     <length units="minutes">50</length>
     <title>Les experts</title>
     <category>Série</category>
@@ -584,7 +281,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207002500 +0100" stop="20151207012000 +0100">
+  <programme channel="MTV" start="20151207062500 +0100" stop="20151207072000 +0100">
     <length units="minutes">55</length>
     <title>Les experts</title>
     <category>Série</category>
@@ -603,7 +300,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207012000 +0100" stop="20151207020500 +0100">
+  <programme channel="MTV" start="20151207072000 +0100" stop="20151207080500 +0100">
     <length units="minutes">45</length>
     <title>Les experts</title>
     <category>Série</category>
@@ -622,7 +319,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207020500 +0100" stop="20151207030000 +0100">
+  <programme channel="MTV" start="20151207080500 +0100" stop="20151207090000 +0100">
     <length units="minutes">55</length>
     <title>New York, cour de justice</title>
     <category>Série</category>
@@ -641,7 +338,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207030000 +0100" stop="20151207034500 +0100">
+  <programme channel="MTV" start="20151207090000 +0100" stop="20151207094500 +0100">
     <length units="minutes">45</length>
     <title>New York, cour de justice</title>
     <category>Série</category>
@@ -660,7 +357,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207034500 +0100" stop="20151207043500 +0100">
+  <programme channel="MTV" start="20151207094500 +0100" stop="20151207103500 +0100">
     <length units="minutes">50</length>
     <title>New York, cour de justice</title>
     <category>Série</category>
@@ -677,49 +374,49 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207043500 +0100" stop="20151207044000 +0100">
+  <programme channel="MTV" start="20151207103500 +0100" stop="20151207104000 +0100">
     <length units="minutes">5</length>
     <title>L'actualité du cinéma</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207044000 +0100" stop="20151207052000 +0100">
+  <programme channel="MTV" start="20151207104000 +0100" stop="20151207112000 +0100">
     <length units="minutes">40</length>
     <title>Musiques</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207052000 +0100" stop="20151207055000 +0100">
+  <programme channel="MTV" start="20151207112000 +0100" stop="20151207115000 +0100">
     <length units="minutes">30</length>
     <title>Reportages</title>
     <category>Magazine</category>
     <desc>La vie à 3000 mètres Qu'ils soient pilotes, cordistes ou gardiens de refuge, Charles, Mathieu, Aymeric, Olivier et Alicia ont choisi comme destinée et quotidien de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207055000 +0100" stop="20151207063000 +0100">
+  <programme channel="MTV" start="20151207115000 +0100" stop="20151207123000 +0100">
     <length units="minutes">40</length>
     <title>Reportages</title>
     <category>Magazine</category>
     <desc>Ces Français fous de Birmanie C'est «la» destination à la mode : cette année, la Birmanie devrait accueillir cinq millions de touristes, dont 20 000 Français. Certains ont... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207063000 +0100" stop="20151207082500 +0100">
+  <programme channel="MTV" start="20151207123000 +0100" stop="20151207142500 +0100">
     <length units="minutes">115</length>
     <title>TFou</title>
     <category>Magazine</category>
     <desc>Au sommaire : (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207082500 +0100" stop="20151207083000 +0100">
+  <programme channel="MTV" start="20151207142500 +0100" stop="20151207143000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207083000 +0100" stop="20151207092000 +0100">
+  <programme channel="MTV" start="20151207143000 +0100" stop="20151207152000 +0100">
     <length units="minutes">50</length>
     <title>Téléshopping</title>
     <category>Magazine</category>
@@ -730,49 +427,49 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207092000 +0100" stop="20151207092500 +0100">
+  <programme channel="MTV" start="20151207152000 +0100" stop="20151207152500 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207092500 +0100" stop="20151207094500 +0100">
+  <programme channel="MTV" start="20151207152500 +0100" stop="20151207154500 +0100">
     <length units="minutes">20</length>
     <title>Mon histoire vraie</title>
     <category>Série</category>
     <desc>Histoires d'amour uniques, douloureux secrets de famille, phénomènes inexpliqués, brusques changements de vie : gros plan sur des histoires... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207094500 +0100" stop="20151207101500 +0100">
+  <programme channel="MTV" start="20151207154500 +0100" stop="20151207161500 +0100">
     <length units="minutes">30</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
     <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207101500 +0100" stop="20151207104500 +0100">
+  <programme channel="MTV" start="20151207161500 +0100" stop="20151207164500 +0100">
     <length units="minutes">30</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
     <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207104500 +0100" stop="20151207112000 +0100">
+  <programme channel="MTV" start="20151207164500 +0100" stop="20151207172000 +0100">
     <length units="minutes">35</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
     <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207112000 +0100" stop="20151207120000 +0100">
+  <programme channel="MTV" start="20151207172000 +0100" stop="20151207180000 +0100">
     <length units="minutes">40</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
     <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207120000 +0100" stop="20151207125000 +0100">
+  <programme channel="MTV" start="20151207180000 +0100" stop="20151207185000 +0100">
     <length units="minutes">50</length>
     <title>Les douze coups de midi</title>
     <category>Jeu</category>
@@ -782,7 +479,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207125000 +0100" stop="20151207130000 +0100">
+  <programme channel="MTV" start="20151207185000 +0100" stop="20151207190000 +0100">
     <length units="minutes">10</length>
     <title>Petits plats en équilibre</title>
     <category>Magazine</category>
@@ -792,7 +489,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207130000 +0100" stop="20151207133500 +0100">
+  <programme channel="MTV" start="20151207190000 +0100" stop="20151207193500 +0100">
     <length units="minutes">35</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -802,7 +499,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207133500 +0100" stop="20151207134500 +0100">
+  <programme channel="MTV" start="20151207193500 +0100" stop="20151207194500 +0100">
     <length units="minutes">10</length>
     <title>Petits plats en équilibre</title>
     <category>Magazine</category>
@@ -812,14 +509,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207134500 +0100" stop="20151207135500 +0100">
+  <programme channel="MTV" start="20151207194500 +0100" stop="20151207195500 +0100">
     <length units="minutes">10</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207135500 +0100" stop="20151207151500 +0100">
+  <programme channel="MTV" start="20151207195500 +0100" stop="20151207211500 +0100">
     <length units="minutes">80</length>
     <title>Les feux de l'amour</title>
     <category>Feuilleton</category>
@@ -836,7 +533,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207151500 +0100" stop="20151207170000 +0100">
+  <programme channel="MTV" start="20151207211500 +0100" stop="20151207230000 +0100">
     <length units="minutes">105</length>
     <title>Une rencontre pour Noël</title>
     <category>Téléfilm</category>
@@ -854,21 +551,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207170000 +0100" stop="20151207180000 +0100">
+  <programme channel="MTV" start="20151207230000 +0100" stop="20151208000000 +0100">
     <length units="minutes">60</length>
     <title>L'addition, s'il vous plaît</title>
     <category>Jeu</category>
     <desc>Quatre chefs d'une même région, mais aux établissements très différents, s'affrontent pour tenter de remporter le titre de meilleur restaurateur... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207180000 +0100" stop="20151207190000 +0100">
+  <programme channel="MTV" start="20151208000000 +0100" stop="20151208010000 +0100">
     <length units="minutes">60</length>
     <title>Bienvenue à l'hôtel</title>
     <category>Téléréalité</category>
     <desc>Quatre propriétaires d'hôtels s'en vont tester et juger les établissements de leurs confrères. A tour de rôle, durant une semaine, quatre duos se... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207190000 +0100" stop="20151207195500 +0100">
+  <programme channel="MTV" start="20151208010000 +0100" stop="20151208015500 +0100">
     <length units="minutes">55</length>
     <title>Money Drop</title>
     <category>Jeu</category>
@@ -878,14 +575,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207195500 +0100" stop="20151207200000 +0100">
+  <programme channel="MTV" start="20151208015500 +0100" stop="20151208020000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207200000 +0100" stop="20151207203000 +0100">
+  <programme channel="MTV" start="20151208020000 +0100" stop="20151208023000 +0100">
     <length units="minutes">30</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -895,21 +592,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207203000 +0100" stop="20151207203500 +0100">
+  <programme channel="MTV" start="20151208023000 +0100" stop="20151208023500 +0100">
     <length units="minutes">5</length>
     <title>Tirage du Loto</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207203500 +0100" stop="20151207204000 +0100">
+  <programme channel="MTV" start="20151208023500 +0100" stop="20151208024000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207204000 +0100" stop="20151207204500 +0100">
+  <programme channel="MTV" start="20151208024000 +0100" stop="20151208024500 +0100">
     <length units="minutes">5</length>
     <title>Nos chers voisins</title>
     <category>Série</category>
@@ -928,7 +625,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207204500 +0100" stop="20151207205500 +0100">
+  <programme channel="MTV" start="20151208024500 +0100" stop="20151208025500 +0100">
     <length units="minutes">10</length>
     <title>C'est Canteloup</title>
     <category>Divertissement</category>
@@ -939,7 +636,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207205500 +0100" stop="20151207224500 +0100">
+  <programme channel="MTV" start="20151208025500 +0100" stop="20151208044500 +0100">
     <length units="minutes">110</length>
     <title>Une famille formidable</title>
     <category>Téléfilm</category>
@@ -957,7 +654,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207224500 +0100" stop="20151207233500 +0100">
+  <programme channel="MTV" start="20151208044500 +0100" stop="20151208053500 +0100">
     <length units="minutes">50</length>
     <title>New York Unité Spéciale</title>
     <category>Série</category>
@@ -975,7 +672,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207233500 +0100" stop="20151208002500 +0100">
+  <programme channel="MTV" start="20151208053500 +0100" stop="20151208062500 +0100">
     <length units="minutes">50</length>
     <title>New York Unité Spéciale</title>
     <category>Série</category>
@@ -994,7 +691,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208002500 +0100" stop="20151208011000 +0100">
+  <programme channel="MTV" start="20151208062500 +0100" stop="20151208071000 +0100">
     <length units="minutes">45</length>
     <title>New York Unité Spéciale</title>
     <category>Série</category>
@@ -1013,7 +710,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208011000 +0100" stop="20151208020000 +0100">
+  <programme channel="MTV" start="20151208071000 +0100" stop="20151208080000 +0100">
     <length units="minutes">50</length>
     <title>New York Unité Spéciale</title>
     <category>Série</category>
@@ -1032,7 +729,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208020000 +0100" stop="20151208030500 +0100">
+  <programme channel="MTV" start="20151208080000 +0100" stop="20151208090500 +0100">
     <length units="minutes">65</length>
     <title>Au fil de la nuit</title>
     <category>Magazine</category>
@@ -1046,7 +743,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208030500 +0100" stop="20151208044500 +0100">
+  <programme channel="MTV" start="20151208090500 +0100" stop="20151208104500 +0100">
     <length units="minutes">100</length>
     <title>Reportages</title>
     <category>Magazine</category>
@@ -1056,49 +753,49 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208044500 +0100" stop="20151208050500 +0100">
+  <programme channel="MTV" start="20151208104500 +0100" stop="20151208110500 +0100">
     <length units="minutes">20</length>
     <title>Musiques</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208050500 +0100" stop="20151208053000 +0100">
+  <programme channel="MTV" start="20151208110500 +0100" stop="20151208113000 +0100">
     <length units="minutes">25</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
     <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208053000 +0100" stop="20151208055500 +0100">
+  <programme channel="MTV" start="20151208113000 +0100" stop="20151208115500 +0100">
     <length units="minutes">25</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
     <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208055500 +0100" stop="20151208063000 +0100">
+  <programme channel="MTV" start="20151208115500 +0100" stop="20151208123000 +0100">
     <length units="minutes">35</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
     <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208063000 +0100" stop="20151208082500 +0100">
+  <programme channel="MTV" start="20151208123000 +0100" stop="20151208142500 +0100">
     <length units="minutes">115</length>
     <title>TFou</title>
     <category>Magazine</category>
     <desc>Au sommaire : (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208082500 +0100" stop="20151208083000 +0100">
+  <programme channel="MTV" start="20151208142500 +0100" stop="20151208143000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208083000 +0100" stop="20151208092000 +0100">
+  <programme channel="MTV" start="20151208143000 +0100" stop="20151208152000 +0100">
     <length units="minutes">50</length>
     <title>Téléshopping</title>
     <category>Magazine</category>
@@ -1109,49 +806,49 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208092000 +0100" stop="20151208092500 +0100">
+  <programme channel="MTV" start="20151208152000 +0100" stop="20151208152500 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208092500 +0100" stop="20151208094500 +0100">
+  <programme channel="MTV" start="20151208152500 +0100" stop="20151208154500 +0100">
     <length units="minutes">20</length>
     <title>Mon histoire vraie</title>
     <category>Série</category>
     <desc>Histoires d'amour uniques, douloureux secrets de famille, phénomènes inexpliqués, brusques changements de vie : gros plan sur des histoires... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208094500 +0100" stop="20151208101500 +0100">
+  <programme channel="MTV" start="20151208154500 +0100" stop="20151208161500 +0100">
     <length units="minutes">30</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
     <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208101500 +0100" stop="20151208104500 +0100">
+  <programme channel="MTV" start="20151208161500 +0100" stop="20151208164500 +0100">
     <length units="minutes">30</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
     <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208104500 +0100" stop="20151208112000 +0100">
+  <programme channel="MTV" start="20151208164500 +0100" stop="20151208172000 +0100">
     <length units="minutes">35</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
     <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208112000 +0100" stop="20151208115500 +0100">
+  <programme channel="MTV" start="20151208172000 +0100" stop="20151208175500 +0100">
     <length units="minutes">35</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
     <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208115500 +0100" stop="20151208120000 +0100">
+  <programme channel="MTV" start="20151208175500 +0100" stop="20151208180000 +0100">
     <length units="minutes">5</length>
     <title>Petits plats en équilibre</title>
     <category>Magazine</category>
@@ -1161,7 +858,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208120000 +0100" stop="20151208125000 +0100">
+  <programme channel="MTV" start="20151208180000 +0100" stop="20151208185000 +0100">
     <length units="minutes">50</length>
     <title>Les douze coups de midi</title>
     <category>Jeu</category>
@@ -1171,14 +868,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208125000 +0100" stop="20151208130000 +0100">
+  <programme channel="MTV" start="20151208185000 +0100" stop="20151208190000 +0100">
     <length units="minutes">10</length>
     <title>L'affiche du jour</title>
     <category>Magazine</category>
     <desc>Un consultant raconte une histoire autour d'une rencontre sportive. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208130000 +0100" stop="20151208133500 +0100">
+  <programme channel="MTV" start="20151208190000 +0100" stop="20151208193500 +0100">
     <length units="minutes">35</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -1188,7 +885,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208133500 +0100" stop="20151208134500 +0100">
+  <programme channel="MTV" start="20151208193500 +0100" stop="20151208194500 +0100">
     <length units="minutes">10</length>
     <title>Petits plats en équilibre</title>
     <category>Magazine</category>
@@ -1198,21 +895,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208134500 +0100" stop="20151208135000 +0100">
+  <programme channel="MTV" start="20151208194500 +0100" stop="20151208195000 +0100">
     <length units="minutes">5</length>
     <title>Histoire d'un rêve</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208135000 +0100" stop="20151208135500 +0100">
+  <programme channel="MTV" start="20151208195000 +0100" stop="20151208195500 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208135500 +0100" stop="20151208151500 +0100">
+  <programme channel="MTV" start="20151208195500 +0100" stop="20151208211500 +0100">
     <length units="minutes">80</length>
     <title>Les feux de l'amour</title>
     <category>Feuilleton</category>
@@ -1229,7 +926,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208151500 +0100" stop="20151208170000 +0100">
+  <programme channel="MTV" start="20151208211500 +0100" stop="20151208230000 +0100">
     <length units="minutes">105</length>
     <title>Chapeau bas père Noël !</title>
     <category>Téléfilm</category>
@@ -1247,21 +944,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208170000 +0100" stop="20151208180000 +0100">
+  <programme channel="MTV" start="20151208230000 +0100" stop="20151209000000 +0100">
     <length units="minutes">60</length>
     <title>L'addition, s'il vous plaît</title>
     <category>Jeu</category>
     <desc>Quatre chefs d'une même région, mais aux établissements très différents, s'affrontent pour tenter de remporter le titre de meilleur restaurateur... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208180000 +0100" stop="20151208190000 +0100">
+  <programme channel="MTV" start="20151209000000 +0100" stop="20151209010000 +0100">
     <length units="minutes">60</length>
     <title>Bienvenue à l'hôtel</title>
     <category>Téléréalité</category>
     <desc>Quatre propriétaires d'hôtels s'en vont tester et juger les établissements de leurs confrères. A tour de rôle, durant une semaine, quatre duos se... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208190000 +0100" stop="20151208195500 +0100">
+  <programme channel="MTV" start="20151209010000 +0100" stop="20151209015500 +0100">
     <length units="minutes">55</length>
     <title>Money Drop</title>
     <category>Jeu</category>
@@ -1271,14 +968,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208195500 +0100" stop="20151208200000 +0100">
+  <programme channel="MTV" start="20151209015500 +0100" stop="20151209020000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208200000 +0100" stop="20151208203000 +0100">
+  <programme channel="MTV" start="20151209020000 +0100" stop="20151209023000 +0100">
     <length units="minutes">30</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -1288,21 +985,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208203000 +0100" stop="20151208203500 +0100">
+  <programme channel="MTV" start="20151209023000 +0100" stop="20151209023500 +0100">
     <length units="minutes">5</length>
     <title>My Million</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208203500 +0100" stop="20151208204000 +0100">
+  <programme channel="MTV" start="20151209023500 +0100" stop="20151209024000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208204000 +0100" stop="20151208204500 +0100">
+  <programme channel="MTV" start="20151209024000 +0100" stop="20151209024500 +0100">
     <length units="minutes">5</length>
     <title>Nos chers voisins</title>
     <category>Série</category>
@@ -1321,7 +1018,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208204500 +0100" stop="20151208205500 +0100">
+  <programme channel="MTV" start="20151209024500 +0100" stop="20151209025500 +0100">
     <length units="minutes">10</length>
     <title>C'est Canteloup</title>
     <category>Divertissement</category>
@@ -1332,7 +1029,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208205500 +0100" stop="20151208214500 +0100">
+  <programme channel="MTV" start="20151209025500 +0100" stop="20151209034500 +0100">
     <length units="minutes">50</length>
     <title>Zoo</title>
     <category>Série</category>
@@ -1351,7 +1048,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208214500 +0100" stop="20151208224000 +0100">
+  <programme channel="MTV" start="20151209034500 +0100" stop="20151209044000 +0100">
     <length units="minutes">55</length>
     <title>Zoo</title>
     <category>Série</category>
@@ -1370,7 +1067,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208224000 +0100" stop="20151208232500 +0100">
+  <programme channel="MTV" start="20151209044000 +0100" stop="20151209052500 +0100">
     <length units="minutes">45</length>
     <title>Zoo</title>
     <category>Série</category>
@@ -1389,14 +1086,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208232500 +0100" stop="20151208233000 +0100">
+  <programme channel="MTV" start="20151209052500 +0100" stop="20151209053000 +0100">
     <length units="minutes">5</length>
     <title>Tirage de l'Euro Millions</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208233000 +0100" stop="20151209002500 +0100">
+  <programme channel="MTV" start="20151209053000 +0100" stop="20151209062500 +0100">
     <length units="minutes">55</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -1415,7 +1112,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209002500 +0100" stop="20151209011000 +0100">
+  <programme channel="MTV" start="20151209062500 +0100" stop="20151209071000 +0100">
     <length units="minutes">45</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -1434,7 +1131,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209011000 +0100" stop="20151209020500 +0100">
+  <programme channel="MTV" start="20151209071000 +0100" stop="20151209080500 +0100">
     <length units="minutes">55</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -1453,7 +1150,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209020500 +0100" stop="20151209030000 +0100">
+  <programme channel="MTV" start="20151209080500 +0100" stop="20151209090000 +0100">
     <length units="minutes">55</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -1472,7 +1169,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209030000 +0100" stop="20151209041000 +0100">
+  <programme channel="MTV" start="20151209090000 +0100" stop="20151209101000 +0100">
     <length units="minutes">70</length>
     <title>Sept à huit</title>
     <category>Magazine</category>
@@ -1482,56 +1179,56 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209041000 +0100" stop="20151209044000 +0100">
+  <programme channel="MTV" start="20151209101000 +0100" stop="20151209104000 +0100">
     <length units="minutes">30</length>
     <title>Musiques</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209044000 +0100" stop="20151209050500 +0100">
+  <programme channel="MTV" start="20151209104000 +0100" stop="20151209110500 +0100">
     <length units="minutes">25</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
     <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209050500 +0100" stop="20151209053000 +0100">
+  <programme channel="MTV" start="20151209110500 +0100" stop="20151209113000 +0100">
     <length units="minutes">25</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
     <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209053000 +0100" stop="20151209055500 +0100">
+  <programme channel="MTV" start="20151209113000 +0100" stop="20151209115500 +0100">
     <length units="minutes">25</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
     <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209055500 +0100" stop="20151209063000 +0100">
+  <programme channel="MTV" start="20151209115500 +0100" stop="20151209123000 +0100">
     <length units="minutes">35</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
     <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209063000 +0100" stop="20151209082500 +0100">
+  <programme channel="MTV" start="20151209123000 +0100" stop="20151209142500 +0100">
     <length units="minutes">115</length>
     <title>TFou</title>
     <category>Magazine</category>
     <desc>Au sommaire : (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209082500 +0100" stop="20151209083000 +0100">
+  <programme channel="MTV" start="20151209142500 +0100" stop="20151209143000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209083000 +0100" stop="20151209092000 +0100">
+  <programme channel="MTV" start="20151209143000 +0100" stop="20151209152000 +0100">
     <length units="minutes">50</length>
     <title>Téléshopping</title>
     <category>Magazine</category>
@@ -1542,49 +1239,49 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209092000 +0100" stop="20151209092500 +0100">
+  <programme channel="MTV" start="20151209152000 +0100" stop="20151209152500 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209092500 +0100" stop="20151209094500 +0100">
+  <programme channel="MTV" start="20151209152500 +0100" stop="20151209154500 +0100">
     <length units="minutes">20</length>
     <title>Mon histoire vraie</title>
     <category>Série</category>
     <desc>Histoires d'amour uniques, douloureux secrets de famille, phénomènes inexpliqués, brusques changements de vie : gros plan sur des histoires... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209094500 +0100" stop="20151209101500 +0100">
+  <programme channel="MTV" start="20151209154500 +0100" stop="20151209161500 +0100">
     <length units="minutes">30</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
     <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209101500 +0100" stop="20151209104500 +0100">
+  <programme channel="MTV" start="20151209161500 +0100" stop="20151209164500 +0100">
     <length units="minutes">30</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
     <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209104500 +0100" stop="20151209112000 +0100">
+  <programme channel="MTV" start="20151209164500 +0100" stop="20151209172000 +0100">
     <length units="minutes">35</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
     <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209112000 +0100" stop="20151209115500 +0100">
+  <programme channel="MTV" start="20151209172000 +0100" stop="20151209175500 +0100">
     <length units="minutes">35</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
     <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209115500 +0100" stop="20151209120000 +0100">
+  <programme channel="MTV" start="20151209175500 +0100" stop="20151209180000 +0100">
     <length units="minutes">5</length>
     <title>Petits plats en équilibre</title>
     <category>Magazine</category>
@@ -1594,7 +1291,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209120000 +0100" stop="20151209125000 +0100">
+  <programme channel="MTV" start="20151209180000 +0100" stop="20151209185000 +0100">
     <length units="minutes">50</length>
     <title>Les douze coups de midi</title>
     <category>Jeu</category>
@@ -1604,14 +1301,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209125000 +0100" stop="20151209130000 +0100">
+  <programme channel="MTV" start="20151209185000 +0100" stop="20151209190000 +0100">
     <length units="minutes">10</length>
     <title>L'affiche du jour</title>
     <category>Magazine</category>
     <desc>Un consultant raconte une histoire autour d'une rencontre sportive. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209130000 +0100" stop="20151209133500 +0100">
+  <programme channel="MTV" start="20151209190000 +0100" stop="20151209193500 +0100">
     <length units="minutes">35</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -1621,7 +1318,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209133500 +0100" stop="20151209134500 +0100">
+  <programme channel="MTV" start="20151209193500 +0100" stop="20151209194500 +0100">
     <length units="minutes">10</length>
     <title>Petits plats en équilibre</title>
     <category>Magazine</category>
@@ -1631,14 +1328,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209134500 +0100" stop="20151209135500 +0100">
+  <programme channel="MTV" start="20151209194500 +0100" stop="20151209195500 +0100">
     <length units="minutes">10</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209135500 +0100" stop="20151209154000 +0100">
+  <programme channel="MTV" start="20151209195500 +0100" stop="20151209214000 +0100">
     <length units="minutes">105</length>
     <title>Joséphine, ange gardien</title>
     <category>Téléfilm</category>
@@ -1656,7 +1353,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209154000 +0100" stop="20151209170000 +0100">
+  <programme channel="MTV" start="20151209214000 +0100" stop="20151209230000 +0100">
     <length units="minutes">80</length>
     <title>Nos chers voisins</title>
     <category>Série</category>
@@ -1675,21 +1372,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209170000 +0100" stop="20151209180000 +0100">
+  <programme channel="MTV" start="20151209230000 +0100" stop="20151210000000 +0100">
     <length units="minutes">60</length>
     <title>L'addition, s'il vous plaît</title>
     <category>Jeu</category>
     <desc>Quatre chefs d'une même région, mais aux établissements très différents, s'affrontent pour tenter de remporter le titre de meilleur restaurateur... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209180000 +0100" stop="20151209190000 +0100">
+  <programme channel="MTV" start="20151210000000 +0100" stop="20151210010000 +0100">
     <length units="minutes">60</length>
     <title>Bienvenue à l'hôtel</title>
     <category>Téléréalité</category>
     <desc>Quatre propriétaires d'hôtels s'en vont tester et juger les établissements de leurs confrères. A tour de rôle, durant une semaine, quatre duos se... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209190000 +0100" stop="20151209195500 +0100">
+  <programme channel="MTV" start="20151210010000 +0100" stop="20151210015500 +0100">
     <length units="minutes">55</length>
     <title>Money Drop</title>
     <category>Jeu</category>
@@ -1699,14 +1396,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209195500 +0100" stop="20151209200000 +0100">
+  <programme channel="MTV" start="20151210015500 +0100" stop="20151210020000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209200000 +0100" stop="20151209203000 +0100">
+  <programme channel="MTV" start="20151210020000 +0100" stop="20151210023000 +0100">
     <length units="minutes">30</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -1716,21 +1413,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209203000 +0100" stop="20151209203500 +0100">
+  <programme channel="MTV" start="20151210023000 +0100" stop="20151210023500 +0100">
     <length units="minutes">5</length>
     <title>Tirage du Loto</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209203500 +0100" stop="20151209204000 +0100">
+  <programme channel="MTV" start="20151210023500 +0100" stop="20151210024000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209204000 +0100" stop="20151209204500 +0100">
+  <programme channel="MTV" start="20151210024000 +0100" stop="20151210024500 +0100">
     <length units="minutes">5</length>
     <title>Nos chers voisins</title>
     <category>Série</category>
@@ -1749,7 +1446,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209204500 +0100" stop="20151209205500 +0100">
+  <programme channel="MTV" start="20151210024500 +0100" stop="20151210025500 +0100">
     <length units="minutes">10</length>
     <title>C'est Canteloup</title>
     <category>Divertissement</category>
@@ -1760,7 +1457,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209205500 +0100" stop="20151209214500 +0100">
+  <programme channel="MTV" start="20151210025500 +0100" stop="20151210034500 +0100">
     <length units="minutes">50</length>
     <title>Esprits criminels</title>
     <category>Série</category>
@@ -1779,7 +1476,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209214500 +0100" stop="20151209224000 +0100">
+  <programme channel="MTV" start="20151210034500 +0100" stop="20151210044000 +0100">
     <length units="minutes">55</length>
     <title>Esprits criminels</title>
     <category>Série</category>
@@ -1798,7 +1495,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209224000 +0100" stop="20151209232500 +0100">
+  <programme channel="MTV" start="20151210044000 +0100" stop="20151210052500 +0100">
     <length units="minutes">45</length>
     <title>Esprits criminels</title>
     <category>Série</category>
@@ -1817,7 +1514,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209232500 +0100" stop="20151210002000 +0100">
+  <programme channel="MTV" start="20151210052500 +0100" stop="20151210062000 +0100">
     <length units="minutes">55</length>
     <title>Esprits criminels</title>
     <category>Série</category>
@@ -1836,7 +1533,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210002000 +0100" stop="20151210010500 +0100">
+  <programme channel="MTV" start="20151210062000 +0100" stop="20151210070500 +0100">
     <length units="minutes">45</length>
     <title>Les experts : Manhattan</title>
     <category>Série</category>
@@ -1855,7 +1552,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210010500 +0100" stop="20151210020000 +0100">
+  <programme channel="MTV" start="20151210070500 +0100" stop="20151210080000 +0100">
     <length units="minutes">55</length>
     <title>Les experts : Manhattan</title>
     <category>Série</category>
@@ -1874,7 +1571,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210020000 +0100" stop="20151210025500 +0100">
+  <programme channel="MTV" start="20151210080000 +0100" stop="20151210085500 +0100">
     <length units="minutes">55</length>
     <title>Les experts : Manhattan</title>
     <category>Série</category>
@@ -1893,7 +1590,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210025500 +0100" stop="20151210033500 +0100">
+  <programme channel="MTV" start="20151210085500 +0100" stop="20151210093500 +0100">
     <length units="minutes">40</length>
     <title>Past Life</title>
     <category>Série</category>
@@ -1912,7 +1609,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210033500 +0100" stop="20151210042000 +0100">
+  <programme channel="MTV" start="20151210093500 +0100" stop="20151210102000 +0100">
     <length units="minutes">45</length>
     <title>Past Life</title>
     <category>Série</category>
@@ -1931,56 +1628,56 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210042000 +0100" stop="20151210044000 +0100">
+  <programme channel="MTV" start="20151210102000 +0100" stop="20151210104000 +0100">
     <length units="minutes">20</length>
     <title>Musiques</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210044000 +0100" stop="20151210050500 +0100">
+  <programme channel="MTV" start="20151210104000 +0100" stop="20151210110500 +0100">
     <length units="minutes">25</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
     <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210050500 +0100" stop="20151210053000 +0100">
+  <programme channel="MTV" start="20151210110500 +0100" stop="20151210113000 +0100">
     <length units="minutes">25</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
     <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210053000 +0100" stop="20151210055500 +0100">
+  <programme channel="MTV" start="20151210113000 +0100" stop="20151210115500 +0100">
     <length units="minutes">25</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
     <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210055500 +0100" stop="20151210063000 +0100">
+  <programme channel="MTV" start="20151210115500 +0100" stop="20151210123000 +0100">
     <length units="minutes">35</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
     <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210063000 +0100" stop="20151210082500 +0100">
+  <programme channel="MTV" start="20151210123000 +0100" stop="20151210142500 +0100">
     <length units="minutes">115</length>
     <title>TFou</title>
     <category>Magazine</category>
     <desc>Au sommaire : (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210082500 +0100" stop="20151210083000 +0100">
+  <programme channel="MTV" start="20151210142500 +0100" stop="20151210143000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210083000 +0100" stop="20151210092000 +0100">
+  <programme channel="MTV" start="20151210143000 +0100" stop="20151210152000 +0100">
     <length units="minutes">50</length>
     <title>Téléshopping</title>
     <category>Magazine</category>
@@ -1991,49 +1688,49 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210092000 +0100" stop="20151210092500 +0100">
+  <programme channel="MTV" start="20151210152000 +0100" stop="20151210152500 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210092500 +0100" stop="20151210094500 +0100">
+  <programme channel="MTV" start="20151210152500 +0100" stop="20151210154500 +0100">
     <length units="minutes">20</length>
     <title>Mon histoire vraie</title>
     <category>Série</category>
     <desc>Histoires d'amour uniques, douloureux secrets de famille, phénomènes inexpliqués, brusques changements de vie : gros plan sur des histoires... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210094500 +0100" stop="20151210101500 +0100">
+  <programme channel="MTV" start="20151210154500 +0100" stop="20151210161500 +0100">
     <length units="minutes">30</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
     <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210101500 +0100" stop="20151210104500 +0100">
+  <programme channel="MTV" start="20151210161500 +0100" stop="20151210164500 +0100">
     <length units="minutes">30</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
     <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210104500 +0100" stop="20151210112000 +0100">
+  <programme channel="MTV" start="20151210164500 +0100" stop="20151210172000 +0100">
     <length units="minutes">35</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
     <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210112000 +0100" stop="20151210115500 +0100">
+  <programme channel="MTV" start="20151210172000 +0100" stop="20151210175500 +0100">
     <length units="minutes">35</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
     <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210115500 +0100" stop="20151210120000 +0100">
+  <programme channel="MTV" start="20151210175500 +0100" stop="20151210180000 +0100">
     <length units="minutes">5</length>
     <title>Petits plats en équilibre</title>
     <category>Magazine</category>
@@ -2043,7 +1740,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210120000 +0100" stop="20151210125000 +0100">
+  <programme channel="MTV" start="20151210180000 +0100" stop="20151210185000 +0100">
     <length units="minutes">50</length>
     <title>Les douze coups de midi</title>
     <category>Jeu</category>
@@ -2053,14 +1750,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210125000 +0100" stop="20151210130000 +0100">
+  <programme channel="MTV" start="20151210185000 +0100" stop="20151210190000 +0100">
     <length units="minutes">10</length>
     <title>L'affiche du jour</title>
     <category>Magazine</category>
     <desc>Un consultant raconte une histoire autour d'une rencontre sportive. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210130000 +0100" stop="20151210133500 +0100">
+  <programme channel="MTV" start="20151210190000 +0100" stop="20151210193500 +0100">
     <length units="minutes">35</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -2070,7 +1767,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210133500 +0100" stop="20151210134500 +0100">
+  <programme channel="MTV" start="20151210193500 +0100" stop="20151210194500 +0100">
     <length units="minutes">10</length>
     <title>Petits plats en équilibre</title>
     <category>Magazine</category>
@@ -2080,14 +1777,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210134500 +0100" stop="20151210135500 +0100">
+  <programme channel="MTV" start="20151210194500 +0100" stop="20151210195500 +0100">
     <length units="minutes">10</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210135500 +0100" stop="20151210151500 +0100">
+  <programme channel="MTV" start="20151210195500 +0100" stop="20151210211500 +0100">
     <length units="minutes">80</length>
     <title>Les feux de l'amour</title>
     <category>Feuilleton</category>
@@ -2104,7 +1801,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210151500 +0100" stop="20151210170000 +0100">
+  <programme channel="MTV" start="20151210211500 +0100" stop="20151210230000 +0100">
     <length units="minutes">105</length>
     <title>Le pacte de Noël</title>
     <category>Téléfilm</category>
@@ -2122,21 +1819,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210170000 +0100" stop="20151210180000 +0100">
+  <programme channel="MTV" start="20151210230000 +0100" stop="20151211000000 +0100">
     <length units="minutes">60</length>
     <title>L'addition, s'il vous plaît</title>
     <category>Jeu</category>
     <desc>Quatre chefs d'une même région, mais aux établissements très différents, s'affrontent pour tenter de remporter le titre de meilleur restaurateur... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210180000 +0100" stop="20151210190000 +0100">
+  <programme channel="MTV" start="20151211000000 +0100" stop="20151211010000 +0100">
     <length units="minutes">60</length>
     <title>Bienvenue à l'hôtel</title>
     <category>Téléréalité</category>
     <desc>Quatre propriétaires d'hôtels s'en vont tester et juger les établissements de leurs confrères. A tour de rôle, durant une semaine, quatre duos se... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210190000 +0100" stop="20151210195500 +0100">
+  <programme channel="MTV" start="20151211010000 +0100" stop="20151211015500 +0100">
     <length units="minutes">55</length>
     <title>Money Drop</title>
     <category>Jeu</category>
@@ -2146,14 +1843,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210195500 +0100" stop="20151210200000 +0100">
+  <programme channel="MTV" start="20151211015500 +0100" stop="20151211020000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210200000 +0100" stop="20151210203000 +0100">
+  <programme channel="MTV" start="20151211020000 +0100" stop="20151211023000 +0100">
     <length units="minutes">30</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -2163,21 +1860,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210203000 +0100" stop="20151210203500 +0100">
+  <programme channel="MTV" start="20151211023000 +0100" stop="20151211023500 +0100">
     <length units="minutes">5</length>
     <title>Solutions pour le climat</title>
     <category>Magazine</category>
     <desc>Poulet 100% français (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210203500 +0100" stop="20151210204000 +0100">
+  <programme channel="MTV" start="20151211023500 +0100" stop="20151211024000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210204000 +0100" stop="20151210204500 +0100">
+  <programme channel="MTV" start="20151211024000 +0100" stop="20151211024500 +0100">
     <length units="minutes">5</length>
     <title>Nos chers voisins</title>
     <category>Série</category>
@@ -2196,7 +1893,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210204500 +0100" stop="20151210205500 +0100">
+  <programme channel="MTV" start="20151211024500 +0100" stop="20151211025500 +0100">
     <length units="minutes">10</length>
     <title>C'est Canteloup</title>
     <category>Divertissement</category>
@@ -2207,7 +1904,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210205500 +0100" stop="20151210221000 +0100">
+  <programme channel="MTV" start="20151211025500 +0100" stop="20151211041000 +0100">
     <length units="minutes">75</length>
     <title>Profilage</title>
     <category>Série</category>
@@ -2224,7 +1921,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210221000 +0100" stop="20151210231000 +0100">
+  <programme channel="MTV" start="20151211041000 +0100" stop="20151211051000 +0100">
     <length units="minutes">60</length>
     <title>Profilage</title>
     <category>Série</category>
@@ -2243,7 +1940,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210231000 +0100" stop="20151211002000 +0100">
+  <programme channel="MTV" start="20151211051000 +0100" stop="20151211062000 +0100">
     <length units="minutes">70</length>
     <title>Profilage</title>
     <category>Série</category>
@@ -2262,11 +1959,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211002000 +0100" stop="20151211012500 +0100">
+  <programme channel="MTV" start="20151211062000 +0100" stop="20151211072500 +0100">
     <length units="minutes">65</length>
     <title>Profilage</title>
     <category>Série</category>
-    <desc>Chloé et Rocher enquêtent sur le meurtre d'un jeune photographe aux revenus étrangement supérieurs à son talent. Parmi les dernières photos... (Lire la suite).(n)</desc>
+    <desc>Chloé et Rocher enquêtent sur le meurtre d'un jeune photographe aux revenus étrangement supérieurs à son talent. Parmi les dernières photos... (Lire la suite).</desc>
     <credits>
       <name function="director">Vincent Jamain</name>
       <name function="actor">Philippe Bas</name>
@@ -2280,11 +1977,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211012500 +0100" stop="20151211021500 +0100">
+  <programme channel="MTV" start="20151211072500 +0100" stop="20151211081500 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
-    <desc>Un homme est retrouvé mort : son corps a été dissimulé dans un canapé, pourtant laissé au vu et au su de tous sur un trottoir. Ce sont Lupo et... (Lire la suite).(n)</desc>
+    <desc>Un homme est retrouvé mort : son corps a été dissimulé dans un canapé, pourtant laissé au vu et au su de tous sur un trottoir. Ce sont Lupo et... (Lire la suite).</desc>
     <credits>
       <name function="director">John David Coles</name>
       <name function="actor">Melissa Leo</name>
@@ -2299,11 +1996,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211021500 +0100" stop="20151211031500 +0100">
+  <programme channel="MTV" start="20151211081500 +0100" stop="20151211091500 +0100">
     <length units="minutes">60</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
-    <desc>Un bijoutier est retrouvé assassiné dans le four qui lui sert habituellement à affiner l'or. Chargés de l'affaire, Lupo et Bernard découvrent... (Lire la suite).(n)</desc>
+    <desc>Un bijoutier est retrouvé assassiné dans le four qui lui sert habituellement à affiner l'or. Chargés de l'affaire, Lupo et Bernard découvrent... (Lire la suite).</desc>
     <credits>
       <name function="director">Jim McKay</name>
       <name function="actor">Sam Waterston</name>
@@ -2318,184 +2015,184 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211031500 +0100" stop="20151211042000 +0100">
+  <programme channel="MTV" start="20151211091500 +0100" stop="20151211102000 +0100">
     <length units="minutes">65</length>
     <title>Grands reportages</title>
     <category>Magazine</category>
-    <desc>Ces dix dernières années, plus de 6000 bistrots ont disparu en France. Pourtant, dans tout l'Hexagone, des hommes et des femmes tentent de faire... (Lire la suite).(n)</desc>
+    <desc>Ces dix dernières années, plus de 6000 bistrots ont disparu en France. Pourtant, dans tout l'Hexagone, des hommes et des femmes tentent de faire... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Anne-Claire Coudray</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211042000 +0100" stop="20151211044000 +0100">
+  <programme channel="MTV" start="20151211102000 +0100" stop="20151211104000 +0100">
     <length units="minutes">20</length>
     <title>Musiques</title>
     <category>Clips</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211044000 +0100" stop="20151211050500 +0100">
+  <programme channel="MTV" start="20151211104000 +0100" stop="20151211110500 +0100">
     <length units="minutes">25</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
-    <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).(n)</desc>
+    <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211050500 +0100" stop="20151211053000 +0100">
+  <programme channel="MTV" start="20151211110500 +0100" stop="20151211113000 +0100">
     <length units="minutes">25</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
-    <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).(n)</desc>
+    <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211053000 +0100" stop="20151211055500 +0100">
+  <programme channel="MTV" start="20151211113000 +0100" stop="20151211115500 +0100">
     <length units="minutes">25</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
-    <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).(n)</desc>
+    <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211055500 +0100" stop="20151211063000 +0100">
+  <programme channel="MTV" start="20151211115500 +0100" stop="20151211123000 +0100">
     <length units="minutes">35</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
-    <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).(n)</desc>
+    <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211063000 +0100" stop="20151211082500 +0100">
+  <programme channel="MTV" start="20151211123000 +0100" stop="20151211142500 +0100">
     <length units="minutes">115</length>
     <title>TFou</title>
     <category>Magazine</category>
-    <desc>Au sommaire : (Lire la suite).(n)</desc>
+    <desc>Au sommaire : (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211082500 +0100" stop="20151211083000 +0100">
+  <programme channel="MTV" start="20151211142500 +0100" stop="20151211143000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211083000 +0100" stop="20151211092000 +0100">
+  <programme channel="MTV" start="20151211143000 +0100" stop="20151211152000 +0100">
     <length units="minutes">50</length>
     <title>Téléshopping</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Marie-Ange Nardi,</name>
       <name function="presenter">Alexandre Devoise</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211092000 +0100" stop="20151211092500 +0100">
+  <programme channel="MTV" start="20151211152000 +0100" stop="20151211152500 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211092500 +0100" stop="20151211094500 +0100">
+  <programme channel="MTV" start="20151211152500 +0100" stop="20151211154500 +0100">
     <length units="minutes">20</length>
     <title>Mon histoire vraie</title>
     <category>Série</category>
-    <desc>Histoires d'amour uniques, douloureux secrets de famille, phénomènes inexpliqués, brusques changements de vie : gros plan sur des histoires... (Lire la suite).(n)</desc>
+    <desc>Histoires d'amour uniques, douloureux secrets de famille, phénomènes inexpliqués, brusques changements de vie : gros plan sur des histoires... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211094500 +0100" stop="20151211101500 +0100">
+  <programme channel="MTV" start="20151211154500 +0100" stop="20151211161500 +0100">
     <length units="minutes">30</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
-    <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).(n)</desc>
+    <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211101500 +0100" stop="20151211104500 +0100">
+  <programme channel="MTV" start="20151211161500 +0100" stop="20151211164500 +0100">
     <length units="minutes">30</length>
     <title>Une histoire, une urgence</title>
     <category>Série</category>
-    <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).(n)</desc>
+    <desc>Une plongée au coeur d'une famille, d'un couple, d'un foyer, dont un des membres arrive aux urgences. Les médecins tentent de trouver des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211104500 +0100" stop="20151211112000 +0100">
+  <programme channel="MTV" start="20151211164500 +0100" stop="20151211172000 +0100">
     <length units="minutes">35</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
-    <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).(n)</desc>
+    <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211112000 +0100" stop="20151211115500 +0100">
+  <programme channel="MTV" start="20151211172000 +0100" stop="20151211175500 +0100">
     <length units="minutes">35</length>
     <title>Petits secrets entre voisins</title>
     <category>Série</category>
-    <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).(n)</desc>
+    <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211115500 +0100" stop="20151211120000 +0100">
+  <programme channel="MTV" start="20151211175500 +0100" stop="20151211180000 +0100">
     <length units="minutes">5</length>
     <title>Petits plats en équilibre</title>
     <category>Magazine</category>
-    <desc>Toutes les astuces et recettes autour d'un ingrédient de saison. (Lire la suite).(n)</desc>
+    <desc>Toutes les astuces et recettes autour d'un ingrédient de saison. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Laurent Mariotte</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211120000 +0100" stop="20151211125000 +0100">
+  <programme channel="MTV" start="20151211180000 +0100" stop="20151211185000 +0100">
     <length units="minutes">50</length>
     <title>Les douze coups de midi</title>
     <category>Jeu</category>
-    <desc>Chaque jour, des candidats tentent de répondre à des questions ludiques et culturelles afin de gagner jusqu'à 30 000 euros. Mais attention, ils... (Lire la suite).(n)</desc>
+    <desc>Chaque jour, des candidats tentent de répondre à des questions ludiques et culturelles afin de gagner jusqu'à 30 000 euros. Mais attention, ils... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Luc Reichmann</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211125000 +0100" stop="20151211130000 +0100">
+  <programme channel="MTV" start="20151211185000 +0100" stop="20151211190000 +0100">
     <length units="minutes">10</length>
     <title>L'affiche du jour</title>
     <category>Magazine</category>
-    <desc>Un consultant raconte une histoire autour d'une rencontre sportive. (Lire la suite).(n)</desc>
+    <desc>Un consultant raconte une histoire autour d'une rencontre sportive. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211130000 +0100" stop="20151211133500 +0100">
+  <programme channel="MTV" start="20151211190000 +0100" stop="20151211193500 +0100">
     <length units="minutes">35</length>
     <title>Journal</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Pierre Pernaut</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211133500 +0100" stop="20151211134500 +0100">
+  <programme channel="MTV" start="20151211193500 +0100" stop="20151211194500 +0100">
     <length units="minutes">10</length>
     <title>Petits plats en équilibre</title>
     <category>Magazine</category>
-    <desc>Toutes les astuces et recettes autour d'un ingrédient de saison. (Lire la suite).(n)</desc>
+    <desc>Toutes les astuces et recettes autour d'un ingrédient de saison. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Laurent Mariotte</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211134500 +0100" stop="20151211135000 +0100">
+  <programme channel="MTV" start="20151211194500 +0100" stop="20151211195000 +0100">
     <length units="minutes">5</length>
     <title>Histoire d'un rêve</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211135000 +0100" stop="20151211135500 +0100">
+  <programme channel="MTV" start="20151211195000 +0100" stop="20151211195500 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211135500 +0100" stop="20151211151500 +0100">
+  <programme channel="MTV" start="20151211195500 +0100" stop="20151211211500 +0100">
     <length units="minutes">80</length>
     <title>Les feux de l'amour</title>
     <category>Feuilleton</category>
-    <desc>Victoria essaie d'amadouer son ravisseur en lui parlant de son fils, avant qu'il ne se fasse descendre par un certain Max. Phyllis et Adam... (Lire la suite).(n)</desc>
+    <desc>Victoria essaie d'amadouer son ravisseur en lui parlant de son fils, avant qu'il ne se fasse descendre par un certain Max. Phyllis et Adam... (Lire la suite).</desc>
     <credits>
       <name function="actor">Eric Braeden</name>
       <name function="actor">Eileen Davidson</name>
@@ -2508,11 +2205,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211151500 +0100" stop="20151211170000 +0100">
+  <programme channel="MTV" start="20151211211500 +0100" stop="20151211230000 +0100">
     <length units="minutes">105</length>
     <title>Ce Noël qui a changé ma vie</title>
     <category>Téléfilm</category>
-    <desc>Carol, une femme de caractère, a réussi, toute seule, à se hisser à la tête d'une maison d'édition. Dure et intransigeante, elle ne vit que pour... (Lire la suite).(n)</desc>
+    <desc>Carol, une femme de caractère, a réussi, toute seule, à se hisser à la tête d'une maison d'édition. Dure et intransigeante, elle ne vit que pour... (Lire la suite).</desc>
     <credits>
       <name function="director">Michael Scott</name>
       <name function="actor">Susan Hogan</name>
@@ -2526,70 +2223,212 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211170000 +0100" stop="20151211180000 +0100">
+  <programme channel="MTV" start="20151211230000 +0100" stop="20151212000000 +0100">
     <length units="minutes">60</length>
     <title>L'addition, s'il vous plaît</title>
     <category>Jeu</category>
-    <desc>Quatre chefs d'une même région, mais aux établissements très différents, s'affrontent pour tenter de remporter le titre de meilleur restaurateur... (Lire la suite).(n)</desc>
+    <desc>Quatre chefs d'une même région, mais aux établissements très différents, s'affrontent pour tenter de remporter le titre de meilleur restaurateur... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211180000 +0100" stop="20151211190000 +0100">
+  <programme channel="MTV" start="20151212000000 +0100" stop="20151212010000 +0100">
     <length units="minutes">60</length>
     <title>Bienvenue à l'hôtel</title>
     <category>Téléréalité</category>
-    <desc>Quatre propriétaires d'hôtels s'en vont tester et juger les établissements de leurs confrères. A tour de rôle, durant une semaine, quatre duos se... (Lire la suite).(n)</desc>
+    <desc>Quatre propriétaires d'hôtels s'en vont tester et juger les établissements de leurs confrères. A tour de rôle, durant une semaine, quatre duos se... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211190000 +0100" stop="20151211195500 +0100">
+  <programme channel="MTV" start="20151212010000 +0100" stop="20151212015500 +0100">
     <length units="minutes">55</length>
     <title>Money Drop</title>
     <category>Jeu</category>
-    <desc>Un couple de candidats dispose de 250 000 euros dès son entrée sur le plateau : le but est d'essayer de conserver cette somme jusqu'au bout en... (Lire la suite).(n)</desc>
+    <desc>Un couple de candidats dispose de 250 000 euros dès son entrée sur le plateau : le but est d'essayer de conserver cette somme jusqu'au bout en... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Laurence Boccolini</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211195500 +0100" stop="20151211200000 +0100">
+  <programme channel="MTV" start="20151212015500 +0100" stop="20151212020000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211200000 +0100" stop="20151211203000 +0100">
+  <programme channel="MTV" start="20151212020000 +0100" stop="20151212023000 +0100">
     <length units="minutes">30</length>
     <title>Journal</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Anne-Claire Coudray</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211203000 +0100" stop="20151211203400 +0100">
+  <programme channel="MTV" start="20151212023000 +0100" stop="20151212023400 +0100">
     <length units="minutes">4</length>
     <title>My Million</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212023400 +0100" stop="20151212023500 +0100">
+    <length units="minutes">1</length>
+    <title>Trafic info</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212023500 +0100" stop="20151212024000 +0100">
+    <length units="minutes">5</length>
+    <title>Météo</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212024000 +0100" stop="20151212024500 +0100">
+    <length units="minutes">5</length>
+    <title>Nos chers voisins</title>
+    <category>Série</category>
+    <desc>Problèmes de famille ou d'éducation, justice, religion, politique : la vie des voisins rebondit sur les sujets de société de manière drôle,... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Stephan Kopecky</name>
+      <name function="actor">Joy Esther</name>
+      <name function="actor">Jean-Baptiste Shelmerdine</name>
+      <name function="actor">Christelle Reboul</name>
+      <name function="actor">Gil Alma</name>
+      <name function="actor">Issa Doumbia</name>
+      <name function="actor">Damien Ferdel</name>
+      <name function="actor">Martin Lamotte</name>
+      <name function="actor">Thierry Samitier</name>
+      <name function="writer">Olivier Berclaz</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212024500 +0100" stop="20151212025500 +0100">
+    <length units="minutes">10</length>
+    <title>C'est Canteloup</title>
+    <category>Divertissement</category>
+    <desc>Détournements d'images d'actualité, parodies, interviews décalées, Nicolas Canteloup propose une satire des faits marquants de la journée avec,... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Nicolas Canteloup,</name>
+      <name function="presenter">Nikos Aliagas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212025500 +0100" stop="20151212052500 +0100">
+    <length units="minutes">150</length>
+    <title>Les z'awards de la télé</title>
+    <category />
+    <desc>Arthur donne rendez-vous aux téléspectateurs pour une cérémonie de remise de prix en direct, avec la première édition des «Z'awards de la télé»,... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Arthur</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212052500 +0100" stop="20151212053000 +0100">
+    <length units="minutes">5</length>
+    <title>Tirage de l'Euro Millions</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212053000 +0100" stop="20151212072500 +0100">
+    <length units="minutes">115</length>
+    <title>Vendredi, tout est permis avec Arthur</title>
+    <category>Divertissement</category>
+    <desc>Comme toujours, le «Vendredi, tout est permis avec Arthur» ! Et ce ne sont pas les célèbres invités du maître de céans qui diront le contraire,... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Arthur</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212072500 +0100" stop="20151212075000 +0100">
+    <length units="minutes">25</length>
+    <title>L'affiche de la semaine</title>
     <category>Magazine</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211203400 +0100" stop="20151211203500 +0100">
-    <length units="minutes">1</length>
+  <programme channel="MTV" start="20151212075000 +0100" stop="20151212094000 +0100">
+    <length units="minutes">110</length>
+    <title>Vendredi, tout est permis avec Arthur</title>
+    <category>Divertissement</category>
+    <desc>Comme toujours, le «Vendredi, tout est permis avec Arthur» ! Vincent Desagnat, Jérôme Commandeur, Axelle Laffont, Tarek Boudali, Philippe... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Arthur</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212094000 +0100" stop="20151212094500 +0100">
+    <length units="minutes">5</length>
     <title>Trafic info</title>
     <category>Magazine</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211203500 +0100" stop="20151211204000 +0100">
-    <length units="minutes">5</length>
-    <title>Météo</title>
-    <category />
+  <programme channel="MTV" start="20151212094500 +0100" stop="20151212104500 +0100">
+    <length units="minutes">60</length>
+    <title>50mn Inside</title>
+    <category>Magazine</category>
+    <desc>Un regard hebdomadaire sur l'actualité des stars. Au sommaire : (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Sandrine Quétier,</name>
+      <name function="presenter">Nikos Aliagas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212104500 +0100" stop="20151212112000 +0100">
+    <length units="minutes">35</length>
+    <title>50mn Inside</title>
+    <category>Magazine</category>
+    <desc>Un regard hebdomadaire sur l'actualité des stars. Au sommaire : (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Sandrine Quétier,</name>
+      <name function="presenter">Nikos Aliagas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212112000 +0100" stop="20151212113500 +0100">
+    <length units="minutes">15</length>
+    <title>Musiques</title>
+    <category>Clips</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211204000 +0100" stop="20151211204500 +0100">
-    <length units="minutes">5</length>
+  <programme channel="MTV" start="20151212113500 +0100" stop="20151212120000 +0100">
+    <length units="minutes">25</length>
+    <title>Petits secrets entre voisins</title>
+    <category>Série</category>
+    <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212120000 +0100" stop="20151212123000 +0100">
+    <length units="minutes">30</length>
+    <title>Petits secrets entre voisins</title>
+    <category>Série</category>
+    <desc>La vie des voisins semble normale. Mais les apparences peuvent être trompeuses. Derrière les murs se cachent des histoires incroyables : conflits... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212123000 +0100" stop="20151212143000 +0100">
+    <length units="minutes">120</length>
+    <title>TFou</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212143000 +0100" stop="20151212161500 +0100">
+    <length units="minutes">105</length>
+    <title>Téléshopping samedi</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Marie-Ange Nardi,</name>
+      <name function="presenter">Alexandre Devoise</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212161500 +0100" stop="20151212175000 +0100">
+    <length units="minutes">95</length>
     <title>Nos chers voisins</title>
     <category>Série</category>
     <desc>Problèmes de famille ou d'éducation, justice, religion, politique : la vie des voisins rebondit sur les sujets de société de manière drôle,... (Lire la suite).(n)</desc>
@@ -2607,41 +2446,219 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211204500 +0100" stop="20151211205500 +0100">
+  <programme channel="MTV" start="20151212175000 +0100" stop="20151212180000 +0100">
     <length units="minutes">10</length>
-    <title>C'est Canteloup</title>
-    <category>Divertissement</category>
-    <desc>Détournements d'images d'actualité, parodies, interviews décalées, Nicolas Canteloup propose une satire des faits marquants de la journée avec,... (Lire la suite).(n)</desc>
+    <title>L'affiche de la semaine</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212180000 +0100" stop="20151212184500 +0100">
+    <length units="minutes">45</length>
+    <title>Les douze coups de midi</title>
+    <category>Jeu</category>
+    <desc>Chaque jour, des candidats tentent de répondre à des questions ludiques et culturelles afin de gagner jusqu'à 30 000 euros. Mais attention, ils... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Nicolas Canteloup,</name>
-      <name function="presenter">Nikos Aliagas</name>
+      <name function="presenter">Jean-Luc Reichmann</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211205500 +0100" stop="20151211232500 +0100">
-    <length units="minutes">150</length>
-    <title>Les z'awards de la télé</title>
-    <category />
-    <desc>Arthur donne rendez-vous aux téléspectateurs pour une cérémonie de remise de prix en direct, avec la première édition des «Z'awards de la télé»,... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Arthur</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211232500 +0100" stop="20151211233000 +0100">
+  <programme channel="MTV" start="20151212184500 +0100" stop="20151212185000 +0100">
     <length units="minutes">5</length>
-    <title>Tirage de l'Euro Millions</title>
+    <title>Météo</title>
     <category />
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211233000 +0100" stop="20151212012500 +0100">
-    <length units="minutes">115</length>
-    <title>Vendredi, tout est permis avec Arthur</title>
-    <category>Divertissement</category>
-    <desc>Comme toujours, le «Vendredi, tout est permis avec Arthur» ! Et ce ne sont pas les célèbres invités du maître de céans qui diront le contraire,... (Lire la suite).(n)</desc>
+  <programme channel="MTV" start="20151212185000 +0100" stop="20151212190000 +0100">
+    <length units="minutes">10</length>
+    <title>L'affiche du jour</title>
+    <category>Magazine</category>
+    <desc>Un consultant raconte une histoire autour d'une rencontre sportive. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212190000 +0100" stop="20151212192000 +0100">
+    <length units="minutes">20</length>
+    <title>Journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Arthur</name>
+      <name function="presenter">Anne-Claire Coudray</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212192000 +0100" stop="20151212211000 +0100">
+    <length units="minutes">110</length>
+    <title>Reportages</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : Passion bricolage - Carrelage, peinture, menuiserie : les Français bricolent, par passion ou nécessité. Marie et Martin ont décidé... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Anne-Claire Coudray</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212211000 +0100" stop="20151212225500 +0100">
+    <length units="minutes">105</length>
+    <title>Les douze coups de Noël</title>
+    <category>Téléfilm</category>
+    <desc>Daniel Jacob Forsythe hante l'auberge familiale depuis son assassinat en 1920. L'endroit doit être vendu, mais tous les experts s'enfuient quand... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">David Jackson</name>
+      <name function="actor">Bates Wilder</name>
+      <name function="actor">Steven A Miller</name>
+      <name function="actor">Joanna Herrington</name>
+      <name function="actor">Jen Lilley</name>
+      <name function="actor">Thomas Beaudoin</name>
+      <name function="actor">Kati Salowsky</name>
+      <name function="actor">Brett Leigh</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212225500 +0100" stop="20151212233000 +0100">
+    <length units="minutes">35</length>
+    <title>Nos chers voisins</title>
+    <category>Téléfilm</category>
+    <desc>Problèmes de famille ou d'éducation, justice, religion, politique : la vie des voisins rebondit sur les sujets de société de manière drôle,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="actor">Martin Lamotte</name>
+      <name function="actor">Thierry Samitier</name>
+      <name function="actor">Isabelle Vitari</name>
+      <name function="actor">Jean-Baptiste Shelmerdine</name>
+      <name function="actor">Christelle Reboul</name>
+      <name function="actor">Gil Alma</name>
+      <name function="actor">Issa Doumbia</name>
+      <name function="actor">Damien Ferdel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212233000 +0100" stop="20151213003000 +0100">
+    <length units="minutes">60</length>
+    <title>50mn Inside</title>
+    <category>Magazine</category>
+    <desc>Un regard hebdomadaire sur l'actualité des stars. Au sommaire : (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Sandrine Quétier,</name>
+      <name function="presenter">Nikos Aliagas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213003000 +0100" stop="20151213010500 +0100">
+    <length units="minutes">35</length>
+    <title>Football (Tirage au sort de l'Euro 2016)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213010500 +0100" stop="20151213015000 +0100">
+    <length units="minutes">45</length>
+    <title>50mn Inside</title>
+    <category>Magazine</category>
+    <desc>Un regard hebdomadaire sur l'actualité des stars. Au sommaire : (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Sandrine Quétier,</name>
+      <name function="presenter">Nikos Aliagas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213015000 +0100" stop="20151213015500 +0100">
+    <length units="minutes">5</length>
+    <title>Là où je t'emmènerai</title>
+    <category>Magazine</category>
+    <desc>Une personnalité invite à découvrir l'endroit où elle rêverait d'emmener un être cher. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213015500 +0100" stop="20151213020000 +0100">
+    <length units="minutes">5</length>
+    <title>Météo</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213020000 +0100" stop="20151213023000 +0100">
+    <length units="minutes">30</length>
+    <title>Journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Anne-Claire Coudray</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213023000 +0100" stop="20151213023500 +0100">
+    <length units="minutes">5</length>
+    <title>Du côté de chez vous</title>
+    <category>Magazine</category>
+    <desc>Chalet cohabitation A la découverte de demeures aménagées avec imagination et ingéniosité. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213023500 +0100" stop="20151213023800 +0100">
+    <length units="minutes">3</length>
+    <title>Là où je t'emmènerai</title>
+    <category>Magazine</category>
+    <desc>Une personnalité invite à découvrir l'endroit où elle rêverait d'emmener un être cher. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213023800 +0100" stop="20151213024000 +0100">
+    <length units="minutes">2</length>
+    <title>Tirage du Loto</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213024000 +0100" stop="20151213024500 +0100">
+    <length units="minutes">5</length>
+    <title>Météo</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213024500 +0100" stop="20151213025500 +0100">
+    <length units="minutes">10</length>
+    <title>Nos chers voisins</title>
+    <category>Série</category>
+    <desc>Problèmes de famille ou d'éducation, justice, religion, politique : la vie des voisins rebondit sur les sujets de société de manière drôle,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Stephan Kopecky</name>
+      <name function="actor">Joy Esther</name>
+      <name function="actor">Jean-Baptiste Shelmerdine</name>
+      <name function="actor">Christelle Reboul</name>
+      <name function="actor">Gil Alma</name>
+      <name function="actor">Issa Doumbia</name>
+      <name function="actor">Damien Ferdel</name>
+      <name function="actor">Martin Lamotte</name>
+      <name function="actor">Thierry Samitier</name>
+      <name function="writer">Olivier Berclaz</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213025500 +0100" stop="20151213052500 +0100">
+    <length units="minutes">150</length>
+    <title>Danse avec les stars</title>
+    <category>Divertissement</category>
+    <desc>Ce soir, les couples se retrouvent après le switch. Chaque star sera invitée à danser sur la musique d'une année qui l'a marquée, puis les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Marie-Claude Pietragalla,</name>
+      <name function="presenter">Sandrine Quétier,</name>
+      <name function="presenter">Laurent Ournac,</name>
+      <name function="presenter">Chris Marques,</name>
+      <name function="presenter">Jean-Marc Généreux,</name>
+      <name function="presenter">Fauve Hautot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213052500 +0100" stop="20151213060500 +0100">
+    <length units="minutes">40</length>
+    <title>Danse avec les stars, la suite</title>
+    <category>Divertissement</category>
+    <desc>Sur Twitter #DALS. Sandrine Quétier et Laurent Ournac reviennent sur les temps forts de ce prime spécial switch, commentés par les juges et les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Marie-Claude Pietragalla,</name>
+      <name function="presenter">Sandrine Quétier,</name>
+      <name function="presenter">Guillaume Stanczyk,</name>
+      <name function="presenter">Laurent Ournac,</name>
+      <name function="presenter">Chris Marques,</name>
+      <name function="presenter">Jean-Marc Généreux,</name>
+      <name function="presenter">Fauve Hautot</name>
     </credits>
     <image />
   </programme>

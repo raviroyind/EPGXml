@@ -36,10 +36,18 @@
                     </div>
                 </div>
                 <div id="user-tools">
-                    <i class="icon-home"></i>
-                    <asp:Label ID="lblUser" runat="server" class="btn-high bold"></asp:Label>
-                    <i class="icon-lock" style="color: #ffffff;"></i>
-                    <asp:HyperLink runat="server" ID="hypUser" NavigateUrl="../default.aspx?id=lg" Text="Logout"></asp:HyperLink>
+                    <div class="row">
+                        <div >
+                            <i class="glyphicon glyphicon-user"></i>
+                            <asp:Label ID="lblUser" runat="server" class="btn-high bold"></asp:Label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="pull-right">
+                            <i class="glyphicon glyphicon-log-out"></i>
+                            <asp:HyperLink runat="server" ID="hypUser" NavigateUrl="../default.aspx?id=lg" Text="Logout"></asp:HyperLink>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -117,7 +125,9 @@
                                                                         <asp:RequiredFieldValidator runat="server" ID="RequiredFieldValidator3" ErrorMessage="User type is required!" Text="!" ForeColor="Red" ValidationGroup="add" InitialValue="S" ControlToValidate="ddlUserType"></asp:RequiredFieldValidator>
                                                                     </td>
                                                                     <td>
-                                                                        <asp:Button ID="btnAdd" runat="server" ValidationGroup="add" CausesValidation="True" CssClass="btn-small btn-primary" Text="+ Add" OnClick="Insert" />
+                                                                        <asp:LinkButton ID="btnLnkAdd" runat="server" ValidationGroup="add" CausesValidation="True" CssClass="btn btn-primary" Text="Add" OnClick="Insert">
+                                                                            <i class="glyphicon glyphicon-plus"></i> <span class="bold">  Add</span>
+                                                                        </asp:LinkButton>
                                                                     </td>
                                                                 </tr>
                                                             </table>
@@ -196,7 +206,7 @@
                     </div>
                 </div>
                 <div id="suit-left" class="suit-column">
-                     <div class="left-nav actions active" id="left-nav">
+                    <div class="left-nav actions active" id="left-nav">
                         <ul style="margin-left: 40px;">
                             <li>
                                 <asp:HyperLink runat="server" CssClass="bold info" ID="hypHome" NavigateUrl="../Admin/Dashboard.aspx" Text="Home"></asp:HyperLink>

@@ -1,441 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="France Ô">
-    <display-name>test</display-name>
+    <display-name>MTV</display-name>
   </channel>
-  <programme channel="test" start="20151205021000 +0100" stop="20151205032500 +0100">
-    <length units="minutes">75</length>
-    <title>American Gospel Junior</title>
-    <category>Spectacle</category>
-    <desc>Les chanteurs et musiciens d'American Gospel sont issus du célèbre show American Gospel pour 100 voix. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205032500 +0100" stop="20151205040000 +0100">
-    <length units="minutes">35</length>
-    <title>Couleurs outremers</title>
-    <category>Magazine</category>
-    <desc>Les bonbons artisanaux à Saint-Martin Les petites histoires qui font le sel de l'outre-mer. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205040000 +0100" stop="20151205044000 +0100">
-    <length units="minutes">40</length>
-    <title>Infô soir</title>
-    <category>Journal</category>
-    <desc>Accompagné par Karine Sigaud-Zabulon ou Marie Radovic, Cyriaque Sommier présente l'actualité ultramarine. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Cyriaque Sommier</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205044000 +0100" stop="20151205050500 +0100">
-    <length units="minutes">25</length>
-    <title>Journal Polynésie</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205050500 +0100" stop="20151205052000 +0100">
-    <length units="minutes">15</length>
-    <title>JT Wallis tout en images (en français)</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205052000 +0100" stop="20151205053500 +0100">
-    <length units="minutes">15</length>
-    <title>Le 19h30</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205053500 +0100" stop="20151205054500 +0100">
-    <length units="minutes">10</length>
-    <title>Le journal de Saint-Pierre-et-Miquelon</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205054500 +0100" stop="20151205061000 +0100">
-    <length units="minutes">25</length>
-    <title>Journal de Mayotte</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205061000 +0100" stop="20151205064000 +0100">
-    <length units="minutes">30</length>
-    <title>Couleurs outremers</title>
-    <category>Magazine</category>
-    <desc>Le facteur de Mafate à La Réunion Les petites histoires qui font le sel de l'outre-mer. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205064000 +0100" stop="20151205070500 +0100">
-    <length units="minutes">25</length>
-    <title>Couleurs outremers</title>
-    <category>Magazine</category>
-    <desc>Saul au coeur de la forêt guyanaise Les petites histoires qui font le sel de l'outre-mer. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205070500 +0100" stop="20151205073500 +0100">
-    <length units="minutes">30</length>
-    <title>Couleurs outremers</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : Les bwa-bwas de la Martinique - Les bwa-bwas sont des marionnettes, à l'origine fabriquées en bois, porteuses de la tradition... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205073500 +0100" stop="20151205080500 +0100">
-    <length units="minutes">30</length>
-    <title>Couleurs outremers</title>
-    <category>Magazine</category>
-    <desc>Bois d'Inde en Guadeloupe Les petites histoires qui font le sel de l'outre-mer. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205080500 +0100" stop="20151205083000 +0100">
-    <length units="minutes">25</length>
-    <title>Riding Zone</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : Immersion : Sports extrêmes, une affaire de famille - De père en fils, de mère en fille ou entre frères et soeurs, les sports... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Tiga</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205083000 +0100" stop="20151205090000 +0100">
-    <length units="minutes">30</length>
-    <title>Riding Zone</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : Immersion : Les têtes brûlées des sports extrêmes - Zoon sur des athlètes à part dans l'univers des sports extrêmes. Ce sont des... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Tiga</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205090000 +0100" stop="20151205092500 +0100">
-    <length units="minutes">25</length>
-    <title>Riding Zone</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Tiga</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205092500 +0100" stop="20151205095500 +0100">
-    <length units="minutes">30</length>
-    <title>Riding Zone</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : Immersion : France, l'attaque des trotiriders - Jeune discipline pratiquée dans la France entière par des millions de personnes, la... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Tiga</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205095500 +0100" stop="20151205102000 +0100">
-    <length units="minutes">25</length>
-    <title>Les sirènes de Mako</title>
-    <category>Série</category>
-    <desc>Une nuit de pleine lune, Zac part camper avec son père sur l'île de Mako. Erik décide de se joindre à l'expédition, tandis que les trois sirènes... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Evan Clarry</name>
-      <name function="actor">Victor Parascos</name>
-      <name function="actor">Gemma Forsyth</name>
-      <name function="actor">Allie Bertram</name>
-      <name function="actor">Amy Ruffle</name>
-      <name function="actor">Chai Romruen</name>
-      <name function="actor">Dominic Deutscher</name>
-      <name function="actor">Rowan Hills</name>
-      <name function="actor">Isabel Durant</name>
-      <name function="writer">Evan Clarry</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205102000 +0100" stop="20151205104000 +0100">
-    <length units="minutes">20</length>
-    <title>Les sirènes de Mako</title>
-    <category>Série</category>
-    <desc>Mimmi s'interroge sur le monde terrestre et décide de passer une journée à l'école de Zac et Evie. La sirène se fait rapidement remarquer et se... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Evan Clarry</name>
-      <name function="actor">Kerith Atkinson</name>
-      <name function="actor">Gemma Forsyth</name>
-      <name function="actor">Allie Bertram</name>
-      <name function="actor">Amy Ruffle</name>
-      <name function="actor">Chai Romruen</name>
-      <name function="actor">Dominic Deutscher</name>
-      <name function="actor">Rowan Hills</name>
-      <name function="actor">Isabel Durant</name>
-      <name function="writer">Anthony Morris</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205104000 +0100" stop="20151205111000 +0100">
-    <length units="minutes">30</length>
-    <title>Les sirènes de Mako</title>
-    <category>Série</category>
-    <desc>Ondina supplie le Conseil des sirènes de lui laisser jusqu'à la prochaine pleine lune pour redonner forme humaine à Zac. Neppy, une jeune sirène... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Evan Clarry</name>
-      <name function="actor">Gemma Forsyth</name>
-      <name function="actor">Allie Bertram</name>
-      <name function="actor">Amy Ruffle</name>
-      <name function="actor">Chai Romruen</name>
-      <name function="actor">Dominic Deutscher</name>
-      <name function="actor">Rowan Hills</name>
-      <name function="actor">Isabel Durant</name>
-      <name function="actor">Kerith Atkinson</name>
-      <name function="writer">Margaret Wilson</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205111000 +0100" stop="20151205113500 +0100">
-    <length units="minutes">25</length>
-    <title>Les sirènes de Mako</title>
-    <category>Série</category>
-    <desc>A la recherche de la montre perdue de son père, Evie plonge dans la marina. David l'aperçoit et raconte à qui veut bien l'entendre qu'il a vu une... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Evan Clarry</name>
-      <name function="actor">Gemma Forsyth</name>
-      <name function="actor">Allie Bertram</name>
-      <name function="actor">Amy Ruffle</name>
-      <name function="actor">Chai Romruen</name>
-      <name function="actor">Dominic Deutscher</name>
-      <name function="actor">Rowan Hills</name>
-      <name function="actor">Isabel Durant</name>
-      <name function="actor">Nick Wright</name>
-      <name function="writer">Chris Hawkshaw</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205113500 +0100" stop="20151205115500 +0100">
-    <length units="minutes">20</length>
-    <title>Les sirènes de Mako</title>
-    <category>Série</category>
-    <desc>Rita tombe sous le charme du nouveau directeur du parc aquatique. De leur côté, Sirena et Mimmi créent une lotion révolutionnaire : elle rajeunit... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Evan Clarry</name>
-      <name function="actor">Kerith Atkinson</name>
-      <name function="actor">Gemma Forsyth</name>
-      <name function="actor">Allie Bertram</name>
-      <name function="actor">Amy Ruffle</name>
-      <name function="actor">Chai Romruen</name>
-      <name function="actor">Dominic Deutscher</name>
-      <name function="actor">Rowan Hills</name>
-      <name function="actor">Isabel Durant</name>
-      <name function="writer">Max Dann</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205115500 +0100" stop="20151205132500 +0100">
-    <length units="minutes">90</length>
-    <title>La smala s'en mêle</title>
-    <category>Téléfilm</category>
-    <desc>A l'approche de la cinquantaine, Isabelle Garnier croit faire enfin ses premiers pas vers la sérénité, malgré son divorce et les coups bas de son... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Didier Grousset</name>
-      <name function="actor">Katia Tchenko</name>
-      <name function="actor">Thomas Doucet</name>
-      <name function="actor">Michèle Bernier</name>
-      <name function="actor">Julie de Bona</name>
-      <name function="actor">Julie Victor</name>
-      <name function="actor">Marc Grosy</name>
-      <name function="actor">Rémi Yen</name>
-      <name function="actor">Mariama Gueye</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205132500 +0100" stop="20151205152500 +0100">
-    <length units="minutes">120</length>
-    <title>Football (AC Ajaccio (L2) / Excelsior (DH Réunion))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205152500 +0100" stop="20151205174000 +0100">
-    <length units="minutes">135</length>
-    <title>Football (Besançon (CFA) / Golden Lion (DH Martinique))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205174000 +0100" stop="20151205183000 +0100">
-    <length units="minutes">50</length>
-    <title>Chemins d'école, chemins de tous les dangers</title>
-    <category>Documentaire</category>
-    <desc>Les enfants des Tsaatan, peuple nomade des forêts du Nord de la Mongolie, doivent parfois parcourir dix kilomètres à pied pour se rendre à... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Karsten Scheuren</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205183000 +0100" stop="20151205183800 +0100">
-    <length units="minutes">8</length>
-    <title>Infô soir</title>
-    <category>Journal</category>
-    <desc>Accompagné par Karine Sigaud-Zabulon ou Marie Radovic, Cyriaque Sommier présente l'actualité ultramarine. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Cyriaque Sommier</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205183800 +0100" stop="20151205184000 +0100">
-    <length units="minutes">2</length>
-    <title>Météo</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205184000 +0100" stop="20151205184500 +0100">
-    <length units="minutes">5</length>
-    <title>Champions de France</title>
-    <category>Documentaire</category>
-    <desc>Portraits de sportifs français, d'origines diverses, et devenus champions, des Jeux olympiques de 1896 à nos jours. (Lire la suite).</desc>
-    <credits>
-      <name function="director">Rachid Bouchareb</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205184500 +0100" stop="20151205191000 +0100">
-    <length units="minutes">25</length>
-    <title>H</title>
-    <category>Série</category>
-    <desc>Marc, le nouvel assistant en chirurgie, ne laisse pas Clara indifférente, loin de là. Mais la perspective d'une relation amoureuse au sein de son... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Jean-Luc Moreau</name>
-      <name function="actor">Sophie Mounicot</name>
-      <name function="actor">Jamel Debbouze</name>
-      <name function="actor">Eric Judor</name>
-      <name function="actor">Catherine Benguigui</name>
-      <name function="actor">Ramzy Bedia</name>
-      <name function="actor">Jean-Luc Bideau</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205191000 +0100" stop="20151205193000 +0100">
-    <length units="minutes">20</length>
-    <title>H</title>
-    <category>Série</category>
-    <desc>Le professeur Strauss a invité Sabri à participer à un week-end de chasse entre hommes. Béatrice sème le doute dans l'esprit de Sabri quant aux... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Charles Nemes</name>
-      <name function="actor">Sophie Mounicot</name>
-      <name function="actor">Jamel Debbouze</name>
-      <name function="actor">Eric Judor</name>
-      <name function="actor">Catherine Benguigui</name>
-      <name function="actor">Ramzy Bedia</name>
-      <name function="actor">Edgar Givry</name>
-      <name function="actor">Jean-Luc Bideau</name>
-      <name function="writer">Eric Lavaine</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205193000 +0100" stop="20151205195500 +0100">
-    <length units="minutes">25</length>
-    <title>H</title>
-    <category>Série</category>
-    <desc>Sabri s'est découvert une nouvelle passion : la cuisine. Il entreprend de confectionner une omelette aux champignons, qu'il s'empresse de faire... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Jean-Luc Moreau</name>
-      <name function="actor">Sophie Mounicot</name>
-      <name function="actor">Jamel Debbouze</name>
-      <name function="actor">Eric Judor</name>
-      <name function="actor">Catherine Benguigui</name>
-      <name function="actor">Ramzy Bedia</name>
-      <name function="actor">Jean-Luc Bideau</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205195500 +0100" stop="20151205202500 +0100">
-    <length units="minutes">30</length>
-    <title>H</title>
-    <category>Série</category>
-    <desc>Richard Gotainer doit être hospitalisé pour une artérite et le professeur Strauss se demande s'il doit, oui ou non, l'amputer. De leur côté,... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Charles Nemes</name>
-      <name function="actor">Jamel Debbouze</name>
-      <name function="actor">Eric Judor</name>
-      <name function="actor">Ramzy Bedia</name>
-      <name function="actor">Laurent Boyer</name>
-      <name function="actor">Richard Gotainer</name>
-      <name function="actor">Christine Ockrent</name>
-      <name function="actor">Alain de Greef</name>
-      <name function="actor">Jean-Luc Bideau</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205202500 +0100" stop="20151205204500 +0100">
-    <length units="minutes">20</length>
-    <title>H</title>
-    <category>Série</category>
-    <desc>L'opération «Flacon rouge», destinée à récolter du sang, est lancée au sein de l'hôpital. Mais certains rechignent à s'y prêter de bonne grâce,... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Edouard Molinaro</name>
-      <name function="actor">Niels Dubost</name>
-      <name function="actor">Sophie Mounicot</name>
-      <name function="actor">Jamel Debbouze</name>
-      <name function="actor">Eric Judor</name>
-      <name function="actor">Catherine Benguigui</name>
-      <name function="actor">Ramzy Bedia</name>
-      <name function="actor">Axelle Laffont</name>
-      <name function="actor">Jean-Luc Bideau</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205204500 +0100" stop="20151205221000 +0100">
-    <length units="minutes">85</length>
-    <title>Le fils du dragon</title>
-    <category>Téléfilm</category>
-    <desc>Parce qu'il a été abandonné dès sa naissance, le jeune Devil Boy - surnommé DB par ses amis - a dû apprendre à vivre dans les rues. Il a grandi... (Lire la suite).</desc>
-    <credits>
-      <name function="director">David Wu</name>
-      <name function="actor">Rupert Graves</name>
-      <name function="actor">Kay Tong Lim</name>
-      <name function="actor">John Reardon</name>
-      <name function="actor">Eddy Ko</name>
-      <name function="actor">David Carradine</name>
-      <name function="actor">Nitin Ganatra</name>
-      <name function="actor">Desiree Ann Siahaan</name>
-      <name function="actor">Theresa Lee</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205221000 +0100" stop="20151205233500 +0100">
-    <length units="minutes">85</length>
-    <title>Le fils du dragon</title>
-    <category>Téléfilm</category>
-    <desc>Parce qu'il a grandi dans la rue, DB a développé une réelle capacité à se sortir de toutes les situations. Mais les supercheries qu'il a... (Lire la suite).</desc>
-    <credits>
-      <name function="director">David Wu</name>
-      <name function="actor">Rupert Graves</name>
-      <name function="actor">Kay Tong Lim</name>
-      <name function="actor">John Reardon</name>
-      <name function="actor">Eddy Ko</name>
-      <name function="actor">David Carradine</name>
-      <name function="actor">Nitin Ganatra</name>
-      <name function="actor">Desiree Ann Siahaan</name>
-      <name function="actor">Theresa Lee</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205233500 +0100" stop="20151206002500 +0100">
-    <length units="minutes">50</length>
-    <title>Crossbones</title>
-    <category>Série</category>
-    <desc>L'HMS Petrel glisse sur les eaux pour gagner l'Angleterre. A bord, Tom Lowe, un espion anglais chargé de garder un oeil sur un outil de... (Lire la suite).</desc>
-    <credits>
-      <name function="director">David Slade</name>
-      <name function="actor">John Malkovich</name>
-      <name function="actor">David Hoflin</name>
-      <name function="actor">Richard Coyle</name>
-      <name function="actor">Peter Stebbings</name>
-      <name function="actor">Claire Foy</name>
-      <name function="actor">Tracy Ifeachor</name>
-      <name function="actor">Yasmine Al Massri</name>
-      <name function="actor">Chris Perfetti</name>
-      <name function="writer">Neil Cross</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206002500 +0100" stop="20151206010500 +0100">
+  <programme channel="MTV" start="20151206062500 +0100" stop="20151206070500 +0100">
     <length units="minutes">40</length>
     <title>Crossbones</title>
     <category>Série</category>
@@ -454,7 +22,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206010500 +0100" stop="20151206014500 +0100">
+  <programme channel="MTV" start="20151206070500 +0100" stop="20151206074500 +0100">
     <length units="minutes">40</length>
     <title>Crossbones</title>
     <category>Série</category>
@@ -473,21 +41,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206014500 +0100" stop="20151206040500 +0100">
+  <programme channel="MTV" start="20151206074500 +0100" stop="20151206100500 +0100">
     <length units="minutes">140</length>
     <title>Mandela, une humanité</title>
     <category>Concert</category>
     <desc>Retour sur les moments les plus intenses des deux concerts donnés en 1988 et 1990 en l'honneur de Nelson Mandela. On se souvient que de très... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206040500 +0100" stop="20151206044000 +0100">
+  <programme channel="MTV" start="20151206100500 +0100" stop="20151206104000 +0100">
     <length units="minutes">35</length>
     <title>Couleurs outremers</title>
     <category>Magazine</category>
     <desc>Christophe, peintre de Martinique Les petites histoires qui font le sel de l'outre-mer. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206044000 +0100" stop="20151206045000 +0100">
+  <programme channel="MTV" start="20151206104000 +0100" stop="20151206105000 +0100">
     <length units="minutes">10</length>
     <title>Infô soir</title>
     <category>Journal</category>
@@ -497,70 +65,70 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206045000 +0100" stop="20151206051500 +0100">
+  <programme channel="MTV" start="20151206105000 +0100" stop="20151206111500 +0100">
     <length units="minutes">25</length>
     <title>Journal Polynésie</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206051500 +0100" stop="20151206052500 +0100">
+  <programme channel="MTV" start="20151206111500 +0100" stop="20151206112500 +0100">
     <length units="minutes">10</length>
     <title>JTI Wallis-et-Futuna</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206052500 +0100" stop="20151206054000 +0100">
+  <programme channel="MTV" start="20151206112500 +0100" stop="20151206114000 +0100">
     <length units="minutes">15</length>
     <title>Le 19h30</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206054000 +0100" stop="20151206055000 +0100">
+  <programme channel="MTV" start="20151206114000 +0100" stop="20151206115000 +0100">
     <length units="minutes">10</length>
     <title>Le journal de Saint-Pierre-et-Miquelon</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206055000 +0100" stop="20151206060000 +0100">
+  <programme channel="MTV" start="20151206115000 +0100" stop="20151206120000 +0100">
     <length units="minutes">10</length>
     <title>JTI W.E. français</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206060000 +0100" stop="20151206063500 +0100">
+  <programme channel="MTV" start="20151206120000 +0100" stop="20151206123500 +0100">
     <length units="minutes">35</length>
     <title>JT Réunion</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206063500 +0100" stop="20151206070000 +0100">
+  <programme channel="MTV" start="20151206123500 +0100" stop="20151206130000 +0100">
     <length units="minutes">25</length>
     <title>Le journal Guyane</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206070000 +0100" stop="20151206073000 +0100">
+  <programme channel="MTV" start="20151206130000 +0100" stop="20151206133000 +0100">
     <length units="minutes">30</length>
     <title>JT Soir Martinique</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206073000 +0100" stop="20151206080000 +0100">
+  <programme channel="MTV" start="20151206133000 +0100" stop="20151206140000 +0100">
     <length units="minutes">30</length>
     <title>Le journal Guadeloupe</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206080000 +0100" stop="20151206082500 +0100">
+  <programme channel="MTV" start="20151206140000 +0100" stop="20151206142500 +0100">
     <length units="minutes">25</length>
     <title>Riding Zone</title>
     <category>Magazine</category>
@@ -570,7 +138,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206082500 +0100" stop="20151206090000 +0100">
+  <programme channel="MTV" start="20151206142500 +0100" stop="20151206150000 +0100">
     <length units="minutes">35</length>
     <title>Riding Zone</title>
     <category>Magazine</category>
@@ -580,7 +148,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206090000 +0100" stop="20151206092000 +0100">
+  <programme channel="MTV" start="20151206150000 +0100" stop="20151206152000 +0100">
     <length units="minutes">20</length>
     <title>Riding Zone</title>
     <category>Magazine</category>
@@ -590,7 +158,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206092000 +0100" stop="20151206095500 +0100">
+  <programme channel="MTV" start="20151206152000 +0100" stop="20151206155500 +0100">
     <length units="minutes">35</length>
     <title>Riding Zone</title>
     <category>Magazine</category>
@@ -600,7 +168,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206095500 +0100" stop="20151206101500 +0100">
+  <programme channel="MTV" start="20151206155500 +0100" stop="20151206161500 +0100">
     <length units="minutes">20</length>
     <title>Cut</title>
     <category>Série</category>
@@ -617,7 +185,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206101500 +0100" stop="20151206104000 +0100">
+  <programme channel="MTV" start="20151206161500 +0100" stop="20151206164000 +0100">
     <length units="minutes">25</length>
     <title>Cut</title>
     <category>Série</category>
@@ -634,7 +202,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206104000 +0100" stop="20151206110500 +0100">
+  <programme channel="MTV" start="20151206164000 +0100" stop="20151206170500 +0100">
     <length units="minutes">25</length>
     <title>Cut</title>
     <category>Série</category>
@@ -651,7 +219,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206110500 +0100" stop="20151206113500 +0100">
+  <programme channel="MTV" start="20151206170500 +0100" stop="20151206173500 +0100">
     <length units="minutes">30</length>
     <title>Cut</title>
     <category>Série</category>
@@ -668,7 +236,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206113500 +0100" stop="20151206120000 +0100">
+  <programme channel="MTV" start="20151206173500 +0100" stop="20151206180000 +0100">
     <length units="minutes">25</length>
     <title>Cut</title>
     <category>Série</category>
@@ -685,7 +253,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206120000 +0100" stop="20151206122500 +0100">
+  <programme channel="MTV" start="20151206180000 +0100" stop="20151206182500 +0100">
     <length units="minutes">25</length>
     <title>Cut</title>
     <category>Série</category>
@@ -702,14 +270,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206122500 +0100" stop="20151206123000 +0100">
+  <programme channel="MTV" start="20151206182500 +0100" stop="20151206183000 +0100">
     <length units="minutes">5</length>
     <title>La famille Millevoies, à chacun son métier</title>
     <category>Magazine</category>
     <desc>Frigoriste Par le biais de questions d'enfants à leurs parents, présentation de la richesse et de la diversité des métiers de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206123000 +0100" stop="20151206124500 +0100">
+  <programme channel="MTV" start="20151206183000 +0100" stop="20151206184500 +0100">
     <length units="minutes">15</length>
     <title>Page 19</title>
     <category>Magazine</category>
@@ -719,7 +287,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206124500 +0100" stop="20151206144000 +0100">
+  <programme channel="MTV" start="20151206184500 +0100" stop="20151206204000 +0100">
     <length units="minutes">115</length>
     <title>Passion outre-mer</title>
     <category>Magazine</category>
@@ -729,7 +297,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206144000 +0100" stop="20151206154000 +0100">
+  <programme channel="MTV" start="20151206204000 +0100" stop="20151206214000 +0100">
     <length units="minutes">60</length>
     <title>Archipels</title>
     <category>Magazine</category>
@@ -739,7 +307,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206154000 +0100" stop="20151206163500 +0100">
+  <programme channel="MTV" start="20151206214000 +0100" stop="20151206223500 +0100">
     <length units="minutes">55</length>
     <title>Archipels</title>
     <category>Magazine</category>
@@ -749,7 +317,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206163500 +0100" stop="20151206173000 +0100">
+  <programme channel="MTV" start="20151206223500 +0100" stop="20151206233000 +0100">
     <length units="minutes">55</length>
     <title>Les aventuriers d'ExplÔ</title>
     <category>Magazine</category>
@@ -759,7 +327,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206173000 +0100" stop="20151206183000 +0100">
+  <programme channel="MTV" start="20151206233000 +0100" stop="20151207003000 +0100">
     <length units="minutes">60</length>
     <title>Les aventuriers d'ExplÔ</title>
     <category>Magazine</category>
@@ -769,7 +337,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206183000 +0100" stop="20151206184000 +0100">
+  <programme channel="MTV" start="20151207003000 +0100" stop="20151207004000 +0100">
     <length units="minutes">10</length>
     <title>Infô soir</title>
     <category>Journal</category>
@@ -779,7 +347,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206184000 +0100" stop="20151206185400 +0100">
+  <programme channel="MTV" start="20151207004000 +0100" stop="20151207005400 +0100">
     <length units="minutes">14</length>
     <title>Couleurs sport</title>
     <category>Magazine</category>
@@ -789,14 +357,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206185400 +0100" stop="20151206185500 +0100">
+  <programme channel="MTV" start="20151207005400 +0100" stop="20151207005500 +0100">
     <length units="minutes">1</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206185500 +0100" stop="20151206192500 +0100">
+  <programme channel="MTV" start="20151207005500 +0100" stop="20151207012500 +0100">
     <length units="minutes">30</length>
     <title>Bondy blog inside</title>
     <category>Documentaire</category>
@@ -806,7 +374,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206192500 +0100" stop="20151206195000 +0100">
+  <programme channel="MTV" start="20151207012500 +0100" stop="20151207015000 +0100">
     <length units="minutes">25</length>
     <title>Bondy blog inside</title>
     <category>Documentaire</category>
@@ -816,7 +384,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206195000 +0100" stop="20151206204500 +0100">
+  <programme channel="MTV" start="20151207015000 +0100" stop="20151207024500 +0100">
     <length units="minutes">55</length>
     <title>Folin Hebdô</title>
     <category>Talk show</category>
@@ -826,7 +394,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206204500 +0100" stop="20151206223500 +0100">
+  <programme channel="MTV" start="20151207024500 +0100" stop="20151207043500 +0100">
     <length units="minutes">110</length>
     <title>Passion outre-mer</title>
     <category>Magazine</category>
@@ -836,7 +404,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206223500 +0100" stop="20151206232500 +0100">
+  <programme channel="MTV" start="20151207043500 +0100" stop="20151207052500 +0100">
     <length units="minutes">50</length>
     <title>Les enfants de la mer</title>
     <category>Documentaire</category>
@@ -846,7 +414,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206232500 +0100" stop="20151207002000 +0100">
+  <programme channel="MTV" start="20151207052500 +0100" stop="20151207062000 +0100">
     <length units="minutes">55</length>
     <title>Les enfants de la mer</title>
     <category>Documentaire</category>
@@ -856,7 +424,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207002000 +0100" stop="20151207011500 +0100">
+  <programme channel="MTV" start="20151207062000 +0100" stop="20151207071500 +0100">
     <length units="minutes">55</length>
     <title>Vanuatu, le symbole de l'urgence climatique</title>
     <category>Documentaire</category>
@@ -866,7 +434,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207011500 +0100" stop="20151207024500 +0100">
+  <programme channel="MTV" start="20151207071500 +0100" stop="20151207084500 +0100">
     <length units="minutes">90</length>
     <title>Climat 2015, un océan de solutions</title>
     <category />
@@ -876,7 +444,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207024500 +0100" stop="20151207031000 +0100">
+  <programme channel="MTV" start="20151207084500 +0100" stop="20151207091000 +0100">
     <length units="minutes">25</length>
     <title>Bondy blog inside</title>
     <category>Documentaire</category>
@@ -886,7 +454,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207031000 +0100" stop="20151207033500 +0100">
+  <programme channel="MTV" start="20151207091000 +0100" stop="20151207093500 +0100">
     <length units="minutes">25</length>
     <title>Bondy blog inside</title>
     <category>Documentaire</category>
@@ -896,14 +464,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207033500 +0100" stop="20151207040000 +0100">
+  <programme channel="MTV" start="20151207093500 +0100" stop="20151207100000 +0100">
     <length units="minutes">25</length>
     <title>Couleurs outremers</title>
     <category>Magazine</category>
     <desc>Steel pan à Saint-Martin Les petites histoires qui font le sel de l'outre-mer. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207040000 +0100" stop="20151207042500 +0100">
+  <programme channel="MTV" start="20151207100000 +0100" stop="20151207102500 +0100">
     <length units="minutes">25</length>
     <title>Couleurs outremers</title>
     <category>Magazine</category>
@@ -913,7 +481,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207042500 +0100" stop="20151207044500 +0100">
+  <programme channel="MTV" start="20151207102500 +0100" stop="20151207104500 +0100">
     <length units="minutes">20</length>
     <title>Infô soir</title>
     <category>Journal</category>
@@ -923,70 +491,70 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207044500 +0100" stop="20151207051000 +0100">
+  <programme channel="MTV" start="20151207104500 +0100" stop="20151207111000 +0100">
     <length units="minutes">25</length>
     <title>Journal Polynésie</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207051000 +0100" stop="20151207052000 +0100">
+  <programme channel="MTV" start="20151207111000 +0100" stop="20151207112000 +0100">
     <length units="minutes">10</length>
     <title>JTI Wallis-et-Futuna</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207052000 +0100" stop="20151207053500 +0100">
+  <programme channel="MTV" start="20151207112000 +0100" stop="20151207113500 +0100">
     <length units="minutes">15</length>
     <title>Le 19h30</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207053500 +0100" stop="20151207054500 +0100">
+  <programme channel="MTV" start="20151207113500 +0100" stop="20151207114500 +0100">
     <length units="minutes">10</length>
     <title>Le journal de Saint-Pierre-et-Miquelon</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207054500 +0100" stop="20151207055500 +0100">
+  <programme channel="MTV" start="20151207114500 +0100" stop="20151207115500 +0100">
     <length units="minutes">10</length>
     <title>JTI W.E. français</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207055500 +0100" stop="20151207063000 +0100">
+  <programme channel="MTV" start="20151207115500 +0100" stop="20151207123000 +0100">
     <length units="minutes">35</length>
     <title>JT Réunion</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207063000 +0100" stop="20151207065500 +0100">
+  <programme channel="MTV" start="20151207123000 +0100" stop="20151207125500 +0100">
     <length units="minutes">25</length>
     <title>Le journal Guyane</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207065500 +0100" stop="20151207072500 +0100">
+  <programme channel="MTV" start="20151207125500 +0100" stop="20151207132500 +0100">
     <length units="minutes">30</length>
     <title>JT Soir Martinique</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207072500 +0100" stop="20151207075500 +0100">
+  <programme channel="MTV" start="20151207132500 +0100" stop="20151207135500 +0100">
     <length units="minutes">30</length>
     <title>Le journal Guadeloupe</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207075500 +0100" stop="20151207085500 +0100">
+  <programme channel="MTV" start="20151207135500 +0100" stop="20151207145500 +0100">
     <length units="minutes">60</length>
     <title>Bonjour Madame le commandant</title>
     <category>Documentaire</category>
@@ -996,7 +564,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207085500 +0100" stop="20151207094000 +0100">
+  <programme channel="MTV" start="20151207145500 +0100" stop="20151207154000 +0100">
     <length units="minutes">45</length>
     <title>Une vie volée</title>
     <category>Feuilleton</category>
@@ -1015,7 +583,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207094000 +0100" stop="20151207102500 +0100">
+  <programme channel="MTV" start="20151207154000 +0100" stop="20151207162500 +0100">
     <length units="minutes">45</length>
     <title>Une vie volée</title>
     <category>Feuilleton</category>
@@ -1034,7 +602,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207102500 +0100" stop="20151207111000 +0100">
+  <programme channel="MTV" start="20151207162500 +0100" stop="20151207171000 +0100">
     <length units="minutes">45</length>
     <title>Amour à Manhattan</title>
     <category>Feuilleton</category>
@@ -1049,7 +617,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207111000 +0100" stop="20151207120000 +0100">
+  <programme channel="MTV" start="20151207171000 +0100" stop="20151207180000 +0100">
     <length units="minutes">50</length>
     <title>Amour à Manhattan</title>
     <category>Feuilleton</category>
@@ -1064,7 +632,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207120000 +0100" stop="20151207121000 +0100">
+  <programme channel="MTV" start="20151207180000 +0100" stop="20151207181000 +0100">
     <length units="minutes">10</length>
     <title>Infô midi</title>
     <category>Journal</category>
@@ -1074,14 +642,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207121000 +0100" stop="20151207122000 +0100">
+  <programme channel="MTV" start="20151207181000 +0100" stop="20151207182000 +0100">
     <length units="minutes">10</length>
     <title>Outremer tout court</title>
     <category>Documentaire</category>
     <desc>Un lagon de rêve (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207122000 +0100" stop="20151207124500 +0100">
+  <programme channel="MTV" start="20151207182000 +0100" stop="20151207184500 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -1098,7 +666,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207124500 +0100" stop="20151207131000 +0100">
+  <programme channel="MTV" start="20151207184500 +0100" stop="20151207191000 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -1115,7 +683,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207131000 +0100" stop="20151207133500 +0100">
+  <programme channel="MTV" start="20151207191000 +0100" stop="20151207193500 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -1132,7 +700,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207133500 +0100" stop="20151207140500 +0100">
+  <programme channel="MTV" start="20151207193500 +0100" stop="20151207200500 +0100">
     <length units="minutes">30</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -1149,7 +717,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207140500 +0100" stop="20151207143000 +0100">
+  <programme channel="MTV" start="20151207200500 +0100" stop="20151207203000 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -1166,7 +734,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207143000 +0100" stop="20151207145500 +0100">
+  <programme channel="MTV" start="20151207203000 +0100" stop="20151207205500 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -1183,7 +751,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207145500 +0100" stop="20151207152000 +0100">
+  <programme channel="MTV" start="20151207205500 +0100" stop="20151207212000 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -1200,7 +768,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207152000 +0100" stop="20151207154000 +0100">
+  <programme channel="MTV" start="20151207212000 +0100" stop="20151207214000 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -1219,7 +787,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207154000 +0100" stop="20151207160500 +0100">
+  <programme channel="MTV" start="20151207214000 +0100" stop="20151207220500 +0100">
     <length units="minutes">25</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -1238,7 +806,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207160500 +0100" stop="20151207162500 +0100">
+  <programme channel="MTV" start="20151207220500 +0100" stop="20151207222500 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -1257,7 +825,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207162500 +0100" stop="20151207165000 +0100">
+  <programme channel="MTV" start="20151207222500 +0100" stop="20151207225000 +0100">
     <length units="minutes">25</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -1276,7 +844,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207165000 +0100" stop="20151207171000 +0100">
+  <programme channel="MTV" start="20151207225000 +0100" stop="20151207231000 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -1295,7 +863,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207171000 +0100" stop="20151207173500 +0100">
+  <programme channel="MTV" start="20151207231000 +0100" stop="20151207233500 +0100">
     <length units="minutes">25</length>
     <title>Cut</title>
     <category>Série</category>
@@ -1312,7 +880,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207173500 +0100" stop="20151207180000 +0100">
+  <programme channel="MTV" start="20151207233500 +0100" stop="20151208000000 +0100">
     <length units="minutes">25</length>
     <title>Cut</title>
     <category>Série</category>
@@ -1329,7 +897,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207180000 +0100" stop="20151207183000 +0100">
+  <programme channel="MTV" start="20151208000000 +0100" stop="20151208003000 +0100">
     <length units="minutes">30</length>
     <title>Cut</title>
     <category>Série</category>
@@ -1346,7 +914,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207183000 +0100" stop="20151207185000 +0100">
+  <programme channel="MTV" start="20151208003000 +0100" stop="20151208005000 +0100">
     <length units="minutes">20</length>
     <title>Infô soir</title>
     <category>Journal</category>
@@ -1356,14 +924,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207185000 +0100" stop="20151207185500 +0100">
+  <programme channel="MTV" start="20151208005000 +0100" stop="20151208005500 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207185500 +0100" stop="20151207192000 +0100">
+  <programme channel="MTV" start="20151208005500 +0100" stop="20151208012000 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -1380,7 +948,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207192000 +0100" stop="20151207194000 +0100">
+  <programme channel="MTV" start="20151208012000 +0100" stop="20151208014000 +0100">
     <length units="minutes">20</length>
     <title>H</title>
     <category>Série</category>
@@ -1396,7 +964,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207194000 +0100" stop="20151207201500 +0100">
+  <programme channel="MTV" start="20151208014000 +0100" stop="20151208021500 +0100">
     <length units="minutes">35</length>
     <title>H</title>
     <category>Série</category>
@@ -1412,7 +980,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207201500 +0100" stop="20151207204000 +0100">
+  <programme channel="MTV" start="20151208021500 +0100" stop="20151208024000 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -1427,7 +995,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207204000 +0100" stop="20151207204500 +0100">
+  <programme channel="MTV" start="20151208024000 +0100" stop="20151208024500 +0100">
     <length units="minutes">5</length>
     <title>Les dessous de l'océan</title>
     <category>Magazine</category>
@@ -1437,7 +1005,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207204500 +0100" stop="20151207230500 +0100">
+  <programme channel="MTV" start="20151208024500 +0100" stop="20151208050500 +0100">
     <length units="minutes">140</length>
     <title>Papillon (?)</title>
     <category>Film</category>
@@ -1455,7 +1023,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207230500 +0100" stop="20151208010500 +0100">
+  <programme channel="MTV" start="20151208050500 +0100" stop="20151208070500 +0100">
     <length units="minutes">120</length>
     <title>Indigènes (?)</title>
     <category>Film</category>
@@ -1473,7 +1041,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208010500 +0100" stop="20151208015000 +0100">
+  <programme channel="MTV" start="20151208070500 +0100" stop="20151208075000 +0100">
     <length units="minutes">45</length>
     <title>Que le meilleur gagne !</title>
     <category>Documentaire</category>
@@ -1483,7 +1051,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208015000 +0100" stop="20151208024500 +0100">
+  <programme channel="MTV" start="20151208075000 +0100" stop="20151208084500 +0100">
     <length units="minutes">55</length>
     <title>Que le meilleur gagne !</title>
     <category>Documentaire</category>
@@ -1493,7 +1061,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208024500 +0100" stop="20151208033500 +0100">
+  <programme channel="MTV" start="20151208084500 +0100" stop="20151208093500 +0100">
     <length units="minutes">50</length>
     <title>Que le meilleur gagne !</title>
     <category>Documentaire</category>
@@ -1503,28 +1071,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208033500 +0100" stop="20151208034500 +0100">
+  <programme channel="MTV" start="20151208093500 +0100" stop="20151208094500 +0100">
     <length units="minutes">10</length>
     <title>Outremer tout court</title>
     <category>Documentaire</category>
     <desc>Sentinelle du lagon (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208034500 +0100" stop="20151208035500 +0100">
+  <programme channel="MTV" start="20151208094500 +0100" stop="20151208095500 +0100">
     <length units="minutes">10</length>
     <title>Outremer tout court</title>
     <category>Documentaire</category>
     <desc>Survol de la Nouvelle-Calédonie (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208035500 +0100" stop="20151208040000 +0100">
+  <programme channel="MTV" start="20151208095500 +0100" stop="20151208100000 +0100">
     <length units="minutes">5</length>
     <title>Outremer tout court</title>
     <category>Documentaire</category>
     <desc>Mémoire de bagnard (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208040000 +0100" stop="20151208042500 +0100">
+  <programme channel="MTV" start="20151208100000 +0100" stop="20151208102500 +0100">
     <length units="minutes">25</length>
     <title>Infô soir</title>
     <category>Journal</category>
@@ -1534,70 +1102,70 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208042500 +0100" stop="20151208045000 +0100">
+  <programme channel="MTV" start="20151208102500 +0100" stop="20151208105000 +0100">
     <length units="minutes">25</length>
     <title>Journal Polynésie</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208045000 +0100" stop="20151208050500 +0100">
+  <programme channel="MTV" start="20151208105000 +0100" stop="20151208110500 +0100">
     <length units="minutes">15</length>
     <title>JTI Wallis-et-Futuna</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208050500 +0100" stop="20151208052000 +0100">
+  <programme channel="MTV" start="20151208110500 +0100" stop="20151208112000 +0100">
     <length units="minutes">15</length>
     <title>Le 19h30</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208052000 +0100" stop="20151208053000 +0100">
+  <programme channel="MTV" start="20151208112000 +0100" stop="20151208113000 +0100">
     <length units="minutes">10</length>
     <title>Le journal de Saint-Pierre-et-Miquelon</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208053000 +0100" stop="20151208055500 +0100">
+  <programme channel="MTV" start="20151208113000 +0100" stop="20151208115500 +0100">
     <length units="minutes">25</length>
     <title>Journal de Mayotte</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208055500 +0100" stop="20151208063000 +0100">
+  <programme channel="MTV" start="20151208115500 +0100" stop="20151208123000 +0100">
     <length units="minutes">35</length>
     <title>JT Réunion</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208063000 +0100" stop="20151208065500 +0100">
+  <programme channel="MTV" start="20151208123000 +0100" stop="20151208125500 +0100">
     <length units="minutes">25</length>
     <title>Le journal Guyane</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208065500 +0100" stop="20151208072500 +0100">
+  <programme channel="MTV" start="20151208125500 +0100" stop="20151208132500 +0100">
     <length units="minutes">30</length>
     <title>JT Soir Martinique</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208072500 +0100" stop="20151208075500 +0100">
+  <programme channel="MTV" start="20151208132500 +0100" stop="20151208135500 +0100">
     <length units="minutes">30</length>
     <title>Le journal Guadeloupe</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208075500 +0100" stop="20151208085500 +0100">
+  <programme channel="MTV" start="20151208135500 +0100" stop="20151208145500 +0100">
     <length units="minutes">60</length>
     <title>Vanuatu, le symbole de l'urgence climatique</title>
     <category>Documentaire</category>
@@ -1607,7 +1175,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208085500 +0100" stop="20151208094000 +0100">
+  <programme channel="MTV" start="20151208145500 +0100" stop="20151208154000 +0100">
     <length units="minutes">45</length>
     <title>Une vie volée</title>
     <category>Feuilleton</category>
@@ -1626,7 +1194,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208094000 +0100" stop="20151208102500 +0100">
+  <programme channel="MTV" start="20151208154000 +0100" stop="20151208162500 +0100">
     <length units="minutes">45</length>
     <title>Une vie volée</title>
     <category>Feuilleton</category>
@@ -1645,7 +1213,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208102500 +0100" stop="20151208111000 +0100">
+  <programme channel="MTV" start="20151208162500 +0100" stop="20151208171000 +0100">
     <length units="minutes">45</length>
     <title>Amour à Manhattan</title>
     <category>Feuilleton</category>
@@ -1660,7 +1228,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208111000 +0100" stop="20151208120000 +0100">
+  <programme channel="MTV" start="20151208171000 +0100" stop="20151208180000 +0100">
     <length units="minutes">50</length>
     <title>Amour à Manhattan</title>
     <category>Feuilleton</category>
@@ -1675,7 +1243,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208120000 +0100" stop="20151208121000 +0100">
+  <programme channel="MTV" start="20151208180000 +0100" stop="20151208181000 +0100">
     <length units="minutes">10</length>
     <title>Infô midi</title>
     <category>Journal</category>
@@ -1685,14 +1253,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208121000 +0100" stop="20151208122000 +0100">
+  <programme channel="MTV" start="20151208181000 +0100" stop="20151208182000 +0100">
     <length units="minutes">10</length>
     <title>Outremer tout court</title>
     <category>Documentaire</category>
     <desc>Opération cétacés ! (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208122000 +0100" stop="20151208124500 +0100">
+  <programme channel="MTV" start="20151208182000 +0100" stop="20151208184500 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -1709,7 +1277,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208124500 +0100" stop="20151208131000 +0100">
+  <programme channel="MTV" start="20151208184500 +0100" stop="20151208191000 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -1726,7 +1294,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208131000 +0100" stop="20151208133500 +0100">
+  <programme channel="MTV" start="20151208191000 +0100" stop="20151208193500 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -1743,7 +1311,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208133500 +0100" stop="20151208140500 +0100">
+  <programme channel="MTV" start="20151208193500 +0100" stop="20151208200500 +0100">
     <length units="minutes">30</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -1760,7 +1328,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208140500 +0100" stop="20151208142500 +0100">
+  <programme channel="MTV" start="20151208200500 +0100" stop="20151208202500 +0100">
     <length units="minutes">20</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -1777,7 +1345,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208142500 +0100" stop="20151208145500 +0100">
+  <programme channel="MTV" start="20151208202500 +0100" stop="20151208205500 +0100">
     <length units="minutes">30</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -1794,7 +1362,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208145500 +0100" stop="20151208152000 +0100">
+  <programme channel="MTV" start="20151208205500 +0100" stop="20151208212000 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -1811,7 +1379,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208152000 +0100" stop="20151208154000 +0100">
+  <programme channel="MTV" start="20151208212000 +0100" stop="20151208214000 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -1830,7 +1398,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208154000 +0100" stop="20151208160500 +0100">
+  <programme channel="MTV" start="20151208214000 +0100" stop="20151208220500 +0100">
     <length units="minutes">25</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -1849,7 +1417,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208160500 +0100" stop="20151208162500 +0100">
+  <programme channel="MTV" start="20151208220500 +0100" stop="20151208222500 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -1868,7 +1436,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208162500 +0100" stop="20151208164500 +0100">
+  <programme channel="MTV" start="20151208222500 +0100" stop="20151208224500 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -1887,7 +1455,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208164500 +0100" stop="20151208171000 +0100">
+  <programme channel="MTV" start="20151208224500 +0100" stop="20151208231000 +0100">
     <length units="minutes">25</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -1906,7 +1474,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208171000 +0100" stop="20151208173500 +0100">
+  <programme channel="MTV" start="20151208231000 +0100" stop="20151208233500 +0100">
     <length units="minutes">25</length>
     <title>Cut</title>
     <category>Série</category>
@@ -1923,7 +1491,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208173500 +0100" stop="20151208180000 +0100">
+  <programme channel="MTV" start="20151208233500 +0100" stop="20151209000000 +0100">
     <length units="minutes">25</length>
     <title>Cut</title>
     <category>Série</category>
@@ -1940,7 +1508,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208180000 +0100" stop="20151208183000 +0100">
+  <programme channel="MTV" start="20151209000000 +0100" stop="20151209003000 +0100">
     <length units="minutes">30</length>
     <title>Cut</title>
     <category>Série</category>
@@ -1957,7 +1525,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208183000 +0100" stop="20151208184800 +0100">
+  <programme channel="MTV" start="20151209003000 +0100" stop="20151209004800 +0100">
     <length units="minutes">18</length>
     <title>Infô soir</title>
     <category>Journal</category>
@@ -1967,14 +1535,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208184800 +0100" stop="20151208185000 +0100">
+  <programme channel="MTV" start="20151209004800 +0100" stop="20151209005000 +0100">
     <length units="minutes">2</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208185000 +0100" stop="20151208185500 +0100">
+  <programme channel="MTV" start="20151209005000 +0100" stop="20151209005500 +0100">
     <length units="minutes">5</length>
     <title>Les dessous de l'océan</title>
     <category>Magazine</category>
@@ -1984,7 +1552,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208185500 +0100" stop="20151208192500 +0100">
+  <programme channel="MTV" start="20151209005500 +0100" stop="20151209012500 +0100">
     <length units="minutes">30</length>
     <title>H</title>
     <category>Série</category>
@@ -2000,7 +1568,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208192500 +0100" stop="20151208195000 +0100">
+  <programme channel="MTV" start="20151209012500 +0100" stop="20151209015000 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -2016,7 +1584,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208195000 +0100" stop="20151208201500 +0100">
+  <programme channel="MTV" start="20151209015000 +0100" stop="20151209021500 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -2032,7 +1600,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208201500 +0100" stop="20151208204500 +0100">
+  <programme channel="MTV" start="20151209021500 +0100" stop="20151209024500 +0100">
     <length units="minutes">30</length>
     <title>H</title>
     <category>Série</category>
@@ -2047,7 +1615,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208204500 +0100" stop="20151208211000 +0100">
+  <programme channel="MTV" start="20151209024500 +0100" stop="20151209031000 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -2064,7 +1632,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208211000 +0100" stop="20151208213500 +0100">
+  <programme channel="MTV" start="20151209031000 +0100" stop="20151209033500 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -2081,7 +1649,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208213500 +0100" stop="20151208220000 +0100">
+  <programme channel="MTV" start="20151209033500 +0100" stop="20151209040000 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -2099,7 +1667,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208220000 +0100" stop="20151208222500 +0100">
+  <programme channel="MTV" start="20151209040000 +0100" stop="20151209042500 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -2115,7 +1683,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208222500 +0100" stop="20151208225000 +0100">
+  <programme channel="MTV" start="20151209042500 +0100" stop="20151209045000 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -2131,7 +1699,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208225000 +0100" stop="20151208234500 +0100">
+  <programme channel="MTV" start="20151209045000 +0100" stop="20151209054500 +0100">
     <length units="minutes">55</length>
     <title>Folin Hebdô</title>
     <category>Talk show</category>
@@ -2141,7 +1709,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208234500 +0100" stop="20151209000500 +0100">
+  <programme channel="MTV" start="20151209054500 +0100" stop="20151209060500 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -2160,7 +1728,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209000500 +0100" stop="20151209002500 +0100">
+  <programme channel="MTV" start="20151209060500 +0100" stop="20151209062500 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -2179,7 +1747,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209002500 +0100" stop="20151209004500 +0100">
+  <programme channel="MTV" start="20151209062500 +0100" stop="20151209064500 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -2198,7 +1766,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209004500 +0100" stop="20151209011000 +0100">
+  <programme channel="MTV" start="20151209064500 +0100" stop="20151209071000 +0100">
     <length units="minutes">25</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -2217,7 +1785,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209011000 +0100" stop="20151209020000 +0100">
+  <programme channel="MTV" start="20151209071000 +0100" stop="20151209080000 +0100">
     <length units="minutes">50</length>
     <title>Les enfants de la mer</title>
     <category>Documentaire</category>
@@ -2227,7 +1795,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209020000 +0100" stop="20151209025500 +0100">
+  <programme channel="MTV" start="20151209080000 +0100" stop="20151209085500 +0100">
     <length units="minutes">55</length>
     <title>Les enfants de la mer</title>
     <category>Documentaire</category>
@@ -2237,7 +1805,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209025500 +0100" stop="20151209035000 +0100">
+  <programme channel="MTV" start="20151209085500 +0100" stop="20151209095000 +0100">
     <length units="minutes">55</length>
     <title>Outre-mer, les sentinelles du climat</title>
     <category>Magazine</category>
@@ -2247,21 +1815,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209035000 +0100" stop="20151209035800 +0100">
+  <programme channel="MTV" start="20151209095000 +0100" stop="20151209095800 +0100">
     <length units="minutes">8</length>
     <title>Outremer tout court</title>
     <category>Documentaire</category>
     <desc>Médecins du ciel en Polynésie (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209035800 +0100" stop="20151209040000 +0100">
+  <programme channel="MTV" start="20151209095800 +0100" stop="20151209100000 +0100">
     <length units="minutes">2</length>
     <title>Outremer tout court</title>
     <category>Documentaire</category>
     <desc>La poudre d'or réunionnaise (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209040000 +0100" stop="20151209042500 +0100">
+  <programme channel="MTV" start="20151209100000 +0100" stop="20151209102500 +0100">
     <length units="minutes">25</length>
     <title>Infô soir</title>
     <category>Journal</category>
@@ -2271,70 +1839,70 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209042500 +0100" stop="20151209045000 +0100">
+  <programme channel="MTV" start="20151209102500 +0100" stop="20151209105000 +0100">
     <length units="minutes">25</length>
     <title>Journal Polynésie</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209045000 +0100" stop="20151209050500 +0100">
+  <programme channel="MTV" start="20151209105000 +0100" stop="20151209110500 +0100">
     <length units="minutes">15</length>
     <title>Journal Polynésie</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209050500 +0100" stop="20151209052000 +0100">
+  <programme channel="MTV" start="20151209110500 +0100" stop="20151209112000 +0100">
     <length units="minutes">15</length>
     <title>Le 19h30</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209052000 +0100" stop="20151209053000 +0100">
+  <programme channel="MTV" start="20151209112000 +0100" stop="20151209113000 +0100">
     <length units="minutes">10</length>
     <title>JT Saint-Pierre-et-Miquelon français local</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209053000 +0100" stop="20151209055500 +0100">
+  <programme channel="MTV" start="20151209113000 +0100" stop="20151209115500 +0100">
     <length units="minutes">25</length>
     <title>JT Mayotte français</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209055500 +0100" stop="20151209063500 +0100">
+  <programme channel="MTV" start="20151209115500 +0100" stop="20151209123500 +0100">
     <length units="minutes">40</length>
     <title>JT Réunion français</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209063500 +0100" stop="20151209070000 +0100">
+  <programme channel="MTV" start="20151209123500 +0100" stop="20151209130000 +0100">
     <length units="minutes">25</length>
     <title>Le journal Guyane</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209070000 +0100" stop="20151209073000 +0100">
+  <programme channel="MTV" start="20151209130000 +0100" stop="20151209133000 +0100">
     <length units="minutes">30</length>
     <title>JT Soir Martinique 1ère</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209073000 +0100" stop="20151209075500 +0100">
+  <programme channel="MTV" start="20151209133000 +0100" stop="20151209135500 +0100">
     <length units="minutes">25</length>
     <title>Le journal Guadeloupe</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209075500 +0100" stop="20151209085500 +0100">
+  <programme channel="MTV" start="20151209135500 +0100" stop="20151209145500 +0100">
     <length units="minutes">60</length>
     <title>Les couleurs de l'océan Indien, de La Réunion à Mayotte</title>
     <category>Documentaire</category>
@@ -2345,7 +1913,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209085500 +0100" stop="20151209094000 +0100">
+  <programme channel="MTV" start="20151209145500 +0100" stop="20151209154000 +0100">
     <length units="minutes">45</length>
     <title>Une vie volée</title>
     <category>Feuilleton</category>
@@ -2364,7 +1932,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209094000 +0100" stop="20151209102500 +0100">
+  <programme channel="MTV" start="20151209154000 +0100" stop="20151209162500 +0100">
     <length units="minutes">45</length>
     <title>Une vie volée</title>
     <category>Feuilleton</category>
@@ -2383,7 +1951,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209102500 +0100" stop="20151209111000 +0100">
+  <programme channel="MTV" start="20151209162500 +0100" stop="20151209171000 +0100">
     <length units="minutes">45</length>
     <title>Amour à Manhattan</title>
     <category>Feuilleton</category>
@@ -2398,7 +1966,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209111000 +0100" stop="20151209120000 +0100">
+  <programme channel="MTV" start="20151209171000 +0100" stop="20151209180000 +0100">
     <length units="minutes">50</length>
     <title>Amour à Manhattan</title>
     <category>Feuilleton</category>
@@ -2413,7 +1981,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209120000 +0100" stop="20151209121000 +0100">
+  <programme channel="MTV" start="20151209180000 +0100" stop="20151209181000 +0100">
     <length units="minutes">10</length>
     <title>Infô midi</title>
     <category>Journal</category>
@@ -2423,14 +1991,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209121000 +0100" stop="20151209122000 +0100">
+  <programme channel="MTV" start="20151209181000 +0100" stop="20151209182000 +0100">
     <length units="minutes">10</length>
     <title>Outremer tout court</title>
     <category>Documentaire</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209122000 +0100" stop="20151209124000 +0100">
+  <programme channel="MTV" start="20151209182000 +0100" stop="20151209184000 +0100">
     <length units="minutes">20</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -2447,7 +2015,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209124000 +0100" stop="20151209131000 +0100">
+  <programme channel="MTV" start="20151209184000 +0100" stop="20151209191000 +0100">
     <length units="minutes">30</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -2464,7 +2032,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209131000 +0100" stop="20151209133500 +0100">
+  <programme channel="MTV" start="20151209191000 +0100" stop="20151209193500 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -2481,7 +2049,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209133500 +0100" stop="20151209140000 +0100">
+  <programme channel="MTV" start="20151209193500 +0100" stop="20151209200000 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -2498,7 +2066,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209140000 +0100" stop="20151209142500 +0100">
+  <programme channel="MTV" start="20151209200000 +0100" stop="20151209202500 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -2515,7 +2083,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209142500 +0100" stop="20151209145500 +0100">
+  <programme channel="MTV" start="20151209202500 +0100" stop="20151209205500 +0100">
     <length units="minutes">30</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -2532,7 +2100,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209145500 +0100" stop="20151209152000 +0100">
+  <programme channel="MTV" start="20151209205500 +0100" stop="20151209212000 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -2549,7 +2117,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209152000 +0100" stop="20151209154000 +0100">
+  <programme channel="MTV" start="20151209212000 +0100" stop="20151209214000 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -2568,7 +2136,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209154000 +0100" stop="20151209160000 +0100">
+  <programme channel="MTV" start="20151209214000 +0100" stop="20151209220000 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -2587,7 +2155,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209160000 +0100" stop="20151209162500 +0100">
+  <programme channel="MTV" start="20151209220000 +0100" stop="20151209222500 +0100">
     <length units="minutes">25</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -2606,7 +2174,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209162500 +0100" stop="20151209164500 +0100">
+  <programme channel="MTV" start="20151209222500 +0100" stop="20151209224500 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -2625,7 +2193,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209164500 +0100" stop="20151209171000 +0100">
+  <programme channel="MTV" start="20151209224500 +0100" stop="20151209231000 +0100">
     <length units="minutes">25</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -2644,7 +2212,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209171000 +0100" stop="20151209173500 +0100">
+  <programme channel="MTV" start="20151209231000 +0100" stop="20151209233500 +0100">
     <length units="minutes">25</length>
     <title>Cut</title>
     <category>Série</category>
@@ -2661,7 +2229,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209173500 +0100" stop="20151209180000 +0100">
+  <programme channel="MTV" start="20151209233500 +0100" stop="20151210000000 +0100">
     <length units="minutes">25</length>
     <title>Cut</title>
     <category>Série</category>
@@ -2678,7 +2246,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209180000 +0100" stop="20151209183000 +0100">
+  <programme channel="MTV" start="20151210000000 +0100" stop="20151210003000 +0100">
     <length units="minutes">30</length>
     <title>Cut</title>
     <category>Série</category>
@@ -2695,7 +2263,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209183000 +0100" stop="20151209185000 +0100">
+  <programme channel="MTV" start="20151210003000 +0100" stop="20151210005000 +0100">
     <length units="minutes">20</length>
     <title>Infô soir</title>
     <category>Journal</category>
@@ -2705,14 +2273,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209185000 +0100" stop="20151209185500 +0100">
+  <programme channel="MTV" start="20151210005000 +0100" stop="20151210005500 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209185500 +0100" stop="20151209192500 +0100">
+  <programme channel="MTV" start="20151210005500 +0100" stop="20151210012500 +0100">
     <length units="minutes">30</length>
     <title>H</title>
     <category>Série</category>
@@ -2728,7 +2296,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209192500 +0100" stop="20151209195000 +0100">
+  <programme channel="MTV" start="20151210012500 +0100" stop="20151210015000 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -2744,7 +2312,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209195000 +0100" stop="20151209201500 +0100">
+  <programme channel="MTV" start="20151210015000 +0100" stop="20151210021500 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -2760,7 +2328,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209201500 +0100" stop="20151209204000 +0100">
+  <programme channel="MTV" start="20151210021500 +0100" stop="20151210024000 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -2776,7 +2344,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209204000 +0100" stop="20151209204500 +0100">
+  <programme channel="MTV" start="20151210024000 +0100" stop="20151210024500 +0100">
     <length units="minutes">5</length>
     <title>Les dessous de l'océan</title>
     <category>Magazine</category>
@@ -2786,7 +2354,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209204500 +0100" stop="20151209223500 +0100">
+  <programme channel="MTV" start="20151210024500 +0100" stop="20151210043500 +0100">
     <length units="minutes">110</length>
     <title>Investigatiôns</title>
     <category>Magazine</category>
@@ -2796,7 +2364,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209223500 +0100" stop="20151210002500 +0100">
+  <programme channel="MTV" start="20151210043500 +0100" stop="20151210062500 +0100">
     <length units="minutes">110</length>
     <title>Investigatiôns</title>
     <category>Magazine</category>
@@ -2806,7 +2374,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210002500 +0100" stop="20151210021500 +0100">
+  <programme channel="MTV" start="20151210062500 +0100" stop="20151210081500 +0100">
     <length units="minutes">110</length>
     <title>Investigatiôns</title>
     <category>Magazine</category>
@@ -2816,7 +2384,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210021500 +0100" stop="20151210031000 +0100">
+  <programme channel="MTV" start="20151210081500 +0100" stop="20151210091000 +0100">
     <length units="minutes">55</length>
     <title>Que le meilleur gagne !</title>
     <category>Documentaire</category>
@@ -2826,7 +2394,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210031000 +0100" stop="20151210033500 +0100">
+  <programme channel="MTV" start="20151210091000 +0100" stop="20151210093500 +0100">
     <length units="minutes">25</length>
     <title>Couleurs outremers</title>
     <category>Magazine</category>
@@ -2836,14 +2404,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210033500 +0100" stop="20151210040000 +0100">
+  <programme channel="MTV" start="20151210093500 +0100" stop="20151210100000 +0100">
     <length units="minutes">25</length>
     <title>Outremer tout court</title>
     <category>Documentaire</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210040000 +0100" stop="20151210042500 +0100">
+  <programme channel="MTV" start="20151210100000 +0100" stop="20151210102500 +0100">
     <length units="minutes">25</length>
     <title>Infô soir</title>
     <category>Journal</category>
@@ -2853,77 +2421,77 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210042500 +0100" stop="20151210044500 +0100">
+  <programme channel="MTV" start="20151210102500 +0100" stop="20151210104500 +0100">
     <length units="minutes">20</length>
     <title>Journal Polynésie</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210044500 +0100" stop="20151210050000 +0100">
+  <programme channel="MTV" start="20151210104500 +0100" stop="20151210110000 +0100">
     <length units="minutes">15</length>
     <title>JT Wallis tout en images (en français)</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210050000 +0100" stop="20151210051500 +0100">
+  <programme channel="MTV" start="20151210110000 +0100" stop="20151210111500 +0100">
     <length units="minutes">15</length>
     <title>Le 19h30</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210051500 +0100" stop="20151210053000 +0100">
+  <programme channel="MTV" start="20151210111500 +0100" stop="20151210113000 +0100">
     <length units="minutes">15</length>
     <title>JT Saint-Pierre-et-Miquelon français local</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210053000 +0100" stop="20151210055500 +0100">
+  <programme channel="MTV" start="20151210113000 +0100" stop="20151210115500 +0100">
     <length units="minutes">25</length>
     <title>JT Mayotte français</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210055500 +0100" stop="20151210063000 +0100">
+  <programme channel="MTV" start="20151210115500 +0100" stop="20151210123000 +0100">
     <length units="minutes">35</length>
     <title>JT Réunion français</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210063000 +0100" stop="20151210065500 +0100">
+  <programme channel="MTV" start="20151210123000 +0100" stop="20151210125500 +0100">
     <length units="minutes">25</length>
     <title>Le journal Guyane</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210065500 +0100" stop="20151210072500 +0100">
+  <programme channel="MTV" start="20151210125500 +0100" stop="20151210132500 +0100">
     <length units="minutes">30</length>
     <title>JT Soir Martinique 1ère</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210072500 +0100" stop="20151210075500 +0100">
+  <programme channel="MTV" start="20151210132500 +0100" stop="20151210135500 +0100">
     <length units="minutes">30</length>
     <title>Le journal Guadeloupe</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210075500 +0100" stop="20151210085500 +0100">
+  <programme channel="MTV" start="20151210135500 +0100" stop="20151210145500 +0100">
     <length units="minutes">60</length>
     <title>Mayotte, Réunion, îles Eparses, les joyaux de l'océan Indien</title>
     <category>Documentaire</category>
     <desc>A Mayotte, on cultive l'ylang-ylang, une fleur utilisée depuis plus d'un siècle par les plus grands parfumeurs, pour ses arômes de monoï et de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210085500 +0100" stop="20151210093500 +0100">
+  <programme channel="MTV" start="20151210145500 +0100" stop="20151210153500 +0100">
     <length units="minutes">40</length>
     <title>Une vie volée</title>
     <category>Feuilleton</category>
@@ -2942,7 +2510,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210093500 +0100" stop="20151210102500 +0100">
+  <programme channel="MTV" start="20151210153500 +0100" stop="20151210162500 +0100">
     <length units="minutes">50</length>
     <title>Une vie volée</title>
     <category>Feuilleton</category>
@@ -2961,7 +2529,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210102500 +0100" stop="20151210111000 +0100">
+  <programme channel="MTV" start="20151210162500 +0100" stop="20151210171000 +0100">
     <length units="minutes">45</length>
     <title>Amour à Manhattan</title>
     <category>Feuilleton</category>
@@ -2976,7 +2544,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210111000 +0100" stop="20151210120000 +0100">
+  <programme channel="MTV" start="20151210171000 +0100" stop="20151210180000 +0100">
     <length units="minutes">50</length>
     <title>Amour à Manhattan</title>
     <category>Feuilleton</category>
@@ -2991,7 +2559,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210120000 +0100" stop="20151210121000 +0100">
+  <programme channel="MTV" start="20151210180000 +0100" stop="20151210181000 +0100">
     <length units="minutes">10</length>
     <title>Infô midi</title>
     <category>Journal</category>
@@ -3001,14 +2569,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210121000 +0100" stop="20151210122000 +0100">
+  <programme channel="MTV" start="20151210181000 +0100" stop="20151210182000 +0100">
     <length units="minutes">10</length>
     <title>Outremer tout court</title>
     <category>Documentaire</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210122000 +0100" stop="20151210124000 +0100">
+  <programme channel="MTV" start="20151210182000 +0100" stop="20151210184000 +0100">
     <length units="minutes">20</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -3025,7 +2593,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210124000 +0100" stop="20151210131000 +0100">
+  <programme channel="MTV" start="20151210184000 +0100" stop="20151210191000 +0100">
     <length units="minutes">30</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -3042,7 +2610,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210131000 +0100" stop="20151210133500 +0100">
+  <programme channel="MTV" start="20151210191000 +0100" stop="20151210193500 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -3059,7 +2627,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210133500 +0100" stop="20151210140000 +0100">
+  <programme channel="MTV" start="20151210193500 +0100" stop="20151210200000 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -3076,7 +2644,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210140000 +0100" stop="20151210142500 +0100">
+  <programme channel="MTV" start="20151210200000 +0100" stop="20151210202500 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -3093,7 +2661,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210142500 +0100" stop="20151210145500 +0100">
+  <programme channel="MTV" start="20151210202500 +0100" stop="20151210205500 +0100">
     <length units="minutes">30</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -3110,7 +2678,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210145500 +0100" stop="20151210152000 +0100">
+  <programme channel="MTV" start="20151210205500 +0100" stop="20151210212000 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
@@ -3127,7 +2695,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210152000 +0100" stop="20151210154000 +0100">
+  <programme channel="MTV" start="20151210212000 +0100" stop="20151210214000 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -3146,7 +2714,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210154000 +0100" stop="20151210160000 +0100">
+  <programme channel="MTV" start="20151210214000 +0100" stop="20151210220000 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -3165,7 +2733,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210160000 +0100" stop="20151210162500 +0100">
+  <programme channel="MTV" start="20151210220000 +0100" stop="20151210222500 +0100">
     <length units="minutes">25</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -3184,7 +2752,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210162500 +0100" stop="20151210164500 +0100">
+  <programme channel="MTV" start="20151210222500 +0100" stop="20151210224500 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -3203,7 +2771,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210164500 +0100" stop="20151210171000 +0100">
+  <programme channel="MTV" start="20151210224500 +0100" stop="20151210231000 +0100">
     <length units="minutes">25</length>
     <title>Scrubs</title>
     <category>Série</category>
@@ -3222,7 +2790,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210171000 +0100" stop="20151210173500 +0100">
+  <programme channel="MTV" start="20151210231000 +0100" stop="20151210233500 +0100">
     <length units="minutes">25</length>
     <title>Cut</title>
     <category>Série</category>
@@ -3239,7 +2807,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210173500 +0100" stop="20151210180000 +0100">
+  <programme channel="MTV" start="20151210233500 +0100" stop="20151211000000 +0100">
     <length units="minutes">25</length>
     <title>Cut</title>
     <category>Série</category>
@@ -3256,7 +2824,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210180000 +0100" stop="20151210183000 +0100">
+  <programme channel="MTV" start="20151211000000 +0100" stop="20151211003000 +0100">
     <length units="minutes">30</length>
     <title>Cut</title>
     <category>Série</category>
@@ -3273,7 +2841,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210183000 +0100" stop="20151210185000 +0100">
+  <programme channel="MTV" start="20151211003000 +0100" stop="20151211005000 +0100">
     <length units="minutes">20</length>
     <title>Infô soir</title>
     <category>Journal</category>
@@ -3283,14 +2851,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210185000 +0100" stop="20151210185500 +0100">
+  <programme channel="MTV" start="20151211005000 +0100" stop="20151211005500 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210185500 +0100" stop="20151210192000 +0100">
+  <programme channel="MTV" start="20151211005500 +0100" stop="20151211012000 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -3306,7 +2874,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210192000 +0100" stop="20151210194500 +0100">
+  <programme channel="MTV" start="20151211012000 +0100" stop="20151211014500 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -3322,7 +2890,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210194500 +0100" stop="20151210201500 +0100">
+  <programme channel="MTV" start="20151211014500 +0100" stop="20151211021500 +0100">
     <length units="minutes">30</length>
     <title>H</title>
     <category>Série</category>
@@ -3340,7 +2908,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210201500 +0100" stop="20151210204000 +0100">
+  <programme channel="MTV" start="20151211021500 +0100" stop="20151211024000 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
@@ -3356,7 +2924,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210204000 +0100" stop="20151210204500 +0100">
+  <programme channel="MTV" start="20151211024000 +0100" stop="20151211024500 +0100">
     <length units="minutes">5</length>
     <title>Les dessous de l'océan</title>
     <category>Magazine</category>
@@ -3366,7 +2934,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210204500 +0100" stop="20151210221000 +0100">
+  <programme channel="MTV" start="20151211024500 +0100" stop="20151211041000 +0100">
     <length units="minutes">85</length>
     <title>La smala s'en mêle</title>
     <category>Téléfilm</category>
@@ -3384,7 +2952,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210221000 +0100" stop="20151210234000 +0100">
+  <programme channel="MTV" start="20151211041000 +0100" stop="20151211054000 +0100">
     <length units="minutes">90</length>
     <title>La smala s'en mêle</title>
     <category>Téléfilm</category>
@@ -3402,7 +2970,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210234000 +0100" stop="20151211010500 +0100">
+  <programme channel="MTV" start="20151211054000 +0100" stop="20151211070500 +0100">
     <length units="minutes">85</length>
     <title>Le fils du dragon</title>
     <category>Téléfilm</category>
@@ -3420,11 +2988,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211010500 +0100" stop="20151211023000 +0100">
+  <programme channel="MTV" start="20151211070500 +0100" stop="20151211083000 +0100">
     <length units="minutes">85</length>
     <title>Le fils du dragon</title>
     <category>Téléfilm</category>
-    <desc>Parce qu'il a grandi dans la rue, DB a développé une réelle capacité à se sortir de toutes les situations. Mais les supercheries qu'il a... (Lire la suite).(n)</desc>
+    <desc>Parce qu'il a grandi dans la rue, DB a développé une réelle capacité à se sortir de toutes les situations. Mais les supercheries qu'il a... (Lire la suite).</desc>
     <credits>
       <name function="director">David Wu</name>
       <name function="actor">Rupert Graves</name>
@@ -3438,118 +3006,118 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211023000 +0100" stop="20151211032500 +0100">
+  <programme channel="MTV" start="20151211083000 +0100" stop="20151211092500 +0100">
     <length units="minutes">55</length>
     <title>Que le meilleur gagne !</title>
     <category>Documentaire</category>
-    <desc>Dans le Pacifique Sud, au large des îles de l'Amirauté, les six sportifs se préparent pour une course de canoë dans des eaux envahies par les... (Lire la suite).(n)</desc>
+    <desc>Dans le Pacifique Sud, au large des îles de l'Amirauté, les six sportifs se préparent pour une course de canoë dans des eaux envahies par les... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Jeff Wilkinson</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211032500 +0100" stop="20151211035000 +0100">
+  <programme channel="MTV" start="20151211092500 +0100" stop="20151211095000 +0100">
     <length units="minutes">25</length>
     <title>Couleurs outremers</title>
     <category>Magazine</category>
-    <desc>Hôtel de luxe à Saint-Barth Les petites histoires qui font le sel de l'outre-mer. (Lire la suite).(n)</desc>
+    <desc>Hôtel de luxe à Saint-Barth Les petites histoires qui font le sel de l'outre-mer. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211035000 +0100" stop="20151211040000 +0100">
+  <programme channel="MTV" start="20151211095000 +0100" stop="20151211100000 +0100">
     <length units="minutes">10</length>
     <title>Outremer tout court</title>
     <category>Documentaire</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211040000 +0100" stop="20151211042500 +0100">
+  <programme channel="MTV" start="20151211100000 +0100" stop="20151211102500 +0100">
     <length units="minutes">25</length>
     <title>Infô soir</title>
     <category>Journal</category>
-    <desc>Accompagné par Karine Sigaud-Zabulon ou Marie Radovic, Cyriaque Sommier présente l'actualité ultramarine. (Lire la suite).(n)</desc>
+    <desc>Accompagné par Karine Sigaud-Zabulon ou Marie Radovic, Cyriaque Sommier présente l'actualité ultramarine. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Cyriaque Sommier</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211042500 +0100" stop="20151211044500 +0100">
+  <programme channel="MTV" start="20151211102500 +0100" stop="20151211104500 +0100">
     <length units="minutes">20</length>
     <title>Journal Polynésie</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211044500 +0100" stop="20151211050000 +0100">
+  <programme channel="MTV" start="20151211104500 +0100" stop="20151211110000 +0100">
     <length units="minutes">15</length>
     <title>JT Wallis tout en images (en français)</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211050000 +0100" stop="20151211051500 +0100">
+  <programme channel="MTV" start="20151211110000 +0100" stop="20151211111500 +0100">
     <length units="minutes">15</length>
     <title>Le 19h30</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211051500 +0100" stop="20151211053000 +0100">
+  <programme channel="MTV" start="20151211111500 +0100" stop="20151211113000 +0100">
     <length units="minutes">15</length>
     <title>JT Saint-Pierre-et-Miquelon français local</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211053000 +0100" stop="20151211055500 +0100">
+  <programme channel="MTV" start="20151211113000 +0100" stop="20151211115500 +0100">
     <length units="minutes">25</length>
     <title>JT Mayotte français</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211055500 +0100" stop="20151211063000 +0100">
+  <programme channel="MTV" start="20151211115500 +0100" stop="20151211123000 +0100">
     <length units="minutes">35</length>
     <title>JT Réunion français</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211063000 +0100" stop="20151211065500 +0100">
+  <programme channel="MTV" start="20151211123000 +0100" stop="20151211125500 +0100">
     <length units="minutes">25</length>
     <title>Le journal Guyane</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211065500 +0100" stop="20151211072500 +0100">
+  <programme channel="MTV" start="20151211125500 +0100" stop="20151211132500 +0100">
     <length units="minutes">30</length>
     <title>JT Soir Martinique 1ère</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211072500 +0100" stop="20151211075500 +0100">
+  <programme channel="MTV" start="20151211132500 +0100" stop="20151211135500 +0100">
     <length units="minutes">30</length>
     <title>Le journal Guadeloupe</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211075500 +0100" stop="20151211085500 +0100">
+  <programme channel="MTV" start="20151211135500 +0100" stop="20151211145500 +0100">
     <length units="minutes">60</length>
     <title>La Dominique, île nature</title>
     <category>Documentaire</category>
-    <desc>Communautés indiennes et rastafari cohabitent pacifiquement sur l'île de la Dominique, attachée aux valeurs d'une économie verte et à la... (Lire la suite).(n)</desc>
+    <desc>Communautés indiennes et rastafari cohabitent pacifiquement sur l'île de la Dominique, attachée aux valeurs d'une économie verte et à la... (Lire la suite).</desc>
     <credits>
       <name function="director">Antoine Laguerre</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211085500 +0100" stop="20151211094000 +0100">
+  <programme channel="MTV" start="20151211145500 +0100" stop="20151211154000 +0100">
     <length units="minutes">45</length>
     <title>Une vie volée</title>
     <category>Feuilleton</category>
-    <desc>Victoria ne peut s'empêcher de se moquer de Sofia après sa défaite en finale, mais Ana prend sa défense. Lorenzo explique à Rodrigo qu'il va se... (Lire la suite).(n)</desc>
+    <desc>Victoria ne peut s'empêcher de se moquer de Sofia après sa défaite en finale, mais Ana prend sa défense. Lorenzo explique à Rodrigo qu'il va se... (Lire la suite).</desc>
     <credits>
       <name function="director">Jayme Monjardimet</name>
       <name function="actor">Ana Beatriz Nogueira</name>
@@ -3564,11 +3132,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211094000 +0100" stop="20151211102500 +0100">
+  <programme channel="MTV" start="20151211154000 +0100" stop="20151211162500 +0100">
     <length units="minutes">45</length>
     <title>Une vie volée</title>
     <category>Feuilleton</category>
-    <desc>Jonas reçoit une convocation du tribunal et découvre que Lorenzo souhaite procéder à une reconnaissance de paternité pour Tiago. Victoria... (Lire la suite).(n)</desc>
+    <desc>Jonas reçoit une convocation du tribunal et découvre que Lorenzo souhaite procéder à une reconnaissance de paternité pour Tiago. Victoria... (Lire la suite).</desc>
     <credits>
       <name function="director">Jayme Monjardimet</name>
       <name function="actor">Ana Beatriz Nogueira</name>
@@ -3583,11 +3151,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211102500 +0100" stop="20151211111000 +0100">
+  <programme channel="MTV" start="20151211162500 +0100" stop="20151211171000 +0100">
     <length units="minutes">45</length>
     <title>Amour à Manhattan</title>
     <category>Feuilleton</category>
-    <desc>Cristobal a une conversation avec Sara et lui explique que Marisa et lui essaient de trouver des solutions aux problèmes de leur... (Lire la suite).(n)</desc>
+    <desc>Cristobal a une conversation avec Sara et lui explique que Marisa et lui essaient de trouver des solutions aux problèmes de leur... (Lire la suite).</desc>
     <credits>
       <name function="actor">Tina Romero</name>
       <name function="actor">Litzy</name>
@@ -3598,11 +3166,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211111000 +0100" stop="20151211120000 +0100">
+  <programme channel="MTV" start="20151211171000 +0100" stop="20151211180000 +0100">
     <length units="minutes">50</length>
     <title>Amour à Manhattan</title>
     <category>Feuilleton</category>
-    <desc>Tania essaie de raconter la conversation qu'elle a entendue à Marisa et lui demande de ne rien dire. Cristobal demande à Frank quelles sont ses... (Lire la suite).(n)</desc>
+    <desc>Tania essaie de raconter la conversation qu'elle a entendue à Marisa et lui demande de ne rien dire. Cristobal demande à Frank quelles sont ses... (Lire la suite).</desc>
     <credits>
       <name function="actor">Tina Romero</name>
       <name function="actor">Litzy</name>
@@ -3613,21 +3181,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211120000 +0100" stop="20151211122000 +0100">
+  <programme channel="MTV" start="20151211180000 +0100" stop="20151211182000 +0100">
     <length units="minutes">20</length>
     <title>Infô midi</title>
     <category>Journal</category>
-    <desc>L'actualité de la veille en Outre-mer. (Lire la suite).(n)</desc>
+    <desc>L'actualité de la veille en Outre-mer. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Nella Bipat</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211122000 +0100" stop="20151211124000 +0100">
+  <programme channel="MTV" start="20151211182000 +0100" stop="20151211184000 +0100">
     <length units="minutes">20</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
-    <desc>Alors que des photos provoquent bien des remous au Mistral, Nathan découvre qu'il doit beaucoup à l'un de ses proches. Quant à Xavier, il passe... (Lire la suite).(n)</desc>
+    <desc>Alors que des photos provoquent bien des remous au Mistral, Nathan découvre qu'il doit beaucoup à l'un de ses proches. Quant à Xavier, il passe... (Lire la suite).(c)</desc>
     <credits>
       <name function="actor">Ambroise Michel</name>
       <name function="actor">Rachid Hafassa</name>
@@ -3640,11 +3208,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211124000 +0100" stop="20151211131000 +0100">
+  <programme channel="MTV" start="20151211184000 +0100" stop="20151211191000 +0100">
     <length units="minutes">30</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
-    <desc>Eve passe outre les menaces et rencontre du beau monde. Quant à Boher, jusqu'où ira-t-il pour sauvegarder les apparences ? De son côté, Nathan... (Lire la suite).(n)</desc>
+    <desc>Eve passe outre les menaces et rencontre du beau monde. Quant à Boher, jusqu'où ira-t-il pour sauvegarder les apparences ? De son côté, Nathan... (Lire la suite).(c)</desc>
     <credits>
       <name function="actor">Serge Dupire</name>
       <name function="actor">Ambroise Michel</name>
@@ -3657,11 +3225,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211131000 +0100" stop="20151211133500 +0100">
+  <programme channel="MTV" start="20151211191000 +0100" stop="20151211193500 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
-    <desc>Alors que Mélanie se demande si elle ne s'est pas emportée trop vite, Nathan a une idée pour arrondir ses fins de mois... Andrée, quant à elle,... (Lire la suite).(n)</desc>
+    <desc>Alors que Mélanie se demande si elle ne s'est pas emportée trop vite, Nathan a une idée pour arrondir ses fins de mois... Andrée, quant à elle,... (Lire la suite).(c)</desc>
     <credits>
       <name function="actor">Marion Game</name>
       <name function="actor">Ambroise Michel</name>
@@ -3674,11 +3242,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211133500 +0100" stop="20151211140000 +0100">
+  <programme channel="MTV" start="20151211193500 +0100" stop="20151211200000 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
-    <desc>Tandis que la menace d'un divorce plane sur le quartier du Mistral et qu'Eve se demande ce qu'elle doit décider, Xavier tente de découvrir un... (Lire la suite).(n)</desc>
+    <desc>Tandis que la menace d'un divorce plane sur le quartier du Mistral et qu'Eve se demande ce qu'elle doit décider, Xavier tente de découvrir un... (Lire la suite).(c)</desc>
     <credits>
       <name function="actor">Marion Game</name>
       <name function="actor">Serge Dupire</name>
@@ -3691,11 +3259,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211140000 +0100" stop="20151211142500 +0100">
+  <programme channel="MTV" start="20151211200000 +0100" stop="20151211202500 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
-    <desc>Alors qu'Eve fait ce qu'elle peut pour devenir une bonne voisine, le père de Boher décide de passer à l'action. Quant à Nathan, sa petite... (Lire la suite).(n)</desc>
+    <desc>Alors qu'Eve fait ce qu'elle peut pour devenir une bonne voisine, le père de Boher décide de passer à l'action. Quant à Nathan, sa petite... (Lire la suite).(c)</desc>
     <credits>
       <name function="actor">Ambroise Michel</name>
       <name function="actor">Rachid Hafassa</name>
@@ -3708,11 +3276,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211142500 +0100" stop="20151211145500 +0100">
+  <programme channel="MTV" start="20151211202500 +0100" stop="20151211205500 +0100">
     <length units="minutes">30</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
-    <desc>Tandis que Frémont aide un vieux poète, Nathan travaille à améliorer la réputation internationale de l'hôtel Select. Quant à Boher, il reçoit une... (Lire la suite).(n)</desc>
+    <desc>Tandis que Frémont aide un vieux poète, Nathan travaille à améliorer la réputation internationale de l'hôtel Select. Quant à Boher, il reçoit une... (Lire la suite).(c)</desc>
     <credits>
       <name function="actor">Ambroise Michel</name>
       <name function="actor">Rachid Hafassa</name>
@@ -3725,11 +3293,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211145500 +0100" stop="20151211152000 +0100">
+  <programme channel="MTV" start="20151211205500 +0100" stop="20151211212000 +0100">
     <length units="minutes">25</length>
     <title>Plus belle la vie</title>
     <category>Feuilleton</category>
-    <desc>Eve est conduite à l'hôpital. Cependant, Boher fait appel à un étrange conseiller conjugal. De son côté, Johanna n'apprécie guère le sens de... (Lire la suite).(n)</desc>
+    <desc>Eve est conduite à l'hôpital. Cependant, Boher fait appel à un étrange conseiller conjugal. De son côté, Johanna n'apprécie guère le sens de... (Lire la suite).(c)</desc>
     <credits>
       <name function="actor">Serge Dupire</name>
       <name function="actor">Ambroise Michel</name>
@@ -3742,11 +3310,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211152000 +0100" stop="20151211154000 +0100">
+  <programme channel="MTV" start="20151211212000 +0100" stop="20151211214000 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
-    <desc>JD essaie d'inviter à déjeuner le docteur Cox, mais en vain. Celui-ci est davantage préoccupé par trois de ses patients en attente de greffe.... (Lire la suite).(n)</desc>
+    <desc>JD essaie d'inviter à déjeuner le docteur Cox, mais en vain. Celui-ci est davantage préoccupé par trois de ses patients en attente de greffe.... (Lire la suite).</desc>
     <credits>
       <name function="director">John Michel</name>
       <name function="actor">Ken Jenkins</name>
@@ -3761,11 +3329,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211154000 +0100" stop="20151211160000 +0100">
+  <programme channel="MTV" start="20151211214000 +0100" stop="20151211220000 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
-    <desc>Le docteur Cox déprime de plus en plus et se met à boire après les décès successifs de ses trois patients greffés. Carla mobilise ses collègues... (Lire la suite).(n)</desc>
+    <desc>Le docteur Cox déprime de plus en plus et se met à boire après les décès successifs de ses trois patients greffés. Carla mobilise ses collègues... (Lire la suite).</desc>
     <credits>
       <name function="director">Joanna Kerns</name>
       <name function="actor">Ken Jenkins</name>
@@ -3780,11 +3348,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211160000 +0100" stop="20151211162500 +0100">
+  <programme channel="MTV" start="20151211220000 +0100" stop="20151211222500 +0100">
     <length units="minutes">25</length>
     <title>Scrubs</title>
     <category>Série</category>
-    <desc>Après cinq années passées au Sacré-Coeur, JD a l'impression qu'il ne se passe jamais rien à l'hôpital. Pire, il est persuadé que les mêmes... (Lire la suite).(n)</desc>
+    <desc>Après cinq années passées au Sacré-Coeur, JD a l'impression qu'il ne se passe jamais rien à l'hôpital. Pire, il est persuadé que les mêmes... (Lire la suite).</desc>
     <credits>
       <name function="director">Linda Mendoza</name>
       <name function="actor">Ken Jenkins</name>
@@ -3799,11 +3367,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211162500 +0100" stop="20151211164500 +0100">
+  <programme channel="MTV" start="20151211222500 +0100" stop="20151211224500 +0100">
     <length units="minutes">20</length>
     <title>Scrubs</title>
     <category>Série</category>
-    <desc>JD tombe sous le charme d'une ravissante urologue, Kim Briggs. Il vient de la remarquer pour la simple raison qu'elle ne porte plus son alliance.... (Lire la suite).(n)</desc>
+    <desc>JD tombe sous le charme d'une ravissante urologue, Kim Briggs. Il vient de la remarquer pour la simple raison qu'elle ne porte plus son alliance.... (Lire la suite).</desc>
     <credits>
       <name function="director">Richard Alexander Wells</name>
       <name function="actor">Ken Jenkins</name>
@@ -3818,11 +3386,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211164500 +0100" stop="20151211171000 +0100">
+  <programme channel="MTV" start="20151211224500 +0100" stop="20151211231000 +0100">
     <length units="minutes">25</length>
     <title>Scrubs</title>
     <category>Série</category>
-    <desc>JD envisage de sortir avec le docteur Briggs et lui propose une balade romantique, mais Elliot, toujours avec Keith, vient quelque peu perturber... (Lire la suite).(n)</desc>
+    <desc>JD envisage de sortir avec le docteur Briggs et lui propose une balade romantique, mais Elliot, toujours avec Keith, vient quelque peu perturber... (Lire la suite).</desc>
     <credits>
       <name function="director">Bill Lawrence</name>
       <name function="actor">Ken Jenkins</name>
@@ -3837,11 +3405,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211171000 +0100" stop="20151211173500 +0100">
+  <programme channel="MTV" start="20151211231000 +0100" stop="20151211233500 +0100">
     <length units="minutes">25</length>
     <title>Cut</title>
     <category>Série</category>
-    <desc>Redoutant qu'Adil ne s'éloigne pour de bon, Billie décide d'interrompre sa collaboration avec le père de son compagnon. Ce choix suffira-t-il... (Lire la suite).(n)</desc>
+    <desc>Redoutant qu'Adil ne s'éloigne pour de bon, Billie décide d'interrompre sa collaboration avec le père de son compagnon. Ce choix suffira-t-il... (Lire la suite).</desc>
     <credits>
       <name function="actor">Ambroise Michel</name>
       <name function="actor">Antoine Stip</name>
@@ -3854,11 +3422,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211173500 +0100" stop="20151211180000 +0100">
+  <programme channel="MTV" start="20151211233500 +0100" stop="20151212000000 +0100">
     <length units="minutes">25</length>
     <title>Cut</title>
     <category>Série</category>
-    <desc>Alors qu'ils raisonnent Teddy pour l'empêcher de commettre l'irréparable, Adil et Billie réalisent à quel point ils tiennent l'un à... (Lire la suite).(n)</desc>
+    <desc>Alors qu'ils raisonnent Teddy pour l'empêcher de commettre l'irréparable, Adil et Billie réalisent à quel point ils tiennent l'un à... (Lire la suite).</desc>
     <credits>
       <name function="actor">Ambroise Michel</name>
       <name function="actor">Antoine Stip</name>
@@ -3871,11 +3439,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211180000 +0100" stop="20151211183000 +0100">
+  <programme channel="MTV" start="20151212000000 +0100" stop="20151212003000 +0100">
     <length units="minutes">30</length>
     <title>Cut</title>
     <category>Série</category>
-    <desc>Si l'arrivée incongrue de l'ex-femme de Stefan n'est clairement pas du goût de Nine, Stefan ne peut que se réjouir à l'idée de revoir son fils... (Lire la suite).(n)</desc>
+    <desc>Si l'arrivée incongrue de l'ex-femme de Stefan n'est clairement pas du goût de Nine, Stefan ne peut que se réjouir à l'idée de revoir son fils... (Lire la suite).</desc>
     <credits>
       <name function="actor">Ambroise Michel</name>
       <name function="actor">Antoine Stip</name>
@@ -3888,28 +3456,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211183000 +0100" stop="20151211185500 +0100">
+  <programme channel="MTV" start="20151212003000 +0100" stop="20151212005500 +0100">
     <length units="minutes">25</length>
     <title>Infô soir</title>
     <category>Journal</category>
-    <desc>Accompagné par Karine Sigaud-Zabulon ou Marie Radovic, Cyriaque Sommier présente l'actualité ultramarine. (Lire la suite).(n)</desc>
+    <desc>Accompagné par Karine Sigaud-Zabulon ou Marie Radovic, Cyriaque Sommier présente l'actualité ultramarine. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Cyriaque Sommier</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211185500 +0100" stop="20151211190000 +0100">
+  <programme channel="MTV" start="20151212005500 +0100" stop="20151212010000 +0100">
     <length units="minutes">5</length>
     <title>Météo</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211190000 +0100" stop="20151211192500 +0100">
+  <programme channel="MTV" start="20151212010000 +0100" stop="20151212012500 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
-    <desc>L'opération «Flacon rouge», destinée à récolter du sang, est lancée au sein de l'hôpital. Mais certains rechignent à s'y prêter de bonne grâce,... (Lire la suite).(n)</desc>
+    <desc>L'opération «Flacon rouge», destinée à récolter du sang, est lancée au sein de l'hôpital. Mais certains rechignent à s'y prêter de bonne grâce,... (Lire la suite).</desc>
     <credits>
       <name function="director">Edouard Molinaro</name>
       <name function="actor">Niels Dubost</name>
@@ -3923,11 +3491,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211192500 +0100" stop="20151211194500 +0100">
+  <programme channel="MTV" start="20151212012500 +0100" stop="20151212014500 +0100">
     <length units="minutes">20</length>
     <title>H</title>
     <category>Série</category>
-    <desc>Un patient suicidaire confie son manuscrit à Aymé, qui s'empresse de lui trouver un autre lecteur, en l'occurrence Sabri. Malheureusement, Sabri... (Lire la suite).(n)</desc>
+    <desc>Un patient suicidaire confie son manuscrit à Aymé, qui s'empresse de lui trouver un autre lecteur, en l'occurrence Sabri. Malheureusement, Sabri... (Lire la suite).</desc>
     <credits>
       <name function="director">Edouard Molinaro</name>
       <name function="actor">Sophie Mounicot</name>
@@ -3940,11 +3508,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211194500 +0100" stop="20151211201000 +0100">
+  <programme channel="MTV" start="20151212014500 +0100" stop="20151212021000 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
-    <desc>Le professeur Strauss a invité Sabri à participer à un week-end de chasse entre hommes. Béatrice sème le doute dans l'esprit de Sabri quant aux... (Lire la suite).(n)</desc>
+    <desc>Le professeur Strauss a invité Sabri à participer à un week-end de chasse entre hommes. Béatrice sème le doute dans l'esprit de Sabri quant aux... (Lire la suite).</desc>
     <credits>
       <name function="director">Charles Nemes</name>
       <name function="actor">Sophie Mounicot</name>
@@ -3958,11 +3526,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211201000 +0100" stop="20151211203500 +0100">
+  <programme channel="MTV" start="20151212021000 +0100" stop="20151212023500 +0100">
     <length units="minutes">25</length>
     <title>H</title>
     <category>Série</category>
-    <desc>Toujours inspiré, Aymé a noué une liaison à hauts risques avec Adeline, la fille d'un mafieux plutôt inquiétant, qui ne supporte pas la... (Lire la suite).(n)</desc>
+    <desc>Toujours inspiré, Aymé a noué une liaison à hauts risques avec Adeline, la fille d'un mafieux plutôt inquiétant, qui ne supporte pas la... (Lire la suite).</desc>
     <credits>
       <name function="director">Eric Lartigau</name>
       <name function="actor">Serge Riaboukine</name>
@@ -3976,31 +3544,31 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211203500 +0100" stop="20151211204000 +0100">
+  <programme channel="MTV" start="20151212023500 +0100" stop="20151212024000 +0100">
     <length units="minutes">5</length>
     <title>Les dessous de l'océan</title>
     <category>Magazine</category>
-    <desc>Une hausse des températures supérieure à deux degrés conduirait à terme à une fonte totale de la banquise en Arctique en septembre 2100. C'est un... (Lire la suite).(n)</desc>
+    <desc>Une hausse des températures supérieure à deux degrés conduirait à terme à une fonte totale de la banquise en Arctique en septembre 2100. C'est un... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Sébastien Folin</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211204000 +0100" stop="20151211204500 +0100">
+  <programme channel="MTV" start="20151212024000 +0100" stop="20151212024500 +0100">
     <length units="minutes">5</length>
     <title>Mémô</title>
     <category>Magazine</category>
-    <desc>Danse, théâtre, comédie musicale, stand up, cinéma, tous les genres artistiques influencés par les Amériques, l'Afrique, l'Asie, l'Océanie se... (Lire la suite).(n)</desc>
+    <desc>Danse, théâtre, comédie musicale, stand up, cinéma, tous les genres artistiques influencés par les Amériques, l'Afrique, l'Asie, l'Océanie se... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Elizabeth Tchoungui</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211204500 +0100" stop="20151211221500 +0100">
+  <programme channel="MTV" start="20151212024500 +0100" stop="20151212041500 +0100">
     <length units="minutes">90</length>
     <title>L'homme qui venait d'ailleurs</title>
     <category>Téléfilm</category>
-    <desc>A la fin du XIXe siècle, le docteur Pierre Adélaïde, médecin d'origine martiniquaise, arrive dans un petit village de Charente pour prendre la... (Lire la suite).(n)</desc>
+    <desc>A la fin du XIXe siècle, le docteur Pierre Adélaïde, médecin d'origine martiniquaise, arrive dans un petit village de Charente pour prendre la... (Lire la suite).</desc>
     <credits>
       <name function="director">François Luciani</name>
       <name function="actor">Alex Descas</name>
@@ -4014,11 +3582,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211221500 +0100" stop="20151211235000 +0100">
+  <programme channel="MTV" start="20151212041500 +0100" stop="20151212055000 +0100">
     <length units="minutes">95</length>
     <title>Frère et soeur</title>
     <category>Téléfilm</category>
-    <desc>A 50 ans, Bruno Cellini, avocat de renom et célibataire endurci, habite la maison de famille, qu'il a réaménagée à son goût. Un jour, il voit... (Lire la suite).(n)</desc>
+    <desc>A 50 ans, Bruno Cellini, avocat de renom et célibataire endurci, habite la maison de famille, qu'il a réaménagée à son goût. Un jour, il voit... (Lire la suite).</desc>
     <credits>
       <name function="director">Denis Malleval</name>
       <name function="actor">Christiane Millet</name>
@@ -4032,13 +3600,519 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211235000 +0100" stop="20151212005500 +0100">
+  <programme channel="MTV" start="20151212055000 +0100" stop="20151212065500 +0100">
     <length units="minutes">65</length>
     <title>Le ring</title>
     <category>Magazine</category>
-    <desc>Vald jette un regard irrévérencieux et absurde sur une société désabusée. Ce poète du chaos, sourire en coin, pose un flow lapidaire sur des... (Lire la suite).(n)</desc>
+    <desc>Vald jette un regard irrévérencieux et absurde sur une société désabusée. Ce poète du chaos, sourire en coin, pose un flow lapidaire sur des... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Aline Afanoukoé</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212065500 +0100" stop="20151212075000 +0100">
+    <length units="minutes">55</length>
+    <title>Nova sessions</title>
+    <category>Concert</category>
+    <desc>Frànçois &amp; The Atlas Mountains Un concert du groupe Frànçois &amp; The Atlas Mountains, formation de musique pop fondée en 2005 et dirigée par François... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212075000 +0100" stop="20151212085000 +0100">
+    <length units="minutes">60</length>
+    <title>Nova sessions</title>
+    <category>Concert</category>
+    <desc>Arthur H Un concert du musicien Arthur H dont le dernier album, «Mouvement perpétuel», est sorti en octobre 2015. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212085000 +0100" stop="20151212100000 +0100">
+    <length units="minutes">70</length>
+    <title>Nova sessions</title>
+    <category>Concert</category>
+    <desc>Miossec Miossec interprète quelques titres de son album «Ici-bas, ici-même», sorti en avril 2014. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212100000 +0100" stop="20151212104000 +0100">
+    <length units="minutes">40</length>
+    <title>Infô soir</title>
+    <category>Journal</category>
+    <desc>Accompagné par Karine Sigaud-Zabulon ou Marie Radovic, Cyriaque Sommier présente l'actualité ultramarine. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Cyriaque Sommier</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212104000 +0100" stop="20151212110500 +0100">
+    <length units="minutes">25</length>
+    <title>Journal Polynésie</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212110500 +0100" stop="20151212112000 +0100">
+    <length units="minutes">15</length>
+    <title>Journal Wallis</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212112000 +0100" stop="20151212113500 +0100">
+    <length units="minutes">15</length>
+    <title>Le 19h30</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212113500 +0100" stop="20151212115000 +0100">
+    <length units="minutes">15</length>
+    <title>Le journal de Saint-Pierre-et-Miquelon</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212115000 +0100" stop="20151212121500 +0100">
+    <length units="minutes">25</length>
+    <title>Journal de Mayotte</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212121500 +0100" stop="20151212124000 +0100">
+    <length units="minutes">25</length>
+    <title>Couleurs outremers</title>
+    <category>Magazine</category>
+    <desc>Le vin de Cilaos à La Réunion Les petites histoires qui font le sel de l'outre-mer. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212124000 +0100" stop="20151212130500 +0100">
+    <length units="minutes">25</length>
+    <title>Couleurs outremers</title>
+    <category>Magazine</category>
+    <desc>Episode 2 Au sommaire : (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212130500 +0100" stop="20151212133000 +0100">
+    <length units="minutes">25</length>
+    <title>Couleurs outremers</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : Jean-Charles, chef cuisinier à la Martinique. Pour affiner ses plats, Jean-Charles Bredas utilise les produits naturels endémiques... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212133000 +0100" stop="20151212140500 +0100">
+    <length units="minutes">35</length>
+    <title>Couleurs outremers</title>
+    <category>Magazine</category>
+    <desc>Mariage à Sainte-Lucie Les petites histoires qui font le sel de l'outre-mer. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212140500 +0100" stop="20151212143000 +0100">
+    <length units="minutes">25</length>
+    <title>Riding Zone</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Tiga</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212143000 +0100" stop="20151212150000 +0100">
+    <length units="minutes">30</length>
+    <title>Riding Zone</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : Immersion : France, l'attaque des trotiriders - Jeune discipline pratiquée dans la France entière par des millions de personnes, la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Tiga</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212150000 +0100" stop="20151212152500 +0100">
+    <length units="minutes">25</length>
+    <title>Riding Zone</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Tiga</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212152500 +0100" stop="20151212155500 +0100">
+    <length units="minutes">30</length>
+    <title>Riding Zone</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : Immersion : Le surf féminin en pleine expansion - Le surf féminin est en pleine expansion médiatique. Il s'est forgé au fil des... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Tiga</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212155500 +0100" stop="20151212162000 +0100">
+    <length units="minutes">25</length>
+    <title>Les sirènes de Mako</title>
+    <category>Série</category>
+    <desc>Rita tombe sous le charme du nouveau directeur du parc aquatique. De leur côté, Sirena et Mimmi créent une lotion révolutionnaire : elle rajeunit... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Evan Clarry</name>
+      <name function="actor">Kerith Atkinson</name>
+      <name function="actor">Gemma Forsyth</name>
+      <name function="actor">Allie Bertram</name>
+      <name function="actor">Amy Ruffle</name>
+      <name function="actor">Chai Romruen</name>
+      <name function="actor">Dominic Deutscher</name>
+      <name function="actor">Rowan Hills</name>
+      <name function="actor">Isabel Durant</name>
+      <name function="writer">Max Dann</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212162000 +0100" stop="20151212164500 +0100">
+    <length units="minutes">25</length>
+    <title>Les sirènes de Mako</title>
+    <category>Série</category>
+    <desc>Le frère de David, Joe, commande des écrevisses au café Océan. David les trouve minuscules et demande à Sirena et Mimmi de l'aider à changer la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Evan Clarry</name>
+      <name function="actor">Gemma Forsyth</name>
+      <name function="actor">Allie Bertram</name>
+      <name function="actor">Amy Ruffle</name>
+      <name function="actor">Chai Romruen</name>
+      <name function="actor">Dominic Deutscher</name>
+      <name function="actor">Rowan Hills</name>
+      <name function="actor">Isabel Durant</name>
+      <name function="actor">Kerith Atkinson</name>
+      <name function="writer">Mark Shirrefs</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212164500 +0100" stop="20151212171500 +0100">
+    <length units="minutes">30</length>
+    <title>Les sirènes de Mako</title>
+    <category>Série</category>
+    <desc>A l'approche de la pleine lune, les sirènes montrent à Evie comment canaliser son influence. Cam et Erik parviennent à convaincre Zac de les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Evan Clarry</name>
+      <name function="actor">Kerith Atkinson</name>
+      <name function="actor">Gemma Forsyth</name>
+      <name function="actor">Allie Bertram</name>
+      <name function="actor">Amy Ruffle</name>
+      <name function="actor">Chai Romruen</name>
+      <name function="actor">Dominic Deutscher</name>
+      <name function="actor">Rowan Hills</name>
+      <name function="actor">Isabel Durant</name>
+      <name function="writer">Evan Clarry</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212171500 +0100" stop="20151212173500 +0100">
+    <length units="minutes">20</length>
+    <title>Les sirènes de Mako</title>
+    <category>Série</category>
+    <desc>Constatant que Rita passe beaucoup de temps avec les trois filles, Zac et Cam se demandent si la Principale n'est pas une sirène elle... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="actor">Kerith Atkinson</name>
+      <name function="actor">Gemma Forsyth</name>
+      <name function="actor">Allie Bertram</name>
+      <name function="actor">Amy Ruffle</name>
+      <name function="actor">Chai Romruen</name>
+      <name function="actor">Dominic Deutscher</name>
+      <name function="actor">Rowan Hills</name>
+      <name function="actor">Isabel Durant</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212173500 +0100" stop="20151212180000 +0100">
+    <length units="minutes">25</length>
+    <title>Les sirènes de Mako</title>
+    <category>Série</category>
+    <desc>David organise un casting pour trouver la chanteuse qui l'accompagnera pour animer les soirées musicales du Café Océan afin, soi-disant, de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="actor">Kerith Atkinson</name>
+      <name function="actor">Gemma Forsyth</name>
+      <name function="actor">Allie Bertram</name>
+      <name function="actor">Amy Ruffle</name>
+      <name function="actor">Chai Romruen</name>
+      <name function="actor">Dominic Deutscher</name>
+      <name function="actor">Rowan Hills</name>
+      <name function="actor">Isabel Durant</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212180000 +0100" stop="20151212183000 +0100">
+    <length units="minutes">30</length>
+    <title>Les sirènes de Mako</title>
+    <category>Série</category>
+    <desc>Cam a un nouveau téléphone portable. Pour le tester, il fait des photos et une vidéo de Zac en train de nager dans sa piscine en... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="actor">Kerith Atkinson</name>
+      <name function="actor">Gemma Forsyth</name>
+      <name function="actor">Allie Bertram</name>
+      <name function="actor">Amy Ruffle</name>
+      <name function="actor">Chai Romruen</name>
+      <name function="actor">Dominic Deutscher</name>
+      <name function="actor">Rowan Hills</name>
+      <name function="actor">Isabel Durant</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212183000 +0100" stop="20151212191000 +0100">
+    <length units="minutes">40</length>
+    <title>Crossbones</title>
+    <category>Série</category>
+    <desc>Déconcertée, Nelly découvre finalement la lettre que Rose a laissée derrière elle. Elle demande alors à Tom Lowe et à Fletch de l'aider à... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Daniel Attias</name>
+      <name function="actor">Richard Coyle</name>
+      <name function="actor">Peter Stebbings</name>
+      <name function="actor">Claire Foy</name>
+      <name function="actor">Tracy Ifeachor</name>
+      <name function="actor">Yasmine Al Massri</name>
+      <name function="actor">Chris Perfetti</name>
+      <name function="actor">John Malkovich</name>
+      <name function="actor">David Hoflin</name>
+      <name function="writer">Neil Cross</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212191000 +0100" stop="20151212195000 +0100">
+    <length units="minutes">40</length>
+    <title>Crossbones</title>
+    <category>Série</category>
+    <desc>Sous la pression d'un mystérieux chef de guerre, Barbe Noire décide de mettre les voiles. Son but : intercepter la flotte espagnole et mettre la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Deran Sarafian</name>
+      <name function="actor">Julian Sands</name>
+      <name function="actor">John Malkovich</name>
+      <name function="actor">David Hoflin</name>
+      <name function="actor">Richard Coyle</name>
+      <name function="actor">Peter Stebbings</name>
+      <name function="actor">Claire Foy</name>
+      <name function="actor">Tracy Ifeachor</name>
+      <name function="actor">Chris Perfetti</name>
+      <name function="writer">Neil Cross</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212195000 +0100" stop="20151212203500 +0100">
+    <length units="minutes">45</length>
+    <title>Crossbones</title>
+    <category>Série</category>
+    <desc>Jagger lance l'assaut final sur Santa Campana, muni d'une arme secrète et redoutable. Barbe Noire veut unir son équipage et les habitans de Santa... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Ciaran Donnelly</name>
+      <name function="actor">Julian Sands</name>
+      <name function="actor">John Malkovich</name>
+      <name function="actor">David Hoflin</name>
+      <name function="actor">Richard Coyle</name>
+      <name function="actor">Peter Stebbings</name>
+      <name function="actor">Claire Foy</name>
+      <name function="actor">Tracy Ifeachor</name>
+      <name function="actor">Chris Perfetti</name>
+      <name function="writer">Neil Cross</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212203500 +0100" stop="20151212221000 +0100">
+    <length units="minutes">95</length>
+    <title>La smala s'en mêle</title>
+    <category>Téléfilm</category>
+    <desc>Isabelle est au bord de l'implosion. Les préparatifs en vue du déménagement s'accélèrent, lorsqu'une mauvaise nouvelle arrive : la maison dans... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Olivier Barma</name>
+      <name function="actor">Katia Tchenko</name>
+      <name function="actor">Micky Sébastian</name>
+      <name function="actor">Thomas Doucet</name>
+      <name function="actor">Michèle Bernier</name>
+      <name function="actor">Julie de Bona</name>
+      <name function="actor">Marc Grosy</name>
+      <name function="actor">Rémi Yen</name>
+      <name function="actor">Mariama Gueye</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212221000 +0100" stop="20151212234000 +0100">
+    <length units="minutes">90</length>
+    <title>Comme chez soi</title>
+    <category>Téléfilm</category>
+    <desc>Cécile, Marc et leurs enfants ont convenu par Internet d'un échange de leur maison contre un appartement à Istanbul. Au dernier moment, le voyage... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Lorenzo Gabriele</name>
+      <name function="actor">Elise Tielrooy</name>
+      <name function="actor">Shemss Audat</name>
+      <name function="actor">Maxime Coggio</name>
+      <name function="actor">Ozz Nûjen</name>
+      <name function="actor">Sedef Ecer</name>
+      <name function="actor">Philippe Lefebvre</name>
+      <name function="actor">Camille Verschuere</name>
+      <name function="actor">Hanna Cohen</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212234000 +0100" stop="20151213003000 +0100">
+    <length units="minutes">50</length>
+    <title>Chemins d'école, chemins de tous les dangers</title>
+    <category>Documentaire</category>
+    <desc>Au Mexique, les enfants tarahumara, l'une des dernières tribus amérindiennes, gravissent des gorges de 1950 mètres en une heure et demie pour... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Marc Kosak</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213003000 +0100" stop="20151213003800 +0100">
+    <length units="minutes">8</length>
+    <title>Infô soir</title>
+    <category>Journal</category>
+    <desc>Accompagné par Karine Sigaud-Zabulon ou Marie Radovic, Cyriaque Sommier présente l'actualité ultramarine. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Cyriaque Sommier</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213003800 +0100" stop="20151213004000 +0100">
+    <length units="minutes">2</length>
+    <title>Météo</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213004000 +0100" stop="20151213004500 +0100">
+    <length units="minutes">5</length>
+    <title>Champions de France</title>
+    <category>Documentaire</category>
+    <desc>Portraits de sportifs français, d'origines diverses, et devenus champions, des Jeux olympiques de 1896 à nos jours. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Rachid Bouchareb</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213004500 +0100" stop="20151213011000 +0100">
+    <length units="minutes">25</length>
+    <title>H</title>
+    <category>Série</category>
+    <desc>Sabri s'est découvert une nouvelle passion : la cuisine. Il entreprend de confectionner une omelette aux champignons, qu'il s'empresse de faire... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jean-Luc Moreau</name>
+      <name function="actor">Sophie Mounicot</name>
+      <name function="actor">Jamel Debbouze</name>
+      <name function="actor">Eric Judor</name>
+      <name function="actor">Catherine Benguigui</name>
+      <name function="actor">Ramzy Bedia</name>
+      <name function="actor">Jean-Luc Bideau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213011000 +0100" stop="20151213013000 +0100">
+    <length units="minutes">20</length>
+    <title>H</title>
+    <category>Série</category>
+    <desc>Jamel ne sait plus comment attendrir Charlotte, qui ne s'intéresse guère à lui. Il tente une première ruse en feignant de sortir avec Emilie.... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Eric Lartigau</name>
+      <name function="actor">Guilaine Londez</name>
+      <name function="actor">Sophie Mounicot</name>
+      <name function="actor">Jamel Debbouze</name>
+      <name function="actor">Eric Judor</name>
+      <name function="actor">Ramzy Bedia</name>
+      <name function="actor">Linda Hardy</name>
+      <name function="actor">Jean-Luc Bideau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213013000 +0100" stop="20151213015500 +0100">
+    <length units="minutes">25</length>
+    <title>H</title>
+    <category>Série</category>
+    <desc>Le doyen des hôpitaux doit être opéré d'un genou par le professeur Strauss. Voilà qui ouvre des perspectives successorales au directeur de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Charles Nemes</name>
+      <name function="actor">Sophie Mounicot</name>
+      <name function="actor">Jamel Debbouze</name>
+      <name function="actor">Eric Judor</name>
+      <name function="actor">Ramzy Bedia</name>
+      <name function="actor">Jean-Luc Bideau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213015500 +0100" stop="20151213022000 +0100">
+    <length units="minutes">25</length>
+    <title>H</title>
+    <category>Série</category>
+    <desc>Clara rayonne de bonheur : grâce aux bons soins du professeur Strauss, qui a pratiqué sur elle une fécondation in vitro, elle est enfin enceinte.... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Charles Nemes</name>
+      <name function="actor">Sophie Mounicot</name>
+      <name function="actor">Jamel Debbouze</name>
+      <name function="actor">Eric Judor</name>
+      <name function="actor">Ramzy Bedia</name>
+      <name function="actor">Jean-Luc Bideau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213022000 +0100" stop="20151213024500 +0100">
+    <length units="minutes">25</length>
+    <title>H</title>
+    <category>Série</category>
+    <desc>Sabri s'entretient avec un nouveau patient qui prétend être gagné par la malchance depuis qu'il porte sa nouvelle montre. Perplexe, Sabri a du... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jean-Luc Moreau</name>
+      <name function="actor">Sophie Mounicot</name>
+      <name function="actor">Jamel Debbouze</name>
+      <name function="actor">Eric Judor</name>
+      <name function="actor">Catherine Benguigui</name>
+      <name function="actor">Ramzy Bedia</name>
+      <name function="actor">Jean-Luc Bideau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213024500 +0100" stop="20151213041000 +0100">
+    <length units="minutes">85</length>
+    <title>Marco Polo</title>
+    <category>Téléfilm</category>
+    <desc>Au XIIIe siècle, Marco Polo, un marchand vénitien, est chargé d'accompagner deux missionnaires en Chine, jusqu'à la cour mongole du redoutable... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Kevin Connor</name>
+      <name function="actor">BD Wong</name>
+      <name function="actor">Ian Somerhalder</name>
+      <name function="actor">Alan Shearman</name>
+      <name function="actor">Mark Jax</name>
+      <name function="actor">Daxing Zhang</name>
+      <name function="actor">Desiree Ann Siahaan</name>
+      <name function="actor">Keagan Kang</name>
+      <name function="actor">Brian Dennehy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213041000 +0100" stop="20151213053500 +0100">
+    <length units="minutes">85</length>
+    <title>Marco Polo</title>
+    <category>Téléfilm</category>
+    <desc>Après le départ de Matteo et Niccolo, Marco Polo est accueilli avec tous les honneurs à la cour de Kublai Khan. Il découvre une civilisation... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Kevin Connor</name>
+      <name function="actor">BD Wong</name>
+      <name function="actor">Ian Somerhalder</name>
+      <name function="actor">Alan Shearman</name>
+      <name function="actor">Mark Jax</name>
+      <name function="actor">Daxing Zhang</name>
+      <name function="actor">Desiree Ann Siahaan</name>
+      <name function="actor">Keagan Kang</name>
+      <name function="actor">Brian Dennehy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213053500 +0100" stop="20151213062000 +0100">
+    <length units="minutes">45</length>
+    <title>Crossbones</title>
+    <category>Série</category>
+    <desc>Essayant d'attendrir l'homme sanguinaire qu'est son capitaine, Lowe annonce à Barbe Noire que son état de santé est en train d'empirer dans le... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Daniel Attias</name>
+      <name function="actor">Richard Coyle</name>
+      <name function="actor">Peter Stebbings</name>
+      <name function="actor">Claire Foy</name>
+      <name function="actor">Tracy Ifeachor</name>
+      <name function="actor">Yasmine Al Massri</name>
+      <name function="actor">Chris Perfetti</name>
+      <name function="actor">John Malkovich</name>
+      <name function="actor">David Hoflin</name>
+      <name function="writer">Michael Oates Palmer</name>
     </credits>
     <image />
   </programme>

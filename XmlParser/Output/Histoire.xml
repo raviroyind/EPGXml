@@ -1,149 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Histoire">
-    <display-name>test</display-name>
+    <display-name>MTV</display-name>
   </channel>
-  <programme channel="test" start="20151205015000 +0100" stop="20151205023500 +0100">
-    <length units="minutes">45</length>
-    <title>Hitler et l'Allemagne : une attraction fatale</title>
-    <category>Documentaire</category>
-    <desc>Malgré la signature du traité de Munich en septembre 1938, Hitler prend le contrôle total de la Tchécoslovaquie le 16 mars 1939 : les prémices de... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Daniel Kontur</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205023500 +0100" stop="20151205032500 +0100">
-    <length units="minutes">50</length>
-    <title>8 mai 1945, une journée particulière</title>
-    <category>Documentaire</category>
-    <desc>Le 7 mai 1945 à Reims et le 8 mai à Berlin, le général Jodl et le maréchal Keitel signaient, ici devant Eisenhower, là au Quartier Général... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Pierre Miquel,</name>
-      <name function="director">William Karel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205032500 +0100" stop="20151205040500 +0100">
-    <length units="minutes">40</length>
-    <title>Historiquement show</title>
-    <category>Magazine</category>
-    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Christophe Buisson,</name>
-      <name function="presenter">Adèle Galloy</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205040500 +0100" stop="20151205060500 +0100">
-    <length units="minutes">120</length>
-    <title>Fin des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205060500 +0100" stop="20151205073000 +0100">
-    <length units="minutes">85</length>
-    <title>Si je mourais là-bas</title>
-    <category>Documentaire</category>
-    <desc>La guerre de 14-18 racontée par des écrivains de l'époque : les fantassins Péguy et Barbusse, l'artilleur Apollinaire, le légionnaire Cendrars,... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Guillaume Laidet</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205073000 +0100" stop="20151205082000 +0100">
-    <length units="minutes">50</length>
-    <title>Quatre hommes dans la Grande Guerre</title>
-    <category>Documentaire</category>
-    <desc>Un aristocrate anglais, un polytechnicien français spécialiste des mines, un aviateur allemand et un officier de santé russe, emportés dans le... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Philippe Claude,</name>
-      <name function="director">Annette Gourdon</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205082000 +0100" stop="20151205092000 +0100">
-    <length units="minutes">60</length>
-    <title>Armistice</title>
-    <category>Documentaire</category>
-    <desc>David Reynolds, professeur à Cambridge, revient sur les événements extraordinaires et les personnalités impliquées dans l'Armistice de... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Russell Barnes</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205092000 +0100" stop="20151205100000 +0100">
-    <length units="minutes">40</length>
-    <title>Historiquement show</title>
-    <category>Magazine</category>
-    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Christophe Buisson,</name>
-      <name function="presenter">Adèle Galloy</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205100000 +0100" stop="20151205105000 +0100">
-    <length units="minutes">50</length>
-    <title>L'Empire romain</title>
-    <category>Documentaire</category>
-    <desc>A Pompéi, l'éruption du Vésuve, en recouvrant la cité, a arrêté le temps pour toujours. Si les dernières fouilles confirment la richesse et la... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Serge Tignères</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205105000 +0100" stop="20151205113500 +0100">
-    <length units="minutes">45</length>
-    <title>Un oeil, une histoire</title>
-    <category>Documentaire</category>
-    <desc>L'historien de l'art Roland Recht analyse plusieurs oeuvres, de différentes époques dont une gravure de Hans Baldung Grien et «Les Demoiselles... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Pascale Bouhénic,</name>
-      <name function="director">Marianne Alphant</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205113500 +0100" stop="20151205123000 +0100">
-    <length units="minutes">55</length>
-    <title>Lucien Clergue, à la mort, à la vie</title>
-    <category>Documentaire</category>
-    <desc>Académicien et cofondateur des Rencontres internationales de la Photographie, Lucien Clergue livre les éléments marquants de sa vie et quelques... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Elisabeth Aubert Schlumberger</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205123000 +0100" stop="20151205130000 +0100">
-    <length units="minutes">30</length>
-    <title>Trésors de civilisations</title>
-    <category>Documentaire</category>
-    <desc>Vienne fut la capitale de l'Empire austro-hongrois. Le centre historique de la ville abrite une grande variété d'éléments architecturaux,... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Nicolas Thomä</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205130000 +0100" stop="20151205144000 +0100">
-    <length units="minutes">100</length>
-    <title>La conspiration du général Mallet</title>
-    <category>Téléfilm</category>
-    <desc>Le général Malet, opposant de longue date à Napoléon 1er, parvient à s'évader de sa prison, en octobre 1812. Il décide de profiter de la campagne... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Jean-Pierre Marchand</name>
-      <name function="actor">François Maistre</name>
-      <name function="actor">Henri Crémieux</name>
-      <name function="actor">Alain Nobis</name>
-      <name function="actor">Julien Bertheau</name>
-      <name function="actor">Yves Vincent</name>
-      <name function="actor">André Charpak</name>
-      <name function="actor">Jean Galland</name>
-      <name function="actor">Jean-Pierre Lituac</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205144000 +0100" stop="20151205152500 +0100">
+  <programme channel="MTV" start="20151206060000 +0100" stop="20151206064500 +0100">
     <length units="minutes">45</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
@@ -154,114 +14,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151205152500 +0100" stop="20151205161500 +0100">
-    <length units="minutes">50</length>
-    <title>Exil nazi : la promesse de l'Orient</title>
-    <category>Documentaire</category>
-    <desc>Au lendemain de la Seconde Guerre mondiale, de nombreux responsables nazis ont réussi à échapper à la justice internationale en se réfugiant en... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Géraldine Schwarz</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205161500 +0100" stop="20151205171000 +0100">
-    <length units="minutes">55</length>
-    <title>Du D-Day à Diên Biên Phu</title>
-    <category>Documentaire</category>
-    <desc>Le parcours édifiant des prisonniers allemands capturés après le Débarquement, qui se sont engagés ensuite dans la Légion et ont combattu en... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Georges Guillot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205171000 +0100" stop="20151205175500 +0100">
-    <length units="minutes">45</length>
-    <title>MLK : révélations autour d'un assassinat</title>
-    <category>Documentaire</category>
-    <desc>Retour sur l'assassinat du pasteur américain Martin Luther King, militant contre la ségrégation raciale, abattu en avril 1968 sur le balcon d'un... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Tom Jennings</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205175500 +0100" stop="20151205195000 +0100">
-    <length units="minutes">115</length>
-    <title>1964</title>
-    <category>Documentaire</category>
-    <desc>1964 : les Beatles arrivent aux Etats-Unis, Cassius Clay devient Mohamed Ali, trois défenseurs des droits civils sont assassinés dans le... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Stephen Ives</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205195000 +0100" stop="20151205203000 +0100">
-    <length units="minutes">40</length>
-    <title>Historiquement show</title>
-    <category>Magazine</category>
-    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Christophe Buisson,</name>
-      <name function="presenter">Adèle Galloy</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205203000 +0100" stop="20151205204000 +0100">
-    <length units="minutes">10</length>
-    <title>Brèves d'histoire</title>
-    <category>Magazine</category>
-    <desc>L'historien de l'insolite Jean-Paul Rouland évoque toutes les petites histoires cocasses et les anecdotes qui ont fait la grande... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Paul Rouland</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205204000 +0100" stop="20151205214000 +0100">
-    <length units="minutes">60</length>
-    <title>Les impressionnistes</title>
-    <category>Documentaire</category>
-    <desc>A ciel ouvert Un parcours qui suit Waldemar Januszczak au coeur des paysages qu'ont tant aimé peindre Cézanne, Monet, Pissarro et Renoir, maîtres de... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205214000 +0100" stop="20151205224000 +0100">
-    <length units="minutes">60</length>
-    <title>La ferme Tudor</title>
-    <category>Documentaire</category>
-    <desc>Ruth Goodman, Peter Ginn et Tom Pinfold s'immergent dans l'ambiance d'une ferme de l'époque des Tudor ; ils concoctent des recettes... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Stuart Elliott</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205224000 +0100" stop="20151206000000 +0100">
-    <length units="minutes">80</length>
-    <title>Le mystérieux enlèvement du sénateur Clément de Ris</title>
-    <category>Téléfilm</category>
-    <desc>En 1800, le sénateur Clément de Ris est enlevé par six hommes masqués dans son château de Touraine, puis séquestré dans une grotte pendant seize... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Stellio Lorenzi</name>
-      <name function="actor">Blanchette Brunoy</name>
-      <name function="actor">Lucien Nat</name>
-      <name function="actor">William Sabatier</name>
-      <name function="actor">André Valmy</name>
-      <name function="actor">Renaud Mary</name>
-      <name function="actor">Jean-Jacques Steen</name>
-      <name function="actor">Jean Dalmain</name>
-      <name function="actor">Georges Riquier</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206000000 +0100" stop="20151206004500 +0100">
-    <length units="minutes">45</length>
-    <title>Historiquement show</title>
-    <category>Magazine</category>
-    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Christophe Buisson,</name>
-      <name function="presenter">Adèle Galloy</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206004500 +0100" stop="20151206013000 +0100">
+  <programme channel="MTV" start="20151206064500 +0100" stop="20151206073000 +0100">
     <length units="minutes">45</length>
     <title>Léonard de Vinci : la fresque disparue</title>
     <category>Documentaire</category>
@@ -271,17 +24,17 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206013000 +0100" stop="20151206022000 +0100">
+  <programme channel="MTV" start="20151206073000 +0100" stop="20151206082000 +0100">
     <length units="minutes">50</length>
     <title>Léonard de Vinci</title>
     <category>Documentaire</category>
-    <desc>Il y a une dizaine d'années, Peter Silverman, un marchand d'art, repère un dessin d'un artiste allemand inconnu du XIXe siècle au cours d'une... (Lire la suite).(c)</desc>
+    <desc>Il y a une dizaine d'années, Peter Silverman, un marchand d'art, repère un dessin d'un artiste allemand inconnu du XIXe siècle au cours d'une... (Lire la suite).</desc>
     <credits>
       <name function="director">David Murdock</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206022000 +0100" stop="20151206031500 +0100">
+  <programme channel="MTV" start="20151206082000 +0100" stop="20151206091500 +0100">
     <length units="minutes">55</length>
     <title>A la recherche de l'art perdu</title>
     <category>Documentaire</category>
@@ -291,14 +44,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206031500 +0100" stop="20151206060500 +0100">
+  <programme channel="MTV" start="20151206091500 +0100" stop="20151206120500 +0100">
     <length units="minutes">170</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206060500 +0100" stop="20151206062000 +0100">
+  <programme channel="MTV" start="20151206120500 +0100" stop="20151206122000 +0100">
     <length units="minutes">15</length>
     <title>Histoire de comprendre</title>
     <category>Documentaire</category>
@@ -308,7 +61,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206062000 +0100" stop="20151206071000 +0100">
+  <programme channel="MTV" start="20151206122000 +0100" stop="20151206131000 +0100">
     <length units="minutes">50</length>
     <title>Dans l'ombre de la Grande Guerre</title>
     <category>Documentaire</category>
@@ -318,7 +71,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206071000 +0100" stop="20151206080000 +0100">
+  <programme channel="MTV" start="20151206131000 +0100" stop="20151206140000 +0100">
     <length units="minutes">50</length>
     <title>Dans l'ombre de la Grande Guerre</title>
     <category>Documentaire</category>
@@ -328,7 +81,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206080000 +0100" stop="20151206085000 +0100">
+  <programme channel="MTV" start="20151206140000 +0100" stop="20151206145000 +0100">
     <length units="minutes">50</length>
     <title>Dans l'ombre de la Grande Guerre</title>
     <category>Documentaire</category>
@@ -338,7 +91,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206085000 +0100" stop="20151206093000 +0100">
+  <programme channel="MTV" start="20151206145000 +0100" stop="20151206153000 +0100">
     <length units="minutes">40</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
@@ -349,7 +102,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206093000 +0100" stop="20151206103000 +0100">
+  <programme channel="MTV" start="20151206153000 +0100" stop="20151206163000 +0100">
     <length units="minutes">60</length>
     <title>Mères, maîtresses, meurtrières</title>
     <category>Documentaire</category>
@@ -359,7 +112,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206103000 +0100" stop="20151206113500 +0100">
+  <programme channel="MTV" start="20151206163000 +0100" stop="20151206173500 +0100">
     <length units="minutes">65</length>
     <title>1913 : sur les rails de l'Europe</title>
     <category>Documentaire</category>
@@ -369,14 +122,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206113500 +0100" stop="20151206123500 +0100">
+  <programme channel="MTV" start="20151206173500 +0100" stop="20151206183500 +0100">
     <length units="minutes">60</length>
     <title>Les impressionnistes</title>
     <category>Documentaire</category>
     <desc>La bande des quatre Dans les îles Vierges, en 1830, naît le futur peintre Pissarro, qui deviendra l'un des créateurs du mouvements impressionniste qui révolutionna... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206123500 +0100" stop="20151206130500 +0100">
+  <programme channel="MTV" start="20151206183500 +0100" stop="20151206190500 +0100">
     <length units="minutes">30</length>
     <title>Trésors de civilisations</title>
     <category>Documentaire</category>
@@ -386,7 +139,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206130500 +0100" stop="20151206145000 +0100">
+  <programme channel="MTV" start="20151206190500 +0100" stop="20151206205000 +0100">
     <length units="minutes">105</length>
     <title>La mort de Marie-Antoinette</title>
     <category>Téléfilm</category>
@@ -404,7 +157,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206145000 +0100" stop="20151206153000 +0100">
+  <programme channel="MTV" start="20151206205000 +0100" stop="20151206213000 +0100">
     <length units="minutes">40</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
@@ -415,7 +168,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206153000 +0100" stop="20151206162000 +0100">
+  <programme channel="MTV" start="20151206213000 +0100" stop="20151206222000 +0100">
     <length units="minutes">50</length>
     <title>Singapour 1942 : la fin de l'empire britannique</title>
     <category>Documentaire</category>
@@ -425,7 +178,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206162000 +0100" stop="20151206171500 +0100">
+  <programme channel="MTV" start="20151206222000 +0100" stop="20151206231500 +0100">
     <length units="minutes">55</length>
     <title>Singapour 1942 : la fin de l'empire britannique</title>
     <category>Documentaire</category>
@@ -435,7 +188,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206171500 +0100" stop="20151206180500 +0100">
+  <programme channel="MTV" start="20151206231500 +0100" stop="20151207000500 +0100">
     <length units="minutes">50</length>
     <title>Je suis le fleuve</title>
     <category>Documentaire</category>
@@ -446,7 +199,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206180500 +0100" stop="20151206190000 +0100">
+  <programme channel="MTV" start="20151207000500 +0100" stop="20151207010000 +0100">
     <length units="minutes">55</length>
     <title>L'histoire extraordinaire de William Buckley</title>
     <category>Documentaire</category>
@@ -456,7 +209,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206190000 +0100" stop="20151206195000 +0100">
+  <programme channel="MTV" start="20151207010000 +0100" stop="20151207015000 +0100">
     <length units="minutes">50</length>
     <title>La guerre de Jandamarra</title>
     <category>Documentaire</category>
@@ -466,7 +219,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206195000 +0100" stop="20151206203000 +0100">
+  <programme channel="MTV" start="20151207015000 +0100" stop="20151207023000 +0100">
     <length units="minutes">40</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
@@ -477,7 +230,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206203000 +0100" stop="20151206204000 +0100">
+  <programme channel="MTV" start="20151207023000 +0100" stop="20151207024000 +0100">
     <length units="minutes">10</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
@@ -487,7 +240,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206204000 +0100" stop="20151206212500 +0100">
+  <programme channel="MTV" start="20151207024000 +0100" stop="20151207032500 +0100">
     <length units="minutes">45</length>
     <title>Héros de guerre</title>
     <category>Documentaire</category>
@@ -497,7 +250,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206212500 +0100" stop="20151206222000 +0100">
+  <programme channel="MTV" start="20151207032500 +0100" stop="20151207042000 +0100">
     <length units="minutes">55</length>
     <title>La Corse libérée</title>
     <category>Documentaire</category>
@@ -507,7 +260,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206222000 +0100" stop="20151206231500 +0100">
+  <programme channel="MTV" start="20151207042000 +0100" stop="20151207051500 +0100">
     <length units="minutes">55</length>
     <title>Résistance</title>
     <category>Série</category>
@@ -526,7 +279,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206231500 +0100" stop="20151207001500 +0100">
+  <programme channel="MTV" start="20151207051500 +0100" stop="20151207061500 +0100">
     <length units="minutes">60</length>
     <title>Résistance</title>
     <category>Série</category>
@@ -545,7 +298,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207001500 +0100" stop="20151207005500 +0100">
+  <programme channel="MTV" start="20151207061500 +0100" stop="20151207065500 +0100">
     <length units="minutes">40</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
@@ -556,7 +309,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207005500 +0100" stop="20151207015000 +0100">
+  <programme channel="MTV" start="20151207065500 +0100" stop="20151207075000 +0100">
     <length units="minutes">55</length>
     <title>Léonard de Vinci</title>
     <category>Documentaire</category>
@@ -566,7 +319,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207015000 +0100" stop="20151207033000 +0100">
+  <programme channel="MTV" start="20151207075000 +0100" stop="20151207093000 +0100">
     <length units="minutes">100</length>
     <title>Da Vinci Detective</title>
     <category>Documentaire</category>
@@ -576,14 +329,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207033000 +0100" stop="20151207064000 +0100">
+  <programme channel="MTV" start="20151207093000 +0100" stop="20151207124000 +0100">
     <length units="minutes">190</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207064000 +0100" stop="20151207073000 +0100">
+  <programme channel="MTV" start="20151207124000 +0100" stop="20151207133000 +0100">
     <length units="minutes">50</length>
     <title>De Hollywood à Nuremberg</title>
     <category>Documentaire</category>
@@ -593,7 +346,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207073000 +0100" stop="20151207091500 +0100">
+  <programme channel="MTV" start="20151207133000 +0100" stop="20151207151500 +0100">
     <length units="minutes">105</length>
     <title>Goering : bras de fer à Nuremberg</title>
     <category>Documentaire</category>
@@ -603,7 +356,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207091500 +0100" stop="20151207100500 +0100">
+  <programme channel="MTV" start="20151207151500 +0100" stop="20151207160500 +0100">
     <length units="minutes">50</length>
     <title>Le libraire</title>
     <category>Documentaire</category>
@@ -613,7 +366,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207100500 +0100" stop="20151207110000 +0100">
+  <programme channel="MTV" start="20151207160500 +0100" stop="20151207170000 +0100">
     <length units="minutes">55</length>
     <title>Le vrai Bond</title>
     <category>Documentaire</category>
@@ -623,7 +376,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207110000 +0100" stop="20151207111500 +0100">
+  <programme channel="MTV" start="20151207170000 +0100" stop="20151207171500 +0100">
     <length units="minutes">15</length>
     <title>Histoire de comprendre</title>
     <category>Documentaire</category>
@@ -633,7 +386,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207111500 +0100" stop="20151207135000 +0100">
+  <programme channel="MTV" start="20151207171500 +0100" stop="20151207195000 +0100">
     <length units="minutes">155</length>
     <title>L'affaire Calas</title>
     <category>Téléfilm</category>
@@ -651,7 +404,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207135000 +0100" stop="20151207143000 +0100">
+  <programme channel="MTV" start="20151207195000 +0100" stop="20151207203000 +0100">
     <length units="minutes">40</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
@@ -662,7 +415,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207143000 +0100" stop="20151207150000 +0100">
+  <programme channel="MTV" start="20151207203000 +0100" stop="20151207210000 +0100">
     <length units="minutes">30</length>
     <title>Trésors de civilisations</title>
     <category>Documentaire</category>
@@ -672,7 +425,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207150000 +0100" stop="20151207160000 +0100">
+  <programme channel="MTV" start="20151207210000 +0100" stop="20151207220000 +0100">
     <length units="minutes">60</length>
     <title>1913 : sur les rails de l'Europe</title>
     <category>Documentaire</category>
@@ -682,7 +435,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207160000 +0100" stop="20151207162000 +0100">
+  <programme channel="MTV" start="20151207220000 +0100" stop="20151207222000 +0100">
     <length units="minutes">20</length>
     <title>A chaque tableau son histoire</title>
     <category>Documentaire</category>
@@ -692,7 +445,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207162000 +0100" stop="20151207164500 +0100">
+  <programme channel="MTV" start="20151207222000 +0100" stop="20151207224500 +0100">
     <length units="minutes">25</length>
     <title>A chaque tableau son histoire</title>
     <category>Documentaire</category>
@@ -702,7 +455,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207164500 +0100" stop="20151207165500 +0100">
+  <programme channel="MTV" start="20151207224500 +0100" stop="20151207225500 +0100">
     <length units="minutes">10</length>
     <title>Masterworks</title>
     <category>Documentaire</category>
@@ -712,7 +465,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207165500 +0100" stop="20151207170500 +0100">
+  <programme channel="MTV" start="20151207225500 +0100" stop="20151207230500 +0100">
     <length units="minutes">10</length>
     <title>Masterworks</title>
     <category>Documentaire</category>
@@ -722,7 +475,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207170500 +0100" stop="20151207180000 +0100">
+  <programme channel="MTV" start="20151207230500 +0100" stop="20151208000000 +0100">
     <length units="minutes">55</length>
     <title>Cheval de guerre, une histoire française</title>
     <category>Documentaire</category>
@@ -732,7 +485,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207180000 +0100" stop="20151207185000 +0100">
+  <programme channel="MTV" start="20151208000000 +0100" stop="20151208005000 +0100">
     <length units="minutes">50</length>
     <title>La Somme, la guerre secrète des tunnels</title>
     <category>Documentaire</category>
@@ -742,7 +495,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207185000 +0100" stop="20151207194000 +0100">
+  <programme channel="MTV" start="20151208005000 +0100" stop="20151208014000 +0100">
     <length units="minutes">50</length>
     <title>Héros de guerre</title>
     <category>Documentaire</category>
@@ -752,7 +505,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207194000 +0100" stop="20151207195000 +0100">
+  <programme channel="MTV" start="20151208014000 +0100" stop="20151208015000 +0100">
     <length units="minutes">10</length>
     <title>Histoire de comprendre</title>
     <category>Documentaire</category>
@@ -762,7 +515,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207195000 +0100" stop="20151207200500 +0100">
+  <programme channel="MTV" start="20151208015000 +0100" stop="20151208020500 +0100">
     <length units="minutes">15</length>
     <title>Histoire de comprendre</title>
     <category>Documentaire</category>
@@ -772,7 +525,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207200500 +0100" stop="20151207203000 +0100">
+  <programme channel="MTV" start="20151208020500 +0100" stop="20151208023000 +0100">
     <length units="minutes">25</length>
     <title>Trésors de civilisations</title>
     <category>Documentaire</category>
@@ -782,7 +535,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207203000 +0100" stop="20151207204000 +0100">
+  <programme channel="MTV" start="20151208023000 +0100" stop="20151208024000 +0100">
     <length units="minutes">10</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
@@ -792,7 +545,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207204000 +0100" stop="20151207213000 +0100">
+  <programme channel="MTV" start="20151208024000 +0100" stop="20151208033000 +0100">
     <length units="minutes">50</length>
     <title>Bible Hunters</title>
     <category>Documentaire</category>
@@ -802,7 +555,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207213000 +0100" stop="20151207222500 +0100">
+  <programme channel="MTV" start="20151208033000 +0100" stop="20151208042500 +0100">
     <length units="minutes">55</length>
     <title>Bible Hunters</title>
     <category>Documentaire</category>
@@ -812,7 +565,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207222500 +0100" stop="20151207232500 +0100">
+  <programme channel="MTV" start="20151208042500 +0100" stop="20151208052500 +0100">
     <length units="minutes">60</length>
     <title>1913 : sur les rails de l'Europe</title>
     <category>Documentaire</category>
@@ -822,7 +575,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207232500 +0100" stop="20151208001000 +0100">
+  <programme channel="MTV" start="20151208052500 +0100" stop="20151208061000 +0100">
     <length units="minutes">45</length>
     <title>Hitler et l'Allemagne : une attraction fatale</title>
     <category>Documentaire</category>
@@ -832,7 +585,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208001000 +0100" stop="20151208010000 +0100">
+  <programme channel="MTV" start="20151208061000 +0100" stop="20151208070000 +0100">
     <length units="minutes">50</length>
     <title>8 mai 1945, une journée particulière</title>
     <category>Documentaire</category>
@@ -843,7 +596,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208010000 +0100" stop="20151208014500 +0100">
+  <programme channel="MTV" start="20151208070000 +0100" stop="20151208074500 +0100">
     <length units="minutes">45</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
@@ -854,7 +607,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208014500 +0100" stop="20151208024000 +0100">
+  <programme channel="MTV" start="20151208074500 +0100" stop="20151208084000 +0100">
     <length units="minutes">55</length>
     <title>William Colby : Sur les traces de mon père, cet espion</title>
     <category>Documentaire</category>
@@ -864,7 +617,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208024000 +0100" stop="20151208041000 +0100">
+  <programme channel="MTV" start="20151208084000 +0100" stop="20151208101000 +0100">
     <length units="minutes">90</length>
     <title>Radio Free Europe</title>
     <category>Documentaire</category>
@@ -874,14 +627,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208041000 +0100" stop="20151208064000 +0100">
+  <programme channel="MTV" start="20151208101000 +0100" stop="20151208124000 +0100">
     <length units="minutes">150</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208064000 +0100" stop="20151208072500 +0100">
+  <programme channel="MTV" start="20151208124000 +0100" stop="20151208132500 +0100">
     <length units="minutes">45</length>
     <title>Je me souviens d'Anne Frank</title>
     <category>Documentaire</category>
@@ -891,7 +644,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208072500 +0100" stop="20151208080500 +0100">
+  <programme channel="MTV" start="20151208132500 +0100" stop="20151208140500 +0100">
     <length units="minutes">40</length>
     <title>Dans les camps à 17 ans</title>
     <category>Documentaire</category>
@@ -901,7 +654,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208080500 +0100" stop="20151208090500 +0100">
+  <programme channel="MTV" start="20151208140500 +0100" stop="20151208150500 +0100">
     <length units="minutes">60</length>
     <title>Vivre !</title>
     <category>Documentaire</category>
@@ -911,7 +664,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208090500 +0100" stop="20151208092000 +0100">
+  <programme channel="MTV" start="20151208150500 +0100" stop="20151208152000 +0100">
     <length units="minutes">15</length>
     <title>Histoire de comprendre</title>
     <category>Documentaire</category>
@@ -921,7 +674,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208092000 +0100" stop="20151208101500 +0100">
+  <programme channel="MTV" start="20151208152000 +0100" stop="20151208161500 +0100">
     <length units="minutes">55</length>
     <title>William Colby : Sur les traces de mon père, cet espion</title>
     <category>Documentaire</category>
@@ -931,7 +684,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208101500 +0100" stop="20151208110500 +0100">
+  <programme channel="MTV" start="20151208161500 +0100" stop="20151208170500 +0100">
     <length units="minutes">50</length>
     <title>Radio Free Europe</title>
     <category>Documentaire</category>
@@ -941,7 +694,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208110500 +0100" stop="20151208111000 +0100">
+  <programme channel="MTV" start="20151208170500 +0100" stop="20151208171000 +0100">
     <length units="minutes">5</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
@@ -951,7 +704,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208111000 +0100" stop="20151208112500 +0100">
+  <programme channel="MTV" start="20151208171000 +0100" stop="20151208172500 +0100">
     <length units="minutes">15</length>
     <title>Histoire de comprendre</title>
     <category>Documentaire</category>
@@ -961,7 +714,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208112500 +0100" stop="20151208132000 +0100">
+  <programme channel="MTV" start="20151208172500 +0100" stop="20151208192000 +0100">
     <length units="minutes">115</length>
     <title>Le meurtre de Henry Darnley</title>
     <category>Téléfilm</category>
@@ -979,7 +732,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208132000 +0100" stop="20151208133000 +0100">
+  <programme channel="MTV" start="20151208192000 +0100" stop="20151208193000 +0100">
     <length units="minutes">10</length>
     <title>Masterworks</title>
     <category>Documentaire</category>
@@ -989,7 +742,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208133000 +0100" stop="20151208141000 +0100">
+  <programme channel="MTV" start="20151208193000 +0100" stop="20151208201000 +0100">
     <length units="minutes">40</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
@@ -1000,7 +753,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208141000 +0100" stop="20151208144000 +0100">
+  <programme channel="MTV" start="20151208201000 +0100" stop="20151208204000 +0100">
     <length units="minutes">30</length>
     <title>Trésors de civilisations</title>
     <category>Documentaire</category>
@@ -1010,7 +763,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208144000 +0100" stop="20151208150500 +0100">
+  <programme channel="MTV" start="20151208204000 +0100" stop="20151208210500 +0100">
     <length units="minutes">25</length>
     <title>Trésors de civilisations</title>
     <category>Documentaire</category>
@@ -1020,7 +773,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208150500 +0100" stop="20151208160500 +0100">
+  <programme channel="MTV" start="20151208210500 +0100" stop="20151208220500 +0100">
     <length units="minutes">60</length>
     <title>1913 : sur les rails de l'Europe</title>
     <category>Documentaire</category>
@@ -1030,21 +783,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208160500 +0100" stop="20151208163000 +0100">
+  <programme channel="MTV" start="20151208220500 +0100" stop="20151208223000 +0100">
     <length units="minutes">25</length>
     <title>A chaque tableau son histoire</title>
     <category>Documentaire</category>
     <desc>La tempête Waldemar Januszczak, célèbre critique d'art britannique, s'intéresse cette fois au tableau mystérieux «La tempête», signé Giorgio Barbarelli da... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208163000 +0100" stop="20151208165500 +0100">
+  <programme channel="MTV" start="20151208223000 +0100" stop="20151208225500 +0100">
     <length units="minutes">25</length>
     <title>A chaque tableau son histoire</title>
     <category>Documentaire</category>
     <desc>La naissance de Vénus Un critique d'art britannique s'intéresse à «La naissance de Vénus», un tableau révolutionnaire peint à Florence vers 1485 par le célèbre... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208165500 +0100" stop="20151208170000 +0100">
+  <programme channel="MTV" start="20151208225500 +0100" stop="20151208230000 +0100">
     <length units="minutes">5</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
@@ -1054,7 +807,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208170000 +0100" stop="20151208175000 +0100">
+  <programme channel="MTV" start="20151208230000 +0100" stop="20151208235000 +0100">
     <length units="minutes">50</length>
     <title>L'Empire romain</title>
     <category>Documentaire</category>
@@ -1064,7 +817,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208175000 +0100" stop="20151208185000 +0100">
+  <programme channel="MTV" start="20151208235000 +0100" stop="20151209005000 +0100">
     <length units="minutes">60</length>
     <title>Mères, maîtresses, meurtrières</title>
     <category>Documentaire</category>
@@ -1074,7 +827,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208185000 +0100" stop="20151208194000 +0100">
+  <programme channel="MTV" start="20151209005000 +0100" stop="20151209014000 +0100">
     <length units="minutes">50</length>
     <title>Les évadés de Colditz</title>
     <category>Documentaire</category>
@@ -1084,7 +837,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208194000 +0100" stop="20151208195000 +0100">
+  <programme channel="MTV" start="20151209014000 +0100" stop="20151209015000 +0100">
     <length units="minutes">10</length>
     <title>Histoire de comprendre</title>
     <category>Documentaire</category>
@@ -1094,7 +847,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208195000 +0100" stop="20151208200500 +0100">
+  <programme channel="MTV" start="20151209015000 +0100" stop="20151209020500 +0100">
     <length units="minutes">15</length>
     <title>Histoire de comprendre</title>
     <category>Documentaire</category>
@@ -1104,7 +857,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208200500 +0100" stop="20151208203000 +0100">
+  <programme channel="MTV" start="20151209020500 +0100" stop="20151209023000 +0100">
     <length units="minutes">25</length>
     <title>Les grands assassinats de l'histoire</title>
     <category>Documentaire</category>
@@ -1115,7 +868,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208203000 +0100" stop="20151208204000 +0100">
+  <programme channel="MTV" start="20151209023000 +0100" stop="20151209024000 +0100">
     <length units="minutes">10</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
@@ -1125,14 +878,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208204000 +0100" stop="20151208213500 +0100">
+  <programme channel="MTV" start="20151209024000 +0100" stop="20151209033500 +0100">
     <length units="minutes">55</length>
     <title>L'art de la croix</title>
     <category>Documentaire</category>
     <desc>L'art pictural occidental a été inspiré par la crucifixion : chaque génération d'artistes a interprété ce thème, de Michel-Ange à Chagall, en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208213500 +0100" stop="20151208222000 +0100">
+  <programme channel="MTV" start="20151209033500 +0100" stop="20151209042000 +0100">
     <length units="minutes">45</length>
     <title>Les vraies reliques de Saint Jean-Baptiste</title>
     <category>Documentaire</category>
@@ -1142,7 +895,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208222000 +0100" stop="20151208232500 +0100">
+  <programme channel="MTV" start="20151209042000 +0100" stop="20151209052500 +0100">
     <length units="minutes">65</length>
     <title>Gustave Thibon, il était une foi</title>
     <category>Documentaire</category>
@@ -1152,7 +905,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208232500 +0100" stop="20151209001000 +0100">
+  <programme channel="MTV" start="20151209052500 +0100" stop="20151209061000 +0100">
     <length units="minutes">45</length>
     <title>Un oeil, une histoire</title>
     <category>Documentaire</category>
@@ -1163,7 +916,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209001000 +0100" stop="20151209010500 +0100">
+  <programme channel="MTV" start="20151209061000 +0100" stop="20151209070500 +0100">
     <length units="minutes">55</length>
     <title>Lucien Clergue, à la mort, à la vie</title>
     <category>Documentaire</category>
@@ -1173,7 +926,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209010500 +0100" stop="20151209014500 +0100">
+  <programme channel="MTV" start="20151209070500 +0100" stop="20151209074500 +0100">
     <length units="minutes">40</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
@@ -1184,7 +937,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209014500 +0100" stop="20151209015000 +0100">
+  <programme channel="MTV" start="20151209074500 +0100" stop="20151209075000 +0100">
     <length units="minutes">5</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
@@ -1194,7 +947,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209015000 +0100" stop="20151209031500 +0100">
+  <programme channel="MTV" start="20151209075000 +0100" stop="20151209091500 +0100">
     <length units="minutes">85</length>
     <title>Si je mourais là-bas</title>
     <category>Documentaire</category>
@@ -1204,7 +957,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209031500 +0100" stop="20151209040500 +0100">
+  <programme channel="MTV" start="20151209091500 +0100" stop="20151209100500 +0100">
     <length units="minutes">50</length>
     <title>Dans l'ombre de la Grande Guerre</title>
     <category>Documentaire</category>
@@ -1214,14 +967,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209040500 +0100" stop="20151209062500 +0100">
+  <programme channel="MTV" start="20151209100500 +0100" stop="20151209122500 +0100">
     <length units="minutes">140</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209062500 +0100" stop="20151209070500 +0100">
+  <programme channel="MTV" start="20151209122500 +0100" stop="20151209130500 +0100">
     <length units="minutes">40</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
@@ -1231,7 +984,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209070500 +0100" stop="20151209071000 +0100">
+  <programme channel="MTV" start="20151209130500 +0100" stop="20151209131000 +0100">
     <length units="minutes">5</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
@@ -1241,7 +994,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209071000 +0100" stop="20151209074000 +0100">
+  <programme channel="MTV" start="20151209131000 +0100" stop="20151209134000 +0100">
     <length units="minutes">30</length>
     <title>Trésors de civilisations</title>
     <category>Documentaire</category>
@@ -1251,7 +1004,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209074000 +0100" stop="20151209082500 +0100">
+  <programme channel="MTV" start="20151209134000 +0100" stop="20151209142500 +0100">
     <length units="minutes">45</length>
     <title>Léonard de Vinci : la fresque disparue</title>
     <category>Documentaire</category>
@@ -1261,7 +1014,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209082500 +0100" stop="20151209092000 +0100">
+  <programme channel="MTV" start="20151209142500 +0100" stop="20151209152000 +0100">
     <length units="minutes">55</length>
     <title>Léonard de Vinci</title>
     <category>Documentaire</category>
@@ -1271,7 +1024,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209092000 +0100" stop="20151209101500 +0100">
+  <programme channel="MTV" start="20151209152000 +0100" stop="20151209161500 +0100">
     <length units="minutes">55</length>
     <title>L'affaire Farewell</title>
     <category>Documentaire</category>
@@ -1281,7 +1034,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209101500 +0100" stop="20151209111000 +0100">
+  <programme channel="MTV" start="20151209161500 +0100" stop="20151209171000 +0100">
     <length units="minutes">55</length>
     <title>L'affaire Farewell</title>
     <category>Documentaire</category>
@@ -1291,7 +1044,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209111000 +0100" stop="20151209132500 +0100">
+  <programme channel="MTV" start="20151209171000 +0100" stop="20151209192500 +0100">
     <length units="minutes">135</length>
     <title>Le procès de Charles Ier</title>
     <category>Téléfilm</category>
@@ -1309,7 +1062,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209132500 +0100" stop="20151209140500 +0100">
+  <programme channel="MTV" start="20151209192500 +0100" stop="20151209200500 +0100">
     <length units="minutes">40</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
@@ -1319,7 +1072,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209140500 +0100" stop="20151209143500 +0100">
+  <programme channel="MTV" start="20151209200500 +0100" stop="20151209203500 +0100">
     <length units="minutes">30</length>
     <title>Les grands assassinats de l'histoire</title>
     <category>Documentaire</category>
@@ -1330,7 +1083,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209143500 +0100" stop="20151209150000 +0100">
+  <programme channel="MTV" start="20151209203500 +0100" stop="20151209210000 +0100">
     <length units="minutes">25</length>
     <title>Trésors de civilisations</title>
     <category>Documentaire</category>
@@ -1340,7 +1093,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209150000 +0100" stop="20151209160000 +0100">
+  <programme channel="MTV" start="20151209210000 +0100" stop="20151209220000 +0100">
     <length units="minutes">60</length>
     <title>1913 : sur les rails de l'Europe</title>
     <category>Documentaire</category>
@@ -1350,21 +1103,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209160000 +0100" stop="20151209162500 +0100">
+  <programme channel="MTV" start="20151209220000 +0100" stop="20151209222500 +0100">
     <length units="minutes">25</length>
     <title>A chaque tableau son histoire</title>
     <category>Documentaire</category>
     <desc>Garçon mordu par un lézard Le critique Waldemar Januszczak décrypte le tableau du «Garçon mordu par un lézard», du Caravage, qui représente une rencontre intrigante entre... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209162500 +0100" stop="20151209165000 +0100">
+  <programme channel="MTV" start="20151209222500 +0100" stop="20151209225000 +0100">
     <length units="minutes">25</length>
     <title>A chaque tableau son histoire</title>
     <category>Documentaire</category>
     <desc>Les Epoux Arnolfini Une analyse du tableau «Les Epoux Arnolfini», acquis par la National Gallery en 1842 : une oeuvre bien mystérieuse, peinte par Jan Van... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209165000 +0100" stop="20151209170000 +0100">
+  <programme channel="MTV" start="20151209225000 +0100" stop="20151209230000 +0100">
     <length units="minutes">10</length>
     <title>Masterworks</title>
     <category>Documentaire</category>
@@ -1374,7 +1127,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209170000 +0100" stop="20151209175000 +0100">
+  <programme channel="MTV" start="20151209230000 +0100" stop="20151209235000 +0100">
     <length units="minutes">50</length>
     <title>L'Empire romain</title>
     <category>Documentaire</category>
@@ -1384,7 +1137,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209175000 +0100" stop="20151209185000 +0100">
+  <programme channel="MTV" start="20151209235000 +0100" stop="20151210005000 +0100">
     <length units="minutes">60</length>
     <title>Mères, maîtresses, meurtrières</title>
     <category>Documentaire</category>
@@ -1394,7 +1147,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209185000 +0100" stop="20151209194000 +0100">
+  <programme channel="MTV" start="20151210005000 +0100" stop="20151210014000 +0100">
     <length units="minutes">50</length>
     <title>Héros de guerre</title>
     <category>Documentaire</category>
@@ -1404,7 +1157,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209194000 +0100" stop="20151209195000 +0100">
+  <programme channel="MTV" start="20151210014000 +0100" stop="20151210015000 +0100">
     <length units="minutes">10</length>
     <title>Histoire de comprendre</title>
     <category>Documentaire</category>
@@ -1414,7 +1167,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209195000 +0100" stop="20151209200500 +0100">
+  <programme channel="MTV" start="20151210015000 +0100" stop="20151210020500 +0100">
     <length units="minutes">15</length>
     <title>Histoire de comprendre</title>
     <category>Documentaire</category>
@@ -1424,7 +1177,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209200500 +0100" stop="20151209203000 +0100">
+  <programme channel="MTV" start="20151210020500 +0100" stop="20151210023000 +0100">
     <length units="minutes">25</length>
     <title>Les grands assassinats de l'histoire</title>
     <category>Documentaire</category>
@@ -1435,7 +1188,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209203000 +0100" stop="20151209204000 +0100">
+  <programme channel="MTV" start="20151210023000 +0100" stop="20151210024000 +0100">
     <length units="minutes">10</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
@@ -1445,21 +1198,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209204000 +0100" stop="20151209212000 +0100">
+  <programme channel="MTV" start="20151210024000 +0100" stop="20151210032000 +0100">
     <length units="minutes">40</length>
     <title>L'énigme Jésus</title>
     <category>Documentaire</category>
     <desc>La redécouverte, 2000 ans après Jésus-Christ, d'évangiles gnostiques dans le désert égyptien révéleraient les véritables liens liant Jésus et... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209212000 +0100" stop="20151209220500 +0100">
+  <programme channel="MTV" start="20151210032000 +0100" stop="20151210040500 +0100">
     <length units="minutes">45</length>
     <title>L'énigme Jésus</title>
     <category>Documentaire</category>
     <desc>Révolutionnaire, rebelle, prophète, depuis des siècles, les théologiens s'interrogent : qui était Jésus de Nazareth avant d'endosser sa mission... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209220500 +0100" stop="20151209230500 +0100">
+  <programme channel="MTV" start="20151210040500 +0100" stop="20151210050500 +0100">
     <length units="minutes">60</length>
     <title>Première passion</title>
     <category>Documentaire</category>
@@ -1469,7 +1222,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209230500 +0100" stop="20151209235000 +0100">
+  <programme channel="MTV" start="20151210050500 +0100" stop="20151210055000 +0100">
     <length units="minutes">45</length>
     <title>MLK : révélations autour d'un assassinat</title>
     <category>Documentaire</category>
@@ -1479,7 +1232,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209235000 +0100" stop="20151210014500 +0100">
+  <programme channel="MTV" start="20151210055000 +0100" stop="20151210074500 +0100">
     <length units="minutes">115</length>
     <title>1964</title>
     <category>Documentaire</category>
@@ -1489,7 +1242,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210014500 +0100" stop="20151210024000 +0100">
+  <programme channel="MTV" start="20151210074500 +0100" stop="20151210084000 +0100">
     <length units="minutes">55</length>
     <title>Sous surveillance, Gary Foley</title>
     <category>Documentaire</category>
@@ -1499,7 +1252,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210024000 +0100" stop="20151210033000 +0100">
+  <programme channel="MTV" start="20151210084000 +0100" stop="20151210093000 +0100">
     <length units="minutes">50</length>
     <title>Quatre hommes dans la Grande Guerre</title>
     <category>Documentaire</category>
@@ -1510,7 +1263,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210033000 +0100" stop="20151210042000 +0100">
+  <programme channel="MTV" start="20151210093000 +0100" stop="20151210102000 +0100">
     <length units="minutes">50</length>
     <title>Dans l'ombre de la Grande Guerre</title>
     <category>Documentaire</category>
@@ -1520,14 +1273,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210042000 +0100" stop="20151210062500 +0100">
+  <programme channel="MTV" start="20151210102000 +0100" stop="20151210122500 +0100">
     <length units="minutes">125</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210062500 +0100" stop="20151210070500 +0100">
+  <programme channel="MTV" start="20151210122500 +0100" stop="20151210130500 +0100">
     <length units="minutes">40</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
@@ -1538,7 +1291,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210070500 +0100" stop="20151210071000 +0100">
+  <programme channel="MTV" start="20151210130500 +0100" stop="20151210131000 +0100">
     <length units="minutes">5</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
@@ -1548,7 +1301,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210071000 +0100" stop="20151210080500 +0100">
+  <programme channel="MTV" start="20151210131000 +0100" stop="20151210140500 +0100">
     <length units="minutes">55</length>
     <title>Léonard de Vinci</title>
     <category>Documentaire</category>
@@ -1558,7 +1311,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210080500 +0100" stop="20151210094500 +0100">
+  <programme channel="MTV" start="20151210140500 +0100" stop="20151210154500 +0100">
     <length units="minutes">100</length>
     <title>Da Vinci Detective</title>
     <category>Documentaire</category>
@@ -1568,7 +1321,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210094500 +0100" stop="20151210103000 +0100">
+  <programme channel="MTV" start="20151210154500 +0100" stop="20151210163000 +0100">
     <length units="minutes">45</length>
     <title>Un oeil, une histoire</title>
     <category>Documentaire</category>
@@ -1579,7 +1332,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210103000 +0100" stop="20151210112500 +0100">
+  <programme channel="MTV" start="20151210163000 +0100" stop="20151210172500 +0100">
     <length units="minutes">55</length>
     <title>Lucien Clergue, à la mort, à la vie</title>
     <category>Documentaire</category>
@@ -1589,7 +1342,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210112500 +0100" stop="20151210122000 +0100">
+  <programme channel="MTV" start="20151210172500 +0100" stop="20151210182000 +0100">
     <length units="minutes">55</length>
     <title>Résistance</title>
     <category>Série</category>
@@ -1608,7 +1361,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210122000 +0100" stop="20151210132000 +0100">
+  <programme channel="MTV" start="20151210182000 +0100" stop="20151210192000 +0100">
     <length units="minutes">60</length>
     <title>Résistance</title>
     <category>Série</category>
@@ -1627,7 +1380,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210132000 +0100" stop="20151210140000 +0100">
+  <programme channel="MTV" start="20151210192000 +0100" stop="20151210200000 +0100">
     <length units="minutes">40</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
@@ -1638,7 +1391,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210140000 +0100" stop="20151210142500 +0100">
+  <programme channel="MTV" start="20151210200000 +0100" stop="20151210202500 +0100">
     <length units="minutes">25</length>
     <title>Les grands assassinats de l'histoire</title>
     <category>Documentaire</category>
@@ -1649,7 +1402,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210142500 +0100" stop="20151210144000 +0100">
+  <programme channel="MTV" start="20151210202500 +0100" stop="20151210204000 +0100">
     <length units="minutes">15</length>
     <title>Histoire de comprendre</title>
     <category>Documentaire</category>
@@ -1659,7 +1412,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210144000 +0100" stop="20151210144500 +0100">
+  <programme channel="MTV" start="20151210204000 +0100" stop="20151210204500 +0100">
     <length units="minutes">5</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
@@ -1669,7 +1422,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210144500 +0100" stop="20151210145000 +0100">
+  <programme channel="MTV" start="20151210204500 +0100" stop="20151210205000 +0100">
     <length units="minutes">5</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
@@ -1679,7 +1432,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210145000 +0100" stop="20151210155000 +0100">
+  <programme channel="MTV" start="20151210205000 +0100" stop="20151210215000 +0100">
     <length units="minutes">60</length>
     <title>1913 : sur les rails de l'Europe</title>
     <category>Documentaire</category>
@@ -1689,14 +1442,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210155000 +0100" stop="20151210165500 +0100">
+  <programme channel="MTV" start="20151210215000 +0100" stop="20151210225500 +0100">
     <length units="minutes">65</length>
     <title>Les impressionnistes</title>
     <category>Documentaire</category>
     <desc>La bande des quatre Dans les îles Vierges, en 1830, naît le futur peintre Pissarro, qui deviendra l'un des créateurs du mouvements impressionniste qui révolutionna... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210165500 +0100" stop="20151210174500 +0100">
+  <programme channel="MTV" start="20151210225500 +0100" stop="20151210234500 +0100">
     <length units="minutes">50</length>
     <title>L'Empire romain</title>
     <category>Documentaire</category>
@@ -1706,7 +1459,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210174500 +0100" stop="20151210184500 +0100">
+  <programme channel="MTV" start="20151210234500 +0100" stop="20151211004500 +0100">
     <length units="minutes">60</length>
     <title>Mères, maîtresses, meurtrières</title>
     <category>Documentaire</category>
@@ -1716,7 +1469,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210184500 +0100" stop="20151210194000 +0100">
+  <programme channel="MTV" start="20151211004500 +0100" stop="20151211014000 +0100">
     <length units="minutes">55</length>
     <title>La Corse libérée</title>
     <category>Documentaire</category>
@@ -1726,7 +1479,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210194000 +0100" stop="20151210195000 +0100">
+  <programme channel="MTV" start="20151211014000 +0100" stop="20151211015000 +0100">
     <length units="minutes">10</length>
     <title>Histoire de comprendre</title>
     <category>Documentaire</category>
@@ -1736,7 +1489,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210195000 +0100" stop="20151210200500 +0100">
+  <programme channel="MTV" start="20151211015000 +0100" stop="20151211020500 +0100">
     <length units="minutes">15</length>
     <title>Histoire de comprendre</title>
     <category>Documentaire</category>
@@ -1746,7 +1499,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210200500 +0100" stop="20151210203000 +0100">
+  <programme channel="MTV" start="20151211020500 +0100" stop="20151211023000 +0100">
     <length units="minutes">25</length>
     <title>Les grands assassinats de l'histoire</title>
     <category>Documentaire</category>
@@ -1757,7 +1510,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210203000 +0100" stop="20151210204000 +0100">
+  <programme channel="MTV" start="20151211023000 +0100" stop="20151211024000 +0100">
     <length units="minutes">10</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
@@ -1767,7 +1520,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210204000 +0100" stop="20151210213000 +0100">
+  <programme channel="MTV" start="20151211024000 +0100" stop="20151211033000 +0100">
     <length units="minutes">50</length>
     <title>Résistance</title>
     <category>Série</category>
@@ -1786,7 +1539,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210213000 +0100" stop="20151210222500 +0100">
+  <programme channel="MTV" start="20151211033000 +0100" stop="20151211042500 +0100">
     <length units="minutes">55</length>
     <title>Résistance</title>
     <category>Série</category>
@@ -1805,21 +1558,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210222500 +0100" stop="20151210225000 +0100">
+  <programme channel="MTV" start="20151211042500 +0100" stop="20151211045000 +0100">
     <length units="minutes">25</length>
     <title>A chaque tableau son histoire</title>
     <category>Documentaire</category>
     <desc>Garçon mordu par un lézard Le critique Waldemar Januszczak décrypte le tableau du «Garçon mordu par un lézard», du Caravage, qui représente une rencontre intrigante entre... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210225000 +0100" stop="20151210231500 +0100">
+  <programme channel="MTV" start="20151211045000 +0100" stop="20151211051500 +0100">
     <length units="minutes">25</length>
     <title>A chaque tableau son histoire</title>
     <category>Documentaire</category>
     <desc>Les Epoux Arnolfini Une analyse du tableau «Les Epoux Arnolfini», acquis par la National Gallery en 1842 : une oeuvre bien mystérieuse, peinte par Jan Van... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210231500 +0100" stop="20151211000500 +0100">
+  <programme channel="MTV" start="20151211051500 +0100" stop="20151211060500 +0100">
     <length units="minutes">50</length>
     <title>Je suis le fleuve</title>
     <category>Documentaire</category>
@@ -1830,347 +1583,347 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211000500 +0100" stop="20151211010000 +0100">
+  <programme channel="MTV" start="20151211060500 +0100" stop="20151211070000 +0100">
     <length units="minutes">55</length>
     <title>L'histoire extraordinaire de William Buckley</title>
     <category>Documentaire</category>
-    <desc>L'histoire d'un repris de justice anglais envoyé en Australie qui, en 1803, parvint à s'échapper et passa 32 ans dans une tribu aborigène du Sud... (Lire la suite).(n)</desc>
+    <desc>L'histoire d'un repris de justice anglais envoyé en Australie qui, en 1803, parvint à s'échapper et passa 32 ans dans une tribu aborigène du Sud... (Lire la suite).</desc>
     <credits>
       <name function="director">Malcolm McDonald</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211010000 +0100" stop="20151211015500 +0100">
+  <programme channel="MTV" start="20151211070000 +0100" stop="20151211075500 +0100">
     <length units="minutes">55</length>
     <title>La guerre de Jandamarra</title>
     <category>Documentaire</category>
-    <desc>L'histoire de Jandamarra, un guerrier aborigène Bunuba qui, en 1894, a pris la tête d'une des révoltes les plus sanglantes contre les colons... (Lire la suite).(n)</desc>
+    <desc>L'histoire de Jandamarra, un guerrier aborigène Bunuba qui, en 1894, a pris la tête d'une des révoltes les plus sanglantes contre les colons... (Lire la suite).</desc>
     <credits>
       <name function="director">Mitch Torres</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211015500 +0100" stop="20151211025000 +0100">
+  <programme channel="MTV" start="20151211075500 +0100" stop="20151211085000 +0100">
     <length units="minutes">55</length>
     <title>Armistice</title>
     <category>Documentaire</category>
-    <desc>David Reynolds, professeur à Cambridge, revient sur les événements extraordinaires et les personnalités impliquées dans l'Armistice de... (Lire la suite).(n)</desc>
+    <desc>David Reynolds, professeur à Cambridge, revient sur les événements extraordinaires et les personnalités impliquées dans l'Armistice de... (Lire la suite).</desc>
     <credits>
       <name function="director">Russell Barnes</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211025000 +0100" stop="20151211034000 +0100">
+  <programme channel="MTV" start="20151211085000 +0100" stop="20151211094000 +0100">
     <length units="minutes">50</length>
     <title>Dans l'ombre de la Grande Guerre</title>
     <category>Documentaire</category>
-    <desc>L'Empire austro-hongrois des Habsbourg s'effondre sous le poids de la Grande Guerre : son territoire est alors démantelé entre cinq nouveaux... (Lire la suite).(n)</desc>
+    <desc>L'Empire austro-hongrois des Habsbourg s'effondre sous le poids de la Grande Guerre : son territoire est alors démantelé entre cinq nouveaux... (Lire la suite).</desc>
     <credits>
       <name function="director">Russell Barnes</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211034000 +0100" stop="20151211062500 +0100">
+  <programme channel="MTV" start="20151211094000 +0100" stop="20151211122500 +0100">
     <length units="minutes">165</length>
     <title>Fin des programmes</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211062500 +0100" stop="20151211070500 +0100">
+  <programme channel="MTV" start="20151211122500 +0100" stop="20151211130500 +0100">
     <length units="minutes">40</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
-    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).(n)</desc>
+    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Christophe Buisson,</name>
       <name function="presenter">Adèle Galloy</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211070500 +0100" stop="20151211073000 +0100">
+  <programme channel="MTV" start="20151211130500 +0100" stop="20151211133000 +0100">
     <length units="minutes">25</length>
     <title>Trésors de civilisations</title>
     <category>Documentaire</category>
-    <desc>Lieu saint du shintoïsme, l'île d'Itsukushima se trouve dans la mer intérieure de Seto. Elle aurait accueilli ses premiers sanctuaires au VIe... (Lire la suite).(n)</desc>
+    <desc>Lieu saint du shintoïsme, l'île d'Itsukushima se trouve dans la mer intérieure de Seto. Elle aurait accueilli ses premiers sanctuaires au VIe... (Lire la suite).</desc>
     <credits>
       <name function="director">Nicolas Thomä</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211073000 +0100" stop="20151211080000 +0100">
+  <programme channel="MTV" start="20151211133000 +0100" stop="20151211140000 +0100">
     <length units="minutes">30</length>
     <title>Trésors de civilisations</title>
     <category>Documentaire</category>
-    <desc>L'histoire des grandes civilisations européennes et asiatiques à travers les monuments et les oeuvres d'art qu'elles ont... (Lire la suite).(n)</desc>
+    <desc>L'histoire des grandes civilisations européennes et asiatiques à travers les monuments et les oeuvres d'art qu'elles ont... (Lire la suite).</desc>
     <credits>
       <name function="director">Nicolas Thomä</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211080000 +0100" stop="20151211084500 +0100">
+  <programme channel="MTV" start="20151211140000 +0100" stop="20151211144500 +0100">
     <length units="minutes">45</length>
     <title>A la recherche de l'art perdu</title>
     <category>Documentaire</category>
-    <desc>En 1911, «La Joconde» disparaît mystérieusement du Louvre : pendant deux ans, les théories les plus extravagantes circulent sur le sort du... (Lire la suite).(n)</desc>
+    <desc>En 1911, «La Joconde» disparaît mystérieusement du Louvre : pendant deux ans, les théories les plus extravagantes circulent sur le sort du... (Lire la suite).</desc>
     <credits>
       <name function="director">Cal Saville</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211084500 +0100" stop="20151211091000 +0100">
+  <programme channel="MTV" start="20151211144500 +0100" stop="20151211151000 +0100">
     <length units="minutes">25</length>
     <title>A chaque tableau son histoire</title>
     <category>Documentaire</category>
-    <desc>La Joconde Waldemar Januszczak veut lever le voile sur les mystères qui entourent «La Joconde», le tableau le plus célèbre au monde, peint par Léonard de... (Lire la suite).(n)</desc>
+    <desc>La Joconde Waldemar Januszczak veut lever le voile sur les mystères qui entourent «La Joconde», le tableau le plus célèbre au monde, peint par Léonard de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211091000 +0100" stop="20151211093500 +0100">
+  <programme channel="MTV" start="20151211151000 +0100" stop="20151211153500 +0100">
     <length units="minutes">25</length>
     <title>A chaque tableau son histoire</title>
     <category>Documentaire</category>
-    <desc>Le Déjeuner sur l'herbe En 1863, le monde entier découvre «Le Déjeuner sur l'herbe», célèbre tableau de Manet exposé au musée d'Orsay. Aussitôt, l'oeuvre suscite la... (Lire la suite).(n)</desc>
+    <desc>Le Déjeuner sur l'herbe En 1863, le monde entier découvre «Le Déjeuner sur l'herbe», célèbre tableau de Manet exposé au musée d'Orsay. Aussitôt, l'oeuvre suscite la... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211093500 +0100" stop="20151211102500 +0100">
+  <programme channel="MTV" start="20151211153500 +0100" stop="20151211162500 +0100">
     <length units="minutes">50</length>
     <title>Singapour 1942 : la fin de l'empire britannique</title>
     <category>Documentaire</category>
-    <desc>Le passé de Singapour, ancienne colonie britannique, est marqué par les invasions étrangères, les tensions ethniques et la lutte contre les... (Lire la suite).(n)</desc>
+    <desc>Le passé de Singapour, ancienne colonie britannique, est marqué par les invasions étrangères, les tensions ethniques et la lutte contre les... (Lire la suite).</desc>
     <credits>
       <name function="director">Don Featherstone</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211102500 +0100" stop="20151211111500 +0100">
+  <programme channel="MTV" start="20151211162500 +0100" stop="20151211171500 +0100">
     <length units="minutes">50</length>
     <title>Singapour 1942 : la fin de l'empire britannique</title>
     <category>Documentaire</category>
-    <desc>Une reconstitution historique du long chemin vers l'indépendance de Singapour : une démarche officialisée le 9 août 1965, après maintes... (Lire la suite).(n)</desc>
+    <desc>Une reconstitution historique du long chemin vers l'indépendance de Singapour : une démarche officialisée le 9 août 1965, après maintes... (Lire la suite).</desc>
     <credits>
       <name function="director">Don Featherstone</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211111500 +0100" stop="20151211112000 +0100">
+  <programme channel="MTV" start="20151211171500 +0100" stop="20151211172000 +0100">
     <length units="minutes">5</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
-    <desc>L'historien de l'insolite Jean-Paul Rouland évoque toutes les petites histoires cocasses et les anecdotes qui ont fait la grande... (Lire la suite).(n)</desc>
+    <desc>L'historien de l'insolite Jean-Paul Rouland évoque toutes les petites histoires cocasses et les anecdotes qui ont fait la grande... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Paul Rouland</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211112000 +0100" stop="20151211121000 +0100">
+  <programme channel="MTV" start="20151211172000 +0100" stop="20151211181000 +0100">
     <length units="minutes">50</length>
     <title>L'Empire romain</title>
     <category>Documentaire</category>
-    <desc>Au IIIe siècle après J-C, parvenu à son expansion maximale, l'Empire romain commence une autre lutte, celle de sa survie. Rome ne conquiert plus... (Lire la suite).(n)</desc>
+    <desc>Au IIIe siècle après J-C, parvenu à son expansion maximale, l'Empire romain commence une autre lutte, celle de sa survie. Rome ne conquiert plus... (Lire la suite).</desc>
     <credits>
       <name function="director">Serge Tignères</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211121000 +0100" stop="20151211131000 +0100">
+  <programme channel="MTV" start="20151211181000 +0100" stop="20151211191000 +0100">
     <length units="minutes">60</length>
     <title>Mères, maîtresses, meurtrières</title>
     <category>Documentaire</category>
-    <desc>Pendant quatre siècles, des femmes - épouses, soeurs, mères ou maîtresses d'empereurs - ont influencé les décisions les plus importantes de la... (Lire la suite).(n)</desc>
+    <desc>Pendant quatre siècles, des femmes - épouses, soeurs, mères ou maîtresses d'empereurs - ont influencé les décisions les plus importantes de la... (Lire la suite).</desc>
     <credits>
       <name function="director">Elliott Gerner</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211131000 +0100" stop="20151211132500 +0100">
+  <programme channel="MTV" start="20151211191000 +0100" stop="20151211192500 +0100">
     <length units="minutes">15</length>
     <title>Masterworks</title>
     <category>Documentaire</category>
-    <desc>Gros plan sur une oeuvre d'art, un musée ou un groupe de créateurs dont il s'agit de commenter la conception et (Lire la suite).(n)</desc>
+    <desc>Gros plan sur une oeuvre d'art, un musée ou un groupe de créateurs dont il s'agit de commenter la conception et (Lire la suite).</desc>
     <credits>
       <name function="director">Reiner E Moritz</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211132500 +0100" stop="20151211140500 +0100">
+  <programme channel="MTV" start="20151211192500 +0100" stop="20151211200500 +0100">
     <length units="minutes">40</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
-    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).(n)</desc>
+    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Christophe Buisson,</name>
       <name function="presenter">Adèle Galloy</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211140500 +0100" stop="20151211143000 +0100">
+  <programme channel="MTV" start="20151211200500 +0100" stop="20151211203000 +0100">
     <length units="minutes">25</length>
     <title>Les grands assassinats de l'histoire</title>
     <category>Documentaire</category>
-    <desc>Le 27 août 1979, Lord Mountbatten meurt dans l'explosion de son bateau, le Shadow V : l'attentat, attribué à l'IRA Provisoire, a fait trois... (Lire la suite).(n)</desc>
+    <desc>Le 27 août 1979, Lord Mountbatten meurt dans l'explosion de son bateau, le Shadow V : l'attentat, attribué à l'IRA Provisoire, a fait trois... (Lire la suite).</desc>
     <credits>
       <name function="director">Jonathan Martin,</name>
       <name function="director">Nicolas Wright</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211143000 +0100" stop="20151211150000 +0100">
+  <programme channel="MTV" start="20151211203000 +0100" stop="20151211210000 +0100">
     <length units="minutes">30</length>
     <title>Les grands assassinats de l'histoire</title>
     <category>Documentaire</category>
-    <desc>Le 20 mars 1974, la voiture qui conduit la princesse Anne au palais de Buckingham est interceptée par un inconnu, qui projette de... (Lire la suite).(n)</desc>
+    <desc>Le 20 mars 1974, la voiture qui conduit la princesse Anne au palais de Buckingham est interceptée par un inconnu, qui projette de... (Lire la suite).</desc>
     <credits>
       <name function="director">Jonathan Martin,</name>
       <name function="director">Nicolas Wright</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211150000 +0100" stop="20151211160000 +0100">
+  <programme channel="MTV" start="20151211210000 +0100" stop="20151211220000 +0100">
     <length units="minutes">60</length>
     <title>La ferme Tudor</title>
     <category>Documentaire</category>
-    <desc>Ruth Goodman, Peter Ginn et Tom Pinfold s'immergent dans l'ambiance d'une ferme de l'époque des Tudor ; ils concoctent des recettes... (Lire la suite).(n)</desc>
+    <desc>Ruth Goodman, Peter Ginn et Tom Pinfold s'immergent dans l'ambiance d'une ferme de l'époque des Tudor ; ils concoctent des recettes... (Lire la suite).</desc>
     <credits>
       <name function="director">Stuart Elliott</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211160000 +0100" stop="20151211170000 +0100">
+  <programme channel="MTV" start="20151211220000 +0100" stop="20151211230000 +0100">
     <length units="minutes">60</length>
     <title>Les impressionnistes</title>
     <category>Documentaire</category>
-    <desc>A ciel ouvert Un parcours qui suit Waldemar Januszczak au coeur des paysages qu'ont tant aimé peindre Cézanne, Monet, Pissarro et Renoir, maîtres de... (Lire la suite).(n)</desc>
+    <desc>A ciel ouvert Un parcours qui suit Waldemar Januszczak au coeur des paysages qu'ont tant aimé peindre Cézanne, Monet, Pissarro et Renoir, maîtres de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211170000 +0100" stop="20151211175500 +0100">
+  <programme channel="MTV" start="20151211230000 +0100" stop="20151211235500 +0100">
     <length units="minutes">55</length>
     <title>Bible Hunters</title>
     <category>Documentaire</category>
-    <desc>Jeff Rose suit le parcours Constantin von Tischendorf dans le désert du Sinaï, conduisant à la découverte du Codex Sinaiticus, la plus ancienne... (Lire la suite).(n)</desc>
+    <desc>Jeff Rose suit le parcours Constantin von Tischendorf dans le désert du Sinaï, conduisant à la découverte du Codex Sinaiticus, la plus ancienne... (Lire la suite).</desc>
     <credits>
       <name function="director">Tilman Remme</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211175500 +0100" stop="20151211185000 +0100">
+  <programme channel="MTV" start="20151211235500 +0100" stop="20151212005000 +0100">
     <length units="minutes">55</length>
     <title>Bible Hunters</title>
     <category>Documentaire</category>
-    <desc>L'archéologue Jeff Rose se rend dans le Sud de l'Egypte, à Oxyrhynque, où a été découvert un papyrus sur lequel figuraient des paroles de... (Lire la suite).(n)</desc>
+    <desc>L'archéologue Jeff Rose se rend dans le Sud de l'Egypte, à Oxyrhynque, où a été découvert un papyrus sur lequel figuraient des paroles de... (Lire la suite).</desc>
     <credits>
       <name function="director">Tilman Remme</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211185000 +0100" stop="20151211185300 +0100">
+  <programme channel="MTV" start="20151212005000 +0100" stop="20151212005300 +0100">
     <length units="minutes">3</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
-    <desc>L'historien de l'insolite Jean-Paul Rouland évoque toutes les petites histoires cocasses et les anecdotes qui ont fait la grande... (Lire la suite).(n)</desc>
+    <desc>L'historien de l'insolite Jean-Paul Rouland évoque toutes les petites histoires cocasses et les anecdotes qui ont fait la grande... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Paul Rouland</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211185300 +0100" stop="20151211185500 +0100">
+  <programme channel="MTV" start="20151212005300 +0100" stop="20151212005500 +0100">
     <length units="minutes">2</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
-    <desc>L'historien de l'insolite Jean-Paul Rouland évoque toutes les petites histoires cocasses et les anecdotes qui ont fait la grande... (Lire la suite).(n)</desc>
+    <desc>L'historien de l'insolite Jean-Paul Rouland évoque toutes les petites histoires cocasses et les anecdotes qui ont fait la grande... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Paul Rouland</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211185500 +0100" stop="20151211192500 +0100">
+  <programme channel="MTV" start="20151212005500 +0100" stop="20151212012500 +0100">
     <length units="minutes">30</length>
     <title>Les grands assassinats de l'histoire</title>
     <category>Documentaire</category>
-    <desc>Le 20 août 1940, Léon Trotski est assassiné à Mexico par un agent soviétique, mandaté par Staline, qui le décore ensuite de l'ordre de... (Lire la suite).(n)</desc>
+    <desc>Le 20 août 1940, Léon Trotski est assassiné à Mexico par un agent soviétique, mandaté par Staline, qui le décore ensuite de l'ordre de... (Lire la suite).</desc>
     <credits>
       <name function="director">Jonathan Martin,</name>
       <name function="director">Nicolas Wright</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211192500 +0100" stop="20151211200500 +0100">
+  <programme channel="MTV" start="20151212012500 +0100" stop="20151212020500 +0100">
     <length units="minutes">40</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
-    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).(n)</desc>
+    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Christophe Buisson,</name>
       <name function="presenter">Adèle Galloy</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211200500 +0100" stop="20151211203000 +0100">
+  <programme channel="MTV" start="20151212020500 +0100" stop="20151212023000 +0100">
     <length units="minutes">25</length>
     <title>Les grands assassinats de l'histoire</title>
     <category>Documentaire</category>
-    <desc>Le 8 décembre 1980, le chanteur John Lennon est abattu de quatre balles de revolver au pied de son immeuble d'habitation à New York, par Mark... (Lire la suite).(n)</desc>
+    <desc>Le 8 décembre 1980, le chanteur John Lennon est abattu de quatre balles de revolver au pied de son immeuble d'habitation à New York, par Mark... (Lire la suite).</desc>
     <credits>
       <name function="director">Jonathan Martin,</name>
       <name function="director">Nicolas Wright</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211203000 +0100" stop="20151211204000 +0100">
+  <programme channel="MTV" start="20151212023000 +0100" stop="20151212024000 +0100">
     <length units="minutes">10</length>
     <title>Brèves d'histoire</title>
     <category>Magazine</category>
-    <desc>L'historien de l'insolite Jean-Paul Rouland évoque toutes les petites histoires cocasses et les anecdotes qui ont fait la grande... (Lire la suite).(n)</desc>
+    <desc>L'historien de l'insolite Jean-Paul Rouland évoque toutes les petites histoires cocasses et les anecdotes qui ont fait la grande... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Paul Rouland</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211204000 +0100" stop="20151211213000 +0100">
+  <programme channel="MTV" start="20151212024000 +0100" stop="20151212033000 +0100">
     <length units="minutes">50</length>
     <title>Quand Hollywood monte au front</title>
     <category>Documentaire</category>
-    <desc>En 1941, le gouvernement de Roosevelt décide de lutter contre l'Allemagne nazie. Il demande, alors, à l'industrie américaine du cinéma -... (Lire la suite).(n)</desc>
+    <desc>En 1941, le gouvernement de Roosevelt décide de lutter contre l'Allemagne nazie. Il demande, alors, à l'industrie américaine du cinéma -... (Lire la suite).</desc>
     <credits>
       <name function="director">Peter Miller</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211213000 +0100" stop="20151211222500 +0100">
+  <programme channel="MTV" start="20151212033000 +0100" stop="20151212042500 +0100">
     <length units="minutes">55</length>
     <title>L'invasion américaine</title>
     <category>Documentaire</category>
-    <desc>A la fin de l'nnée 1941, l'attaque de Pearl Harbour par les Japonais change la donne de la Seconde Guerre mondiale et force les Etats-Unis à... (Lire la suite).(n)</desc>
+    <desc>A la fin de l'nnée 1941, l'attaque de Pearl Harbour par les Japonais change la donne de la Seconde Guerre mondiale et force les Etats-Unis à... (Lire la suite).</desc>
     <credits>
       <name function="director">James Fowler</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211222500 +0100" stop="20151211231000 +0100">
+  <programme channel="MTV" start="20151212042500 +0100" stop="20151212051000 +0100">
     <length units="minutes">45</length>
     <title>Historiquement show</title>
     <category>Magazine</category>
-    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).(n)</desc>
+    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Christophe Buisson,</name>
       <name function="presenter">Adèle Galloy</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211231000 +0100" stop="20151211232500 +0100">
+  <programme channel="MTV" start="20151212051000 +0100" stop="20151212052500 +0100">
     <length units="minutes">15</length>
     <title>Histoire de comprendre</title>
     <category>Documentaire</category>
-    <desc>En 1948, la rupture de la jeune Yougoslavie communiste avec Staline est consommée. Dès lors, au plus fort de la guerre froide, le président Tito... (Lire la suite).(n)</desc>
+    <desc>En 1948, la rupture de la jeune Yougoslavie communiste avec Staline est consommée. Dès lors, au plus fort de la guerre froide, le président Tito... (Lire la suite).</desc>
     <credits>
       <name function="director">Robert Mugnerot</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211232500 +0100" stop="20151212011500 +0100">
+  <programme channel="MTV" start="20151212052500 +0100" stop="20151212071500 +0100">
     <length units="minutes">110</length>
     <title>Le meurtre de Henry Darnley</title>
     <category>Téléfilm</category>
-    <desc>Veuve de François II de France, Marie Stuart épouse le bel Henry Darnley, malgré les réticences de sa famille. L'union se révèle bientôt... (Lire la suite).(n)</desc>
+    <desc>Veuve de François II de France, Marie Stuart épouse le bel Henry Darnley, malgré les réticences de sa famille. L'union se révèle bientôt... (Lire la suite).</desc>
     <credits>
       <name function="director">Guy Lessertisseur</name>
       <name function="actor">François Maistre</name>
@@ -2181,6 +1934,257 @@
       <name function="actor">Philippe Mareuil</name>
       <name function="actor">Marcelle Ranson-Hervé</name>
       <name function="actor">Pascale Audret</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212071500 +0100" stop="20151212080500 +0100">
+    <length units="minutes">50</length>
+    <title>Exil nazi : la promesse de l'Orient</title>
+    <category>Documentaire</category>
+    <desc>Au lendemain de la Seconde Guerre mondiale, de nombreux responsables nazis ont réussi à échapper à la justice internationale en se réfugiant en... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Géraldine Schwarz</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212080500 +0100" stop="20151212090000 +0100">
+    <length units="minutes">55</length>
+    <title>Du D-Day à Diên Biên Phu</title>
+    <category>Documentaire</category>
+    <desc>Le parcours édifiant des prisonniers allemands capturés après le Débarquement, qui se sont engagés ensuite dans la Légion et ont combattu en... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Georges Guillot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212090000 +0100" stop="20151212094000 +0100">
+    <length units="minutes">40</length>
+    <title>Historiquement show</title>
+    <category>Magazine</category>
+    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jean-Christophe Buisson,</name>
+      <name function="presenter">Adèle Galloy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212094000 +0100" stop="20151212121000 +0100">
+    <length units="minutes">150</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212121000 +0100" stop="20151212122500 +0100">
+    <length units="minutes">15</length>
+    <title>Histoire de comprendre</title>
+    <category>Documentaire</category>
+    <desc>En 1977 et 1978, la France, comme d'autres pays européens, a apporté une assistance militaire au dictateur du Zaïre Mobutu, menacé par des... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Robert Mugnerot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212122500 +0100" stop="20151212132000 +0100">
+    <length units="minutes">55</length>
+    <title>De Hollywood à Nuremberg</title>
+    <category>Documentaire</category>
+    <desc>Avant l'entrée en guerre des Etats-Unis dans le second conflit mondial, John Ford, réserviste de la Navy, y crée la Field Photographic Branch.... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Christian Delage</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212132000 +0100" stop="20151212150000 +0100">
+    <length units="minutes">100</length>
+    <title>Goering : bras de fer à Nuremberg</title>
+    <category>Documentaire</category>
+    <desc>En 1946, le colonel américain Burton Andrus s'est vu confier la mission de garder un des plus célèbres inculpés des procès de Nuremberg : Hermann... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Ben Bolt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212150000 +0100" stop="20151212154000 +0100">
+    <length units="minutes">40</length>
+    <title>Historiquement show</title>
+    <category>Magazine</category>
+    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jean-Christophe Buisson,</name>
+      <name function="presenter">Adèle Galloy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212154000 +0100" stop="20151212163500 +0100">
+    <length units="minutes">55</length>
+    <title>Bible Hunters</title>
+    <category>Documentaire</category>
+    <desc>Jeff Rose suit le parcours Constantin von Tischendorf dans le désert du Sinaï, conduisant à la découverte du Codex Sinaiticus, la plus ancienne... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Tilman Remme</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212163500 +0100" stop="20151212173000 +0100">
+    <length units="minutes">55</length>
+    <title>Quand Hollywood monte au front</title>
+    <category>Documentaire</category>
+    <desc>En 1941, le gouvernement de Roosevelt décide de lutter contre l'Allemagne nazie. Il demande, alors, à l'industrie américaine du cinéma -... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Peter Miller</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212173000 +0100" stop="20151212182500 +0100">
+    <length units="minutes">55</length>
+    <title>L'invasion américaine</title>
+    <category>Documentaire</category>
+    <desc>A la fin de l'nnée 1941, l'attaque de Pearl Harbour par les Japonais change la donne de la Seconde Guerre mondiale et force les Etats-Unis à... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">James Fowler</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212182500 +0100" stop="20151212185000 +0100">
+    <length units="minutes">25</length>
+    <title>Trésors de civilisations</title>
+    <category>Documentaire</category>
+    <desc>De nombreux sites, dont le Taj Mahal est probablement le plus connu, témoignent de la diversité et de la richesse de la civilisation... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Nicolas Thomä</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212185000 +0100" stop="20151212204000 +0100">
+    <length units="minutes">110</length>
+    <title>La mort de Marie-Antoinette</title>
+    <category>Téléfilm</category>
+    <desc>Lorsqu'elle épouse Louis XVI, la jeune Marie-Antoinette quitte son Autriche natale pour s'établir en France. Après des années de bonheur facile,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Stellio Lorenzi</name>
+      <name function="actor">Jean Rochefort</name>
+      <name function="actor">Annie Ducaux</name>
+      <name function="actor">Michel Bouquet</name>
+      <name function="actor">Louis Arbessier</name>
+      <name function="actor">François Chaumette</name>
+      <name function="actor">Alain Saury</name>
+      <name function="actor">Manouchka</name>
+      <name function="actor">Jean Bertho</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212204000 +0100" stop="20151212212000 +0100">
+    <length units="minutes">40</length>
+    <title>Historiquement show</title>
+    <category>Magazine</category>
+    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jean-Christophe Buisson,</name>
+      <name function="presenter">Adèle Galloy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212212000 +0100" stop="20151212221000 +0100">
+    <length units="minutes">50</length>
+    <title>Singapour 1942 : la fin de l'empire britannique</title>
+    <category>Documentaire</category>
+    <desc>Le passé de Singapour, ancienne colonie britannique, est marqué par les invasions étrangères, les tensions ethniques et la lutte contre les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Don Featherstone</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212221000 +0100" stop="20151212230500 +0100">
+    <length units="minutes">55</length>
+    <title>Singapour 1942 : la fin de l'empire britannique</title>
+    <category>Documentaire</category>
+    <desc>Une reconstitution historique du long chemin vers l'indépendance de Singapour : une démarche officialisée le 9 août 1965, après maintes... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Don Featherstone</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212230500 +0100" stop="20151213000000 +0100">
+    <length units="minutes">55</length>
+    <title>L'art de la croix</title>
+    <category>Documentaire</category>
+    <desc>L'art pictural occidental a été inspiré par la crucifixion : chaque génération d'artistes a interprété ce thème, de Michel-Ange à Chagall, en... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213000000 +0100" stop="20151213004500 +0100">
+    <length units="minutes">45</length>
+    <title>Les vraies reliques de Saint Jean-Baptiste</title>
+    <category>Documentaire</category>
+    <desc>Des scientifiques ont découvert dans un monastère chrétien une urne en albâtre datant du Ve siècle et contenant des restes humains. Les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Noel Dockstader</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213004500 +0100" stop="20151213015000 +0100">
+    <length units="minutes">65</length>
+    <title>Gustave Thibon, il était une foi</title>
+    <category>Documentaire</category>
+    <desc>Filmé comme une méditation du philosophe Gustave Thibon, ce document restitue l'inquiétude spirituelle des chrétiens confrontés aux mutations du... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Guillaume Laidet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213015000 +0100" stop="20151213023000 +0100">
+    <length units="minutes">40</length>
+    <title>Historiquement show</title>
+    <category>Magazine</category>
+    <desc>Une émission sur les faits historiques animée par Jean-Christophe Buisson : livres, films, expositions sont décortiqués. Dans sa chronique, Adèle... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jean-Christophe Buisson,</name>
+      <name function="presenter">Adèle Galloy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213023000 +0100" stop="20151213024000 +0100">
+    <length units="minutes">10</length>
+    <title>Brèves d'histoire</title>
+    <category>Magazine</category>
+    <desc>L'historien de l'insolite Jean-Paul Rouland évoque toutes les petites histoires cocasses et les anecdotes qui ont fait la grande... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jean-Paul Rouland</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213024000 +0100" stop="20151213034000 +0100">
+    <length units="minutes">60</length>
+    <title>Les impressionnistes</title>
+    <category>Documentaire</category>
+    <desc>Peindre des hommes et des femmes Il serait réducteur de croire que l'impressionnisme se limite à représenter la nature : les artistes aiment aussi peindre en intérieur et... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213034000 +0100" stop="20151213044000 +0100">
+    <length units="minutes">60</length>
+    <title>La ferme Tudor</title>
+    <category>Documentaire</category>
+    <desc>L'historienne Ruth Goodman et les archéologues Peter Ginn et Tom Pinfold remontent dans le temps pour travailler comme de simples... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Stuart Elliott</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213044000 +0100" stop="20151213062000 +0100">
+    <length units="minutes">100</length>
+    <title>L'été des Lip</title>
+    <category>Téléfilm</category>
+    <desc>En 1973, l'usine horlogère Lip de Besançon, la première entreprise d'horlogerie française, connaît des heures difficiles : le directeur, monsieur... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Dominique Ladoge</name>
+      <name function="actor">Riton Liebman</name>
+      <name function="actor">Frédéric Van Den Driessche</name>
+      <name function="actor">Serge Riaboukine</name>
+      <name function="actor">Frédéric Sauzay</name>
+      <name function="actor">Philippe Uchan</name>
+      <name function="actor">Bernard Blancan</name>
+      <name function="actor">Florian Cadiou</name>
+      <name function="actor">Agnès Soral</name>
     </credits>
     <image />
   </programme>

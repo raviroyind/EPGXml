@@ -3,6 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 
     <script type="text/javascript">
+         
         function SelectAllCheckboxesSpecific(spanChk) {
             var isChecked = spanChk.checked;
             var chk = spanChk;
@@ -175,7 +176,9 @@
                                                                                     </td>
 
                                                                                     <td style="width: 80px;">
-                                                                                        <asp:Button ID="btnImport" runat="server" ValidationGroup="imp" CausesValidation="True" CssClass="btn btn-warning" Text="+ Import" OnClick="btnImport_OnClick" />
+                                                                                        <asp:LinkButton ID="btnLnkImport" runat="server" ValidationGroup="imp" CausesValidation="True" ToolTip="Import source from a comma separated text file!" CssClass="btn btn-warning" Text="Import" OnClick="btnImport_OnClick" >
+                                                                                            <i class="glyphicon glyphicon-import"></i> <span class="bold"> Import</span>
+                                                                                        </asp:LinkButton>
                                                                                     </td>
                                                                                 </tr>
                                                                             </table>
@@ -205,7 +208,8 @@
                                                                                             Text="!" ForeColor="Red" ValidationGroup="add" InitialValue="Select" ControlToValidate="ddlSourceType"></asp:RequiredFieldValidator>
                                                                                     </td>
                                                                                     <td style="width: 80px;">
-                                                                                        <asp:LinkButton ID="btnAddLink" runat="server" ValidationGroup="add" CausesValidation="True" CssClass="btn btn-primary" Text="Add" OnClick="btnAdd_OnClick" ><i class="glyphicon glyphicon-plus"></i> <span class="bold">  Add</span></asp:LinkButton>
+                                                                                        <asp:LinkButton ID="btnAddLink" runat="server" ValidationGroup="add" CausesValidation="True" ToolTip="Add source Url!" 
+                                                                                            CssClass="btn btn-primary" Text="Add" OnClick="btnAdd_OnClick" ><i class="glyphicon glyphicon-plus"></i> <span class="bold">  Add</span></asp:LinkButton>
                                                                                     </td>
                                                                                 </tr>
                                                                             </table>
@@ -220,7 +224,8 @@
                                                                                 </div>
                                                                                 <div style="float: right; margin-right: 12px;">
                                                                                     <asp:LinkButton ID="btnGetenerate" runat="server" CausesValidation="True" CssClass="btn btn-info" ValidationGroup="sel"
-                                                                                        Text="Generate Output" OnClientClick="ValidateGrid" OnClick="btnGetenerate_OnClick">
+                                                                                        Text="Generate Output" OnClientClick="ValidateGrid" OnClick="btnGetenerate_OnClick"
+                                                                                        ToolTip="Generate EPG Xml for each channel in selected sources!">
                                                                                         <i class="glyphicon glyphicon-cog"></i> <span class="bold">  Generate Xml</span>
                                                                                     </asp:LinkButton>
                                                                                 </div>
@@ -246,7 +251,7 @@
                                                                                         </asp:TemplateField>
                                                                                         <asp:TemplateField HeaderText="Source URL" ItemStyle-Width="400">
                                                                                             <ItemTemplate>
-                                                                                                <asp:Label ID="lblSourceURL" runat="server" Text='<%# Eval("URL") %>'></asp:Label>
+                                                                                                <asp:Label ID="lblSourceURL" runat="server" CssClass="text-nowrap" Text='<%# Eval("URL") %>'></asp:Label>
                                                                                             </ItemTemplate>
                                                                                             <EditItemTemplate>
                                                                                                 <asp:TextBox ID="txtSourceURL" runat="server" Text='<%# Eval("URL") %>'></asp:TextBox>
@@ -255,7 +260,7 @@
                                                                                             </EditItemTemplate>
                                                                                         </asp:TemplateField>
 
-                                                                                        <asp:TemplateField HeaderText="Source Type" ItemStyle-Width="100">
+                                                                                        <asp:TemplateField HeaderText="Source Type" ItemStyle-Width="120">
                                                                                             <ItemTemplate>
                                                                                                 <asp:Label ID="lblSourceType" runat="server" Text='<%# Eval("Type") %>'></asp:Label>
                                                                                             </ItemTemplate>
@@ -289,8 +294,8 @@
                                                                                     </Columns>
                                                                                 </asp:GridView>
                                                                                 <div style="text-align: center;">
-                                                                                    <asp:LinkButton ID="lnkClear" runat="server" CausesValidation="False" CssClass="btn-lg btn-success"
-                                                                                        Text="  Reset  " OnClientClick="SelectAllCheckboxes(false);return false;">
+                                                                                    <asp:LinkButton ID="lnkClear" runat="server" CausesValidation="False" CssClass="btn-lg btn-info"
+                                                                                        Text="Reset" OnClientClick="SelectAllCheckboxes(false);return false;">
                                                                                         <i class="glyphicon glyphicon-refresh"> Reset</i>
                                                                                     </asp:LinkButton>
                                                                                 </div>
@@ -345,5 +350,28 @@
             <div id="push"></div>
         </div>
     </div>
+     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
+    <script type="text/javascript">
+       
+        function blink(elem, times, speed) {
+             
+            if (times > 0 || times < 0) {
+                if ($(elem).hasClass("btn btn-default")) {
+                    $(elem).removeClass("btn btn-default");
+                    $(elem).addClass("btn btn-danger");
+                } else {
+                    $(elem).removeClass("btn btn-danger");
+                    $(elem).addClass("btn btn-default");
+                }
+            }
+
+            clearTimeout(function () { blink(elem, times, speed); });
+
+            if (times > 0 || times < 0) {
+                setTimeout(function () { blink(elem, times, speed); }, speed);
+                times -= .5;
+            }
+        }
+    </script>
 </asp:Content>

@@ -86,7 +86,7 @@
                         <div class="row">
                             <div class="col-xs-4"></div>
                             <div class="col-xs-4">
-                                <asp:LinkButton runat="server" ID="btnLogin" CausesValidation="True" class="btn btn-info" OnClick="btnLogin_Click">Logon</asp:LinkButton>
+                                <asp:LinkButton runat="server" ID="btnLogin" CausesValidation="True" class="btn btn-info" OnClick="btnLogin_Click"><i class="glyphicon glyphicon-log-in"></i> Log-In</asp:LinkButton>
                                 <asp:LinkButton runat="server" ID="btnCancel" OnClientClick="clearForm();return false;" class="btn btn-info">Cancel</asp:LinkButton>
 
                             </div>

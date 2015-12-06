@@ -26,7 +26,8 @@ html,body{height:100%;}
 .header #branding a{text-decoration:none}.header #branding a:hover h1{text-shadow:0 0 10px rgba(255,255,255,0.4)}
 .header a{color:#92d1ee;text-decoration:none}.header a:hover{text-decoration:underline}
 .header a.grey{color:#d4d4d4}
-.header #user-tools{padding:12px 20px 0 0;float:right}.header #user-tools .user-links{display:inline-block;margin-left:15px}
+/*.header i{color: #fff;}*/
+.header #user-tools{padding:2px 40px 10px 0;float: right;font-size: 1.2em;}.header #user-tools .user-links{display:inline-block;margin-left: 15px;margin-right: 40px;}
 .header #user-tools .separator{color:#999;display:inline-block;margin:0 5px}
 .header i{background-image:url(../img/glyphicons-halflings-white-nav.png)}
 .footer{color:#666;background-color:#373b3d;font-size:11px;line-height:1.5em;text-shadow:0 1px rgba(255,255,255,0.5)}.footer .content{border-top:5px solid #e1e3e5}.footer .content .tools{float:left;padding:15px 0 0 20px}

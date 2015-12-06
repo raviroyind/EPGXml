@@ -1,44 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Bloomberg UK-Europe">
-    <display-name>test</display-name>
+    <display-name>MTV</display-name>
   </channel>
-  <programme channel="test" start="20151205000000 +0100" stop="20151205010000 +0100">
+  <programme channel="MTV" start="20151206060000 +0100" stop="20151206070000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg Rewind</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151205010000 +0100" stop="20151205013000 +0100">
+  <programme channel="MTV" start="20151206070000 +0100" stop="20151206080000 +0100">
+    <length units="minutes">60</length>
+    <title>Taking Stock</title>
+    <category>Magazine</category>
+    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206080000 +0100" stop="20151206083000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206083000 +0100" stop="20151206090000 +0100">
     <length units="minutes">30</length>
     <title>For the Record</title>
     <category>Magazine</category>
     <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151205013000 +0100" stop="20151205020000 +0100">
-    <length units="minutes">30</length>
-    <title>Venture with Cris Valerio</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205020000 +0100" stop="20151205030000 +0100">
-    <length units="minutes">60</length>
-    <title>Charlie Rose</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205030000 +0100" stop="20151205033000 +0100">
+  <programme channel="MTV" start="20151206090000 +0100" stop="20151206093000 +0100">
     <length units="minutes">30</length>
     <title>Innovators</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151205033000 +0100" stop="20151205040000 +0100">
+  <programme channel="MTV" start="20151206093000 +0100" stop="20151206100000 +0100">
+    <length units="minutes">30</length>
+    <title>Venture with Cris Valerio</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206100000 +0100" stop="20151206110000 +0100">
+    <length units="minutes">60</length>
+    <title>Taking Stock</title>
+    <category>Magazine</category>
+    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206110000 +0100" stop="20151206113000 +0100">
     <length units="minutes">30</length>
     <title>Political Capital with Al Hunt</title>
     <category>Magazine</category>
@@ -48,314 +65,190 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151205040000 +0100" stop="20151205050000 +0100">
-    <length units="minutes">60</length>
-    <title>Charlie Rose</title>
+  <programme channel="MTV" start="20151206113000 +0100" stop="20151206120000 +0100">
+    <length units="minutes">30</length>
+    <title>Venture with Cris Valerio</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151205050000 +0100" stop="20151205053000 +0100">
+  <programme channel="MTV" start="20151206120000 +0100" stop="20151206130000 +0100">
+    <length units="minutes">60</length>
+    <title>Taking Stock</title>
+    <category>Magazine</category>
+    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206130000 +0100" stop="20151206133000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206133000 +0100" stop="20151206140000 +0100">
+    <length units="minutes">30</length>
+    <title>Venture with Cris Valerio</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206140000 +0100" stop="20151206143000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206143000 +0100" stop="20151206150000 +0100">
+    <length units="minutes">30</length>
+    <title>For the Record</title>
+    <category>Magazine</category>
+    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206150000 +0100" stop="20151206160000 +0100">
+    <length units="minutes">60</length>
+    <title>Taking Stock</title>
+    <category>Magazine</category>
+    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206160000 +0100" stop="20151206163000 +0100">
+    <length units="minutes">30</length>
+    <title>For the Record</title>
+    <category>Magazine</category>
+    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206163000 +0100" stop="20151206170000 +0100">
+    <length units="minutes">30</length>
+    <title>Venture with Cris Valerio</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206170000 +0100" stop="20151206173000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206173000 +0100" stop="20151206180000 +0100">
+    <length units="minutes">30</length>
+    <title>For the Record</title>
+    <category>Magazine</category>
+    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206180000 +0100" stop="20151206190000 +0100">
+    <length units="minutes">60</length>
+    <title>Taking Stock</title>
+    <category>Magazine</category>
+    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206190000 +0100" stop="20151206193000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206193000 +0100" stop="20151206200000 +0100">
+    <length units="minutes">30</length>
+    <title>Venture with Cris Valerio</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206200000 +0100" stop="20151206203000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206203000 +0100" stop="20151206210000 +0100">
+    <length units="minutes">30</length>
+    <title>For the Record</title>
+    <category>Magazine</category>
+    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206210000 +0100" stop="20151206220000 +0100">
+    <length units="minutes">60</length>
+    <title>Taking Stock</title>
+    <category>Magazine</category>
+    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151206220000 +0100" stop="20151206223000 +0100">
     <length units="minutes">30</length>
     <title>Innovators</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151205053000 +0100" stop="20151205060000 +0100">
+  <programme channel="MTV" start="20151206223000 +0100" stop="20151206230000 +0100">
     <length units="minutes">30</length>
     <title>Venture with Cris Valerio</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151205060000 +0100" stop="20151205070000 +0100">
+  <programme channel="MTV" start="20151206230000 +0100" stop="20151207000000 +0100">
     <length units="minutes">60</length>
     <title>Taking Stock</title>
     <category>Magazine</category>
     <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151205070000 +0100" stop="20151205073000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205073000 +0100" stop="20151205080000 +0100">
-    <length units="minutes">30</length>
-    <title>Venture with Cris Valerio</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205080000 +0100" stop="20151205083000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205083000 +0100" stop="20151205090000 +0100">
-    <length units="minutes">30</length>
-    <title>For the Record</title>
-    <category>Magazine</category>
-    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205090000 +0100" stop="20151205100000 +0100">
-    <length units="minutes">60</length>
-    <title>Taking Stock</title>
-    <category>Magazine</category>
-    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205100000 +0100" stop="20151205103000 +0100">
-    <length units="minutes">30</length>
-    <title>For the Record</title>
-    <category>Magazine</category>
-    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205103000 +0100" stop="20151205110000 +0100">
-    <length units="minutes">30</length>
-    <title>Venture with Cris Valerio</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205110000 +0100" stop="20151205113000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205113000 +0100" stop="20151205120000 +0100">
-    <length units="minutes">30</length>
-    <title>For the Record</title>
-    <category>Magazine</category>
-    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205120000 +0100" stop="20151205130000 +0100">
-    <length units="minutes">60</length>
-    <title>Taking Stock</title>
-    <category>Magazine</category>
-    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205130000 +0100" stop="20151205133000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205133000 +0100" stop="20151205140000 +0100">
-    <length units="minutes">30</length>
-    <title>Venture with Cris Valerio</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205140000 +0100" stop="20151205143000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205143000 +0100" stop="20151205150000 +0100">
-    <length units="minutes">30</length>
-    <title>For the Record</title>
-    <category>Magazine</category>
-    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205150000 +0100" stop="20151205160000 +0100">
-    <length units="minutes">60</length>
-    <title>Taking Stock</title>
-    <category>Magazine</category>
-    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205160000 +0100" stop="20151205163000 +0100">
-    <length units="minutes">30</length>
-    <title>For the Record</title>
-    <category>Magazine</category>
-    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205163000 +0100" stop="20151205170000 +0100">
-    <length units="minutes">30</length>
-    <title>Venture with Cris Valerio</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205170000 +0100" stop="20151205173000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205173000 +0100" stop="20151205180000 +0100">
-    <length units="minutes">30</length>
-    <title>For the Record</title>
-    <category>Magazine</category>
-    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205180000 +0100" stop="20151205190000 +0100">
-    <length units="minutes">60</length>
-    <title>Taking Stock</title>
-    <category>Magazine</category>
-    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205190000 +0100" stop="20151205193000 +0100">
-    <length units="minutes">30</length>
-    <title>For the Record</title>
-    <category>Magazine</category>
-    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205193000 +0100" stop="20151205200000 +0100">
-    <length units="minutes">30</length>
-    <title>Venture with Cris Valerio</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205200000 +0100" stop="20151205203000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205203000 +0100" stop="20151205210000 +0100">
-    <length units="minutes">30</length>
-    <title>For the Record</title>
-    <category>Magazine</category>
-    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205210000 +0100" stop="20151205213000 +0100">
+  <programme channel="MTV" start="20151207000000 +0100" stop="20151207003000 +0100">
     <length units="minutes">30</length>
     <title>Innovators</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151205213000 +0100" stop="20151205220000 +0100">
+  <programme channel="MTV" start="20151207003000 +0100" stop="20151207010000 +0100">
     <length units="minutes">30</length>
     <title>Venture with Cris Valerio</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151205220000 +0100" stop="20151205230000 +0100">
-    <length units="minutes">60</length>
-    <title>Taking Stock</title>
-    <category>Magazine</category>
-    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205230000 +0100" stop="20151205233000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205233000 +0100" stop="20151206000000 +0100">
-    <length units="minutes">30</length>
-    <title>For the Record</title>
-    <category>Magazine</category>
-    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206000000 +0100" stop="20151206010000 +0100">
-    <length units="minutes">60</length>
-    <title>Bloomberg Rewind</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206010000 +0100" stop="20151206020000 +0100">
-    <length units="minutes">60</length>
-    <title>Taking Stock</title>
-    <category>Magazine</category>
-    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206020000 +0100" stop="20151206023000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206023000 +0100" stop="20151206030000 +0100">
-    <length units="minutes">30</length>
-    <title>For the Record</title>
-    <category>Magazine</category>
-    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206030000 +0100" stop="20151206033000 +0100">
+  <programme channel="MTV" start="20151207010000 +0100" stop="20151207013000 +0100">
     <length units="minutes">30</length>
     <title>Innovators</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206033000 +0100" stop="20151206040000 +0100">
+  <programme channel="MTV" start="20151207013000 +0100" stop="20151207020000 +0100">
     <length units="minutes">30</length>
     <title>Venture with Cris Valerio</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206040000 +0100" stop="20151206050000 +0100">
-    <length units="minutes">60</length>
-    <title>Taking Stock</title>
-    <category>Magazine</category>
-    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206050000 +0100" stop="20151206053000 +0100">
+  <programme channel="MTV" start="20151207020000 +0100" stop="20151207023000 +0100">
     <length units="minutes">30</length>
     <title>Political Capital with Al Hunt</title>
     <category>Magazine</category>
@@ -365,190 +258,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206053000 +0100" stop="20151206060000 +0100">
-    <length units="minutes">30</length>
-    <title>Venture with Cris Valerio</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206060000 +0100" stop="20151206070000 +0100">
-    <length units="minutes">60</length>
-    <title>Taking Stock</title>
-    <category>Magazine</category>
-    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206070000 +0100" stop="20151206073000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206073000 +0100" stop="20151206080000 +0100">
-    <length units="minutes">30</length>
-    <title>Venture with Cris Valerio</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206080000 +0100" stop="20151206083000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206083000 +0100" stop="20151206090000 +0100">
+  <programme channel="MTV" start="20151207023000 +0100" stop="20151207030000 +0100">
     <length units="minutes">30</length>
     <title>For the Record</title>
     <category>Magazine</category>
     <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206090000 +0100" stop="20151206100000 +0100">
+  <programme channel="MTV" start="20151207030000 +0100" stop="20151207040000 +0100">
     <length units="minutes">60</length>
     <title>Taking Stock</title>
     <category>Magazine</category>
     <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206100000 +0100" stop="20151206103000 +0100">
-    <length units="minutes">30</length>
-    <title>For the Record</title>
-    <category>Magazine</category>
-    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206103000 +0100" stop="20151206110000 +0100">
-    <length units="minutes">30</length>
-    <title>Venture with Cris Valerio</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206110000 +0100" stop="20151206113000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206113000 +0100" stop="20151206120000 +0100">
-    <length units="minutes">30</length>
-    <title>For the Record</title>
-    <category>Magazine</category>
-    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206120000 +0100" stop="20151206130000 +0100">
-    <length units="minutes">60</length>
-    <title>Taking Stock</title>
-    <category>Magazine</category>
-    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206130000 +0100" stop="20151206133000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206133000 +0100" stop="20151206140000 +0100">
-    <length units="minutes">30</length>
-    <title>Venture with Cris Valerio</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206140000 +0100" stop="20151206143000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206143000 +0100" stop="20151206150000 +0100">
-    <length units="minutes">30</length>
-    <title>For the Record</title>
-    <category>Magazine</category>
-    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206150000 +0100" stop="20151206160000 +0100">
-    <length units="minutes">60</length>
-    <title>Taking Stock</title>
-    <category>Magazine</category>
-    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206160000 +0100" stop="20151206163000 +0100">
+  <programme channel="MTV" start="20151207040000 +0100" stop="20151207043000 +0100">
     <length units="minutes">30</length>
     <title>Innovators</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206163000 +0100" stop="20151206170000 +0100">
+  <programme channel="MTV" start="20151207043000 +0100" stop="20151207050000 +0100">
     <length units="minutes">30</length>
     <title>Venture with Cris Valerio</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206170000 +0100" stop="20151206180000 +0100">
-    <length units="minutes">60</length>
-    <title>Taking Stock</title>
-    <category>Magazine</category>
-    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206180000 +0100" stop="20151206183000 +0100">
-    <length units="minutes">30</length>
-    <title>Innovators</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206183000 +0100" stop="20151206190000 +0100">
-    <length units="minutes">30</length>
-    <title>Venture with Cris Valerio</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206190000 +0100" stop="20151206193000 +0100">
-    <length units="minutes">30</length>
-    <title>Innovators</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206193000 +0100" stop="20151206200000 +0100">
-    <length units="minutes">30</length>
-    <title>Venture with Cris Valerio</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206200000 +0100" stop="20151206203000 +0100">
+  <programme channel="MTV" start="20151207050000 +0100" stop="20151207053000 +0100">
     <length units="minutes">30</length>
     <title>Political Capital with Al Hunt</title>
     <category>Magazine</category>
@@ -558,861 +296,1123 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206203000 +0100" stop="20151206210000 +0100">
+  <programme channel="MTV" start="20151207053000 +0100" stop="20151207060000 +0100">
     <length units="minutes">30</length>
     <title>For the Record</title>
     <category>Magazine</category>
     <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206210000 +0100" stop="20151206220000 +0100">
-    <length units="minutes">60</length>
-    <title>Taking Stock</title>
-    <category>Magazine</category>
-    <desc>Une émission consacrée aux investissements. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206220000 +0100" stop="20151206223000 +0100">
-    <length units="minutes">30</length>
-    <title>Innovators</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206223000 +0100" stop="20151206230000 +0100">
-    <length units="minutes">30</length>
-    <title>Venture with Cris Valerio</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206230000 +0100" stop="20151206233000 +0100">
-    <length units="minutes">30</length>
-    <title>Political Capital with Al Hunt</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, Al Hunt revient sur les événements politiques et économiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Al Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206233000 +0100" stop="20151207000000 +0100">
-    <length units="minutes">30</length>
-    <title>For the Record</title>
-    <category>Magazine</category>
-    <desc>Des politiciens et des investisseurs discutent de leurs carrières respectives, mais aussi de leurs perspectives (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151207000000 +0100" stop="20151207050000 +0100">
+  <programme channel="MTV" start="20151207060000 +0100" stop="20151207110000 +0100">
     <length units="minutes">300</length>
     <title>Bloomberg Rewind</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207050000 +0100" stop="20151207060000 +0100">
+  <programme channel="MTV" start="20151207110000 +0100" stop="20151207120000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg Rewind</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207060000 +0100" stop="20151207070000 +0100">
+  <programme channel="MTV" start="20151207120000 +0100" stop="20151207130000 +0100">
     <length units="minutes">60</length>
     <title>Global Connection</title>
     <category>Talk show</category>
     <desc>Des invités débattent sur l'actualité des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207070000 +0100" stop="20151207080000 +0100">
+  <programme channel="MTV" start="20151207130000 +0100" stop="20151207140000 +0100">
     <length units="minutes">60</length>
     <title>Countdown with Maryam Nemazee</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207080000 +0100" stop="20151207090000 +0100">
+  <programme channel="MTV" start="20151207140000 +0100" stop="20151207150000 +0100">
     <length units="minutes">60</length>
     <title>Countdown with Maryam Nemazee</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207090000 +0100" stop="20151207100000 +0100">
+  <programme channel="MTV" start="20151207150000 +0100" stop="20151207160000 +0100">
     <length units="minutes">60</length>
     <title>On the Move with Francine Lacqua</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207100000 +0100" stop="20151207110000 +0100">
+  <programme channel="MTV" start="20151207160000 +0100" stop="20151207170000 +0100">
     <length units="minutes">60</length>
     <title>The Pulse with Andrea Catherwood</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207110000 +0100" stop="20151207120000 +0100">
+  <programme channel="MTV" start="20151207170000 +0100" stop="20151207180000 +0100">
     <length units="minutes">60</length>
     <title>The Pulse with Andrea Catherwood</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207120000 +0100" stop="20151207130000 +0100">
+  <programme channel="MTV" start="20151207180000 +0100" stop="20151207190000 +0100">
     <length units="minutes">60</length>
     <title>Inside Track</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207130000 +0100" stop="20151207140000 +0100">
+  <programme channel="MTV" start="20151207190000 +0100" stop="20151207200000 +0100">
     <length units="minutes">60</length>
     <title>Inside Track</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207140000 +0100" stop="20151207150000 +0100">
+  <programme channel="MTV" start="20151207200000 +0100" stop="20151207210000 +0100">
     <length units="minutes">60</length>
     <title>In the Loop With Betty Liu</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207150000 +0100" stop="20151207160000 +0100">
+  <programme channel="MTV" start="20151207210000 +0100" stop="20151207220000 +0100">
     <length units="minutes">60</length>
     <title>In the Loop With Betty Liu</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207160000 +0100" stop="20151207170000 +0100">
+  <programme channel="MTV" start="20151207220000 +0100" stop="20151207230000 +0100">
     <length units="minutes">60</length>
     <title>InBusiness With Margaret Brennan</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207170000 +0100" stop="20151207180000 +0100">
+  <programme channel="MTV" start="20151207230000 +0100" stop="20151208000000 +0100">
     <length units="minutes">60</length>
     <title>InBusiness With Margaret Brennan</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207180000 +0100" stop="20151207190000 +0100">
+  <programme channel="MTV" start="20151208000000 +0100" stop="20151208010000 +0100">
     <length units="minutes">60</length>
     <title>Surveillance Midday With Tom Keene</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207190000 +0100" stop="20151207200000 +0100">
+  <programme channel="MTV" start="20151208010000 +0100" stop="20151208020000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg News</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207200000 +0100" stop="20151207210000 +0100">
+  <programme channel="MTV" start="20151208020000 +0100" stop="20151208030000 +0100">
     <length units="minutes">60</length>
     <title>Charlie Rose</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207210000 +0100" stop="20151207220000 +0100">
+  <programme channel="MTV" start="20151208030000 +0100" stop="20151208040000 +0100">
     <length units="minutes">60</length>
     <title>Street Smart</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207220000 +0100" stop="20151207230000 +0100">
+  <programme channel="MTV" start="20151208040000 +0100" stop="20151208050000 +0100">
     <length units="minutes">60</length>
     <title>Street Smart</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207230000 +0100" stop="20151208000000 +0100">
+  <programme channel="MTV" start="20151208050000 +0100" stop="20151208060000 +0100">
     <length units="minutes">60</length>
     <title>Charlie Rose</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208000000 +0100" stop="20151208010000 +0100">
+  <programme channel="MTV" start="20151208060000 +0100" stop="20151208070000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg Rewind</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208010000 +0100" stop="20151208020000 +0100">
+  <programme channel="MTV" start="20151208070000 +0100" stop="20151208080000 +0100">
     <length units="minutes">60</length>
     <title>First Up</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208020000 +0100" stop="20151208030000 +0100">
+  <programme channel="MTV" start="20151208080000 +0100" stop="20151208090000 +0100">
     <length units="minutes">60</length>
     <title>First Up</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208030000 +0100" stop="20151208040000 +0100">
+  <programme channel="MTV" start="20151208090000 +0100" stop="20151208100000 +0100">
     <length units="minutes">60</length>
     <title>On the Move Asia</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208040000 +0100" stop="20151208050000 +0100">
+  <programme channel="MTV" start="20151208100000 +0100" stop="20151208110000 +0100">
     <length units="minutes">60</length>
     <title>On the Move Asia</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208050000 +0100" stop="20151208060000 +0100">
+  <programme channel="MTV" start="20151208110000 +0100" stop="20151208120000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg Rewind</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208060000 +0100" stop="20151208070000 +0100">
+  <programme channel="MTV" start="20151208120000 +0100" stop="20151208130000 +0100">
     <length units="minutes">60</length>
     <title>Global Connection</title>
     <category>Talk show</category>
     <desc>Des invités débattent sur l'actualité des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208070000 +0100" stop="20151208080000 +0100">
+  <programme channel="MTV" start="20151208130000 +0100" stop="20151208140000 +0100">
     <length units="minutes">60</length>
     <title>Countdown with Maryam Nemazee</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208080000 +0100" stop="20151208090000 +0100">
+  <programme channel="MTV" start="20151208140000 +0100" stop="20151208150000 +0100">
     <length units="minutes">60</length>
     <title>Countdown with Maryam Nemazee</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208090000 +0100" stop="20151208100000 +0100">
+  <programme channel="MTV" start="20151208150000 +0100" stop="20151208160000 +0100">
     <length units="minutes">60</length>
     <title>On the Move with Francine Lacqua</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208100000 +0100" stop="20151208110000 +0100">
+  <programme channel="MTV" start="20151208160000 +0100" stop="20151208170000 +0100">
     <length units="minutes">60</length>
     <title>The Pulse with Andrea Catherwood</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208110000 +0100" stop="20151208120000 +0100">
+  <programme channel="MTV" start="20151208170000 +0100" stop="20151208180000 +0100">
     <length units="minutes">60</length>
     <title>The Pulse with Andrea Catherwood</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208120000 +0100" stop="20151208130000 +0100">
+  <programme channel="MTV" start="20151208180000 +0100" stop="20151208190000 +0100">
     <length units="minutes">60</length>
     <title>Inside Track</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208130000 +0100" stop="20151208140000 +0100">
+  <programme channel="MTV" start="20151208190000 +0100" stop="20151208200000 +0100">
     <length units="minutes">60</length>
     <title>Inside Track</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208140000 +0100" stop="20151208150000 +0100">
+  <programme channel="MTV" start="20151208200000 +0100" stop="20151208210000 +0100">
     <length units="minutes">60</length>
     <title>In the Loop With Betty Liu</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208150000 +0100" stop="20151208160000 +0100">
+  <programme channel="MTV" start="20151208210000 +0100" stop="20151208220000 +0100">
     <length units="minutes">60</length>
     <title>In the Loop With Betty Liu</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208160000 +0100" stop="20151208170000 +0100">
+  <programme channel="MTV" start="20151208220000 +0100" stop="20151208230000 +0100">
     <length units="minutes">60</length>
     <title>InBusiness With Margaret Brennan</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208170000 +0100" stop="20151208180000 +0100">
+  <programme channel="MTV" start="20151208230000 +0100" stop="20151209000000 +0100">
     <length units="minutes">60</length>
     <title>InBusiness With Margaret Brennan</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208180000 +0100" stop="20151208190000 +0100">
+  <programme channel="MTV" start="20151209000000 +0100" stop="20151209010000 +0100">
     <length units="minutes">60</length>
     <title>Surveillance Midday With Tom Keene</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208190000 +0100" stop="20151208200000 +0100">
+  <programme channel="MTV" start="20151209010000 +0100" stop="20151209020000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg News</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208200000 +0100" stop="20151208210000 +0100">
+  <programme channel="MTV" start="20151209020000 +0100" stop="20151209030000 +0100">
     <length units="minutes">60</length>
     <title>Charlie Rose</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208210000 +0100" stop="20151208220000 +0100">
+  <programme channel="MTV" start="20151209030000 +0100" stop="20151209040000 +0100">
     <length units="minutes">60</length>
     <title>Street Smart</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208220000 +0100" stop="20151208230000 +0100">
+  <programme channel="MTV" start="20151209040000 +0100" stop="20151209050000 +0100">
     <length units="minutes">60</length>
     <title>Street Smart</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208230000 +0100" stop="20151209000000 +0100">
+  <programme channel="MTV" start="20151209050000 +0100" stop="20151209060000 +0100">
     <length units="minutes">60</length>
     <title>Charlie Rose</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209000000 +0100" stop="20151209010000 +0100">
+  <programme channel="MTV" start="20151209060000 +0100" stop="20151209070000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg Rewind</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209010000 +0100" stop="20151209020000 +0100">
+  <programme channel="MTV" start="20151209070000 +0100" stop="20151209080000 +0100">
     <length units="minutes">60</length>
     <title>First Up</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209020000 +0100" stop="20151209030000 +0100">
+  <programme channel="MTV" start="20151209080000 +0100" stop="20151209090000 +0100">
     <length units="minutes">60</length>
     <title>First Up</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209030000 +0100" stop="20151209040000 +0100">
+  <programme channel="MTV" start="20151209090000 +0100" stop="20151209100000 +0100">
     <length units="minutes">60</length>
     <title>On the Move Asia</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209040000 +0100" stop="20151209050000 +0100">
+  <programme channel="MTV" start="20151209100000 +0100" stop="20151209110000 +0100">
     <length units="minutes">60</length>
     <title>On the Move Asia</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209050000 +0100" stop="20151209060000 +0100">
+  <programme channel="MTV" start="20151209110000 +0100" stop="20151209120000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg Rewind</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209060000 +0100" stop="20151209070000 +0100">
+  <programme channel="MTV" start="20151209120000 +0100" stop="20151209130000 +0100">
     <length units="minutes">60</length>
     <title>Global Connection</title>
     <category>Talk show</category>
     <desc>Des invités débattent sur l'actualité des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209070000 +0100" stop="20151209080000 +0100">
+  <programme channel="MTV" start="20151209130000 +0100" stop="20151209140000 +0100">
     <length units="minutes">60</length>
     <title>Countdown with Maryam Nemazee</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209080000 +0100" stop="20151209090000 +0100">
+  <programme channel="MTV" start="20151209140000 +0100" stop="20151209150000 +0100">
     <length units="minutes">60</length>
     <title>Countdown with Maryam Nemazee</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209090000 +0100" stop="20151209100000 +0100">
+  <programme channel="MTV" start="20151209150000 +0100" stop="20151209160000 +0100">
     <length units="minutes">60</length>
     <title>On the Move with Francine Lacqua</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209100000 +0100" stop="20151209110000 +0100">
+  <programme channel="MTV" start="20151209160000 +0100" stop="20151209170000 +0100">
     <length units="minutes">60</length>
     <title>The Pulse with Andrea Catherwood</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209110000 +0100" stop="20151209120000 +0100">
+  <programme channel="MTV" start="20151209170000 +0100" stop="20151209180000 +0100">
     <length units="minutes">60</length>
     <title>The Pulse with Andrea Catherwood</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209120000 +0100" stop="20151209130000 +0100">
+  <programme channel="MTV" start="20151209180000 +0100" stop="20151209190000 +0100">
     <length units="minutes">60</length>
     <title>Inside Track</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209130000 +0100" stop="20151209140000 +0100">
+  <programme channel="MTV" start="20151209190000 +0100" stop="20151209200000 +0100">
     <length units="minutes">60</length>
     <title>Inside Track</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209140000 +0100" stop="20151209150000 +0100">
+  <programme channel="MTV" start="20151209200000 +0100" stop="20151209210000 +0100">
     <length units="minutes">60</length>
     <title>In the Loop With Betty Liu</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209150000 +0100" stop="20151209160000 +0100">
+  <programme channel="MTV" start="20151209210000 +0100" stop="20151209220000 +0100">
     <length units="minutes">60</length>
     <title>In the Loop With Betty Liu</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209160000 +0100" stop="20151209170000 +0100">
+  <programme channel="MTV" start="20151209220000 +0100" stop="20151209230000 +0100">
     <length units="minutes">60</length>
     <title>InBusiness With Margaret Brennan</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209170000 +0100" stop="20151209180000 +0100">
+  <programme channel="MTV" start="20151209230000 +0100" stop="20151210000000 +0100">
     <length units="minutes">60</length>
     <title>InBusiness With Margaret Brennan</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209180000 +0100" stop="20151209190000 +0100">
+  <programme channel="MTV" start="20151210000000 +0100" stop="20151210010000 +0100">
     <length units="minutes">60</length>
     <title>Surveillance Midday With Tom Keene</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209190000 +0100" stop="20151209200000 +0100">
+  <programme channel="MTV" start="20151210010000 +0100" stop="20151210020000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg News</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209200000 +0100" stop="20151209210000 +0100">
+  <programme channel="MTV" start="20151210020000 +0100" stop="20151210030000 +0100">
     <length units="minutes">60</length>
     <title>Charlie Rose</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209210000 +0100" stop="20151209220000 +0100">
+  <programme channel="MTV" start="20151210030000 +0100" stop="20151210040000 +0100">
     <length units="minutes">60</length>
     <title>Street Smart</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209220000 +0100" stop="20151209230000 +0100">
+  <programme channel="MTV" start="20151210040000 +0100" stop="20151210050000 +0100">
     <length units="minutes">60</length>
     <title>Street Smart</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209230000 +0100" stop="20151210000000 +0100">
+  <programme channel="MTV" start="20151210050000 +0100" stop="20151210060000 +0100">
     <length units="minutes">60</length>
     <title>Charlie Rose</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210000000 +0100" stop="20151210010000 +0100">
+  <programme channel="MTV" start="20151210060000 +0100" stop="20151210070000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg Rewind</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210010000 +0100" stop="20151210020000 +0100">
+  <programme channel="MTV" start="20151210070000 +0100" stop="20151210080000 +0100">
     <length units="minutes">60</length>
     <title>First Up</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210020000 +0100" stop="20151210030000 +0100">
+  <programme channel="MTV" start="20151210080000 +0100" stop="20151210090000 +0100">
     <length units="minutes">60</length>
     <title>First Up</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210030000 +0100" stop="20151210040000 +0100">
+  <programme channel="MTV" start="20151210090000 +0100" stop="20151210100000 +0100">
     <length units="minutes">60</length>
     <title>On the Move Asia</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210040000 +0100" stop="20151210050000 +0100">
+  <programme channel="MTV" start="20151210100000 +0100" stop="20151210110000 +0100">
     <length units="minutes">60</length>
     <title>On the Move Asia</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210050000 +0100" stop="20151210060000 +0100">
+  <programme channel="MTV" start="20151210110000 +0100" stop="20151210120000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg Rewind</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210060000 +0100" stop="20151210070000 +0100">
+  <programme channel="MTV" start="20151210120000 +0100" stop="20151210130000 +0100">
     <length units="minutes">60</length>
     <title>Global Connection</title>
     <category>Talk show</category>
     <desc>Des invités débattent sur l'actualité des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210070000 +0100" stop="20151210080000 +0100">
+  <programme channel="MTV" start="20151210130000 +0100" stop="20151210140000 +0100">
     <length units="minutes">60</length>
     <title>Countdown with Maryam Nemazee</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210080000 +0100" stop="20151210090000 +0100">
+  <programme channel="MTV" start="20151210140000 +0100" stop="20151210150000 +0100">
     <length units="minutes">60</length>
     <title>Countdown with Maryam Nemazee</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210090000 +0100" stop="20151210100000 +0100">
+  <programme channel="MTV" start="20151210150000 +0100" stop="20151210160000 +0100">
     <length units="minutes">60</length>
     <title>On the Move with Francine Lacqua</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210100000 +0100" stop="20151210110000 +0100">
+  <programme channel="MTV" start="20151210160000 +0100" stop="20151210170000 +0100">
     <length units="minutes">60</length>
     <title>The Pulse with Andrea Catherwood</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210110000 +0100" stop="20151210120000 +0100">
+  <programme channel="MTV" start="20151210170000 +0100" stop="20151210180000 +0100">
     <length units="minutes">60</length>
     <title>The Pulse with Andrea Catherwood</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210120000 +0100" stop="20151210130000 +0100">
+  <programme channel="MTV" start="20151210180000 +0100" stop="20151210190000 +0100">
     <length units="minutes">60</length>
     <title>Inside Track</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210130000 +0100" stop="20151210140000 +0100">
+  <programme channel="MTV" start="20151210190000 +0100" stop="20151210200000 +0100">
     <length units="minutes">60</length>
     <title>Inside Track</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210140000 +0100" stop="20151210150000 +0100">
+  <programme channel="MTV" start="20151210200000 +0100" stop="20151210210000 +0100">
     <length units="minutes">60</length>
     <title>In the Loop With Betty Liu</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210150000 +0100" stop="20151210160000 +0100">
+  <programme channel="MTV" start="20151210210000 +0100" stop="20151210220000 +0100">
     <length units="minutes">60</length>
     <title>In the Loop With Betty Liu</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210160000 +0100" stop="20151210170000 +0100">
+  <programme channel="MTV" start="20151210220000 +0100" stop="20151210230000 +0100">
     <length units="minutes">60</length>
     <title>InBusiness With Margaret Brennan</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210170000 +0100" stop="20151210180000 +0100">
+  <programme channel="MTV" start="20151210230000 +0100" stop="20151211000000 +0100">
     <length units="minutes">60</length>
     <title>InBusiness With Margaret Brennan</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210180000 +0100" stop="20151210190000 +0100">
+  <programme channel="MTV" start="20151211000000 +0100" stop="20151211010000 +0100">
     <length units="minutes">60</length>
     <title>Surveillance Midday With Tom Keene</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210190000 +0100" stop="20151210200000 +0100">
+  <programme channel="MTV" start="20151211010000 +0100" stop="20151211020000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg News</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210200000 +0100" stop="20151210210000 +0100">
+  <programme channel="MTV" start="20151211020000 +0100" stop="20151211030000 +0100">
     <length units="minutes">60</length>
     <title>Charlie Rose</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210210000 +0100" stop="20151210220000 +0100">
+  <programme channel="MTV" start="20151211030000 +0100" stop="20151211040000 +0100">
     <length units="minutes">60</length>
     <title>Street Smart</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210220000 +0100" stop="20151210230000 +0100">
+  <programme channel="MTV" start="20151211040000 +0100" stop="20151211050000 +0100">
     <length units="minutes">60</length>
     <title>Street Smart</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210230000 +0100" stop="20151211000000 +0100">
+  <programme channel="MTV" start="20151211050000 +0100" stop="20151211060000 +0100">
     <length units="minutes">60</length>
     <title>Charlie Rose</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211000000 +0100" stop="20151211010000 +0100">
+  <programme channel="MTV" start="20151211060000 +0100" stop="20151211070000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg Rewind</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211010000 +0100" stop="20151211020000 +0100">
+  <programme channel="MTV" start="20151211070000 +0100" stop="20151211080000 +0100">
     <length units="minutes">60</length>
     <title>First Up</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211020000 +0100" stop="20151211030000 +0100">
+  <programme channel="MTV" start="20151211080000 +0100" stop="20151211090000 +0100">
     <length units="minutes">60</length>
     <title>First Up</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211030000 +0100" stop="20151211040000 +0100">
+  <programme channel="MTV" start="20151211090000 +0100" stop="20151211100000 +0100">
     <length units="minutes">60</length>
     <title>On the Move Asia</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211040000 +0100" stop="20151211050000 +0100">
+  <programme channel="MTV" start="20151211100000 +0100" stop="20151211110000 +0100">
     <length units="minutes">60</length>
     <title>On the Move Asia</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211050000 +0100" stop="20151211060000 +0100">
+  <programme channel="MTV" start="20151211110000 +0100" stop="20151211120000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg Rewind</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211060000 +0100" stop="20151211070000 +0100">
+  <programme channel="MTV" start="20151211120000 +0100" stop="20151211130000 +0100">
     <length units="minutes">60</length>
     <title>Global Connection</title>
     <category>Talk show</category>
-    <desc>Des invités débattent sur l'actualité des... (Lire la suite).(n)</desc>
+    <desc>Des invités débattent sur l'actualité des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211070000 +0100" stop="20151211080000 +0100">
+  <programme channel="MTV" start="20151211130000 +0100" stop="20151211140000 +0100">
     <length units="minutes">60</length>
     <title>Countdown with Maryam Nemazee</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211080000 +0100" stop="20151211090000 +0100">
+  <programme channel="MTV" start="20151211140000 +0100" stop="20151211150000 +0100">
     <length units="minutes">60</length>
     <title>Countdown with Maryam Nemazee</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211090000 +0100" stop="20151211100000 +0100">
+  <programme channel="MTV" start="20151211150000 +0100" stop="20151211160000 +0100">
     <length units="minutes">60</length>
     <title>On the Move with Francine Lacqua</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211100000 +0100" stop="20151211110000 +0100">
+  <programme channel="MTV" start="20151211160000 +0100" stop="20151211170000 +0100">
     <length units="minutes">60</length>
     <title>The Pulse with Andrea Catherwood</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211110000 +0100" stop="20151211120000 +0100">
+  <programme channel="MTV" start="20151211170000 +0100" stop="20151211180000 +0100">
     <length units="minutes">60</length>
     <title>The Pulse with Andrea Catherwood</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211120000 +0100" stop="20151211130000 +0100">
+  <programme channel="MTV" start="20151211180000 +0100" stop="20151211190000 +0100">
     <length units="minutes">60</length>
     <title>Inside Track</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211130000 +0100" stop="20151211140000 +0100">
+  <programme channel="MTV" start="20151211190000 +0100" stop="20151211200000 +0100">
     <length units="minutes">60</length>
     <title>Inside Track</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211140000 +0100" stop="20151211150000 +0100">
+  <programme channel="MTV" start="20151211200000 +0100" stop="20151211210000 +0100">
     <length units="minutes">60</length>
     <title>In the Loop With Betty Liu</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211150000 +0100" stop="20151211160000 +0100">
+  <programme channel="MTV" start="20151211210000 +0100" stop="20151211220000 +0100">
     <length units="minutes">60</length>
     <title>In the Loop With Betty Liu</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211160000 +0100" stop="20151211170000 +0100">
+  <programme channel="MTV" start="20151211220000 +0100" stop="20151211230000 +0100">
     <length units="minutes">60</length>
     <title>InBusiness With Margaret Brennan</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211170000 +0100" stop="20151211180000 +0100">
+  <programme channel="MTV" start="20151211230000 +0100" stop="20151212000000 +0100">
     <length units="minutes">60</length>
     <title>InBusiness With Margaret Brennan</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211180000 +0100" stop="20151211190000 +0100">
+  <programme channel="MTV" start="20151212000000 +0100" stop="20151212010000 +0100">
     <length units="minutes">60</length>
     <title>Surveillance Midday With Tom Keene</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211190000 +0100" stop="20151211200000 +0100">
+  <programme channel="MTV" start="20151212010000 +0100" stop="20151212020000 +0100">
     <length units="minutes">60</length>
     <title>Bloomberg News</title>
     <category>Journal</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212020000 +0100" stop="20151212030000 +0100">
+    <length units="minutes">60</length>
+    <title>Charlie Rose</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212030000 +0100" stop="20151212040000 +0100">
+    <length units="minutes">60</length>
+    <title>Street Smart</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212040000 +0100" stop="20151212050000 +0100">
+    <length units="minutes">60</length>
+    <title>Street Smart</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212050000 +0100" stop="20151212060000 +0100">
+    <length units="minutes">60</length>
+    <title>Charlie Rose</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212060000 +0100" stop="20151212070000 +0100">
+    <length units="minutes">60</length>
+    <title>Bloomberg Rewind</title>
+    <category>Magazine</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211200000 +0100" stop="20151211210000 +0100">
+  <programme channel="MTV" start="20151212070000 +0100" stop="20151212073000 +0100">
+    <length units="minutes">30</length>
+    <title>For the Record</title>
+    <category>Magazine</category>
+    <desc>Des politiciens et des investisseurs discutent de (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212073000 +0100" stop="20151212080000 +0100">
+    <length units="minutes">30</length>
+    <title>Venture with Cris Valerio</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212080000 +0100" stop="20151212090000 +0100">
     <length units="minutes">60</length>
     <title>Charlie Rose</title>
     <category>Magazine</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211210000 +0100" stop="20151211220000 +0100">
-    <length units="minutes">60</length>
-    <title>Street Smart</title>
+  <programme channel="MTV" start="20151212090000 +0100" stop="20151212093000 +0100">
+    <length units="minutes">30</length>
+    <title>Innovators</title>
     <category>Magazine</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211220000 +0100" stop="20151211230000 +0100">
-    <length units="minutes">60</length>
-    <title>Street Smart</title>
+  <programme channel="MTV" start="20151212093000 +0100" stop="20151212100000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>Chaque semaine, Al Hunt revient sur les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211230000 +0100" stop="20151212000000 +0100">
+  <programme channel="MTV" start="20151212100000 +0100" stop="20151212110000 +0100">
     <length units="minutes">60</length>
     <title>Charlie Rose</title>
     <category>Magazine</category>
     <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212110000 +0100" stop="20151212113000 +0100">
+    <length units="minutes">30</length>
+    <title>Innovators</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212113000 +0100" stop="20151212120000 +0100">
+    <length units="minutes">30</length>
+    <title>Venture with Cris Valerio</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212120000 +0100" stop="20151212130000 +0100">
+    <length units="minutes">60</length>
+    <title>Taking Stock</title>
+    <category>Magazine</category>
+    <desc>Une émission consacrée aux investissements. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212130000 +0100" stop="20151212133000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, Al Hunt revient sur les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212133000 +0100" stop="20151212140000 +0100">
+    <length units="minutes">30</length>
+    <title>Venture with Cris Valerio</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212140000 +0100" stop="20151212143000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, Al Hunt revient sur les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212143000 +0100" stop="20151212150000 +0100">
+    <length units="minutes">30</length>
+    <title>For the Record</title>
+    <category>Magazine</category>
+    <desc>Des politiciens et des investisseurs discutent de (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212150000 +0100" stop="20151212160000 +0100">
+    <length units="minutes">60</length>
+    <title>Taking Stock</title>
+    <category>Magazine</category>
+    <desc>Une émission consacrée aux investissements. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212160000 +0100" stop="20151212163000 +0100">
+    <length units="minutes">30</length>
+    <title>For the Record</title>
+    <category>Magazine</category>
+    <desc>Des politiciens et des investisseurs discutent de (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212163000 +0100" stop="20151212170000 +0100">
+    <length units="minutes">30</length>
+    <title>Venture with Cris Valerio</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212170000 +0100" stop="20151212173000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, Al Hunt revient sur les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212173000 +0100" stop="20151212180000 +0100">
+    <length units="minutes">30</length>
+    <title>For the Record</title>
+    <category>Magazine</category>
+    <desc>Des politiciens et des investisseurs discutent de (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212180000 +0100" stop="20151212190000 +0100">
+    <length units="minutes">60</length>
+    <title>Taking Stock</title>
+    <category>Magazine</category>
+    <desc>Une émission consacrée aux investissements. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212190000 +0100" stop="20151212193000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, Al Hunt revient sur les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212193000 +0100" stop="20151212200000 +0100">
+    <length units="minutes">30</length>
+    <title>Venture with Cris Valerio</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212200000 +0100" stop="20151212203000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, Al Hunt revient sur les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212203000 +0100" stop="20151212210000 +0100">
+    <length units="minutes">30</length>
+    <title>For the Record</title>
+    <category>Magazine</category>
+    <desc>Des politiciens et des investisseurs discutent de (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212210000 +0100" stop="20151212220000 +0100">
+    <length units="minutes">60</length>
+    <title>Taking Stock</title>
+    <category>Magazine</category>
+    <desc>Une émission consacrée aux investissements. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212220000 +0100" stop="20151212223000 +0100">
+    <length units="minutes">30</length>
+    <title>For the Record</title>
+    <category>Magazine</category>
+    <desc>Des politiciens et des investisseurs discutent de (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212223000 +0100" stop="20151212230000 +0100">
+    <length units="minutes">30</length>
+    <title>Venture with Cris Valerio</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212230000 +0100" stop="20151212233000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, Al Hunt revient sur les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212233000 +0100" stop="20151213000000 +0100">
+    <length units="minutes">30</length>
+    <title>For the Record</title>
+    <category>Magazine</category>
+    <desc>Des politiciens et des investisseurs discutent de (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213000000 +0100" stop="20151213010000 +0100">
+    <length units="minutes">60</length>
+    <title>Taking Stock</title>
+    <category>Magazine</category>
+    <desc>Une émission consacrée aux investissements. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213010000 +0100" stop="20151213013000 +0100">
+    <length units="minutes">30</length>
+    <title>For the Record</title>
+    <category>Magazine</category>
+    <desc>Des politiciens et des investisseurs discutent de (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213013000 +0100" stop="20151213020000 +0100">
+    <length units="minutes">30</length>
+    <title>Venture with Cris Valerio</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213020000 +0100" stop="20151213023000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, Al Hunt revient sur les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213023000 +0100" stop="20151213030000 +0100">
+    <length units="minutes">30</length>
+    <title>For the Record</title>
+    <category>Magazine</category>
+    <desc>Des politiciens et des investisseurs discutent de (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213030000 +0100" stop="20151213033000 +0100">
+    <length units="minutes">30</length>
+    <title>Innovators</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213033000 +0100" stop="20151213040000 +0100">
+    <length units="minutes">30</length>
+    <title>Venture with Cris Valerio</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213040000 +0100" stop="20151213050000 +0100">
+    <length units="minutes">60</length>
+    <title>Taking Stock</title>
+    <category>Magazine</category>
+    <desc>Une émission consacrée aux investissements. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213050000 +0100" stop="20151213053000 +0100">
+    <length units="minutes">30</length>
+    <title>Political Capital with Al Hunt</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, Al Hunt revient sur les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Al Hunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213053000 +0100" stop="20151213060000 +0100">
+    <length units="minutes">30</length>
+    <title>For the Record</title>
+    <category>Magazine</category>
+    <desc>Des politiciens et des investisseurs discutent de (Lire la suite).(n)</desc>
     <image />
   </programme>
 </tv>

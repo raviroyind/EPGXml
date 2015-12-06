@@ -58,7 +58,7 @@
                     <!-- Content -->
                     <div id="content" class="row-fluid">
                         <ol class="breadcrumb">
-                            <li><strong>Source Xml:</strong></li>
+                            <li><strong>Source Xml/ Zip:</strong></li>
                             <li>
                                 <asp:DropDownList runat="server" data-style="btn btn-default" CssClass="selectpicker" ID="ddlSourceXml" AutoPostBack="True" OnSelectedIndexChanged="ddlSourceXml_SelectedIndexChanged" /></li>
                         </ol>

@@ -864,3 +864,8 @@ button.close{padding:0;cursor:pointer;background:transparent;border:0;-webkit-ap
     font-weight: bold;
     color: orange;
 }
+
+.blink {
+     color: #000000 !important;
+     background: #ffd700; !important;
+}

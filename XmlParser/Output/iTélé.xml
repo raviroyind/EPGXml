@@ -1,127 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="iTélé">
-    <display-name>test</display-name>
+    <display-name>MTV</display-name>
   </channel>
-  <programme channel="test" start="20151205003000 +0100" stop="20151205070000 +0100">
-    <length units="minutes">390</length>
-    <title>L'édition de la nuit</title>
-    <category>Journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205070000 +0100" stop="20151205100000 +0100">
-    <length units="minutes">180</length>
-    <title>La matinale week-end</title>
-    <category>Magazine</category>
-    <desc>L'essentiel de l'actualité avec des reportages, des analyses politiques, les résultats sportifs et la météo. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Claude Askolovitch,</name>
-      <name function="presenter">Frédéric Plisson,</name>
-      <name function="presenter">Florent Peiffer,</name>
-      <name function="presenter">Eléonore Boccara,</name>
-      <name function="presenter">Alice Rougerie</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205100000 +0100" stop="20151205101500 +0100">
-    <length units="minutes">15</length>
-    <title>La Newsroom week-end</title>
-    <category>Magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Claire-Elisabeth Beaufort,</name>
-      <name function="presenter">Thomas Lequertier,</name>
-      <name function="presenter">Clément Méric (en alternance)</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205101500 +0100" stop="20151205110000 +0100">
-    <length units="minutes">45</length>
-    <title>CQFD</title>
-    <category>Magazine</category>
-    <desc>Florent Peiffer et ses quatre intervenants proposent de décrypter l'actualité politique : réseaux sociaux, sondages et communication sont... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Florent Peiffer</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205110000 +0100" stop="20151205130000 +0100">
-    <length units="minutes">120</length>
-    <title>La Newsroom week-end</title>
-    <category>Magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Claire-Elisabeth Beaufort,</name>
-      <name function="presenter">Thomas Lequertier,</name>
-      <name function="presenter">Clément Méric (en alternance)</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205130000 +0100" stop="20151205140000 +0100">
-    <length units="minutes">60</length>
-    <title>13h Foot</title>
-    <category>Magazine</category>
-    <desc>Le rendez-vous foot de la mi-journée. A travers des analyses et des reportages, Pascal Praud et Julien Pasquet présentent les enjeux des... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Pascal Praud,</name>
-      <name function="presenter">Julien Pasquet</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205140000 +0100" stop="20151205180000 +0100">
-    <length units="minutes">240</length>
-    <title>La Newsroom week-end</title>
-    <category>Magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Claire-Elisabeth Beaufort,</name>
-      <name function="presenter">Thomas Lequertier,</name>
-      <name function="presenter">Clément Méric (en alternance)</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205180000 +0100" stop="20151205200000 +0100">
-    <length units="minutes">120</length>
-    <title>Intégrale week-end</title>
-    <category>Magazine</category>
-    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Antoine Genton,</name>
-      <name function="presenter">Aurélie Casse</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205200000 +0100" stop="20151205220000 +0100">
-    <length units="minutes">120</length>
-    <title>Intégrale week-end</title>
-    <category>Magazine</category>
-    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Antoine Genton,</name>
-      <name function="presenter">Aurélie Casse</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205220000 +0100" stop="20151206000000 +0100">
-    <length units="minutes">120</length>
-    <title>Intégrale week-end</title>
-    <category>Magazine</category>
-    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Antoine Genton,</name>
-      <name function="presenter">Aurélie Casse</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206000000 +0100" stop="20151206070000 +0100">
+  <programme channel="MTV" start="20151206060000 +0100" stop="20151206130000 +0100">
     <length units="minutes">420</length>
     <title>L'édition de la nuit</title>
     <category>Journal</category>
     <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206070000 +0100" stop="20151206100000 +0100">
+  <programme channel="MTV" start="20151206130000 +0100" stop="20151206160000 +0100">
     <length units="minutes">180</length>
     <title>La matinale week-end</title>
     <category>Magazine</category>
@@ -135,7 +24,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206100000 +0100" stop="20151206100500 +0100">
+  <programme channel="MTV" start="20151206160000 +0100" stop="20151206160500 +0100">
     <length units="minutes">5</length>
     <title>La Newsroom week-end</title>
     <category>Magazine</category>
@@ -147,7 +36,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206100500 +0100" stop="20151206110000 +0100">
+  <programme channel="MTV" start="20151206160500 +0100" stop="20151206170000 +0100">
     <length units="minutes">55</length>
     <title>Le grand rendez-vous</title>
     <category>Magazine</category>
@@ -159,7 +48,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206110000 +0100" stop="20151206110500 +0100">
+  <programme channel="MTV" start="20151206170000 +0100" stop="20151206170500 +0100">
     <length units="minutes">5</length>
     <title>La Newsroom week-end</title>
     <category>Magazine</category>
@@ -171,7 +60,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206110500 +0100" stop="20151206120000 +0100">
+  <programme channel="MTV" start="20151206170500 +0100" stop="20151206180000 +0100">
     <length units="minutes">55</length>
     <title>D'un monde à l'autre</title>
     <category>Magazine</category>
@@ -181,7 +70,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206120000 +0100" stop="20151206124500 +0100">
+  <programme channel="MTV" start="20151206180000 +0100" stop="20151206184500 +0100">
     <length units="minutes">45</length>
     <title>La Newsroom week-end</title>
     <category>Magazine</category>
@@ -193,7 +82,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206124500 +0100" stop="20151206130000 +0100">
+  <programme channel="MTV" start="20151206184500 +0100" stop="20151206190000 +0100">
     <length units="minutes">15</length>
     <title>L'hebdo de l'éco</title>
     <category>Magazine</category>
@@ -203,7 +92,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206130000 +0100" stop="20151206140000 +0100">
+  <programme channel="MTV" start="20151206190000 +0100" stop="20151206200000 +0100">
     <length units="minutes">60</length>
     <title>13h Foot</title>
     <category>Magazine</category>
@@ -214,7 +103,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206140000 +0100" stop="20151206170500 +0100">
+  <programme channel="MTV" start="20151206200000 +0100" stop="20151206230500 +0100">
     <length units="minutes">185</length>
     <title>La Newsroom week-end</title>
     <category>Magazine</category>
@@ -226,7 +115,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206170500 +0100" stop="20151206180000 +0100">
+  <programme channel="MTV" start="20151206230500 +0100" stop="20151207000000 +0100">
     <length units="minutes">55</length>
     <title>Le grand rendez-vous</title>
     <category>Magazine</category>
@@ -238,7 +127,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206180000 +0100" stop="20151206200000 +0100">
+  <programme channel="MTV" start="20151207000000 +0100" stop="20151207020000 +0100">
     <length units="minutes">120</length>
     <title>Elections régionales 2015</title>
     <category />
@@ -248,29 +137,29 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206200000 +0100" stop="20151206220000 +0100">
+  <programme channel="MTV" start="20151207020000 +0100" stop="20151207040000 +0100">
     <length units="minutes">120</length>
     <title>Elections régionales 2015</title>
     <category />
-    <desc>Analyse du taux de participation à ce premier tour des élections régionales, décryptage avec des invités et des experts des premières estimations... (Lire la suite).(c)</desc>
+    <desc>Analyse du taux de participation à ce premier tour des élections régionales, décryptage avec des invités et des experts des premières estimations... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Laurence Ferrari,</name>
       <name function="presenter">Bruce Toussaint</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206220000 +0100" stop="20151206230000 +0100">
+  <programme channel="MTV" start="20151207040000 +0100" stop="20151207050000 +0100">
     <length units="minutes">60</length>
     <title>Elections régionales 2015</title>
     <category />
-    <desc>Analyse du taux de participation à ce premier tour des élections régionales, décryptage avec des invités et des experts des premières estimations... (Lire la suite).(c)</desc>
+    <desc>Analyse du taux de participation à ce premier tour des élections régionales, décryptage avec des invités et des experts des premières estimations... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Olivier Galzi,</name>
       <name function="presenter">Soizic Boisard</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206230000 +0100" stop="20151207010000 +0100">
+  <programme channel="MTV" start="20151207050000 +0100" stop="20151207070000 +0100">
     <length units="minutes">120</length>
     <title>Elections régionales 2015</title>
     <category />
@@ -281,14 +170,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207010000 +0100" stop="20151207050000 +0100">
+  <programme channel="MTV" start="20151207070000 +0100" stop="20151207110000 +0100">
     <length units="minutes">240</length>
     <title>L'édition de la nuit</title>
     <category>Journal</category>
     <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207050000 +0100" stop="20151207070000 +0100">
+  <programme channel="MTV" start="20151207110000 +0100" stop="20151207130000 +0100">
     <length units="minutes">120</length>
     <title>Dès 5h, Laurent Bazin</title>
     <category>Magazine</category>
@@ -299,7 +188,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207070000 +0100" stop="20151207100000 +0100">
+  <programme channel="MTV" start="20151207130000 +0100" stop="20151207160000 +0100">
     <length units="minutes">180</length>
     <title>Team Toussaint, la matinale info</title>
     <category>Magazine</category>
@@ -315,7 +204,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207100000 +0100" stop="20151207130000 +0100">
+  <programme channel="MTV" start="20151207160000 +0100" stop="20151207190000 +0100">
     <length units="minutes">180</length>
     <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
     <category>Magazine</category>
@@ -326,7 +215,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207130000 +0100" stop="20151207180000 +0100">
+  <programme channel="MTV" start="20151207190000 +0100" stop="20151208000000 +0100">
     <length units="minutes">300</length>
     <title>La Newsroom</title>
     <category>Magazine</category>
@@ -337,7 +226,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207180000 +0100" stop="20151207193000 +0100">
+  <programme channel="MTV" start="20151208000000 +0100" stop="20151208013000 +0100">
     <length units="minutes">90</length>
     <title>Tirs croisés Ferrari</title>
     <category>Magazine</category>
@@ -348,7 +237,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207193000 +0100" stop="20151207203000 +0100">
+  <programme channel="MTV" start="20151208013000 +0100" stop="20151208023000 +0100">
     <length units="minutes">60</length>
     <title>20h Foot</title>
     <category>Magazine</category>
@@ -359,7 +248,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207203000 +0100" stop="20151207210000 +0100">
+  <programme channel="MTV" start="20151208023000 +0100" stop="20151208030000 +0100">
     <length units="minutes">30</length>
     <title>Le grand JT d'Audrey Pulvar</title>
     <category>Journal</category>
@@ -369,7 +258,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207210000 +0100" stop="20151207220000 +0100">
+  <programme channel="MTV" start="20151208030000 +0100" stop="20151208040000 +0100">
     <length units="minutes">60</length>
     <title>On ne va pas se mentir</title>
     <category>Magazine</category>
@@ -379,7 +268,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207220000 +0100" stop="20151208003000 +0100">
+  <programme channel="MTV" start="20151208040000 +0100" stop="20151208063000 +0100">
     <length units="minutes">150</length>
     <title>Galzi jusqu'à minuit</title>
     <category>Magazine</category>
@@ -390,14 +279,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208003000 +0100" stop="20151208050000 +0100">
+  <programme channel="MTV" start="20151208063000 +0100" stop="20151208110000 +0100">
     <length units="minutes">270</length>
     <title>L'édition de la nuit</title>
     <category>Journal</category>
     <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208050000 +0100" stop="20151208070000 +0100">
+  <programme channel="MTV" start="20151208110000 +0100" stop="20151208130000 +0100">
     <length units="minutes">120</length>
     <title>Dès 5h, Laurent Bazin</title>
     <category>Magazine</category>
@@ -408,7 +297,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208070000 +0100" stop="20151208100000 +0100">
+  <programme channel="MTV" start="20151208130000 +0100" stop="20151208160000 +0100">
     <length units="minutes">180</length>
     <title>Team Toussaint, la matinale info</title>
     <category>Magazine</category>
@@ -424,7 +313,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208100000 +0100" stop="20151208130000 +0100">
+  <programme channel="MTV" start="20151208160000 +0100" stop="20151208190000 +0100">
     <length units="minutes">180</length>
     <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
     <category>Magazine</category>
@@ -435,7 +324,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208130000 +0100" stop="20151208180000 +0100">
+  <programme channel="MTV" start="20151208190000 +0100" stop="20151209000000 +0100">
     <length units="minutes">300</length>
     <title>La Newsroom</title>
     <category>Magazine</category>
@@ -446,7 +335,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208180000 +0100" stop="20151208193000 +0100">
+  <programme channel="MTV" start="20151209000000 +0100" stop="20151209013000 +0100">
     <length units="minutes">90</length>
     <title>Tirs croisés Ferrari</title>
     <category>Magazine</category>
@@ -457,7 +346,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208193000 +0100" stop="20151208203000 +0100">
+  <programme channel="MTV" start="20151209013000 +0100" stop="20151209023000 +0100">
     <length units="minutes">60</length>
     <title>20h Foot</title>
     <category>Magazine</category>
@@ -468,7 +357,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208203000 +0100" stop="20151208210000 +0100">
+  <programme channel="MTV" start="20151209023000 +0100" stop="20151209030000 +0100">
     <length units="minutes">30</length>
     <title>Le grand JT d'Audrey Pulvar</title>
     <category>Journal</category>
@@ -478,7 +367,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208210000 +0100" stop="20151208220000 +0100">
+  <programme channel="MTV" start="20151209030000 +0100" stop="20151209040000 +0100">
     <length units="minutes">60</length>
     <title>On ne va pas se mentir</title>
     <category>Magazine</category>
@@ -488,7 +377,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208220000 +0100" stop="20151209003000 +0100">
+  <programme channel="MTV" start="20151209040000 +0100" stop="20151209063000 +0100">
     <length units="minutes">150</length>
     <title>Galzi jusqu'à minuit</title>
     <category>Magazine</category>
@@ -499,14 +388,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209003000 +0100" stop="20151209050000 +0100">
+  <programme channel="MTV" start="20151209063000 +0100" stop="20151209110000 +0100">
     <length units="minutes">270</length>
     <title>L'édition de la nuit</title>
     <category>Journal</category>
     <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209050000 +0100" stop="20151209070000 +0100">
+  <programme channel="MTV" start="20151209110000 +0100" stop="20151209130000 +0100">
     <length units="minutes">120</length>
     <title>Dès 5h, Laurent Bazin</title>
     <category>Magazine</category>
@@ -517,7 +406,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209070000 +0100" stop="20151209100000 +0100">
+  <programme channel="MTV" start="20151209130000 +0100" stop="20151209160000 +0100">
     <length units="minutes">180</length>
     <title>Team Toussaint, la matinale info</title>
     <category>Magazine</category>
@@ -533,7 +422,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209100000 +0100" stop="20151209130000 +0100">
+  <programme channel="MTV" start="20151209160000 +0100" stop="20151209190000 +0100">
     <length units="minutes">180</length>
     <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
     <category>Magazine</category>
@@ -544,7 +433,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209130000 +0100" stop="20151209180000 +0100">
+  <programme channel="MTV" start="20151209190000 +0100" stop="20151210000000 +0100">
     <length units="minutes">300</length>
     <title>La Newsroom</title>
     <category>Magazine</category>
@@ -555,7 +444,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209180000 +0100" stop="20151209193000 +0100">
+  <programme channel="MTV" start="20151210000000 +0100" stop="20151210013000 +0100">
     <length units="minutes">90</length>
     <title>Tirs croisés Ferrari</title>
     <category>Magazine</category>
@@ -566,7 +455,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209193000 +0100" stop="20151209203000 +0100">
+  <programme channel="MTV" start="20151210013000 +0100" stop="20151210023000 +0100">
     <length units="minutes">60</length>
     <title>20h Foot</title>
     <category>Magazine</category>
@@ -577,7 +466,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209203000 +0100" stop="20151209210000 +0100">
+  <programme channel="MTV" start="20151210023000 +0100" stop="20151210030000 +0100">
     <length units="minutes">30</length>
     <title>Le grand JT d'Audrey Pulvar</title>
     <category>Journal</category>
@@ -587,7 +476,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209210000 +0100" stop="20151209220000 +0100">
+  <programme channel="MTV" start="20151210030000 +0100" stop="20151210040000 +0100">
     <length units="minutes">60</length>
     <title>On ne va pas se mentir</title>
     <category>Magazine</category>
@@ -597,7 +486,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209220000 +0100" stop="20151210003000 +0100">
+  <programme channel="MTV" start="20151210040000 +0100" stop="20151210063000 +0100">
     <length units="minutes">150</length>
     <title>Galzi jusqu'à minuit</title>
     <category>Magazine</category>
@@ -608,14 +497,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210003000 +0100" stop="20151210050000 +0100">
+  <programme channel="MTV" start="20151210063000 +0100" stop="20151210110000 +0100">
     <length units="minutes">270</length>
     <title>L'édition de la nuit</title>
     <category>Journal</category>
     <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210050000 +0100" stop="20151210070000 +0100">
+  <programme channel="MTV" start="20151210110000 +0100" stop="20151210130000 +0100">
     <length units="minutes">120</length>
     <title>Dès 5h, Laurent Bazin</title>
     <category>Magazine</category>
@@ -626,7 +515,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210070000 +0100" stop="20151210100000 +0100">
+  <programme channel="MTV" start="20151210130000 +0100" stop="20151210160000 +0100">
     <length units="minutes">180</length>
     <title>Team Toussaint, la matinale info</title>
     <category>Magazine</category>
@@ -642,7 +531,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210100000 +0100" stop="20151210130000 +0100">
+  <programme channel="MTV" start="20151210160000 +0100" stop="20151210190000 +0100">
     <length units="minutes">180</length>
     <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
     <category>Magazine</category>
@@ -653,7 +542,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210130000 +0100" stop="20151210180000 +0100">
+  <programme channel="MTV" start="20151210190000 +0100" stop="20151211000000 +0100">
     <length units="minutes">300</length>
     <title>La Newsroom</title>
     <category>Magazine</category>
@@ -664,7 +553,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210180000 +0100" stop="20151210193000 +0100">
+  <programme channel="MTV" start="20151211000000 +0100" stop="20151211013000 +0100">
     <length units="minutes">90</length>
     <title>Tirs croisés Ferrari</title>
     <category>Magazine</category>
@@ -675,7 +564,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210193000 +0100" stop="20151210203000 +0100">
+  <programme channel="MTV" start="20151211013000 +0100" stop="20151211023000 +0100">
     <length units="minutes">60</length>
     <title>20h Foot</title>
     <category>Magazine</category>
@@ -686,7 +575,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210203000 +0100" stop="20151210210000 +0100">
+  <programme channel="MTV" start="20151211023000 +0100" stop="20151211030000 +0100">
     <length units="minutes">30</length>
     <title>Le grand JT d'Audrey Pulvar</title>
     <category>Journal</category>
@@ -696,7 +585,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210210000 +0100" stop="20151210220000 +0100">
+  <programme channel="MTV" start="20151211030000 +0100" stop="20151211040000 +0100">
     <length units="minutes">60</length>
     <title>On ne va pas se mentir</title>
     <category>Magazine</category>
@@ -706,7 +595,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210220000 +0100" stop="20151211003000 +0100">
+  <programme channel="MTV" start="20151211040000 +0100" stop="20151211063000 +0100">
     <length units="minutes">150</length>
     <title>Galzi jusqu'à minuit</title>
     <category>Magazine</category>
@@ -717,29 +606,29 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211003000 +0100" stop="20151211050000 +0100">
+  <programme channel="MTV" start="20151211063000 +0100" stop="20151211110000 +0100">
     <length units="minutes">270</length>
     <title>L'édition de la nuit</title>
     <category>Journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).(n)</desc>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211050000 +0100" stop="20151211070000 +0100">
+  <programme channel="MTV" start="20151211110000 +0100" stop="20151211130000 +0100">
     <length units="minutes">120</length>
     <title>Dès 5h, Laurent Bazin</title>
     <category>Magazine</category>
-    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit.... (Lire la suite).(n)</desc>
+    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit.... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Laurent Bazin,</name>
       <name function="presenter">Isabelle Moreau</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211070000 +0100" stop="20151211100000 +0100">
+  <programme channel="MTV" start="20151211130000 +0100" stop="20151211160000 +0100">
     <length units="minutes">180</length>
     <title>Team Toussaint, la matinale info</title>
     <category>Magazine</category>
-    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité :... (Lire la suite).(n)</desc>
+    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité :... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Christophe Barbier,</name>
       <name function="presenter">Stefan Etcheverry,</name>
@@ -751,62 +640,62 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211100000 +0100" stop="20151211130000 +0100">
+  <programme channel="MTV" start="20151211160000 +0100" stop="20151211190000 +0100">
     <length units="minutes">180</length>
     <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
     <category>Magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne. (Lire la suite).(n)</desc>
+    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Sonia Chironi,</name>
       <name function="presenter">Adrien Borne</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211130000 +0100" stop="20151211180000 +0100">
+  <programme channel="MTV" start="20151211190000 +0100" stop="20151212000000 +0100">
     <length units="minutes">300</length>
     <title>La Newsroom</title>
     <category>Magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la... (Lire la suite).(n)</desc>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Caroline Delage,</name>
       <name function="presenter">Romain Desarbres</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211180000 +0100" stop="20151211193000 +0100">
+  <programme channel="MTV" start="20151212000000 +0100" stop="20151212013000 +0100">
     <length units="minutes">90</length>
     <title>Intégrale week-end</title>
     <category>Magazine</category>
-    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).(n)</desc>
+    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Antoine Genton,</name>
       <name function="presenter">Aurélie Casse</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211193000 +0100" stop="20151211203000 +0100">
+  <programme channel="MTV" start="20151212013000 +0100" stop="20151212023000 +0100">
     <length units="minutes">60</length>
     <title>20h Foot</title>
     <category>Magazine</category>
-    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou... (Lire la suite).(n)</desc>
+    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Pascal Praud,</name>
       <name function="presenter">François Pinet</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211203000 +0100" stop="20151211210000 +0100">
+  <programme channel="MTV" start="20151212023000 +0100" stop="20151212030000 +0100">
     <length units="minutes">30</length>
     <title>Le grand JT</title>
     <category>Journal</category>
-    <desc>Le grand journal du soir, qui décrypte et analyse l'actualité autour de nombreux invités. (Lire la suite).(n)</desc>
+    <desc>Le grand journal du soir, qui décrypte et analyse l'actualité autour de nombreux invités. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211210000 +0100" stop="20151211220000 +0100">
+  <programme channel="MTV" start="20151212030000 +0100" stop="20151212040000 +0100">
     <length units="minutes">60</length>
     <title>CQFD</title>
     <category>Magazine</category>
-    <desc>Florent Peiffer et ses quatre intervenants proposent de décrypter l'actualité politique : réseaux sociaux, sondages et communication sont... (Lire la suite).(n)</desc>
+    <desc>Florent Peiffer et ses quatre intervenants proposent de décrypter l'actualité politique : réseaux sociaux, sondages et communication sont... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Bruno Jeudy,</name>
       <name function="presenter">Céline Bracq,</name>
@@ -816,8 +705,119 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211220000 +0100" stop="20151212003000 +0100">
+  <programme channel="MTV" start="20151212040000 +0100" stop="20151212063000 +0100">
     <length units="minutes">150</length>
+    <title>Intégrale week-end</title>
+    <category>Magazine</category>
+    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Antoine Genton,</name>
+      <name function="presenter">Aurélie Casse</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212063000 +0100" stop="20151212130000 +0100">
+    <length units="minutes">390</length>
+    <title>L'édition de la nuit</title>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212130000 +0100" stop="20151212160000 +0100">
+    <length units="minutes">180</length>
+    <title>La matinale week-end</title>
+    <category>Magazine</category>
+    <desc>L'essentiel de l'actualité avec des reportages, des analyses politiques, les résultats sportifs et la météo. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Claude Askolovitch,</name>
+      <name function="presenter">Frédéric Plisson,</name>
+      <name function="presenter">Florent Peiffer,</name>
+      <name function="presenter">Eléonore Boccara,</name>
+      <name function="presenter">Alice Rougerie</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212160000 +0100" stop="20151212161500 +0100">
+    <length units="minutes">15</length>
+    <title>La Newsroom week-end</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
+      <name function="presenter">Clément Méric (en alternance)</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212161500 +0100" stop="20151212170000 +0100">
+    <length units="minutes">45</length>
+    <title>CQFD</title>
+    <category>Magazine</category>
+    <desc>Florent Peiffer et ses quatre intervenants proposent de décrypter l'actualité politique : réseaux sociaux, sondages et communication sont... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Florent Peiffer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212170000 +0100" stop="20151212190000 +0100">
+    <length units="minutes">120</length>
+    <title>La Newsroom week-end</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
+      <name function="presenter">Clément Méric (en alternance)</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212190000 +0100" stop="20151212200000 +0100">
+    <length units="minutes">60</length>
+    <title>13h Foot</title>
+    <category>Magazine</category>
+    <desc>Le rendez-vous foot de la mi-journée. A travers des analyses et des reportages, Pascal Praud et Julien Pasquet présentent les enjeux des... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Pascal Praud,</name>
+      <name function="presenter">Julien Pasquet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212200000 +0100" stop="20151213000000 +0100">
+    <length units="minutes">240</length>
+    <title>La Newsroom week-end</title>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
+      <name function="presenter">Clément Méric (en alternance)</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213000000 +0100" stop="20151213020000 +0100">
+    <length units="minutes">120</length>
+    <title>Intégrale week-end</title>
+    <category>Magazine</category>
+    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Antoine Genton,</name>
+      <name function="presenter">Aurélie Casse</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213020000 +0100" stop="20151213040000 +0100">
+    <length units="minutes">120</length>
+    <title>Intégrale week-end</title>
+    <category>Magazine</category>
+    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Antoine Genton,</name>
+      <name function="presenter">Aurélie Casse</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213040000 +0100" stop="20151213060000 +0100">
+    <length units="minutes">120</length>
     <title>Intégrale week-end</title>
     <category>Magazine</category>
     <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).(n)</desc>

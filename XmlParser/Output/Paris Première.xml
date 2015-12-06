@@ -1,163 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Paris Première">
-    <display-name>test</display-name>
+    <display-name>MTV</display-name>
   </channel>
-  <programme channel="test" start="20151205004000 +0100" stop="20151205022000 +0100">
-    <length units="minutes">100</length>
-    <title>Zemmour et Naulleau</title>
-    <category>Talk show</category>
-    <desc>Des invités politiques, des intellectuels, des journalistes répondent aux questions de Valérie Brochard et argumentent face aux interrogations de... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Eric Zemmour,</name>
-      <name function="presenter">Eric Naulleau,</name>
-      <name function="presenter">Valérie Brochard</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205022000 +0100" stop="20151205080000 +0100">
-    <length units="minutes">340</length>
-    <title>Programmes de la nuit</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205080000 +0100" stop="20151205100000 +0100">
-    <length units="minutes">120</length>
-    <title>Paris Première boutique</title>
-    <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Pierre Dhostel,</name>
-      <name function="presenter">Valérie Pascale</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205100000 +0100" stop="20151205102000 +0100">
-    <length units="minutes">20</length>
-    <title>Hôtels du monde</title>
-    <category>Magazine</category>
-    <desc>Gros plan sur les palaces et hôtels de charme à travers le monde. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205102000 +0100" stop="20151205110000 +0100">
-    <length units="minutes">40</length>
-    <title>Très très bon</title>
-    <category>Magazine</category>
-    <desc>Escorté de ses chroniqueuses expertes, François-Régis Gaudry propose une balade parisienne déclinée en quatre haltes gourmandes. Au menu : une... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">François-Régis Gaudry</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205110000 +0100" stop="20151205113000 +0100">
-    <length units="minutes">30</length>
-    <title>Très très bon</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">François-Régis Gaudry</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205113000 +0100" stop="20151205123000 +0100">
-    <length units="minutes">60</length>
-    <title>Cauchemar en cuisine</title>
-    <category>Documentaire</category>
-    <desc>Michon's Le chef Gordon Ramsay investit un fumoir à viande, à College Park, dans l'Etat de Géorgie, qui le fait fulminer. Ouvert en 2002 sous l'impulsion... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205123000 +0100" stop="20151205132500 +0100">
-    <length units="minutes">55</length>
-    <title>Cauchemar en cuisine</title>
-    <category>Documentaire</category>
-    <desc>Greek at the Harbour Le chef Gordon Ramsay part à la rescousse d'un établissement sur le port de Ventura, en Californie, un front de mer qui attire autant les... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205132500 +0100" stop="20151205141500 +0100">
-    <length units="minutes">50</length>
-    <title>Cauchemar en cuisine</title>
-    <category>Documentaire</category>
-    <desc>El Greco Le chef Gordon Ramsay se rend à Austin, au Texas, pour sauver le «El Greco», un restaurant grec traditionnel ouvert en 2007 par Jake et sa mère,... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205141500 +0100" stop="20151205150500 +0100">
-    <length units="minutes">50</length>
-    <title>Cauchemar en cuisine</title>
-    <category>Documentaire</category>
-    <desc>Spin a Yarn Gordon Ramsay se rend à Fremont, en Californie, pour aider les propriétaires du «Spin a Yarn», un restaurant géré par un immigré grec, Saki... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205150500 +0100" stop="20151205160000 +0100">
-    <length units="minutes">55</length>
-    <title>Cauchemar en cuisine</title>
-    <category>Documentaire</category>
-    <desc>Charlie's Gordon Ramsay met le cap au sud de la Californie pour aider le «Charlie's», un bistro italien racheté en 2010 par la famille Leiva. Pat et Val... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205160000 +0100" stop="20151205165000 +0100">
-    <length units="minutes">50</length>
-    <title>Cauchemar en cuisine</title>
-    <category>Documentaire</category>
-    <desc>Blackberry's A Plainfield, dans le New Jersey, Shelly dirige le «Blackberry's», un restaurant de cuisine afro-américaine. Cette femme à la poigne de fer... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205165000 +0100" stop="20151205175000 +0100">
-    <length units="minutes">60</length>
-    <title>Cauchemar en cuisine</title>
-    <category>Documentaire</category>
-    <desc>Oceana Idéalement situé sur Bourbon Street, en Louisiane, L'«Oceana» n'en est pas moins un champ de bataille. Moe et Rami, les deux frères qui dirigent... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205175000 +0100" stop="20151205190000 +0100">
-    <length units="minutes">70</length>
-    <title>Ça balance à Paris</title>
-    <category>Magazine</category>
-    <desc>«Ça balance à Paris» fait sa révolution culturelle. Eric Naulleau et ses chroniqueurs, parmi lesquels la blogueuse Titiou Lecoq et le journaliste... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">David Abiker,</name>
-      <name function="presenter">Eric Naulleau,</name>
-      <name function="presenter">Titiou Lecoq</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205190000 +0100" stop="20151205204500 +0100">
-    <length units="minutes">105</length>
-    <title>Les caméras cachées de François l'embrouille</title>
-    <category>Divertissement</category>
-    <desc>Piéger des passants qui n'ont rien demandé et mettre à l'épreuve leurs nerfs ; se faire passer pour un dentiste, un vendeur de voitures, un... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205204500 +0100" stop="20151205222500 +0100">
-    <length units="minutes">100</length>
-    <title>Mes parents sont des enfants comme les autres</title>
-    <category>Théâtre</category>
-    <desc>Arnaud Baudrillard juge ses parents trop égocentriques, trop cools, trop bobos. Alors, il s'évade chez son ami Serge Sitbon pour y trouver une... (Lire la suite).</desc>
-    <credits>
-      <name function="actor">José Paul</name>
-      <name function="actor">Gladys Cohen</name>
-      <name function="actor">Guilhem Pellegrin</name>
-      <name function="actor">Marie Montoya</name>
-      <name function="actor">Rudy Milstein</name>
-      <name function="actor">Loïc Renard</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205222500 +0100" stop="20151206002000 +0100">
-    <length units="minutes">115</length>
-    <title>Le bouffon du président</title>
-    <category>Théâtre</category>
-    <desc>L'humoriste Jerry Guillos est engagé pour une soirée privée par Roseline Favel, organisatrice d'événements. Le jour du spectacle, il apprend avec... (Lire la suite).</desc>
-    <credits>
-      <name function="actor">Fabienne Chaudat</name>
-      <name function="actor">Frédéric Bodson</name>
-      <name function="actor">Franck de La Personne</name>
-      <name function="actor">Cécile de Ménibus</name>
-      <name function="actor">Michel Guidoni</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206002000 +0100" stop="20151206021000 +0100">
+  <programme channel="MTV" start="20151206062000 +0100" stop="20151206081000 +0100">
     <length units="minutes">110</length>
     <title>Steve McQueen : la grande évasion</title>
     <category>Documentaire</category>
@@ -167,14 +13,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206021000 +0100" stop="20151206072000 +0100">
+  <programme channel="MTV" start="20151206081000 +0100" stop="20151206132000 +0100">
     <length units="minutes">310</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206072000 +0100" stop="20151206092000 +0100">
+  <programme channel="MTV" start="20151206132000 +0100" stop="20151206152000 +0100">
     <length units="minutes">120</length>
     <title>Paris Première boutique</title>
     <category>Magazine</category>
@@ -185,7 +31,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206092000 +0100" stop="20151206102500 +0100">
+  <programme channel="MTV" start="20151206152000 +0100" stop="20151206162500 +0100">
     <length units="minutes">65</length>
     <title>Ça balance à Paris</title>
     <category>Magazine</category>
@@ -197,21 +43,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206102500 +0100" stop="20151206105500 +0100">
+  <programme channel="MTV" start="20151206162500 +0100" stop="20151206165500 +0100">
     <length units="minutes">30</length>
     <title>Gordon Ramsay : recettes en famille</title>
     <category>Documentaire</category>
     <desc>Petits plats entre amis Gordon Ramsay présente des plats faciles à partager entre amis : polenta à la plancha, dorade à la croûte de sel, poulet rôti farci et gâteau au... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206105500 +0100" stop="20151206112500 +0100">
+  <programme channel="MTV" start="20151206165500 +0100" stop="20151206172500 +0100">
     <length units="minutes">30</length>
     <title>Gordon Ramsay : recettes en famille</title>
     <category>Documentaire</category>
     <desc>Délices d'Asie Gordon Ramsay prépare des recettes d'inspiration asiatique ; initié par des chefs locaux, il livre ses secrets pour donner une touche d'exotisme... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206112500 +0100" stop="20151206120000 +0100">
+  <programme channel="MTV" start="20151206172500 +0100" stop="20151206180000 +0100">
     <length units="minutes">35</length>
     <title>Très très bon</title>
     <category>Magazine</category>
@@ -221,7 +67,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206120000 +0100" stop="20151206123000 +0100">
+  <programme channel="MTV" start="20151206180000 +0100" stop="20151206183000 +0100">
     <length units="minutes">30</length>
     <title>Très très bon</title>
     <category>Magazine</category>
@@ -231,7 +77,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206123000 +0100" stop="20151206131000 +0100">
+  <programme channel="MTV" start="20151206183000 +0100" stop="20151206191000 +0100">
     <length units="minutes">40</length>
     <title>Très très bon</title>
     <category>Magazine</category>
@@ -241,21 +87,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206131000 +0100" stop="20151206143000 +0100">
+  <programme channel="MTV" start="20151206191000 +0100" stop="20151206203000 +0100">
     <length units="minutes">80</length>
     <title>En mode L.A.</title>
     <category>Documentaire</category>
     <desc>Comment Hollywood, capitale du cinéma et du «storytelling», est en passe de devenir la nouvelle capitale mondiale de la mode à la place de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206143000 +0100" stop="20151206163500 +0100">
+  <programme channel="MTV" start="20151206203000 +0100" stop="20151206223500 +0100">
     <length units="minutes">125</length>
     <title>Sardou live 2013 : les grands moments à l'Olympia</title>
     <category>Concert</category>
     <desc>Capté à l'Olympia en juin 2013 pour la deuxième partie de sa tournée «Les Grands Moments », ce concert regroupe les plus grands titres du... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206163500 +0100" stop="20151206180500 +0100">
+  <programme channel="MTV" start="20151206223500 +0100" stop="20151207000500 +0100">
     <length units="minutes">90</length>
     <title>Numéro un</title>
     <category>Variétés</category>
@@ -266,28 +112,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206180500 +0100" stop="20151206185500 +0100">
+  <programme channel="MTV" start="20151207000500 +0100" stop="20151207005500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemar en cuisine</title>
     <category>Documentaire</category>
     <desc>Michon's Le chef Gordon Ramsay investit un fumoir à viande, à College Park, dans l'Etat de Géorgie, qui le fait fulminer. Ouvert en 2002 sous l'impulsion... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206185500 +0100" stop="20151206194500 +0100">
+  <programme channel="MTV" start="20151207005500 +0100" stop="20151207014500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemar en cuisine</title>
     <category>Documentaire</category>
     <desc>Burger Kitchen (1/2) Gordon Ramsay se rend à Los Angeles, dans le quartier tendance de la troisième rue, où Alan et Gen Saffron ont ouvert le «Burger Kitchen». Le... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206194500 +0100" stop="20151206204500 +0100">
+  <programme channel="MTV" start="20151207014500 +0100" stop="20151207024500 +0100">
     <length units="minutes">60</length>
     <title>Cauchemar en cuisine</title>
     <category>Documentaire</category>
     <desc>Burger Kitchen (2/2) Gordon Ramsay se rend à Los Angeles pour sauver le «Burger Kitchen» ; ce restaurant n'est ouvert que depuis seize mois, mais est déjà au bord de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206204500 +0100" stop="20151206213500 +0100">
+  <programme channel="MTV" start="20151207024500 +0100" stop="20151207033500 +0100">
     <length units="minutes">50</length>
     <title>Vikings</title>
     <category>Série</category>
@@ -306,7 +152,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206213500 +0100" stop="20151206223000 +0100">
+  <programme channel="MTV" start="20151207033500 +0100" stop="20151207043000 +0100">
     <length units="minutes">55</length>
     <title>Vikings</title>
     <category>Série</category>
@@ -325,7 +171,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206223000 +0100" stop="20151206232500 +0100">
+  <programme channel="MTV" start="20151207043000 +0100" stop="20151207052500 +0100">
     <length units="minutes">55</length>
     <title>Spartacus : les dieux de l'arène</title>
     <category>Série</category>
@@ -344,7 +190,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206232500 +0100" stop="20151207003500 +0100">
+  <programme channel="MTV" start="20151207052500 +0100" stop="20151207063500 +0100">
     <length units="minutes">70</length>
     <title>Spartacus : les dieux de l'arène</title>
     <category>Série</category>
@@ -363,7 +209,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207003500 +0100" stop="20151207014000 +0100">
+  <programme channel="MTV" start="20151207063500 +0100" stop="20151207074000 +0100">
     <length units="minutes">65</length>
     <title>Spartacus : les dieux de l'arène</title>
     <category>Série</category>
@@ -382,14 +228,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207014000 +0100" stop="20151207081500 +0100">
+  <programme channel="MTV" start="20151207074000 +0100" stop="20151207141500 +0100">
     <length units="minutes">395</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207081500 +0100" stop="20151207102500 +0100">
+  <programme channel="MTV" start="20151207141500 +0100" stop="20151207162500 +0100">
     <length units="minutes">130</length>
     <title>Paris Première boutique</title>
     <category>Magazine</category>
@@ -400,7 +246,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207102500 +0100" stop="20151207120000 +0100">
+  <programme channel="MTV" start="20151207162500 +0100" stop="20151207180000 +0100">
     <length units="minutes">95</length>
     <title>Caméra café</title>
     <category>Série</category>
@@ -418,7 +264,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207120000 +0100" stop="20151207125000 +0100">
+  <programme channel="MTV" start="20151207180000 +0100" stop="20151207185000 +0100">
     <length units="minutes">50</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -437,7 +283,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207125000 +0100" stop="20151207135000 +0100">
+  <programme channel="MTV" start="20151207185000 +0100" stop="20151207195000 +0100">
     <length units="minutes">60</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -456,7 +302,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207135000 +0100" stop="20151207145000 +0100">
+  <programme channel="MTV" start="20151207195000 +0100" stop="20151207205000 +0100">
     <length units="minutes">60</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -475,7 +321,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207145000 +0100" stop="20151207155500 +0100">
+  <programme channel="MTV" start="20151207205000 +0100" stop="20151207215500 +0100">
     <length units="minutes">65</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -494,7 +340,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207155500 +0100" stop="20151207165000 +0100">
+  <programme channel="MTV" start="20151207215500 +0100" stop="20151207225000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -511,7 +357,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207165000 +0100" stop="20151207174500 +0100">
+  <programme channel="MTV" start="20151207225000 +0100" stop="20151207234500 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -529,7 +375,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207174500 +0100" stop="20151207184000 +0100">
+  <programme channel="MTV" start="20151207234500 +0100" stop="20151208004000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -543,7 +389,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207184000 +0100" stop="20151207194000 +0100">
+  <programme channel="MTV" start="20151208004000 +0100" stop="20151208014000 +0100">
     <length units="minutes">60</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -558,7 +404,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207194000 +0100" stop="20151207204000 +0100">
+  <programme channel="MTV" start="20151208014000 +0100" stop="20151208024000 +0100">
     <length units="minutes">60</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -577,7 +423,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207204000 +0100" stop="20151207204500 +0100">
+  <programme channel="MTV" start="20151208024000 +0100" stop="20151208024500 +0100">
     <length units="minutes">5</length>
     <title>L'instant glam</title>
     <category>Magazine</category>
@@ -587,21 +433,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207204500 +0100" stop="20151207232500 +0100">
+  <programme channel="MTV" start="20151208024500 +0100" stop="20151208052500 +0100">
     <length units="minutes">160</length>
     <title>La revue de presse</title>
     <category>Spectacle</category>
     <desc>L'actualité revue et corrigée par les ténors de l'humour politique en direct d'un théâtre, à Paris ou en province. Tous les quinze jours, Jérôme... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207232500 +0100" stop="20151208015000 +0100">
+  <programme channel="MTV" start="20151208052500 +0100" stop="20151208075000 +0100">
     <length units="minutes">145</length>
     <title>Festival international du rire de Liège 2015</title>
     <category>Spectacle</category>
     <desc>La cinquième édition du Festival international du rire de Liège réunissait, du 22 au 25 octobre 2015, une quarantaine d'artistes francophones,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208015000 +0100" stop="20151208031000 +0100">
+  <programme channel="MTV" start="20151208075000 +0100" stop="20151208091000 +0100">
     <length units="minutes">80</length>
     <title>Polonium</title>
     <category>Talk show</category>
@@ -611,14 +457,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208031000 +0100" stop="20151208080500 +0100">
+  <programme channel="MTV" start="20151208091000 +0100" stop="20151208140500 +0100">
     <length units="minutes">295</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208080500 +0100" stop="20151208102000 +0100">
+  <programme channel="MTV" start="20151208140500 +0100" stop="20151208162000 +0100">
     <length units="minutes">135</length>
     <title>Paris Première boutique</title>
     <category>Magazine</category>
@@ -629,7 +475,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208102000 +0100" stop="20151208120000 +0100">
+  <programme channel="MTV" start="20151208162000 +0100" stop="20151208180000 +0100">
     <length units="minutes">100</length>
     <title>Caméra café</title>
     <category>Série</category>
@@ -647,7 +493,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208120000 +0100" stop="20151208125000 +0100">
+  <programme channel="MTV" start="20151208180000 +0100" stop="20151208185000 +0100">
     <length units="minutes">50</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -666,7 +512,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208125000 +0100" stop="20151208135000 +0100">
+  <programme channel="MTV" start="20151208185000 +0100" stop="20151208195000 +0100">
     <length units="minutes">60</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -685,7 +531,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208135000 +0100" stop="20151208145000 +0100">
+  <programme channel="MTV" start="20151208195000 +0100" stop="20151208205000 +0100">
     <length units="minutes">60</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -704,7 +550,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208145000 +0100" stop="20151208155500 +0100">
+  <programme channel="MTV" start="20151208205000 +0100" stop="20151208215500 +0100">
     <length units="minutes">65</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -723,7 +569,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208155500 +0100" stop="20151208165000 +0100">
+  <programme channel="MTV" start="20151208215500 +0100" stop="20151208225000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -738,7 +584,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208165000 +0100" stop="20151208174500 +0100">
+  <programme channel="MTV" start="20151208225000 +0100" stop="20151208234500 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -757,7 +603,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208174500 +0100" stop="20151208184000 +0100">
+  <programme channel="MTV" start="20151208234500 +0100" stop="20151209004000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -773,7 +619,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208184000 +0100" stop="20151208194000 +0100">
+  <programme channel="MTV" start="20151209004000 +0100" stop="20151209014000 +0100">
     <length units="minutes">60</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -792,7 +638,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208194000 +0100" stop="20151208204000 +0100">
+  <programme channel="MTV" start="20151209014000 +0100" stop="20151209024000 +0100">
     <length units="minutes">60</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -809,7 +655,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208204000 +0100" stop="20151208204500 +0100">
+  <programme channel="MTV" start="20151209024000 +0100" stop="20151209024500 +0100">
     <length units="minutes">5</length>
     <title>L'instant glam</title>
     <category>Magazine</category>
@@ -819,7 +665,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208204500 +0100" stop="20151208234500 +0100">
+  <programme channel="MTV" start="20151209024500 +0100" stop="20151209054500 +0100">
     <length units="minutes">180</length>
     <title>Paris brûle-t-il ? (?)</title>
     <category>Film</category>
@@ -837,7 +683,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208234500 +0100" stop="20151209020500 +0100">
+  <programme channel="MTV" start="20151209054500 +0100" stop="20151209080500 +0100">
     <length units="minutes">140</length>
     <title>Borsalino (?)</title>
     <category>Film</category>
@@ -855,7 +701,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209020500 +0100" stop="20151209030500 +0100">
+  <programme channel="MTV" start="20151209080500 +0100" stop="20151209090500 +0100">
     <length units="minutes">60</length>
     <title>Ça balance à Paris</title>
     <category>Magazine</category>
@@ -867,14 +713,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209030500 +0100" stop="20151209081500 +0100">
+  <programme channel="MTV" start="20151209090500 +0100" stop="20151209141500 +0100">
     <length units="minutes">310</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209081500 +0100" stop="20151209102500 +0100">
+  <programme channel="MTV" start="20151209141500 +0100" stop="20151209162500 +0100">
     <length units="minutes">130</length>
     <title>Paris Première boutique</title>
     <category>Magazine</category>
@@ -885,7 +731,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209102500 +0100" stop="20151209120000 +0100">
+  <programme channel="MTV" start="20151209162500 +0100" stop="20151209180000 +0100">
     <length units="minutes">95</length>
     <title>Caméra café</title>
     <category>Série</category>
@@ -903,7 +749,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209120000 +0100" stop="20151209125000 +0100">
+  <programme channel="MTV" start="20151209180000 +0100" stop="20151209185000 +0100">
     <length units="minutes">50</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -922,7 +768,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209125000 +0100" stop="20151209135000 +0100">
+  <programme channel="MTV" start="20151209185000 +0100" stop="20151209195000 +0100">
     <length units="minutes">60</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -941,7 +787,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209135000 +0100" stop="20151209145000 +0100">
+  <programme channel="MTV" start="20151209195000 +0100" stop="20151209205000 +0100">
     <length units="minutes">60</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -960,7 +806,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209145000 +0100" stop="20151209155500 +0100">
+  <programme channel="MTV" start="20151209205000 +0100" stop="20151209215500 +0100">
     <length units="minutes">65</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -979,7 +825,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209155500 +0100" stop="20151209165000 +0100">
+  <programme channel="MTV" start="20151209215500 +0100" stop="20151209225000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -993,7 +839,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209165000 +0100" stop="20151209174500 +0100">
+  <programme channel="MTV" start="20151209225000 +0100" stop="20151209234500 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -1012,7 +858,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209174500 +0100" stop="20151209184000 +0100">
+  <programme channel="MTV" start="20151209234500 +0100" stop="20151210004000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -1028,7 +874,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209184000 +0100" stop="20151209194000 +0100">
+  <programme channel="MTV" start="20151210004000 +0100" stop="20151210014000 +0100">
     <length units="minutes">60</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -1046,7 +892,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209194000 +0100" stop="20151209204000 +0100">
+  <programme channel="MTV" start="20151210014000 +0100" stop="20151210024000 +0100">
     <length units="minutes">60</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -1061,7 +907,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209204000 +0100" stop="20151209204500 +0100">
+  <programme channel="MTV" start="20151210024000 +0100" stop="20151210024500 +0100">
     <length units="minutes">5</length>
     <title>L'instant glam</title>
     <category>Magazine</category>
@@ -1071,7 +917,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209204500 +0100" stop="20151209223000 +0100">
+  <programme channel="MTV" start="20151210024500 +0100" stop="20151210043000 +0100">
     <length units="minutes">105</length>
     <title>Zemmour et Naulleau</title>
     <category>Talk show</category>
@@ -1083,7 +929,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209223000 +0100" stop="20151209233500 +0100">
+  <programme channel="MTV" start="20151210043000 +0100" stop="20151210053500 +0100">
     <length units="minutes">65</length>
     <title>Coluche, la France a besoin de toi !</title>
     <category>Documentaire</category>
@@ -1093,7 +939,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209233500 +0100" stop="20151210003000 +0100">
+  <programme channel="MTV" start="20151210053500 +0100" stop="20151210063000 +0100">
     <length units="minutes">55</length>
     <title>A bout portant</title>
     <category>Documentaire</category>
@@ -1103,21 +949,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210003000 +0100" stop="20151210013500 +0100">
+  <programme channel="MTV" start="20151210063000 +0100" stop="20151210073500 +0100">
     <length units="minutes">65</length>
     <title>Michel Galabru, comédien inclassable</title>
     <category>Documentaire</category>
     <desc>Michel Galabru a collé son nom au générique de plus de 250 films et téléfilms. Resté célèbre pour son rôle dans la saga du «Gendarme de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210013500 +0100" stop="20151210082000 +0100">
+  <programme channel="MTV" start="20151210073500 +0100" stop="20151210142000 +0100">
     <length units="minutes">405</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210082000 +0100" stop="20151210102500 +0100">
+  <programme channel="MTV" start="20151210142000 +0100" stop="20151210162500 +0100">
     <length units="minutes">125</length>
     <title>Paris Première boutique</title>
     <category>Magazine</category>
@@ -1128,7 +974,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210102500 +0100" stop="20151210120000 +0100">
+  <programme channel="MTV" start="20151210162500 +0100" stop="20151210180000 +0100">
     <length units="minutes">95</length>
     <title>Caméra café</title>
     <category>Série</category>
@@ -1146,7 +992,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210120000 +0100" stop="20151210125000 +0100">
+  <programme channel="MTV" start="20151210180000 +0100" stop="20151210185000 +0100">
     <length units="minutes">50</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -1165,7 +1011,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210125000 +0100" stop="20151210135000 +0100">
+  <programme channel="MTV" start="20151210185000 +0100" stop="20151210195000 +0100">
     <length units="minutes">60</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -1184,7 +1030,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210135000 +0100" stop="20151210145000 +0100">
+  <programme channel="MTV" start="20151210195000 +0100" stop="20151210205000 +0100">
     <length units="minutes">60</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -1203,7 +1049,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210145000 +0100" stop="20151210155500 +0100">
+  <programme channel="MTV" start="20151210205000 +0100" stop="20151210215500 +0100">
     <length units="minutes">65</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
@@ -1222,7 +1068,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210155500 +0100" stop="20151210165000 +0100">
+  <programme channel="MTV" start="20151210215500 +0100" stop="20151210225000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -1238,7 +1084,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210165000 +0100" stop="20151210174500 +0100">
+  <programme channel="MTV" start="20151210225000 +0100" stop="20151210234500 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -1255,7 +1101,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210174500 +0100" stop="20151210184000 +0100">
+  <programme channel="MTV" start="20151210234500 +0100" stop="20151211004000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -1272,7 +1118,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210184000 +0100" stop="20151210194000 +0100">
+  <programme channel="MTV" start="20151211004000 +0100" stop="20151211014000 +0100">
     <length units="minutes">60</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -1291,7 +1137,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210194000 +0100" stop="20151210204000 +0100">
+  <programme channel="MTV" start="20151211014000 +0100" stop="20151211024000 +0100">
     <length units="minutes">60</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
@@ -1307,7 +1153,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210204000 +0100" stop="20151210204500 +0100">
+  <programme channel="MTV" start="20151211024000 +0100" stop="20151211024500 +0100">
     <length units="minutes">5</length>
     <title>L'instant glam</title>
     <category>Magazine</category>
@@ -1317,7 +1163,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210204500 +0100" stop="20151210223500 +0100">
+  <programme channel="MTV" start="20151211024500 +0100" stop="20151211043500 +0100">
     <length units="minutes">110</length>
     <title>Beetlejuice (?)</title>
     <category>Film</category>
@@ -1335,7 +1181,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210223500 +0100" stop="20151210232500 +0100">
+  <programme channel="MTV" start="20151211043500 +0100" stop="20151211052500 +0100">
     <length units="minutes">50</length>
     <title>Vikings</title>
     <category>Série</category>
@@ -1354,7 +1200,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210232500 +0100" stop="20151211002000 +0100">
+  <programme channel="MTV" start="20151211052500 +0100" stop="20151211062000 +0100">
     <length units="minutes">55</length>
     <title>Vikings</title>
     <category>Série</category>
@@ -1373,11 +1219,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211002000 +0100" stop="20151211012000 +0100">
+  <programme channel="MTV" start="20151211062000 +0100" stop="20151211072000 +0100">
     <length units="minutes">60</length>
     <title>Vikings</title>
     <category>Série</category>
-    <desc>Ragnar et Horik veulent punir Jarl Borg, mais ils ne parviennent pas à se mettre d'accord sur les moyens à employer pour rendre la justice. Le... (Lire la suite).(n)</desc>
+    <desc>Ragnar et Horik veulent punir Jarl Borg, mais ils ne parviennent pas à se mettre d'accord sur les moyens à employer pour rendre la justice. Le... (Lire la suite).</desc>
     <credits>
       <name function="director">Ciaran Donnelly</name>
       <name function="actor">Donal Logue</name>
@@ -1392,29 +1238,29 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211012000 +0100" stop="20151211082000 +0100">
+  <programme channel="MTV" start="20151211072000 +0100" stop="20151211142000 +0100">
     <length units="minutes">420</length>
     <title>Programmes de la nuit</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211082000 +0100" stop="20151211102500 +0100">
+  <programme channel="MTV" start="20151211142000 +0100" stop="20151211162500 +0100">
     <length units="minutes">125</length>
     <title>Paris Première boutique</title>
     <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Pierre Dhostel,</name>
       <name function="presenter">Valérie Pascale</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211102500 +0100" stop="20151211120000 +0100">
+  <programme channel="MTV" start="20151211162500 +0100" stop="20151211180000 +0100">
     <length units="minutes">95</length>
     <title>Caméra café</title>
     <category>Série</category>
-    <desc>La machine à café est devenue le passage obligé de tout employé au sein de l'entreprise. Elle est le témoin privilégié de la vie d'une société,... (Lire la suite).(n)</desc>
+    <desc>La machine à café est devenue le passage obligé de tout employé au sein de l'entreprise. Elle est le témoin privilégié de la vie d'une société,... (Lire la suite).</desc>
     <credits>
       <name function="director">Jean-Pierre Devillers</name>
       <name function="actor">Jeanne Savary</name>
@@ -1428,11 +1274,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211120000 +0100" stop="20151211125000 +0100">
+  <programme channel="MTV" start="20151211180000 +0100" stop="20151211185000 +0100">
     <length units="minutes">50</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
-    <desc>Le 9 septembre 1999, John Koenig prend le commandement de la base lunaire Alpha. Une série de morts brutales parmi le personnel inquiète la... (Lire la suite).(n)</desc>
+    <desc>Le 9 septembre 1999, John Koenig prend le commandement de la base lunaire Alpha. Une série de morts brutales parmi le personnel inquiète la... (Lire la suite).</desc>
     <credits>
       <name function="director">Lee H Katzin</name>
       <name function="actor">Martin Landau</name>
@@ -1447,11 +1293,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211125000 +0100" stop="20151211135000 +0100">
+  <programme channel="MTV" start="20151211185000 +0100" stop="20151211195000 +0100">
     <length units="minutes">60</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
-    <desc>Une mystérieuse boule de lumière bleue se pose sur la base Alpha. En voulant s'en approcher, le commandant Koenig et le docteur Russell sont... (Lire la suite).(n)</desc>
+    <desc>Une mystérieuse boule de lumière bleue se pose sur la base Alpha. En voulant s'en approcher, le commandant Koenig et le docteur Russell sont... (Lire la suite).</desc>
     <credits>
       <name function="director">David Tomblin</name>
       <name function="actor">Martin Landau</name>
@@ -1466,11 +1312,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211135000 +0100" stop="20151211145000 +0100">
+  <programme channel="MTV" start="20151211195000 +0100" stop="20151211205000 +0100">
     <length units="minutes">60</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
-    <desc>Un sinistre danger survient du passé terrien des exilés involontaires. La base Alpha est menacée de destruction par Voyager I, un vaisseau... (Lire la suite).(n)</desc>
+    <desc>Un sinistre danger survient du passé terrien des exilés involontaires. La base Alpha est menacée de destruction par Voyager I, un vaisseau... (Lire la suite).</desc>
     <credits>
       <name function="director">Bob Kellett</name>
       <name function="actor">Martin Landau</name>
@@ -1485,11 +1331,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211145000 +0100" stop="20151211155500 +0100">
+  <programme channel="MTV" start="20151211205000 +0100" stop="20151211215500 +0100">
     <length units="minutes">65</length>
     <title>Cosmos 1999</title>
     <category>Série</category>
-    <desc>Un mystérieux vaisseau spatial défiant toutes les lois de la propulsion demande de l'aide à Alpha. A son bord, Koenig, Russel et Bergman font la... (Lire la suite).(n)</desc>
+    <desc>Un mystérieux vaisseau spatial défiant toutes les lois de la propulsion demande de l'aide à Alpha. A son bord, Koenig, Russel et Bergman font la... (Lire la suite).</desc>
     <credits>
       <name function="director">David Tomblin</name>
       <name function="actor">Martin Landau</name>
@@ -1504,11 +1350,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211155500 +0100" stop="20151211165000 +0100">
+  <programme channel="MTV" start="20151211215500 +0100" stop="20151211225000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
-    <desc>Alors qu'il participe au transfert d'un prisonnier malade, Artemus Gordon, qui n'est pourtant pas facilement impressionnable, fait un cauchemar... (Lire la suite).(n)</desc>
+    <desc>Alors qu'il participe au transfert d'un prisonnier malade, Artemus Gordon, qui n'est pourtant pas facilement impressionnable, fait un cauchemar... (Lire la suite).</desc>
     <credits>
       <name function="director">Irving J Moore</name>
       <name function="actor">Robert Conrad</name>
@@ -1523,11 +1369,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211165000 +0100" stop="20151211174500 +0100">
+  <programme channel="MTV" start="20151211225000 +0100" stop="20151211234500 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
-    <desc>Reprenant une technique que, depuis la conquête de l'Amérique du Sud par les Espagnols, beaucoup d'hommes sans scrupules ont utilisée, le docteur... (Lire la suite).(n)</desc>
+    <desc>Reprenant une technique que, depuis la conquête de l'Amérique du Sud par les Espagnols, beaucoup d'hommes sans scrupules ont utilisée, le docteur... (Lire la suite).</desc>
     <credits>
       <name function="director">Robert Sparr</name>
       <name function="actor">Robert Conrad</name>
@@ -1541,11 +1387,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211174500 +0100" stop="20151211184000 +0100">
+  <programme channel="MTV" start="20151211234500 +0100" stop="20151212004000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
-    <desc>En route pour la réserve d'Indiens d'Oklahoma, où il doit rencontrer le colonel Mayo, James West est mordu par un cobra et perd connaissance.... (Lire la suite).(n)</desc>
+    <desc>En route pour la réserve d'Indiens d'Oklahoma, où il doit rencontrer le colonel Mayo, James West est mordu par un cobra et perd connaissance.... (Lire la suite).</desc>
     <credits>
       <name function="director">Irving J Moore</name>
       <name function="actor">Michael York</name>
@@ -1559,11 +1405,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211184000 +0100" stop="20151211194000 +0100">
+  <programme channel="MTV" start="20151212004000 +0100" stop="20151212014000 +0100">
     <length units="minutes">60</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
-    <desc>James West est jugé par une cour composée d'assassins pour avoir tué, disent-ils, son ami et collaborateur, Artemus... (Lire la suite).(n)</desc>
+    <desc>James West est jugé par une cour composée d'assassins pour avoir tué, disent-ils, son ami et collaborateur, Artemus... (Lire la suite).</desc>
     <credits>
       <name function="director">Alan Crosland Jr</name>
       <name function="actor">Robert Conrad</name>
@@ -1575,11 +1421,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211194000 +0100" stop="20151211204000 +0100">
+  <programme channel="MTV" start="20151212014000 +0100" stop="20151212024000 +0100">
     <length units="minutes">60</length>
     <title>Les mystères de l'Ouest</title>
     <category>Série</category>
-    <desc>West et Gordon se disputent avec un colonel qui possède le pouvoir de contrôler la quatrième dimension... (Lire la suite).(n)</desc>
+    <desc>West et Gordon se disputent avec un colonel qui possède le pouvoir de contrôler la quatrième dimension... (Lire la suite).</desc>
     <credits>
       <name function="director">Jesse Hibbs</name>
       <name function="actor">Robert Conrad</name>
@@ -1591,30 +1437,179 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211204000 +0100" stop="20151211204500 +0100">
+  <programme channel="MTV" start="20151212024000 +0100" stop="20151212024500 +0100">
     <length units="minutes">5</length>
     <title>L'instant glam</title>
     <category>Magazine</category>
-    <desc>En une minute trente, tous les conseils d'Alexandra Golovanoff pour adopter le bon look. (Lire la suite).(n)</desc>
+    <desc>En une minute trente, tous les conseils d'Alexandra Golovanoff pour adopter le bon look. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Alexandra Golovanoff</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211204500 +0100" stop="20151211231500 +0100">
+  <programme channel="MTV" start="20151212024500 +0100" stop="20151212051500 +0100">
     <length units="minutes">150</length>
     <title>La revue de presse</title>
     <category>Spectacle</category>
-    <desc>L'actualité revue et corrigée par les ténors de l'humour politique en direct d'un théâtre, à Paris ou en province. Tous les quinze jours, Jérôme... (Lire la suite).(n)</desc>
+    <desc>L'actualité revue et corrigée par les ténors de l'humour politique en direct d'un théâtre, à Paris ou en province. Tous les quinze jours, Jérôme... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211231500 +0100" stop="20151212004000 +0100">
+  <programme channel="MTV" start="20151212051500 +0100" stop="20151212064000 +0100">
     <length units="minutes">85</length>
     <title>Polonium</title>
     <category>Talk show</category>
-    <desc>Dans un lieu de vie emblématique du Paris nocturne, Natacha Polony lance le débat avec les acteurs d'un sujet d'actualité qui a marqué la... (Lire la suite).(n)</desc>
+    <desc>Dans un lieu de vie emblématique du Paris nocturne, Natacha Polony lance le débat avec les acteurs d'un sujet d'actualité qui a marqué la... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Natacha Polony</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212064000 +0100" stop="20151212074000 +0100">
+    <length units="minutes">60</length>
+    <title>Paris vaut bien une fête</title>
+    <category>Documentaire</category>
+    <desc>Aussi fascinante qu'enivrante, la nuit de Paris est plus que jamais mystérieuse, remplie de secrets, noyée dans le champagne et les paradis... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212074000 +0100" stop="20151212084000 +0100">
+    <length units="minutes">60</length>
+    <title>La folle histoire des cabarets de Paris</title>
+    <category>Documentaire</category>
+    <desc>Du Crazy Horse au Lido au Moulin Rouge, ce sont plus de 1 500 000 spectateurs, qui se précipitent chaque année dans les salles des cabarets de... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212084000 +0100" stop="20151212100000 +0100">
+    <length units="minutes">80</length>
+    <title>Le cabaret New Burlesque</title>
+    <category>Spectacle</category>
+    <desc>Dirty Martini, Kitten, Mimi Le Meaux : les principales artistes vedettes du film «Tournée», de Mathieu Amalric, proposent un spectacle exubérant... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212100000 +0100" stop="20151212140000 +0100">
+    <length units="minutes">240</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212140000 +0100" stop="20151212160500 +0100">
+    <length units="minutes">125</length>
+    <title>Paris Première boutique</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Pierre Dhostel,</name>
+      <name function="presenter">Valérie Pascale</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212160500 +0100" stop="20151212170000 +0100">
+    <length units="minutes">55</length>
+    <title>En mode L.A.</title>
+    <category>Documentaire</category>
+    <desc>Comment Hollywood, capitale du cinéma et du «storytelling», est en passe de devenir la nouvelle capitale mondiale de la mode à la place de... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212170000 +0100" stop="20151212173500 +0100">
+    <length units="minutes">35</length>
+    <title>Gordon Ramsay : recettes en famille</title>
+    <category>Documentaire</category>
+    <desc>Les saveurs de mon enfance Gordon Ramsay remet au goût du jour quelques classiques de son enfance : galettes de pommes de terre, bâtonnets de poisson et sandwich aux... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212173500 +0100" stop="20151212182500 +0100">
+    <length units="minutes">50</length>
+    <title>Cauchemar en cuisine</title>
+    <category>Documentaire</category>
+    <desc>Leone's Gordon Ramsay se rend à Montclair, dans le New Jersey, pour tenter de sauver le «Leone's», un restaurant italien ouvert dix ans plus tôt par Rosa... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212182500 +0100" stop="20151212192000 +0100">
+    <length units="minutes">55</length>
+    <title>Cauchemar en cuisine</title>
+    <category>Documentaire</category>
+    <desc>Charlie's Gordon Ramsay met le cap au sud de la Californie pour aider le «Charlie's», un bistro italien racheté en 2010 par la famille Leiva. Pat et Val... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212192000 +0100" stop="20151212201000 +0100">
+    <length units="minutes">50</length>
+    <title>Cauchemar en cuisine</title>
+    <category>Documentaire</category>
+    <desc>Café Hon Le chef Gordon Ramsay part à la rescousse du «Café Hon», un restaurant qui s'est attiré les foudres de toute une ville, celle de Hampden, dans le... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212201000 +0100" stop="20151212210500 +0100">
+    <length units="minutes">55</length>
+    <title>Cauchemar en cuisine</title>
+    <category>Documentaire</category>
+    <desc>Chiarella's Gordon Ramsay se rend à Philadelphie pour empêcher la fermeture du «Chiarella», un restaurant italien ouvert en 2007 par Tommy et Dina... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212210500 +0100" stop="20151212215000 +0100">
+    <length units="minutes">45</length>
+    <title>Cauchemar en cuisine</title>
+    <category>Documentaire</category>
+    <desc>Le Zócalo Gordon Ramsay visite le «Zócalo», un restaurant mexicain de Philadelphie dirigé par deux anciens employés qui ont repris l'affaire : Greg Russell... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212215000 +0100" stop="20151212225000 +0100">
+    <length units="minutes">60</length>
+    <title>Cauchemar en cuisine</title>
+    <category>Documentaire</category>
+    <desc>Luigi's Le chef Gordon Ramsay se rend en Californie du Sud, à Anaheim, pour aider le Luigi's d'Italia, un restaurant italien en pleine déroute. Celui-ci... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212225000 +0100" stop="20151212235000 +0100">
+    <length units="minutes">60</length>
+    <title>Cauchemar en cuisine</title>
+    <category>Documentaire</category>
+    <desc>Mike and Nellie's Gordon Ramsay se rend à Oakhurst, dans le New Jersey, pour sauver le «Mike and Nellie's», restaurant familial ouvert en 1996 par Nellie Farber et... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212235000 +0100" stop="20151213010000 +0100">
+    <length units="minutes">70</length>
+    <title>Ça balance à Paris</title>
+    <category>Magazine</category>
+    <desc>«Ça balance à Paris» fait sa révolution culturelle. Eric Naulleau et ses chroniqueurs, parmi lesquels la blogueuse Titiou Lecoq et le journaliste... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">David Abiker,</name>
+      <name function="presenter">Eric Naulleau,</name>
+      <name function="presenter">Titiou Lecoq</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213010000 +0100" stop="20151213024000 +0100">
+    <length units="minutes">100</length>
+    <title>Les caméras cachées de François l'embrouille</title>
+    <category>Divertissement</category>
+    <desc>Piéger des passants qui n'ont rien demandé et mettre à l'épreuve leurs nerfs ; se faire passer pour un dentiste, un vendeur de voitures, un... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213024000 +0100" stop="20151213043000 +0100">
+    <length units="minutes">110</length>
+    <title>Des gens intelligents</title>
+    <category>Théâtre</category>
+    <desc>David, un garçon sensé et réfléchi, a décidé de se séparer de Chloé. Mais celle-ci, une fille habile et déterminée, ne l'entend pas vraiment de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="actor">Stéphane Hillel</name>
+      <name function="actor">Lysiane Meis</name>
+      <name function="actor">Gérard Loussine</name>
+      <name function="actor">Lisa Martino</name>
+      <name function="actor">Marc Fayet</name>
+      <name function="actor">Marie Piton</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213043000 +0100" stop="20151213062500 +0100">
+    <length units="minutes">115</length>
+    <title>Les Stars</title>
+    <category>Théâtre</category>
+    <desc>Lewis et Clark sont les deux plus célèbres humoristes d'Amérique. Partout, leur duo a triomphé. Mais plus leur succès grandissait, plus ils se... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="actor">Jacques Balutin</name>
+      <name function="actor">Benjamin Boyer</name>
+      <name function="actor">Daniel Prévost</name>
+      <name function="actor">Bérangère Gallot</name>
     </credits>
     <image />
   </programme>

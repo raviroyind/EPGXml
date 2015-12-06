@@ -1,140 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="D8">
-    <display-name>test</display-name>
+    <display-name>MTV</display-name>
   </channel>
-  <programme channel="test" start="20151205004000 +0100" stop="20151205070000 +0100">
-    <length units="minutes">380</length>
-    <title>Programmes de la nuit</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205070000 +0100" stop="20151205090000 +0100">
-    <length units="minutes">120</length>
-    <title>Télé-achat</title>
-    <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205090000 +0100" stop="20151205132500 +0100">
-    <length units="minutes">265</length>
-    <title>Le zap</title>
-    <category>Divertissement</category>
-    <desc>Une suite de séquences enregistrées sur les chaînes de la TNT et sur le câble pour ne rien manquer de ce qui se fait de mieux et parfois de pire... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205132500 +0100" stop="20151205134000 +0100">
-    <length units="minutes">15</length>
-    <title>D8 le JT</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Elé Asu</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205134000 +0100" stop="20151205151500 +0100">
-    <length units="minutes">95</length>
-    <title>La fin d'un rêve</title>
-    <category>Téléfilm</category>
-    <desc>Erik et son demi-frère ont décidé de partir à la chasse, comme ils ont l'habitude de le faire chaque week-end. Assis calmement sous un arbre,... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Graeme Clifford</name>
-      <name function="actor">Jennie Garth</name>
-      <name function="actor">Rob Estes</name>
-      <name function="actor">Polly Holliday</name>
-      <name function="actor">Michael Milhoan</name>
-      <name function="actor">Anne Sward</name>
-      <name function="actor">Mike Doyle</name>
-      <name function="actor">Maria Mejias</name>
-      <name function="actor">Steve Anderson</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205151500 +0100" stop="20151205170000 +0100">
-    <length units="minutes">105</length>
-    <title>L'enfant du miracle</title>
-    <category>Téléfilm</category>
-    <desc>Rachel Stockman souffre d'un déséquilibre psychologique. Grâce à un traitement draconien, à son travail et au soutien de son mari, elle parvient... (Lire la suite).(c)</desc>
-    <credits>
-      <name function="director">Michael Scott</name>
-      <name function="actor">CCH Pounder</name>
-      <name function="actor">Carrie Snodgress</name>
-      <name function="actor">James Marshall</name>
-      <name function="actor">Bruce Kirby</name>
-      <name function="actor">Marcia Cross</name>
-      <name function="actor">Leila Kenzle</name>
-      <name function="actor">Tom Nowicki</name>
-      <name function="actor">Larry Black</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205170000 +0100" stop="20151205185000 +0100">
-    <length units="minutes">110</length>
-    <title>Ultime pouvoir</title>
-    <category>Téléfilm</category>
-    <desc>Aizy Hayward est une brillante étudiante en physique nucléaire. Depuis peu, elle est tombée sous le charme de Bobby, un condisciple. Mais le... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Eric Laneuville</name>
-      <name function="actor">Michael Beach</name>
-      <name function="actor">Katherine Heigl</name>
-      <name function="actor">Kerr Smith</name>
-      <name function="actor">J August Richards</name>
-      <name function="actor">Dax Belanger</name>
-      <name function="actor">Jeff Roop</name>
-      <name function="actor">Michael Eklund</name>
-      <name function="actor">Allan Franz</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205185000 +0100" stop="20151205205500 +0100">
-    <length units="minutes">125</length>
-    <title>Direct Auto</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Grégory Galiffi</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205205500 +0100" stop="20151205225500 +0100">
-    <length units="minutes">120</length>
-    <title>Génération Canal</title>
-    <category>Divertissement</category>
-    <desc>En 30 années d'antenne, Canal+ a exploré différentes facettes de l'humour au travers de programmes devenus cultes pour certains. Les émissions de... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Chantal Lauby,</name>
-      <name function="presenter">Jean-Luc Lemoine</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205225500 +0100" stop="20151206004500 +0100">
-    <length units="minutes">110</length>
-    <title>Génération Canal</title>
-    <category>Divertissement</category>
-    <desc>Depuis trente ans, Canal+ a révélé de nombreuses personnalités comme Jamel Debbouze, Edouard Baer, Charlotte Le Bon, Louise Bourgoin ou encore... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Chantal Lauby,</name>
-      <name function="presenter">Jean-Luc Lemoine</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206004500 +0100" stop="20151206070000 +0100">
+  <programme channel="MTV" start="20151206064500 +0100" stop="20151206130000 +0100">
     <length units="minutes">375</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206070000 +0100" stop="20151206090000 +0100">
+  <programme channel="MTV" start="20151206130000 +0100" stop="20151206150000 +0100">
     <length units="minutes">120</length>
     <title>Le zap</title>
     <category>Divertissement</category>
     <desc>Une suite de séquences enregistrées sur les chaînes de la TNT et sur le câble pour ne rien manquer de ce qui se fait de mieux et parfois de pire... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206090000 +0100" stop="20151206100000 +0100">
+  <programme channel="MTV" start="20151206150000 +0100" stop="20151206160000 +0100">
     <length units="minutes">60</length>
     <title>A vos régions</title>
     <category>Magazine</category>
@@ -144,7 +27,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206100000 +0100" stop="20151206102500 +0100">
+  <programme channel="MTV" start="20151206160000 +0100" stop="20151206162500 +0100">
     <length units="minutes">25</length>
     <title>Les animaux de la 8</title>
     <category>Magazine</category>
@@ -155,14 +38,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206102500 +0100" stop="20151206105500 +0100">
+  <programme channel="MTV" start="20151206162500 +0100" stop="20151206165500 +0100">
     <length units="minutes">30</length>
     <title>Les animaux de la 8</title>
     <category>Magazine</category>
     <desc>A la découverte du Vercors animalier En Isère, au coeur du parc naturel régional du Vercors, Sandrine découvre deux espèces sauvées par des éleveurs passionnés : le cheval du Vercors... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206105500 +0100" stop="20151206113000 +0100">
+  <programme channel="MTV" start="20151206165500 +0100" stop="20151206173000 +0100">
     <length units="minutes">35</length>
     <title>Les animaux de la 8</title>
     <category>Magazine</category>
@@ -173,7 +56,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206113000 +0100" stop="20151206120500 +0100">
+  <programme channel="MTV" start="20151206173000 +0100" stop="20151206180500 +0100">
     <length units="minutes">35</length>
     <title>Les animaux de la 8</title>
     <category>Magazine</category>
@@ -185,7 +68,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206120500 +0100" stop="20151206124000 +0100">
+  <programme channel="MTV" start="20151206180500 +0100" stop="20151206184000 +0100">
     <length units="minutes">35</length>
     <title>Les animaux de la 8</title>
     <category>Magazine</category>
@@ -196,7 +79,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206124000 +0100" stop="20151206132500 +0100">
+  <programme channel="MTV" start="20151206184000 +0100" stop="20151206192500 +0100">
     <length units="minutes">45</length>
     <title>Les animaux de la 8</title>
     <category>Magazine</category>
@@ -207,7 +90,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206132500 +0100" stop="20151206133000 +0100">
+  <programme channel="MTV" start="20151206192500 +0100" stop="20151206193000 +0100">
     <length units="minutes">5</length>
     <title>D8 le JT</title>
     <category>Journal</category>
@@ -217,7 +100,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206133000 +0100" stop="20151206151500 +0100">
+  <programme channel="MTV" start="20151206193000 +0100" stop="20151206211500 +0100">
     <length units="minutes">105</length>
     <title>Sous le masque d'un ange</title>
     <category>Téléfilm</category>
@@ -235,7 +118,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206151500 +0100" stop="20151206170000 +0100">
+  <programme channel="MTV" start="20151206211500 +0100" stop="20151206230000 +0100">
     <length units="minutes">105</length>
     <title>Rêves en eaux troubles</title>
     <category>Téléfilm</category>
@@ -253,74 +136,74 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206170000 +0100" stop="20151206172500 +0100">
+  <programme channel="MTV" start="20151206230000 +0100" stop="20151206232500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206172500 +0100" stop="20151206175000 +0100">
+  <programme channel="MTV" start="20151206232500 +0100" stop="20151206235000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206175000 +0100" stop="20151206181500 +0100">
+  <programme channel="MTV" start="20151206235000 +0100" stop="20151207001500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206181500 +0100" stop="20151206184000 +0100">
+  <programme channel="MTV" start="20151207001500 +0100" stop="20151207004000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206184000 +0100" stop="20151206190500 +0100">
+  <programme channel="MTV" start="20151207004000 +0100" stop="20151207010500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206190500 +0100" stop="20151206193000 +0100">
+  <programme channel="MTV" start="20151207010500 +0100" stop="20151207013000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206193000 +0100" stop="20151206195500 +0100">
+  <programme channel="MTV" start="20151207013000 +0100" stop="20151207015500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206195500 +0100" stop="20151206202500 +0100">
+  <programme channel="MTV" start="20151207015500 +0100" stop="20151207022500 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206202500 +0100" stop="20151206205500 +0100">
+  <programme channel="MTV" start="20151207022500 +0100" stop="20151207025500 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206205500 +0100" stop="20151206224500 +0100">
+  <programme channel="MTV" start="20151207025500 +0100" stop="20151207044500 +0100">
     <length units="minutes">110</length>
     <title>Le trou normand (?)</title>
     <category>Film</category>
-    <desc>En mourant, Célestin Lemoine, propriétaire de l'auberge «Le Trou normand», lègue son établissement à Hippolyte, son neveu, un jeune homme un peu... (Lire la suite).(r)</desc>
+    <desc>En mourant, Célestin Lemoine, propriétaire de... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jean Boyer</name>
       <name function="actor">Brigitte Bardot</name>
@@ -334,7 +217,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206224500 +0100" stop="20151207002500 +0100">
+  <programme channel="MTV" start="20151207044500 +0100" stop="20151207062500 +0100">
     <length units="minutes">100</length>
     <title>Au coeur de l'enquête</title>
     <category>Magazine</category>
@@ -344,14 +227,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207002500 +0100" stop="20151207064500 +0100">
+  <programme channel="MTV" start="20151207062500 +0100" stop="20151207124500 +0100">
     <length units="minutes">380</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207064500 +0100" stop="20151207080000 +0100">
+  <programme channel="MTV" start="20151207124500 +0100" stop="20151207140000 +0100">
     <length units="minutes">75</length>
     <title>Gym direct</title>
     <category />
@@ -366,14 +249,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207080000 +0100" stop="20151207083500 +0100">
+  <programme channel="MTV" start="20151207140000 +0100" stop="20151207143500 +0100">
     <length units="minutes">35</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207083500 +0100" stop="20151207104500 +0100">
+  <programme channel="MTV" start="20151207143500 +0100" stop="20151207164500 +0100">
     <length units="minutes">130</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -404,7 +287,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207104500 +0100" stop="20151207120000 +0100">
+  <programme channel="MTV" start="20151207164500 +0100" stop="20151207180000 +0100">
     <length units="minutes">75</length>
     <title>Le grand 8</title>
     <category>Talk show</category>
@@ -418,7 +301,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207120000 +0100" stop="20151207121000 +0100">
+  <programme channel="MTV" start="20151207180000 +0100" stop="20151207181000 +0100">
     <length units="minutes">10</length>
     <title>D8 le JT</title>
     <category>Journal</category>
@@ -428,28 +311,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207121000 +0100" stop="20151207123500 +0100">
+  <programme channel="MTV" start="20151207181000 +0100" stop="20151207183500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207123500 +0100" stop="20151207130000 +0100">
+  <programme channel="MTV" start="20151207183500 +0100" stop="20151207190000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207130000 +0100" stop="20151207133000 +0100">
+  <programme channel="MTV" start="20151207190000 +0100" stop="20151207193000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207133000 +0100" stop="20151207151500 +0100">
+  <programme channel="MTV" start="20151207193000 +0100" stop="20151207211500 +0100">
     <length units="minutes">105</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -467,7 +350,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207151500 +0100" stop="20151207171500 +0100">
+  <programme channel="MTV" start="20151207211500 +0100" stop="20151207231500 +0100">
     <length units="minutes">120</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -485,14 +368,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207171500 +0100" stop="20151207175000 +0100">
+  <programme channel="MTV" start="20151207231500 +0100" stop="20151207235000 +0100">
     <length units="minutes">35</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207175000 +0100" stop="20151207185000 +0100">
+  <programme channel="MTV" start="20151207235000 +0100" stop="20151208005000 +0100">
     <length units="minutes">60</length>
     <title>Touche pas à mon sport !</title>
     <category>Magazine</category>
@@ -513,7 +396,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207185000 +0100" stop="20151207205500 +0100">
+  <programme channel="MTV" start="20151208005000 +0100" stop="20151208025500 +0100">
     <length units="minutes">125</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -544,11 +427,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207205500 +0100" stop="20151207225000 +0100">
+  <programme channel="MTV" start="20151208025500 +0100" stop="20151208045000 +0100">
     <length units="minutes">115</length>
     <title>Rambo III (?)</title>
     <category>Film</category>
-    <desc>John Rambo est de retour de sa dernière mission au Viêtnam. Discrètement retiré en Thaïlande, il vit tranquillement, en compagnie de moines... (Lire la suite).(r)</desc>
+    <desc>John Rambo est de retour de sa dernière... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Peter MacDonald</name>
       <name function="actor">Marc de Jonge</name>
@@ -562,7 +445,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207225000 +0100" stop="20151208003000 +0100">
+  <programme channel="MTV" start="20151208045000 +0100" stop="20151208063000 +0100">
     <length units="minutes">100</length>
     <title>Rambo II : la mission (?)</title>
     <category>Film</category>
@@ -580,14 +463,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208003000 +0100" stop="20151208064500 +0100">
+  <programme channel="MTV" start="20151208063000 +0100" stop="20151208124500 +0100">
     <length units="minutes">375</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208064500 +0100" stop="20151208080000 +0100">
+  <programme channel="MTV" start="20151208124500 +0100" stop="20151208140000 +0100">
     <length units="minutes">75</length>
     <title>Gym direct</title>
     <category />
@@ -602,14 +485,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208080000 +0100" stop="20151208083500 +0100">
+  <programme channel="MTV" start="20151208140000 +0100" stop="20151208143500 +0100">
     <length units="minutes">35</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208083500 +0100" stop="20151208104500 +0100">
+  <programme channel="MTV" start="20151208143500 +0100" stop="20151208164500 +0100">
     <length units="minutes">130</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -640,7 +523,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208104500 +0100" stop="20151208120000 +0100">
+  <programme channel="MTV" start="20151208164500 +0100" stop="20151208180000 +0100">
     <length units="minutes">75</length>
     <title>Le grand 8</title>
     <category>Talk show</category>
@@ -654,7 +537,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208120000 +0100" stop="20151208121000 +0100">
+  <programme channel="MTV" start="20151208180000 +0100" stop="20151208181000 +0100">
     <length units="minutes">10</length>
     <title>D8 le JT</title>
     <category>Journal</category>
@@ -664,28 +547,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208121000 +0100" stop="20151208123500 +0100">
+  <programme channel="MTV" start="20151208181000 +0100" stop="20151208183500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208123500 +0100" stop="20151208130000 +0100">
+  <programme channel="MTV" start="20151208183500 +0100" stop="20151208190000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208130000 +0100" stop="20151208133000 +0100">
+  <programme channel="MTV" start="20151208190000 +0100" stop="20151208193000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208133000 +0100" stop="20151208151500 +0100">
+  <programme channel="MTV" start="20151208193000 +0100" stop="20151208211500 +0100">
     <length units="minutes">105</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -703,7 +586,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208151500 +0100" stop="20151208171500 +0100">
+  <programme channel="MTV" start="20151208211500 +0100" stop="20151208231500 +0100">
     <length units="minutes">120</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -721,14 +604,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208171500 +0100" stop="20151208175000 +0100">
+  <programme channel="MTV" start="20151208231500 +0100" stop="20151208235000 +0100">
     <length units="minutes">35</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208175000 +0100" stop="20151208185000 +0100">
+  <programme channel="MTV" start="20151208235000 +0100" stop="20151209005000 +0100">
     <length units="minutes">60</length>
     <title>Touche pas à mon sport !</title>
     <category>Magazine</category>
@@ -749,7 +632,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208185000 +0100" stop="20151208205500 +0100">
+  <programme channel="MTV" start="20151209005000 +0100" stop="20151209025500 +0100">
     <length units="minutes">125</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -780,21 +663,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208205500 +0100" stop="20151208224500 +0100">
+  <programme channel="MTV" start="20151209025500 +0100" stop="20151209044500 +0100">
     <length units="minutes">110</length>
     <title>Au coeur du Puy du Fou, le meilleur parc au monde</title>
     <category>Documentaire</category>
     <desc>Avec plus de deux millions de visiteurs en 2015, Le Puy du Fou est le deuxième parc à thèmes le plus visité en France. Des spectacles variés,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208224500 +0100" stop="20151208234500 +0100">
+  <programme channel="MTV" start="20151209044500 +0100" stop="20151209054500 +0100">
     <length units="minutes">60</length>
     <title>Le Puy du Fou : la saga</title>
     <category>Documentaire</category>
     <desc>A l'origine, c'est un pari complètement fou : implanter en Vendée un spectacle historique relatant l'histoire de la région et celle de la France,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208234500 +0100" stop="20151209013000 +0100">
+  <programme channel="MTV" start="20151209054500 +0100" stop="20151209073000 +0100">
     <length units="minutes">105</length>
     <title>En quête d'actualité</title>
     <category>Magazine</category>
@@ -804,14 +687,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209013000 +0100" stop="20151209064500 +0100">
+  <programme channel="MTV" start="20151209073000 +0100" stop="20151209124500 +0100">
     <length units="minutes">315</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209064500 +0100" stop="20151209080000 +0100">
+  <programme channel="MTV" start="20151209124500 +0100" stop="20151209140000 +0100">
     <length units="minutes">75</length>
     <title>Gym direct</title>
     <category />
@@ -826,14 +709,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209080000 +0100" stop="20151209083500 +0100">
+  <programme channel="MTV" start="20151209140000 +0100" stop="20151209143500 +0100">
     <length units="minutes">35</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209083500 +0100" stop="20151209104500 +0100">
+  <programme channel="MTV" start="20151209143500 +0100" stop="20151209164500 +0100">
     <length units="minutes">130</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -864,7 +747,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209104500 +0100" stop="20151209120000 +0100">
+  <programme channel="MTV" start="20151209164500 +0100" stop="20151209180000 +0100">
     <length units="minutes">75</length>
     <title>Le grand 8</title>
     <category>Talk show</category>
@@ -878,7 +761,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209120000 +0100" stop="20151209121000 +0100">
+  <programme channel="MTV" start="20151209180000 +0100" stop="20151209181000 +0100">
     <length units="minutes">10</length>
     <title>D8 le JT</title>
     <category>Journal</category>
@@ -888,28 +771,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209121000 +0100" stop="20151209123500 +0100">
+  <programme channel="MTV" start="20151209181000 +0100" stop="20151209183500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209123500 +0100" stop="20151209130000 +0100">
+  <programme channel="MTV" start="20151209183500 +0100" stop="20151209190000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209130000 +0100" stop="20151209133000 +0100">
+  <programme channel="MTV" start="20151209190000 +0100" stop="20151209193000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209133000 +0100" stop="20151209151500 +0100">
+  <programme channel="MTV" start="20151209193000 +0100" stop="20151209211500 +0100">
     <length units="minutes">105</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -927,7 +810,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209151500 +0100" stop="20151209171500 +0100">
+  <programme channel="MTV" start="20151209211500 +0100" stop="20151209231500 +0100">
     <length units="minutes">120</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -945,14 +828,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209171500 +0100" stop="20151209175000 +0100">
+  <programme channel="MTV" start="20151209231500 +0100" stop="20151209235000 +0100">
     <length units="minutes">35</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209175000 +0100" stop="20151209185000 +0100">
+  <programme channel="MTV" start="20151209235000 +0100" stop="20151210005000 +0100">
     <length units="minutes">60</length>
     <title>Touche pas à mon sport !</title>
     <category>Magazine</category>
@@ -973,7 +856,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209185000 +0100" stop="20151209205500 +0100">
+  <programme channel="MTV" start="20151210005000 +0100" stop="20151210025500 +0100">
     <length units="minutes">125</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -1004,7 +887,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209205500 +0100" stop="20151209230500 +0100">
+  <programme channel="MTV" start="20151210025500 +0100" stop="20151210050500 +0100">
     <length units="minutes">130</length>
     <title>CQFD ! Ce qu'il fallait détourner !</title>
     <category>Divertissement</category>
@@ -1022,7 +905,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209230500 +0100" stop="20151210003000 +0100">
+  <programme channel="MTV" start="20151210050500 +0100" stop="20151210063000 +0100">
     <length units="minutes">85</length>
     <title>Génération Canal</title>
     <category>Divertissement</category>
@@ -1033,7 +916,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210003000 +0100" stop="20151210011000 +0100">
+  <programme channel="MTV" start="20151210063000 +0100" stop="20151210071000 +0100">
     <length units="minutes">40</length>
     <title>Langue de bois s'abstenir</title>
     <category>Magazine</category>
@@ -1043,21 +926,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210011000 +0100" stop="20151210031000 +0100">
+  <programme channel="MTV" start="20151210071000 +0100" stop="20151210091000 +0100">
     <length units="minutes">120</length>
     <title>Football (Valence (Esp) / Lyon (Fra))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210031000 +0100" stop="20151210064500 +0100">
+  <programme channel="MTV" start="20151210091000 +0100" stop="20151210124500 +0100">
     <length units="minutes">215</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210064500 +0100" stop="20151210080000 +0100">
+  <programme channel="MTV" start="20151210124500 +0100" stop="20151210140000 +0100">
     <length units="minutes">75</length>
     <title>Gym direct</title>
     <category />
@@ -1072,14 +955,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210080000 +0100" stop="20151210083500 +0100">
+  <programme channel="MTV" start="20151210140000 +0100" stop="20151210143500 +0100">
     <length units="minutes">35</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210083500 +0100" stop="20151210104500 +0100">
+  <programme channel="MTV" start="20151210143500 +0100" stop="20151210164500 +0100">
     <length units="minutes">130</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -1110,7 +993,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210104500 +0100" stop="20151210120000 +0100">
+  <programme channel="MTV" start="20151210164500 +0100" stop="20151210180000 +0100">
     <length units="minutes">75</length>
     <title>Le grand 8</title>
     <category>Talk show</category>
@@ -1124,7 +1007,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210120000 +0100" stop="20151210121000 +0100">
+  <programme channel="MTV" start="20151210180000 +0100" stop="20151210181000 +0100">
     <length units="minutes">10</length>
     <title>D8 le JT</title>
     <category>Journal</category>
@@ -1134,28 +1017,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210121000 +0100" stop="20151210123500 +0100">
+  <programme channel="MTV" start="20151210181000 +0100" stop="20151210183500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210123500 +0100" stop="20151210130000 +0100">
+  <programme channel="MTV" start="20151210183500 +0100" stop="20151210190000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210130000 +0100" stop="20151210133000 +0100">
+  <programme channel="MTV" start="20151210190000 +0100" stop="20151210193000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210133000 +0100" stop="20151210151500 +0100">
+  <programme channel="MTV" start="20151210193000 +0100" stop="20151210211500 +0100">
     <length units="minutes">105</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -1173,7 +1056,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210151500 +0100" stop="20151210171500 +0100">
+  <programme channel="MTV" start="20151210211500 +0100" stop="20151210231500 +0100">
     <length units="minutes">120</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -1191,14 +1074,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210171500 +0100" stop="20151210175000 +0100">
+  <programme channel="MTV" start="20151210231500 +0100" stop="20151210235000 +0100">
     <length units="minutes">35</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210175000 +0100" stop="20151210185000 +0100">
+  <programme channel="MTV" start="20151210235000 +0100" stop="20151211005000 +0100">
     <length units="minutes">60</length>
     <title>Touche pas à mon sport !</title>
     <category>Magazine</category>
@@ -1219,7 +1102,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210185000 +0100" stop="20151210205500 +0100">
+  <programme channel="MTV" start="20151211005000 +0100" stop="20151211025500 +0100">
     <length units="minutes">125</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -1250,11 +1133,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210205500 +0100" stop="20151210231500 +0100">
+  <programme channel="MTV" start="20151211025500 +0100" stop="20151211051500 +0100">
     <length units="minutes">140</length>
     <title>Family Man (?)</title>
     <category>Film</category>
-    <desc>Jack Campbell et Kate Reynolds sont très amoureux. Pourtant, un beau jour, Jack la quitte pour aller gagner ses galons de courtier. Treize ans... (Lire la suite).(r)</desc>
+    <desc>Jack Campbell et Kate Reynolds sont très... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Brett Ratner</name>
       <name function="actor">Nicolas Cage</name>
@@ -1268,7 +1151,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210231500 +0100" stop="20151211004500 +0100">
+  <programme channel="MTV" start="20151211051500 +0100" stop="20151211064500 +0100">
     <length units="minutes">90</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -1299,18 +1182,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211004500 +0100" stop="20151211064500 +0100">
+  <programme channel="MTV" start="20151211064500 +0100" stop="20151211124500 +0100">
     <length units="minutes">360</length>
     <title>Programmes de la nuit</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211064500 +0100" stop="20151211080000 +0100">
+  <programme channel="MTV" start="20151211124500 +0100" stop="20151211140000 +0100">
     <length units="minutes">75</length>
     <title>Gym direct</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Mohamed,</name>
       <name function="presenter">Emma,</name>
@@ -1321,18 +1204,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211080000 +0100" stop="20151211083500 +0100">
+  <programme channel="MTV" start="20151211140000 +0100" stop="20151211143500 +0100">
     <length units="minutes">35</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211083500 +0100" stop="20151211104500 +0100">
+  <programme channel="MTV" start="20151211143500 +0100" stop="20151211164500 +0100">
     <length units="minutes">130</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
-    <desc>Qu'il s'agisse du paysage audiovisuel français ou international, Cyril Hanouna et ses acolytes évoquent les émissions du moment, les nouveaux... (Lire la suite).(n)</desc>
+    <desc>Qu'il s'agisse du paysage audiovisuel français ou international, Cyril Hanouna et ses acolytes évoquent les émissions du moment, les nouveaux... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Gérard Louvin,</name>
       <name function="presenter">Elie Semoun,</name>
@@ -1359,11 +1242,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211104500 +0100" stop="20151211120000 +0100">
+  <programme channel="MTV" start="20151211164500 +0100" stop="20151211180000 +0100">
     <length units="minutes">75</length>
     <title>Le grand 8</title>
     <category>Talk show</category>
-    <desc>Cinq femmes reviennent sur l'actualité du moment, qu'il s'agisse de politique, de faits de société, de culture ou d'économie. Leurs propos sont... (Lire la suite).(n)</desc>
+    <desc>Cinq femmes reviennent sur l'actualité du moment, qu'il s'agisse de politique, de faits de société, de culture ou d'économie. Leurs propos sont... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Roselyne Bachelot,</name>
       <name function="presenter">Laurence Ferrari,</name>
@@ -1373,42 +1256,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211120000 +0100" stop="20151211121000 +0100">
+  <programme channel="MTV" start="20151211180000 +0100" stop="20151211181000 +0100">
     <length units="minutes">10</length>
     <title>D8 le JT</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Adrienne de Malleray</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211121000 +0100" stop="20151211123500 +0100">
+  <programme channel="MTV" start="20151211181000 +0100" stop="20151211183500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).(n)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211123500 +0100" stop="20151211130000 +0100">
+  <programme channel="MTV" start="20151211183500 +0100" stop="20151211190000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).(n)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211130000 +0100" stop="20151211133000 +0100">
+  <programme channel="MTV" start="20151211190000 +0100" stop="20151211193000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).(n)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211133000 +0100" stop="20151211151500 +0100">
+  <programme channel="MTV" start="20151211193000 +0100" stop="20151211211500 +0100">
     <length units="minutes">105</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
-    <desc>Dans les environs de Midsomer, paisible et pittoresque village anglais, la brave Emily Simpson s'aventure dans les bois, à la recherche... (Lire la suite).(n)</desc>
+    <desc>Dans les environs de Midsomer, paisible et pittoresque village anglais, la brave Emily Simpson s'aventure dans les bois, à la recherche... (Lire la suite).</desc>
     <credits>
       <name function="director">Jeremy Silberston</name>
       <name function="actor">Julian Glover</name>
@@ -1422,11 +1305,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211151500 +0100" stop="20151211171500 +0100">
+  <programme channel="MTV" start="20151211211500 +0100" stop="20151211231500 +0100">
     <length units="minutes">120</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
-    <desc>Mildred Danvers, féministe d'âge mur, est retrouvée morte. Elle venait de se réinstaller à Broughton, son village natal. Aussitôt, sa mort ravive... (Lire la suite).(n)</desc>
+    <desc>Mildred Danvers, féministe d'âge mur, est retrouvée morte. Elle venait de se réinstaller à Broughton, son village natal. Aussitôt, sa mort ravive... (Lire la suite).</desc>
     <credits>
       <name function="director">Sarah Hellings</name>
       <name function="actor">Richard McCabe</name>
@@ -1440,18 +1323,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211171500 +0100" stop="20151211175000 +0100">
+  <programme channel="MTV" start="20151211231500 +0100" stop="20151211235000 +0100">
     <length units="minutes">35</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).(n)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211175000 +0100" stop="20151211185000 +0100">
+  <programme channel="MTV" start="20151211235000 +0100" stop="20151212005000 +0100">
     <length units="minutes">60</length>
     <title>Touche pas à mon sport !</title>
     <category>Magazine</category>
-    <desc>Empoignades, mauvaise foi, bonne humeur, images, tacles et polémiques sont au programme de ce magazine multisports. Chaque jour, Estelle Denis,... (Lire la suite).(n)</desc>
+    <desc>Empoignades, mauvaise foi, bonne humeur, images, tacles et polémiques sont au programme de ce magazine multisports. Chaque jour, Estelle Denis,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Dominique Grimault,</name>
       <name function="presenter">Henri Leconte,</name>
@@ -1468,11 +1351,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211185000 +0100" stop="20151211205500 +0100">
+  <programme channel="MTV" start="20151212005000 +0100" stop="20151212025500 +0100">
     <length units="minutes">125</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
-    <desc>Débats enflammés et chroniques décalées sont au programme de cette émission pleine d'humour consacrée à la télévision animée par des amateurs du... (Lire la suite).(n)</desc>
+    <desc>Débats enflammés et chroniques décalées sont au programme de cette émission pleine d'humour consacrée à la télévision animée par des amateurs du... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Gérard Louvin,</name>
       <name function="presenter">Elie Semoun,</name>
@@ -1499,20 +1382,148 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211205500 +0100" stop="20151211230500 +0100">
+  <programme channel="MTV" start="20151212025500 +0100" stop="20151212050500 +0100">
     <length units="minutes">130</length>
     <title>Les Chevaliers du fiel</title>
     <category>Spectacle</category>
-    <desc>Après avoir raconté les tribulations en mer de monsieur et madame Lambert dans «Croisière d'enfer», les Chevaliers du fiel endossent une nouvelle... (Lire la suite).(n)</desc>
+    <desc>Après avoir raconté les tribulations en mer de monsieur et madame Lambert dans «Croisière d'enfer», les Chevaliers du fiel endossent une nouvelle... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211230500 +0100" stop="20151212004500 +0100">
+  <programme channel="MTV" start="20151212050500 +0100" stop="20151212064500 +0100">
     <length units="minutes">100</length>
     <title>La folle histoire des Chevaliers du fiel !</title>
     <category>Documentaire</category>
-    <desc>Depuis une trentaine d'années, les Chevaliers du fiel provoquent l'hilarité avec leurs pièces de théâtre et leurs parodies. Eric Carrière et... (Lire la suite).(n)</desc>
+    <desc>Depuis une trentaine d'années, les Chevaliers du fiel provoquent l'hilarité avec leurs pièces de théâtre et leurs parodies. Eric Carrière et... (Lire la suite).</desc>
     <credits>
       <name function="director">Aurélie Condou</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212064500 +0100" stop="20151212123000 +0100">
+    <length units="minutes">345</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212123000 +0100" stop="20151212150000 +0100">
+    <length units="minutes">150</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212150000 +0100" stop="20151212192500 +0100">
+    <length units="minutes">265</length>
+    <title>Le zap</title>
+    <category>Divertissement</category>
+    <desc>Une suite de séquences enregistrées sur les... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212192500 +0100" stop="20151212194000 +0100">
+    <length units="minutes">15</length>
+    <title>D8 le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Elé Asu</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212194000 +0100" stop="20151212212000 +0100">
+    <length units="minutes">100</length>
+    <title>Jeunesse volée</title>
+    <category>Téléfilm</category>
+    <desc>Nina Talbert, une graphiste new-yorkaise de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Christopher Leitch</name>
+      <name function="actor">Jeremy Renner</name>
+      <name function="actor">Harley Jane Kozak</name>
+      <name function="actor">Brian Austin Green</name>
+      <name function="actor">Katie Wright</name>
+      <name function="actor">Sharon Lawrence</name>
+      <name function="actor">John Carroll Lynch</name>
+      <name function="actor">Ashleigh Aston Moore</name>
+      <name function="actor">John Getz</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212212000 +0100" stop="20151212230000 +0100">
+    <length units="minutes">100</length>
+    <title>Beauté criminelle</title>
+    <category>Téléfilm</category>
+    <desc>Danielle Stevens écume les concours de beauté... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Christopher Leitch</name>
+      <name function="actor">Yasmine Bleeth</name>
+      <name function="actor">Cassidy Rae</name>
+      <name function="actor">George Eads</name>
+      <name function="actor">Oliver Muirhead</name>
+      <name function="actor">Mathea Webb</name>
+      <name function="actor">Maggie Myatt</name>
+      <name function="actor">Angela Lambert</name>
+      <name function="actor">Jill Clayburgh</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212230000 +0100" stop="20151213005000 +0100">
+    <length units="minutes">110</length>
+    <title>Passion fatale</title>
+    <category>Téléfilm</category>
+    <desc>Xinia est une voleuse professionnelle très... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Tommy Lee Wallace</name>
+      <name function="actor">Jennifer Beals</name>
+      <name function="actor">Gary Chalk</name>
+      <name function="actor">Rita Moreno</name>
+      <name function="actor">Nathaniel DeVeaux</name>
+      <name function="actor">John Cassini</name>
+      <name function="actor">Eric Keenleyside</name>
+      <name function="actor">Jano Frandsen</name>
+      <name function="actor">Powers Boothe</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213005000 +0100" stop="20151213025500 +0100">
+    <length units="minutes">125</length>
+    <title>Direct Auto</title>
+    <category>Magazine</category>
+    <desc>A l'occasion de l'opération «D8 à la montagne», (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Grégory Galiffi</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213025500 +0100" stop="20151213044500 +0100">
+    <length units="minutes">110</length>
+    <title>Les animaux de Noël</title>
+    <category>Magazine</category>
+    <desc>Destination les Alpes pour un périple des... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Sandrine Arcizet,</name>
+      <name function="presenter">Elodie Ageron</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213044500 +0100" stop="20151213055500 +0100">
+    <length units="minutes">70</length>
+    <title>Le bêtisier des «Animaux de la 8»</title>
+    <category>Magazine</category>
+    <desc>Quand les animaux n'en font qu'à leur tête,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Sandrine Arcizet,</name>
+      <name function="presenter">Elodie Ageron</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213055500 +0100" stop="20151213080500 +0100">
+    <length units="minutes">130</length>
+    <title>Les animaux de l'hiver</title>
+    <category>Magazine</category>
+    <desc>En dix ans, les présentatrices des «Animaux... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Sandrine Arcizet,</name>
+      <name function="presenter">Elodie Ageron</name>
     </credits>
     <image />
   </programme>

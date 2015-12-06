@@ -1,372 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="LCI - La Chaîne Info">
-    <display-name>test</display-name>
+    <display-name>MTV</display-name>
   </channel>
-  <programme channel="test" start="20151205000000 +0100" stop="20151205060000 +0100">
-    <length units="minutes">360</length>
-    <title>Journal de la nuit</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205060000 +0100" stop="20151205070000 +0100">
-    <length units="minutes">60</length>
-    <title>Journal de la nuit</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205070000 +0100" stop="20151205100000 +0100">
-    <length units="minutes">180</length>
-    <title>LCI matin week-end</title>
-    <category>Magazine</category>
-    <desc>Analyse et décryptage de l'actualité du jour. Avec, à 8h40, la rubrique «Green Page» : à quelques semaines de la COP21, LCI propose d'informer... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Sylvia Amicone,</name>
-      <name function="presenter">Lucas Zajdela</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205100000 +0100" stop="20151205101000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205101000 +0100" stop="20151205104000 +0100">
-    <length units="minutes">30</length>
-    <title>Le petit JT</title>
-    <category>Journal</category>
-    <desc>Le journal à destination des 10-15 ans. Au sommaire : (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Benjamin Cruard</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205104000 +0100" stop="20151205110000 +0100">
-    <length units="minutes">20</length>
-    <title>Le rendez-vous santé</title>
-    <category>Magazine</category>
-    <desc>Petits bobos ou maladies plus sérieuses, le docteur Milhau aborde les thèmes médicaux les plus courants. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Brigitte Milhau</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205110000 +0100" stop="20151205111000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205111000 +0100" stop="20151205120000 +0100">
-    <length units="minutes">50</length>
-    <title>Vu d'ailleurs</title>
-    <category>Magazine</category>
-    <desc>Christophe Moulin fait chaque semaine le tour de la presse internationale avec l'oeil aiguisé de grands correspondants de la presse... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Christophe Moulin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205120000 +0100" stop="20151205121000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205121000 +0100" stop="20151205124000 +0100">
-    <length units="minutes">30</length>
-    <title>Bureau politique</title>
-    <category>Magazine</category>
-    <desc>Christophe Jakubyszyn, chef du service politique de TF1 et LCI, s'invite chaque semaine dans le bureau d'une personnalité politique pour évoquer... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Christophe Jakubyszyn</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205124000 +0100" stop="20151205130000 +0100">
-    <length units="minutes">20</length>
-    <title>Plein écran</title>
-    <category>Magazine</category>
-    <desc>Cédric Ingrand parcourt la planète à la recherche de start-ups, d'objets ou de nouveaux usages technologiques qui changeront le... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Cédric Ingrand</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205130000 +0100" stop="20151205131000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205131000 +0100" stop="20151205134000 +0100">
-    <length units="minutes">30</length>
-    <title>J'achète (ou pas)</title>
-    <category>Magazine</category>
-    <desc>Estelle Denis et son complice Benoît Gallerey partagent les tendances et autres innovations conso. Dans le dossier de la semaine, les produits... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Estelle Denis,</name>
-      <name function="presenter">Benoît Gallerey</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205134000 +0100" stop="20151205140000 +0100">
-    <length units="minutes">20</length>
-    <title>Le club de l'économie</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, trois économistes répondent aux questions de François-Xavier Pietri, chef du service Economie de TF1, et de Nicolas Barré,... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">François-Xavier Pietri,</name>
-      <name function="presenter">Nicolas Barré</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205140000 +0100" stop="20151205141000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205141000 +0100" stop="20151205144000 +0100">
-    <length units="minutes">30</length>
-    <title>Les coups de coeur des libraires</title>
-    <category>Magazine</category>
-    <desc>Nouveautés de la semaine, meilleures ventes, tendances... loin des débats littéraires classiques, Valérie Expert donne la parole aux libraires... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Valérie Expert,</name>
-      <name function="presenter">Gérard Collard</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205144000 +0100" stop="20151205150000 +0100">
-    <length units="minutes">20</length>
-    <title>Le petit JT</title>
-    <category>Journal</category>
-    <desc>Le journal à destination des 10-15 ans. Au sommaire : (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Benjamin Cruard</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205150000 +0100" stop="20151205151000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205151000 +0100" stop="20151205160000 +0100">
-    <length units="minutes">50</length>
-    <title>Politiquement show</title>
-    <category>Magazine</category>
-    <desc>En compagnie d'un invité, les journalistes se livrent à un décryptage pointu, original et impertinent de la vie (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Olivier Duhamel,</name>
-      <name function="presenter">Arlette Chabot,</name>
-      <name function="presenter">Alexis Brézet,</name>
-      <name function="presenter">Jérôme Jaffré</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205160000 +0100" stop="20151205161000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205161000 +0100" stop="20151205170000 +0100">
-    <length units="minutes">50</length>
-    <title>La médiasphère</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, ceux qui font les médias se succèdent sur le plateau de Julien Arnaud pour décrypter les coulisses et dévoiler les secrets de... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Thomas Joubert,</name>
-      <name function="presenter">Julien Arnaud,</name>
-      <name function="presenter">Pierre Langlais,</name>
-      <name function="presenter">Linda Bouras</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205170000 +0100" stop="20151205171000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205171000 +0100" stop="20151205174000 +0100">
-    <length units="minutes">30</length>
-    <title>J'achète (ou pas)</title>
-    <category>Magazine</category>
-    <desc>Estelle Denis et son complice Benoît Gallerey partagent les tendances et autres innovations conso. Dans le dossier de la semaine, les produits... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Estelle Denis,</name>
-      <name function="presenter">Benoît Gallerey</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205174000 +0100" stop="20151205180000 +0100">
-    <length units="minutes">20</length>
-    <title>Le club de l'économie</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, trois économistes répondent aux questions de François-Xavier Pietri, chef du service Economie de TF1, et de Nicolas Barré,... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">François-Xavier Pietri,</name>
-      <name function="presenter">Nicolas Barré</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205180000 +0100" stop="20151205181000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205181000 +0100" stop="20151205190000 +0100">
-    <length units="minutes">50</length>
-    <title>Politiquement show</title>
-    <category>Magazine</category>
-    <desc>En compagnie d'un invité, les journalistes se livrent à un décryptage pointu, original et impertinent de la vie (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Olivier Duhamel,</name>
-      <name function="presenter">Arlette Chabot,</name>
-      <name function="presenter">Alexis Brézet,</name>
-      <name function="presenter">Jérôme Jaffré</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205190000 +0100" stop="20151205191000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205191000 +0100" stop="20151205193000 +0100">
-    <length units="minutes">20</length>
-    <title>Plein écran</title>
-    <category>Magazine</category>
-    <desc>Cédric Ingrand parcourt la planète à la recherche de start-ups, d'objets ou de nouveaux usages technologiques qui changeront le... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Cédric Ingrand</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205193000 +0100" stop="20151205200000 +0100">
-    <length units="minutes">30</length>
-    <title>Grand journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205200000 +0100" stop="20151205201000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205201000 +0100" stop="20151205210000 +0100">
-    <length units="minutes">50</length>
-    <title>Vu d'ailleurs</title>
-    <category>Magazine</category>
-    <desc>Christophe Moulin fait chaque semaine le tour de la presse internationale avec l'oeil aiguisé de grands correspondants de la presse... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Christophe Moulin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205210000 +0100" stop="20151205211000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205211000 +0100" stop="20151205220000 +0100">
-    <length units="minutes">50</length>
-    <title>La médiasphère</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, ceux qui font les médias se succèdent sur le plateau de Julien Arnaud pour décrypter les coulisses et dévoiler les secrets de... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Thomas Joubert,</name>
-      <name function="presenter">Julien Arnaud,</name>
-      <name function="presenter">Pierre Langlais,</name>
-      <name function="presenter">Linda Bouras</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205220000 +0100" stop="20151205221000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205221000 +0100" stop="20151205223000 +0100">
-    <length units="minutes">20</length>
-    <title>Best of culture</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205223000 +0100" stop="20151206000000 +0100">
-    <length units="minutes">90</length>
-    <title>LCI soir week-end</title>
-    <category>Magazine</category>
-    <desc>Rebecca Fitoussi et Julien Dommel prennent le relais de l'info pour le week-end. Ils proposent un éclairage sur les événements qui ont fait les... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Rebecca Fitoussi,</name>
-      <name function="presenter">Julien Dommel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206000000 +0100" stop="20151206003000 +0100">
+  <programme channel="MTV" start="20151206060000 +0100" stop="20151206063000 +0100">
     <length units="minutes">30</length>
     <title>Journal de la nuit</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206003000 +0100" stop="20151206010000 +0100">
+  <programme channel="MTV" start="20151206063000 +0100" stop="20151206070000 +0100">
     <length units="minutes">30</length>
     <title>Journal de la nuit</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206010000 +0100" stop="20151206013000 +0100">
+  <programme channel="MTV" start="20151206070000 +0100" stop="20151206073000 +0100">
     <length units="minutes">30</length>
     <title>Journal de la nuit</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206013000 +0100" stop="20151206060000 +0100">
+  <programme channel="MTV" start="20151206073000 +0100" stop="20151206120000 +0100">
     <length units="minutes">270</length>
     <title>Journal de la nuit</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206060000 +0100" stop="20151206070000 +0100">
+  <programme channel="MTV" start="20151206120000 +0100" stop="20151206130000 +0100">
     <length units="minutes">60</length>
     <title>Journal de la nuit</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206070000 +0100" stop="20151206100000 +0100">
+  <programme channel="MTV" start="20151206130000 +0100" stop="20151206160000 +0100">
     <length units="minutes">180</length>
     <title>LCI matin week-end</title>
     <category>Magazine</category>
@@ -377,14 +49,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206100000 +0100" stop="20151206101000 +0100">
+  <programme channel="MTV" start="20151206160000 +0100" stop="20151206161000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206101000 +0100" stop="20151206110000 +0100">
+  <programme channel="MTV" start="20151206161000 +0100" stop="20151206170000 +0100">
     <length units="minutes">50</length>
     <title>La médiasphère</title>
     <category>Magazine</category>
@@ -397,14 +69,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206110000 +0100" stop="20151206111000 +0100">
+  <programme channel="MTV" start="20151206170000 +0100" stop="20151206171000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206111000 +0100" stop="20151206114000 +0100">
+  <programme channel="MTV" start="20151206171000 +0100" stop="20151206174000 +0100">
     <length units="minutes">30</length>
     <title>Bureau politique</title>
     <category>Magazine</category>
@@ -414,7 +86,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206114000 +0100" stop="20151206120000 +0100">
+  <programme channel="MTV" start="20151206174000 +0100" stop="20151206180000 +0100">
     <length units="minutes">20</length>
     <title>Le petit JT</title>
     <category>Journal</category>
@@ -424,14 +96,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206120000 +0100" stop="20151206121000 +0100">
+  <programme channel="MTV" start="20151206180000 +0100" stop="20151206181000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206121000 +0100" stop="20151206123000 +0100">
+  <programme channel="MTV" start="20151206181000 +0100" stop="20151206183000 +0100">
     <length units="minutes">20</length>
     <title>Le rendez-vous santé</title>
     <category>Magazine</category>
@@ -441,7 +113,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206123000 +0100" stop="20151206134000 +0100">
+  <programme channel="MTV" start="20151206183000 +0100" stop="20151206194000 +0100">
     <length units="minutes">70</length>
     <title>Le grand jury RTL / Le Figaro / LCI</title>
     <category>Magazine</category>
@@ -453,7 +125,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206134000 +0100" stop="20151206140000 +0100">
+  <programme channel="MTV" start="20151206194000 +0100" stop="20151206200000 +0100">
     <length units="minutes">20</length>
     <title>Les coups de coeur des libraires</title>
     <category>Magazine</category>
@@ -464,14 +136,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206140000 +0100" stop="20151206141000 +0100">
+  <programme channel="MTV" start="20151206200000 +0100" stop="20151206201000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206141000 +0100" stop="20151206150000 +0100">
+  <programme channel="MTV" start="20151206201000 +0100" stop="20151206210000 +0100">
     <length units="minutes">50</length>
     <title>Vu d'ailleurs</title>
     <category>Magazine</category>
@@ -481,14 +153,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206150000 +0100" stop="20151206151000 +0100">
+  <programme channel="MTV" start="20151206210000 +0100" stop="20151206211000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206151000 +0100" stop="20151206154000 +0100">
+  <programme channel="MTV" start="20151206211000 +0100" stop="20151206214000 +0100">
     <length units="minutes">30</length>
     <title>J'achète (ou pas)</title>
     <category>Magazine</category>
@@ -499,7 +171,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206154000 +0100" stop="20151206160000 +0100">
+  <programme channel="MTV" start="20151206214000 +0100" stop="20151206220000 +0100">
     <length units="minutes">20</length>
     <title>Le club de l'économie</title>
     <category>Magazine</category>
@@ -510,14 +182,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206160000 +0100" stop="20151206161000 +0100">
+  <programme channel="MTV" start="20151206220000 +0100" stop="20151206221000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206161000 +0100" stop="20151206163000 +0100">
+  <programme channel="MTV" start="20151206221000 +0100" stop="20151206223000 +0100">
     <length units="minutes">20</length>
     <title>Bureau politique</title>
     <category>Magazine</category>
@@ -527,21 +199,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206163000 +0100" stop="20151206170000 +0100">
+  <programme channel="MTV" start="20151206223000 +0100" stop="20151206230000 +0100">
     <length units="minutes">30</length>
     <title>Vue sur la planète</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206170000 +0100" stop="20151206171000 +0100">
+  <programme channel="MTV" start="20151206230000 +0100" stop="20151206231000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206171000 +0100" stop="20151206174000 +0100">
+  <programme channel="MTV" start="20151206231000 +0100" stop="20151206234000 +0100">
     <length units="minutes">30</length>
     <title>Le petit JT</title>
     <category>Journal</category>
@@ -551,7 +223,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206174000 +0100" stop="20151206180000 +0100">
+  <programme channel="MTV" start="20151206234000 +0100" stop="20151207000000 +0100">
     <length units="minutes">20</length>
     <title>Le jour où...</title>
     <category>Magazine</category>
@@ -561,14 +233,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206180000 +0100" stop="20151206183000 +0100">
+  <programme channel="MTV" start="20151207000000 +0100" stop="20151207003000 +0100">
     <length units="minutes">30</length>
     <title>Grand journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206183000 +0100" stop="20151206190000 +0100">
+  <programme channel="MTV" start="20151207003000 +0100" stop="20151207010000 +0100">
     <length units="minutes">30</length>
     <title>Le grand jury RTL / Le Figaro / LCI</title>
     <category>Magazine</category>
@@ -580,7 +252,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206190000 +0100" stop="20151206230000 +0100">
+  <programme channel="MTV" start="20151207010000 +0100" stop="20151207050000 +0100">
     <length units="minutes">240</length>
     <title>Elections régionales 2015 : premier tour</title>
     <category>Magazine</category>
@@ -594,7 +266,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206230000 +0100" stop="20151207000000 +0100">
+  <programme channel="MTV" start="20151207050000 +0100" stop="20151207060000 +0100">
     <length units="minutes">60</length>
     <title>LCI soir week-end</title>
     <category>Magazine</category>
@@ -605,35 +277,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207000000 +0100" stop="20151207003000 +0100">
+  <programme channel="MTV" start="20151207060000 +0100" stop="20151207063000 +0100">
     <length units="minutes">30</length>
     <title>Journal de la nuit</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207003000 +0100" stop="20151207010000 +0100">
+  <programme channel="MTV" start="20151207063000 +0100" stop="20151207070000 +0100">
     <length units="minutes">30</length>
     <title>Journal de la nuit</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207010000 +0100" stop="20151207013000 +0100">
+  <programme channel="MTV" start="20151207070000 +0100" stop="20151207073000 +0100">
     <length units="minutes">30</length>
     <title>Journal de la nuit</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207013000 +0100" stop="20151207060000 +0100">
+  <programme channel="MTV" start="20151207073000 +0100" stop="20151207120000 +0100">
     <length units="minutes">270</length>
     <title>Journal de la nuit</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207060000 +0100" stop="20151207074500 +0100">
+  <programme channel="MTV" start="20151207120000 +0100" stop="20151207134500 +0100">
     <length units="minutes">105</length>
     <title>LCI matin</title>
     <category>Magazine</category>
@@ -649,7 +321,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207074500 +0100" stop="20151207080000 +0100">
+  <programme channel="MTV" start="20151207134500 +0100" stop="20151207140000 +0100">
     <length units="minutes">15</length>
     <title>L'invité de l'économie</title>
     <category>Magazine</category>
@@ -660,7 +332,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207080000 +0100" stop="20151207081500 +0100">
+  <programme channel="MTV" start="20151207140000 +0100" stop="20151207141500 +0100">
     <length units="minutes">15</length>
     <title>LCI matin</title>
     <category>Magazine</category>
@@ -676,7 +348,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207081500 +0100" stop="20151207083000 +0100">
+  <programme channel="MTV" start="20151207141500 +0100" stop="20151207143000 +0100">
     <length units="minutes">15</length>
     <title>L'invité politique Radio Classique / LCI</title>
     <category>Magazine</category>
@@ -686,7 +358,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207083000 +0100" stop="20151207091500 +0100">
+  <programme channel="MTV" start="20151207143000 +0100" stop="20151207151500 +0100">
     <length units="minutes">45</length>
     <title>LCI matin</title>
     <category>Magazine</category>
@@ -702,7 +374,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207091500 +0100" stop="20151207093000 +0100">
+  <programme channel="MTV" start="20151207151500 +0100" stop="20151207153000 +0100">
     <length units="minutes">15</length>
     <title>L'invité politique Radio Classique / LCI</title>
     <category>Magazine</category>
@@ -712,7 +384,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207093000 +0100" stop="20151207110000 +0100">
+  <programme channel="MTV" start="20151207153000 +0100" stop="20151207170000 +0100">
     <length units="minutes">90</length>
     <title>Choisissez votre camp</title>
     <category>Magazine</category>
@@ -722,7 +394,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207110000 +0100" stop="20151207120000 +0100">
+  <programme channel="MTV" start="20151207170000 +0100" stop="20151207180000 +0100">
     <length units="minutes">60</length>
     <title>Parlons-en !</title>
     <category>Magazine</category>
@@ -732,7 +404,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207120000 +0100" stop="20151207140000 +0100">
+  <programme channel="MTV" start="20151207180000 +0100" stop="20151207200000 +0100">
     <length units="minutes">120</length>
     <title>Le 12/14</title>
     <category>Journal</category>
@@ -743,7 +415,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207140000 +0100" stop="20151207141000 +0100">
+  <programme channel="MTV" start="20151207200000 +0100" stop="20151207201000 +0100">
     <length units="minutes">10</length>
     <title>Le 14/17</title>
     <category>Journal</category>
@@ -754,7 +426,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207141000 +0100" stop="20151207143000 +0100">
+  <programme channel="MTV" start="20151207201000 +0100" stop="20151207203000 +0100">
     <length units="minutes">20</length>
     <title>Le rendez-vous santé</title>
     <category>Magazine</category>
@@ -764,7 +436,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207143000 +0100" stop="20151207144000 +0100">
+  <programme channel="MTV" start="20151207203000 +0100" stop="20151207204000 +0100">
     <length units="minutes">10</length>
     <title>Le 14/17</title>
     <category>Journal</category>
@@ -775,7 +447,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207144000 +0100" stop="20151207150000 +0100">
+  <programme channel="MTV" start="20151207204000 +0100" stop="20151207210000 +0100">
     <length units="minutes">20</length>
     <title>Bureau politique</title>
     <category>Magazine</category>
@@ -785,7 +457,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207150000 +0100" stop="20151207170000 +0100">
+  <programme channel="MTV" start="20151207210000 +0100" stop="20151207230000 +0100">
     <length units="minutes">120</length>
     <title>Le 14/17</title>
     <category>Journal</category>
@@ -796,7 +468,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207170000 +0100" stop="20151207184000 +0100">
+  <programme channel="MTV" start="20151207230000 +0100" stop="20151208004000 +0100">
     <length units="minutes">100</length>
     <title>Le 17/19</title>
     <category>Journal</category>
@@ -807,7 +479,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207184000 +0100" stop="20151207190000 +0100">
+  <programme channel="MTV" start="20151208004000 +0100" stop="20151208010000 +0100">
     <length units="minutes">20</length>
     <title>Ainsi va le monde</title>
     <category>Magazine</category>
@@ -817,7 +489,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207190000 +0100" stop="20151207201000 +0100">
+  <programme channel="MTV" start="20151208010000 +0100" stop="20151208021000 +0100">
     <length units="minutes">70</length>
     <title>La newsroom</title>
     <category>Magazine</category>
@@ -827,7 +499,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207201000 +0100" stop="20151207203000 +0100">
+  <programme channel="MTV" start="20151208021000 +0100" stop="20151208023000 +0100">
     <length units="minutes">20</length>
     <title>Ainsi va le monde</title>
     <category>Magazine</category>
@@ -837,7 +509,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207203000 +0100" stop="20151207210000 +0100">
+  <programme channel="MTV" start="20151208023000 +0100" stop="20151208030000 +0100">
     <length units="minutes">30</length>
     <title>La newsroom</title>
     <category>Magazine</category>
@@ -847,7 +519,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207210000 +0100" stop="20151207221000 +0100">
+  <programme channel="MTV" start="20151208030000 +0100" stop="20151208041000 +0100">
     <length units="minutes">70</length>
     <title>LCI soir</title>
     <category>Magazine</category>
@@ -859,7 +531,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207221000 +0100" stop="20151207223000 +0100">
+  <programme channel="MTV" start="20151208041000 +0100" stop="20151208043000 +0100">
     <length units="minutes">20</length>
     <title>Ainsi va le monde</title>
     <category>Magazine</category>
@@ -869,7 +541,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207223000 +0100" stop="20151208000000 +0100">
+  <programme channel="MTV" start="20151208043000 +0100" stop="20151208060000 +0100">
     <length units="minutes">90</length>
     <title>LCI soir</title>
     <category>Magazine</category>
@@ -881,14 +553,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208000000 +0100" stop="20151208060000 +0100">
+  <programme channel="MTV" start="20151208060000 +0100" stop="20151208120000 +0100">
     <length units="minutes">360</length>
     <title>Journal de la nuit</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208060000 +0100" stop="20151208074500 +0100">
+  <programme channel="MTV" start="20151208120000 +0100" stop="20151208134500 +0100">
     <length units="minutes">105</length>
     <title>LCI matin</title>
     <category>Magazine</category>
@@ -904,7 +576,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208074500 +0100" stop="20151208080000 +0100">
+  <programme channel="MTV" start="20151208134500 +0100" stop="20151208140000 +0100">
     <length units="minutes">15</length>
     <title>L'invité de l'économie</title>
     <category>Magazine</category>
@@ -915,7 +587,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208080000 +0100" stop="20151208081500 +0100">
+  <programme channel="MTV" start="20151208140000 +0100" stop="20151208141500 +0100">
     <length units="minutes">15</length>
     <title>LCI matin</title>
     <category>Magazine</category>
@@ -931,7 +603,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208081500 +0100" stop="20151208083000 +0100">
+  <programme channel="MTV" start="20151208141500 +0100" stop="20151208143000 +0100">
     <length units="minutes">15</length>
     <title>L'invité politique Radio Classique / LCI</title>
     <category>Magazine</category>
@@ -941,7 +613,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208083000 +0100" stop="20151208091500 +0100">
+  <programme channel="MTV" start="20151208143000 +0100" stop="20151208151500 +0100">
     <length units="minutes">45</length>
     <title>LCI matin</title>
     <category>Magazine</category>
@@ -957,7 +629,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208091500 +0100" stop="20151208093000 +0100">
+  <programme channel="MTV" start="20151208151500 +0100" stop="20151208153000 +0100">
     <length units="minutes">15</length>
     <title>L'invité politique Radio Classique / LCI</title>
     <category>Magazine</category>
@@ -967,7 +639,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208093000 +0100" stop="20151208110000 +0100">
+  <programme channel="MTV" start="20151208153000 +0100" stop="20151208170000 +0100">
     <length units="minutes">90</length>
     <title>Choisissez votre camp</title>
     <category>Magazine</category>
@@ -977,7 +649,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208110000 +0100" stop="20151208120000 +0100">
+  <programme channel="MTV" start="20151208170000 +0100" stop="20151208180000 +0100">
     <length units="minutes">60</length>
     <title>Parlons-en !</title>
     <category>Magazine</category>
@@ -987,7 +659,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208120000 +0100" stop="20151208140000 +0100">
+  <programme channel="MTV" start="20151208180000 +0100" stop="20151208200000 +0100">
     <length units="minutes">120</length>
     <title>Le 12/14</title>
     <category>Journal</category>
@@ -998,7 +670,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208140000 +0100" stop="20151208141000 +0100">
+  <programme channel="MTV" start="20151208200000 +0100" stop="20151208201000 +0100">
     <length units="minutes">10</length>
     <title>Le 14/17</title>
     <category>Journal</category>
@@ -1009,7 +681,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208141000 +0100" stop="20151208143000 +0100">
+  <programme channel="MTV" start="20151208201000 +0100" stop="20151208203000 +0100">
     <length units="minutes">20</length>
     <title>Le jour où...</title>
     <category>Magazine</category>
@@ -1019,7 +691,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208143000 +0100" stop="20151208144000 +0100">
+  <programme channel="MTV" start="20151208203000 +0100" stop="20151208204000 +0100">
     <length units="minutes">10</length>
     <title>Le 14/17</title>
     <category>Journal</category>
@@ -1030,7 +702,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208144000 +0100" stop="20151208150000 +0100">
+  <programme channel="MTV" start="20151208204000 +0100" stop="20151208210000 +0100">
     <length units="minutes">20</length>
     <title>Plein écran</title>
     <category>Magazine</category>
@@ -1040,7 +712,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208150000 +0100" stop="20151208170000 +0100">
+  <programme channel="MTV" start="20151208210000 +0100" stop="20151208230000 +0100">
     <length units="minutes">120</length>
     <title>Le 14/17</title>
     <category>Journal</category>
@@ -1051,7 +723,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208170000 +0100" stop="20151208184000 +0100">
+  <programme channel="MTV" start="20151208230000 +0100" stop="20151209004000 +0100">
     <length units="minutes">100</length>
     <title>Le 17/19</title>
     <category>Journal</category>
@@ -1062,7 +734,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208184000 +0100" stop="20151208190000 +0100">
+  <programme channel="MTV" start="20151209004000 +0100" stop="20151209010000 +0100">
     <length units="minutes">20</length>
     <title>Ainsi va le monde</title>
     <category>Magazine</category>
@@ -1072,7 +744,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208190000 +0100" stop="20151208201000 +0100">
+  <programme channel="MTV" start="20151209010000 +0100" stop="20151209021000 +0100">
     <length units="minutes">70</length>
     <title>La newsroom</title>
     <category>Magazine</category>
@@ -1082,7 +754,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208201000 +0100" stop="20151208203000 +0100">
+  <programme channel="MTV" start="20151209021000 +0100" stop="20151209023000 +0100">
     <length units="minutes">20</length>
     <title>Ainsi va le monde</title>
     <category>Magazine</category>
@@ -1092,7 +764,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208203000 +0100" stop="20151208210000 +0100">
+  <programme channel="MTV" start="20151209023000 +0100" stop="20151209030000 +0100">
     <length units="minutes">30</length>
     <title>La newsroom</title>
     <category>Magazine</category>
@@ -1102,7 +774,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208210000 +0100" stop="20151208221000 +0100">
+  <programme channel="MTV" start="20151209030000 +0100" stop="20151209041000 +0100">
     <length units="minutes">70</length>
     <title>LCI soir</title>
     <category>Magazine</category>
@@ -1114,7 +786,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208221000 +0100" stop="20151208223000 +0100">
+  <programme channel="MTV" start="20151209041000 +0100" stop="20151209043000 +0100">
     <length units="minutes">20</length>
     <title>Ainsi va le monde</title>
     <category>Magazine</category>
@@ -1124,7 +796,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208223000 +0100" stop="20151209000000 +0100">
+  <programme channel="MTV" start="20151209043000 +0100" stop="20151209060000 +0100">
     <length units="minutes">90</length>
     <title>LCI soir</title>
     <category>Magazine</category>
@@ -1136,14 +808,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209000000 +0100" stop="20151209060000 +0100">
+  <programme channel="MTV" start="20151209060000 +0100" stop="20151209120000 +0100">
     <length units="minutes">360</length>
     <title>Journal de la nuit</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209060000 +0100" stop="20151209074500 +0100">
+  <programme channel="MTV" start="20151209120000 +0100" stop="20151209134500 +0100">
     <length units="minutes">105</length>
     <title>LCI matin</title>
     <category>Magazine</category>
@@ -1159,7 +831,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209074500 +0100" stop="20151209080000 +0100">
+  <programme channel="MTV" start="20151209134500 +0100" stop="20151209140000 +0100">
     <length units="minutes">15</length>
     <title>L'invité de l'économie</title>
     <category>Magazine</category>
@@ -1170,7 +842,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209080000 +0100" stop="20151209081500 +0100">
+  <programme channel="MTV" start="20151209140000 +0100" stop="20151209141500 +0100">
     <length units="minutes">15</length>
     <title>LCI matin</title>
     <category>Magazine</category>
@@ -1186,7 +858,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209081500 +0100" stop="20151209083000 +0100">
+  <programme channel="MTV" start="20151209141500 +0100" stop="20151209143000 +0100">
     <length units="minutes">15</length>
     <title>L'invité politique Radio Classique / LCI</title>
     <category>Magazine</category>
@@ -1196,7 +868,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209083000 +0100" stop="20151209091500 +0100">
+  <programme channel="MTV" start="20151209143000 +0100" stop="20151209151500 +0100">
     <length units="minutes">45</length>
     <title>LCI matin</title>
     <category>Magazine</category>
@@ -1212,7 +884,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209091500 +0100" stop="20151209093000 +0100">
+  <programme channel="MTV" start="20151209151500 +0100" stop="20151209153000 +0100">
     <length units="minutes">15</length>
     <title>L'invité politique Radio Classique / LCI</title>
     <category>Magazine</category>
@@ -1222,7 +894,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209093000 +0100" stop="20151209110000 +0100">
+  <programme channel="MTV" start="20151209153000 +0100" stop="20151209170000 +0100">
     <length units="minutes">90</length>
     <title>Choisissez votre camp</title>
     <category>Magazine</category>
@@ -1232,7 +904,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209110000 +0100" stop="20151209113000 +0100">
+  <programme channel="MTV" start="20151209170000 +0100" stop="20151209173000 +0100">
     <length units="minutes">30</length>
     <title>Parlons-en !</title>
     <category>Magazine</category>
@@ -1242,14 +914,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209113000 +0100" stop="20151209120000 +0100">
+  <programme channel="MTV" start="20151209173000 +0100" stop="20151209180000 +0100">
     <length units="minutes">30</length>
     <title>Vue sur la planète</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209120000 +0100" stop="20151209140000 +0100">
+  <programme channel="MTV" start="20151209180000 +0100" stop="20151209200000 +0100">
     <length units="minutes">120</length>
     <title>Le 12/14</title>
     <category>Journal</category>
@@ -1260,7 +932,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209140000 +0100" stop="20151209141000 +0100">
+  <programme channel="MTV" start="20151209200000 +0100" stop="20151209201000 +0100">
     <length units="minutes">10</length>
     <title>Le 14/17</title>
     <category>Journal</category>
@@ -1271,7 +943,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209141000 +0100" stop="20151209143000 +0100">
+  <programme channel="MTV" start="20151209201000 +0100" stop="20151209203000 +0100">
     <length units="minutes">20</length>
     <title>Le rendez-vous santé</title>
     <category>Magazine</category>
@@ -1281,7 +953,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209143000 +0100" stop="20151209144000 +0100">
+  <programme channel="MTV" start="20151209203000 +0100" stop="20151209204000 +0100">
     <length units="minutes">10</length>
     <title>Le 14/17</title>
     <category>Journal</category>
@@ -1292,7 +964,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209144000 +0100" stop="20151209150000 +0100">
+  <programme channel="MTV" start="20151209204000 +0100" stop="20151209210000 +0100">
     <length units="minutes">20</length>
     <title>Les coups de coeur des libraires</title>
     <category>Magazine</category>
@@ -1303,7 +975,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209150000 +0100" stop="20151209170000 +0100">
+  <programme channel="MTV" start="20151209210000 +0100" stop="20151209230000 +0100">
     <length units="minutes">120</length>
     <title>Le 14/17</title>
     <category>Journal</category>
@@ -1314,7 +986,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209170000 +0100" stop="20151209184000 +0100">
+  <programme channel="MTV" start="20151209230000 +0100" stop="20151210004000 +0100">
     <length units="minutes">100</length>
     <title>Le 17/19</title>
     <category>Journal</category>
@@ -1325,7 +997,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209184000 +0100" stop="20151209190000 +0100">
+  <programme channel="MTV" start="20151210004000 +0100" stop="20151210010000 +0100">
     <length units="minutes">20</length>
     <title>Ainsi va le monde</title>
     <category>Magazine</category>
@@ -1335,7 +1007,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209190000 +0100" stop="20151209201000 +0100">
+  <programme channel="MTV" start="20151210010000 +0100" stop="20151210021000 +0100">
     <length units="minutes">70</length>
     <title>La newsroom</title>
     <category>Magazine</category>
@@ -1345,7 +1017,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209201000 +0100" stop="20151209203000 +0100">
+  <programme channel="MTV" start="20151210021000 +0100" stop="20151210023000 +0100">
     <length units="minutes">20</length>
     <title>Ainsi va le monde</title>
     <category>Magazine</category>
@@ -1355,7 +1027,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209203000 +0100" stop="20151209210000 +0100">
+  <programme channel="MTV" start="20151210023000 +0100" stop="20151210030000 +0100">
     <length units="minutes">30</length>
     <title>La newsroom</title>
     <category>Magazine</category>
@@ -1365,7 +1037,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209210000 +0100" stop="20151209221000 +0100">
+  <programme channel="MTV" start="20151210030000 +0100" stop="20151210041000 +0100">
     <length units="minutes">70</length>
     <title>LCI soir</title>
     <category>Magazine</category>
@@ -1377,7 +1049,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209221000 +0100" stop="20151209223000 +0100">
+  <programme channel="MTV" start="20151210041000 +0100" stop="20151210043000 +0100">
     <length units="minutes">20</length>
     <title>Ainsi va le monde</title>
     <category>Magazine</category>
@@ -1387,7 +1059,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209223000 +0100" stop="20151210000000 +0100">
+  <programme channel="MTV" start="20151210043000 +0100" stop="20151210060000 +0100">
     <length units="minutes">90</length>
     <title>LCI soir</title>
     <category>Magazine</category>
@@ -1399,14 +1071,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210000000 +0100" stop="20151210060000 +0100">
+  <programme channel="MTV" start="20151210060000 +0100" stop="20151210120000 +0100">
     <length units="minutes">360</length>
     <title>Journal de la nuit</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210060000 +0100" stop="20151210074500 +0100">
+  <programme channel="MTV" start="20151210120000 +0100" stop="20151210134500 +0100">
     <length units="minutes">105</length>
     <title>LCI matin</title>
     <category>Magazine</category>
@@ -1422,7 +1094,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210074500 +0100" stop="20151210080000 +0100">
+  <programme channel="MTV" start="20151210134500 +0100" stop="20151210140000 +0100">
     <length units="minutes">15</length>
     <title>L'invité de l'économie</title>
     <category>Magazine</category>
@@ -1433,7 +1105,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210080000 +0100" stop="20151210081500 +0100">
+  <programme channel="MTV" start="20151210140000 +0100" stop="20151210141500 +0100">
     <length units="minutes">15</length>
     <title>LCI matin</title>
     <category>Magazine</category>
@@ -1449,7 +1121,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210081500 +0100" stop="20151210083000 +0100">
+  <programme channel="MTV" start="20151210141500 +0100" stop="20151210143000 +0100">
     <length units="minutes">15</length>
     <title>L'invité politique Radio Classique / LCI</title>
     <category>Magazine</category>
@@ -1459,7 +1131,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210083000 +0100" stop="20151210091500 +0100">
+  <programme channel="MTV" start="20151210143000 +0100" stop="20151210151500 +0100">
     <length units="minutes">45</length>
     <title>LCI matin</title>
     <category>Magazine</category>
@@ -1475,7 +1147,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210091500 +0100" stop="20151210093000 +0100">
+  <programme channel="MTV" start="20151210151500 +0100" stop="20151210153000 +0100">
     <length units="minutes">15</length>
     <title>L'invité politique Radio Classique / LCI</title>
     <category>Magazine</category>
@@ -1485,7 +1157,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210093000 +0100" stop="20151210110000 +0100">
+  <programme channel="MTV" start="20151210153000 +0100" stop="20151210170000 +0100">
     <length units="minutes">90</length>
     <title>Choisissez votre camp</title>
     <category>Magazine</category>
@@ -1495,7 +1167,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210110000 +0100" stop="20151210113000 +0100">
+  <programme channel="MTV" start="20151210170000 +0100" stop="20151210173000 +0100">
     <length units="minutes">30</length>
     <title>Parlons-en !</title>
     <category>Magazine</category>
@@ -1505,14 +1177,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210113000 +0100" stop="20151210120000 +0100">
+  <programme channel="MTV" start="20151210173000 +0100" stop="20151210180000 +0100">
     <length units="minutes">30</length>
     <title>Dans nos quartiers</title>
     <category>Magazine</category>
     <desc>Une chronique sur les initiatives positives des quartiers populaires, accompagnée d'une analyse de l'actualité telle qu'elle est perçue dans les... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210120000 +0100" stop="20151210140000 +0100">
+  <programme channel="MTV" start="20151210180000 +0100" stop="20151210200000 +0100">
     <length units="minutes">120</length>
     <title>Le 12/14</title>
     <category>Journal</category>
@@ -1523,7 +1195,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210140000 +0100" stop="20151210141000 +0100">
+  <programme channel="MTV" start="20151210200000 +0100" stop="20151210201000 +0100">
     <length units="minutes">10</length>
     <title>Le 14/17</title>
     <category>Journal</category>
@@ -1534,14 +1206,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210141000 +0100" stop="20151210143000 +0100">
+  <programme channel="MTV" start="20151210201000 +0100" stop="20151210203000 +0100">
     <length units="minutes">20</length>
     <title>Vue sur la planète</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210143000 +0100" stop="20151210144000 +0100">
+  <programme channel="MTV" start="20151210203000 +0100" stop="20151210204000 +0100">
     <length units="minutes">10</length>
     <title>Le 14/17</title>
     <category>Journal</category>
@@ -1552,14 +1224,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210144000 +0100" stop="20151210150000 +0100">
+  <programme channel="MTV" start="20151210204000 +0100" stop="20151210210000 +0100">
     <length units="minutes">20</length>
     <title>Dans nos quartiers</title>
     <category>Magazine</category>
     <desc>Une chronique sur les initiatives positives des quartiers populaires, accompagnée d'une analyse de l'actualité telle qu'elle est perçue dans les... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210150000 +0100" stop="20151210170000 +0100">
+  <programme channel="MTV" start="20151210210000 +0100" stop="20151210230000 +0100">
     <length units="minutes">120</length>
     <title>Le 14/17</title>
     <category>Journal</category>
@@ -1570,7 +1242,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210170000 +0100" stop="20151210171000 +0100">
+  <programme channel="MTV" start="20151210230000 +0100" stop="20151210231000 +0100">
     <length units="minutes">10</length>
     <title>Le 17/19</title>
     <category>Journal</category>
@@ -1581,7 +1253,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210171000 +0100" stop="20151210180000 +0100">
+  <programme channel="MTV" start="20151210231000 +0100" stop="20151211000000 +0100">
     <length units="minutes">50</length>
     <title>Politiquement show</title>
     <category>Magazine</category>
@@ -1594,7 +1266,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210180000 +0100" stop="20151210184000 +0100">
+  <programme channel="MTV" start="20151211000000 +0100" stop="20151211004000 +0100">
     <length units="minutes">40</length>
     <title>Le 17/19</title>
     <category>Journal</category>
@@ -1605,7 +1277,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210184000 +0100" stop="20151210190000 +0100">
+  <programme channel="MTV" start="20151211004000 +0100" stop="20151211010000 +0100">
     <length units="minutes">20</length>
     <title>Ainsi va le monde</title>
     <category>Magazine</category>
@@ -1615,7 +1287,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210190000 +0100" stop="20151210201000 +0100">
+  <programme channel="MTV" start="20151211010000 +0100" stop="20151211021000 +0100">
     <length units="minutes">70</length>
     <title>La newsroom</title>
     <category>Magazine</category>
@@ -1625,7 +1297,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210201000 +0100" stop="20151210203000 +0100">
+  <programme channel="MTV" start="20151211021000 +0100" stop="20151211023000 +0100">
     <length units="minutes">20</length>
     <title>Ainsi va le monde</title>
     <category>Magazine</category>
@@ -1635,7 +1307,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210203000 +0100" stop="20151210210000 +0100">
+  <programme channel="MTV" start="20151211023000 +0100" stop="20151211030000 +0100">
     <length units="minutes">30</length>
     <title>La newsroom</title>
     <category>Magazine</category>
@@ -1645,7 +1317,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210210000 +0100" stop="20151210221000 +0100">
+  <programme channel="MTV" start="20151211030000 +0100" stop="20151211041000 +0100">
     <length units="minutes">70</length>
     <title>LCI soir</title>
     <category>Magazine</category>
@@ -1657,7 +1329,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210221000 +0100" stop="20151210223000 +0100">
+  <programme channel="MTV" start="20151211041000 +0100" stop="20151211043000 +0100">
     <length units="minutes">20</length>
     <title>Ainsi va le monde</title>
     <category>Magazine</category>
@@ -1667,7 +1339,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210223000 +0100" stop="20151211000000 +0100">
+  <programme channel="MTV" start="20151211043000 +0100" stop="20151211060000 +0100">
     <length units="minutes">90</length>
     <title>LCI soir</title>
     <category>Magazine</category>
@@ -1679,18 +1351,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211000000 +0100" stop="20151211060000 +0100">
+  <programme channel="MTV" start="20151211060000 +0100" stop="20151211120000 +0100">
     <length units="minutes">360</length>
     <title>Journal de la nuit</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211060000 +0100" stop="20151211074500 +0100">
+  <programme channel="MTV" start="20151211120000 +0100" stop="20151211134500 +0100">
     <length units="minutes">105</length>
     <title>LCI matin</title>
     <category>Magazine</category>
-    <desc>Durant trois heures trente de direct non-stop, Hélène Lecomte, Nicolas Herbeaux et leurs chroniqueurs, font le tour de l'actualité politique,... (Lire la suite).(n)</desc>
+    <desc>Durant trois heures trente de direct non-stop, Hélène Lecomte, Nicolas Herbeaux et leurs chroniqueurs, font le tour de l'actualité politique,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Guillaume Durand,</name>
       <name function="presenter">Laurent Guez,</name>
@@ -1702,11 +1374,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211074500 +0100" stop="20151211080000 +0100">
+  <programme channel="MTV" start="20151211134500 +0100" stop="20151211140000 +0100">
     <length units="minutes">15</length>
     <title>L'invité de l'économie</title>
     <category>Magazine</category>
-    <desc>Chaque jour, un patron français ou étranger fait le point sur son entreprise ainsi que sur les grandes tendances de... (Lire la suite).(n)</desc>
+    <desc>Chaque jour, un patron français ou étranger fait le point sur son entreprise ainsi que sur les grandes tendances de... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Laurent Guez,</name>
       <name function="presenter">Vincent Perrault,</name>
@@ -1714,11 +1386,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211080000 +0100" stop="20151211081500 +0100">
+  <programme channel="MTV" start="20151211140000 +0100" stop="20151211141500 +0100">
     <length units="minutes">15</length>
     <title>LCI matin</title>
     <category>Magazine</category>
-    <desc>Durant trois heures trente de direct non-stop, Hélène Lecomte, Nicolas Herbeaux et leurs chroniqueurs, font le tour de l'actualité politique,... (Lire la suite).(n)</desc>
+    <desc>Durant trois heures trente de direct non-stop, Hélène Lecomte, Nicolas Herbeaux et leurs chroniqueurs, font le tour de l'actualité politique,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Guillaume Durand,</name>
       <name function="presenter">Laurent Guez,</name>
@@ -1730,21 +1402,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211081500 +0100" stop="20151211083000 +0100">
+  <programme channel="MTV" start="20151211141500 +0100" stop="20151211143000 +0100">
     <length units="minutes">15</length>
     <title>L'invité politique Radio Classique / LCI</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Guillaume Durand</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211083000 +0100" stop="20151211091500 +0100">
+  <programme channel="MTV" start="20151211143000 +0100" stop="20151211151500 +0100">
     <length units="minutes">45</length>
     <title>LCI matin</title>
     <category>Magazine</category>
-    <desc>Durant trois heures trente de direct non-stop, Hélène Lecomte, Nicolas Herbeaux et leurs chroniqueurs, font le tour de l'actualité politique,... (Lire la suite).(n)</desc>
+    <desc>Durant trois heures trente de direct non-stop, Hélène Lecomte, Nicolas Herbeaux et leurs chroniqueurs, font le tour de l'actualité politique,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Guillaume Durand,</name>
       <name function="presenter">Laurent Guez,</name>
@@ -1756,91 +1428,357 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211091500 +0100" stop="20151211093000 +0100">
+  <programme channel="MTV" start="20151211151500 +0100" stop="20151211153000 +0100">
     <length units="minutes">15</length>
     <title>L'invité politique Radio Classique / LCI</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Guillaume Durand</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211093000 +0100" stop="20151211110000 +0100">
+  <programme channel="MTV" start="20151211153000 +0100" stop="20151211170000 +0100">
     <length units="minutes">90</length>
     <title>Choisissez votre camp</title>
     <category>Magazine</category>
-    <desc>Chaque jour Valérie Expert et ses invités, éditorialistes et dessinateurs de presse, décryptent l'actualité qui fait la Une des... (Lire la suite).(n)</desc>
+    <desc>Chaque jour Valérie Expert et ses invités, éditorialistes et dessinateurs de presse, décryptent l'actualité qui fait la Une des... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Valérie Expert</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211110000 +0100" stop="20151211112000 +0100">
+  <programme channel="MTV" start="20151211170000 +0100" stop="20151211172000 +0100">
     <length units="minutes">20</length>
     <title>Parlons-en !</title>
     <category>Magazine</category>
-    <desc>Audrey Crespo-Mara fait chaque matin le tour des principaux titres du jour et reçoit, pour les commenter et les analyser, des experts et les... (Lire la suite).(n)</desc>
+    <desc>Audrey Crespo-Mara fait chaque matin le tour des principaux titres du jour et reçoit, pour les commenter et les analyser, des experts et les... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Audrey Crespo-Mara</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211112000 +0100" stop="20151211120000 +0100">
+  <programme channel="MTV" start="20151211172000 +0100" stop="20151211180000 +0100">
     <length units="minutes">40</length>
     <title>Tous acteurs du changement</title>
     <category>Magazine</category>
-    <desc>Rencontre avec des hommes et des femmes qui prennent des initiatives pour faire avancer le monde, améliorer la vie d'autrui ou proposer une... (Lire la suite).(n)</desc>
+    <desc>Rencontre avec des hommes et des femmes qui prennent des initiatives pour faire avancer le monde, améliorer la vie d'autrui ou proposer une... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Sylvia Amicone</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211120000 +0100" stop="20151211140000 +0100">
+  <programme channel="MTV" start="20151211180000 +0100" stop="20151211200000 +0100">
     <length units="minutes">120</length>
     <title>Le 12/14</title>
     <category>Journal</category>
-    <desc>Deux heures de direct non-stop à un moment charnière de la journée. Chaque jour, les principaux acteurs de l'actualité analysent en plateau les... (Lire la suite).(n)</desc>
+    <desc>Deux heures de direct non-stop à un moment charnière de la journée. Chaque jour, les principaux acteurs de l'actualité analysent en plateau les... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Bénédicte Le Chatelier,</name>
       <name function="presenter">Benoît Gallerey</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211140000 +0100" stop="20151211141000 +0100">
+  <programme channel="MTV" start="20151211200000 +0100" stop="20151211201000 +0100">
     <length units="minutes">10</length>
     <title>Le 14/17</title>
     <category>Journal</category>
-    <desc>Trois heures d'information en direct ponctuées toutes les demi-heures par de grands JT et des magazines. Au menu : un décryptage de l'actualité... (Lire la suite).(n)</desc>
+    <desc>Trois heures d'information en direct ponctuées toutes les demi-heures par de grands JT et des magazines. Au menu : un décryptage de l'actualité... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Marianne Kottenhoff,</name>
       <name function="presenter">Katherine Cooley</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211141000 +0100" stop="20151211143000 +0100">
+  <programme channel="MTV" start="20151211201000 +0100" stop="20151211203000 +0100">
     <length units="minutes">20</length>
     <title>J'achète (ou pas)</title>
     <category>Magazine</category>
-    <desc>Estelle Denis et son complice Benoît Gallerey partagent les tendances et autres innovations conso. Dans le dossier de la semaine, les produits... (Lire la suite).(n)</desc>
+    <desc>Estelle Denis et son complice Benoît Gallerey partagent les tendances et autres innovations conso. Dans le dossier de la semaine, les produits... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Estelle Denis,</name>
       <name function="presenter">Benoît Gallerey</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211143000 +0100" stop="20151211144000 +0100">
+  <programme channel="MTV" start="20151211203000 +0100" stop="20151211204000 +0100">
     <length units="minutes">10</length>
     <title>Le 14/17</title>
     <category>Journal</category>
-    <desc>Trois heures d'information en direct ponctuées toutes les demi-heures par de grands JT et des magazines. Au menu : un décryptage de l'actualité... (Lire la suite).(n)</desc>
+    <desc>Trois heures d'information en direct ponctuées toutes les demi-heures par de grands JT et des magazines. Au menu : un décryptage de l'actualité... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Marianne Kottenhoff,</name>
       <name function="presenter">Katherine Cooley</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211144000 +0100" stop="20151211150000 +0100">
+  <programme channel="MTV" start="20151211204000 +0100" stop="20151211210000 +0100">
+    <length units="minutes">20</length>
+    <title>Plein écran</title>
+    <category>Magazine</category>
+    <desc>Cédric Ingrand parcourt la planète à la recherche de start-ups, d'objets ou de nouveaux usages technologiques qui changeront le... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Cédric Ingrand</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151211210000 +0100" stop="20151211221000 +0100">
+    <length units="minutes">70</length>
+    <title>Le 14/17</title>
+    <category>Journal</category>
+    <desc>Trois heures d'information en direct ponctuées toutes les demi-heures par de grands JT et des magazines. Au menu : un décryptage de l'actualité... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Marianne Kottenhoff,</name>
+      <name function="presenter">Katherine Cooley</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151211221000 +0100" stop="20151211230000 +0100">
+    <length units="minutes">50</length>
+    <title>La médiasphère</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, ceux qui font les médias se succèdent sur le plateau de Julien Arnaud pour décrypter les coulisses et dévoiler les secrets de... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Thomas Joubert,</name>
+      <name function="presenter">Julien Arnaud,</name>
+      <name function="presenter">Pierre Langlais,</name>
+      <name function="presenter">Linda Bouras</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151211230000 +0100" stop="20151212004000 +0100">
+    <length units="minutes">100</length>
+    <title>Le 17/19</title>
+    <category>Journal</category>
+    <desc>Deux heures d'actualité présentées par Magali Lunel et Damien Givelet. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Damien Givelet,</name>
+      <name function="presenter">Magali Lunel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212004000 +0100" stop="20151212010000 +0100">
+    <length units="minutes">20</length>
+    <title>Ainsi va le monde</title>
+    <category>Magazine</category>
+    <desc>Vincent Hervouët livre chaque soir son analyse de l'actualité internationale à travers des reportages, interviews et directs avec des envoyés... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Vincent Hervouët</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212010000 +0100" stop="20151212014000 +0100">
+    <length units="minutes">40</length>
+    <title>La newsroom</title>
+    <category>Magazine</category>
+    <desc>Après un tour de l'actualité, Romain Hussenot prend de la hauteur en donnant la parole aux journalistes de la rédaction et à divers experts pour... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Julien Arnaud</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212014000 +0100" stop="20151212021000 +0100">
+    <length units="minutes">30</length>
+    <title>On ne s'est pas tout dit</title>
+    <category>Magazine</category>
+    <desc>Des journalistes de terrain, de la presse écrite et de la radio, spécialisés dans le sport, la politique, l'actu people reviennent, dans une... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Romain Hussenot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212021000 +0100" stop="20151212023000 +0100">
+    <length units="minutes">20</length>
+    <title>Ainsi va le monde</title>
+    <category>Magazine</category>
+    <desc>Vincent Hervouët livre chaque soir son analyse de l'actualité internationale à travers des reportages, interviews et directs avec des envoyés... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Vincent Hervouët</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212023000 +0100" stop="20151212030000 +0100">
+    <length units="minutes">30</length>
+    <title>On ne s'est pas tout dit</title>
+    <category>Magazine</category>
+    <desc>Des journalistes de terrain, de la presse écrite et de la radio, spécialisés dans le sport, la politique, l'actu people reviennent, dans une... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Romain Hussenot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212030000 +0100" stop="20151212031000 +0100">
+    <length units="minutes">10</length>
+    <title>LCI soir week-end</title>
+    <category>Magazine</category>
+    <desc>Rebecca Fitoussi et Julien Dommel prennent le relais de l'info de la semaine dès 21h le vendredi soir. Au menu de cette tranche d'actualité du... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Rebecca Fitoussi,</name>
+      <name function="presenter">Julien Dommel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212031000 +0100" stop="20151212033000 +0100">
+    <length units="minutes">20</length>
+    <title>La semaine de Slate</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212033000 +0100" stop="20151212034000 +0100">
+    <length units="minutes">10</length>
+    <title>LCI soir week-end</title>
+    <category>Magazine</category>
+    <desc>Rebecca Fitoussi et Julien Dommel prennent le relais de l'info de la semaine dès 21h le vendredi soir. Au menu de cette tranche d'actualité du... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Rebecca Fitoussi,</name>
+      <name function="presenter">Julien Dommel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212034000 +0100" stop="20151212040000 +0100">
+    <length units="minutes">20</length>
+    <title>Best of culture</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212040000 +0100" stop="20151212041000 +0100">
+    <length units="minutes">10</length>
+    <title>LCI soir week-end</title>
+    <category>Magazine</category>
+    <desc>Rebecca Fitoussi et Julien Dommel prennent le relais de l'info de la semaine dès 21h le vendredi soir. Au menu de cette tranche d'actualité du... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Rebecca Fitoussi,</name>
+      <name function="presenter">Julien Dommel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212041000 +0100" stop="20151212043000 +0100">
+    <length units="minutes">20</length>
+    <title>Ainsi va le monde</title>
+    <category>Magazine</category>
+    <desc>Vincent Hervouët livre chaque soir son analyse de l'actualité internationale à travers des reportages, interviews et directs avec des envoyés... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Vincent Hervouët</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212043000 +0100" stop="20151212044000 +0100">
+    <length units="minutes">10</length>
+    <title>LCI soir week-end</title>
+    <category>Magazine</category>
+    <desc>Rebecca Fitoussi et Julien Dommel prennent le relais de l'info de la semaine dès 21h le vendredi soir. Au menu de cette tranche d'actualité du... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Rebecca Fitoussi,</name>
+      <name function="presenter">Julien Dommel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212044000 +0100" stop="20151212051000 +0100">
+    <length units="minutes">30</length>
+    <title>La semaine de Slate</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212051000 +0100" stop="20151212060000 +0100">
+    <length units="minutes">50</length>
+    <title>Vu d'ailleurs</title>
+    <category>Magazine</category>
+    <desc>Christophe Moulin fait chaque semaine le tour de la presse internationale avec l'oeil aiguisé de grands correspondants de la presse... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Christophe Moulin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212060000 +0100" stop="20151212120000 +0100">
+    <length units="minutes">360</length>
+    <title>Journal de la nuit</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212120000 +0100" stop="20151212130000 +0100">
+    <length units="minutes">60</length>
+    <title>Journal de la nuit</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212130000 +0100" stop="20151212160000 +0100">
+    <length units="minutes">180</length>
+    <title>LCI matin week-end</title>
+    <category>Magazine</category>
+    <desc>Analyse et décryptage de l'actualité du jour. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Sylvia Amicone,</name>
+      <name function="presenter">Lucas Zajdela</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212160000 +0100" stop="20151212161000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212161000 +0100" stop="20151212164000 +0100">
+    <length units="minutes">30</length>
+    <title>Le petit JT</title>
+    <category>Journal</category>
+    <desc>Le journal à destination des 10-15 ans. Au sommaire : (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Benjamin Cruard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212164000 +0100" stop="20151212170000 +0100">
+    <length units="minutes">20</length>
+    <title>Le rendez-vous santé</title>
+    <category>Magazine</category>
+    <desc>Petits bobos ou maladies plus sérieuses, le docteur Milhau aborde les thèmes médicaux les plus courants. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Brigitte Milhau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212170000 +0100" stop="20151212171000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212171000 +0100" stop="20151212180000 +0100">
+    <length units="minutes">50</length>
+    <title>Vu d'ailleurs</title>
+    <category>Magazine</category>
+    <desc>Christophe Moulin fait chaque semaine le tour de la presse internationale avec l'oeil aiguisé de grands correspondants de la presse... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Christophe Moulin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212180000 +0100" stop="20151212181000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212181000 +0100" stop="20151212184000 +0100">
+    <length units="minutes">30</length>
+    <title>Bureau politique</title>
+    <category>Magazine</category>
+    <desc>Christophe Jakubyszyn, chef du service politique de TF1 et LCI, s'invite chaque semaine dans le bureau d'une personnalité politique pour évoquer... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Christophe Jakubyszyn</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212184000 +0100" stop="20151212190000 +0100">
     <length units="minutes">20</length>
     <title>Plein écran</title>
     <category>Magazine</category>
@@ -1850,18 +1788,91 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211150000 +0100" stop="20151211161000 +0100">
-    <length units="minutes">70</length>
-    <title>Le 14/17</title>
+  <programme channel="MTV" start="20151212190000 +0100" stop="20151212191000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal</title>
     <category>Journal</category>
-    <desc>Trois heures d'information en direct ponctuées toutes les demi-heures par de grands JT et des magazines. Au menu : un décryptage de l'actualité... (Lire la suite).(n)</desc>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212191000 +0100" stop="20151212194000 +0100">
+    <length units="minutes">30</length>
+    <title>J'achète (ou pas)</title>
+    <category>Magazine</category>
+    <desc>Estelle Denis et son complice Benoît Gallerey partagent les tendances et autres innovations conso. Dans le dossier de la semaine, les produits... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Marianne Kottenhoff,</name>
-      <name function="presenter">Katherine Cooley</name>
+      <name function="presenter">Estelle Denis,</name>
+      <name function="presenter">Benoît Gallerey</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211161000 +0100" stop="20151211170000 +0100">
+  <programme channel="MTV" start="20151212194000 +0100" stop="20151212200000 +0100">
+    <length units="minutes">20</length>
+    <title>Le club de l'économie</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, trois économistes répondent aux questions de François-Xavier Pietri, chef du service Economie de TF1, et de Nicolas Barré,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">François-Xavier Pietri,</name>
+      <name function="presenter">Nicolas Barré</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212200000 +0100" stop="20151212201000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212201000 +0100" stop="20151212204000 +0100">
+    <length units="minutes">30</length>
+    <title>Les coups de coeur des libraires</title>
+    <category>Magazine</category>
+    <desc>Nouveautés de la semaine, meilleures ventes, tendances... loin des débats littéraires classiques, Valérie Expert donne la parole aux libraires... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Valérie Expert,</name>
+      <name function="presenter">Gérard Collard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212204000 +0100" stop="20151212210000 +0100">
+    <length units="minutes">20</length>
+    <title>Le petit JT</title>
+    <category>Journal</category>
+    <desc>Le journal à destination des 10-15 ans. Au sommaire : (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Benjamin Cruard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212210000 +0100" stop="20151212211000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212211000 +0100" stop="20151212220000 +0100">
+    <length units="minutes">50</length>
+    <title>Politiquement show</title>
+    <category>Magazine</category>
+    <desc>En compagnie d'un invité, les journalistes se livrent à un décryptage pointu, original et impertinent de la vie (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Olivier Duhamel,</name>
+      <name function="presenter">Arlette Chabot,</name>
+      <name function="presenter">Alexis Brézet,</name>
+      <name function="presenter">Jérôme Jaffré</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212220000 +0100" stop="20151212221000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212221000 +0100" stop="20151212230000 +0100">
     <length units="minutes">50</length>
     <title>La médiasphère</title>
     <category>Magazine</category>
@@ -1874,149 +1885,138 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211170000 +0100" stop="20151211184000 +0100">
-    <length units="minutes">100</length>
-    <title>Le 17/19</title>
+  <programme channel="MTV" start="20151212230000 +0100" stop="20151212231000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal</title>
     <category>Journal</category>
-    <desc>Deux heures d'actualité présentées par Magali Lunel et Damien Givelet. (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Damien Givelet,</name>
-      <name function="presenter">Magali Lunel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211184000 +0100" stop="20151211190000 +0100">
-    <length units="minutes">20</length>
-    <title>Ainsi va le monde</title>
-    <category>Magazine</category>
-    <desc>Vincent Hervouët livre chaque soir son analyse de l'actualité internationale à travers des reportages, interviews et directs avec des envoyés... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Vincent Hervouët</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211190000 +0100" stop="20151211194000 +0100">
-    <length units="minutes">40</length>
-    <title>La newsroom</title>
-    <category>Magazine</category>
-    <desc>Après un tour de l'actualité, Romain Hussenot prend de la hauteur en donnant la parole aux journalistes de la rédaction et à divers experts pour... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Julien Arnaud</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211194000 +0100" stop="20151211201000 +0100">
-    <length units="minutes">30</length>
-    <title>On ne s'est pas tout dit</title>
-    <category>Magazine</category>
-    <desc>Des journalistes de terrain, de la presse écrite et de la radio, spécialisés dans le sport, la politique, l'actu people reviennent, dans une... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Romain Hussenot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211201000 +0100" stop="20151211203000 +0100">
-    <length units="minutes">20</length>
-    <title>Ainsi va le monde</title>
-    <category>Magazine</category>
-    <desc>Vincent Hervouët livre chaque soir son analyse de l'actualité internationale à travers des reportages, interviews et directs avec des envoyés... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Vincent Hervouët</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211203000 +0100" stop="20151211210000 +0100">
-    <length units="minutes">30</length>
-    <title>On ne s'est pas tout dit</title>
-    <category>Magazine</category>
-    <desc>Des journalistes de terrain, de la presse écrite et de la radio, spécialisés dans le sport, la politique, l'actu people reviennent, dans une... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Romain Hussenot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211210000 +0100" stop="20151211211000 +0100">
-    <length units="minutes">10</length>
-    <title>LCI soir week-end</title>
-    <category>Magazine</category>
-    <desc>Rebecca Fitoussi et Julien Dommel prennent le relais de l'info de la semaine dès 21h le vendredi soir. Au menu de cette tranche d'actualité du... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Rebecca Fitoussi,</name>
-      <name function="presenter">Julien Dommel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211211000 +0100" stop="20151211213000 +0100">
-    <length units="minutes">20</length>
-    <title>La semaine de Slate</title>
-    <category>Magazine</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211213000 +0100" stop="20151211214000 +0100">
-    <length units="minutes">10</length>
-    <title>LCI soir week-end</title>
-    <category>Magazine</category>
-    <desc>Rebecca Fitoussi et Julien Dommel prennent le relais de l'info de la semaine dès 21h le vendredi soir. Au menu de cette tranche d'actualité du... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Rebecca Fitoussi,</name>
-      <name function="presenter">Julien Dommel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211214000 +0100" stop="20151211220000 +0100">
-    <length units="minutes">20</length>
-    <title>Best of culture</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211220000 +0100" stop="20151211221000 +0100">
-    <length units="minutes">10</length>
-    <title>LCI soir week-end</title>
-    <category>Magazine</category>
-    <desc>Rebecca Fitoussi et Julien Dommel prennent le relais de l'info de la semaine dès 21h le vendredi soir. Au menu de cette tranche d'actualité du... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Rebecca Fitoussi,</name>
-      <name function="presenter">Julien Dommel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211221000 +0100" stop="20151211223000 +0100">
-    <length units="minutes">20</length>
-    <title>Ainsi va le monde</title>
-    <category>Magazine</category>
-    <desc>Vincent Hervouët livre chaque soir son analyse de l'actualité internationale à travers des reportages, interviews et directs avec des envoyés... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Vincent Hervouët</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211223000 +0100" stop="20151211224000 +0100">
-    <length units="minutes">10</length>
-    <title>LCI soir week-end</title>
-    <category>Magazine</category>
-    <desc>Rebecca Fitoussi et Julien Dommel prennent le relais de l'info de la semaine dès 21h le vendredi soir. Au menu de cette tranche d'actualité du... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Rebecca Fitoussi,</name>
-      <name function="presenter">Julien Dommel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211224000 +0100" stop="20151211231000 +0100">
+  <programme channel="MTV" start="20151212231000 +0100" stop="20151212234000 +0100">
     <length units="minutes">30</length>
-    <title>La semaine de Slate</title>
+    <title>J'achète (ou pas)</title>
     <category>Magazine</category>
+    <desc>Estelle Denis et son complice Benoît Gallerey partagent les tendances et autres innovations conso. Dans le dossier de la semaine, les produits... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Estelle Denis,</name>
+      <name function="presenter">Benoît Gallerey</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212234000 +0100" stop="20151213000000 +0100">
+    <length units="minutes">20</length>
+    <title>Le club de l'économie</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, trois économistes répondent aux questions de François-Xavier Pietri, chef du service Economie de TF1, et de Nicolas Barré,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">François-Xavier Pietri,</name>
+      <name function="presenter">Nicolas Barré</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213000000 +0100" stop="20151213001000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal</title>
+    <category>Journal</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211231000 +0100" stop="20151212000000 +0100">
+  <programme channel="MTV" start="20151213001000 +0100" stop="20151213010000 +0100">
+    <length units="minutes">50</length>
+    <title>Politiquement show</title>
+    <category>Magazine</category>
+    <desc>En compagnie d'un invité, les journalistes se livrent à un décryptage pointu, original et impertinent de la vie (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Olivier Duhamel,</name>
+      <name function="presenter">Arlette Chabot,</name>
+      <name function="presenter">Alexis Brézet,</name>
+      <name function="presenter">Jérôme Jaffré</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213010000 +0100" stop="20151213011000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213011000 +0100" stop="20151213013000 +0100">
+    <length units="minutes">20</length>
+    <title>Plein écran</title>
+    <category>Magazine</category>
+    <desc>Cédric Ingrand parcourt la planète à la recherche de start-ups, d'objets ou de nouveaux usages technologiques qui changeront le... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Cédric Ingrand</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213013000 +0100" stop="20151213020000 +0100">
+    <length units="minutes">30</length>
+    <title>Grand journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213020000 +0100" stop="20151213021000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213021000 +0100" stop="20151213030000 +0100">
     <length units="minutes">50</length>
     <title>Vu d'ailleurs</title>
     <category>Magazine</category>
     <desc>Christophe Moulin fait chaque semaine le tour de la presse internationale avec l'oeil aiguisé de grands correspondants de la presse... (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Christophe Moulin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213030000 +0100" stop="20151213031000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213031000 +0100" stop="20151213040000 +0100">
+    <length units="minutes">50</length>
+    <title>La médiasphère</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, ceux qui font les médias se succèdent sur le plateau de Julien Arnaud pour décrypter les coulisses et dévoiler les secrets de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Thomas Joubert,</name>
+      <name function="presenter">Julien Arnaud,</name>
+      <name function="presenter">Pierre Langlais,</name>
+      <name function="presenter">Linda Bouras</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213040000 +0100" stop="20151213041000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213041000 +0100" stop="20151213043000 +0100">
+    <length units="minutes">20</length>
+    <title>Best of culture</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213043000 +0100" stop="20151213060000 +0100">
+    <length units="minutes">90</length>
+    <title>LCI soir week-end</title>
+    <category>Magazine</category>
+    <desc>Rebecca Fitoussi et Julien Dommel prennent le relais de l'info pour le week-end. Ils proposent un éclairage sur les événements qui ont fait les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Rebecca Fitoussi,</name>
+      <name function="presenter">Julien Dommel</name>
     </credits>
     <image />
   </programme>

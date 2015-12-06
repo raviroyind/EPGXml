@@ -1,261 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Ciné+ Club">
-    <display-name>test</display-name>
+    <display-name>MTV</display-name>
   </channel>
-  <programme channel="test" start="20151205014000 +0100" stop="20151205032500 +0100">
-    <length units="minutes">105</length>
-    <title>La vallée (?)</title>
-    <category>Film</category>
-    <desc>Viviane, la femme du consul de France à... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Barbet Schroeder</name>
-      <name function="actor">Jean-Pierre Kalfon</name>
-      <name function="actor">Valérie Lagrange</name>
-      <name function="actor">Bulle Ogier</name>
-      <name function="actor">Michael Gothard</name>
-      <name function="actor">Jérôme Beauvarlet</name>
-      <name function="actor">Monique Giraudy</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205032500 +0100" stop="20151205044000 +0100">
-    <length units="minutes">75</length>
-    <title>Le retour de Marilyn</title>
-    <category>Téléfilm</category>
-    <desc>Ruinés, Donald et Alice sont contraints d'accepter le marché que leur propose un certain Richard : 50 000 dollars contre une nuit avec Alice.... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Michel Leblanc</name>
-      <name function="actor">Gabriel Pontello</name>
-      <name function="actor">Olinka Hardiman</name>
-      <name function="actor">Christoph Clark</name>
-      <name function="actor">Jean-Pierre Armand</name>
-      <name function="actor">Gérard Grégory</name>
-      <name function="actor">Mina Houghe</name>
-      <name function="actor">Marilyn Jess</name>
-      <name function="actor">André Kay</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205044000 +0100" stop="20151205062000 +0100">
-    <length units="minutes">100</length>
-    <title>Salvador Allende (?)</title>
-    <category>Film</category>
-    <desc>Effectuant un patient travail de croisement... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Patricio Guzmán</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205062000 +0100" stop="20151205065000 +0100">
-    <length units="minutes">30</length>
-    <title>Fin des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205065000 +0100" stop="20151205082500 +0100">
-    <length units="minutes">95</length>
-    <title>Mange tes morts (?)</title>
-    <category>Film</category>
-    <desc>Jason Dorkel a 18 ans et fait partie des gens... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Jean-Charles Hue</name>
-      <name function="actor">Michaël Dauber</name>
-      <name function="actor">Moïse Dorkel</name>
-      <name function="actor">Violette Dorkel</name>
-      <name function="actor">Jason François</name>
-      <name function="actor">Frédéric Dorkel</name>
-      <name function="actor">Max Horne</name>
-      <name function="actor">Philippe Martin</name>
-      <name function="actor">Sagamore Stévenin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205082500 +0100" stop="20151205100000 +0100">
-    <length units="minutes">95</length>
-    <title>Wadjda (?)</title>
-    <category>Film</category>
-    <desc>Wadjda a 10 ans et un caractère bien trempé.... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Haifaa Al-Mansour</name>
-      <name function="actor">Reem Abdullah</name>
-      <name function="actor">Waad Mohammed</name>
-      <name function="actor">Dana Abdullilah</name>
-      <name function="actor">Rehab Ahmed</name>
-      <name function="actor">Ahd</name>
-      <name function="actor">Rafa Al Sanea</name>
-      <name function="actor">Abdullrahman Al Gohani</name>
-      <name function="actor">Sara Aljaber</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205100000 +0100" stop="20151205121000 +0100">
-    <length units="minutes">130</length>
-    <title>Les bruits de Récife (?)</title>
-    <category>Film</category>
-    <desc>A Recife, sur la côte brésilienne, les... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Kleber Mendonça Filho</name>
-      <name function="actor">Maeve Jinkings</name>
-      <name function="actor">Gustavo Jahn</name>
-      <name function="actor">Irma Brown</name>
-      <name function="actor">Waldemar José Solha</name>
-      <name function="actor">Lula Terra</name>
-      <name function="actor">Yuri Holanda</name>
-      <name function="actor">Clébia Souza</name>
-      <name function="actor">Irandhir Santos</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205121000 +0100" stop="20151205135000 +0100">
-    <length units="minutes">100</length>
-    <title>Les nuits de la pleine lune (?)</title>
-    <category>Film</category>
-    <desc>Louise, stagiaire dans une agence de décoration, (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Eric Rohmer</name>
-      <name function="actor">Pascale Ogier</name>
-      <name function="actor">Christian Vadim</name>
-      <name function="actor">Virginie Thévenet</name>
-      <name function="actor">Lisa Garneri</name>
-      <name function="actor">Anne-Séverine Liotard</name>
-      <name function="actor">Fabrice Luchini</name>
-      <name function="actor">László Szabó</name>
-      <name function="actor">Tchéky Karyo</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205135000 +0100" stop="20151205154500 +0100">
-    <length units="minutes">115</length>
-    <title>Michael Kohlhaas (?)</title>
-    <category>Film</category>
-    <desc>Les Cévennes, au XVIe siècle. Alors qu'il... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Arnaud des Pallières</name>
-      <name function="actor">Bruno Ganz</name>
-      <name function="actor">David Bennent</name>
-      <name function="actor">Delphine Chuillot</name>
-      <name function="actor">David Kross</name>
-      <name function="actor">Mélusine Mayance</name>
-      <name function="actor">Roxane Duran</name>
-      <name function="actor">Paul Bartel</name>
-      <name function="actor">Mads Mikkelsen</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205154500 +0100" stop="20151205173500 +0100">
-    <length units="minutes">110</length>
-    <title>Charlie's Country (?)</title>
-    <category>Film</category>
-    <desc>Blackfella Charlie, un ancien guerrier... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Rolf de Heer</name>
-      <name function="actor">David Gulpilil</name>
-      <name function="actor">Paul Blackwell</name>
-      <name function="actor">Ritchie Singer</name>
-      <name function="actor">Luke Ford</name>
-      <name function="actor">Peter Djigirr</name>
-      <name function="actor">Peter Minygululu</name>
-      <name function="actor">Jennifer Budukpuduk Gaykamangu</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205173500 +0100" stop="20151205193500 +0100">
-    <length units="minutes">120</length>
-    <title>L'esquive (?)</title>
-    <category>Film</category>
-    <desc>A 15 ans, Abdelkrim, dit Krimo, vit dans une... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Abdellatif Kechiche</name>
-      <name function="actor">Osman Elkharraz</name>
-      <name function="actor">Sara Forestier</name>
-      <name function="actor">Sabrina Ouazani</name>
-      <name function="actor">Nanou Benhamou</name>
-      <name function="actor">Hafet Ben-Ahmed</name>
-      <name function="actor">Aurélie Ganito</name>
-      <name function="actor">Hajar Hamlili</name>
-      <name function="actor">Carole Franck</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205193500 +0100" stop="20151205202000 +0100">
-    <length units="minutes">45</length>
-    <title>Cucumber</title>
-    <category>Série</category>
-    <desc>A quoi a ressemblé la vie de Lance depuis son enfance ? Chaque étape de son existence, à 11 comme à 18 ans, a eu une incidence sur son présent.... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Alice Troughton</name>
-      <name function="actor">Cyril Nri</name>
-      <name function="actor">James Murray</name>
-      <name function="actor">Julie Hesmondhalgh</name>
-      <name function="actor">Vincent Franklin</name>
-      <name function="actor">Jude Akuwudike</name>
-      <name function="actor">Emmanuella Cole</name>
-      <name function="actor">Jordan Adene</name>
-      <name function="actor">Isaac Ssebandeke</name>
-      <name function="writer">Russell T Davies</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205202000 +0100" stop="20151205204500 +0100">
-    <length units="minutes">25</length>
-    <title>Banana</title>
-    <category>Série</category>
-    <desc>Lord d'un «blind date», Amy, une jeune femme mal dans sa peau, rencontre Kay, une sympathique policière qui va l'aider à surmonter ses... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Al Mackay</name>
-      <name function="actor">James Foster</name>
-      <name function="actor">Charlie Covell</name>
-      <name function="actor">Sid Akbar Ali</name>
-      <name function="actor">T'Nia Miller</name>
-      <name function="actor">Paul Sockett</name>
-      <name function="actor">Jason Thomas Brown</name>
-      <name function="writer">Charlie Covell</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205204500 +0100" stop="20151205224000 +0100">
-    <length units="minutes">115</length>
-    <title>Les démons de Jésus (?)</title>
-    <category>Film</category>
-    <desc>A la veille de mai 68, Jo Jacob, un ancien... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Bernie Bonvoisin</name>
-      <name function="actor">Martin Lamotte</name>
-      <name function="actor">Victor Lanoux</name>
-      <name function="actor">Patrick Bouchitey</name>
-      <name function="actor">Fabienne Babe</name>
-      <name function="actor">Jean-Louis Tribes</name>
-      <name function="actor">Nadia Farès</name>
-      <name function="actor">Thierry Frémont</name>
-      <name function="actor">José Garcia</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205224000 +0100" stop="20151206002000 +0100">
-    <length units="minutes">100</length>
-    <title>L'empire des sens (?)</title>
-    <category>Film</category>
-    <desc>Tokyo, 1936. Kichizo, propriétaire d'une... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Nagisa Oshima</name>
-      <name function="actor">Tatsuya Fuji</name>
-      <name function="actor">Eiko Matsuda</name>
-      <name function="actor">Aoi Nakajima</name>
-      <name function="actor">Taiji Tonoyama</name>
-      <name function="actor">Kanae Kobayashi</name>
-      <name function="actor">Meika Seri</name>
-      <name function="actor">Yasuko Matsui</name>
-      <name function="actor">Kyôji Kokonoe</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206002000 +0100" stop="20151206022500 +0100">
+  <programme channel="MTV" start="20151206062000 +0100" stop="20151206082500 +0100">
     <length units="minutes">125</length>
     <title>Le journal érotique d'un bûcheron (?)</title>
     <category>Film</category>
-    <desc>Sur le point de recevoir le prix Nobel, le... (Lire la suite).(r)</desc>
+    <desc>Sur le point de recevoir le prix Nobel, le... (Lire la suite).</desc>
     <credits>
       <name function="director">Jean-Marie Pallardy</name>
       <name function="actor">Willeke Van Ammelrooy</name>
@@ -269,11 +21,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206022500 +0100" stop="20151206042000 +0100">
+  <programme channel="MTV" start="20151206082500 +0100" stop="20151206102000 +0100">
     <length units="minutes">115</length>
     <title>Une vie simple (?)</title>
     <category>Film</category>
-    <desc>Ah Tao s'est silencieusement usé au service... (Lire la suite).(r)</desc>
+    <desc>Ah Tao s'est silencieusement usé au service... (Lire la suite).</desc>
     <credits>
       <name function="director">Ann Hui</name>
       <name function="actor">Andy Lau</name>
@@ -287,11 +39,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206042000 +0100" stop="20151206055500 +0100">
+  <programme channel="MTV" start="20151206102000 +0100" stop="20151206115500 +0100">
     <length units="minutes">95</length>
     <title>Camouflage (?)</title>
     <category>Film</category>
-    <desc>Un groupe d'étudiants en linguistique prend... (Lire la suite).(r)</desc>
+    <desc>Un groupe d'étudiants en linguistique prend... (Lire la suite).</desc>
     <credits>
       <name function="director">Krzysztof Zanussi</name>
       <name function="actor">Mariusz Dmochowski</name>
@@ -305,14 +57,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206055500 +0100" stop="20151206061500 +0100">
+  <programme channel="MTV" start="20151206115500 +0100" stop="20151206121500 +0100">
     <length units="minutes">20</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206061500 +0100" stop="20151206080500 +0100">
+  <programme channel="MTV" start="20151206121500 +0100" stop="20151206140500 +0100">
     <length units="minutes">110</length>
     <title>Allonsanfan (?)</title>
     <category>Film</category>
@@ -331,7 +83,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206080500 +0100" stop="20151206093000 +0100">
+  <programme channel="MTV" start="20151206140500 +0100" stop="20151206153000 +0100">
     <length units="minutes">85</length>
     <title>Frances Ha (?)</title>
     <category>Film</category>
@@ -349,7 +101,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206093000 +0100" stop="20151206110000 +0100">
+  <programme channel="MTV" start="20151206153000 +0100" stop="20151206170000 +0100">
     <length units="minutes">90</length>
     <title>Jeune &amp; jolie (?)</title>
     <category>Film</category>
@@ -367,7 +119,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206110000 +0100" stop="20151206125500 +0100">
+  <programme channel="MTV" start="20151206170000 +0100" stop="20151206185500 +0100">
     <length units="minutes">115</length>
     <title>Let's Get Lost (?)</title>
     <category>Film</category>
@@ -377,7 +129,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206125500 +0100" stop="20151206132000 +0100">
+  <programme channel="MTV" start="20151206185500 +0100" stop="20151206192000 +0100">
     <length units="minutes">25</length>
     <title>Viva cinéma</title>
     <category>Magazine</category>
@@ -387,7 +139,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206132000 +0100" stop="20151206140500 +0100">
+  <programme channel="MTV" start="20151206192000 +0100" stop="20151206200500 +0100">
     <length units="minutes">45</length>
     <title>Cucumber</title>
     <category>Série</category>
@@ -406,7 +158,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206140500 +0100" stop="20151206142500 +0100">
+  <programme channel="MTV" start="20151206200500 +0100" stop="20151206202500 +0100">
     <length units="minutes">20</length>
     <title>Banana</title>
     <category>Série</category>
@@ -423,7 +175,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206142500 +0100" stop="20151206153000 +0100">
+  <programme channel="MTV" start="20151206202500 +0100" stop="20151206213000 +0100">
     <length units="minutes">65</length>
     <title>Cinéma, de notre temps</title>
     <category>Documentaire</category>
@@ -433,7 +185,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206153000 +0100" stop="20151206162000 +0100">
+  <programme channel="MTV" start="20151206213000 +0100" stop="20151206222000 +0100">
     <length units="minutes">50</length>
     <title>Paul Verhoeven, un corps au travail</title>
     <category>Documentaire</category>
@@ -443,7 +195,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206162000 +0100" stop="20151206171500 +0100">
+  <programme channel="MTV" start="20151206222000 +0100" stop="20151206231500 +0100">
     <length units="minutes">55</length>
     <title>Profession affichiste : signé Landi</title>
     <category>Documentaire</category>
@@ -453,7 +205,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206171500 +0100" stop="20151206180500 +0100">
+  <programme channel="MTV" start="20151206231500 +0100" stop="20151207000500 +0100">
     <length units="minutes">50</length>
     <title>Cinémas d'horreur</title>
     <category>Documentaire</category>
@@ -463,7 +215,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206180500 +0100" stop="20151206195500 +0100">
+  <programme channel="MTV" start="20151207000500 +0100" stop="20151207015500 +0100">
     <length units="minutes">110</length>
     <title>Adieu Bonaparte (?)</title>
     <category>Film</category>
@@ -481,7 +233,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206195500 +0100" stop="20151206204500 +0100">
+  <programme channel="MTV" start="20151207015500 +0100" stop="20151207024500 +0100">
     <length units="minutes">50</length>
     <title>Le dernier film de Jess Franco</title>
     <category>Documentaire</category>
@@ -491,7 +243,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206204500 +0100" stop="20151206224500 +0100">
+  <programme channel="MTV" start="20151207024500 +0100" stop="20151207044500 +0100">
     <length units="minutes">120</length>
     <title>Trois enterrements (?)</title>
     <category>Film</category>
@@ -509,7 +261,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206224500 +0100" stop="20151207004500 +0100">
+  <programme channel="MTV" start="20151207044500 +0100" stop="20151207064500 +0100">
     <length units="minutes">120</length>
     <title>Mon âme par toi guérie (?)</title>
     <category>Film</category>
@@ -527,7 +279,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207004500 +0100" stop="20151207022000 +0100">
+  <programme channel="MTV" start="20151207064500 +0100" stop="20151207082000 +0100">
     <length units="minutes">95</length>
     <title>Mange tes morts (?)</title>
     <category>Film</category>
@@ -545,7 +297,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207022000 +0100" stop="20151207035500 +0100">
+  <programme channel="MTV" start="20151207082000 +0100" stop="20151207095500 +0100">
     <length units="minutes">95</length>
     <title>Créatures célestes (?)</title>
     <category>Film</category>
@@ -563,7 +315,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207035500 +0100" stop="20151207051500 +0100">
+  <programme channel="MTV" start="20151207095500 +0100" stop="20151207111500 +0100">
     <length units="minutes">80</length>
     <title>Polyester (?)</title>
     <category>Film</category>
@@ -581,14 +333,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207051500 +0100" stop="20151207064000 +0100">
+  <programme channel="MTV" start="20151207111500 +0100" stop="20151207124000 +0100">
     <length units="minutes">85</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207064000 +0100" stop="20151207083000 +0100">
+  <programme channel="MTV" start="20151207124000 +0100" stop="20151207143000 +0100">
     <length units="minutes">110</length>
     <title>Le vertige des possibles (?)</title>
     <category>Film</category>
@@ -606,7 +358,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207083000 +0100" stop="20151207103000 +0100">
+  <programme channel="MTV" start="20151207143000 +0100" stop="20151207163000 +0100">
     <length units="minutes">120</length>
     <title>Michael Kohlhaas (?)</title>
     <category>Film</category>
@@ -624,7 +376,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207103000 +0100" stop="20151207122500 +0100">
+  <programme channel="MTV" start="20151207163000 +0100" stop="20151207182500 +0100">
     <length units="minutes">115</length>
     <title>Trois enterrements (?)</title>
     <category>Film</category>
@@ -642,7 +394,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207122500 +0100" stop="20151207133000 +0100">
+  <programme channel="MTV" start="20151207182500 +0100" stop="20151207193000 +0100">
     <length units="minutes">65</length>
     <title>This is Comedy</title>
     <category>Documentaire</category>
@@ -652,7 +404,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207133000 +0100" stop="20151207151000 +0100">
+  <programme channel="MTV" start="20151207193000 +0100" stop="20151207211000 +0100">
     <length units="minutes">100</length>
     <title>Un château en Italie (?)</title>
     <category>Film</category>
@@ -670,7 +422,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207151000 +0100" stop="20151207165000 +0100">
+  <programme channel="MTV" start="20151207211000 +0100" stop="20151207225000 +0100">
     <length units="minutes">100</length>
     <title>Les années sandwiches (?)</title>
     <category>Film</category>
@@ -688,7 +440,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207165000 +0100" stop="20151207185500 +0100">
+  <programme channel="MTV" start="20151207225000 +0100" stop="20151208005500 +0100">
     <length units="minutes">125</length>
     <title>Les bruits de Récife (?)</title>
     <category>Film</category>
@@ -706,7 +458,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207185500 +0100" stop="20151207204500 +0100">
+  <programme channel="MTV" start="20151208005500 +0100" stop="20151208024500 +0100">
     <length units="minutes">110</length>
     <title>Hope and Glory (?)</title>
     <category>Film</category>
@@ -724,7 +476,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207204500 +0100" stop="20151207220500 +0100">
+  <programme channel="MTV" start="20151208024500 +0100" stop="20151208040500 +0100">
     <length units="minutes">80</length>
     <title>9 mois ferme (?)</title>
     <category>Film</category>
@@ -742,7 +494,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207220500 +0100" stop="20151207232500 +0100">
+  <programme channel="MTV" start="20151208040500 +0100" stop="20151208052500 +0100">
     <length units="minutes">80</length>
     <title>Wrong Cops (?)</title>
     <category>Film</category>
@@ -760,7 +512,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207232500 +0100" stop="20151208003500 +0100">
+  <programme channel="MTV" start="20151208052500 +0100" stop="20151208063500 +0100">
     <length units="minutes">70</length>
     <title>Les contes de Grimm pour grandes personnes (?)</title>
     <category>Film</category>
@@ -778,7 +530,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208003500 +0100" stop="20151208025000 +0100">
+  <programme channel="MTV" start="20151208063500 +0100" stop="20151208085000 +0100">
     <length units="minutes">135</length>
     <title>Les chiens errants (?)</title>
     <category>Film</category>
@@ -793,7 +545,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208025000 +0100" stop="20151208043500 +0100">
+  <programme channel="MTV" start="20151208085000 +0100" stop="20151208103500 +0100">
     <length units="minutes">105</length>
     <title>Allonsanfan (?)</title>
     <category>Film</category>
@@ -812,7 +564,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208043500 +0100" stop="20151208060500 +0100">
+  <programme channel="MTV" start="20151208103500 +0100" stop="20151208120500 +0100">
     <length units="minutes">90</length>
     <title>Hairspray (?)</title>
     <category>Film</category>
@@ -830,14 +582,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208060500 +0100" stop="20151208065000 +0100">
+  <programme channel="MTV" start="20151208120500 +0100" stop="20151208125000 +0100">
     <length units="minutes">45</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208065000 +0100" stop="20151208083000 +0100">
+  <programme channel="MTV" start="20151208125000 +0100" stop="20151208143000 +0100">
     <length units="minutes">100</length>
     <title>Camouflage (?)</title>
     <category>Film</category>
@@ -855,7 +607,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208083000 +0100" stop="20151208100500 +0100">
+  <programme channel="MTV" start="20151208143000 +0100" stop="20151208160500 +0100">
     <length units="minutes">95</length>
     <title>Away We Go (?)</title>
     <category>Film</category>
@@ -873,7 +625,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208100500 +0100" stop="20151208115500 +0100">
+  <programme channel="MTV" start="20151208160500 +0100" stop="20151208175500 +0100">
     <length units="minutes">110</length>
     <title>Adieu Bonaparte (?)</title>
     <category>Film</category>
@@ -891,7 +643,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208115500 +0100" stop="20151208120500 +0100">
+  <programme channel="MTV" start="20151208175500 +0100" stop="20151208180500 +0100">
     <length units="minutes">10</length>
     <title>Suzanne (?)</title>
     <category>Film</category>
@@ -906,7 +658,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208120500 +0100" stop="20151208133000 +0100">
+  <programme channel="MTV" start="20151208180500 +0100" stop="20151208193000 +0100">
     <length units="minutes">85</length>
     <title>Polyester (?)</title>
     <category>Film</category>
@@ -924,7 +676,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208133000 +0100" stop="20151208160500 +0100">
+  <programme channel="MTV" start="20151208193000 +0100" stop="20151208220500 +0100">
     <length units="minutes">155</length>
     <title>There Will Be Blood (?)</title>
     <category>Film</category>
@@ -942,7 +694,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208160500 +0100" stop="20151208180000 +0100">
+  <programme channel="MTV" start="20151208220500 +0100" stop="20151209000000 +0100">
     <length units="minutes">115</length>
     <title>Les démons de Jésus (?)</title>
     <category>Film</category>
@@ -960,7 +712,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208180000 +0100" stop="20151208182500 +0100">
+  <programme channel="MTV" start="20151209000000 +0100" stop="20151209002500 +0100">
     <length units="minutes">25</length>
     <title>Le temps des lucioles (?)</title>
     <category>Film</category>
@@ -970,7 +722,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208182500 +0100" stop="20151208203000 +0100">
+  <programme channel="MTV" start="20151209002500 +0100" stop="20151209023000 +0100">
     <length units="minutes">125</length>
     <title>La grande bouffe (?)</title>
     <category>Film</category>
@@ -988,7 +740,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208203000 +0100" stop="20151208204500 +0100">
+  <programme channel="MTV" start="20151209023000 +0100" stop="20151209024500 +0100">
     <length units="minutes">15</length>
     <title>Illusion (?)</title>
     <category>Film</category>
@@ -1002,7 +754,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208204500 +0100" stop="20151208233500 +0100">
+  <programme channel="MTV" start="20151209024500 +0100" stop="20151209053500 +0100">
     <length units="minutes">170</length>
     <title>Casino (?)</title>
     <category>Film</category>
@@ -1020,7 +772,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208233500 +0100" stop="20151209013000 +0100">
+  <programme channel="MTV" start="20151209053500 +0100" stop="20151209073000 +0100">
     <length units="minutes">115</length>
     <title>Still Walking (?)</title>
     <category>Film</category>
@@ -1038,7 +790,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209013000 +0100" stop="20151209021500 +0100">
+  <programme channel="MTV" start="20151209073000 +0100" stop="20151209081500 +0100">
     <length units="minutes">45</length>
     <title>Cucumber</title>
     <category>Série</category>
@@ -1057,7 +809,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209021500 +0100" stop="20151209024000 +0100">
+  <programme channel="MTV" start="20151209081500 +0100" stop="20151209084000 +0100">
     <length units="minutes">25</length>
     <title>Banana</title>
     <category>Série</category>
@@ -1074,7 +826,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209024000 +0100" stop="20151209042000 +0100">
+  <programme channel="MTV" start="20151209084000 +0100" stop="20151209102000 +0100">
     <length units="minutes">100</length>
     <title>L'empire des sens (?)</title>
     <category>Film</category>
@@ -1092,7 +844,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209042000 +0100" stop="20151209055500 +0100">
+  <programme channel="MTV" start="20151209102000 +0100" stop="20151209115500 +0100">
     <length units="minutes">95</length>
     <title>Vincent Dieutre, la chambre et le monde</title>
     <category>Documentaire</category>
@@ -1102,7 +854,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209055500 +0100" stop="20151209064000 +0100">
+  <programme channel="MTV" start="20151209115500 +0100" stop="20151209124000 +0100">
     <length units="minutes">45</length>
     <title>Tous cinéma</title>
     <category>Magazine</category>
@@ -1112,7 +864,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209064000 +0100" stop="20151209083000 +0100">
+  <programme channel="MTV" start="20151209124000 +0100" stop="20151209143000 +0100">
     <length units="minutes">110</length>
     <title>Hope and Glory (?)</title>
     <category>Film</category>
@@ -1130,7 +882,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209083000 +0100" stop="20151209102000 +0100">
+  <programme channel="MTV" start="20151209143000 +0100" stop="20151209162000 +0100">
     <length units="minutes">110</length>
     <title>Still Walking (?)</title>
     <category>Film</category>
@@ -1148,7 +900,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209102000 +0100" stop="20151209122000 +0100">
+  <programme channel="MTV" start="20151209162000 +0100" stop="20151209182000 +0100">
     <length units="minutes">120</length>
     <title>Une vie simple (?)</title>
     <category>Film</category>
@@ -1166,7 +918,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209122000 +0100" stop="20151209133000 +0100">
+  <programme channel="MTV" start="20151209182000 +0100" stop="20151209193000 +0100">
     <length units="minutes">70</length>
     <title>Mémoire cubaine</title>
     <category>Documentaire</category>
@@ -1176,7 +928,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209133000 +0100" stop="20151209153000 +0100">
+  <programme channel="MTV" start="20151209193000 +0100" stop="20151209213000 +0100">
     <length units="minutes">120</length>
     <title>Trois enterrements (?)</title>
     <category>Film</category>
@@ -1194,7 +946,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209153000 +0100" stop="20151209170000 +0100">
+  <programme channel="MTV" start="20151209213000 +0100" stop="20151209230000 +0100">
     <length units="minutes">90</length>
     <title>Grand Central (?)</title>
     <category>Film</category>
@@ -1212,7 +964,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209170000 +0100" stop="20151209190000 +0100">
+  <programme channel="MTV" start="20151209230000 +0100" stop="20151210010000 +0100">
     <length units="minutes">120</length>
     <title>Let's Get Lost (?)</title>
     <category>Film</category>
@@ -1222,7 +974,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209190000 +0100" stop="20151209204500 +0100">
+  <programme channel="MTV" start="20151210010000 +0100" stop="20151210024500 +0100">
     <length units="minutes">105</length>
     <title>Moonwalk One (?)</title>
     <category>Film</category>
@@ -1232,7 +984,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209204500 +0100" stop="20151209213500 +0100">
+  <programme channel="MTV" start="20151210024500 +0100" stop="20151210033500 +0100">
     <length units="minutes">50</length>
     <title>Cucumber</title>
     <category>Série</category>
@@ -1251,7 +1003,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209213500 +0100" stop="20151209220000 +0100">
+  <programme channel="MTV" start="20151210033500 +0100" stop="20151210040000 +0100">
     <length units="minutes">25</length>
     <title>Banana</title>
     <category>Série</category>
@@ -1270,7 +1022,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209220000 +0100" stop="20151209233000 +0100">
+  <programme channel="MTV" start="20151210040000 +0100" stop="20151210053000 +0100">
     <length units="minutes">90</length>
     <title>Jeune &amp; jolie (?)</title>
     <category>Film</category>
@@ -1288,7 +1040,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209233000 +0100" stop="20151210010000 +0100">
+  <programme channel="MTV" start="20151210053000 +0100" stop="20151210070000 +0100">
     <length units="minutes">90</length>
     <title>Trainspotting (?)</title>
     <category>Film</category>
@@ -1306,7 +1058,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210010000 +0100" stop="20151210021500 +0100">
+  <programme channel="MTV" start="20151210070000 +0100" stop="20151210081500 +0100">
     <length units="minutes">75</length>
     <title>Le retour de Marilyn</title>
     <category>Téléfilm</category>
@@ -1324,7 +1076,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210021500 +0100" stop="20151210040000 +0100">
+  <programme channel="MTV" start="20151210081500 +0100" stop="20151210100000 +0100">
     <length units="minutes">105</length>
     <title>La vallée (?)</title>
     <category>Film</category>
@@ -1340,7 +1092,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210040000 +0100" stop="20151210054500 +0100">
+  <programme channel="MTV" start="20151210100000 +0100" stop="20151210114500 +0100">
     <length units="minutes">105</length>
     <title>La cinquième saison (?)</title>
     <category>Film</category>
@@ -1359,7 +1111,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210054500 +0100" stop="20151210071500 +0100">
+  <programme channel="MTV" start="20151210114500 +0100" stop="20151210131500 +0100">
     <length units="minutes">90</length>
     <title>Vincent Dieutre, la chambre et le monde</title>
     <category>Documentaire</category>
@@ -1369,7 +1121,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210071500 +0100" stop="20151210080500 +0100">
+  <programme channel="MTV" start="20151210131500 +0100" stop="20151210140500 +0100">
     <length units="minutes">50</length>
     <title>Cucumber</title>
     <category>Série</category>
@@ -1388,7 +1140,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210080500 +0100" stop="20151210083000 +0100">
+  <programme channel="MTV" start="20151210140500 +0100" stop="20151210143000 +0100">
     <length units="minutes">25</length>
     <title>Banana</title>
     <category>Série</category>
@@ -1407,7 +1159,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210083000 +0100" stop="20151210110500 +0100">
+  <programme channel="MTV" start="20151210143000 +0100" stop="20151210170500 +0100">
     <length units="minutes">155</length>
     <title>There Will Be Blood (?)</title>
     <category>Film</category>
@@ -1425,7 +1177,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210110500 +0100" stop="20151210131500 +0100">
+  <programme channel="MTV" start="20151210170500 +0100" stop="20151210191500 +0100">
     <length units="minutes">130</length>
     <title>Les chiens errants (?)</title>
     <category>Film</category>
@@ -1440,7 +1192,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210131500 +0100" stop="20151210133000 +0100">
+  <programme channel="MTV" start="20151210191500 +0100" stop="20151210193000 +0100">
     <length units="minutes">15</length>
     <title>La mystérieuse disparition de Robert Ebb (?)</title>
     <category>Film</category>
@@ -1456,7 +1208,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210133000 +0100" stop="20151210145000 +0100">
+  <programme channel="MTV" start="20151210193000 +0100" stop="20151210205000 +0100">
     <length units="minutes">80</length>
     <title>9 mois ferme (?)</title>
     <category>Film</category>
@@ -1474,7 +1226,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210145000 +0100" stop="20151210162000 +0100">
+  <programme channel="MTV" start="20151210205000 +0100" stop="20151210222000 +0100">
     <length units="minutes">90</length>
     <title>Lulu, femme nue (?)</title>
     <category>Film</category>
@@ -1492,7 +1244,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210162000 +0100" stop="20151210173500 +0100">
+  <programme channel="MTV" start="20151210222000 +0100" stop="20151210233500 +0100">
     <length units="minutes">75</length>
     <title>Gerontophilia (?)</title>
     <category>Film</category>
@@ -1510,7 +1262,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210173500 +0100" stop="20151210190000 +0100">
+  <programme channel="MTV" start="20151210233500 +0100" stop="20151211010000 +0100">
     <length units="minutes">85</length>
     <title>Wrong Cops (?)</title>
     <category>Film</category>
@@ -1528,7 +1280,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210190000 +0100" stop="20151210202500 +0100">
+  <programme channel="MTV" start="20151211010000 +0100" stop="20151211022500 +0100">
     <length units="minutes">85</length>
     <title>Pecker (?)</title>
     <category>Film</category>
@@ -1546,14 +1298,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210202500 +0100" stop="20151210204500 +0100">
+  <programme channel="MTV" start="20151211022500 +0100" stop="20151211024500 +0100">
     <length units="minutes">20</length>
     <title>Viva cinéma</title>
     <category>Magazine</category>
     <desc>Episode 12 Ce magazine propose chaque semaine de faire... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210204500 +0100" stop="20151210221500 +0100">
+  <programme channel="MTV" start="20151211024500 +0100" stop="20151211041500 +0100">
     <length units="minutes">90</length>
     <title>Suzanne (?)</title>
     <category>Film</category>
@@ -1571,7 +1323,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210221500 +0100" stop="20151210234500 +0100">
+  <programme channel="MTV" start="20151211041500 +0100" stop="20151211054500 +0100">
     <length units="minutes">90</length>
     <title>Une femme fidèle (?)</title>
     <category>Film</category>
@@ -1589,7 +1341,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210234500 +0100" stop="20151211012000 +0100">
+  <programme channel="MTV" start="20151211054500 +0100" stop="20151211072000 +0100">
     <length units="minutes">95</length>
     <title>Grand Central (?)</title>
     <category>Film</category>
@@ -1607,11 +1359,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211012000 +0100" stop="20151211031500 +0100">
+  <programme channel="MTV" start="20151211072000 +0100" stop="20151211091500 +0100">
     <length units="minutes">115</length>
     <title>Michael Kohlhaas (?)</title>
     <category>Film</category>
-    <desc>Les Cévennes, au XVIe siècle. Alors qu'il... (Lire la suite).(n)</desc>
+    <desc>Les Cévennes, au XVIe siècle. Alors qu'il... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Arnaud des Pallières</name>
       <name function="actor">Bruno Ganz</name>
@@ -1625,11 +1377,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211031500 +0100" stop="20151211045500 +0100">
+  <programme channel="MTV" start="20151211091500 +0100" stop="20151211105500 +0100">
     <length units="minutes">100</length>
     <title>Les années sandwiches (?)</title>
     <category>Film</category>
-    <desc>A Paris, en juillet 1947. Victor et Félix ont... (Lire la suite).(n)</desc>
+    <desc>A Paris, en juillet 1947. Victor et Félix ont... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Pierre Boutron</name>
       <name function="actor">Thomas Langmann</name>
@@ -1643,24 +1395,344 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211045500 +0100" stop="20151211054500 +0100">
+  <programme channel="MTV" start="20151211105500 +0100" stop="20151211114500 +0100">
     <length units="minutes">50</length>
     <title>Fin des programmes</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211054500 +0100" stop="20151211063500 +0100">
+  <programme channel="MTV" start="20151211114500 +0100" stop="20151211123500 +0100">
     <length units="minutes">50</length>
     <title>Le dernier film de Jess Franco</title>
     <category>Documentaire</category>
-    <desc>Des acteurs, des réalisateurs et des amis... (Lire la suite).(n)</desc>
+    <desc>Des acteurs, des réalisateurs et des amis... (Lire la suite).</desc>
     <credits>
       <name function="director">Daniel Lesoeur</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211063500 +0100" stop="20151211083000 +0100">
+  <programme channel="MTV" start="20151211123500 +0100" stop="20151211143000 +0100">
+    <length units="minutes">115</length>
+    <title>Une vie simple (?)</title>
+    <category>Film</category>
+    <desc>Ah Tao s'est silencieusement usé au service... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Ann Hui</name>
+      <name function="actor">Andy Lau</name>
+      <name function="actor">Anthony Wong</name>
+      <name function="actor">Dennis Chan</name>
+      <name function="actor">Paul Chun</name>
+      <name function="actor">Lawrence Ah Mon</name>
+      <name function="actor">Deannie Yip</name>
+      <name function="actor">Hui Pik Kee</name>
+      <name function="actor">Hui So-Ying</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151211143000 +0100" stop="20151211161000 +0100">
+    <length units="minutes">100</length>
+    <title>Les nuits de la pleine lune (?)</title>
+    <category>Film</category>
+    <desc>Louise, stagiaire dans une agence de décoration, (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Eric Rohmer</name>
+      <name function="actor">Pascale Ogier</name>
+      <name function="actor">Christian Vadim</name>
+      <name function="actor">Virginie Thévenet</name>
+      <name function="actor">Lisa Garneri</name>
+      <name function="actor">Anne-Séverine Liotard</name>
+      <name function="actor">Fabrice Luchini</name>
+      <name function="actor">László Szabó</name>
+      <name function="actor">Tchéky Karyo</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151211161000 +0100" stop="20151211174000 +0100">
+    <length units="minutes">90</length>
+    <title>Grand Central (?)</title>
+    <category>Film</category>
+    <desc>Jusqu'ici, Gary a navigué à vue dans sa vie... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Rebecca Zlotowski</name>
+      <name function="actor">Denis Ménochet</name>
+      <name function="actor">Léa Seydoux</name>
+      <name function="actor">Tahar Rahim</name>
+      <name function="actor">Nahuel Pérez Biscayart</name>
+      <name function="actor">Olivier Gourmet</name>
+      <name function="actor">Johan Libéreau</name>
+      <name function="actor">Nohza Khouadra</name>
+      <name function="actor">Camille Lellouche</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151211174000 +0100" stop="20151211175000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal d'un frigo (?)</title>
+    <category>Film</category>
+    <desc>En 1971, un jeune couple achète un vieux... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Joséphine Derobe</name>
+      <name function="actor">Clément Sibony</name>
+      <name function="actor">Crystal Shepherd-Cross</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151211175000 +0100" stop="20151211193000 +0100">
+    <length units="minutes">100</length>
+    <title>Salvador Allende (?)</title>
+    <category>Film</category>
+    <desc>Effectuant un patient travail de croisement... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Patricio Guzmán</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151211193000 +0100" stop="20151211212500 +0100">
+    <length units="minutes">115</length>
+    <title>Jimmy P. (Psychothérapie d'un indien des plaines) (?)</title>
+    <category>Film</category>
+    <desc>Alors que la Seconde Guerre mondiale vient de... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Arnaud Desplechin</name>
+      <name function="actor">Gary Farmer</name>
+      <name function="actor">Joseph Cross</name>
+      <name function="actor">Gina McKee</name>
+      <name function="actor">Mathieu Amalric</name>
+      <name function="actor">Larry Pine</name>
+      <name function="actor">Benicio Del Toro</name>
+      <name function="actor">Michelle Thrush</name>
+      <name function="actor">Misty Upham</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151211212500 +0100" stop="20151211232500 +0100">
+    <length units="minutes">120</length>
+    <title>Mon âme par toi guérie (?)</title>
+    <category>Film</category>
+    <desc>Frédi a reçu un don en héritage. Comme sa... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">François Dupeyron</name>
+      <name function="actor">Agathe Dronne</name>
+      <name function="actor">Philippe Rebbot</name>
+      <name function="actor">Jean-Pierre Darroussin</name>
+      <name function="actor">Grégory Gadebois</name>
+      <name function="actor">Céline Sallette</name>
+      <name function="actor">Stéphan Wojtowicz</name>
+      <name function="actor">Nathalie Boutefeu</name>
+      <name function="actor">Marie Payen</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151211232500 +0100" stop="20151212012500 +0100">
+    <length units="minutes">120</length>
+    <title>Michael Kohlhaas (?)</title>
+    <category>Film</category>
+    <desc>Les Cévennes, au XVIe siècle. Alors qu'il... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Arnaud des Pallières</name>
+      <name function="actor">Bruno Ganz</name>
+      <name function="actor">David Bennent</name>
+      <name function="actor">Delphine Chuillot</name>
+      <name function="actor">David Kross</name>
+      <name function="actor">Mélusine Mayance</name>
+      <name function="actor">Roxane Duran</name>
+      <name function="actor">Paul Bartel</name>
+      <name function="actor">Mads Mikkelsen</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212012500 +0100" stop="20151212022500 +0100">
+    <length units="minutes">60</length>
+    <title>This is Comedy</title>
+    <category>Documentaire</category>
+    <desc>Producteur, scénariste, dénicheur de nouveaux... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jacky Goldberg</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212022500 +0100" stop="20151212024500 +0100">
+    <length units="minutes">20</length>
+    <title>Par ici les sorties</title>
+    <category>Magazine</category>
+    <desc>Episode 15 Le point sur les sorties de la semaine. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212024500 +0100" stop="20151212042000 +0100">
+    <length units="minutes">95</length>
+    <title>No Man's Land (?)</title>
+    <category>Film</category>
+    <desc>En 1993. La guerre de Bosnie fait rage.... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Danis Tanovic</name>
+      <name function="actor">Simon Callow</name>
+      <name function="actor">Katrin Cartlidge</name>
+      <name function="actor">Mustafa Nadarevic</name>
+      <name function="actor">Alain Eloy</name>
+      <name function="actor">Branko Djuric</name>
+      <name function="actor">Rene Bitorajac</name>
+      <name function="actor">Filip Sovagovic</name>
+      <name function="actor">Sacha Kremer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212042000 +0100" stop="20151212055500 +0100">
+    <length units="minutes">95</length>
+    <title>La belle vie (?)</title>
+    <category>Film</category>
+    <desc>Un père vit avec ses deux fils adolescents... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Jean Denizot</name>
+      <name function="actor">Jean-Philippe Ecoffey</name>
+      <name function="actor">Christèle Tual</name>
+      <name function="actor">Cédric Vieira</name>
+      <name function="actor">Maya Sansa</name>
+      <name function="actor">Nicolas Bouchaud</name>
+      <name function="actor">Zacharie Chasseriaud</name>
+      <name function="actor">Jules Pélissier</name>
+      <name function="actor">Solène Rigot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212055500 +0100" stop="20151212080000 +0100">
+    <length units="minutes">125</length>
+    <title>Le journal érotique d'un bûcheron (?)</title>
+    <category>Film</category>
+    <desc>Sur le point de recevoir le prix Nobel, le... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Jean-Marie Pallardy</name>
+      <name function="actor">Willeke Van Ammelrooy</name>
+      <name function="actor">Jacques Insermini</name>
+      <name function="actor">Joëlle Coeur</name>
+      <name function="actor">John Holmes</name>
+      <name function="actor">Jerry Brouer</name>
+      <name function="actor">Jean-Marie Pallardy</name>
+      <name function="actor">Chantal Arondel</name>
+      <name function="actor">Georges Guéret</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212080000 +0100" stop="20151212100000 +0100">
+    <length units="minutes">120</length>
+    <title>L'esquive (?)</title>
+    <category>Film</category>
+    <desc>A 15 ans, Abdelkrim, dit Krimo, vit dans une... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Abdellatif Kechiche</name>
+      <name function="actor">Osman Elkharraz</name>
+      <name function="actor">Sara Forestier</name>
+      <name function="actor">Sabrina Ouazani</name>
+      <name function="actor">Nanou Benhamou</name>
+      <name function="actor">Hafet Ben-Ahmed</name>
+      <name function="actor">Aurélie Ganito</name>
+      <name function="actor">Hajar Hamlili</name>
+      <name function="actor">Carole Franck</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212100000 +0100" stop="20151212114000 +0100">
+    <length units="minutes">100</length>
+    <title>L'empire des sens (?)</title>
+    <category>Film</category>
+    <desc>Tokyo, 1936. Kichizo, propriétaire d'une... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Nagisa Oshima</name>
+      <name function="actor">Tatsuya Fuji</name>
+      <name function="actor">Eiko Matsuda</name>
+      <name function="actor">Aoi Nakajima</name>
+      <name function="actor">Taiji Tonoyama</name>
+      <name function="actor">Kanae Kobayashi</name>
+      <name function="actor">Meika Seri</name>
+      <name function="actor">Yasuko Matsui</name>
+      <name function="actor">Kyôji Kokonoe</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212114000 +0100" stop="20151212133500 +0100">
+    <length units="minutes">115</length>
+    <title>Les démons de Jésus (?)</title>
+    <category>Film</category>
+    <desc>A la veille de mai 68, Jo Jacob, un ancien... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Bernie Bonvoisin</name>
+      <name function="actor">Martin Lamotte</name>
+      <name function="actor">Victor Lanoux</name>
+      <name function="actor">Patrick Bouchitey</name>
+      <name function="actor">Fabienne Babe</name>
+      <name function="actor">Jean-Louis Tribes</name>
+      <name function="actor">Nadia Farès</name>
+      <name function="actor">Thierry Frémont</name>
+      <name function="actor">José Garcia</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212133500 +0100" stop="20151212151000 +0100">
+    <length units="minutes">95</length>
+    <title>La cinquième saison (?)</title>
+    <category>Film</category>
+    <desc>C'est la fin de l'hiver dans un petit village... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jessica Woodworth,</name>
+      <name function="director">Peter Brosens</name>
+      <name function="actor">Peter Van den Begin</name>
+      <name function="actor">Nathalie Laroche</name>
+      <name function="actor">Bruno Georis</name>
+      <name function="actor">Aurélia Poirier</name>
+      <name function="actor">Damien Marchal</name>
+      <name function="actor">Django Schrevens</name>
+      <name function="actor">Gill Vancompernolle</name>
+      <name function="actor">Sam Louwyck</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212151000 +0100" stop="20151212164000 +0100">
+    <length units="minutes">90</length>
+    <title>Jeune &amp; jolie (?)</title>
+    <category>Film</category>
+    <desc>Jeune fille de bonne famille, Isabelle est... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">François Ozon</name>
+      <name function="actor">Charlotte Rampling</name>
+      <name function="actor">Nathalie Richard</name>
+      <name function="actor">Frédéric Pierrot</name>
+      <name function="actor">Johan Leysen</name>
+      <name function="actor">Géraldine Pailhas</name>
+      <name function="actor">Fantin Ravat</name>
+      <name function="actor">Marine Vacth</name>
+      <name function="actor">Lucas Prisor</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212164000 +0100" stop="20151212183000 +0100">
+    <length units="minutes">110</length>
+    <title>Still Walking (?)</title>
+    <category>Film</category>
+    <desc>Pour le jour du souvenir, Ryota vient rendre... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Hirokazu Kore-Eda</name>
+      <name function="actor">Hiroshi Abe</name>
+      <name function="actor">Yui Natsukawa</name>
+      <name function="actor">Kirin Kiki</name>
+      <name function="actor">Kazuya Takahashi</name>
+      <name function="actor">Yoshio Harada</name>
+      <name function="actor">You</name>
+      <name function="actor">Shohei Tanaka</name>
+      <name function="actor">Ryoga Hayashi</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212183000 +0100" stop="20151212203000 +0100">
+    <length units="minutes">120</length>
+    <title>Let's Get Lost (?)</title>
+    <category>Film</category>
+    <desc>Chet Baker, décédé en 1988 à Amsterdam, était... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Bruce Weber</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212203000 +0100" stop="20151212222500 +0100">
     <length units="minutes">115</length>
     <title>Une vie simple (?)</title>
     <category>Film</category>
@@ -1678,186 +1750,113 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211083000 +0100" stop="20151211101000 +0100">
-    <length units="minutes">100</length>
-    <title>Les nuits de la pleine lune (?)</title>
+  <programme channel="MTV" start="20151212222500 +0100" stop="20151212234500 +0100">
+    <length units="minutes">80</length>
+    <title>9 mois ferme (?)</title>
     <category>Film</category>
-    <desc>Louise, stagiaire dans une agence de décoration, (Lire la suite).(n)</desc>
+    <desc>Ariane Felder, 40 ans, adore son métier de... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Eric Rohmer</name>
-      <name function="actor">Pascale Ogier</name>
-      <name function="actor">Christian Vadim</name>
-      <name function="actor">Virginie Thévenet</name>
-      <name function="actor">Lisa Garneri</name>
-      <name function="actor">Anne-Séverine Liotard</name>
-      <name function="actor">Fabrice Luchini</name>
-      <name function="actor">László Szabó</name>
-      <name function="actor">Tchéky Karyo</name>
+      <name function="director">Albert Dupontel</name>
+      <name function="actor">Gilles Gaston-Dreyfus</name>
+      <name function="actor">Christian Hecq</name>
+      <name function="actor">Philippe Duquesne</name>
+      <name function="actor">Philippe Uchan</name>
+      <name function="actor">Bouli Lanners</name>
+      <name function="actor">Sandrine Kiberlain</name>
+      <name function="actor">Albert Dupontel</name>
+      <name function="actor">Nicolas Marié</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211101000 +0100" stop="20151211114000 +0100">
-    <length units="minutes">90</length>
-    <title>Grand Central (?)</title>
+  <programme channel="MTV" start="20151212234500 +0100" stop="20151213013000 +0100">
+    <length units="minutes">105</length>
+    <title>Hope and Glory (?)</title>
     <category>Film</category>
-    <desc>Jusqu'ici, Gary a navigué à vue dans sa vie... (Lire la suite).(n)</desc>
+    <desc>Le 3 septembre 1939, une famille londonienne,... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Rebecca Zlotowski</name>
-      <name function="actor">Denis Ménochet</name>
-      <name function="actor">Léa Seydoux</name>
-      <name function="actor">Tahar Rahim</name>
-      <name function="actor">Nahuel Pérez Biscayart</name>
-      <name function="actor">Olivier Gourmet</name>
-      <name function="actor">Johan Libéreau</name>
-      <name function="actor">Nohza Khouadra</name>
-      <name function="actor">Camille Lellouche</name>
+      <name function="director">John Boorman</name>
+      <name function="actor">David Hayman</name>
+      <name function="actor">Sarah Miles</name>
+      <name function="actor">Sammi Davis</name>
+      <name function="actor">Susan Woolridge</name>
+      <name function="actor">David O'Connor</name>
+      <name function="actor">Jean-Marc Barr</name>
+      <name function="actor">Geraldine Muir</name>
+      <name function="actor">Sebastian Rice-Edwards</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211114000 +0100" stop="20151211115000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal d'un frigo (?)</title>
-    <category>Film</category>
-    <desc>En 1971, un jeune couple achète un vieux... (Lire la suite).(n)</desc>
+  <programme channel="MTV" start="20151213013000 +0100" stop="20151213022000 +0100">
+    <length units="minutes">50</length>
+    <title>Cucumber</title>
+    <category>Série</category>
+    <desc>Après la mort tragique de Lance, les garçons... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Joséphine Derobe</name>
-      <name function="actor">Clément Sibony</name>
-      <name function="actor">Crystal Shepherd-Cross</name>
+      <name function="director">Euros Lyn</name>
+      <name function="actor">Julie Hesmondhalgh</name>
+      <name function="actor">Vincent Franklin</name>
+      <name function="actor">Adjoa Andoh</name>
+      <name function="actor">Freddie Fox</name>
+      <name function="actor">Fisayo Akinade</name>
+      <name function="actor">Ceallach Spellman</name>
+      <name function="actor">Eleanor Worthington-Cox</name>
+      <name function="actor">Matthew Bailey</name>
+      <name function="writer">Russell T Davies</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211115000 +0100" stop="20151211133000 +0100">
-    <length units="minutes">100</length>
-    <title>Salvador Allende (?)</title>
-    <category>Film</category>
-    <desc>Effectuant un patient travail de croisement... (Lire la suite).(n)</desc>
+  <programme channel="MTV" start="20151213022000 +0100" stop="20151213024500 +0100">
+    <length units="minutes">25</length>
+    <title>Banana</title>
+    <category>Série</category>
+    <desc>Aiden, un jeue homme séduisant, rencontre... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Patricio Guzmán</name>
+      <name function="director">Luke Snellin</name>
+      <name function="actor">Vincent Franklin</name>
+      <name function="actor">Alex Frost</name>
+      <name function="actor">David Langham</name>
+      <name function="actor">Freddie Fox</name>
+      <name function="actor">Fisayo Akinade</name>
+      <name function="actor">Dino Fetscher</name>
+      <name function="actor">Mert Degirmendereli</name>
+      <name function="actor">Mitch Thornton</name>
+      <name function="writer">Lee Warburton</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211133000 +0100" stop="20151211152500 +0100">
-    <length units="minutes">115</length>
-    <title>Jimmy P. (Psychothérapie d'un indien des plaines) (?)</title>
-    <category>Film</category>
-    <desc>Alors que la Seconde Guerre mondiale vient de... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Arnaud Desplechin</name>
-      <name function="actor">Gary Farmer</name>
-      <name function="actor">Joseph Cross</name>
-      <name function="actor">Gina McKee</name>
-      <name function="actor">Mathieu Amalric</name>
-      <name function="actor">Larry Pine</name>
-      <name function="actor">Benicio Del Toro</name>
-      <name function="actor">Michelle Thrush</name>
-      <name function="actor">Misty Upham</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211152500 +0100" stop="20151211172500 +0100">
-    <length units="minutes">120</length>
-    <title>Mon âme par toi guérie (?)</title>
-    <category>Film</category>
-    <desc>Frédi a reçu un don en héritage. Comme sa... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">François Dupeyron</name>
-      <name function="actor">Agathe Dronne</name>
-      <name function="actor">Philippe Rebbot</name>
-      <name function="actor">Jean-Pierre Darroussin</name>
-      <name function="actor">Grégory Gadebois</name>
-      <name function="actor">Céline Sallette</name>
-      <name function="actor">Stéphan Wojtowicz</name>
-      <name function="actor">Nathalie Boutefeu</name>
-      <name function="actor">Marie Payen</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211172500 +0100" stop="20151211192500 +0100">
-    <length units="minutes">120</length>
-    <title>Michael Kohlhaas (?)</title>
-    <category>Film</category>
-    <desc>Les Cévennes, au XVIe siècle. Alors qu'il... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Arnaud des Pallières</name>
-      <name function="actor">Bruno Ganz</name>
-      <name function="actor">David Bennent</name>
-      <name function="actor">Delphine Chuillot</name>
-      <name function="actor">David Kross</name>
-      <name function="actor">Mélusine Mayance</name>
-      <name function="actor">Roxane Duran</name>
-      <name function="actor">Paul Bartel</name>
-      <name function="actor">Mads Mikkelsen</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211192500 +0100" stop="20151211202500 +0100">
-    <length units="minutes">60</length>
-    <title>This is Comedy</title>
-    <category>Documentaire</category>
-    <desc>Producteur, scénariste, dénicheur de nouveaux... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Jacky Goldberg</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211202500 +0100" stop="20151211204500 +0100">
-    <length units="minutes">20</length>
-    <title>Par ici les sorties</title>
-    <category>Magazine</category>
-    <desc>Episode 15 Le point sur les sorties de la semaine. (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211204500 +0100" stop="20151211222000 +0100">
-    <length units="minutes">95</length>
-    <title>No Man's Land (?)</title>
-    <category>Film</category>
-    <desc>En 1993. La guerre de Bosnie fait rage.... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Danis Tanovic</name>
-      <name function="actor">Simon Callow</name>
-      <name function="actor">Katrin Cartlidge</name>
-      <name function="actor">Mustafa Nadarevic</name>
-      <name function="actor">Alain Eloy</name>
-      <name function="actor">Branko Djuric</name>
-      <name function="actor">Rene Bitorajac</name>
-      <name function="actor">Filip Sovagovic</name>
-      <name function="actor">Sacha Kremer</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211222000 +0100" stop="20151211235500 +0100">
-    <length units="minutes">95</length>
-    <title>La belle vie (?)</title>
-    <category>Film</category>
-    <desc>Un père vit avec ses deux fils adolescents... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Jean Denizot</name>
-      <name function="actor">Jean-Philippe Ecoffey</name>
-      <name function="actor">Christèle Tual</name>
-      <name function="actor">Cédric Vieira</name>
-      <name function="actor">Maya Sansa</name>
-      <name function="actor">Nicolas Bouchaud</name>
-      <name function="actor">Zacharie Chasseriaud</name>
-      <name function="actor">Jules Pélissier</name>
-      <name function="actor">Solène Rigot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151211235500 +0100" stop="20151212020000 +0100">
+  <programme channel="MTV" start="20151213024500 +0100" stop="20151213045000 +0100">
     <length units="minutes">125</length>
-    <title>Le journal érotique d'un bûcheron (?)</title>
+    <title>Lautrec (?)</title>
     <category>Film</category>
-    <desc>Sur le point de recevoir le prix Nobel, le... (Lire la suite).(n)</desc>
+    <desc>Une nuit de novembre 1864, à Albi, naît le... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Jean-Marie Pallardy</name>
-      <name function="actor">Willeke Van Ammelrooy</name>
-      <name function="actor">Jacques Insermini</name>
-      <name function="actor">Joëlle Coeur</name>
-      <name function="actor">John Holmes</name>
-      <name function="actor">Jerry Brouer</name>
-      <name function="actor">Jean-Marie Pallardy</name>
-      <name function="actor">Chantal Arondel</name>
-      <name function="actor">Georges Guéret</name>
+      <name function="director">Roger Planchon</name>
+      <name function="actor">Jean-Marie Bigard</name>
+      <name function="actor">Claude Rich</name>
+      <name function="actor">Claire Borotra</name>
+      <name function="actor">Régis Royer</name>
+      <name function="actor">Elsa Zylberstein</name>
+      <name function="actor">Hélène Babu</name>
+      <name function="actor">Anémone</name>
+      <name function="actor">Charlotte Viala</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213045000 +0100" stop="20151213064500 +0100">
+    <length units="minutes">115</length>
+    <title>Trois enterrements (?)</title>
+    <category>Film</category>
+    <desc>Au Texas, à proximité de la frontière... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Tommy Lee Jones</name>
+      <name function="actor">Melissa Leo</name>
+      <name function="actor">Tommy Lee Jones</name>
+      <name function="actor">Barry Pepper</name>
+      <name function="actor">Vanessa Bauche</name>
+      <name function="actor">Dwight Yoakam</name>
+      <name function="actor">January Jones</name>
+      <name function="actor">Mel Rodriguez</name>
+      <name function="actor">Julio César Cedillo</name>
     </credits>
     <image />
   </programme>

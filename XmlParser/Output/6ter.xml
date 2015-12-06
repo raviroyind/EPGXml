@@ -1,287 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="6ter">
-    <display-name>test</display-name>
+    <display-name>MTV</display-name>
   </channel>
-  <programme channel="test" start="20151205000500 +0100" stop="20151205005000 +0100">
-    <length units="minutes">45</length>
-    <title>Resto sous surveillance</title>
-    <category>Documentaire</category>
-    <desc>Changement de cap Arne Paglia est le patron du Division Street Grill, à Perkskill. Le restaurant, proposant une cuisine variée, a très bien fonctionné les quinze... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205005000 +0100" stop="20151205014000 +0100">
-    <length units="minutes">50</length>
-    <title>Resto sous surveillance</title>
-    <category>Documentaire</category>
-    <desc>Le steak façon Willie Sean Ulley est le propriétaire du Smokehouse Barbecue, à Somerville, dans le New Jersey. Il possède ce restaurant depuis un an et demi et propose... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205014000 +0100" stop="20151205022500 +0100">
-    <length units="minutes">45</length>
-    <title>Resto sous surveillance</title>
-    <category>Documentaire</category>
-    <desc>Y a-t-il un chef dans la salle ? Juan Lepe est le copropriétaire du Roasted Peppers, à Mamaroneck, un restaurant proposant une cuisine fusion de type latino-américaine. Juan y... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205022500 +0100" stop="20151205065000 +0100">
-    <length units="minutes">265</length>
-    <title>Programmes de la nuit</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205065000 +0100" stop="20151205073500 +0100">
-    <length units="minutes">45</length>
-    <title>Face au doute</title>
-    <category>Série</category>
-    <desc>Durant les vacances scolaires, Sophie laisse son mari partir avec leurs deux enfants. Mais, à la date prévue pour leur retour, personne ne vient.... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Louis Lahner</name>
-      <name function="actor">Dominique Legrand</name>
-      <name function="actor">Sandra Marolles-Roult</name>
-      <name function="actor">Claudine Guegan</name>
-      <name function="writer">Nicolas Desmond</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205073500 +0100" stop="20151205082500 +0100">
-    <length units="minutes">50</length>
-    <title>Face au doute</title>
-    <category>Série</category>
-    <desc>La famille Balagnian est une famille sans histoires. Judith et Bertrand sont les heureux parents du jeune Léon, 14 ans. Un jour, Judith reçoit... (Lire la suite).</desc>
-    <credits>
-      <name function="actor">Carole Mardfeld</name>
-      <name function="actor">Roland Aouizerate</name>
-      <name function="actor">Tom Serrer</name>
-      <name function="actor">Rose Ringuenet Pecate</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205082500 +0100" stop="20151205090500 +0100">
-    <length units="minutes">40</length>
-    <title>Face au doute</title>
-    <category>Série</category>
-    <desc>Chantal Prugnaud, 45 ans, est mariée depuis quinze ans avec Alain, un architecte qui part souvent en déplacement. Victime d'un grave accident de... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Julien Adam</name>
-      <name function="actor">Marie-Lys Renault</name>
-      <name function="actor">Bernard Lebail</name>
-      <name function="actor">Régine Renoult</name>
-      <name function="writer">Sophie Magis</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205090500 +0100" stop="20151205094500 +0100">
-    <length units="minutes">40</length>
-    <title>Face au doute</title>
-    <category>Série</category>
-    <desc>Zaya Brahimi, 18 ans, vit avec sa mère et son petit frère. Leur père, Navid, les a quittés il y a 9 ans pour retourner vivre dans son pays... (Lire la suite).</desc>
-    <credits>
-      <name function="actor">Anissa Boumachouene</name>
-      <name function="actor">Angelina Calvo</name>
-      <name function="actor">Jacques Conrotte</name>
-      <name function="actor">Hughes Louwerse</name>
-      <name function="actor">Medhi Belhadj</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205094500 +0100" stop="20151205103500 +0100">
-    <length units="minutes">50</length>
-    <title>Face au doute</title>
-    <category>Série</category>
-    <desc>Alors que Monica croyait son mari décédé en Thaïlande lors du tsunami de décembre 2004, la police lui signale qu'il a été arrêté à Roissy en... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Audrey Zouari</name>
-      <name function="actor">Christian LeBlanc</name>
-      <name function="actor">Sandrine Thevenin</name>
-      <name function="actor">Philippe Pingault</name>
-      <name function="writer">Boulomsouk Svadphaiphane</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205103500 +0100" stop="20151205113000 +0100">
-    <length units="minutes">55</length>
-    <title>SOS Tabatha</title>
-    <category>Téléréalité</category>
-    <desc>Jenn Cady, photographe et ancienne reine de beauté, pensait que son brushing parfait et son sourire hollywoodien suffiraient pour ouvrir un... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Tabatha Coffey</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205113000 +0100" stop="20151205122000 +0100">
-    <length units="minutes">50</length>
-    <title>SOS Tabatha</title>
-    <category>Téléréalité</category>
-    <desc>Le Nadia's Family Salon est un salon de coiffure situé à Englishtown, dans le New Jersey. L'équipe a longtemps été unie comme une famille. Le... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Tabatha Coffey</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205122000 +0100" stop="20151205131000 +0100">
-    <length units="minutes">50</length>
-    <title>SOS Tabatha</title>
-    <category>Téléréalité</category>
-    <desc>Veronica de Messina espérait que son Cafe Treats deviendrait vite une adresse incontournable, en mélangeant cuisine mexicaine et boissons... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Tabatha Coffey</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205131000 +0100" stop="20151205140000 +0100">
-    <length units="minutes">50</length>
-    <title>SOS Tabatha</title>
-    <category>Téléréalité</category>
-    <desc>CJ «Meow» Barnes a ouvert un salon de manucure dans le quartier branché de North Hollywood, en Californie, sans avoir la moindre expérience dans... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Tabatha Coffey</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205140000 +0100" stop="20151205145000 +0100">
-    <length units="minutes">50</length>
-    <title>SOS Tabatha</title>
-    <category>Téléréalité</category>
-    <desc>Masseur de profession, Reg Mangone est le propriétaire du spa House of Synergy. Idéalement situé à Long Beach en Californie, ce salon qui se veut... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Tabatha Coffey</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205145000 +0100" stop="20151205163500 +0100">
-    <length units="minutes">105</length>
-    <title>Terrain d'investigation</title>
-    <category>Magazine</category>
-    <desc>Roissy est le plus grand aéroport d'Europe, avec notamment 61 millions de passagers par an et 1 500 avions par jour. Des milliers de personnes y... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Anicet Mbida</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205163500 +0100" stop="20151205182000 +0100">
-    <length units="minutes">105</length>
-    <title>Terrain d'investigation</title>
-    <category>Magazine</category>
-    <desc>Parmi les plus grands monuments parisiens, «Terrain d'investigation» s'intéresse aux dessous de la cathédrale de Notre-Dame de Paris. Façades,... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Anicet Mbida</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205182000 +0100" stop="20151205193000 +0100">
-    <length units="minutes">70</length>
-    <title>Norbert, commis d'office</title>
-    <category>Magazine</category>
-    <desc>Norbert s'occupe du cas de Véronique, spécialiste des pâtes à la carbonara noyées sous des amas de crème fraîche et d'huile, et de celui de... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Norbert Tarayre</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205193000 +0100" stop="20151205205500 +0100">
-    <length units="minutes">85</length>
-    <title>Norbert, commis d'office</title>
-    <category>Magazine</category>
-    <desc>Norbert apprend à Maha à réaliser une vraie cuisson de nouilles sautées au wok avec de délicieux légumes cuits à la perfection. C'est ensuite au... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Norbert Tarayre</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205205500 +0100" stop="20151205214500 +0100">
-    <length units="minutes">50</length>
-    <title>Storage Wars France : enchères surprises</title>
-    <category>Documentaire</category>
-    <desc>Un crieur, quatre boxes remplis d'objets, cinq minutes seulement pour en estimer la valeur et huit acheteurs prêts à en découdre : la guerre des... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205214500 +0100" stop="20151205224000 +0100">
-    <length units="minutes">55</length>
-    <title>Storage Wars France : enchères surprises</title>
-    <category>Documentaire</category>
-    <desc>Un crieur, quatre boxes remplis d'objets, cinq minutes seulement pour en estimer la valeur et huit acheteurs prêts à en découdre : la guerre des... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205224000 +0100" stop="20151205230500 +0100">
-    <length units="minutes">25</length>
-    <title>Storage Wars : enchères surprises</title>
-    <category>Documentaire</category>
-    <desc>Opération clodo Les acheteurs se rendent à Harbor City, en Californie, ville se situant à côté d'une station balnéaire assez aisée. Jarrod et Brandi doivent... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205230500 +0100" stop="20151205233000 +0100">
-    <length units="minutes">25</length>
-    <title>Storage Wars : enchères surprises</title>
-    <category>Documentaire</category>
-    <desc>Du beurre avec du miel Les acheteurs se rendent à Tustin, en Californie, à quelques kilomètres de Newport Beach. Les visites de Dave dans les garde-meubles de Tustin... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205233000 +0100" stop="20151205235500 +0100">
-    <length units="minutes">25</length>
-    <title>Storage Wars : enchères surprises</title>
-    <category>Documentaire</category>
-    <desc>La boîte à ouais Les acheteurs se rendent à Murrieta en Californie. Brandi est prête à se lâcher cette fois afin de ne pas se faire battre par l'un de ses... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205235500 +0100" stop="20151206002000 +0100">
-    <length units="minutes">25</length>
-    <title>Storage Wars : enchères surprises</title>
-    <category>Documentaire</category>
-    <desc>Double dragon Les acheteurs se rendent à Mission Hills, au coeur de la vallée de San Fernando en Californie. Jarrod veut faire le nécessaire pour que tout le... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206002000 +0100" stop="20151206004500 +0100">
+  <programme channel="MTV" start="20151206062000 +0100" stop="20151206064500 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Barry se prend une veste Les acheteurs se rendent à Hollywood, la capitale mondiale du cinéma. Jarrod n'a pas trop envie d'y aller sachant qu'il y a des enchères plus... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206004500 +0100" stop="20151206011000 +0100">
+  <programme channel="MTV" start="20151206064500 +0100" stop="20151206071000 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Le scooter du coiffeur Les acheteurs se rendent à Compton, dans le sud du quartier d'affaires de Los Angeles. Darrell vient accompagné de Brandon. Jarrod pense encore... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206011000 +0100" stop="20151206013500 +0100">
+  <programme channel="MTV" start="20151206071000 +0100" stop="20151206073500 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Les dollars de l'art Les acheteurs se rendent à Montebello, en Californie. Les garde-meubles sont situés dans une zone à la fois commerciale et résidentielle. Dave... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206013500 +0100" stop="20151206020000 +0100">
+  <programme channel="MTV" start="20151206073500 +0100" stop="20151206080000 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Les gants élégants Les acheteurs se rendent à Huntington Beach en Californie. Darrell pense pouvoir y faire de bonnes affaires et continuer sur sa bonne lancée.... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206020000 +0100" stop="20151206022500 +0100">
+  <programme channel="MTV" start="20151206080000 +0100" stop="20151206082500 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Enchères et contre tous Les acheteurs se rendent pour la première fois à La Habra en Californie, entre le comté d'Orange et Los Angeles. Darrell a de l'argent et son... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206022500 +0100" stop="20151206024500 +0100">
+  <programme channel="MTV" start="20151206082500 +0100" stop="20151206084500 +0100">
     <length units="minutes">20</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Chaussettes et noeuds pap' Les acheteurs se rendent à Lake Elsinore en Californie. Darrell décide de ne plus se préparer aux ventes, car cette méthode semble fonctionner... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206024500 +0100" stop="20151206060000 +0100">
+  <programme channel="MTV" start="20151206084500 +0100" stop="20151206120000 +0100">
     <length units="minutes">195</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206060000 +0100" stop="20151206064000 +0100">
+  <programme channel="MTV" start="20151206120000 +0100" stop="20151206124000 +0100">
     <length units="minutes">40</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -296,7 +67,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206064000 +0100" stop="20151206072000 +0100">
+  <programme channel="MTV" start="20151206124000 +0100" stop="20151206132000 +0100">
     <length units="minutes">40</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -311,7 +82,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206072000 +0100" stop="20151206081000 +0100">
+  <programme channel="MTV" start="20151206132000 +0100" stop="20151206141000 +0100">
     <length units="minutes">50</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -326,7 +97,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206081000 +0100" stop="20151206085000 +0100">
+  <programme channel="MTV" start="20151206141000 +0100" stop="20151206145000 +0100">
     <length units="minutes">40</length>
     <title>Hotel Inspector</title>
     <category>Documentaire</category>
@@ -336,7 +107,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206085000 +0100" stop="20151206093500 +0100">
+  <programme channel="MTV" start="20151206145000 +0100" stop="20151206153500 +0100">
     <length units="minutes">45</length>
     <title>Hotel Inspector</title>
     <category>Documentaire</category>
@@ -346,7 +117,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206093500 +0100" stop="20151206102500 +0100">
+  <programme channel="MTV" start="20151206153500 +0100" stop="20151206162500 +0100">
     <length units="minutes">50</length>
     <title>Hotel Inspector</title>
     <category>Documentaire</category>
@@ -356,91 +127,91 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206102500 +0100" stop="20151206111500 +0100">
+  <programme channel="MTV" start="20151206162500 +0100" stop="20151206171500 +0100">
     <length units="minutes">50</length>
     <title>Resto sous surveillance</title>
     <category>Documentaire</category>
     <desc>Crack au restaurant Joe Mazzella et Gene Angelo sont les propriétaires du Somers 202, à Yorktown Heights. Joe et Gene ont toujours rêvé d'ouvrir un restaurant. Au... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206111500 +0100" stop="20151206120000 +0100">
+  <programme channel="MTV" start="20151206171500 +0100" stop="20151206180000 +0100">
     <length units="minutes">45</length>
     <title>Resto sous surveillance</title>
     <category>Documentaire</category>
     <desc>Changement de cap Arne Paglia est le patron du Division Street Grill, à Perkskill. Le restaurant, proposant une cuisine variée, a très bien fonctionné les quinze... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206120000 +0100" stop="20151206124500 +0100">
+  <programme channel="MTV" start="20151206180000 +0100" stop="20151206184500 +0100">
     <length units="minutes">45</length>
     <title>Resto sous surveillance</title>
     <category>Documentaire</category>
     <desc>La mafia de la cuisine Kim et sa soeur Trisha possèdent le Dock's, un restaurant familial à Staten Island. Malgré une clientèle fidèle, les affaires marchent de moins... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206124500 +0100" stop="20151206133000 +0100">
+  <programme channel="MTV" start="20151206184500 +0100" stop="20151206193000 +0100">
     <length units="minutes">45</length>
     <title>Resto sous surveillance</title>
     <category>Documentaire</category>
     <desc>Le restaurant fantôme Joe Verdicchio dirige le Venetian Grille, à Somerville, dans le New Jersey. Les débuts du restaurant étaient tellement prometteurs que Joe en a... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206133000 +0100" stop="20151206142500 +0100">
+  <programme channel="MTV" start="20151206193000 +0100" stop="20151206202500 +0100">
     <length units="minutes">55</length>
     <title>Storage Wars France : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Un crieur, quatre boxes remplis d'objets, cinq minutes seulement pour en estimer la valeur et huit acheteurs prêts à en découdre : la guerre des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206142500 +0100" stop="20151206145000 +0100">
+  <programme channel="MTV" start="20151206202500 +0100" stop="20151206205000 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Tant va la cruche à lots... Les acheteurs se rendent à Chatsworth, en Californie, pour une vente aux enchères de cent garde-meubles. Jarrod et Brandi espèrent acquérir au... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206145000 +0100" stop="20151206151500 +0100">
+  <programme channel="MTV" start="20151206205000 +0100" stop="20151206211500 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>... que tout part à vos lots Les acheteurs sont toujours à Chatsworth, en Californie, pour une vente aux enchères de cent garde-meubles. Il reste cinquante lots à vendre.... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206151500 +0100" stop="20151206154000 +0100">
+  <programme channel="MTV" start="20151206211500 +0100" stop="20151206214000 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Frankart Goes to Hollywood La vente se déroule à Fontana, en Californie. Comme leur magasin est plutôt bien rempli, Jarrod et Brandi veulent se concentrer sur l'outillage.... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206154000 +0100" stop="20151206160500 +0100">
+  <programme channel="MTV" start="20151206214000 +0100" stop="20151206220500 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Best of : Jarrod et Brandi Dans cet épisode spécial, retour sur les séquences mémorables du plus célèbre couple de «Storage Wars» : Jarrod et... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206160500 +0100" stop="20151206163500 +0100">
+  <programme channel="MTV" start="20151206220500 +0100" stop="20151206223500 +0100">
     <length units="minutes">30</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Enchères et contre tous Les acheteurs se rendent pour la première fois à La Habra en Californie, entre le comté d'Orange et Los Angeles. Darrell a de l'argent et son... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206163500 +0100" stop="20151206170000 +0100">
+  <programme channel="MTV" start="20151206223500 +0100" stop="20151206230000 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Les gants élégants Les acheteurs se rendent à Huntington Beach en Californie. Darrell pense pouvoir y faire de bonnes affaires et continuer sur sa bonne lancée.... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206170000 +0100" stop="20151206174500 +0100">
+  <programme channel="MTV" start="20151206230000 +0100" stop="20151206234500 +0100">
     <length units="minutes">45</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Les enchères pour les nuls Les acheteurs se rendent à Stanton, en Californie. Dans cette partie du Comté d'Orange, il y a beaucoup de résidences et de commerces. Après... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206174500 +0100" stop="20151206205500 +0100">
+  <programme channel="MTV" start="20151206234500 +0100" stop="20151207025500 +0100">
     <length units="minutes">190</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -458,7 +229,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206205500 +0100" stop="20151206224000 +0100">
+  <programme channel="MTV" start="20151207025500 +0100" stop="20151207044000 +0100">
     <length units="minutes">105</length>
     <title>Tarzan et la cité perdue (?)</title>
     <category>Film</category>
@@ -476,7 +247,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206224000 +0100" stop="20151207005000 +0100">
+  <programme channel="MTV" start="20151207044000 +0100" stop="20151207065000 +0100">
     <length units="minutes">130</length>
     <title>Hellboy (?)</title>
     <category>Film</category>
@@ -494,7 +265,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207005000 +0100" stop="20151207024500 +0100">
+  <programme channel="MTV" start="20151207065000 +0100" stop="20151207084500 +0100">
     <length units="minutes">115</length>
     <title>Terrain d'investigation</title>
     <category>Magazine</category>
@@ -504,28 +275,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207024500 +0100" stop="20151207062500 +0100">
+  <programme channel="MTV" start="20151207084500 +0100" stop="20151207122500 +0100">
     <length units="minutes">220</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207062500 +0100" stop="20151207065000 +0100">
+  <programme channel="MTV" start="20151207122500 +0100" stop="20151207125000 +0100">
     <length units="minutes">25</length>
     <title>Chico Chica Boumba Pepper School</title>
     <category>Dessin animé</category>
     <desc>Chuuuut Une série animée pour apprendre les danses du... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207065000 +0100" stop="20151207072500 +0100">
+  <programme channel="MTV" start="20151207125000 +0100" stop="20151207132500 +0100">
     <length units="minutes">35</length>
     <title>Le petit Nicolas</title>
     <category>Dessin animé</category>
     <desc>Les aventures de Nicolas, un petit garçon... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207072500 +0100" stop="20151207083000 +0100">
+  <programme channel="MTV" start="20151207132500 +0100" stop="20151207143000 +0100">
     <length units="minutes">65</length>
     <title>Sammy &amp; Co</title>
     <category>Dessin animé</category>
@@ -536,7 +307,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207083000 +0100" stop="20151207091500 +0100">
+  <programme channel="MTV" start="20151207143000 +0100" stop="20151207151500 +0100">
     <length units="minutes">45</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -550,7 +321,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207091500 +0100" stop="20151207100500 +0100">
+  <programme channel="MTV" start="20151207151500 +0100" stop="20151207160500 +0100">
     <length units="minutes">50</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -564,7 +335,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207100500 +0100" stop="20151207105000 +0100">
+  <programme channel="MTV" start="20151207160500 +0100" stop="20151207165000 +0100">
     <length units="minutes">45</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -577,7 +348,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207105000 +0100" stop="20151207115000 +0100">
+  <programme channel="MTV" start="20151207165000 +0100" stop="20151207175000 +0100">
     <length units="minutes">60</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -592,7 +363,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207115000 +0100" stop="20151207124500 +0100">
+  <programme channel="MTV" start="20151207175000 +0100" stop="20151207184500 +0100">
     <length units="minutes">55</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
@@ -611,7 +382,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207124500 +0100" stop="20151207134000 +0100">
+  <programme channel="MTV" start="20151207184500 +0100" stop="20151207194000 +0100">
     <length units="minutes">55</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
@@ -630,7 +401,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207134000 +0100" stop="20151207144000 +0100">
+  <programme channel="MTV" start="20151207194000 +0100" stop="20151207204000 +0100">
     <length units="minutes">60</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
@@ -649,21 +420,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207144000 +0100" stop="20151207155000 +0100">
+  <programme channel="MTV" start="20151207204000 +0100" stop="20151207215000 +0100">
     <length units="minutes">70</length>
     <title>C'est ma vie</title>
     <category>Documentaire</category>
     <desc>Enfants précoces, au coeur d'une école pas comme les autres Virgile, qui a trois ans d'avance, est... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207155000 +0100" stop="20151207171500 +0100">
+  <programme channel="MTV" start="20151207215000 +0100" stop="20151207231500 +0100">
     <length units="minutes">85</length>
     <title>C'est ma vie</title>
     <category>Documentaire</category>
     <desc>Challenges de femmes Chloé, 24 ans, a décroché un contrat comme... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207171500 +0100" stop="20151207180000 +0100">
+  <programme channel="MTV" start="20151207231500 +0100" stop="20151208000000 +0100">
     <length units="minutes">45</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -682,7 +453,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207180000 +0100" stop="20151207184500 +0100">
+  <programme channel="MTV" start="20151208000000 +0100" stop="20151208004500 +0100">
     <length units="minutes">45</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -701,7 +472,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207184500 +0100" stop="20151207193500 +0100">
+  <programme channel="MTV" start="20151208004500 +0100" stop="20151208013500 +0100">
     <length units="minutes">50</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -720,7 +491,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207193500 +0100" stop="20151207205500 +0100">
+  <programme channel="MTV" start="20151208013500 +0100" stop="20151208025500 +0100">
     <length units="minutes">80</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -739,7 +510,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207205500 +0100" stop="20151207210500 +0100">
+  <programme channel="MTV" start="20151208025500 +0100" stop="20151208030500 +0100">
     <length units="minutes">10</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -757,7 +528,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207210500 +0100" stop="20151207211000 +0100">
+  <programme channel="MTV" start="20151208030500 +0100" stop="20151208031000 +0100">
     <length units="minutes">5</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -775,7 +546,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207211000 +0100" stop="20151207212000 +0100">
+  <programme channel="MTV" start="20151208031000 +0100" stop="20151208032000 +0100">
     <length units="minutes">10</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -793,7 +564,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207212000 +0100" stop="20151207212500 +0100">
+  <programme channel="MTV" start="20151208032000 +0100" stop="20151208032500 +0100">
     <length units="minutes">5</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -811,7 +582,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207212500 +0100" stop="20151207214000 +0100">
+  <programme channel="MTV" start="20151208032500 +0100" stop="20151208034000 +0100">
     <length units="minutes">15</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -829,7 +600,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207214000 +0100" stop="20151207214500 +0100">
+  <programme channel="MTV" start="20151208034000 +0100" stop="20151208034500 +0100">
     <length units="minutes">5</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -847,7 +618,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207214500 +0100" stop="20151207220000 +0100">
+  <programme channel="MTV" start="20151208034500 +0100" stop="20151208040000 +0100">
     <length units="minutes">15</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -865,7 +636,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207220000 +0100" stop="20151207220500 +0100">
+  <programme channel="MTV" start="20151208040000 +0100" stop="20151208040500 +0100">
     <length units="minutes">5</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -883,7 +654,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207220500 +0100" stop="20151207221500 +0100">
+  <programme channel="MTV" start="20151208040500 +0100" stop="20151208041500 +0100">
     <length units="minutes">10</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -901,7 +672,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207221500 +0100" stop="20151207222500 +0100">
+  <programme channel="MTV" start="20151208041500 +0100" stop="20151208042500 +0100">
     <length units="minutes">10</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -919,7 +690,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207222500 +0100" stop="20151207223500 +0100">
+  <programme channel="MTV" start="20151208042500 +0100" stop="20151208043500 +0100">
     <length units="minutes">10</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -937,7 +708,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207223500 +0100" stop="20151207225000 +0100">
+  <programme channel="MTV" start="20151208043500 +0100" stop="20151208045000 +0100">
     <length units="minutes">15</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -955,7 +726,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207225000 +0100" stop="20151207225500 +0100">
+  <programme channel="MTV" start="20151208045000 +0100" stop="20151208045500 +0100">
     <length units="minutes">5</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -973,7 +744,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207225500 +0100" stop="20151207230500 +0100">
+  <programme channel="MTV" start="20151208045500 +0100" stop="20151208050500 +0100">
     <length units="minutes">10</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -991,7 +762,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207230500 +0100" stop="20151207231000 +0100">
+  <programme channel="MTV" start="20151208050500 +0100" stop="20151208051000 +0100">
     <length units="minutes">5</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -1009,7 +780,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207231000 +0100" stop="20151207231500 +0100">
+  <programme channel="MTV" start="20151208051000 +0100" stop="20151208051500 +0100">
     <length units="minutes">5</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -1027,7 +798,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207231500 +0100" stop="20151207232500 +0100">
+  <programme channel="MTV" start="20151208051500 +0100" stop="20151208052500 +0100">
     <length units="minutes">10</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -1045,7 +816,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207232500 +0100" stop="20151207233000 +0100">
+  <programme channel="MTV" start="20151208052500 +0100" stop="20151208053000 +0100">
     <length units="minutes">5</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -1063,7 +834,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207233000 +0100" stop="20151207235500 +0100">
+  <programme channel="MTV" start="20151208053000 +0100" stop="20151208055500 +0100">
     <length units="minutes">25</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -1081,7 +852,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207235500 +0100" stop="20151208000000 +0100">
+  <programme channel="MTV" start="20151208055500 +0100" stop="20151208060000 +0100">
     <length units="minutes">5</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -1099,7 +870,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208000000 +0100" stop="20151208001000 +0100">
+  <programme channel="MTV" start="20151208060000 +0100" stop="20151208061000 +0100">
     <length units="minutes">10</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -1117,7 +888,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208001000 +0100" stop="20151208001500 +0100">
+  <programme channel="MTV" start="20151208061000 +0100" stop="20151208061500 +0100">
     <length units="minutes">5</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -1135,7 +906,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208001500 +0100" stop="20151208002500 +0100">
+  <programme channel="MTV" start="20151208061500 +0100" stop="20151208062500 +0100">
     <length units="minutes">10</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -1153,7 +924,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208002500 +0100" stop="20151208004500 +0100">
+  <programme channel="MTV" start="20151208062500 +0100" stop="20151208064500 +0100">
     <length units="minutes">20</length>
     <title>Kaamelott</title>
     <category>Série</category>
@@ -1171,28 +942,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208004500 +0100" stop="20151208062500 +0100">
+  <programme channel="MTV" start="20151208064500 +0100" stop="20151208122500 +0100">
     <length units="minutes">340</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208062500 +0100" stop="20151208065000 +0100">
+  <programme channel="MTV" start="20151208122500 +0100" stop="20151208125000 +0100">
     <length units="minutes">25</length>
     <title>Chico Chica Boumba Pepper School</title>
     <category>Dessin animé</category>
     <desc>Le supermarché Une série animée pour apprendre les danses du... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208065000 +0100" stop="20151208072500 +0100">
+  <programme channel="MTV" start="20151208125000 +0100" stop="20151208132500 +0100">
     <length units="minutes">35</length>
     <title>Le petit Nicolas</title>
     <category>Dessin animé</category>
     <desc>Les aventures de Nicolas, un petit garçon... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208072500 +0100" stop="20151208083000 +0100">
+  <programme channel="MTV" start="20151208132500 +0100" stop="20151208143000 +0100">
     <length units="minutes">65</length>
     <title>Sammy &amp; Co</title>
     <category>Dessin animé</category>
@@ -1203,7 +974,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208083000 +0100" stop="20151208091500 +0100">
+  <programme channel="MTV" start="20151208143000 +0100" stop="20151208151500 +0100">
     <length units="minutes">45</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -1217,7 +988,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208091500 +0100" stop="20151208100500 +0100">
+  <programme channel="MTV" start="20151208151500 +0100" stop="20151208160500 +0100">
     <length units="minutes">50</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -1232,7 +1003,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208100500 +0100" stop="20151208105000 +0100">
+  <programme channel="MTV" start="20151208160500 +0100" stop="20151208165000 +0100">
     <length units="minutes">45</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -1244,7 +1015,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208105000 +0100" stop="20151208115000 +0100">
+  <programme channel="MTV" start="20151208165000 +0100" stop="20151208175000 +0100">
     <length units="minutes">60</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -1258,7 +1029,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208115000 +0100" stop="20151208124500 +0100">
+  <programme channel="MTV" start="20151208175000 +0100" stop="20151208184500 +0100">
     <length units="minutes">55</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
@@ -1277,7 +1048,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208124500 +0100" stop="20151208134000 +0100">
+  <programme channel="MTV" start="20151208184500 +0100" stop="20151208194000 +0100">
     <length units="minutes">55</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
@@ -1296,7 +1067,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208134000 +0100" stop="20151208144000 +0100">
+  <programme channel="MTV" start="20151208194000 +0100" stop="20151208204000 +0100">
     <length units="minutes">60</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
@@ -1315,21 +1086,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208144000 +0100" stop="20151208155000 +0100">
+  <programme channel="MTV" start="20151208204000 +0100" stop="20151208215000 +0100">
     <length units="minutes">70</length>
     <title>C'est ma vie</title>
     <category>Documentaire</category>
     <desc>Une nouvelle vie à Dubaï Juliette, mère célibataire, prévoit de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208155000 +0100" stop="20151208171500 +0100">
+  <programme channel="MTV" start="20151208215000 +0100" stop="20151208231500 +0100">
     <length units="minutes">85</length>
     <title>C'est ma vie</title>
     <category>Documentaire</category>
     <desc>Danse, patinage : prêts à tout pour être les meilleurs Agathe, 15 ans, rêve de devenir championne de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208171500 +0100" stop="20151208180000 +0100">
+  <programme channel="MTV" start="20151208231500 +0100" stop="20151209000000 +0100">
     <length units="minutes">45</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -1348,7 +1119,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208180000 +0100" stop="20151208184500 +0100">
+  <programme channel="MTV" start="20151209000000 +0100" stop="20151209004500 +0100">
     <length units="minutes">45</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -1367,7 +1138,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208184500 +0100" stop="20151208193500 +0100">
+  <programme channel="MTV" start="20151209004500 +0100" stop="20151209013500 +0100">
     <length units="minutes">50</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -1386,7 +1157,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208193500 +0100" stop="20151208205500 +0100">
+  <programme channel="MTV" start="20151209013500 +0100" stop="20151209025500 +0100">
     <length units="minutes">80</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -1405,7 +1176,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208205500 +0100" stop="20151208230000 +0100">
+  <programme channel="MTV" start="20151209025500 +0100" stop="20151209050000 +0100">
     <length units="minutes">125</length>
     <title>L'aventure intérieure (?)</title>
     <category>Film</category>
@@ -1423,49 +1194,49 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208230000 +0100" stop="20151208235500 +0100">
+  <programme channel="MTV" start="20151209050000 +0100" stop="20151209055500 +0100">
     <length units="minutes">55</length>
     <title>Storage Wars France : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Un crieur, quatre boxes remplis d'objets,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208235500 +0100" stop="20151209005500 +0100">
+  <programme channel="MTV" start="20151209055500 +0100" stop="20151209065500 +0100">
     <length units="minutes">60</length>
     <title>Storage Wars France : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Un crieur, quatre boxes remplis d'objets,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209005500 +0100" stop="20151209015000 +0100">
+  <programme channel="MTV" start="20151209065500 +0100" stop="20151209075000 +0100">
     <length units="minutes">55</length>
     <title>Storage Wars France : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Un crieur, quatre boxes remplis d'objets,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209015000 +0100" stop="20151209062500 +0100">
+  <programme channel="MTV" start="20151209075000 +0100" stop="20151209122500 +0100">
     <length units="minutes">275</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209062500 +0100" stop="20151209065000 +0100">
+  <programme channel="MTV" start="20151209122500 +0100" stop="20151209125000 +0100">
     <length units="minutes">25</length>
     <title>Chico Chica Boumba Pepper School</title>
     <category>Dessin animé</category>
     <desc>La soupière Une série animée pour apprendre les danses du... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209065000 +0100" stop="20151209072500 +0100">
+  <programme channel="MTV" start="20151209125000 +0100" stop="20151209132500 +0100">
     <length units="minutes">35</length>
     <title>Le petit Nicolas</title>
     <category>Dessin animé</category>
     <desc>Les aventures de Nicolas, un petit garçon... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209072500 +0100" stop="20151209083000 +0100">
+  <programme channel="MTV" start="20151209132500 +0100" stop="20151209143000 +0100">
     <length units="minutes">65</length>
     <title>Sammy &amp; Co</title>
     <category>Dessin animé</category>
@@ -1476,7 +1247,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209083000 +0100" stop="20151209091500 +0100">
+  <programme channel="MTV" start="20151209143000 +0100" stop="20151209151500 +0100">
     <length units="minutes">45</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -1490,7 +1261,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209091500 +0100" stop="20151209100500 +0100">
+  <programme channel="MTV" start="20151209151500 +0100" stop="20151209160500 +0100">
     <length units="minutes">50</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -1502,7 +1273,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209100500 +0100" stop="20151209105000 +0100">
+  <programme channel="MTV" start="20151209160500 +0100" stop="20151209165000 +0100">
     <length units="minutes">45</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -1516,7 +1287,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209105000 +0100" stop="20151209115000 +0100">
+  <programme channel="MTV" start="20151209165000 +0100" stop="20151209175000 +0100">
     <length units="minutes">60</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -1531,7 +1302,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209115000 +0100" stop="20151209124500 +0100">
+  <programme channel="MTV" start="20151209175000 +0100" stop="20151209184500 +0100">
     <length units="minutes">55</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
@@ -1550,7 +1321,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209124500 +0100" stop="20151209134000 +0100">
+  <programme channel="MTV" start="20151209184500 +0100" stop="20151209194000 +0100">
     <length units="minutes">55</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
@@ -1569,7 +1340,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209134000 +0100" stop="20151209144000 +0100">
+  <programme channel="MTV" start="20151209194000 +0100" stop="20151209204000 +0100">
     <length units="minutes">60</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
@@ -1588,21 +1359,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209144000 +0100" stop="20151209155000 +0100">
+  <programme channel="MTV" start="20151209204000 +0100" stop="20151209215000 +0100">
     <length units="minutes">70</length>
     <title>C'est ma vie</title>
     <category>Documentaire</category>
     <desc>Le prix de la passion Anouk, 17 ans et passionnée de cuisine, a... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209155000 +0100" stop="20151209171500 +0100">
+  <programme channel="MTV" start="20151209215000 +0100" stop="20151209231500 +0100">
     <length units="minutes">85</length>
     <title>C'est ma vie</title>
     <category>Documentaire</category>
     <desc>Au coeur du Samu de Toulon Au Samu de Toulon, une centaine d'infirmiers,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209171500 +0100" stop="20151209180000 +0100">
+  <programme channel="MTV" start="20151209231500 +0100" stop="20151210000000 +0100">
     <length units="minutes">45</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -1621,7 +1392,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209180000 +0100" stop="20151209184500 +0100">
+  <programme channel="MTV" start="20151210000000 +0100" stop="20151210004500 +0100">
     <length units="minutes">45</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -1640,7 +1411,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209184500 +0100" stop="20151209193500 +0100">
+  <programme channel="MTV" start="20151210004500 +0100" stop="20151210013500 +0100">
     <length units="minutes">50</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -1659,7 +1430,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209193500 +0100" stop="20151209205500 +0100">
+  <programme channel="MTV" start="20151210013500 +0100" stop="20151210025500 +0100">
     <length units="minutes">80</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -1678,7 +1449,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209205500 +0100" stop="20151209223500 +0100">
+  <programme channel="MTV" start="20151210025500 +0100" stop="20151210043500 +0100">
     <length units="minutes">100</length>
     <title>Jingle Belle</title>
     <category>Téléfilm</category>
@@ -1696,7 +1467,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209223500 +0100" stop="20151210001000 +0100">
+  <programme channel="MTV" start="20151210043500 +0100" stop="20151210061000 +0100">
     <length units="minutes">95</length>
     <title>Le chien qui a sauvé Noël</title>
     <category>Téléfilm</category>
@@ -1714,7 +1485,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210001000 +0100" stop="20151210014500 +0100">
+  <programme channel="MTV" start="20151210061000 +0100" stop="20151210074500 +0100">
     <length units="minutes">95</length>
     <title>Le Noël des petites terreurs</title>
     <category>Téléfilm</category>
@@ -1732,28 +1503,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210014500 +0100" stop="20151210062500 +0100">
+  <programme channel="MTV" start="20151210074500 +0100" stop="20151210122500 +0100">
     <length units="minutes">280</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210062500 +0100" stop="20151210065000 +0100">
+  <programme channel="MTV" start="20151210122500 +0100" stop="20151210125000 +0100">
     <length units="minutes">25</length>
     <title>Chico Chica Boumba Pepper School</title>
     <category>Dessin animé</category>
     <desc>Le grand froid Une série animée pour apprendre les danses du... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210065000 +0100" stop="20151210072500 +0100">
+  <programme channel="MTV" start="20151210125000 +0100" stop="20151210132500 +0100">
     <length units="minutes">35</length>
     <title>Le petit Nicolas</title>
     <category>Dessin animé</category>
     <desc>Les aventures de Nicolas, un petit garçon... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210072500 +0100" stop="20151210083000 +0100">
+  <programme channel="MTV" start="20151210132500 +0100" stop="20151210143000 +0100">
     <length units="minutes">65</length>
     <title>Sammy &amp; Co</title>
     <category>Dessin animé</category>
@@ -1764,7 +1535,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210083000 +0100" stop="20151210091500 +0100">
+  <programme channel="MTV" start="20151210143000 +0100" stop="20151210151500 +0100">
     <length units="minutes">45</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -1778,7 +1549,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210091500 +0100" stop="20151210100500 +0100">
+  <programme channel="MTV" start="20151210151500 +0100" stop="20151210160500 +0100">
     <length units="minutes">50</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -1791,7 +1562,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210100500 +0100" stop="20151210105000 +0100">
+  <programme channel="MTV" start="20151210160500 +0100" stop="20151210165000 +0100">
     <length units="minutes">45</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -1805,7 +1576,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210105000 +0100" stop="20151210115000 +0100">
+  <programme channel="MTV" start="20151210165000 +0100" stop="20151210175000 +0100">
     <length units="minutes">60</length>
     <title>Face au doute</title>
     <category>Série</category>
@@ -1817,7 +1588,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210115000 +0100" stop="20151210124500 +0100">
+  <programme channel="MTV" start="20151210175000 +0100" stop="20151210184500 +0100">
     <length units="minutes">55</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
@@ -1836,7 +1607,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210124500 +0100" stop="20151210134000 +0100">
+  <programme channel="MTV" start="20151210184500 +0100" stop="20151210194000 +0100">
     <length units="minutes">55</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
@@ -1855,7 +1626,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210134000 +0100" stop="20151210144000 +0100">
+  <programme channel="MTV" start="20151210194000 +0100" stop="20151210204000 +0100">
     <length units="minutes">60</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
@@ -1874,21 +1645,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210144000 +0100" stop="20151210155000 +0100">
+  <programme channel="MTV" start="20151210204000 +0100" stop="20151210215000 +0100">
     <length units="minutes">70</length>
     <title>C'est ma vie</title>
     <category>Documentaire</category>
     <desc>Quand complexes et vie de famille ne font pas bon ménage Violette déteste le regard des autres et vit... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210155000 +0100" stop="20151210171500 +0100">
+  <programme channel="MTV" start="20151210215000 +0100" stop="20151210231500 +0100">
     <length units="minutes">85</length>
     <title>C'est ma vie</title>
     <category>Documentaire</category>
     <desc>Assumer sa différence Kévin, 25 ans, use de stratégies pour cacher... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210171500 +0100" stop="20151210180000 +0100">
+  <programme channel="MTV" start="20151210231500 +0100" stop="20151211000000 +0100">
     <length units="minutes">45</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -1907,7 +1678,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210180000 +0100" stop="20151210184500 +0100">
+  <programme channel="MTV" start="20151211000000 +0100" stop="20151211004500 +0100">
     <length units="minutes">45</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -1926,7 +1697,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210184500 +0100" stop="20151210193500 +0100">
+  <programme channel="MTV" start="20151211004500 +0100" stop="20151211013500 +0100">
     <length units="minutes">50</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -1945,7 +1716,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210193500 +0100" stop="20151210205500 +0100">
+  <programme channel="MTV" start="20151211013500 +0100" stop="20151211025500 +0100">
     <length units="minutes">80</length>
     <title>Charmed</title>
     <category>Série</category>
@@ -1964,7 +1735,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210205500 +0100" stop="20151210214500 +0100">
+  <programme channel="MTV" start="20151211025500 +0100" stop="20151211034500 +0100">
     <length units="minutes">50</length>
     <title>Reign : le destin d'une reine</title>
     <category>Série</category>
@@ -1983,7 +1754,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210214500 +0100" stop="20151210223000 +0100">
+  <programme channel="MTV" start="20151211034500 +0100" stop="20151211043000 +0100">
     <length units="minutes">45</length>
     <title>Reign : le destin d'une reine</title>
     <category>Série</category>
@@ -2003,7 +1774,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210223000 +0100" stop="20151210231500 +0100">
+  <programme channel="MTV" start="20151211043000 +0100" stop="20151211051500 +0100">
     <length units="minutes">45</length>
     <title>Reign : le destin d'une reine</title>
     <category>Série</category>
@@ -2023,92 +1794,92 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210231500 +0100" stop="20151210234000 +0100">
+  <programme channel="MTV" start="20151211051500 +0100" stop="20151211054000 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Les enchères pour les nuls Les acheteurs se rendent à Stanton, en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210234000 +0100" stop="20151211000500 +0100">
+  <programme channel="MTV" start="20151211054000 +0100" stop="20151211060500 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
     <desc>Best of : Jarrod et Brandi Dans cet épisode spécial, retour sur les... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211000500 +0100" stop="20151211003000 +0100">
+  <programme channel="MTV" start="20151211060500 +0100" stop="20151211063000 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
-    <desc>Tout est permis Les acheteurs se rendent à Laguna Niguel, en... (Lire la suite).(n)</desc>
+    <desc>Tout est permis Les acheteurs se rendent à Laguna Niguel, en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211003000 +0100" stop="20151211005500 +0100">
+  <programme channel="MTV" start="20151211063000 +0100" stop="20151211065500 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
-    <desc>Le grand jeu Les acheteurs se rendent à Montebello en... (Lire la suite).(n)</desc>
+    <desc>Le grand jeu Les acheteurs se rendent à Montebello en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211005500 +0100" stop="20151211012000 +0100">
+  <programme channel="MTV" start="20151211065500 +0100" stop="20151211072000 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
-    <desc>Enchères à grande vitesse Les acheteurs se rendent à Lancaster en... (Lire la suite).(n)</desc>
+    <desc>Enchères à grande vitesse Les acheteurs se rendent à Lancaster en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211012000 +0100" stop="20151211014500 +0100">
+  <programme channel="MTV" start="20151211072000 +0100" stop="20151211074500 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
-    <desc>Un naufrage annoncé Les acheteurs se rendent à Irvine, en... (Lire la suite).(n)</desc>
+    <desc>Un naufrage annoncé Les acheteurs se rendent à Irvine, en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211014500 +0100" stop="20151211021000 +0100">
+  <programme channel="MTV" start="20151211074500 +0100" stop="20151211081000 +0100">
     <length units="minutes">25</length>
     <title>Storage Wars : enchères surprises</title>
     <category>Documentaire</category>
-    <desc>La vengeance du jedi Les acheteurs se rendent à Chatsworth, en... (Lire la suite).(n)</desc>
+    <desc>La vengeance du jedi Les acheteurs se rendent à Chatsworth, en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211021000 +0100" stop="20151211062500 +0100">
+  <programme channel="MTV" start="20151211081000 +0100" stop="20151211122500 +0100">
     <length units="minutes">255</length>
     <title>Programmes de la nuit</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211062500 +0100" stop="20151211065000 +0100">
+  <programme channel="MTV" start="20151211122500 +0100" stop="20151211125000 +0100">
     <length units="minutes">25</length>
     <title>Chico Chica Boumba Pepper School</title>
     <category>Dessin animé</category>
-    <desc>Le paillasson Une série animée pour apprendre les danses du... (Lire la suite).(n)</desc>
+    <desc>Le paillasson Une série animée pour apprendre les danses du... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211065000 +0100" stop="20151211072500 +0100">
+  <programme channel="MTV" start="20151211125000 +0100" stop="20151211132500 +0100">
     <length units="minutes">35</length>
     <title>Le petit Nicolas</title>
     <category>Dessin animé</category>
-    <desc>Les aventures de Nicolas, un petit garçon... (Lire la suite).(n)</desc>
+    <desc>Les aventures de Nicolas, un petit garçon... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211072500 +0100" stop="20151211083000 +0100">
+  <programme channel="MTV" start="20151211132500 +0100" stop="20151211143000 +0100">
     <length units="minutes">65</length>
     <title>Sammy &amp; Co</title>
     <category>Dessin animé</category>
-    <desc>Les aventures de Sammy, Ray et des deux... (Lire la suite).(n)</desc>
+    <desc>Les aventures de Sammy, Ray et des deux... (Lire la suite).</desc>
     <credits>
       <name function="director">Olivier Jongerlynck,</name>
       <name function="director">Nicolas Le Nevé</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211083000 +0100" stop="20151211091500 +0100">
+  <programme channel="MTV" start="20151211143000 +0100" stop="20151211151500 +0100">
     <length units="minutes">45</length>
     <title>Face au doute</title>
     <category>Série</category>
-    <desc>Camille Picard, 21 ans, vit en colocation... (Lire la suite).(n)</desc>
+    <desc>Camille Picard, 21 ans, vit en colocation... (Lire la suite).</desc>
     <credits>
       <name function="director">Jérôme Arras</name>
       <name function="actor">Charlène Brouxcau</name>
@@ -2119,11 +1890,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211091500 +0100" stop="20151211100500 +0100">
+  <programme channel="MTV" start="20151211151500 +0100" stop="20151211160500 +0100">
     <length units="minutes">50</length>
     <title>Face au doute</title>
     <category>Série</category>
-    <desc>Alors que Monica croyait son mari décédé en... (Lire la suite).(n)</desc>
+    <desc>Alors que Monica croyait son mari décédé en... (Lire la suite).</desc>
     <credits>
       <name function="director">Audrey Zouari</name>
       <name function="actor">Christian LeBlanc</name>
@@ -2133,11 +1904,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211100500 +0100" stop="20151211105000 +0100">
+  <programme channel="MTV" start="20151211160500 +0100" stop="20151211165000 +0100">
     <length units="minutes">45</length>
     <title>Face au doute</title>
     <category>Série</category>
-    <desc>Un matin, deux officiers de police se... (Lire la suite).(n)</desc>
+    <desc>Un matin, deux officiers de police se... (Lire la suite).</desc>
     <credits>
       <name function="director">Jérôme Arras</name>
       <name function="actor">Corinne Roland</name>
@@ -2147,11 +1918,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211105000 +0100" stop="20151211115000 +0100">
+  <programme channel="MTV" start="20151211165000 +0100" stop="20151211175000 +0100">
     <length units="minutes">60</length>
     <title>Face au doute</title>
     <category>Série</category>
-    <desc>Sarah Miccoli est grand-mère à 34 ans. Sa vie... (Lire la suite).(n)</desc>
+    <desc>Sarah Miccoli est grand-mère à 34 ans. Sa vie... (Lire la suite).</desc>
     <credits>
       <name function="director">Eric Capitaine</name>
       <name function="actor">Marion Garampon</name>
@@ -2162,11 +1933,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211115000 +0100" stop="20151211124500 +0100">
+  <programme channel="MTV" start="20151211175000 +0100" stop="20151211184500 +0100">
     <length units="minutes">55</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
-    <desc>Tout en refusant d'avouer sa jalousie, le... (Lire la suite).(n)</desc>
+    <desc>Tout en refusant d'avouer sa jalousie, le... (Lire la suite).</desc>
     <credits>
       <name function="director">James Keach</name>
       <name function="actor">Jane Seymour</name>
@@ -2181,11 +1952,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211124500 +0100" stop="20151211134000 +0100">
+  <programme channel="MTV" start="20151211184500 +0100" stop="20151211194000 +0100">
     <length units="minutes">55</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
-    <desc>Les mineurs de Colorado Springs sont en grève... (Lire la suite).(n)</desc>
+    <desc>Les mineurs de Colorado Springs sont en grève... (Lire la suite).</desc>
     <credits>
       <name function="director">Chuck Bowman</name>
       <name function="actor">Jane Seymour</name>
@@ -2200,11 +1971,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211134000 +0100" stop="20151211144000 +0100">
+  <programme channel="MTV" start="20151211194000 +0100" stop="20151211204000 +0100">
     <length units="minutes">60</length>
     <title>Docteur Quinn, femme médecin</title>
     <category>Série</category>
-    <desc>La cavalerie demande à Sully et au docteur... (Lire la suite).(n)</desc>
+    <desc>La cavalerie demande à Sully et au docteur... (Lire la suite).</desc>
     <credits>
       <name function="director">James Keach</name>
       <name function="actor">Jane Seymour</name>
@@ -2219,25 +1990,25 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211144000 +0100" stop="20151211155000 +0100">
+  <programme channel="MTV" start="20151211204000 +0100" stop="20151211215000 +0100">
     <length units="minutes">70</length>
     <title>C'est ma vie</title>
     <category>Documentaire</category>
-    <desc>En quête de l'amour pour toujours Nathalie et Christophe s'apprêtent à renouveler (Lire la suite).(n)</desc>
+    <desc>En quête de l'amour pour toujours Nathalie et Christophe s'apprêtent à renouveler (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211155000 +0100" stop="20151211171500 +0100">
+  <programme channel="MTV" start="20151211215000 +0100" stop="20151211231500 +0100">
     <length units="minutes">85</length>
     <title>C'est ma vie</title>
     <category>Documentaire</category>
-    <desc>Apprendre à se dépasser Bien que titulaire du permis de conduire... (Lire la suite).(n)</desc>
+    <desc>Apprendre à se dépasser Bien que titulaire du permis de conduire... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211171500 +0100" stop="20151211180000 +0100">
+  <programme channel="MTV" start="20151211231500 +0100" stop="20151212000000 +0100">
     <length units="minutes">45</length>
     <title>Charmed</title>
     <category>Série</category>
-    <desc>Phoebe et Paige se rendent à une réunion au... (Lire la suite).(n)</desc>
+    <desc>Phoebe et Paige se rendent à une réunion au... (Lire la suite).</desc>
     <credits>
       <name function="director">Stuart Gillard</name>
       <name function="actor">Alyssa Milano</name>
@@ -2252,11 +2023,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211180000 +0100" stop="20151211184500 +0100">
+  <programme channel="MTV" start="20151212000000 +0100" stop="20151212004500 +0100">
     <length units="minutes">45</length>
     <title>Charmed</title>
     <category>Série</category>
-    <desc>Après qu'un démon a tenté de kidnapper le... (Lire la suite).(n)</desc>
+    <desc>Après qu'un démon a tenté de kidnapper le... (Lire la suite).</desc>
     <credits>
       <name function="director">John T Kretchmer</name>
       <name function="actor">Alyssa Milano</name>
@@ -2271,11 +2042,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211184500 +0100" stop="20151211193500 +0100">
+  <programme channel="MTV" start="20151212004500 +0100" stop="20151212013500 +0100">
     <length units="minutes">50</length>
     <title>Charmed</title>
     <category>Série</category>
-    <desc>Les trois soeurs Halliwell pourchassent sans... (Lire la suite).(n)</desc>
+    <desc>Les trois soeurs Halliwell pourchassent sans... (Lire la suite).</desc>
     <credits>
       <name function="director">Roxann Dawson</name>
       <name function="actor">Alyssa Milano</name>
@@ -2290,11 +2061,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211193500 +0100" stop="20151211205500 +0100">
+  <programme channel="MTV" start="20151212013500 +0100" stop="20151212025500 +0100">
     <length units="minutes">80</length>
     <title>Charmed</title>
     <category>Série</category>
-    <desc>Quand l'union de Piper et Leo commence à... (Lire la suite).(n)</desc>
+    <desc>Quand l'union de Piper et Leo commence à... (Lire la suite).</desc>
     <credits>
       <name function="director">James L Conway</name>
       <name function="actor">Alyssa Milano</name>
@@ -2309,39 +2080,262 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211205500 +0100" stop="20151211220500 +0100">
+  <programme channel="MTV" start="20151212025500 +0100" stop="20151212040500 +0100">
     <length units="minutes">70</length>
     <title>Norbert, commis d'office</title>
     <category>Magazine</category>
-    <desc>A l'occasion des fêtes de fin d'année,... (Lire la suite).(n)</desc>
+    <desc>A l'occasion des fêtes de fin d'année,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Norbert Tarayre</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211220500 +0100" stop="20151211230000 +0100">
+  <programme channel="MTV" start="20151212040500 +0100" stop="20151212050000 +0100">
     <length units="minutes">55</length>
     <title>Norbert et Jean : le défi</title>
     <category>Magazine</category>
-    <desc>Hermeline, mère au foyer de quatre enfants,... (Lire la suite).(n)</desc>
+    <desc>Hermeline, mère au foyer de quatre enfants,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean Imbert,</name>
       <name function="presenter">Norbert Tarayre</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211230000 +0100" stop="20151211234500 +0100">
+  <programme channel="MTV" start="20151212050000 +0100" stop="20151212054500 +0100">
     <length units="minutes">45</length>
     <title>Resto sous surveillance</title>
     <category>Documentaire</category>
-    <desc>Le mélange des genres Bob Winegar est le propriétaire du Junction... (Lire la suite).(n)</desc>
+    <desc>Le mélange des genres Bob Winegar est le propriétaire du Junction... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211234500 +0100" stop="20151212003500 +0100">
+  <programme channel="MTV" start="20151212054500 +0100" stop="20151212063500 +0100">
     <length units="minutes">50</length>
     <title>Resto sous surveillance</title>
     <category>Documentaire</category>
-    <desc>En mémoire de mon père Willie vient en aide au Michael's Roscommon... (Lire la suite).(n)</desc>
+    <desc>En mémoire de mon père Willie vient en aide au Michael's Roscommon... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212063500 +0100" stop="20151212072000 +0100">
+    <length units="minutes">45</length>
+    <title>Resto sous surveillance</title>
+    <category>Documentaire</category>
+    <desc>Deux frères en cuisine René Barzola et son frère Jay sont propriétaires (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212072000 +0100" stop="20151212080500 +0100">
+    <length units="minutes">45</length>
+    <title>Resto sous surveillance</title>
+    <category>Documentaire</category>
+    <desc>La revanche d'une blonde Dena Fenza est la propriétaire du BlonDee's,... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212080500 +0100" stop="20151212125000 +0100">
+    <length units="minutes">285</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212125000 +0100" stop="20151212133500 +0100">
+    <length units="minutes">45</length>
+    <title>Face au doute</title>
+    <category>Série</category>
+    <desc>Alors que Monica croyait son mari décédé en... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Audrey Zouari</name>
+      <name function="actor">Christian LeBlanc</name>
+      <name function="actor">Sandrine Thevenin</name>
+      <name function="actor">Philippe Pingault</name>
+      <name function="writer">Boulomsouk Svadphaiphane</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212133500 +0100" stop="20151212142000 +0100">
+    <length units="minutes">45</length>
+    <title>Face au doute</title>
+    <category>Série</category>
+    <desc>Nicole Lamarthe, 56 ans, est veuve depuis... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="actor">Miguel Lopez</name>
+      <name function="actor">Morgane Kandel</name>
+      <name function="actor">Christine Germerie</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212142000 +0100" stop="20151212145500 +0100">
+    <length units="minutes">35</length>
+    <title>Face au doute</title>
+    <category>Série</category>
+    <desc>Edith Valmont, 43 ans, élève seule ses deux... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Amal el-Hachimi</name>
+      <name function="actor">Vincent Bonhomme</name>
+      <name function="actor">Florence Blanchard</name>
+      <name function="actor">Patrick Laguerre</name>
+      <name function="actor">Jean-Pierre Perry</name>
+      <name function="writer">Lucie Mei D'Alby</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212145500 +0100" stop="20151212153500 +0100">
+    <length units="minutes">40</length>
+    <title>Face au doute</title>
+    <category>Série</category>
+    <desc>Sarah Miccoli est grand-mère à 34 ans. Sa vie... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Eric Capitaine</name>
+      <name function="actor">Marion Garampon</name>
+      <name function="actor">Charlote Pingault</name>
+      <name function="actor">Stéphane Gromard</name>
+      <name function="actor">David Gailard</name>
+      <name function="writer">Fabrice Gobert</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212153500 +0100" stop="20151212162000 +0100">
+    <length units="minutes">45</length>
+    <title>Face au doute</title>
+    <category>Série</category>
+    <desc>Tamara et Cyril ont deux enfants, une fille... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Sophie Palies</name>
+      <name function="actor">Cyril Fonck</name>
+      <name function="actor">Fatima Benhassoun</name>
+      <name function="actor">Karine Boussadia</name>
+      <name function="writer">Bruno Claus</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212162000 +0100" stop="20151212171000 +0100">
+    <length units="minutes">50</length>
+    <title>SOS Tabatha</title>
+    <category>Téléréalité</category>
+    <desc>NexGen était un salon de coiffure pour hommes... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Tabatha Coffey</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212171000 +0100" stop="20151212180000 +0100">
+    <length units="minutes">50</length>
+    <title>SOS Tabatha</title>
+    <category>Téléréalité</category>
+    <desc>Willie et Mary Jimenez ont réalisé leur rêve... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Tabatha Coffey</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212180000 +0100" stop="20151212185000 +0100">
+    <length units="minutes">50</length>
+    <title>SOS Tabatha</title>
+    <category>Téléréalité</category>
+    <desc>Jennifer Norfleet et Tiffany Crawford, deux... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Tabatha Coffey</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212185000 +0100" stop="20151212194000 +0100">
+    <length units="minutes">50</length>
+    <title>SOS Tabatha</title>
+    <category>Téléréalité</category>
+    <desc>Jenn Cady, photographe et ancienne reine de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Tabatha Coffey</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212194000 +0100" stop="20151212203000 +0100">
+    <length units="minutes">50</length>
+    <title>SOS Tabatha</title>
+    <category>Téléréalité</category>
+    <desc>Le Nadia's Family Salon est un salon de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Tabatha Coffey</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212203000 +0100" stop="20151212222500 +0100">
+    <length units="minutes">115</length>
+    <title>Terrain d'investigation</title>
+    <category>Magazine</category>
+    <desc>Tous les ans, début mai, pendant douze jours,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Anicet Mbida</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212222500 +0100" stop="20151213002000 +0100">
+    <length units="minutes">115</length>
+    <title>Terrain d'investigation</title>
+    <category>Magazine</category>
+    <desc>Chaque année, 8000 candidats se présentent au... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Anicet Mbida</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213002000 +0100" stop="20151213013000 +0100">
+    <length units="minutes">70</length>
+    <title>Norbert, commis d'office</title>
+    <category>Magazine</category>
+    <desc>Norbert apprend à Maha à réaliser une vraie... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Norbert Tarayre</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213013000 +0100" stop="20151213025500 +0100">
+    <length units="minutes">85</length>
+    <title>Norbert, commis d'office</title>
+    <category>Magazine</category>
+    <desc>Norbert est appelé à l'aide pour venir... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Norbert Tarayre</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213025500 +0100" stop="20151213034500 +0100">
+    <length units="minutes">50</length>
+    <title>Storage Wars France : enchères surprises</title>
+    <category>Documentaire</category>
+    <desc>Un crieur, quatre boxes remplis d'objets,... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213034500 +0100" stop="20151213044000 +0100">
+    <length units="minutes">55</length>
+    <title>Storage Wars France : enchères surprises</title>
+    <category>Documentaire</category>
+    <desc>Un crieur, quatre boxes remplis d'objets,... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213044000 +0100" stop="20151213050500 +0100">
+    <length units="minutes">25</length>
+    <title>Storage Wars : enchères surprises</title>
+    <category>Documentaire</category>
+    <desc>Tout est permis Les acheteurs se rendent à Laguna Niguel, en... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213050500 +0100" stop="20151213053000 +0100">
+    <length units="minutes">25</length>
+    <title>Storage Wars : enchères surprises</title>
+    <category>Documentaire</category>
+    <desc>Le grand jeu Les acheteurs se rendent à Montebello en... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213053000 +0100" stop="20151213055500 +0100">
+    <length units="minutes">25</length>
+    <title>Storage Wars : enchères surprises</title>
+    <category>Documentaire</category>
+    <desc>Barry brise la glace Les acheteurs se rendent à Oxnard en Californie, (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213055500 +0100" stop="20151213062000 +0100">
+    <length units="minutes">25</length>
+    <title>Storage Wars : enchères surprises</title>
+    <category>Documentaire</category>
+    <desc>Mission suicide Les acheteurs se rendent à Hawaïan Garden en... (Lire la suite).(n)</desc>
     <image />
   </programme>
 </tv>

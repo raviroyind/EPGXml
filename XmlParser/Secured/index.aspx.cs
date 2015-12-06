@@ -18,6 +18,7 @@ using System.Web.UI.WebControls;
 using System.Xml.Linq;
 using Ionic.Zip;
 using XmlParser.Code;
+using XmlParser.Core.Core;
 using XmlParser.DataContext;
 
 #endregion Using ...
@@ -119,7 +120,8 @@ namespace XmlParser
                                          // ignored
                                      }
 
-                                     GenerateOutputXml(xmlFile,source.Srno, newChannelName, newOffset);
+                                  _outputXmlList.AddRange(ParserEngine.GenerateOutputXml(xmlFile,source.Srno,out _startDate,out _stopDate,  newChannelName, newOffset));
+                                   //GenerateOutputXml(xmlFile,source.Srno, newChannelName, newOffset);
                                  }
                             }
                         }
@@ -278,121 +280,11 @@ namespace XmlParser
             }
         }
 
-        private static ICollection<ActiveChannel> GetActiveChannels(string url, long id)
-        {
-            ICollection<ActiveChannel> activeChannelList=new List<ActiveChannel>();
-            var type = string.Empty;
-
-            switch (url.Substring(url.LastIndexOf('.'), 4).ToLower())
-            {
-                case ".zip":
-                    type = "Zip";
-                    break;
-                case ".xml":
-                    type = "Xml";
-                    break;
-            }
-
-            if (type.Equals("Xml"))
-            {
-                var localFile = HttpContext.Current.Server.MapPath(DownloadFile(url, ".xml"));
-                var doc = XDocument.Load(localFile);
-                var channelList = doc.Descendants("channel").ToList();
-
-                foreach (var channel in channelList)
-                {
-                    var name = channel.Value;
-
-                    if (string.IsNullOrEmpty(name))
-                        name = channel.Attributes("display-name").First().Value;
-
-                    if (name.Contains("http://"))
-                        name = name.Substring(0, name.IndexOf("http:", StringComparison.Ordinal));
-                    
-                    activeChannelList.Add(
-                        new ActiveChannel
-                        {
-                            SourceId = id,
-                            ChannelName = name,
-                            IsActive = false
-                        });
-                }
-            }
-            else if (type.Equals("Zip"))
-            {
-                ClearDirectory(HttpContext.Current.Server.MapPath(@"../ZipArchives/"));
-                var localFile = HttpContext.Current.Server.MapPath(DownloadFile(url, ".zip"));
-                var zip = ZipFile.Read(localFile);
-                zip.ExtractAll(HttpContext.Current.Server.MapPath(@"../ZipArchives/"), ExtractExistingFileAction.OverwriteSilently);
-
-                var files = Directory.GetFiles(HttpContext.Current.Server.MapPath(@"../ZipArchives/" + Path.GetFileNameWithoutExtension(localFile)), "*.xml", SearchOption.TopDirectoryOnly);
-
-                foreach (var xmlFile in files)
-                {
-                    var doc = XDocument.Load(xmlFile);
-                    var channelList = doc.Descendants("channel").ToList();
-
-                    foreach (var channel in channelList)
-                    {
-                        var name = channel.Value;
-
-                        if (string.IsNullOrEmpty(name))
-                            name = channel.Attributes("display-name").First().Value;
-
-                        if (name.Contains("http://"))
-                            name = name.Substring(0, name.IndexOf("http:", StringComparison.Ordinal));
-
-                        activeChannelList.Add(
-                            new ActiveChannel
-                            {
-                                SourceId = id,
-                                ChannelName = name,
-                                IsActive = false
-                            });
-                    }
-                }
-                 
-            }
-
-            return activeChannelList;
-        }
+       
 
         #endregion Events....
 
         #region Functions...
-
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="zipFileName"></param>
-        /// <param name="outputDirectory"></param>
-        private void ExtractFileToDirectory(string zipFileName, string outputDirectory)
-        {
-            //ClearDirectory(outputDirectory);
-
-            var zip = ZipFile.Read(Server.MapPath(zipFileName));
-            zip.ExtractAll(outputDirectory, ExtractExistingFileAction.OverwriteSilently);
-
-            var files = Directory.GetFiles(outputDirectory, "*.xml", SearchOption.TopDirectoryOnly);
-
-            foreach (var xmlFile in files)
-            {
-                _sourceXmlList.Add(xmlFile);
-            }
-
-        }
-
-        /// <summary>
-        /// Clean destination directory for new set of source xmls.
-        /// </summary>
-        /// <param name="path">Path where xmls will be extracted.</param>
-        private static void ClearDirectory(string path)
-        {
-            foreach (var file in Directory.GetFiles(path).Where(file => !string.IsNullOrEmpty(file)))
-            {
-                File.Delete(file);
-            }
-        }
 
         /// <summary>
         /// Generates main output xml.
@@ -722,7 +614,6 @@ namespace XmlParser
             }
           
         }
- 
 
         /// <summary>
         /// Add Time Offset to Start & End attributes of output xml based on query string value for offset.
@@ -780,6 +671,118 @@ namespace XmlParser
             return illegal;
         }
 
+        private static ICollection<ActiveChannel> GetActiveChannels(string url, long id)
+        {
+            ICollection<ActiveChannel> activeChannelList = new List<ActiveChannel>();
+            var type = string.Empty;
+
+            switch (url.Substring(url.LastIndexOf('.'), 4).ToLower())
+            {
+                case ".zip":
+                    type = "Zip";
+                    break;
+                case ".xml":
+                    type = "Xml";
+                    break;
+            }
+
+            if (type.Equals("Xml"))
+            {
+                var localFile = HttpContext.Current.Server.MapPath(DownloadFile(url, ".xml"));
+                var doc = XDocument.Load(localFile);
+                var channelList = doc.Descendants("channel").ToList();
+
+                foreach (var channel in channelList)
+                {
+                    var name = channel.Value;
+
+                    if (string.IsNullOrEmpty(name))
+                        name = channel.Attributes("display-name").First().Value;
+
+                    if (name.Contains("http://"))
+                        name = name.Substring(0, name.IndexOf("http:", StringComparison.Ordinal));
+
+                    activeChannelList.Add(
+                        new ActiveChannel
+                        {
+                            SourceId = id,
+                            ChannelName = name,
+                            IsActive = false
+                        });
+                }
+            }
+            else if (type.Equals("Zip"))
+            {
+                ClearDirectory(HttpContext.Current.Server.MapPath(@"../ZipArchives/"));
+                var localFile = HttpContext.Current.Server.MapPath(DownloadFile(url, ".zip"));
+                var zip = ZipFile.Read(localFile);
+                zip.ExtractAll(HttpContext.Current.Server.MapPath(@"../ZipArchives/"), ExtractExistingFileAction.OverwriteSilently);
+
+                var files = Directory.GetFiles(HttpContext.Current.Server.MapPath(@"../ZipArchives/" + Path.GetFileNameWithoutExtension(localFile)), "*.xml", SearchOption.TopDirectoryOnly);
+
+                foreach (var xmlFile in files)
+                {
+                    var doc = XDocument.Load(xmlFile);
+                    var channelList = doc.Descendants("channel").ToList();
+
+                    foreach (var channel in channelList)
+                    {
+                        var name = channel.Value;
+
+                        if (string.IsNullOrEmpty(name))
+                            name = channel.Attributes("display-name").First().Value;
+
+                        if (name.Contains("http://"))
+                            name = name.Substring(0, name.IndexOf("http:", StringComparison.Ordinal));
+
+                        activeChannelList.Add(
+                            new ActiveChannel
+                            {
+                                SourceId = id,
+                                ChannelName = name,
+                                IsActive = false
+                            });
+                    }
+                }
+
+            }
+
+            return activeChannelList;
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="zipFileName"></param>
+        /// <param name="outputDirectory"></param>
+        private void ExtractFileToDirectory(string zipFileName, string outputDirectory)
+        {
+            //ClearDirectory(outputDirectory);
+
+            var zip = ZipFile.Read(Server.MapPath(zipFileName));
+            zip.ExtractAll(outputDirectory, ExtractExistingFileAction.OverwriteSilently);
+
+            var files = Directory.GetFiles(outputDirectory, "*.xml", SearchOption.TopDirectoryOnly);
+
+            foreach (var xmlFile in files)
+            {
+                _sourceXmlList.Add(xmlFile);
+            }
+
+        }
+
+        /// <summary>
+        /// Clean destination directory for new set of source xmls.
+        /// </summary>
+        /// <param name="path">Path where xmls will be extracted.</param>
+        private static void ClearDirectory(string path)
+        {
+            foreach (var file in Directory.GetFiles(path).Where(file => !string.IsNullOrEmpty(file)))
+            {
+                File.Delete(file);
+            }
+        }
+
         #endregion Functions...
 
         #region Grid Events....
@@ -812,6 +815,12 @@ namespace XmlParser
                         {
                             hypChannel.CssClass = "btn btn-success";
                             hypChannel.ToolTip = channelList.Count +" channels active!";
+                        }
+                        else
+                        {
+
+                            ClientScript.RegisterStartupScript(this.GetType(), Guid.NewGuid().ToString(), "blink(\"a[id^='MainContent_gvXMLSource_hypChannel_']\", -1, 1000);", true);
+ 
                         }
                     }
                     

@@ -1,288 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Ciné+ Premier">
-    <display-name>test</display-name>
+    <display-name>MTV</display-name>
   </channel>
-  <programme channel="test" start="20151205012000 +0100" stop="20151205024000 +0100">
-    <length units="minutes">80</length>
-    <title>Grand départ (?)</title>
-    <category>Film</category>
-    <desc>A l'aube de la trentaine, Romain apprend que son père est atteint d'une maladie neurodégénérative aussi insolite que terrifiante. Face à cette... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Nicolas Mercier</name>
-      <name function="actor">Eddy Mitchell</name>
-      <name function="actor">Chantal Lauby</name>
-      <name function="actor">Benjamin Rolland</name>
-      <name function="actor">Jérémie Elkaïm</name>
-      <name function="actor">Charlotte de Turckheim</name>
-      <name function="actor">Zoé Félix</name>
-      <name function="actor">Timothée de Roux</name>
-      <name function="actor">Pio Marmaï</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205024000 +0100" stop="20151205042000 +0100">
-    <length units="minutes">100</length>
-    <title>Les derniers jours (?)</title>
-    <category>Film</category>
-    <desc>Une étrange épidémie agoraphobique, d'origine encore inconnue, se propage sur toute la planète, en avril 2013. Les dégâts sont considérables :... (Lire la suite).</desc>
-    <credits>
-      <name function="director">David Pastor,</name>
-      <name function="director">Alex Pastor</name>
-      <name function="actor">José Coronado</name>
-      <name function="actor">Pere Ventura</name>
-      <name function="actor">Leticia Dolera</name>
-      <name function="actor">Quim Gutiérrez</name>
-      <name function="actor">Marta Etura</name>
-      <name function="actor">Ivan Massagué</name>
-      <name function="actor">Mikel Iglesias</name>
-      <name function="actor">Pere Brasó</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205042000 +0100" stop="20151205060000 +0100">
-    <length units="minutes">100</length>
-    <title>La confrérie des larmes (?)</title>
-    <category>Film</category>
-    <desc>A Paris, Gabriel, la trentaine, croule sous les dettes de jeu. Licencié à la suite d'un drame personnel, cet ex-membre de la brigade criminelle... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Jean-Baptiste Andrea</name>
-      <name function="actor">Antoine Basler</name>
-      <name function="actor">Bruno Ricci</name>
-      <name function="actor">Bouli Lanners</name>
-      <name function="actor">Audrey Fleurot</name>
-      <name function="actor">Jérémie Renier</name>
-      <name function="actor">Thomas Coumans</name>
-      <name function="actor">Mélusine Mayance</name>
-      <name function="actor">Affif Ben Badra</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205060000 +0100" stop="20151205061000 +0100">
-    <length units="minutes">10</length>
-    <title>Interruption des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205061000 +0100" stop="20151205074000 +0100">
-    <length units="minutes">90</length>
-    <title>Les conquérants (?)</title>
-    <category>Film</category>
-    <desc>Galaad et Noé rejoignent en stop le cimetière où une foule nombreuse enterre leur père, avant un dernier hommage en musique à cette sorte d'ogre,... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Xabi Molia</name>
-      <name function="actor">Mathieu Demy</name>
-      <name function="actor">Christian Crahay</name>
-      <name function="actor">Denis Podalydès</name>
-      <name function="actor">Julie Kapour</name>
-      <name function="actor">Michel Dubois</name>
-      <name function="actor">Xabi Molia</name>
-      <name function="actor">Charlotte Krenz</name>
-      <name function="actor">Michel Molia</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205074000 +0100" stop="20151205092500 +0100">
-    <length units="minutes">105</length>
-    <title>Les derniers jours (?)</title>
-    <category>Film</category>
-    <desc>Une étrange épidémie agoraphobique, d'origine encore inconnue, se propage sur toute la planète, en avril 2013. Les dégâts sont considérables :... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">David Pastor,</name>
-      <name function="director">Alex Pastor</name>
-      <name function="actor">José Coronado</name>
-      <name function="actor">Pere Ventura</name>
-      <name function="actor">Leticia Dolera</name>
-      <name function="actor">Quim Gutiérrez</name>
-      <name function="actor">Marta Etura</name>
-      <name function="actor">Ivan Massagué</name>
-      <name function="actor">Mikel Iglesias</name>
-      <name function="actor">Pere Brasó</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205092500 +0100" stop="20151205105500 +0100">
-    <length units="minutes">90</length>
-    <title>Players (?)</title>
-    <category>Film</category>
-    <desc>Richie pensait avoir trouvé le moyen infaillible pour payer ses coûteuses études à la prestigieuse université de Princeton. Il est persuadé... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Brad Furman</name>
-      <name function="actor">Justin Timberlake</name>
-      <name function="actor">David Costabile</name>
-      <name function="actor">Anthony Mackie</name>
-      <name function="actor">Gemma Arterton</name>
-      <name function="actor">Ben Affleck</name>
-      <name function="actor">Ben Schwartz</name>
-      <name function="actor">Oliver Cooper</name>
-      <name function="actor">Sam Palladio</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205105500 +0100" stop="20151205122000 +0100">
-    <length units="minutes">85</length>
-    <title>Le bruit des glaçons (?)</title>
-    <category>Film</category>
-    <desc>Charles Faulque, écrivain célèbre et alcoolique, a la désagréable surprise de recevoir la visite de son cancer dans sa belle villa du Sud de la... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Bertrand Blier</name>
-      <name function="actor">Myriam Boyer</name>
-      <name function="actor">Eric Prat</name>
-      <name function="actor">Albert Dupontel</name>
-      <name function="actor">Anne Alvaro</name>
-      <name function="actor">Jean Dujardin</name>
-      <name function="actor">Audrey Dana</name>
-      <name function="actor">Christa Theret</name>
-      <name function="actor">Emile Berling</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205122000 +0100" stop="20151205134500 +0100">
-    <length units="minutes">85</length>
-    <title>Le sens de l'humour (?)</title>
-    <category>Film</category>
-    <desc>Elise ne parvient pas à se remettre du décès de son compagnon. Avec son fils Léo, elle essaie de mener une existence normale. Elise rencontre... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Marilyne Canto</name>
-      <name function="actor">Antoine Chappey</name>
-      <name function="actor">Jean-Luc Lucas</name>
-      <name function="actor">Jules Ritmanic</name>
-      <name function="actor">Astrid Adverbe</name>
-      <name function="actor">Samson Dajczman</name>
-      <name function="actor">Jean-Marie Chappey</name>
-      <name function="actor">Félix Kiritzé-Topor</name>
-      <name function="actor">Marilyne Canto</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205134500 +0100" stop="20151205152000 +0100">
-    <length units="minutes">95</length>
-    <title>Secret Identity (?)</title>
-    <category>Film</category>
-    <desc>Alors qu'il était agent gouvernemental, Paul Shepherdson a passé le plus clair de son temps à traquer le mystérieux Cassius, un dangereux tueur... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Michael Brandt</name>
-      <name function="actor">Stephen Moyer</name>
-      <name function="actor">Topher Grace</name>
-      <name function="actor">Chris Marquette</name>
-      <name function="actor">Richard Gere</name>
-      <name function="actor">Martin Sheen</name>
-      <name function="actor">Tamer Hassan</name>
-      <name function="actor">Stana Katic</name>
-      <name function="actor">Odette Annable</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205152000 +0100" stop="20151205165500 +0100">
-    <length units="minutes">95</length>
-    <title>Crazy Joe (?)</title>
-    <category>Film</category>
-    <desc>Ancien soldat des forces spéciales britanniques envoyé en Afghanistan, Joey Jones échappe à un procès en cour martiale en prenant la fuite. Sans... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Steven Knight</name>
-      <name function="actor">Ger Ryan</name>
-      <name function="actor">Agata Buzek</name>
-      <name function="actor">Jason Statham</name>
-      <name function="actor">Vicky McClure</name>
-      <name function="actor">Benedict Wong</name>
-      <name function="actor">Siobhan Hewlett</name>
-      <name function="actor">Youssef Kerkour</name>
-      <name function="actor">Victoria Bewick</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205165500 +0100" stop="20151205184500 +0100">
-    <length units="minutes">110</length>
-    <title>Le coût de la vie (?)</title>
-    <category>Film</category>
-    <desc>Coway, un restaurateur dépensier, ne parvient pas à freiner sa générosité, ce qui le conduit à l'endettement. Brett, au contraire, est très... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Philippe Le Guay</name>
-      <name function="actor">Vincent Lindon</name>
-      <name function="actor">Claude Rich</name>
-      <name function="actor">Camille Japy</name>
-      <name function="actor">Catherine Hosmalin</name>
-      <name function="actor">Fabrice Luchini</name>
-      <name function="actor">Isild Le Besco</name>
-      <name function="actor">Lorànt Deutsch</name>
-      <name function="actor">Géraldine Pailhas</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205184500 +0100" stop="20151205201000 +0100">
-    <length units="minutes">85</length>
-    <title>Cravate club (?)</title>
-    <category>Film</category>
-    <desc>Bernard et Adrien travaillent dans le même cabinet d'architecture. Ils sont amis depuis longtemps et pourtant, ils sont très différents. Bernard,... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Frédéric Jardin</name>
-      <name function="actor">Edouard Baer</name>
-      <name function="actor">Charles Berling</name>
-      <name function="actor">Patrick Mille</name>
-      <name function="actor">Lloyd Kaufman</name>
-      <name function="actor">Philippe Cotten</name>
-      <name function="actor">Albane Urbin</name>
-      <name function="actor">Pierre Balesi</name>
-      <name function="actor">Francesco Walter de Araujo</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205201000 +0100" stop="20151205203000 +0100">
-    <length units="minutes">20</length>
-    <title>Par ici les sorties</title>
-    <category>Magazine</category>
-    <desc>Episode 14 Le point sur les sorties de la semaine. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205203000 +0100" stop="20151205204500 +0100">
-    <length units="minutes">15</length>
-    <title>Hollywood live</title>
-    <category>Magazine</category>
-    <desc>Une exploration très personnelle du microcosme hollywoodien, présentée à la sauce de Ramzi : tonus, impertinence et humour décalé sont au... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205204500 +0100" stop="20151205223500 +0100">
-    <length units="minutes">110</length>
-    <title>Mon idole (?)</title>
-    <category>Film</category>
-    <desc>Bastien est un jeune homme ambitieux qui, pour le moment, exerce ses talents comme chauffeur de salle pour la célèbre émission télévisée du fat... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Guillaume Canet</name>
-      <name function="actor">Philippe Lefebvre</name>
-      <name function="actor">Clotilde Courau</name>
-      <name function="actor">Guillaume Canet</name>
-      <name function="actor">Jacqueline Jehanneuf</name>
-      <name function="actor">Gilles Lellouche</name>
-      <name function="actor">Diane Kruger</name>
-      <name function="actor">Daniel Prévost</name>
-      <name function="actor">François Berléand</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205223500 +0100" stop="20151206012500 +0100">
-    <length units="minutes">170</length>
-    <title>Alexandre (?)</title>
-    <category>Film</category>
-    <desc>Le IVe siècle avant Jésus-Christ, à Alexandrie. Ptolémée retrace devant ses auditeurs la vie d'Alexandre, fondateur du pays et conquérant sans... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Oliver Stone</name>
-      <name function="actor">Christopher Plummer</name>
-      <name function="actor">Jared Leto</name>
-      <name function="actor">Angelina Jolie</name>
-      <name function="actor">Anthony Hopkins</name>
-      <name function="actor">Val Kilmer</name>
-      <name function="actor">Colin Farrell</name>
-      <name function="actor">Robert Earley</name>
-      <name function="actor">Marie Meyer</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206012500 +0100" stop="20151206035000 +0100">
+  <programme channel="MTV" start="20151206072500 +0100" stop="20151206095000 +0100">
     <length units="minutes">145</length>
     <title>Lone Ranger, naissance d'un héros (?)</title>
     <category>Film</category>
-    <desc>Tonto, Indien taciturne et cynique - désormais devenu un homme âgé - raconte à un jeune garçon les aventures extraordinaires de son partenaire,... (Lire la suite).(r)</desc>
+    <desc>Tonto, Indien taciturne et cynique - désormais devenu un homme âgé - raconte à un jeune garçon les aventures extraordinaires de son partenaire,... (Lire la suite).</desc>
     <credits>
       <name function="director">Gore Verbinski</name>
       <name function="actor">William Fichtner</name>
@@ -296,11 +21,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206035000 +0100" stop="20151206053000 +0100">
+  <programme channel="MTV" start="20151206095000 +0100" stop="20151206113000 +0100">
     <length units="minutes">100</length>
     <title>Tip Top (?)</title>
     <category>Film</category>
-    <desc>Dans un café arabe de Villeneuve, dans la banlieue lilloise, l'inspecteur Mendès sauve son indic, Younès, d'un mauvais sort, en déclenchant une... (Lire la suite).(r)</desc>
+    <desc>Dans un café arabe de Villeneuve, dans la banlieue lilloise, l'inspecteur Mendès sauve son indic, Younès, d'un mauvais sort, en déclenchant une... (Lire la suite).</desc>
     <credits>
       <name function="director">Serge Bozon</name>
       <name function="actor">Isabelle Huppert</name>
@@ -314,14 +39,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206053000 +0100" stop="20151206063500 +0100">
+  <programme channel="MTV" start="20151206113000 +0100" stop="20151206123500 +0100">
     <length units="minutes">65</length>
     <title>Interruption des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206063500 +0100" stop="20151206080000 +0100">
+  <programme channel="MTV" start="20151206123500 +0100" stop="20151206140000 +0100">
     <length units="minutes">85</length>
     <title>Soupçons</title>
     <category>Téléfilm</category>
@@ -339,11 +64,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206080000 +0100" stop="20151206093500 +0100">
+  <programme channel="MTV" start="20151206140000 +0100" stop="20151206153500 +0100">
     <length units="minutes">95</length>
     <title>Landes (?)</title>
     <category>Film</category>
-    <desc>Années 20 dans les Landes. Alors qu'une crise sociale est en train de couver, Liena, 35 ans, veille, incrédule, le corps de son mari brutalement... (Lire la suite).(r)</desc>
+    <desc>Années 20 dans les Landes. Alors qu'une crise... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">François-Xavier Vives</name>
       <name function="actor">Marie Gillain</name>
@@ -357,7 +82,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206093500 +0100" stop="20151206112500 +0100">
+  <programme channel="MTV" start="20151206153500 +0100" stop="20151206172500 +0100">
     <length units="minutes">110</length>
     <title>Conjuring : les dossiers Warren (?)</title>
     <category>Film</category>
@@ -375,11 +100,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206112500 +0100" stop="20151206130000 +0100">
+  <programme channel="MTV" start="20151206172500 +0100" stop="20151206190000 +0100">
     <length units="minutes">95</length>
     <title>Blue Jasmine (?)</title>
     <category>Film</category>
-    <desc>Munie de ses luxueux bagages, Jasmine débarque de l'avion de New York, à San Francisco, et se retrouve désemparée, seule, à la porte de sa soeur... (Lire la suite).(r)</desc>
+    <desc>Munie de ses luxueux bagages, Jasmine... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Woody Allen</name>
       <name function="actor">Cate Blanchett</name>
@@ -393,7 +118,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206130000 +0100" stop="20151206135000 +0100">
+  <programme channel="MTV" start="20151206190000 +0100" stop="20151206195000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -412,7 +137,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206135000 +0100" stop="20151206144000 +0100">
+  <programme channel="MTV" start="20151206195000 +0100" stop="20151206204000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -431,7 +156,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206144000 +0100" stop="20151206153000 +0100">
+  <programme channel="MTV" start="20151206204000 +0100" stop="20151206213000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -450,7 +175,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206153000 +0100" stop="20151206162000 +0100">
+  <programme channel="MTV" start="20151206213000 +0100" stop="20151206222000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -469,11 +194,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206162000 +0100" stop="20151206163500 +0100">
+  <programme channel="MTV" start="20151206222000 +0100" stop="20151206223500 +0100">
     <length units="minutes">15</length>
     <title>L'aurore boréale (?)</title>
     <category>Film</category>
-    <desc>Louise, 23 ans, passe le week-end en banlieue parisienne chez son père, Jacques. Apprenant qu'une aurore boréale va apparaître dans le ciel de... (Lire la suite).(r)</desc>
+    <desc>Louise, 23 ans, passe le week-end en banlieue... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Keren Ben Rafael</name>
       <name function="actor">Hippolyte Girardot</name>
@@ -483,11 +208,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206163500 +0100" stop="20151206181000 +0100">
+  <programme channel="MTV" start="20151206223500 +0100" stop="20151207001000 +0100">
     <length units="minutes">95</length>
     <title>Le prix du sang</title>
     <category>Téléfilm</category>
-    <desc>Ruslan, un ancien diplomate russe devenu auteur de romans sensationnels, reçoit un coup de téléphone de son ex-femme Catherine. Cette dernière... (Lire la suite).(c)</desc>
+    <desc>Ruslan, un ancien diplomate russe devenu... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Jeff F King</name>
       <name function="actor">Robert Wisden</name>
@@ -501,11 +226,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206181000 +0100" stop="20151206200000 +0100">
+  <programme channel="MTV" start="20151207001000 +0100" stop="20151207020000 +0100">
     <length units="minutes">110</length>
     <title>Match retour (?)</title>
     <category>Film</category>
-    <desc>A 60 ans passés, Henry «Razor» Sharp et Billy «The Kid» McDonnen sont deux anciens boxeurs de Pittsburgh. Ils se sont jadis affrontés à deux... (Lire la suite).(r)</desc>
+    <desc>A 60 ans passés, Henry «Razor» Sharp et Billy... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Peter Segal</name>
       <name function="actor">Robert De Niro</name>
@@ -519,7 +244,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206200000 +0100" stop="20151206204500 +0100">
+  <programme channel="MTV" start="20151207020000 +0100" stop="20151207024500 +0100">
     <length units="minutes">45</length>
     <title>Tous cinéma</title>
     <category>Magazine</category>
@@ -529,11 +254,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206204500 +0100" stop="20151206222500 +0100">
+  <programme channel="MTV" start="20151207024500 +0100" stop="20151207042500 +0100">
     <length units="minutes">100</length>
     <title>En solitaire (?)</title>
     <category>Film</category>
-    <desc>Yann Kermadec, skipper ambitieux, va enfin toucher son rêve du doigt. Il est autorisé à prendre le départ du Vendée Globe quand son ami Franck... (Lire la suite).(r)</desc>
+    <desc>Yann Kermadec, skipper ambitieux, va enfin... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Christophe Offenstein</name>
       <name function="actor">Guillaume Canet</name>
@@ -547,11 +272,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206222500 +0100" stop="20151207003000 +0100">
+  <programme channel="MTV" start="20151207042500 +0100" stop="20151207063000 +0100">
     <length units="minutes">125</length>
     <title>Blood Ties (?)</title>
     <category>Film</category>
-    <desc>New York 1974. Chris, la cinquantaine, vient de purger une peine de prison. Il retrouve Frank, son frère plus jeune, qui lui, a choisi une vie... (Lire la suite).(r)</desc>
+    <desc>New York 1974. Chris, la cinquantaine, vient... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Guillaume Canet</name>
       <name function="actor">James Caan</name>
@@ -565,11 +290,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207003000 +0100" stop="20151207022500 +0100">
+  <programme channel="MTV" start="20151207063000 +0100" stop="20151207082500 +0100">
     <length units="minutes">115</length>
     <title>Le dahlia noir (?)</title>
     <category>Film</category>
-    <desc>Los Angeles, 1947, les émeutes font rage. Deux policiers, Bucky et Lee, se rencontrent lors d'une manifestation sévèrement réprimée. L'un et... (Lire la suite).(r)</desc>
+    <desc>Los Angeles, 1947, les émeutes font rage.... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Brian De Palma</name>
       <name function="actor">Mike Starr</name>
@@ -583,11 +308,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207022500 +0100" stop="20151207040500 +0100">
+  <programme channel="MTV" start="20151207082500 +0100" stop="20151207100500 +0100">
     <length units="minutes">100</length>
     <title>Oldboy (?)</title>
     <category>Film</category>
-    <desc>Joseph Doucett se réveille un jour dans une pièce, enfermé. Comment est-il arrivé là ? Qui l'a emprisonné ? Il n'a pas de réponse à ces questions... (Lire la suite).(r)</desc>
+    <desc>Joseph Doucett se réveille un jour dans une... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Spike Lee</name>
       <name function="actor">Josh Brolin</name>
@@ -601,11 +326,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207040500 +0100" stop="20151207055000 +0100">
+  <programme channel="MTV" start="20151207100500 +0100" stop="20151207115000 +0100">
     <length units="minutes">105</length>
     <title>Dans la tourmente (?)</title>
     <category>Film</category>
-    <desc>Franck, ouvrier dans une usine des environs de Marseille, apprend que la direction a décidé de profiter d'un week-end pour délocaliser sa... (Lire la suite).(r)</desc>
+    <desc>Franck, ouvrier dans une usine des environs... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Christophe Ruggia</name>
       <name function="actor">Yvan Attal</name>
@@ -619,18 +344,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207055000 +0100" stop="20151207064000 +0100">
+  <programme channel="MTV" start="20151207115000 +0100" stop="20151207124000 +0100">
     <length units="minutes">50</length>
     <title>Interruption des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207064000 +0100" stop="20151207083000 +0100">
+  <programme channel="MTV" start="20151207124000 +0100" stop="20151207143000 +0100">
     <length units="minutes">110</length>
     <title>Le petit lieutenant (?)</title>
     <category>Film</category>
-    <desc>A sa sortie de l'école de police, Antoine est affecté dans un commissariat parisien. Il découvre la dure réalité du métier aux côtés de sa... (Lire la suite).(r)</desc>
+    <desc>A sa sortie de l'école de police, Antoine est... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Xavier Beauvois</name>
       <name function="actor">Jacques Perrin</name>
@@ -644,11 +369,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207083000 +0100" stop="20151207100500 +0100">
+  <programme channel="MTV" start="20151207143000 +0100" stop="20151207160500 +0100">
     <length units="minutes">95</length>
     <title>Secret Identity (?)</title>
     <category>Film</category>
-    <desc>Alors qu'il était agent gouvernemental, Paul Shepherdson a passé le plus clair de son temps à traquer le mystérieux Cassius, un dangereux tueur... (Lire la suite).(r)</desc>
+    <desc>Alors qu'il était agent gouvernemental, Paul... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Michael Brandt</name>
       <name function="actor">Stephen Moyer</name>
@@ -662,11 +387,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207100500 +0100" stop="20151207114000 +0100">
+  <programme channel="MTV" start="20151207160500 +0100" stop="20151207174000 +0100">
     <length units="minutes">95</length>
     <title>Grand Piano (?)</title>
     <category>Film</category>
-    <desc>Tom Selznick est considéré comme le pianiste le plus talentueux de sa génération. Malheureusement, un trac paralysant l'a tenu éloigné des salles... (Lire la suite).(r)</desc>
+    <desc>Tom Selznick est considéré comme le pianiste... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Eugenio Mira</name>
       <name function="actor">John Cusack</name>
@@ -680,14 +405,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207114000 +0100" stop="20151207120000 +0100">
+  <programme channel="MTV" start="20151207174000 +0100" stop="20151207180000 +0100">
     <length units="minutes">20</length>
     <title>Par ici les sorties</title>
     <category>Magazine</category>
     <desc>Episode 14 Le point sur les sorties de la semaine. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207120000 +0100" stop="20151207133000 +0100">
+  <programme channel="MTV" start="20151207180000 +0100" stop="20151207193000 +0100">
     <length units="minutes">90</length>
     <title>Soupçons</title>
     <category>Téléfilm</category>
@@ -705,11 +430,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207133000 +0100" stop="20151207151500 +0100">
+  <programme channel="MTV" start="20151207193000 +0100" stop="20151207211500 +0100">
     <length units="minutes">105</length>
     <title>Le dernier pub avant la fin du monde (?)</title>
     <category>Film</category>
-    <desc>Il y a vingt ans, Gary, Andrew, Oliver, Steven et Peter étaient jeunes et fous et aimaient faire la tournée des bars. Les cinq amis d'enfance se... (Lire la suite).(r)</desc>
+    <desc>Il y a vingt ans, Gary, Andrew, Oliver,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Edgar Wright</name>
       <name function="actor">David Bradley</name>
@@ -723,11 +448,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207151500 +0100" stop="20151207170000 +0100">
+  <programme channel="MTV" start="20151207211500 +0100" stop="20151207230000 +0100">
     <length units="minutes">105</length>
     <title>Zulu (?)</title>
     <category>Film</category>
-    <desc>Dans une Afrique du Sud qui porte encore les stigmates de l'apartheid, deux policiers, l'un noir, Ali Sokhela, hanté par de douloureuses... (Lire la suite).(r)</desc>
+    <desc>Dans une Afrique du Sud qui porte encore les... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jérôme Salle</name>
       <name function="actor">Forest Whitaker</name>
@@ -741,11 +466,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207170000 +0100" stop="20151207195000 +0100">
+  <programme channel="MTV" start="20151207230000 +0100" stop="20151208015000 +0100">
     <length units="minutes">170</length>
     <title>Casino (?)</title>
     <category>Film</category>
-    <desc>Dans les années 1970, sa chance insolente et son flair infaillible valent à Sam «Ace» Rothstein l'honneur d'être catapulté à la tête d'un luxueux... (Lire la suite).(r)</desc>
+    <desc>Dans les années 1970, sa chance insolente et... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Martin Scorsese</name>
       <name function="actor">Robert De Niro</name>
@@ -759,7 +484,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207195000 +0100" stop="20151207204500 +0100">
+  <programme channel="MTV" start="20151208015000 +0100" stop="20151208024500 +0100">
     <length units="minutes">55</length>
     <title>Robolution</title>
     <category>Documentaire</category>
@@ -770,11 +495,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207204500 +0100" stop="20151207222500 +0100">
+  <programme channel="MTV" start="20151208024500 +0100" stop="20151208042500 +0100">
     <length units="minutes">100</length>
     <title>Crazy Joe (?)</title>
     <category>Film</category>
-    <desc>Ancien soldat des forces spéciales britanniques envoyé en Afghanistan, Joey Jones échappe à un procès en cour martiale en prenant la fuite. Sans... (Lire la suite).(r)</desc>
+    <desc>Ancien soldat des forces spéciales britanniques (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Steven Knight</name>
       <name function="actor">Ger Ryan</name>
@@ -788,11 +513,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207222500 +0100" stop="20151208004500 +0100">
+  <programme channel="MTV" start="20151208042500 +0100" stop="20151208064500 +0100">
     <length units="minutes">140</length>
     <title>La chute du Faucon noir (?)</title>
     <category>Film</category>
-    <desc>En 1992, Mohamed Farrah Aidid fait régner la terreur sur le territoire somalien. Pour venir en aide à la population qui meurt de faim, George... (Lire la suite).(r)</desc>
+    <desc>En 1992, Mohamed Farrah Aidid fait régner la... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Ridley Scott</name>
       <name function="actor">Sam Shepard</name>
@@ -806,7 +531,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208004500 +0100" stop="20151208013000 +0100">
+  <programme channel="MTV" start="20151208064500 +0100" stop="20151208073000 +0100">
     <length units="minutes">45</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -825,7 +550,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208013000 +0100" stop="20151208022000 +0100">
+  <programme channel="MTV" start="20151208073000 +0100" stop="20151208082000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -844,7 +569,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208022000 +0100" stop="20151208031500 +0100">
+  <programme channel="MTV" start="20151208082000 +0100" stop="20151208091500 +0100">
     <length units="minutes">55</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -863,7 +588,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208031500 +0100" stop="20151208040500 +0100">
+  <programme channel="MTV" start="20151208091500 +0100" stop="20151208100500 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -882,11 +607,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208040500 +0100" stop="20151208054000 +0100">
+  <programme channel="MTV" start="20151208100500 +0100" stop="20151208114000 +0100">
     <length units="minutes">95</length>
     <title>La confrérie des larmes (?)</title>
     <category>Film</category>
-    <desc>A Paris, Gabriel, la trentaine, croule sous les dettes de jeu. Licencié à la suite d'un drame personnel, cet ex-membre de la brigade criminelle... (Lire la suite).(r)</desc>
+    <desc>A Paris, Gabriel, la trentaine, croule sous... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jean-Baptiste Andrea</name>
       <name function="actor">Antoine Basler</name>
@@ -900,18 +625,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208054000 +0100" stop="20151208065000 +0100">
+  <programme channel="MTV" start="20151208114000 +0100" stop="20151208125000 +0100">
     <length units="minutes">70</length>
     <title>Interruption des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208065000 +0100" stop="20151208083000 +0100">
+  <programme channel="MTV" start="20151208125000 +0100" stop="20151208143000 +0100">
     <length units="minutes">100</length>
     <title>Celle que j'aime (?)</title>
     <category>Film</category>
-    <desc>Isabelle, la trentaine, a tout ce qu'il faut pour être heureuse dans la vie : elle dirige un journal qu'elle a créé avec son partenaire, Brice.... (Lire la suite).(r)</desc>
+    <desc>Isabelle, la trentaine, a tout ce qu'il faut... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Elie Chouraqui</name>
       <name function="actor">Barbara Schulz</name>
@@ -925,11 +650,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208083000 +0100" stop="20151208102500 +0100">
+  <programme channel="MTV" start="20151208143000 +0100" stop="20151208162500 +0100">
     <length units="minutes">115</length>
     <title>Le dahlia noir (?)</title>
     <category>Film</category>
-    <desc>Los Angeles, 1947, les émeutes font rage. Deux policiers, Bucky et Lee, se rencontrent lors d'une manifestation sévèrement réprimée. L'un et... (Lire la suite).(r)</desc>
+    <desc>Los Angeles, 1947, les émeutes font rage.... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Brian De Palma</name>
       <name function="actor">Mike Starr</name>
@@ -943,11 +668,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208102500 +0100" stop="20151208131500 +0100">
+  <programme channel="MTV" start="20151208162500 +0100" stop="20151208191500 +0100">
     <length units="minutes">170</length>
     <title>Alexandre (?)</title>
     <category>Film</category>
-    <desc>Le IVe siècle avant Jésus-Christ, à Alexandrie. Ptolémée retrace devant ses auditeurs la vie d'Alexandre, fondateur du pays et conquérant sans... (Lire la suite).(r)</desc>
+    <desc>Le IVe siècle avant Jésus-Christ, à Alexandrie. (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Oliver Stone</name>
       <name function="actor">Christopher Plummer</name>
@@ -961,11 +686,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208131500 +0100" stop="20151208133000 +0100">
+  <programme channel="MTV" start="20151208191500 +0100" stop="20151208193000 +0100">
     <length units="minutes">15</length>
     <title>L'aurore boréale (?)</title>
     <category>Film</category>
-    <desc>Louise, 23 ans, passe le week-end en banlieue parisienne chez son père, Jacques. Apprenant qu'une aurore boréale va apparaître dans le ciel de... (Lire la suite).(r)</desc>
+    <desc>Louise, 23 ans, passe le week-end en banlieue... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Keren Ben Rafael</name>
       <name function="actor">Hippolyte Girardot</name>
@@ -975,7 +700,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208133000 +0100" stop="20151208152000 +0100">
+  <programme channel="MTV" start="20151208193000 +0100" stop="20151208212000 +0100">
     <length units="minutes">110</length>
     <title>Conjuring : les dossiers Warren (?)</title>
     <category>Film</category>
@@ -993,11 +718,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208152000 +0100" stop="20151208165500 +0100">
+  <programme channel="MTV" start="20151208212000 +0100" stop="20151208225500 +0100">
     <length units="minutes">95</length>
     <title>Whiteout (?)</title>
     <category>Film</category>
-    <desc>La nuit polaire approche et l'agent Carrie Stetko se prépare à quitter la station de recherche internationale de l'Antarctique, où elle était en... (Lire la suite).(r)</desc>
+    <desc>La nuit polaire approche et l'agent Carrie... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Dominic Sena</name>
       <name function="actor">Tom Skerritt</name>
@@ -1011,11 +736,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208165500 +0100" stop="20151208183500 +0100">
+  <programme channel="MTV" start="20151208225500 +0100" stop="20151209003500 +0100">
     <length units="minutes">100</length>
     <title>La confrérie des larmes (?)</title>
     <category>Film</category>
-    <desc>A Paris, Gabriel, la trentaine, croule sous les dettes de jeu. Licencié à la suite d'un drame personnel, cet ex-membre de la brigade criminelle... (Lire la suite).(r)</desc>
+    <desc>A Paris, Gabriel, la trentaine, croule sous... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jean-Baptiste Andrea</name>
       <name function="actor">Antoine Basler</name>
@@ -1029,11 +754,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208183500 +0100" stop="20151208184500 +0100">
+  <programme channel="MTV" start="20151209003500 +0100" stop="20151209004500 +0100">
     <length units="minutes">10</length>
     <title>Bébé à tout prix (?)</title>
     <category>Film</category>
-    <desc>Un jeune père prend le pari de s'occuper de son bébé durant toute une nuit. Ce défi entame une longue aventure qui ne semble pas avoir de... (Lire la suite).(r)</desc>
+    <desc>Un jeune père prend le pari de s'occuper de... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Guillaume Clicquot</name>
       <name function="actor">Marie-Christine Adam</name>
@@ -1042,11 +767,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208184500 +0100" stop="20151208201000 +0100">
+  <programme channel="MTV" start="20151209004500 +0100" stop="20151209021000 +0100">
     <length units="minutes">85</length>
     <title>Le sens de l'humour (?)</title>
     <category>Film</category>
-    <desc>Elise ne parvient pas à se remettre du décès de son compagnon. Avec son fils Léo, elle essaie de mener une existence normale. Elise rencontre... (Lire la suite).(r)</desc>
+    <desc>Elise ne parvient pas à se remettre du décès... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Marilyne Canto</name>
       <name function="actor">Antoine Chappey</name>
@@ -1060,25 +785,25 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208201000 +0100" stop="20151208202500 +0100">
+  <programme channel="MTV" start="20151209021000 +0100" stop="20151209022500 +0100">
     <length units="minutes">15</length>
     <title>Hollywood live</title>
     <category>Magazine</category>
     <desc>Une exploration très personnelle du microcosme hollywoodien, présentée à la sauce de Ramzi : tonus, impertinence et humour décalé sont au... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208202500 +0100" stop="20151208204500 +0100">
+  <programme channel="MTV" start="20151209022500 +0100" stop="20151209024500 +0100">
     <length units="minutes">20</length>
     <title>Par ici les sorties</title>
     <category>Magazine</category>
     <desc>Episode 15 Le point sur les sorties de la semaine. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208204500 +0100" stop="20151208222500 +0100">
+  <programme channel="MTV" start="20151209024500 +0100" stop="20151209042500 +0100">
     <length units="minutes">100</length>
     <title>Kick-Ass 2 (?)</title>
     <category>Film</category>
-    <desc>Adolescent gavé de comics, Dave Lizewski, alias Kick-Ass, n'est plus le seul super-héros amateur de la ville. Sa bravoure non réfléchie a inspiré... (Lire la suite).(r)</desc>
+    <desc>Adolescent gavé de comics, Dave Lizewski,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jeff Wadlow</name>
       <name function="actor">Jim Carrey</name>
@@ -1092,11 +817,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208222500 +0100" stop="20151209001000 +0100">
+  <programme channel="MTV" start="20151209042500 +0100" stop="20151209061000 +0100">
     <length units="minutes">105</length>
     <title>Oldboy (?)</title>
     <category>Film</category>
-    <desc>Joseph Doucett se réveille un jour dans une pièce, enfermé. Comment est-il arrivé là ? Qui l'a emprisonné ? Il n'a pas de réponse à ces questions... (Lire la suite).(r)</desc>
+    <desc>Joseph Doucett se réveille un jour dans une... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Spike Lee</name>
       <name function="actor">Josh Brolin</name>
@@ -1110,11 +835,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209001000 +0100" stop="20151209013500 +0100">
+  <programme channel="MTV" start="20151209061000 +0100" stop="20151209073500 +0100">
     <length units="minutes">85</length>
     <title>Le dernier exorcisme (?)</title>
     <category>Film</category>
-    <desc>Révérend capable d'enflammer les foules, Cotton Marcus pratique des exorcismes sans y croire lui-même. Il entend profiter du documentaire qu'on... (Lire la suite).(r)</desc>
+    <desc>Révérend capable d'enflammer les foules,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Daniel Stamm</name>
       <name function="actor">Patrick Fabian</name>
@@ -1128,11 +853,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209013500 +0100" stop="20151209030000 +0100">
+  <programme channel="MTV" start="20151209073500 +0100" stop="20151209090000 +0100">
     <length units="minutes">85</length>
     <title>Cravate club (?)</title>
     <category>Film</category>
-    <desc>Bernard et Adrien travaillent dans le même cabinet d'architecture. Ils sont amis depuis longtemps et pourtant, ils sont très différents. Bernard,... (Lire la suite).(r)</desc>
+    <desc>Bernard et Adrien travaillent dans le même... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Frédéric Jardin</name>
       <name function="actor">Edouard Baer</name>
@@ -1146,11 +871,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209030000 +0100" stop="20151209044000 +0100">
+  <programme channel="MTV" start="20151209090000 +0100" stop="20151209104000 +0100">
     <length units="minutes">100</length>
     <title>Zulu (?)</title>
     <category>Film</category>
-    <desc>Dans une Afrique du Sud qui porte encore les stigmates de l'apartheid, deux policiers, l'un noir, Ali Sokhela, hanté par de douloureuses... (Lire la suite).(r)</desc>
+    <desc>Dans une Afrique du Sud qui porte encore les... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jérôme Salle</name>
       <name function="actor">Forest Whitaker</name>
@@ -1164,11 +889,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209044000 +0100" stop="20151209060000 +0100">
+  <programme channel="MTV" start="20151209104000 +0100" stop="20151209120000 +0100">
     <length units="minutes">80</length>
     <title>Omar m'a tuer (?)</title>
     <category>Film</category>
-    <desc>En juin 1991, à Mougins, Ghislaine Marchal est retrouvée morte à son domicile à côté d'une inscription qu'elle a visiblement écrite avec son sang... (Lire la suite).(r)</desc>
+    <desc>En juin 1991, à Mougins, Ghislaine Marchal... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Roschdy Zem</name>
       <name function="actor">Sami Bouajila</name>
@@ -1182,18 +907,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209060000 +0100" stop="20151209070000 +0100">
+  <programme channel="MTV" start="20151209120000 +0100" stop="20151209130000 +0100">
     <length units="minutes">60</length>
     <title>Interruption des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209070000 +0100" stop="20151209083000 +0100">
+  <programme channel="MTV" start="20151209130000 +0100" stop="20151209143000 +0100">
     <length units="minutes">90</length>
     <title>Grand Piano (?)</title>
     <category>Film</category>
-    <desc>Tom Selznick est considéré comme le pianiste le plus talentueux de sa génération. Malheureusement, un trac paralysant l'a tenu éloigné des salles... (Lire la suite).(r)</desc>
+    <desc>Tom Selznick est considéré comme le pianiste... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Eugenio Mira</name>
       <name function="actor">John Cusack</name>
@@ -1207,11 +932,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209083000 +0100" stop="20151209101500 +0100">
+  <programme channel="MTV" start="20151209143000 +0100" stop="20151209161500 +0100">
     <length units="minutes">105</length>
     <title>Les Miller, une famille en herbe (?)</title>
     <category>Film</category>
-    <desc>David Clark est un dealer minable qui écoule de petites quantités de marijuana. Un jour, il se fait agresser par trois voyous qui lui volent sa... (Lire la suite).(r)</desc>
+    <desc>David Clark est un dealer minable qui écoule... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Rawson Marshall Thurber</name>
       <name function="actor">Tomer Sisley</name>
@@ -1225,11 +950,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209101500 +0100" stop="20151209114000 +0100">
+  <programme channel="MTV" start="20151209161500 +0100" stop="20151209174000 +0100">
     <length units="minutes">85</length>
     <title>Grand départ (?)</title>
     <category>Film</category>
-    <desc>A l'aube de la trentaine, Romain apprend que son père est atteint d'une maladie neurodégénérative aussi insolite que terrifiante. Face à cette... (Lire la suite).(r)</desc>
+    <desc>A l'aube de la trentaine, Romain apprend que... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Nicolas Mercier</name>
       <name function="actor">Eddy Mitchell</name>
@@ -1243,11 +968,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209114000 +0100" stop="20151209133000 +0100">
+  <programme channel="MTV" start="20151209174000 +0100" stop="20151209193000 +0100">
     <length units="minutes">110</length>
     <title>L'exercice de l'Etat (?)</title>
     <category>Film</category>
-    <desc>Le ministre des Transports, Bertrand Saint-Jean, apprend en pleine nuit qu'un tragique accident de car sur une route enneigée des Ardennes... (Lire la suite).(r)</desc>
+    <desc>Le ministre des Transports, Bertrand Saint-Jean, (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Pierre Schoeller</name>
       <name function="actor">Jacques Boudet</name>
@@ -1261,11 +986,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209133000 +0100" stop="20151209151000 +0100">
+  <programme channel="MTV" start="20151209193000 +0100" stop="20151209211000 +0100">
     <length units="minutes">100</length>
     <title>Crazy Joe (?)</title>
     <category>Film</category>
-    <desc>Ancien soldat des forces spéciales britanniques envoyé en Afghanistan, Joey Jones échappe à un procès en cour martiale en prenant la fuite. Sans... (Lire la suite).(r)</desc>
+    <desc>Ancien soldat des forces spéciales britanniques (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Steven Knight</name>
       <name function="actor">Ger Ryan</name>
@@ -1279,11 +1004,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209151000 +0100" stop="20151209171500 +0100">
+  <programme channel="MTV" start="20151209211000 +0100" stop="20151209231500 +0100">
     <length units="minutes">125</length>
     <title>Blood Ties (?)</title>
     <category>Film</category>
-    <desc>New York 1974. Chris, la cinquantaine, vient de purger une peine de prison. Il retrouve Frank, son frère plus jeune, qui lui, a choisi une vie... (Lire la suite).(r)</desc>
+    <desc>New York 1974. Chris, la cinquantaine, vient... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Guillaume Canet</name>
       <name function="actor">James Caan</name>
@@ -1297,11 +1022,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209171500 +0100" stop="20151209190500 +0100">
+  <programme channel="MTV" start="20151209231500 +0100" stop="20151210010500 +0100">
     <length units="minutes">110</length>
     <title>Mon idole (?)</title>
     <category>Film</category>
-    <desc>Bastien est un jeune homme ambitieux qui, pour le moment, exerce ses talents comme chauffeur de salle pour la célèbre émission télévisée du fat... (Lire la suite).(r)</desc>
+    <desc>Bastien est un jeune homme ambitieux qui,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Guillaume Canet</name>
       <name function="actor">Philippe Lefebvre</name>
@@ -1315,11 +1040,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209190500 +0100" stop="20151209204500 +0100">
+  <programme channel="MTV" start="20151210010500 +0100" stop="20151210024500 +0100">
     <length units="minutes">100</length>
     <title>Celle que j'aime (?)</title>
     <category>Film</category>
-    <desc>Isabelle, la trentaine, a tout ce qu'il faut pour être heureuse dans la vie : elle dirige un journal qu'elle a créé avec son partenaire, Brice.... (Lire la suite).(r)</desc>
+    <desc>Isabelle, la trentaine, a tout ce qu'il faut... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Elie Chouraqui</name>
       <name function="actor">Barbara Schulz</name>
@@ -1333,11 +1058,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209204500 +0100" stop="20151209224000 +0100">
+  <programme channel="MTV" start="20151210024500 +0100" stop="20151210044000 +0100">
     <length units="minutes">115</length>
     <title>Robocop (?)</title>
     <category>Film</category>
-    <desc>En 2028, Alex Murphy, un policier de Detroit, a failli laisser sa vie lors de l'explosion de son véhicule. Paralysé, il est entre la vie et la... (Lire la suite).(r)</desc>
+    <desc>En 2028, Alex Murphy, un policier de Detroit,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">José Padilha</name>
       <name function="actor">Gary Oldman</name>
@@ -1351,11 +1076,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209224000 +0100" stop="20151210002500 +0100">
+  <programme channel="MTV" start="20151210044000 +0100" stop="20151210062500 +0100">
     <length units="minutes">105</length>
     <title>Zulu (?)</title>
     <category>Film</category>
-    <desc>Dans une Afrique du Sud qui porte encore les stigmates de l'apartheid, deux policiers, l'un noir, Ali Sokhela, hanté par de douloureuses... (Lire la suite).(r)</desc>
+    <desc>Dans une Afrique du Sud qui porte encore les... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jérôme Salle</name>
       <name function="actor">Forest Whitaker</name>
@@ -1369,11 +1094,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210002500 +0100" stop="20151210015500 +0100">
+  <programme channel="MTV" start="20151210062500 +0100" stop="20151210075500 +0100">
     <length units="minutes">90</length>
     <title>Landes (?)</title>
     <category>Film</category>
-    <desc>Années 20 dans les Landes. Alors qu'une crise sociale est en train de couver, Liena, 35 ans, veille, incrédule, le corps de son mari brutalement... (Lire la suite).(r)</desc>
+    <desc>Années 20 dans les Landes. Alors qu'une crise... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">François-Xavier Vives</name>
       <name function="actor">Marie Gillain</name>
@@ -1387,7 +1112,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210015500 +0100" stop="20151210024000 +0100">
+  <programme channel="MTV" start="20151210075500 +0100" stop="20151210084000 +0100">
     <length units="minutes">45</length>
     <title>Tous cinéma</title>
     <category>Magazine</category>
@@ -1397,11 +1122,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210024000 +0100" stop="20151210041500 +0100">
+  <programme channel="MTV" start="20151210084000 +0100" stop="20151210101500 +0100">
     <length units="minutes">95</length>
     <title>Le prix du sang</title>
     <category>Téléfilm</category>
-    <desc>Ruslan, un ancien diplomate russe devenu auteur de romans sensationnels, reçoit un coup de téléphone de son ex-femme Catherine. Cette dernière... (Lire la suite).(c)</desc>
+    <desc>Ruslan, un ancien diplomate russe devenu... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Jeff F King</name>
       <name function="actor">Robert Wisden</name>
@@ -1415,11 +1140,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210041500 +0100" stop="20151210061000 +0100">
+  <programme channel="MTV" start="20151210101500 +0100" stop="20151210121000 +0100">
     <length units="minutes">115</length>
     <title>Molière (?)</title>
     <category>Film</category>
-    <desc>A 22 ans, Molière rencontre de sérieuses difficultés pour faire vivre sa troupe de théâtre. Afin de monter ses spectacles, il s'endette. Aussi... (Lire la suite).(r)</desc>
+    <desc>A 22 ans, Molière rencontre de sérieuses... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Laurent Tirard</name>
       <name function="actor">Edouard Baer</name>
@@ -1433,14 +1158,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210061000 +0100" stop="20151210065000 +0100">
+  <programme channel="MTV" start="20151210121000 +0100" stop="20151210125000 +0100">
     <length units="minutes">40</length>
     <title>Interruption des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210065000 +0100" stop="20151210074000 +0100">
+  <programme channel="MTV" start="20151210125000 +0100" stop="20151210134000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -1459,7 +1184,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210074000 +0100" stop="20151210083000 +0100">
+  <programme channel="MTV" start="20151210134000 +0100" stop="20151210143000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -1478,11 +1203,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210083000 +0100" stop="20151210095500 +0100">
+  <programme channel="MTV" start="20151210143000 +0100" stop="20151210155500 +0100">
     <length units="minutes">85</length>
     <title>Les garçons et Guillaume, à table ! (?)</title>
     <category>Film</category>
-    <desc>Alors qu'il se démaquille dans la loge d'un théâtre, Guillaume se remémore les souvenirs de son adolescence passée auprès d'une mère aimante, à... (Lire la suite).(r)</desc>
+    <desc>Alors qu'il se démaquille dans la loge d'un... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Guillaume Gallienne</name>
       <name function="actor">Françoise Fabian</name>
@@ -1496,11 +1221,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210095500 +0100" stop="20151210114000 +0100">
+  <programme channel="MTV" start="20151210155500 +0100" stop="20151210174000 +0100">
     <length units="minutes">105</length>
     <title>Tip Top (?)</title>
     <category>Film</category>
-    <desc>Dans un café arabe de Villeneuve, dans la banlieue lilloise, l'inspecteur Mendès sauve son indic, Younès, d'un mauvais sort, en déclenchant une... (Lire la suite).(r)</desc>
+    <desc>Dans un café arabe de Villeneuve, dans la... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Serge Bozon</name>
       <name function="actor">Isabelle Huppert</name>
@@ -1514,11 +1239,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210114000 +0100" stop="20151210132000 +0100">
+  <programme channel="MTV" start="20151210174000 +0100" stop="20151210192000 +0100">
     <length units="minutes">100</length>
     <title>Inside Llewyn Davis (?)</title>
     <category>Film</category>
-    <desc>Dans les années 60, Llewyn Davis tente de se faire une place sur la scène folk new-yorkaise. Pendant une semaine dans un New York enneigé, il... (Lire la suite).(r)</desc>
+    <desc>Dans les années 60, Llewyn Davis tente de se... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Joel Coen,</name>
       <name function="director">Ethan Coen</name>
@@ -1533,11 +1258,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210132000 +0100" stop="20151210133000 +0100">
+  <programme channel="MTV" start="20151210192000 +0100" stop="20151210193000 +0100">
     <length units="minutes">10</length>
     <title>Le courrier du parc (?)</title>
     <category>Film</category>
-    <desc>Brouillé avec sa fiancée, un homme demande à un petit garçon d'aller lui parler dans un parc, pour tenter de renouer le... (Lire la suite).(r)</desc>
+    <desc>Brouillé avec sa fiancée, un homme demande à... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Agnès Caffin</name>
       <name function="actor">Sylvain Jacques</name>
@@ -1546,11 +1271,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210133000 +0100" stop="20151210151000 +0100">
+  <programme channel="MTV" start="20151210193000 +0100" stop="20151210211000 +0100">
     <length units="minutes">100</length>
     <title>En solitaire (?)</title>
     <category>Film</category>
-    <desc>Yann Kermadec, skipper ambitieux, va enfin toucher son rêve du doigt. Il est autorisé à prendre le départ du Vendée Globe quand son ami Franck... (Lire la suite).(r)</desc>
+    <desc>Yann Kermadec, skipper ambitieux, va enfin... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Christophe Offenstein</name>
       <name function="actor">Guillaume Canet</name>
@@ -1564,11 +1289,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210151000 +0100" stop="20151210165000 +0100">
+  <programme channel="MTV" start="20151210211000 +0100" stop="20151210225000 +0100">
     <length units="minutes">100</length>
     <title>Kick-Ass 2 (?)</title>
     <category>Film</category>
-    <desc>Adolescent gavé de comics, Dave Lizewski, alias Kick-Ass, n'est plus le seul super-héros amateur de la ville. Sa bravoure non réfléchie a inspiré... (Lire la suite).(r)</desc>
+    <desc>Adolescent gavé de comics, Dave Lizewski,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jeff Wadlow</name>
       <name function="actor">Jim Carrey</name>
@@ -1582,11 +1307,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210165000 +0100" stop="20151210184500 +0100">
+  <programme channel="MTV" start="20151210225000 +0100" stop="20151211004500 +0100">
     <length units="minutes">115</length>
     <title>Le dahlia noir (?)</title>
     <category>Film</category>
-    <desc>Los Angeles, 1947, les émeutes font rage. Deux policiers, Bucky et Lee, se rencontrent lors d'une manifestation sévèrement réprimée. L'un et... (Lire la suite).(r)</desc>
+    <desc>Los Angeles, 1947, les émeutes font rage.... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Brian De Palma</name>
       <name function="actor">Mike Starr</name>
@@ -1600,7 +1325,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210184500 +0100" stop="20151210191500 +0100">
+  <programme channel="MTV" start="20151211004500 +0100" stop="20151211011500 +0100">
     <length units="minutes">30</length>
     <title>Futurland</title>
     <category>Documentaire</category>
@@ -1610,11 +1335,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210191500 +0100" stop="20151210204500 +0100">
+  <programme channel="MTV" start="20151211011500 +0100" stop="20151211024500 +0100">
     <length units="minutes">90</length>
     <title>Landes (?)</title>
     <category>Film</category>
-    <desc>Années 20 dans les Landes. Alors qu'une crise sociale est en train de couver, Liena, 35 ans, veille, incrédule, le corps de son mari brutalement... (Lire la suite).(r)</desc>
+    <desc>Années 20 dans les Landes. Alors qu'une crise... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">François-Xavier Vives</name>
       <name function="actor">Marie Gillain</name>
@@ -1628,11 +1353,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210204500 +0100" stop="20151210223500 +0100">
+  <programme channel="MTV" start="20151211024500 +0100" stop="20151211043500 +0100">
     <length units="minutes">110</length>
     <title>Green Zone (?)</title>
     <category>Film</category>
-    <desc>Roy Miller est un sous-officier américain, envoyé en mission en Irak en 2003 pour trouver des armes de destruction massive, raison pour laquelle... (Lire la suite).(r)</desc>
+    <desc>Roy Miller est un sous-officier américain,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Paul Greengrass</name>
       <name function="actor">Greg Kinnear</name>
@@ -1646,11 +1371,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210223500 +0100" stop="20151211003500 +0100">
+  <programme channel="MTV" start="20151211043500 +0100" stop="20151211063500 +0100">
     <length units="minutes">120</length>
     <title>Robocop (?)</title>
     <category>Film</category>
-    <desc>En 2028, Alex Murphy, un policier de Detroit, a failli laisser sa vie lors de l'explosion de son véhicule. Paralysé, il est entre la vie et la... (Lire la suite).(r)</desc>
+    <desc>En 2028, Alex Murphy, un policier de Detroit,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">José Padilha</name>
       <name function="actor">Gary Oldman</name>
@@ -1664,11 +1389,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211003500 +0100" stop="20151211032500 +0100">
+  <programme channel="MTV" start="20151211063500 +0100" stop="20151211092500 +0100">
     <length units="minutes">170</length>
     <title>Casino (?)</title>
     <category>Film</category>
-    <desc>Dans les années 1970, sa chance insolente et son flair infaillible valent à Sam «Ace» Rothstein l'honneur d'être catapulté à la tête d'un luxueux... (Lire la suite).(n)</desc>
+    <desc>Dans les années 1970, sa chance insolente et... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Martin Scorsese</name>
       <name function="actor">Robert De Niro</name>
@@ -1682,11 +1407,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211032500 +0100" stop="20151211051500 +0100">
+  <programme channel="MTV" start="20151211092500 +0100" stop="20151211111500 +0100">
     <length units="minutes">110</length>
     <title>Conjuring : les dossiers Warren (?)</title>
     <category>Film</category>
-    <desc>Ed et Lorraine Warren, des enquêteurs en paranormal réputés dans le monde entier après les affaires d'Amytiville et du Connecticut, débusquent... (Lire la suite).(n)</desc>
+    <desc>Ed et Lorraine Warren, des enquêteurs en paranormal réputés dans le monde entier après les affaires d'Amytiville et du Connecticut, débusquent... (Lire la suite).</desc>
     <credits>
       <name function="director">James Wan</name>
       <name function="actor">Lili Taylor</name>
@@ -1700,11 +1425,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211051500 +0100" stop="20151211065000 +0100">
+  <programme channel="MTV" start="20151211111500 +0100" stop="20151211125000 +0100">
     <length units="minutes">95</length>
     <title>Gangsters</title>
     <category>Téléfilm</category>
-    <desc>A Nashville, le redoutable Tarzen Larkin tente de contrôler les trafics en tous genres. Le jeune Eli n'échappe pas à son emprise. Celui-ci,... (Lire la suite).(n)</desc>
+    <desc>A Nashville, le redoutable Tarzen Larkin tente de contrôler les trafics en tous genres. Le jeune Eli n'échappe pas à son emprise. Celui-ci,... (Lire la suite).</desc>
     <credits>
       <name function="director">Adam Arkin,</name>
       <name function="director">Michael Dinner</name>
@@ -1719,11 +1444,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211065000 +0100" stop="20151211074000 +0100">
+  <programme channel="MTV" start="20151211125000 +0100" stop="20151211134000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
-    <desc>En suivant des yeux Pierre Clément, qu'elle trouve à son goût, Laure Berthaud le surprend en compagnie de Benoît Faye, l'homme d'affaires que le... (Lire la suite).(n)</desc>
+    <desc>En suivant des yeux Pierre Clément, qu'elle trouve à son goût, Laure Berthaud le surprend en compagnie de Benoît Faye, l'homme d'affaires que le... (Lire la suite).</desc>
     <credits>
       <name function="director">Philippe Triboit</name>
       <name function="actor">Caroline Proust</name>
@@ -1738,11 +1463,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211074000 +0100" stop="20151211083000 +0100">
+  <programme channel="MTV" start="20151211134000 +0100" stop="20151211143000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
-    <desc>Dans l'affaire Elina Andrescu, le juge Roban s'accroche à la piste d'Arnaud Laborde, le conseiller du ministre chargé du Commerce extérieur.... (Lire la suite).(n)</desc>
+    <desc>Dans l'affaire Elina Andrescu, le juge Roban s'accroche à la piste d'Arnaud Laborde, le conseiller du ministre chargé du Commerce extérieur.... (Lire la suite).</desc>
     <credits>
       <name function="director">Philippe Triboit</name>
       <name function="actor">Caroline Proust</name>
@@ -1757,11 +1482,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211083000 +0100" stop="20151211103500 +0100">
+  <programme channel="MTV" start="20151211143000 +0100" stop="20151211163500 +0100">
     <length units="minutes">125</length>
     <title>Blood Ties (?)</title>
     <category>Film</category>
-    <desc>New York 1974. Chris, la cinquantaine, vient de purger une peine de prison. Il retrouve Frank, son frère plus jeune, qui lui, a choisi une vie... (Lire la suite).(n)</desc>
+    <desc>New York 1974. Chris, la cinquantaine, vient... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Guillaume Canet</name>
       <name function="actor">James Caan</name>
@@ -1775,11 +1500,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211103500 +0100" stop="20151211120500 +0100">
+  <programme channel="MTV" start="20151211163500 +0100" stop="20151211180500 +0100">
     <length units="minutes">90</length>
     <title>Le premier cercle (?)</title>
     <category>Film</category>
-    <desc>Milo Malakian, chef d'un clan d'origine arménienne, est très attaché à sa famille. C'est «le Premier Cercle», celui qu'on ne transgresse pas. Il... (Lire la suite).(n)</desc>
+    <desc>Milo Malakian, chef d'un clan d'origine... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Laurent Tuel</name>
       <name function="actor">Sami Bouajila</name>
@@ -1793,11 +1518,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211120500 +0100" stop="20151211133000 +0100">
+  <programme channel="MTV" start="20151211180500 +0100" stop="20151211193000 +0100">
     <length units="minutes">85</length>
     <title>Le sens de l'humour (?)</title>
     <category>Film</category>
-    <desc>Elise ne parvient pas à se remettre du décès de son compagnon. Avec son fils Léo, elle essaie de mener une existence normale. Elise rencontre... (Lire la suite).(n)</desc>
+    <desc>Elise ne parvient pas à se remettre du décès... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Marilyne Canto</name>
       <name function="actor">Antoine Chappey</name>
@@ -1811,11 +1536,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211133000 +0100" stop="20151211152500 +0100">
+  <programme channel="MTV" start="20151211193000 +0100" stop="20151211212500 +0100">
     <length units="minutes">115</length>
     <title>Robocop (?)</title>
     <category>Film</category>
-    <desc>En 2028, Alex Murphy, un policier de Detroit, a failli laisser sa vie lors de l'explosion de son véhicule. Paralysé, il est entre la vie et la... (Lire la suite).(n)</desc>
+    <desc>En 2028, Alex Murphy, un policier de Detroit,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">José Padilha</name>
       <name function="actor">Gary Oldman</name>
@@ -1829,11 +1554,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211152500 +0100" stop="20151211181500 +0100">
+  <programme channel="MTV" start="20151211212500 +0100" stop="20151212001500 +0100">
     <length units="minutes">170</length>
     <title>Alexandre (?)</title>
     <category>Film</category>
-    <desc>Le IVe siècle avant Jésus-Christ, à Alexandrie. Ptolémée retrace devant ses auditeurs la vie d'Alexandre, fondateur du pays et conquérant sans... (Lire la suite).(n)</desc>
+    <desc>Le IVe siècle avant Jésus-Christ, à Alexandrie. (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Oliver Stone</name>
       <name function="actor">Christopher Plummer</name>
@@ -1847,18 +1572,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211181500 +0100" stop="20151211184000 +0100">
+  <programme channel="MTV" start="20151212001500 +0100" stop="20151212004000 +0100">
     <length units="minutes">25</length>
     <title>Par ici les sorties</title>
     <category>Magazine</category>
-    <desc>Episode 15 Le point sur les sorties de la semaine. (Lire la suite).(n)</desc>
+    <desc>Episode 15 Le point sur les sorties de la semaine. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211184000 +0100" stop="20151211200000 +0100">
+  <programme channel="MTV" start="20151212004000 +0100" stop="20151212020000 +0100">
     <length units="minutes">80</length>
     <title>Grand départ (?)</title>
     <category>Film</category>
-    <desc>A l'aube de la trentaine, Romain apprend que son père est atteint d'une maladie neurodégénérative aussi insolite que terrifiante. Face à cette... (Lire la suite).(n)</desc>
+    <desc>A l'aube de la trentaine, Romain apprend que... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Nicolas Mercier</name>
       <name function="actor">Eddy Mitchell</name>
@@ -1872,21 +1597,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211200000 +0100" stop="20151211204500 +0100">
+  <programme channel="MTV" start="20151212020000 +0100" stop="20151212024500 +0100">
     <length units="minutes">45</length>
     <title>Tous cinéma</title>
     <category>Magazine</category>
-    <desc>Un programme entièrement consacré à l'actualité du 7e Art. (Lire la suite).(n)</desc>
+    <desc>Un programme entièrement consacré à l'actualité du 7e Art. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Pierre Zéni</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211204500 +0100" stop="20151211223500 +0100">
+  <programme channel="MTV" start="20151212024500 +0100" stop="20151212043500 +0100">
     <length units="minutes">110</length>
     <title>Quai d'Orsay (?)</title>
     <category>Film</category>
-    <desc>Arthur Vlaminck est un jeune énarque, nouveau venu au Quai d'Orsay. Il a été embauché pour écrire les discours d'Alexandre Taillard de Vorms, le... (Lire la suite).(n)</desc>
+    <desc>Arthur Vlaminck est un jeune énarque, nouveau... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Bertrand Tavernier</name>
       <name function="actor">Julie Gayet</name>
@@ -1900,11 +1625,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211223500 +0100" stop="20151212000500 +0100">
+  <programme channel="MTV" start="20151212043500 +0100" stop="20151212060500 +0100">
     <length units="minutes">90</length>
     <title>Le dernier exorcisme : Part II (?)</title>
     <category>Film</category>
-    <desc>Nell, une jeune fille, est prise en charge après avoir été retrouvée amnésique. Cette dernière n'a plus aucun souvenir de ce qu'il lui est... (Lire la suite).(n)</desc>
+    <desc>Nell, une jeune fille, est prise en charge après avoir été retrouvée amnésique. Cette dernière n'a plus aucun souvenir de ce qu'il lui est... (Lire la suite).</desc>
     <credits>
       <name function="director">Ed Gass-Donnelly</name>
       <name function="actor">Spencer Treat Clark</name>
@@ -1915,6 +1640,254 @@
       <name function="actor">Judd Lormand</name>
       <name function="actor">E Roger Mitchell</name>
       <name function="actor">Raeden Greer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212060500 +0100" stop="20151212074000 +0100">
+    <length units="minutes">95</length>
+    <title>Secret Identity (?)</title>
+    <category>Film</category>
+    <desc>Alors qu'il était agent gouvernemental, Paul... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Michael Brandt</name>
+      <name function="actor">Stephen Moyer</name>
+      <name function="actor">Topher Grace</name>
+      <name function="actor">Chris Marquette</name>
+      <name function="actor">Richard Gere</name>
+      <name function="actor">Martin Sheen</name>
+      <name function="actor">Tamer Hassan</name>
+      <name function="actor">Stana Katic</name>
+      <name function="actor">Odette Annable</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212074000 +0100" stop="20151212091000 +0100">
+    <length units="minutes">90</length>
+    <title>Grand Piano (?)</title>
+    <category>Film</category>
+    <desc>Tom Selznick est considéré comme le pianiste... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Eugenio Mira</name>
+      <name function="actor">John Cusack</name>
+      <name function="actor">Dee Wallace</name>
+      <name function="actor">Elijah Wood</name>
+      <name function="actor">Jack Taylor</name>
+      <name function="actor">Don McManus</name>
+      <name function="actor">Tamsin Egerton</name>
+      <name function="actor">Allen Leech</name>
+      <name function="actor">Kerry Bishé</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212091000 +0100" stop="20151212103500 +0100">
+    <length units="minutes">85</length>
+    <title>Le bruit des glaçons (?)</title>
+    <category>Film</category>
+    <desc>Charles Faulque, écrivain célèbre et alcoolique, (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Bertrand Blier</name>
+      <name function="actor">Myriam Boyer</name>
+      <name function="actor">Eric Prat</name>
+      <name function="actor">Albert Dupontel</name>
+      <name function="actor">Anne Alvaro</name>
+      <name function="actor">Jean Dujardin</name>
+      <name function="actor">Audrey Dana</name>
+      <name function="actor">Christa Theret</name>
+      <name function="actor">Emile Berling</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212103500 +0100" stop="20151212122000 +0100">
+    <length units="minutes">105</length>
+    <title>Soupçons</title>
+    <category>Téléfilm</category>
+    <desc>Allison Brown a tout pour elle. Un petit ami... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jean-Marc Piché</name>
+      <name function="actor">Alex Carter</name>
+      <name function="actor">Susan Almgren</name>
+      <name function="actor">Maxim Roy</name>
+      <name function="actor">Morena Baccarin</name>
+      <name function="actor">Sadie Leblanc</name>
+      <name function="actor">Paul Christie</name>
+      <name function="actor">Chris William Martin</name>
+      <name function="actor">Susan Bain</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212122000 +0100" stop="20151212141500 +0100">
+    <length units="minutes">115</length>
+    <title>Molière (?)</title>
+    <category>Film</category>
+    <desc>A 22 ans, Molière rencontre de sérieuses... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Laurent Tirard</name>
+      <name function="actor">Edouard Baer</name>
+      <name function="actor">Ludivine Sagnier</name>
+      <name function="actor">Fabrice Luchini</name>
+      <name function="actor">Laura Morante</name>
+      <name function="actor">Fanny Valette</name>
+      <name function="actor">Romain Duris</name>
+      <name function="actor">Gonzague Requillart</name>
+      <name function="actor">Mélanie Dos Santos</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212141500 +0100" stop="20151212170500 +0100">
+    <length units="minutes">170</length>
+    <title>Alexandre (?)</title>
+    <category>Film</category>
+    <desc>Le IVe siècle avant Jésus-Christ, à Alexandrie. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Oliver Stone</name>
+      <name function="actor">Christopher Plummer</name>
+      <name function="actor">Jared Leto</name>
+      <name function="actor">Angelina Jolie</name>
+      <name function="actor">Anthony Hopkins</name>
+      <name function="actor">Val Kilmer</name>
+      <name function="actor">Colin Farrell</name>
+      <name function="actor">Robert Earley</name>
+      <name function="actor">Marie Meyer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212170500 +0100" stop="20151212190000 +0100">
+    <length units="minutes">115</length>
+    <title>Green Zone (?)</title>
+    <category>Film</category>
+    <desc>Roy Miller est un sous-officier américain,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Paul Greengrass</name>
+      <name function="actor">Greg Kinnear</name>
+      <name function="actor">Amy Ryan</name>
+      <name function="actor">Michael O'Neill</name>
+      <name function="actor">Brendan Gleeson</name>
+      <name function="actor">Jason Isaacs</name>
+      <name function="actor">Matt Damon</name>
+      <name function="actor">Khalid Abdalla</name>
+      <name function="actor">Yigal Naor</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212190000 +0100" stop="20151212203000 +0100">
+    <length units="minutes">90</length>
+    <title>Les conquérants (?)</title>
+    <category>Film</category>
+    <desc>Galaad et Noé rejoignent en stop le cimetière... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Xabi Molia</name>
+      <name function="actor">Mathieu Demy</name>
+      <name function="actor">Christian Crahay</name>
+      <name function="actor">Denis Podalydès</name>
+      <name function="actor">Julie Kapour</name>
+      <name function="actor">Michel Dubois</name>
+      <name function="actor">Xabi Molia</name>
+      <name function="actor">Charlotte Krenz</name>
+      <name function="actor">Michel Molia</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212203000 +0100" stop="20151212222500 +0100">
+    <length units="minutes">115</length>
+    <title>Quai d'Orsay (?)</title>
+    <category>Film</category>
+    <desc>Arthur Vlaminck est un jeune énarque, nouveau... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Bertrand Tavernier</name>
+      <name function="actor">Julie Gayet</name>
+      <name function="actor">Niels Arestrup</name>
+      <name function="actor">Jane Birkin</name>
+      <name function="actor">Thierry Lhermitte</name>
+      <name function="actor">Bruno Raffaelli</name>
+      <name function="actor">Thomas Chabrol</name>
+      <name function="actor">Raphaël Personnaz</name>
+      <name function="actor">Sonia Rolland</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212222500 +0100" stop="20151213001500 +0100">
+    <length units="minutes">110</length>
+    <title>Match retour (?)</title>
+    <category>Film</category>
+    <desc>A 60 ans passés, Henry «Razor» Sharp et Billy... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Peter Segal</name>
+      <name function="actor">Robert De Niro</name>
+      <name function="actor">Kim Basinger</name>
+      <name function="actor">Alan Arkin</name>
+      <name function="actor">Sylvester Stallone</name>
+      <name function="actor">Jon Bernthal</name>
+      <name function="actor">Kevin Hart</name>
+      <name function="actor">Nicole Andrews</name>
+      <name function="actor">Ritchie Little</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213001500 +0100" stop="20151213021000 +0100">
+    <length units="minutes">115</length>
+    <title>Les larmes du soleil (?)</title>
+    <category>Film</category>
+    <desc>Après un violent putsch, le Nigeria est... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Antoine Fuqua</name>
+      <name function="actor">Bruce Willis</name>
+      <name function="actor">Nick Chinlund</name>
+      <name function="actor">Monica Bellucci</name>
+      <name function="actor">Cole Hauser</name>
+      <name function="actor">Eamonn Walker</name>
+      <name function="actor">Paul Francis</name>
+      <name function="actor">Johnny Messner</name>
+      <name function="actor">Charles Ingram</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213021000 +0100" stop="20151213023000 +0100">
+    <length units="minutes">20</length>
+    <title>Par ici les sorties</title>
+    <category>Magazine</category>
+    <desc>Episode 15 Le point sur les sorties de la semaine. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213023000 +0100" stop="20151213024500 +0100">
+    <length units="minutes">15</length>
+    <title>Hollywood live</title>
+    <category>Magazine</category>
+    <desc>Une exploration très personnelle du microcosme (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213024500 +0100" stop="20151213050500 +0100">
+    <length units="minutes">140</length>
+    <title>La chute du Faucon noir (?)</title>
+    <category>Film</category>
+    <desc>En 1992, Mohamed Farrah Aidid fait régner la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Ridley Scott</name>
+      <name function="actor">Sam Shepard</name>
+      <name function="actor">William Fichtner</name>
+      <name function="actor">Tom Sizemore</name>
+      <name function="actor">Ewan McGregor</name>
+      <name function="actor">Jason Isaacs</name>
+      <name function="actor">Ewen Bremner</name>
+      <name function="actor">Josh Hartnett</name>
+      <name function="actor">Eric Bana</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213050500 +0100" stop="20151213063000 +0100">
+    <length units="minutes">85</length>
+    <title>Le dernier exorcisme (?)</title>
+    <category>Film</category>
+    <desc>Révérend capable d'enflammer les foules,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Daniel Stamm</name>
+      <name function="actor">Patrick Fabian</name>
+      <name function="actor">Tony Bentley</name>
+      <name function="actor">Iris Bahr</name>
+      <name function="actor">Ashley Bell</name>
+      <name function="actor">Caleb Landry Jones</name>
+      <name function="actor">Shanna Forrestall</name>
+      <name function="actor">John Wright Jr</name>
+      <name function="actor">Louis Herthum</name>
     </credits>
     <image />
   </programme>

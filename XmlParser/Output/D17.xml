@@ -1,217 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="D17">
-    <display-name>test</display-name>
+    <display-name>MTV</display-name>
   </channel>
-  <programme channel="test" start="20151205002000 +0100" stop="20151205070000 +0100">
-    <length units="minutes">400</length>
-    <title>Programmes de la nuit</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205070000 +0100" stop="20151205080000 +0100">
-    <length units="minutes">60</length>
-    <title>Top clip</title>
-    <category>Clips</category>
-    <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205080000 +0100" stop="20151205090500 +0100">
-    <length units="minutes">65</length>
-    <title>Top France</title>
-    <category>Clips</category>
-    <desc>Les clips les plus en vogue du moment dans le domaine français, avec les artistes qui se sont illustrés dans les différents classements de titres... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205090500 +0100" stop="20151205101000 +0100">
-    <length units="minutes">65</length>
-    <title>Top D17</title>
-    <category>Clips</category>
-    <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205101000 +0100" stop="20151205113000 +0100">
-    <length units="minutes">80</length>
-    <title>Top clip</title>
-    <category>Clips</category>
-    <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205113000 +0100" stop="20151205124000 +0100">
-    <length units="minutes">70</length>
-    <title>Top France</title>
-    <category>Clips</category>
-    <desc>Les clips les plus en vogue du moment dans le domaine français, avec les artistes qui se sont illustrés dans les différents classements de titres... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205124000 +0100" stop="20151205140000 +0100">
-    <length units="minutes">80</length>
-    <title>Top clip</title>
-    <category>Clips</category>
-    <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205140000 +0100" stop="20151205181000 +0100">
-    <length units="minutes">250</length>
-    <title>Le starmix</title>
-    <category>Divertissement</category>
-    <desc>L'occasion de gagner des cadeaux dans une émission musicale et ludique animée par Amélie Bitoun. Il s'agit de découvrir ce qui se cache derrière... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Amélie Bitoun</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205181000 +0100" stop="20151205183500 +0100">
-    <length units="minutes">25</length>
-    <title>Pawn Stars</title>
-    <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205183500 +0100" stop="20151205190000 +0100">
-    <length units="minutes">25</length>
-    <title>Pawn Stars</title>
-    <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205190000 +0100" stop="20151205192500 +0100">
-    <length units="minutes">25</length>
-    <title>Pawn Stars</title>
-    <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205192500 +0100" stop="20151205195000 +0100">
-    <length units="minutes">25</length>
-    <title>Pawn Stars</title>
-    <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205195000 +0100" stop="20151205201500 +0100">
-    <length units="minutes">25</length>
-    <title>Pawn Stars</title>
-    <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205201500 +0100" stop="20151205204500 +0100">
-    <length units="minutes">30</length>
-    <title>Pawn Stars</title>
-    <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205204500 +0100" stop="20151205205000 +0100">
-    <length units="minutes">5</length>
-    <title>Lolywood</title>
-    <category>Série</category>
-    <desc>Sur un thème bien précis, une succession de sketches interprétés par des comédiens : soirées, travail, vie quotidienne, rien n'est oublié dans ce... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Matthieu Mares-Savelli</name>
-      <name function="actor">Ugo Marchand</name>
-      <name function="actor">Emmanuel Gandon</name>
-      <name function="actor">Jérémy Nadeau</name>
-      <name function="actor">Laetitita Legrix</name>
-      <name function="actor">Jonathan Brecher</name>
-      <name function="actor">Laura Domenge</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205205000 +0100" stop="20151205221000 +0100">
-    <length units="minutes">80</length>
-    <title>Le zap</title>
-    <category>Divertissement</category>
-    <desc>Le zapping percutant de la génération ultime du zap. Retrouvez chaque semaine les vidéos les plus fun des chaînes de télé. Musique, people,... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205221000 +0100" stop="20151205233000 +0100">
-    <length units="minutes">80</length>
-    <title>Le zap</title>
-    <category>Divertissement</category>
-    <desc>Le zapping percutant de la génération ultime du zap. Retrouvez chaque semaine les vidéos les plus fun des chaînes de télé. Musique, people,... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205233000 +0100" stop="20151206000000 +0100">
-    <length units="minutes">30</length>
-    <title>Enquête très spéciale</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine dans «Enquête très spéciale», découverte des tendances érotiques dans différents pays et présentation de news libertines. Au... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206000000 +0100" stop="20151206003500 +0100">
+  <programme channel="MTV" start="20151206060000 +0100" stop="20151206063500 +0100">
     <length units="minutes">35</length>
     <title>Enquête très spéciale</title>
     <category>Magazine</category>
     <desc>Chaque semaine dans «Enquête très spéciale», découverte des tendances érotiques dans différents pays et présentation de news libertines. Au... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206003500 +0100" stop="20151206011000 +0100">
+  <programme channel="MTV" start="20151206063500 +0100" stop="20151206071000 +0100">
     <length units="minutes">35</length>
     <title>Enquête très spéciale</title>
     <category>Magazine</category>
     <desc>Chaque semaine dans «Enquête très spéciale», découverte des tendances érotiques dans différents pays et présentation de news libertines. Au... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206011000 +0100" stop="20151206070000 +0100">
+  <programme channel="MTV" start="20151206071000 +0100" stop="20151206130000 +0100">
     <length units="minutes">350</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206070000 +0100" stop="20151206080000 +0100">
+  <programme channel="MTV" start="20151206130000 +0100" stop="20151206140000 +0100">
     <length units="minutes">60</length>
     <title>Top clip</title>
     <category>Clips</category>
     <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206080000 +0100" stop="20151206090500 +0100">
+  <programme channel="MTV" start="20151206140000 +0100" stop="20151206150500 +0100">
     <length units="minutes">65</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206090500 +0100" stop="20151206101000 +0100">
+  <programme channel="MTV" start="20151206150500 +0100" stop="20151206161000 +0100">
     <length units="minutes">65</length>
     <title>Top France</title>
     <category>Clips</category>
     <desc>Les clips les plus en vogue du moment dans le domaine français, avec les artistes qui se sont illustrés dans les différents classements de titres... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206101000 +0100" stop="20151206113000 +0100">
+  <programme channel="MTV" start="20151206161000 +0100" stop="20151206173000 +0100">
     <length units="minutes">80</length>
     <title>Top clip</title>
     <category>Clips</category>
     <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206113000 +0100" stop="20151206124000 +0100">
+  <programme channel="MTV" start="20151206173000 +0100" stop="20151206184000 +0100">
     <length units="minutes">70</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206124000 +0100" stop="20151206151500 +0100">
+  <programme channel="MTV" start="20151206184000 +0100" stop="20151206211500 +0100">
     <length units="minutes">155</length>
     <title>Top clip</title>
     <category>Clips</category>
     <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206151500 +0100" stop="20151206162000 +0100">
+  <programme channel="MTV" start="20151206211500 +0100" stop="20151206222000 +0100">
     <length units="minutes">65</length>
     <title>Top France</title>
     <category>Clips</category>
     <desc>Les clips les plus en vogue du moment dans le domaine français, avec les artistes qui se sont illustrés dans les différents classements de titres... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206162000 +0100" stop="20151206173000 +0100">
+  <programme channel="MTV" start="20151206222000 +0100" stop="20151206233000 +0100">
     <length units="minutes">70</length>
     <title>Top streaming</title>
     <category>Clips</category>
@@ -222,49 +84,49 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206173000 +0100" stop="20151206180000 +0100">
+  <programme channel="MTV" start="20151206233000 +0100" stop="20151207000000 +0100">
     <length units="minutes">30</length>
     <title>First Kiss</title>
     <category>Téléréalité</category>
     <desc>Episode 12 Des candidats, qui ne se connaissent pas, s'embrassent sur la bouche et décident, ensuite, s'ils souhaitent passer du temps ensemble ou... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206180000 +0100" stop="20151206183500 +0100">
+  <programme channel="MTV" start="20151207000000 +0100" stop="20151207003500 +0100">
     <length units="minutes">35</length>
     <title>First Kiss</title>
     <category>Téléréalité</category>
     <desc>Episode 10 Des candidats, qui ne se connaissent pas, s'embrassent sur la bouche et décident, ensuite, s'ils souhaitent passer du temps ensemble ou... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206183500 +0100" stop="20151206190500 +0100">
+  <programme channel="MTV" start="20151207003500 +0100" stop="20151207010500 +0100">
     <length units="minutes">30</length>
     <title>First Kiss</title>
     <category>Téléréalité</category>
     <desc>Episode 2 Alexandre, au tempérament plutôt discret : arrivera-t-il à conquérir Flore, cette charmante jeune femme au coeur de pierre, en un baiser ? Laura,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206190500 +0100" stop="20151206194000 +0100">
+  <programme channel="MTV" start="20151207010500 +0100" stop="20151207014000 +0100">
     <length units="minutes">35</length>
     <title>First Kiss</title>
     <category>Téléréalité</category>
     <desc>Episode 3 Franck, qui ne manque pas d'assurance et de confiance en lui fait la rencontre de Fabien, plus timide et introverti. Que se passera-t-il lorsque... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206194000 +0100" stop="20151206201000 +0100">
+  <programme channel="MTV" start="20151207014000 +0100" stop="20151207021000 +0100">
     <length units="minutes">30</length>
     <title>First Kiss</title>
     <category>Téléréalité</category>
     <desc>Episode 1 Des candidats, qui ne se connaissent pas, s'embrassent sur la bouche et décident, ensuite, s'ils souhaitent passer du temps ensemble ou non.... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206201000 +0100" stop="20151206204500 +0100">
+  <programme channel="MTV" start="20151207021000 +0100" stop="20151207024500 +0100">
     <length units="minutes">35</length>
     <title>First Kiss</title>
     <category>Téléréalité</category>
     <desc>Episode 6 Cédric est un sosie extraverti de David Guetta. Il se retrouve face à Laura, à la recherche de sensations fortes. Marine, infirmière, est une... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206204500 +0100" stop="20151206205000 +0100">
+  <programme channel="MTV" start="20151207024500 +0100" stop="20151207025000 +0100">
     <length units="minutes">5</length>
     <title>Lolywood</title>
     <category>Série</category>
@@ -280,11 +142,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206205000 +0100" stop="20151206223500 +0100">
+  <programme channel="MTV" start="20151207025000 +0100" stop="20151207043500 +0100">
     <length units="minutes">105</length>
     <title>King Guillaume (?)</title>
     <category>Film</category>
-    <desc>Menant une existence paisible en banlieue, Magali, tubiste dans une fanfare, et Guillaume, conducteur de petit train touristique, attendent un... (Lire la suite).(r)</desc>
+    <desc>Menant une existence paisible en banlieue,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Pierre-François Martin-Laval</name>
       <name function="actor">Pierre Richard</name>
@@ -298,11 +160,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206223500 +0100" stop="20151207002500 +0100">
+  <programme channel="MTV" start="20151207043500 +0100" stop="20151207062500 +0100">
     <length units="minutes">110</length>
     <title>Passion cachée</title>
     <category>Téléfilm</category>
-    <desc>Ancienne strip-teaseuse de talent, Charlotte Nolova est fermement décidée à ne plus jamais se dénuder sur une scène. La jeune femme souhaite... (Lire la suite).(c)</desc>
+    <desc>Ancienne strip-teaseuse de talent, Charlotte... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Jay Madison</name>
       <name function="actor">Kim Dawson</name>
@@ -316,49 +178,49 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207002500 +0100" stop="20151207070000 +0100">
+  <programme channel="MTV" start="20151207062500 +0100" stop="20151207130000 +0100">
     <length units="minutes">395</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207070000 +0100" stop="20151207073000 +0100">
+  <programme channel="MTV" start="20151207130000 +0100" stop="20151207133000 +0100">
     <length units="minutes">30</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207073000 +0100" stop="20151207080000 +0100">
+  <programme channel="MTV" start="20151207133000 +0100" stop="20151207140000 +0100">
     <length units="minutes">30</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207080000 +0100" stop="20151207090000 +0100">
+  <programme channel="MTV" start="20151207140000 +0100" stop="20151207150000 +0100">
     <length units="minutes">60</length>
     <title>Top France</title>
     <category>Clips</category>
     <desc>Les clips les plus en vogue du moment dans le domaine français, avec les artistes qui se sont illustrés dans les différents classements de titres... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207090000 +0100" stop="20151207103000 +0100">
+  <programme channel="MTV" start="20151207150000 +0100" stop="20151207163000 +0100">
     <length units="minutes">90</length>
     <title>Top clip</title>
     <category>Clips</category>
     <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207103000 +0100" stop="20151207110000 +0100">
+  <programme channel="MTV" start="20151207163000 +0100" stop="20151207170000 +0100">
     <length units="minutes">30</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207110000 +0100" stop="20151207120000 +0100">
+  <programme channel="MTV" start="20151207170000 +0100" stop="20151207180000 +0100">
     <length units="minutes">60</length>
     <title>Top streaming</title>
     <category>Clips</category>
@@ -369,149 +231,149 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207120000 +0100" stop="20151207153000 +0100">
+  <programme channel="MTV" start="20151207180000 +0100" stop="20151207213000 +0100">
     <length units="minutes">210</length>
     <title>Top clip</title>
     <category>Clips</category>
     <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207153000 +0100" stop="20151207163000 +0100">
+  <programme channel="MTV" start="20151207213000 +0100" stop="20151207223000 +0100">
     <length units="minutes">60</length>
     <title>Top 2000</title>
     <category>Clips</category>
     <desc>Les plus grands tubes de la dernière décennie. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207163000 +0100" stop="20151207173000 +0100">
+  <programme channel="MTV" start="20151207223000 +0100" stop="20151207233000 +0100">
     <length units="minutes">60</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207173000 +0100" stop="20151207183000 +0100">
+  <programme channel="MTV" start="20151207233000 +0100" stop="20151208003000 +0100">
     <length units="minutes">60</length>
     <title>Top France</title>
     <category>Clips</category>
     <desc>Les clips les plus en vogue du moment dans le domaine français, avec les artistes qui se sont illustrés dans les différents classements de titres... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207183000 +0100" stop="20151207190000 +0100">
+  <programme channel="MTV" start="20151208003000 +0100" stop="20151208010000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207190000 +0100" stop="20151207192500 +0100">
+  <programme channel="MTV" start="20151208010000 +0100" stop="20151208012500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207192500 +0100" stop="20151207195000 +0100">
+  <programme channel="MTV" start="20151208012500 +0100" stop="20151208015000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207195000 +0100" stop="20151207201500 +0100">
+  <programme channel="MTV" start="20151208015000 +0100" stop="20151208021500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207201500 +0100" stop="20151207205000 +0100">
+  <programme channel="MTV" start="20151208021500 +0100" stop="20151208025000 +0100">
     <length units="minutes">35</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207205000 +0100" stop="20151207212000 +0100">
+  <programme channel="MTV" start="20151208025000 +0100" stop="20151208032000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Shannon Biggs</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207212000 +0100" stop="20151207214500 +0100">
+  <programme channel="MTV" start="20151208032000 +0100" stop="20151208034500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).(c)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Shannon Biggs</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207214500 +0100" stop="20151207221500 +0100">
+  <programme channel="MTV" start="20151208034500 +0100" stop="20151208041500 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).(c)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Shannon Biggs</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207221500 +0100" stop="20151207224000 +0100">
+  <programme channel="MTV" start="20151208041500 +0100" stop="20151208044000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207224000 +0100" stop="20151207230500 +0100">
+  <programme channel="MTV" start="20151208044000 +0100" stop="20151208050500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207230500 +0100" stop="20151207233000 +0100">
+  <programme channel="MTV" start="20151208050500 +0100" stop="20151208053000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207233000 +0100" stop="20151208000000 +0100">
+  <programme channel="MTV" start="20151208053000 +0100" stop="20151208060000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208000000 +0100" stop="20151208070000 +0100">
+  <programme channel="MTV" start="20151208060000 +0100" stop="20151208130000 +0100">
     <length units="minutes">420</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208070000 +0100" stop="20151208073000 +0100">
+  <programme channel="MTV" start="20151208130000 +0100" stop="20151208133000 +0100">
     <length units="minutes">30</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208073000 +0100" stop="20151208080000 +0100">
+  <programme channel="MTV" start="20151208133000 +0100" stop="20151208140000 +0100">
     <length units="minutes">30</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208080000 +0100" stop="20151208090000 +0100">
+  <programme channel="MTV" start="20151208140000 +0100" stop="20151208150000 +0100">
     <length units="minutes">60</length>
     <title>Top streaming</title>
     <category>Clips</category>
@@ -522,35 +384,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208090000 +0100" stop="20151208103000 +0100">
+  <programme channel="MTV" start="20151208150000 +0100" stop="20151208163000 +0100">
     <length units="minutes">90</length>
     <title>Top clip</title>
     <category>Clips</category>
     <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208103000 +0100" stop="20151208110000 +0100">
+  <programme channel="MTV" start="20151208163000 +0100" stop="20151208170000 +0100">
     <length units="minutes">30</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208110000 +0100" stop="20151208120000 +0100">
+  <programme channel="MTV" start="20151208170000 +0100" stop="20151208180000 +0100">
     <length units="minutes">60</length>
     <title>Top France</title>
     <category>Clips</category>
     <desc>Les clips les plus en vogue du moment dans le domaine français, avec les artistes qui se sont illustrés dans les différents classements de titres... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208120000 +0100" stop="20151208153000 +0100">
+  <programme channel="MTV" start="20151208180000 +0100" stop="20151208213000 +0100">
     <length units="minutes">210</length>
     <title>Top clip</title>
     <category>Clips</category>
     <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208153000 +0100" stop="20151208163000 +0100">
+  <programme channel="MTV" start="20151208213000 +0100" stop="20151208223000 +0100">
     <length units="minutes">60</length>
     <title>Top streaming</title>
     <category>Clips</category>
@@ -561,56 +423,56 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208163000 +0100" stop="20151208173000 +0100">
+  <programme channel="MTV" start="20151208223000 +0100" stop="20151208233000 +0100">
     <length units="minutes">60</length>
     <title>Top 80</title>
     <category>Clips</category>
     <desc>Les plus grands tubes de la décennie des synthés et des boîtes à rythmes. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208173000 +0100" stop="20151208183000 +0100">
+  <programme channel="MTV" start="20151208233000 +0100" stop="20151209003000 +0100">
     <length units="minutes">60</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208183000 +0100" stop="20151208190000 +0100">
+  <programme channel="MTV" start="20151209003000 +0100" stop="20151209010000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208190000 +0100" stop="20151208192500 +0100">
+  <programme channel="MTV" start="20151209010000 +0100" stop="20151209012500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208192500 +0100" stop="20151208195000 +0100">
+  <programme channel="MTV" start="20151209012500 +0100" stop="20151209015000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208195000 +0100" stop="20151208201500 +0100">
+  <programme channel="MTV" start="20151209015000 +0100" stop="20151209021500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208201500 +0100" stop="20151208205000 +0100">
+  <programme channel="MTV" start="20151209021500 +0100" stop="20151209025000 +0100">
     <length units="minutes">35</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208205000 +0100" stop="20151208223500 +0100">
+  <programme channel="MTV" start="20151209025000 +0100" stop="20151209043500 +0100">
     <length units="minutes">105</length>
     <title>American Pie présente : No Limit !</title>
     <category>Téléfilm</category>
@@ -628,11 +490,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208223500 +0100" stop="20151209001000 +0100">
+  <programme channel="MTV" start="20151209043500 +0100" stop="20151209061000 +0100">
     <length units="minutes">95</length>
     <title>Scary Movie 4 (?)</title>
     <category>Film</category>
-    <desc>Cindy assiste impuissante au suicide de son petit ami. Refusant de se laisser aller, elle décide de recommencer sa vie à zéro. Elle accepte de... (Lire la suite).(r)</desc>
+    <desc>Cindy assiste impuissante au suicide de son... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">David Zucker</name>
       <name function="actor">Bill Pullman</name>
@@ -646,35 +508,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209001000 +0100" stop="20151209073000 +0100">
+  <programme channel="MTV" start="20151209061000 +0100" stop="20151209133000 +0100">
     <length units="minutes">440</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209073000 +0100" stop="20151209083000 +0100">
+  <programme channel="MTV" start="20151209133000 +0100" stop="20151209143000 +0100">
     <length units="minutes">60</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209083000 +0100" stop="20151209093000 +0100">
+  <programme channel="MTV" start="20151209143000 +0100" stop="20151209153000 +0100">
     <length units="minutes">60</length>
     <title>Top France</title>
     <category>Clips</category>
     <desc>Les clips les plus en vogue du moment dans le domaine français, avec les artistes qui se sont illustrés dans les différents classements de titres... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209093000 +0100" stop="20151209103000 +0100">
+  <programme channel="MTV" start="20151209153000 +0100" stop="20151209163000 +0100">
     <length units="minutes">60</length>
     <title>Top clip</title>
     <category>Clips</category>
     <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209103000 +0100" stop="20151209113000 +0100">
+  <programme channel="MTV" start="20151209163000 +0100" stop="20151209173000 +0100">
     <length units="minutes">60</length>
     <title>Top streaming</title>
     <category>Clips</category>
@@ -685,35 +547,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209113000 +0100" stop="20151209120000 +0100">
+  <programme channel="MTV" start="20151209173000 +0100" stop="20151209180000 +0100">
     <length units="minutes">30</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209120000 +0100" stop="20151209153000 +0100">
+  <programme channel="MTV" start="20151209180000 +0100" stop="20151209213000 +0100">
     <length units="minutes">210</length>
     <title>Top clip</title>
     <category>Clips</category>
     <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209153000 +0100" stop="20151209163000 +0100">
+  <programme channel="MTV" start="20151209213000 +0100" stop="20151209223000 +0100">
     <length units="minutes">60</length>
     <title>Top hip hop</title>
     <category>Clips</category>
     <desc>Une sélection des meilleurs clips hip-hop du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209163000 +0100" stop="20151209173000 +0100">
+  <programme channel="MTV" start="20151209223000 +0100" stop="20151209233000 +0100">
     <length units="minutes">60</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209173000 +0100" stop="20151209183000 +0100">
+  <programme channel="MTV" start="20151209233000 +0100" stop="20151210003000 +0100">
     <length units="minutes">60</length>
     <title>Top streaming</title>
     <category>Clips</category>
@@ -724,42 +586,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209183000 +0100" stop="20151209190000 +0100">
+  <programme channel="MTV" start="20151210003000 +0100" stop="20151210010000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209190000 +0100" stop="20151209192500 +0100">
+  <programme channel="MTV" start="20151210010000 +0100" stop="20151210012500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209192500 +0100" stop="20151209195000 +0100">
+  <programme channel="MTV" start="20151210012500 +0100" stop="20151210015000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209195000 +0100" stop="20151209201500 +0100">
+  <programme channel="MTV" start="20151210015000 +0100" stop="20151210021500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209201500 +0100" stop="20151209205000 +0100">
+  <programme channel="MTV" start="20151210021500 +0100" stop="20151210025000 +0100">
     <length units="minutes">35</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209205000 +0100" stop="20151209223500 +0100">
+  <programme channel="MTV" start="20151210025000 +0100" stop="20151210043500 +0100">
     <length units="minutes">105</length>
     <title>Empire State</title>
     <category>Téléfilm</category>
@@ -777,11 +639,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209223500 +0100" stop="20151210002000 +0100">
+  <programme channel="MTV" start="20151210043500 +0100" stop="20151210062000 +0100">
     <length units="minutes">105</length>
     <title>Kill the Gringo (?)</title>
     <category>Film</category>
-    <desc>Au cours d'une poursuite en voiture avec la police, un criminel américain se retrouve amené à traverser la frontière et termine avec pertes et... (Lire la suite).(r)</desc>
+    <desc>Au cours d'une poursuite en voiture avec la... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Adrian Grunberg</name>
       <name function="actor">Mel Gibson</name>
@@ -795,14 +657,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210002000 +0100" stop="20151210070000 +0100">
+  <programme channel="MTV" start="20151210062000 +0100" stop="20151210130000 +0100">
     <length units="minutes">400</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210070000 +0100" stop="20151210080000 +0100">
+  <programme channel="MTV" start="20151210130000 +0100" stop="20151210140000 +0100">
     <length units="minutes">60</length>
     <title>Top streaming</title>
     <category>Clips</category>
@@ -813,98 +675,98 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210080000 +0100" stop="20151210090000 +0100">
+  <programme channel="MTV" start="20151210140000 +0100" stop="20151210150000 +0100">
     <length units="minutes">60</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210090000 +0100" stop="20151210103000 +0100">
+  <programme channel="MTV" start="20151210150000 +0100" stop="20151210163000 +0100">
     <length units="minutes">90</length>
     <title>Top clip</title>
     <category>Clips</category>
     <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210103000 +0100" stop="20151210110000 +0100">
+  <programme channel="MTV" start="20151210163000 +0100" stop="20151210170000 +0100">
     <length units="minutes">30</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210110000 +0100" stop="20151210120000 +0100">
+  <programme channel="MTV" start="20151210170000 +0100" stop="20151210180000 +0100">
     <length units="minutes">60</length>
     <title>Top France</title>
     <category>Clips</category>
     <desc>Les clips les plus en vogue du moment dans le domaine français, avec les artistes qui se sont illustrés dans les différents classements de titres... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210120000 +0100" stop="20151210153000 +0100">
+  <programme channel="MTV" start="20151210180000 +0100" stop="20151210213000 +0100">
     <length units="minutes">210</length>
     <title>Top clip</title>
     <category>Clips</category>
     <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210153000 +0100" stop="20151210163000 +0100">
+  <programme channel="MTV" start="20151210213000 +0100" stop="20151210223000 +0100">
     <length units="minutes">60</length>
     <title>Top D17</title>
     <category>Clips</category>
     <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210163000 +0100" stop="20151210173000 +0100">
+  <programme channel="MTV" start="20151210223000 +0100" stop="20151210233000 +0100">
     <length units="minutes">60</length>
     <title>Top 90</title>
     <category>Clips</category>
     <desc>Les plus grands tubes des années 1990 en hommage à Daft Punk, Pascal Obispo, les Spice Girls, Mariah Carey, Whitney Houston ou encore... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210173000 +0100" stop="20151210183000 +0100">
+  <programme channel="MTV" start="20151210233000 +0100" stop="20151211003000 +0100">
     <length units="minutes">60</length>
     <title>Top France</title>
     <category>Clips</category>
     <desc>Les clips les plus en vogue du moment dans le domaine français, avec les artistes qui se sont illustrés dans les différents classements de titres... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210183000 +0100" stop="20151210190000 +0100">
+  <programme channel="MTV" start="20151211003000 +0100" stop="20151211010000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210190000 +0100" stop="20151210192500 +0100">
+  <programme channel="MTV" start="20151211010000 +0100" stop="20151211012500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210192500 +0100" stop="20151210195000 +0100">
+  <programme channel="MTV" start="20151211012500 +0100" stop="20151211015000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210195000 +0100" stop="20151210201500 +0100">
+  <programme channel="MTV" start="20151211015000 +0100" stop="20151211021500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210201500 +0100" stop="20151210205000 +0100">
+  <programme channel="MTV" start="20151211021500 +0100" stop="20151211025000 +0100">
     <length units="minutes">35</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(c)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210205000 +0100" stop="20151210230500 +0100">
+  <programme channel="MTV" start="20151211025000 +0100" stop="20151211050500 +0100">
     <length units="minutes">135</length>
     <title>King Rising : Au nom du roi (?)</title>
     <category>Film</category>
@@ -922,11 +784,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210230500 +0100" stop="20151211010500 +0100">
+  <programme channel="MTV" start="20151211050500 +0100" stop="20151211070500 +0100">
     <length units="minutes">120</length>
     <title>Le tombeau (?)</title>
     <category>Film</category>
-    <desc>Le Vatican envoie en Terre sainte le père Matt Gutierrez, un spécialiste du Nouveau Testament. Sharon Golban, une jeune archéologue, vient en... (Lire la suite).(r)</desc>
+    <desc>Le Vatican envoie en Terre sainte le père... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jonas McCord</name>
       <name function="actor">Antonio Banderas</name>
@@ -940,117 +802,117 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211010500 +0100" stop="20151211070000 +0100">
+  <programme channel="MTV" start="20151211070500 +0100" stop="20151211130000 +0100">
     <length units="minutes">355</length>
     <title>Programmes de la nuit</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211070000 +0100" stop="20151211080000 +0100">
+  <programme channel="MTV" start="20151211130000 +0100" stop="20151211140000 +0100">
     <length units="minutes">60</length>
     <title>Top France</title>
     <category>Clips</category>
-    <desc>Les clips les plus en vogue du moment dans le domaine français, avec les artistes qui se sont illustrés dans les différents classements de titres... (Lire la suite).(n)</desc>
+    <desc>Les clips les plus en vogue du moment dans le domaine français, avec les artistes qui se sont illustrés dans les différents classements de titres... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211080000 +0100" stop="20151211103000 +0100">
+  <programme channel="MTV" start="20151211140000 +0100" stop="20151211163000 +0100">
     <length units="minutes">150</length>
     <title>Top clip</title>
     <category>Clips</category>
-    <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).(n)</desc>
+    <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211103000 +0100" stop="20151211110000 +0100">
+  <programme channel="MTV" start="20151211163000 +0100" stop="20151211170000 +0100">
     <length units="minutes">30</length>
     <title>Top D17</title>
     <category>Clips</category>
-    <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).(n)</desc>
+    <desc>Un classement des quinze meilleurs clips actuels pour être en phase avec LA musique du moment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211110000 +0100" stop="20151211120000 +0100">
+  <programme channel="MTV" start="20151211170000 +0100" stop="20151211180000 +0100">
     <length units="minutes">60</length>
     <title>Top streaming</title>
     <category>Clips</category>
-    <desc>D17 s'associe avec le Snep et la SCPP pour diffuser le classement hebdomadaire des meilleures écoutes en streaming. (Lire la suite).(n)</desc>
+    <desc>D17 s'associe avec le Snep et la SCPP pour diffuser le classement hebdomadaire des meilleures écoutes en streaming. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Salomé Lagresle,</name>
       <name function="presenter">Jimmy Buzz</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211120000 +0100" stop="20151211153000 +0100">
+  <programme channel="MTV" start="20151211180000 +0100" stop="20151211213000 +0100">
     <length units="minutes">210</length>
     <title>Top clip</title>
     <category>Clips</category>
-    <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).(n)</desc>
+    <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211153000 +0100" stop="20151211163000 +0100">
+  <programme channel="MTV" start="20151211213000 +0100" stop="20151211223000 +0100">
     <length units="minutes">60</length>
     <title>Top 80</title>
     <category>Clips</category>
-    <desc>Les plus grands tubes de la décennie des synthés et des boîtes à rythmes. (Lire la suite).(n)</desc>
+    <desc>Les plus grands tubes de la décennie des synthés et des boîtes à rythmes. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211163000 +0100" stop="20151211173000 +0100">
+  <programme channel="MTV" start="20151211223000 +0100" stop="20151211233000 +0100">
     <length units="minutes">60</length>
     <title>Top Club</title>
     <category>Clips</category>
-    <desc>Une anthologie des clips les plus dansants, dance, techno, hardcore, tous genres confondus. (Lire la suite).(n)</desc>
+    <desc>Une anthologie des clips les plus dansants, dance, techno, hardcore, tous genres confondus. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211173000 +0100" stop="20151211183000 +0100">
+  <programme channel="MTV" start="20151211233000 +0100" stop="20151212003000 +0100">
     <length units="minutes">60</length>
     <title>Top streaming</title>
     <category>Clips</category>
-    <desc>D17 s'associe avec le Snep et la SCPP pour diffuser le classement hebdomadaire des meilleures écoutes en streaming. (Lire la suite).(n)</desc>
+    <desc>D17 s'associe avec le Snep et la SCPP pour diffuser le classement hebdomadaire des meilleures écoutes en streaming. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Salomé Lagresle,</name>
       <name function="presenter">Jimmy Buzz</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211183000 +0100" stop="20151211190000 +0100">
+  <programme channel="MTV" start="20151212003000 +0100" stop="20151212010000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(n)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211190000 +0100" stop="20151211192500 +0100">
+  <programme channel="MTV" start="20151212010000 +0100" stop="20151212012500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(n)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211192500 +0100" stop="20151211195000 +0100">
+  <programme channel="MTV" start="20151212012500 +0100" stop="20151212015000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(n)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211195000 +0100" stop="20151211201500 +0100">
+  <programme channel="MTV" start="20151212015000 +0100" stop="20151212021500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(n)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211201500 +0100" stop="20151211204500 +0100">
+  <programme channel="MTV" start="20151212021500 +0100" stop="20151212024500 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars</title>
     <category>Documentaire</category>
-    <desc>La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son... (Lire la suite).(n)</desc>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211204500 +0100" stop="20151211205000 +0100">
+  <programme channel="MTV" start="20151212024500 +0100" stop="20151212025000 +0100">
     <length units="minutes">5</length>
     <title>Lolywood</title>
     <category>Série</category>
-    <desc>Sur un thème bien précis, une succession de sketches interprétés par des comédiens : soirées, travail, vie quotidienne, rien n'est oublié dans ce... (Lire la suite).(n)</desc>
+    <desc>Sur un thème bien précis, une succession de sketches interprétés par des comédiens : soirées, travail, vie quotidienne, rien n'est oublié dans ce... (Lire la suite).</desc>
     <credits>
       <name function="director">Matthieu Mares-Savelli</name>
       <name function="actor">Ugo Marchand</name>
@@ -1062,41 +924,179 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211205000 +0100" stop="20151211214500 +0100">
+  <programme channel="MTV" start="20151212025000 +0100" stop="20151212034500 +0100">
     <length units="minutes">55</length>
     <title>American Pickers, la brocante made in USA</title>
     <category>Documentaire</category>
-    <desc>Mike et Frank se rendent dans le Michigan, le berceau de l'industrie automobile américaine, où ils espèrent dénicher des pièces détachées et des... (Lire la suite).(n)</desc>
+    <desc>Mike et Frank se rendent dans le Michigan, le... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Todd Broder</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211214500 +0100" stop="20151211223500 +0100">
+  <programme channel="MTV" start="20151212034500 +0100" stop="20151212043500 +0100">
     <length units="minutes">50</length>
     <title>American Pickers, la brocante made in USA</title>
     <category>Documentaire</category>
-    <desc>Sur les routes du Michigan, nos deux brocanteurs sont pris dans une tempête de neige printanière qui semble de mauvaise augure. Peu de temps... (Lire la suite).(n)</desc>
+    <desc>Sur les routes du Michigan, nos deux brocanteurs (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211223500 +0100" stop="20151211232500 +0100">
+  <programme channel="MTV" start="20151212043500 +0100" stop="20151212052500 +0100">
     <length units="minutes">50</length>
     <title>American Pickers, la brocante made in USA</title>
     <category>Documentaire</category>
-    <desc>Mike et Frank recherchent des pièces permettant d'illustrer l'histoire de la course automobile aux Etats-Unis, qui figureront au panthéon de... (Lire la suite).(n)</desc>
+    <desc>Mike et Frank recherchent des pièces permettant (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Anthony Mastanduno</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211232500 +0100" stop="20151212002000 +0100">
+  <programme channel="MTV" start="20151212052500 +0100" stop="20151212062000 +0100">
     <length units="minutes">55</length>
     <title>American Pickers, la brocante made in USA</title>
     <category>Documentaire</category>
-    <desc>L'objectif de Mike et Frank est de ramener des pièces datant de la guerre de Sécession. Le duo de chineurs de choc se rend donc sur les lieux des... (Lire la suite).(n)</desc>
+    <desc>L'objectif de Mike et Frank est de ramener... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Anthony Mastanduno</name>
     </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212062000 +0100" stop="20151212130000 +0100">
+    <length units="minutes">400</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212130000 +0100" stop="20151212140000 +0100">
+    <length units="minutes">60</length>
+    <title>Top clip</title>
+    <category>Clips</category>
+    <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212140000 +0100" stop="20151212150500 +0100">
+    <length units="minutes">65</length>
+    <title>Top France</title>
+    <category>Clips</category>
+    <desc>Les clips les plus en vogue du moment dans le... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212150500 +0100" stop="20151212161000 +0100">
+    <length units="minutes">65</length>
+    <title>Top D17</title>
+    <category>Clips</category>
+    <desc>Un classement des quinze meilleurs clips... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212161000 +0100" stop="20151212173000 +0100">
+    <length units="minutes">80</length>
+    <title>Top clip</title>
+    <category>Clips</category>
+    <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212173000 +0100" stop="20151212184000 +0100">
+    <length units="minutes">70</length>
+    <title>Top France</title>
+    <category>Clips</category>
+    <desc>Les clips les plus en vogue du moment dans le... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212184000 +0100" stop="20151212200000 +0100">
+    <length units="minutes">80</length>
+    <title>Top clip</title>
+    <category>Clips</category>
+    <desc>Dance, pop-rock, R'n'b, hip-hop, rap : «Top... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212200000 +0100" stop="20151213001000 +0100">
+    <length units="minutes">250</length>
+    <title>Le starmix</title>
+    <category>Divertissement</category>
+    <desc>L'occasion de gagner des cadeaux dans une... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Amélie Bitoun</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213001000 +0100" stop="20151213003500 +0100">
+    <length units="minutes">25</length>
+    <title>Pawn Stars</title>
+    <category>Documentaire</category>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213003500 +0100" stop="20151213010000 +0100">
+    <length units="minutes">25</length>
+    <title>Pawn Stars</title>
+    <category>Documentaire</category>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213010000 +0100" stop="20151213012500 +0100">
+    <length units="minutes">25</length>
+    <title>Pawn Stars</title>
+    <category>Documentaire</category>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213012500 +0100" stop="20151213015000 +0100">
+    <length units="minutes">25</length>
+    <title>Pawn Stars</title>
+    <category>Documentaire</category>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213015000 +0100" stop="20151213021500 +0100">
+    <length units="minutes">25</length>
+    <title>Pawn Stars</title>
+    <category>Documentaire</category>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213021500 +0100" stop="20151213024500 +0100">
+    <length units="minutes">30</length>
+    <title>Pawn Stars</title>
+    <category>Documentaire</category>
+    <desc>La Gold &amp; Silver Shop est une société de... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213024500 +0100" stop="20151213025000 +0100">
+    <length units="minutes">5</length>
+    <title>Lolywood</title>
+    <category>Série</category>
+    <desc>Sur un thème bien précis, une succession de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Matthieu Mares-Savelli</name>
+      <name function="actor">Ugo Marchand</name>
+      <name function="actor">Emmanuel Gandon</name>
+      <name function="actor">Jérémy Nadeau</name>
+      <name function="actor">Laetitita Legrix</name>
+      <name function="actor">Jonathan Brecher</name>
+      <name function="actor">Laura Domenge</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213025000 +0100" stop="20151213042500 +0100">
+    <length units="minutes">95</length>
+    <title>Le zap de la force</title>
+    <category>Divertissement</category>
+    <desc>A l'occasion de la sortie du «Le Réveil de la... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213042500 +0100" stop="20151213053000 +0100">
+    <length units="minutes">65</length>
+    <title>Le zap</title>
+    <category>Divertissement</category>
+    <desc>Vidéos amateurs, stars en fâcheuse posture,... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213053000 +0100" stop="20151213060000 +0100">
+    <length units="minutes">30</length>
+    <title>Enquête très spéciale</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine dans «Enquête très spéciale»,... (Lire la suite).(n)</desc>
     <image />
   </programme>
 </tv>

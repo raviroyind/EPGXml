@@ -1,245 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Chérie 25">
-    <display-name>test</display-name>
+    <display-name>MTV</display-name>
   </channel>
-  <programme channel="test" start="20151205004500 +0100" stop="20151205014500 +0100">
-    <length units="minutes">60</length>
-    <title>C'est mon choix</title>
-    <category>Magazine</category>
-    <desc>Evelyne Thomas revient avec une formule revisitée de «C'est mon choix». Mêlant à la fois témoignage et divertissement, le but de l'émission est... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Evelyne Thomas</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205014500 +0100" stop="20151205060000 +0100">
-    <length units="minutes">255</length>
-    <title>Programmes de la nuit</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205060000 +0100" stop="20151205090000 +0100">
-    <length units="minutes">180</length>
-    <title>Télé-achat</title>
-    <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205090000 +0100" stop="20151205095000 +0100">
-    <length units="minutes">50</length>
-    <title>New York 911</title>
-    <category>Série</category>
-    <desc>Ty Davis informe Sully que l'arme qui a servi à abattre son père avait été subtilisée dans la salle des pièces à conviction. Par ailleurs, il lui... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Rosemary Rodriguez</name>
-      <name function="actor">Charles Haid</name>
-      <name function="actor">Cara Buono</name>
-      <name function="actor">Nia Long</name>
-      <name function="actor">Jason Wiles</name>
-      <name function="actor">Skipp Sudduth</name>
-      <name function="actor">Coby Bell</name>
-      <name function="actor">Molly Price</name>
-      <name function="actor">Josh Stewart</name>
-      <name function="writer">Siobhan Byrne O'Connor</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205095000 +0100" stop="20151205104000 +0100">
-    <length units="minutes">50</length>
-    <title>New York 911</title>
-    <category>Série</category>
-    <desc>Sasha Monroe tente par tous les moyens à sa disposition de mettre un dealer du nom de Skeeter Matthews hors d'état de nuire. Au cours d'une... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Matt Earl Beesley</name>
-      <name function="actor">Charles Haid</name>
-      <name function="actor">Nia Long</name>
-      <name function="actor">Skipp Sudduth</name>
-      <name function="actor">Coby Bell</name>
-      <name function="actor">Tia Texada</name>
-      <name function="actor">Molly Price</name>
-      <name function="actor">Josh Stewart</name>
-      <name function="actor">Tobias Truvillion</name>
-      <name function="writer">Charles Alfrazier Murray</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205104000 +0100" stop="20151205113500 +0100">
-    <length units="minutes">55</length>
-    <title>New York 911</title>
-    <category>Série</category>
-    <desc>Sullivan sait que le meurtrier de son coéquipier, mort il y a une vingtaine d'années, n'est autre que le capitaine CT Finney. Avec Monroe, il... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Matt Earl Beesley</name>
-      <name function="actor">Charles Haid</name>
-      <name function="actor">Nia Long</name>
-      <name function="actor">Skipp Sudduth</name>
-      <name function="actor">Coby Bell</name>
-      <name function="actor">Tia Texada</name>
-      <name function="actor">Molly Price</name>
-      <name function="actor">Anthony Ruivivar</name>
-      <name function="actor">Josh Stewart</name>
-      <name function="writer">Charles Alfrazier Murray</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205113500 +0100" stop="20151205123000 +0100">
-    <length units="minutes">55</length>
-    <title>New York 911</title>
-    <category>Série</category>
-    <desc>Avec opiniâtreté, Sullivan poursuit son action contre le capitaine Finney. Le sergent Maritza Cruz, de son côté, fait équipe avec l'inspecteur... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Matt Earl Beesley</name>
-      <name function="actor">Charles Haid</name>
-      <name function="actor">Mykelti Williamson</name>
-      <name function="actor">Nia Long</name>
-      <name function="actor">Skipp Sudduth</name>
-      <name function="actor">Coby Bell</name>
-      <name function="actor">Tia Texada</name>
-      <name function="actor">Josh Stewart</name>
-      <name function="actor">Laith Nakli</name>
-      <name function="writer">Charles Alfrazier Murray</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205123000 +0100" stop="20151205132500 +0100">
-    <length units="minutes">55</length>
-    <title>New York 911</title>
-    <category>Série</category>
-    <desc>L'attentat qui s'est produit dans le café est encore dans toutes les mémoires. Alors même que la police a réussi à mettre la main sur les... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Edward Allen Bernero</name>
-      <name function="actor">Cara Buono</name>
-      <name function="actor">Nia Long</name>
-      <name function="actor">Skipp Sudduth</name>
-      <name function="actor">Coby Bell</name>
-      <name function="actor">Tia Texada</name>
-      <name function="actor">Molly Price</name>
-      <name function="actor">Anthony Ruivivar</name>
-      <name function="actor">Josh Stewart</name>
-      <name function="writer">Charles Holland</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205132500 +0100" stop="20151205142000 +0100">
-    <length units="minutes">55</length>
-    <title>New York 911</title>
-    <category>Série</category>
-    <desc>Le lieutenant Swersky dirige une descente de police pour arrêter l'assassin d'un policier de Philadelphie. Pendant ce temps, Brendan reçoit un... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Stephen Cragg</name>
-      <name function="actor">Cara Buono</name>
-      <name function="actor">Joe Lisi</name>
-      <name function="actor">Coby Bell</name>
-      <name function="actor">Tia Texada</name>
-      <name function="actor">Molly Price</name>
-      <name function="actor">Anthony Ruivivar</name>
-      <name function="actor">Josh Stewart</name>
-      <name function="actor">Zach Savage</name>
-      <name function="writer">Simon Mirren</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205142000 +0100" stop="20151205153000 +0100">
-    <length units="minutes">70</length>
-    <title>Sous les jupons de l'histoire</title>
-    <category>Magazine</category>
-    <desc>Christine Bravo retrace l'ultime journée de la vie de Marie-Antoinette, dernière reine de France. Depuis sa cellule de la Conciergerie de Paris... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Christine Bravo</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205153000 +0100" stop="20151205163500 +0100">
-    <length units="minutes">65</length>
-    <title>Sous les jupons de l'histoire</title>
-    <category>Magazine</category>
-    <desc>Depuis le Château de Châteaubriant, Christine Bravo raconte l'histoire du premier amour de François Ier, une femme célèbre pour sa beauté. Du... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Christine Bravo</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205163500 +0100" stop="20151205174500 +0100">
-    <length units="minutes">70</length>
-    <title>Sous les jupons de l'histoire</title>
-    <category>Magazine</category>
-    <desc>Depuis le Château de Versailles, Christine Bravo dresse le portrait de la plus flamboyante des maîtresses de Louis XIV. De la chambre du roi aux... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Christine Bravo</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205174500 +0100" stop="20151205190000 +0100">
-    <length units="minutes">75</length>
-    <title>Sous les jupons de l'histoire</title>
-    <category>Magazine</category>
-    <desc>Depuis le château de Maintenon, Christine Bravo soulève les jupons de l'histoire de celle qui fut le dernier amour de Louis XIV. Gouvernante des... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Christine Bravo</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205190000 +0100" stop="20151205205500 +0100">
-    <length units="minutes">115</length>
-    <title>Diane, femme flic</title>
-    <category>Téléfilm</category>
-    <desc>Eugénie, 16 ans, finit de se faire ausculter par un gynécologue. Sa mère, Noëlle Derval, la rejoint, bouleversée. Elle vient d'apprendre... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Marc Angelo</name>
-      <name function="actor">Isabel Otero</name>
-      <name function="actor">Laurent Gamelon</name>
-      <name function="actor">Arnaud Arbessier</name>
-      <name function="actor">Joël Zaffarano</name>
-      <name function="actor">Audrey Fleurot</name>
-      <name function="actor">Emilie de Pressac</name>
-      <name function="actor">Vanessa Guedj</name>
-      <name function="actor">Karine Lazard</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205205500 +0100" stop="20151205225000 +0100">
-    <length units="minutes">115</length>
-    <title>Pour le meilleur et pour le pire</title>
-    <category>Téléfilm</category>
-    <desc>Kay, mariée depuis plusieurs années à... (Lire la suite).(c)</desc>
-    <credits>
-      <name function="director">Clive Donner</name>
-      <name function="actor">Jennifer Beals</name>
-      <name function="actor">Kate Nelligan</name>
-      <name function="actor">Manfred Lehmann</name>
-      <name function="actor">Madeleine Robinson</name>
-      <name function="actor">Werner Stocker</name>
-      <name function="actor">Geraint Wyn Davies</name>
-      <name function="actor">Gertrud Prey</name>
-      <name function="actor">Hans Irle</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151205225000 +0100" stop="20151206004000 +0100">
-    <length units="minutes">110</length>
-    <title>La clinique du docteur H</title>
-    <category>Téléfilm</category>
-    <desc>Le docteur Edgar Highley a d'étranges... (Lire la suite).(c)</desc>
-    <credits>
-      <name function="director">Rob W King</name>
-      <name function="actor">Dennis Akayama</name>
-      <name function="actor">Alan C Peterson</name>
-      <name function="actor">Philippe Brenninkmeyer</name>
-      <name function="actor">John Ralston</name>
-      <name function="actor">Stephen Spender</name>
-      <name function="actor">Carol Higgins Clark</name>
-      <name function="actor">Angie Everhart</name>
-      <name function="actor">William B Davis</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="test" start="20151206004000 +0100" stop="20151206021500 +0100">
+  <programme channel="MTV" start="20151206064000 +0100" stop="20151206081500 +0100">
     <length units="minutes">95</length>
     <title>Ce soir, je veillerai sur toi</title>
     <category>Téléfilm</category>
-    <desc>Sterling Brooks, un cadre dynamique, mais... (Lire la suite).(c)</desc>
+    <desc>Sterling Brooks, un cadre dynamique, mais... (Lire la suite).</desc>
     <credits>
       <name function="director">David Winning</name>
       <name function="actor">Greg Evigan</name>
@@ -253,28 +21,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206021500 +0100" stop="20151206060000 +0100">
+  <programme channel="MTV" start="20151206081500 +0100" stop="20151206120000 +0100">
     <length units="minutes">225</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206060000 +0100" stop="20151206080000 +0100">
+  <programme channel="MTV" start="20151206120000 +0100" stop="20151206140000 +0100">
     <length units="minutes">120</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206080000 +0100" stop="20151206081000 +0100">
+  <programme channel="MTV" start="20151206140000 +0100" stop="20151206141000 +0100">
     <length units="minutes">10</length>
     <title>Destins de sportives</title>
     <category>Documentaire</category>
     <desc>Ski nautique : Manon Costard (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151206081000 +0100" stop="20151206091000 +0100">
+  <programme channel="MTV" start="20151206141000 +0100" stop="20151206151000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -284,7 +52,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206091000 +0100" stop="20151206101500 +0100">
+  <programme channel="MTV" start="20151206151000 +0100" stop="20151206161500 +0100">
     <length units="minutes">65</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -294,7 +62,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206101500 +0100" stop="20151206112000 +0100">
+  <programme channel="MTV" start="20151206161500 +0100" stop="20151206172000 +0100">
     <length units="minutes">65</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -304,7 +72,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206112000 +0100" stop="20151206122500 +0100">
+  <programme channel="MTV" start="20151206172000 +0100" stop="20151206182500 +0100">
     <length units="minutes">65</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -314,7 +82,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206122500 +0100" stop="20151206133500 +0100">
+  <programme channel="MTV" start="20151206182500 +0100" stop="20151206193500 +0100">
     <length units="minutes">70</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -324,7 +92,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206133500 +0100" stop="20151206152000 +0100">
+  <programme channel="MTV" start="20151206193500 +0100" stop="20151206212000 +0100">
     <length units="minutes">105</length>
     <title>Pleure pas ma belle</title>
     <category>Téléfilm</category>
@@ -342,7 +110,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206152000 +0100" stop="20151206171000 +0100">
+  <programme channel="MTV" start="20151206212000 +0100" stop="20151206231000 +0100">
     <length units="minutes">110</length>
     <title>Ce soir, je veillerai sur toi</title>
     <category>Téléfilm</category>
@@ -360,7 +128,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206171000 +0100" stop="20151206190000 +0100">
+  <programme channel="MTV" start="20151206231000 +0100" stop="20151207010000 +0100">
     <length units="minutes">110</length>
     <title>Diane, femme flic</title>
     <category>Téléfilm</category>
@@ -378,7 +146,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206190000 +0100" stop="20151206205500 +0100">
+  <programme channel="MTV" start="20151207010000 +0100" stop="20151207025500 +0100">
     <length units="minutes">115</length>
     <title>Diane, femme flic</title>
     <category>Téléfilm</category>
@@ -396,7 +164,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206205500 +0100" stop="20151206215500 +0100">
+  <programme channel="MTV" start="20151207025500 +0100" stop="20151207035500 +0100">
     <length units="minutes">60</length>
     <title>Diane, femme flic</title>
     <category>Série</category>
@@ -415,7 +183,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206215500 +0100" stop="20151206230500 +0100">
+  <programme channel="MTV" start="20151207035500 +0100" stop="20151207050500 +0100">
     <length units="minutes">70</length>
     <title>Diane, femme flic</title>
     <category>Série</category>
@@ -434,7 +202,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151206230500 +0100" stop="20151207004500 +0100">
+  <programme channel="MTV" start="20151207050500 +0100" stop="20151207064500 +0100">
     <length units="minutes">100</length>
     <title>Diane, femme flic</title>
     <category>Téléfilm</category>
@@ -452,7 +220,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207004500 +0100" stop="20151207021500 +0100">
+  <programme channel="MTV" start="20151207064500 +0100" stop="20151207081500 +0100">
     <length units="minutes">90</length>
     <title>Diane, femme flic</title>
     <category>Téléfilm</category>
@@ -470,42 +238,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207021500 +0100" stop="20151207060000 +0100">
+  <programme channel="MTV" start="20151207081500 +0100" stop="20151207120000 +0100">
     <length units="minutes">225</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207060000 +0100" stop="20151207090000 +0100">
+  <programme channel="MTV" start="20151207120000 +0100" stop="20151207150000 +0100">
     <length units="minutes">180</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207090000 +0100" stop="20151207094500 +0100">
+  <programme channel="MTV" start="20151207150000 +0100" stop="20151207154500 +0100">
     <length units="minutes">45</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
     <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207094500 +0100" stop="20151207103000 +0100">
+  <programme channel="MTV" start="20151207154500 +0100" stop="20151207163000 +0100">
     <length units="minutes">45</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
     <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207103000 +0100" stop="20151207113000 +0100">
+  <programme channel="MTV" start="20151207163000 +0100" stop="20151207173000 +0100">
     <length units="minutes">60</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
     <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151207113000 +0100" stop="20151207123000 +0100">
+  <programme channel="MTV" start="20151207173000 +0100" stop="20151207183000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -515,7 +283,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207123000 +0100" stop="20151207133000 +0100">
+  <programme channel="MTV" start="20151207183000 +0100" stop="20151207193000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -525,7 +293,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207133000 +0100" stop="20151207151500 +0100">
+  <programme channel="MTV" start="20151207193000 +0100" stop="20151207211500 +0100">
     <length units="minutes">105</length>
     <title>Les Cordier, juge et flic</title>
     <category>Téléfilm</category>
@@ -543,7 +311,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207151500 +0100" stop="20151207170000 +0100">
+  <programme channel="MTV" start="20151207211500 +0100" stop="20151207230000 +0100">
     <length units="minutes">105</length>
     <title>Les Cordier, juge et flic</title>
     <category>Téléfilm</category>
@@ -561,7 +329,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207170000 +0100" stop="20151207180000 +0100">
+  <programme channel="MTV" start="20151207230000 +0100" stop="20151208000000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -571,7 +339,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207180000 +0100" stop="20151207190500 +0100">
+  <programme channel="MTV" start="20151208000000 +0100" stop="20151208010500 +0100">
     <length units="minutes">65</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -581,7 +349,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207190500 +0100" stop="20151207200000 +0100">
+  <programme channel="MTV" start="20151208010500 +0100" stop="20151208020000 +0100">
     <length units="minutes">55</length>
     <title>Pour l'amour du risque</title>
     <category>Série</category>
@@ -597,7 +365,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207200000 +0100" stop="20151207205500 +0100">
+  <programme channel="MTV" start="20151208020000 +0100" stop="20151208025500 +0100">
     <length units="minutes">55</length>
     <title>Pour l'amour du risque</title>
     <category>Série</category>
@@ -614,7 +382,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207205500 +0100" stop="20151207223500 +0100">
+  <programme channel="MTV" start="20151208025500 +0100" stop="20151208043500 +0100">
     <length units="minutes">100</length>
     <title>Fantôme avec chauffeur (?)</title>
     <category>Film</category>
@@ -632,7 +400,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151207223500 +0100" stop="20151208002000 +0100">
+  <programme channel="MTV" start="20151208043500 +0100" stop="20151208062000 +0100">
     <length units="minutes">105</length>
     <title>Alexandre le Bienheureux (?)</title>
     <category>Film</category>
@@ -650,63 +418,63 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208002000 +0100" stop="20151208004500 +0100">
+  <programme channel="MTV" start="20151208062000 +0100" stop="20151208064500 +0100">
     <length units="minutes">25</length>
     <title>J'ai dit oui pour la robe Atlanta</title>
     <category>Documentaire</category>
     <desc>Jessie n'arrive pas à trouver un terrain... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208004500 +0100" stop="20151208011000 +0100">
+  <programme channel="MTV" start="20151208064500 +0100" stop="20151208071000 +0100">
     <length units="minutes">25</length>
     <title>J'ai dit oui pour la robe Atlanta</title>
     <category>Documentaire</category>
     <desc>Deux mariées sont extrêmement anxieuses dans... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208011000 +0100" stop="20151208013500 +0100">
+  <programme channel="MTV" start="20151208071000 +0100" stop="20151208073500 +0100">
     <length units="minutes">25</length>
     <title>J'ai dit oui pour la robe Atlanta</title>
     <category>Documentaire</category>
     <desc>Deux mariées, au lourd passé, sont toutes... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208013500 +0100" stop="20151208060000 +0100">
+  <programme channel="MTV" start="20151208073500 +0100" stop="20151208120000 +0100">
     <length units="minutes">265</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208060000 +0100" stop="20151208090000 +0100">
+  <programme channel="MTV" start="20151208120000 +0100" stop="20151208150000 +0100">
     <length units="minutes">180</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208090000 +0100" stop="20151208094500 +0100">
+  <programme channel="MTV" start="20151208150000 +0100" stop="20151208154500 +0100">
     <length units="minutes">45</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
     <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208094500 +0100" stop="20151208103000 +0100">
+  <programme channel="MTV" start="20151208154500 +0100" stop="20151208163000 +0100">
     <length units="minutes">45</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
     <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208103000 +0100" stop="20151208113000 +0100">
+  <programme channel="MTV" start="20151208163000 +0100" stop="20151208173000 +0100">
     <length units="minutes">60</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
     <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151208113000 +0100" stop="20151208123000 +0100">
+  <programme channel="MTV" start="20151208173000 +0100" stop="20151208183000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -716,7 +484,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208123000 +0100" stop="20151208133000 +0100">
+  <programme channel="MTV" start="20151208183000 +0100" stop="20151208193000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -726,7 +494,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208133000 +0100" stop="20151208151500 +0100">
+  <programme channel="MTV" start="20151208193000 +0100" stop="20151208211500 +0100">
     <length units="minutes">105</length>
     <title>Les Cordier, juge et flic</title>
     <category>Téléfilm</category>
@@ -744,7 +512,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208151500 +0100" stop="20151208170000 +0100">
+  <programme channel="MTV" start="20151208211500 +0100" stop="20151208230000 +0100">
     <length units="minutes">105</length>
     <title>Les Cordier, juge et flic</title>
     <category>Téléfilm</category>
@@ -762,7 +530,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208170000 +0100" stop="20151208180000 +0100">
+  <programme channel="MTV" start="20151208230000 +0100" stop="20151209000000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -772,7 +540,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208180000 +0100" stop="20151208190500 +0100">
+  <programme channel="MTV" start="20151209000000 +0100" stop="20151209010500 +0100">
     <length units="minutes">65</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -782,7 +550,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208190500 +0100" stop="20151208200000 +0100">
+  <programme channel="MTV" start="20151209010500 +0100" stop="20151209020000 +0100">
     <length units="minutes">55</length>
     <title>Pour l'amour du risque</title>
     <category>Série</category>
@@ -799,7 +567,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208200000 +0100" stop="20151208205500 +0100">
+  <programme channel="MTV" start="20151209020000 +0100" stop="20151209025500 +0100">
     <length units="minutes">55</length>
     <title>Pour l'amour du risque</title>
     <category>Série</category>
@@ -818,7 +586,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208205500 +0100" stop="20151208231500 +0100">
+  <programme channel="MTV" start="20151209025500 +0100" stop="20151209051500 +0100">
     <length units="minutes">140</length>
     <title>La jurée (?)</title>
     <category>Film</category>
@@ -836,7 +604,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151208231500 +0100" stop="20151209012000 +0100">
+  <programme channel="MTV" start="20151209051500 +0100" stop="20151209072000 +0100">
     <length units="minutes">125</length>
     <title>Road House (?)</title>
     <category>Film</category>
@@ -854,56 +622,56 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209012000 +0100" stop="20151209014500 +0100">
+  <programme channel="MTV" start="20151209072000 +0100" stop="20151209074500 +0100">
     <length units="minutes">25</length>
     <title>J'ai dit oui pour la robe Atlanta</title>
     <category>Documentaire</category>
     <desc>Des drames familiaux éclatent dans la... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209014500 +0100" stop="20151209021000 +0100">
+  <programme channel="MTV" start="20151209074500 +0100" stop="20151209081000 +0100">
     <length units="minutes">25</length>
     <title>J'ai dit oui pour la robe Atlanta</title>
     <category>Documentaire</category>
     <desc>Une mariée de la classe supérieure du sud... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209021000 +0100" stop="20151209060000 +0100">
+  <programme channel="MTV" start="20151209081000 +0100" stop="20151209120000 +0100">
     <length units="minutes">230</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209060000 +0100" stop="20151209090000 +0100">
+  <programme channel="MTV" start="20151209120000 +0100" stop="20151209150000 +0100">
     <length units="minutes">180</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209090000 +0100" stop="20151209094500 +0100">
+  <programme channel="MTV" start="20151209150000 +0100" stop="20151209154500 +0100">
     <length units="minutes">45</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
     <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209094500 +0100" stop="20151209103000 +0100">
+  <programme channel="MTV" start="20151209154500 +0100" stop="20151209163000 +0100">
     <length units="minutes">45</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
     <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209103000 +0100" stop="20151209113000 +0100">
+  <programme channel="MTV" start="20151209163000 +0100" stop="20151209173000 +0100">
     <length units="minutes">60</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
     <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151209113000 +0100" stop="20151209123000 +0100">
+  <programme channel="MTV" start="20151209173000 +0100" stop="20151209183000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -913,7 +681,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209123000 +0100" stop="20151209133000 +0100">
+  <programme channel="MTV" start="20151209183000 +0100" stop="20151209193000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -923,7 +691,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209133000 +0100" stop="20151209151500 +0100">
+  <programme channel="MTV" start="20151209193000 +0100" stop="20151209211500 +0100">
     <length units="minutes">105</length>
     <title>Les Cordier, juge et flic</title>
     <category>Téléfilm</category>
@@ -941,7 +709,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209151500 +0100" stop="20151209170000 +0100">
+  <programme channel="MTV" start="20151209211500 +0100" stop="20151209230000 +0100">
     <length units="minutes">105</length>
     <title>Les Cordier, juge et flic</title>
     <category>Téléfilm</category>
@@ -959,7 +727,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209170000 +0100" stop="20151209180000 +0100">
+  <programme channel="MTV" start="20151209230000 +0100" stop="20151210000000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -969,7 +737,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209180000 +0100" stop="20151209190500 +0100">
+  <programme channel="MTV" start="20151210000000 +0100" stop="20151210010500 +0100">
     <length units="minutes">65</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -979,7 +747,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209190500 +0100" stop="20151209200000 +0100">
+  <programme channel="MTV" start="20151210010500 +0100" stop="20151210020000 +0100">
     <length units="minutes">55</length>
     <title>Pour l'amour du risque</title>
     <category>Série</category>
@@ -998,7 +766,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209200000 +0100" stop="20151209205500 +0100">
+  <programme channel="MTV" start="20151210020000 +0100" stop="20151210025500 +0100">
     <length units="minutes">55</length>
     <title>Pour l'amour du risque</title>
     <category>Série</category>
@@ -1017,7 +785,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209205500 +0100" stop="20151209225000 +0100">
+  <programme channel="MTV" start="20151210025500 +0100" stop="20151210045000 +0100">
     <length units="minutes">115</length>
     <title>Maldonne</title>
     <category>Téléfilm</category>
@@ -1035,7 +803,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151209225000 +0100" stop="20151210003500 +0100">
+  <programme channel="MTV" start="20151210045000 +0100" stop="20151210063500 +0100">
     <length units="minutes">105</length>
     <title>Y'a pas d'âge pour s'aimer</title>
     <category>Téléfilm</category>
@@ -1053,7 +821,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210003500 +0100" stop="20151210013500 +0100">
+  <programme channel="MTV" start="20151210063500 +0100" stop="20151210073500 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -1063,7 +831,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210013500 +0100" stop="20151210023500 +0100">
+  <programme channel="MTV" start="20151210073500 +0100" stop="20151210083500 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -1073,42 +841,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210023500 +0100" stop="20151210060000 +0100">
+  <programme channel="MTV" start="20151210083500 +0100" stop="20151210120000 +0100">
     <length units="minutes">205</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210060000 +0100" stop="20151210090000 +0100">
+  <programme channel="MTV" start="20151210120000 +0100" stop="20151210150000 +0100">
     <length units="minutes">180</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210090000 +0100" stop="20151210094500 +0100">
+  <programme channel="MTV" start="20151210150000 +0100" stop="20151210154500 +0100">
     <length units="minutes">45</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
     <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210094500 +0100" stop="20151210103000 +0100">
+  <programme channel="MTV" start="20151210154500 +0100" stop="20151210163000 +0100">
     <length units="minutes">45</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
     <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210103000 +0100" stop="20151210113000 +0100">
+  <programme channel="MTV" start="20151210163000 +0100" stop="20151210173000 +0100">
     <length units="minutes">60</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
     <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151210113000 +0100" stop="20151210123000 +0100">
+  <programme channel="MTV" start="20151210173000 +0100" stop="20151210183000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -1118,7 +886,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210123000 +0100" stop="20151210133000 +0100">
+  <programme channel="MTV" start="20151210183000 +0100" stop="20151210193000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -1128,7 +896,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210133000 +0100" stop="20151210151500 +0100">
+  <programme channel="MTV" start="20151210193000 +0100" stop="20151210211500 +0100">
     <length units="minutes">105</length>
     <title>Les Cordier, juge et flic</title>
     <category>Téléfilm</category>
@@ -1146,7 +914,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210151500 +0100" stop="20151210170000 +0100">
+  <programme channel="MTV" start="20151210211500 +0100" stop="20151210230000 +0100">
     <length units="minutes">105</length>
     <title>Les Cordier, juge et flic</title>
     <category>Téléfilm</category>
@@ -1164,7 +932,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210170000 +0100" stop="20151210180000 +0100">
+  <programme channel="MTV" start="20151210230000 +0100" stop="20151211000000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -1174,7 +942,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210180000 +0100" stop="20151210190500 +0100">
+  <programme channel="MTV" start="20151211000000 +0100" stop="20151211010500 +0100">
     <length units="minutes">65</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -1184,7 +952,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210190500 +0100" stop="20151210200000 +0100">
+  <programme channel="MTV" start="20151211010500 +0100" stop="20151211020000 +0100">
     <length units="minutes">55</length>
     <title>Pour l'amour du risque</title>
     <category>Série</category>
@@ -1203,7 +971,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210200000 +0100" stop="20151210205500 +0100">
+  <programme channel="MTV" start="20151211020000 +0100" stop="20151211025500 +0100">
     <length units="minutes">55</length>
     <title>Pour l'amour du risque</title>
     <category>Série</category>
@@ -1220,7 +988,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210205500 +0100" stop="20151210224500 +0100">
+  <programme channel="MTV" start="20151211025500 +0100" stop="20151211044500 +0100">
     <length units="minutes">110</length>
     <title>Scoop (?)</title>
     <category>Film</category>
@@ -1238,7 +1006,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151210224500 +0100" stop="20151211010000 +0100">
+  <programme channel="MTV" start="20151211044500 +0100" stop="20151211070000 +0100">
     <length units="minutes">135</length>
     <title>Match Point (?)</title>
     <category>Film</category>
@@ -1256,87 +1024,87 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211010000 +0100" stop="20151211012500 +0100">
+  <programme channel="MTV" start="20151211070000 +0100" stop="20151211072500 +0100">
     <length units="minutes">25</length>
     <title>J'ai dit oui pour la robe Atlanta</title>
     <category>Documentaire</category>
-    <desc>Le bonheur d'une mariée est gâché quand elle... (Lire la suite).(n)</desc>
+    <desc>Le bonheur d'une mariée est gâché quand elle... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211012500 +0100" stop="20151211015000 +0100">
+  <programme channel="MTV" start="20151211072500 +0100" stop="20151211075000 +0100">
     <length units="minutes">25</length>
     <title>J'ai dit oui pour la robe Atlanta</title>
     <category>Documentaire</category>
-    <desc>Une mariée confond essayage de robe et séance... (Lire la suite).(n)</desc>
+    <desc>Une mariée confond essayage de robe et séance... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211015000 +0100" stop="20151211021500 +0100">
+  <programme channel="MTV" start="20151211075000 +0100" stop="20151211081500 +0100">
     <length units="minutes">25</length>
     <title>J'ai dit oui pour la robe Atlanta</title>
     <category>Documentaire</category>
-    <desc>Jessie n'arrive pas à trouver un terrain... (Lire la suite).(n)</desc>
+    <desc>Jessie n'arrive pas à trouver un terrain... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211021500 +0100" stop="20151211060000 +0100">
+  <programme channel="MTV" start="20151211081500 +0100" stop="20151211120000 +0100">
     <length units="minutes">225</length>
     <title>Programmes de la nuit</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211060000 +0100" stop="20151211090000 +0100">
+  <programme channel="MTV" start="20151211120000 +0100" stop="20151211150000 +0100">
     <length units="minutes">180</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).(n)</desc>
+    <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211090000 +0100" stop="20151211094500 +0100">
+  <programme channel="MTV" start="20151211150000 +0100" stop="20151211154500 +0100">
     <length units="minutes">45</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
-    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).(n)</desc>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211094500 +0100" stop="20151211103000 +0100">
+  <programme channel="MTV" start="20151211154500 +0100" stop="20151211163000 +0100">
     <length units="minutes">45</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
-    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).(n)</desc>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211103000 +0100" stop="20151211113000 +0100">
+  <programme channel="MTV" start="20151211163000 +0100" stop="20151211173000 +0100">
     <length units="minutes">60</length>
     <title>Sans tabou</title>
     <category>Documentaire</category>
-    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).(n)</desc>
+    <desc>Le portrait d'hommes et de femmes confrontés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="test" start="20151211113000 +0100" stop="20151211123000 +0100">
+  <programme channel="MTV" start="20151211173000 +0100" stop="20151211183000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
-    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).(n)</desc>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Evelyne Thomas</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211123000 +0100" stop="20151211133000 +0100">
+  <programme channel="MTV" start="20151211183000 +0100" stop="20151211193000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
-    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).(n)</desc>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Evelyne Thomas</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211133000 +0100" stop="20151211151500 +0100">
+  <programme channel="MTV" start="20151211193000 +0100" stop="20151211211500 +0100">
     <length units="minutes">105</length>
     <title>Les Cordier, juge et flic</title>
     <category>Téléfilm</category>
-    <desc>Isabelle Klein, psychologue dans un centre de... (Lire la suite).(n)</desc>
+    <desc>Isabelle Klein, psychologue dans un centre de... (Lire la suite).</desc>
     <credits>
       <name function="director">Alain Wermus</name>
       <name function="actor">Pierre Mondy</name>
@@ -1350,11 +1118,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211151500 +0100" stop="20151211170000 +0100">
+  <programme channel="MTV" start="20151211211500 +0100" stop="20151211230000 +0100">
     <length units="minutes">105</length>
     <title>Les Cordier, juge et flic</title>
     <category>Téléfilm</category>
-    <desc>Une riche famille d'industriels, les Neubourg, (Lire la suite).(n)</desc>
+    <desc>Une riche famille d'industriels, les Neubourg, (Lire la suite).</desc>
     <credits>
       <name function="director">Jean-Marc Seban</name>
       <name function="actor">Pierre Mondy</name>
@@ -1368,31 +1136,31 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211170000 +0100" stop="20151211180000 +0100">
+  <programme channel="MTV" start="20151211230000 +0100" stop="20151212000000 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
-    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).(n)</desc>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Evelyne Thomas</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211180000 +0100" stop="20151211190500 +0100">
+  <programme channel="MTV" start="20151212000000 +0100" stop="20151212010500 +0100">
     <length units="minutes">65</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
-    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).(n)</desc>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Evelyne Thomas</name>
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211190500 +0100" stop="20151211200000 +0100">
+  <programme channel="MTV" start="20151212010500 +0100" stop="20151212020000 +0100">
     <length units="minutes">55</length>
     <title>Pour l'amour du risque</title>
     <category>Série</category>
-    <desc>Le week-end «évasion» de Jennifer et Jonathan... (Lire la suite).(n)</desc>
+    <desc>Le week-end «évasion» de Jennifer et Jonathan... (Lire la suite).</desc>
     <credits>
       <name function="director">Bruce Kessler</name>
       <name function="actor">Robert Wagner</name>
@@ -1405,11 +1173,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211200000 +0100" stop="20151211205500 +0100">
+  <programme channel="MTV" start="20151212020000 +0100" stop="20151212025500 +0100">
     <length units="minutes">55</length>
     <title>Pour l'amour du risque</title>
     <category>Série</category>
-    <desc>Jennifer et Jonathan quittent le Mexique, où... (Lire la suite).(n)</desc>
+    <desc>Jennifer et Jonathan quittent le Mexique, où... (Lire la suite).</desc>
     <credits>
       <name function="director">Harry Winer</name>
       <name function="actor">Robert Wagner</name>
@@ -1424,11 +1192,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211205500 +0100" stop="20151211224500 +0100">
+  <programme channel="MTV" start="20151212025500 +0100" stop="20151212044500 +0100">
     <length units="minutes">110</length>
     <title>Sherlock Holmes</title>
     <category>Téléfilm</category>
-    <desc>Londres, en 1900. Lorsque Sherlock Holmes... (Lire la suite).(n)</desc>
+    <desc>Londres, en 1900. Lorsque Sherlock Holmes... (Lire la suite).</desc>
     <credits>
       <name function="director">Desmond Davis</name>
       <name function="actor">Cherie Lunghi</name>
@@ -1442,7 +1210,27 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211224500 +0100" stop="20151211234500 +0100">
+  <programme channel="MTV" start="20151212044500 +0100" stop="20151212054500 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212054500 +0100" stop="20151212064500 +0100">
+    <length units="minutes">60</length>
+    <title>C'est mon choix</title>
+    <category>Magazine</category>
+    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Evelyne Thomas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212064500 +0100" stop="20151212074500 +0100">
     <length units="minutes">60</length>
     <title>C'est mon choix</title>
     <category>Magazine</category>
@@ -1452,13 +1240,225 @@
     </credits>
     <image />
   </programme>
-  <programme channel="test" start="20151211234500 +0100" stop="20151212004500 +0100">
-    <length units="minutes">60</length>
-    <title>C'est mon choix</title>
+  <programme channel="MTV" start="20151212074500 +0100" stop="20151212120000 +0100">
+    <length units="minutes">255</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212120000 +0100" stop="20151212150000 +0100">
+    <length units="minutes">180</length>
+    <title>Télé-achat</title>
     <category>Magazine</category>
-    <desc>Evelyne Thomas revient avec une formule... (Lire la suite).(n)</desc>
+    <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212150000 +0100" stop="20151212155500 +0100">
+    <length units="minutes">55</length>
+    <title>New York 911</title>
+    <category>Série</category>
+    <desc>Sullivan sait que le meurtrier de son... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Evelyne Thomas</name>
+      <name function="director">Matt Earl Beesley</name>
+      <name function="actor">Charles Haid</name>
+      <name function="actor">Nia Long</name>
+      <name function="actor">Skipp Sudduth</name>
+      <name function="actor">Coby Bell</name>
+      <name function="actor">Tia Texada</name>
+      <name function="actor">Molly Price</name>
+      <name function="actor">Anthony Ruivivar</name>
+      <name function="actor">Josh Stewart</name>
+      <name function="writer">Charles Alfrazier Murray</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212155500 +0100" stop="20151212164500 +0100">
+    <length units="minutes">50</length>
+    <title>New York 911</title>
+    <category>Série</category>
+    <desc>Avec opiniâtreté, Sullivan poursuit son... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Matt Earl Beesley</name>
+      <name function="actor">Charles Haid</name>
+      <name function="actor">Mykelti Williamson</name>
+      <name function="actor">Nia Long</name>
+      <name function="actor">Skipp Sudduth</name>
+      <name function="actor">Coby Bell</name>
+      <name function="actor">Tia Texada</name>
+      <name function="actor">Josh Stewart</name>
+      <name function="actor">Laith Nakli</name>
+      <name function="writer">Charles Alfrazier Murray</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212164500 +0100" stop="20151212174000 +0100">
+    <length units="minutes">55</length>
+    <title>New York 911</title>
+    <category>Série</category>
+    <desc>L'attentat qui s'est produit dans le café est... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Edward Allen Bernero</name>
+      <name function="actor">Cara Buono</name>
+      <name function="actor">Nia Long</name>
+      <name function="actor">Skipp Sudduth</name>
+      <name function="actor">Coby Bell</name>
+      <name function="actor">Tia Texada</name>
+      <name function="actor">Molly Price</name>
+      <name function="actor">Anthony Ruivivar</name>
+      <name function="actor">Josh Stewart</name>
+      <name function="writer">Charles Holland</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212174000 +0100" stop="20151212183500 +0100">
+    <length units="minutes">55</length>
+    <title>New York 911</title>
+    <category>Série</category>
+    <desc>Le lieutenant Swersky dirige une descente de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Stephen Cragg</name>
+      <name function="actor">Cara Buono</name>
+      <name function="actor">Joe Lisi</name>
+      <name function="actor">Coby Bell</name>
+      <name function="actor">Tia Texada</name>
+      <name function="actor">Molly Price</name>
+      <name function="actor">Anthony Ruivivar</name>
+      <name function="actor">Josh Stewart</name>
+      <name function="actor">Zach Savage</name>
+      <name function="writer">Simon Mirren</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212183500 +0100" stop="20151212192500 +0100">
+    <length units="minutes">50</length>
+    <title>New York 911</title>
+    <category>Série</category>
+    <desc>Le sergent Cruz est gravement malade et... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Félix Enríquez Alcalá</name>
+      <name function="actor">Cara Buono</name>
+      <name function="actor">Nia Long</name>
+      <name function="actor">Jason Wiles</name>
+      <name function="actor">Skipp Sudduth</name>
+      <name function="actor">Coby Bell</name>
+      <name function="actor">Tia Texada</name>
+      <name function="actor">Molly Price</name>
+      <name function="actor">Helen Mirren</name>
+      <name function="writer">Siobhan Byrne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212192500 +0100" stop="20151212202500 +0100">
+    <length units="minutes">60</length>
+    <title>New York 911</title>
+    <category>Série</category>
+    <desc>Monroe et Sully arrivent sur les lieux d'un... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Vincent Misiano</name>
+      <name function="actor">Coby Bell</name>
+      <name function="actor">Tia Texada</name>
+      <name function="actor">Molly Price</name>
+      <name function="actor">Anthony Ruivivar</name>
+      <name function="actor">Nia Long</name>
+      <name function="actor">Skipp Sudduth</name>
+      <name function="actor">Josh Stewart</name>
+      <name function="actor">Jake Muxworthy</name>
+      <name function="writer">Edward Allen Bernero</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212202500 +0100" stop="20151212213500 +0100">
+    <length units="minutes">70</length>
+    <title>Sous les jupons de l'histoire</title>
+    <category>Magazine</category>
+    <desc>Depuis le château d'Anet, Christine Bravo... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Christine Bravo</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212213500 +0100" stop="20151212224000 +0100">
+    <length units="minutes">65</length>
+    <title>Sous les jupons de l'histoire</title>
+    <category>Magazine</category>
+    <desc>Depuis le château de Maintenon, Christine... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Christine Bravo</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212224000 +0100" stop="20151212234500 +0100">
+    <length units="minutes">65</length>
+    <title>Sous les jupons de l'histoire</title>
+    <category>Magazine</category>
+    <desc>Depuis le Château des Rochers-Sévigné,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Christine Bravo</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151212234500 +0100" stop="20151213010000 +0100">
+    <length units="minutes">75</length>
+    <title>Sous les jupons de l'histoire</title>
+    <category>Magazine</category>
+    <desc>Christine Bravo retrace l'ultime journée de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Christine Bravo</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213010000 +0100" stop="20151213025500 +0100">
+    <length units="minutes">115</length>
+    <title>Sherlock Holmes</title>
+    <category>Téléfilm</category>
+    <desc>Depuis ce 1er janvier de l'année 1740 où sir... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Douglas Hickox</name>
+      <name function="actor">Denholm Elliott</name>
+      <name function="actor">Ian Richardson</name>
+      <name function="actor">Ronald Lacey</name>
+      <name function="actor">Glynis Barber</name>
+      <name function="actor">Donald Churchill</name>
+      <name function="actor">Edward Judd</name>
+      <name function="actor">Eleanor Bron</name>
+      <name function="actor">Brian Blessed</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213025500 +0100" stop="20151213044500 +0100">
+    <length units="minutes">110</length>
+    <title>Un jour, tu verras...</title>
+    <category>Téléfilm</category>
+    <desc>Patricia Collins est appelée sur les lieux... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Will Dixon</name>
+      <name function="actor">Richy Müller</name>
+      <name function="actor">Bo Svenson</name>
+      <name function="actor">Matthew Walker</name>
+      <name function="actor">Margot Kidder</name>
+      <name function="actor">Mark Humphrey</name>
+      <name function="actor">Alison Eastwood</name>
+      <name function="actor">Iris Quinn</name>
+      <name function="actor">Derwin Jordon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="MTV" start="20151213044500 +0100" stop="20151213064000 +0100">
+    <length units="minutes">115</length>
+    <title>Pour le meilleur et pour le pire</title>
+    <category>Téléfilm</category>
+    <desc>Kay, mariée depuis plusieurs années à... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Clive Donner</name>
+      <name function="actor">Jennifer Beals</name>
+      <name function="actor">Kate Nelligan</name>
+      <name function="actor">Manfred Lehmann</name>
+      <name function="actor">Madeleine Robinson</name>
+      <name function="actor">Werner Stocker</name>
+      <name function="actor">Geraint Wyn Davies</name>
+      <name function="actor">Gertrud Prey</name>
+      <name function="actor">Hans Irle</name>
     </credits>
     <image />
   </programme>
