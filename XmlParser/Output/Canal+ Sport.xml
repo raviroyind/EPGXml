@@ -1,1058 +1,1908 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
-  <channel id="Canal+ Sport">
-    <display-name>burger</display-name>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+  <channel id="C47.telerama.fr">
+    <display-name>testchannelname01</display-name>
   </channel>
-  <programme channel="burger" start="20151207025000 +0100" stop="20151207033500 +0100">
+  <programme channel="testchannelname01" start="20151207015000 +0100" stop="20151207023500 +0100">
     <length units="minutes">45</length>
     <title>L'équipe du dimanche</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_00:50.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207033500 +0100" stop="20151207053000 +0100">
+  <programme channel="testchannelname01" start="20151207023500 +0100" stop="20151207043000 +0100">
     <length units="minutes">115</length>
-    <title>Un illustre inconnu (?)</title>
-    <category>Film</category>
-    <desc>Sébastien Nicolas, 42 ans, est un agent... (Lire la suite).</desc>
+    <title>Un illustre inconnu</title>
+    <category>film</category>
+    <desc>Sébastien Nicolas, 42 ans, est un agent immobilier sans histoires. Il mène une vie solitaire, retranché dans les sous-sols de son pavillon de banlieue. Au lieu de se construire une existence plus équilibrée, il préfère copier celle des autres. Ainsi, au gré de ses rencontres, tel un travesti, il va se métamorphoser en un personnage choisi, plongeant dans la vie d'un illustre inconnu pour donner un sens à la sienne. Mais Sébastien finit par rencontrer une personne dont le passé obscur le conduit lui-même à un point de non-retour...
+ --  Critique : Vrai film de genre, ce thriller très stylisé sur un homme-caméléon qui vole l'identité des autres séduit dans sa première partie, pèche un peu dans la seconde. Mais Mathieu Kassovitz est un étonnant comédien.</desc>
     <credits>
       <name function="director">Matthieu Delaporte</name>
-      <name function="actor">Olivier Rabourdin</name>
-      <name function="actor">Geneviève Mnich</name>
-      <name function="actor">Philippe Duclos</name>
-      <name function="actor">Mathieu Kassovitz</name>
-      <name function="actor">Siobhan Finneran</name>
-      <name function="actor">Eric Caravaca</name>
-      <name function="actor">Ludovic Berthillot</name>
-      <name function="actor">Marie-Josée Croze</name>
+      <name function="actor">Mathieu Kassovitz (Sébastien Nicolas / Henri de Montalte)</name>
+      <name function="actor">Marie-Josée Croze (Clémence Corneli)</name>
+      <name function="actor">Eric Caravaca (le capitaine Deveaux)</name>
+      <name function="actor">Siobhan Finneran (Elizabeth Traven)</name>
+      <name function="actor">Olivier Rabourdin (Pierre Chambard)</name>
+      <name function="actor">Philippe Duclos (le prêtre)</name>
+      <name function="actor">Geneviève Mnich (Hélène Nicolas)</name>
+      <name function="actor">Ludovic Berthillot (l'animateur )</name>
+      <name function="composer">Jérôme Rebotier</name>
     </credits>
-    <image />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_01:35.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207053000 +0100" stop="20151207063500 +0100">
+  <programme channel="testchannelname01" start="20151207043000 +0100" stop="20151207053500 +0100">
     <length units="minutes">65</length>
     <title>Salut les Terriens !</title>
-    <category>Magazine</category>
-    <desc>Tout de noir vêtu, Thierry Ardissson reçoit... (Lire la suite).</desc>
+    <category>magazine</category>
+    <desc>Tout de noir vêtu, Thierry Ardissson reçoit les personnalités qui font l'actualité du moment pour les soumettre à un feu roulant de questions, pertinentes et impertinentes. Stéphane Guillon distille ses analyses décalées. Une dixième saison faite d'autodérision et de déclarations chocs, de dossiers désintox et de samples ironiques.</desc>
     <credits>
-      <name function="presenter">Stéphane Guillon,</name>
-      <name function="presenter">Thierry Ardisson,</name>
-      <name function="presenter">Stéphane Blakowski,</name>
-      <name function="presenter">Julien Grappe,</name>
+      <name function="presenter">Thierry Ardisson</name>
+      <name function="presenter">Stéphane Guillon</name>
+      <name function="presenter">Stéphane Blakowski</name>
+      <name function="presenter">Julien Grappe</name>
       <name function="presenter">Tom Villa</name>
     </credits>
-    <image />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_03:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207063500 +0100" stop="20151207095000 +0100">
+  <programme channel="testchannelname01" start="20151207053500 +0100" stop="20151207085000 +0100">
     <length units="minutes">195</length>
     <title>Fin des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>fin</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_04:35.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207095000 +0100" stop="20151207100000 +0100">
+  <programme channel="testchannelname01" start="20151207085000 +0100" stop="20151207090000 +0100">
     <length units="minutes">10</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_07:50.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207100000 +0100" stop="20151207104500 +0100">
+  <programme channel="testchannelname01" start="20151207090000 +0100" stop="20151207094500 +0100">
     <length units="minutes">45</length>
     <title>L'équipe du dimanche</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_08:00.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207104500 +0100" stop="20151207122500 +0100">
+  <programme channel="testchannelname01" start="20151207094500 +0100" stop="20151207112500 +0100">
     <length units="minutes">100</length>
     <title>Football (Stoke / Manchester City)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_08:45.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207122500 +0100" stop="20151207140500 +0100">
+  <programme channel="testchannelname01" start="20151207112500 +0100" stop="20151207130500 +0100">
     <length units="minutes">100</length>
     <title>Football (Arsenal / Sunderland)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_10:25.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207140500 +0100" stop="20151207145000 +0100">
+  <programme channel="testchannelname01" start="20151207130500 +0100" stop="20151207135000 +0100">
     <length units="minutes">45</length>
     <title>L'équipe du dimanche</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_12:05.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207145000 +0100" stop="20151207162500 +0100">
+  <programme channel="testchannelname01" start="20151207135000 +0100" stop="20151207152500 +0100">
     <length units="minutes">95</length>
     <title>Rugby (Toulouse / Oyonnax)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_12:50.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207162500 +0100" stop="20151207180500 +0100">
+  <programme channel="testchannelname01" start="20151207152500 +0100" stop="20151207170500 +0100">
     <length units="minutes">100</length>
     <title>Rugby (Brive / Clermont-Auvergne)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_14:25.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207180500 +0100" stop="20151207185500 +0100">
+  <programme channel="testchannelname01" start="20151207170500 +0100" stop="20151207175500 +0100">
     <length units="minutes">50</length>
     <title>Canal Rugby Club</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_16:05.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207185500 +0100" stop="20151207194500 +0100">
+  <programme channel="testchannelname01" start="20151207175500 +0100" stop="20151207184500 +0100">
     <length units="minutes">50</length>
     <title>L'équipe du dimanche</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_16:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207194500 +0100" stop="20151207213000 +0100">
+  <programme channel="testchannelname01" start="20151207184500 +0100" stop="20151207203000 +0100">
     <length units="minutes">105</length>
     <title>Football (Newcastle / Liverpool)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_17:45.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207213000 +0100" stop="20151207214000 +0100">
+  <programme channel="testchannelname01" start="20151207203000 +0100" stop="20151207204000 +0100">
     <length units="minutes">10</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_19:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207214000 +0100" stop="20151207225500 +0100">
+  <programme channel="testchannelname01" start="20151207204000 +0100" stop="20151207215500 +0100">
     <length units="minutes">75</length>
     <title>Les spécialistes Ligue 1</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_19:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151207225500 +0100" stop="20151208005500 +0100">
+  <programme channel="testchannelname01" start="20151207215500 +0100" stop="20151207235500 +0100">
     <length units="minutes">120</length>
     <title>Football (Everton / Crystal Palace)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_20:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208005500 +0100" stop="20151208015500 +0100">
+  <programme channel="testchannelname01" start="20151207235500 +0100" stop="20151208005500 +0100">
     <length units="minutes">60</length>
     <title>J+1</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_22:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208015500 +0100" stop="20151208030000 +0100">
+  <programme channel="testchannelname01" start="20151208005500 +0100" stop="20151208020000 +0100">
     <length units="minutes">65</length>
     <title>Les spécialistes Ligue 1</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_47_23:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208030000 +0100" stop="20151208030500 +0100">
+  <programme channel="testchannelname01" start="20151208020000 +0100" stop="20151208020500 +0100">
     <length units="minutes">5</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_01:00.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208030500 +0100" stop="20151208033000 +0100">
+  <programme channel="testchannelname01" start="20151208020500 +0100" stop="20151208023000 +0100">
     <length units="minutes">25</length>
     <title>Canal Football Club</title>
-    <category>Sport</category>
-    <desc>1re partie (Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_01:05.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208033000 +0100" stop="20151208043500 +0100">
+  <programme channel="testchannelname01" start="20151208023000 +0100" stop="20151208033500 +0100">
     <length units="minutes">65</length>
     <title>Canal Football Club</title>
-    <category>Sport</category>
-    <desc>2e partie (Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_01:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208043500 +0100" stop="20151208061000 +0100">
+  <programme channel="testchannelname01" start="20151208033500 +0100" stop="20151208051000 +0100">
     <length units="minutes">95</length>
     <title>Football (Saint-Etienne / Rennes)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_02:35.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208061000 +0100" stop="20151208062000 +0100">
+  <programme channel="testchannelname01" start="20151208051000 +0100" stop="20151208052000 +0100">
     <length units="minutes">10</length>
     <title>Zapping</title>
-    <category>Divertissement</category>
-    <desc>Un cocktail d'images éloquentes, de petites... (Lire la suite).</desc>
-    <image />
+    <category>divertissement</category>
+    <desc>Un cocktail d'images éloquentes, de petites phrases farfelues et de scènes étonnantes, sélection quotidienne du meilleur et du pire de la télévision.</desc>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_04:10.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208062000 +0100" stop="20151208092500 +0100">
+  <programme channel="testchannelname01" start="20151208052000 +0100" stop="20151208082500 +0100">
     <length units="minutes">185</length>
     <title>Fin des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>fin</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_04:20.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208092500 +0100" stop="20151208093000 +0100">
+  <programme channel="testchannelname01" start="20151208082500 +0100" stop="20151208083000 +0100">
     <length units="minutes">5</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_07:25.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208093000 +0100" stop="20151208104000 +0100">
+  <programme channel="testchannelname01" start="20151208083000 +0100" stop="20151208094000 +0100">
     <length units="minutes">70</length>
     <title>Les spécialistes Ligue 1</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_07:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208104000 +0100" stop="20151208122000 +0100">
+  <programme channel="testchannelname01" start="20151208094000 +0100" stop="20151208112000 +0100">
     <length units="minutes">100</length>
     <title>Football (Everton / Crystal Palace)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_08:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208122000 +0100" stop="20151208124000 +0100">
+  <programme channel="testchannelname01" start="20151208112000 +0100" stop="20151208114000 +0100">
     <length units="minutes">20</length>
     <title>Canal Football Club</title>
-    <category>Sport</category>
-    <desc>1re partie (Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_10:20.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208124000 +0100" stop="20151208135000 +0100">
+  <programme channel="testchannelname01" start="20151208114000 +0100" stop="20151208125000 +0100">
     <length units="minutes">70</length>
     <title>Canal Football Club</title>
-    <category>Sport</category>
-    <desc>2e partie (Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_10:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208135000 +0100" stop="20151208150000 +0100">
+  <programme channel="testchannelname01" start="20151208125000 +0100" stop="20151208140000 +0100">
     <length units="minutes">70</length>
     <title>Les spécialistes Ligue 1</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_11:50.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208150000 +0100" stop="20151208155000 +0100">
+  <programme channel="testchannelname01" start="20151208140000 +0100" stop="20151208145000 +0100">
     <length units="minutes">50</length>
     <title>Canal Rugby Club</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_13:00.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208155000 +0100" stop="20151208175500 +0100">
+  <programme channel="testchannelname01" start="20151208145000 +0100" stop="20151208165500 +0100">
     <length units="minutes">125</length>
     <title>Football (FC Séville (Esp) / Juventus Turin (Ita))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_13:50.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208175500 +0100" stop="20151208195500 +0100">
+  <programme channel="testchannelname01" start="20151208165500 +0100" stop="20151208185500 +0100">
     <length units="minutes">120</length>
     <title>Football (Wolfsburg (All) / Manchester United (Ang))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_15:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208195500 +0100" stop="20151208200000 +0100">
+  <programme channel="testchannelname01" start="20151208185500 +0100" stop="20151208190000 +0100">
     <length units="minutes">5</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_17:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208200000 +0100" stop="20151208210000 +0100">
+  <programme channel="testchannelname01" start="20151208190000 +0100" stop="20151208200000 +0100">
     <length units="minutes">60</length>
     <title>J+1</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_18:00.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208210000 +0100" stop="20151208212500 +0100">
+  <programme channel="testchannelname01" start="20151208200000 +0100" stop="20151208202500 +0100">
     <length units="minutes">25</length>
     <title>Champions League Weekly</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_19:00.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208212500 +0100" stop="20151208214000 +0100">
+  <programme channel="testchannelname01" start="20151208202500 +0100" stop="20151208204000 +0100">
     <length units="minutes">15</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_19:25.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208214000 +0100" stop="20151208225500 +0100">
+  <programme channel="testchannelname01" start="20151208204000 +0100" stop="20151208215500 +0100">
     <length units="minutes">75</length>
     <title>MOZD Extra-Time</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_19:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151208225500 +0100" stop="20151209004000 +0100">
+  <programme channel="testchannelname01" start="20151208215500 +0100" stop="20151208234000 +0100">
     <length units="minutes">105</length>
     <title>Fight+</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_20:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209004000 +0100" stop="20151209020500 +0100">
+  <programme channel="testchannelname01" start="20151208234000 +0100" stop="20151209010500 +0100">
     <length units="minutes">85</length>
     <title>Hockey sur glace (Vancouver Canucks / Buffalo Sabres)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_47_22:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209020500 +0100" stop="20151209031000 +0100">
+  <programme channel="testchannelname01" start="20151209010500 +0100" stop="20151209021000 +0100">
     <length units="minutes">65</length>
     <title>MOZD Extra-Time</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_00:05.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209031000 +0100" stop="20151209044500 +0100">
+  <programme channel="testchannelname01" start="20151209021000 +0100" stop="20151209034500 +0100">
     <length units="minutes">95</length>
     <title>Football (FC Séville (Esp) / Juventus Turin (Ita))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_01:10.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209044500 +0100" stop="20151209050500 +0100">
+  <programme channel="testchannelname01" start="20151209034500 +0100" stop="20151209040500 +0100">
     <length units="minutes">20</length>
     <title>Made in Groland</title>
-    <category>Divertissement</category>
-    <desc>Depuis plus de vingt ans, la présipauté de... (Lire la suite).</desc>
+    <category>divertissement</category>
+    <desc>Depuis plus de vingt ans, la présipauté de Groland propose un journal décalé qui se penche sur l'actualité du monde tel qu'il ne va pas. Epaulés par une équipe de reporters trublions, le présentateur vedette Jules-Edouard Moustic et sa coprésentatrice Chiara De Daddy analysent avec un sérieux tout relatif les grands événements de la semaine dans la présipauté et dans le reste du monde.</desc>
     <credits>
-      <name function="presenter">Jules-Edouard Moustic,</name>
+      <name function="presenter">Jules-Edouard Moustic</name>
       <name function="presenter">Chiara De Daddy</name>
     </credits>
-    <image />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_02:45.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209050500 +0100" stop="20151209051000 +0100">
+  <programme channel="testchannelname01" start="20151209040500 +0100" stop="20151209041000 +0100">
     <length units="minutes">5</length>
     <title>Zapping</title>
-    <category>Divertissement</category>
-    <desc>Un cocktail d'images éloquentes, de petites... (Lire la suite).</desc>
-    <image />
+    <category>divertissement</category>
+    <desc>Un cocktail d'images éloquentes, de petites phrases farfelues et de scènes étonnantes, sélection quotidienne du meilleur et du pire de la télévision.</desc>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_03:05.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209051000 +0100" stop="20151209092000 +0100">
+  <programme channel="testchannelname01" start="20151209041000 +0100" stop="20151209082000 +0100">
     <length units="minutes">250</length>
     <title>Fin des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>fin</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_03:10.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209092000 +0100" stop="20151209092500 +0100">
+  <programme channel="testchannelname01" start="20151209082000 +0100" stop="20151209082500 +0100">
     <length units="minutes">5</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_07:20.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209092500 +0100" stop="20151209104000 +0100">
+  <programme channel="testchannelname01" start="20151209082500 +0100" stop="20151209094000 +0100">
     <length units="minutes">75</length>
     <title>MOZD Extra-Time</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_07:25.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209104000 +0100" stop="20151209110500 +0100">
+  <programme channel="testchannelname01" start="20151209094000 +0100" stop="20151209100500 +0100">
     <length units="minutes">25</length>
     <title>Spirit of Yachting</title>
-    <category>Sport</category>
-    <desc>Farr 40 (Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_08:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209110500 +0100" stop="20151209113000 +0100">
+  <programme channel="testchannelname01" start="20151209100500 +0100" stop="20151209103000 +0100">
     <length units="minutes">25</length>
     <title>Champions League Weekly</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_09:05.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209113000 +0100" stop="20151209130500 +0100">
+  <programme channel="testchannelname01" start="20151209103000 +0100" stop="20151209120500 +0100">
     <length units="minutes">95</length>
     <title>Football (FC Séville (Esp) / Juventus Turin (Ita))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_09:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209130500 +0100" stop="20151209144500 +0100">
+  <programme channel="testchannelname01" start="20151209120500 +0100" stop="20151209134500 +0100">
     <length units="minutes">100</length>
     <title>Football (Wolfsburg (All) / Manchester United (Ang))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_11:05.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209144500 +0100" stop="20151209155000 +0100">
+  <programme channel="testchannelname01" start="20151209134500 +0100" stop="20151209145000 +0100">
     <length units="minutes">65</length>
     <title>Golf+, le mag</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_12:45.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209155000 +0100" stop="20151209175500 +0100">
+  <programme channel="testchannelname01" start="20151209145000 +0100" stop="20151209165500 +0100">
     <length units="minutes">125</length>
     <title>Football (Chelsea (Ang) / Porto (Por))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_13:50.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209175500 +0100" stop="20151209193500 +0100">
+  <programme channel="testchannelname01" start="20151209165500 +0100" stop="20151209183500 +0100">
     <length units="minutes">100</length>
     <title>Football (Valence (Esp) / Lyon (Fra))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_15:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209193500 +0100" stop="20151209210000 +0100">
+  <programme channel="testchannelname01" start="20151209183500 +0100" stop="20151209200000 +0100">
     <length units="minutes">85</length>
     <title>Hockey sur glace (Vancouver Canucks / Buffalo Sabres)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_17:35.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209210000 +0100" stop="20151209213000 +0100">
+  <programme channel="testchannelname01" start="20151209200000 +0100" stop="20151209203000 +0100">
     <length units="minutes">30</length>
     <title>Premier League World</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_19:00.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209213000 +0100" stop="20151209214000 +0100">
+  <programme channel="testchannelname01" start="20151209203000 +0100" stop="20151209204000 +0100">
     <length units="minutes">10</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_19:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209214000 +0100" stop="20151209224500 +0100">
+  <programme channel="testchannelname01" start="20151209204000 +0100" stop="20151209214500 +0100">
     <length units="minutes">65</length>
     <title>Les spécialistes F1</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_19:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209224500 +0100" stop="20151209225500 +0100">
+  <programme channel="testchannelname01" start="20151209214500 +0100" stop="20151209215500 +0100">
     <length units="minutes">10</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_20:45.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209225500 +0100" stop="20151209225800 +0100">
+  <programme channel="testchannelname01" start="20151209215500 +0100" stop="20151209215800 +0100">
     <length units="minutes">3</length>
     <title>Plateau sport</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_20:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151209225800 +0100" stop="20151210003800 +0100">
+  <programme channel="testchannelname01" start="20151209215800 +0100" stop="20151209233800 +0100">
     <length units="minutes">100</length>
     <title>Jonah : le souffle de la colère</title>
-    <category>Documentaire</category>
-    <desc>Un portrait consacré au rugbyman néo-zélandais (Lire la suite).</desc>
+    <category>documentaire</category>
+    <desc>Un portrait consacré au rugbyman néo-zélandais Jonah Lomu, la première star mondiale de l'ère du rugby professionnel. De sa naissance à Auckland en 1976 jusqu'à la finale de la Coupe du monde en 2011, le parcours incroyable de l'ailier des All-Blacks, vainqueur à trois reprises du Tri-Nations et victorieux du Super 12 en 1996 et 1999.</desc>
     <credits>
-      <name function="director">Frédéric Khan,</name>
-      <name function="director">Stéphane Le Goff</name>
+      <name function="director">Frédéric Khan, Stéphane Le Goff</name>
     </credits>
-    <image />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_20:58.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210003800 +0100" stop="20151210004000 +0100">
+  <programme channel="testchannelname01" start="20151209233800 +0100" stop="20151209234000 +0100">
     <length units="minutes">2</length>
     <title>Plateau sport</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_22:38.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210004000 +0100" stop="20151210010500 +0100">
+  <programme channel="testchannelname01" start="20151209234000 +0100" stop="20151210000500 +0100">
     <length units="minutes">25</length>
     <title>Spirit of Yachting</title>
-    <category>Sport</category>
-    <desc>Middle Sea (Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_22:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210010500 +0100" stop="20151210020500 +0100">
+  <programme channel="testchannelname01" start="20151210000500 +0100" stop="20151210010500 +0100">
     <length units="minutes">60</length>
     <title>Golf+, le mag</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_47_23:05.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210020500 +0100" stop="20151210030500 +0100">
+  <programme channel="testchannelname01" start="20151210010500 +0100" stop="20151210020500 +0100">
     <length units="minutes">60</length>
     <title>Les spécialistes F1</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_00:05.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210030500 +0100" stop="20151210044500 +0100">
+  <programme channel="testchannelname01" start="20151210020500 +0100" stop="20151210034500 +0100">
     <length units="minutes">100</length>
     <title>Football (Valence (Esp) / Lyon (Fra))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_01:05.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210044500 +0100" stop="20151210055000 +0100">
+  <programme channel="testchannelname01" start="20151210034500 +0100" stop="20151210045000 +0100">
     <length units="minutes">65</length>
     <title>Salut les Terriens !</title>
-    <category>Magazine</category>
-    <desc>Tout de noir vêtu, Thierry Ardissson reçoit... (Lire la suite).</desc>
+    <category>magazine</category>
+    <desc>Tout de noir vêtu, Thierry Ardissson reçoit les personnalités qui font l'actualité du moment pour les soumettre à un feu roulant de questions, pertinentes et impertinentes. Stéphane Guillon distille ses analyses décalées. Une dixième saison faite d'autodérision et de déclarations chocs, de dossiers désintox et de samples ironiques. Au sommaire notamment :</desc>
     <credits>
-      <name function="presenter">Stéphane Guillon,</name>
-      <name function="presenter">Thierry Ardisson,</name>
-      <name function="presenter">Stéphane Blakowski,</name>
-      <name function="presenter">Julien Grappe,</name>
+      <name function="presenter">Thierry Ardisson</name>
+      <name function="presenter">Stéphane Guillon</name>
+      <name function="presenter">Stéphane Blakowski</name>
+      <name function="presenter">Julien Grappe</name>
       <name function="presenter">Tom Villa</name>
+      <name function="guest">Michel Onfray</name>
     </credits>
-    <image />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_02:45.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210055000 +0100" stop="20151210071000 +0100">
+  <programme channel="testchannelname01" start="20151210045000 +0100" stop="20151210061000 +0100">
     <length units="minutes">80</length>
     <title>Le supplément</title>
-    <category>Magazine</category>
-    <desc>Un grand témoin de l'époque répond aux... (Lire la suite).</desc>
+    <category>magazine</category>
+    <desc>Au sommaire :
+Benzema sous pression - C'est l'homme de la semaine malgré lui. Karim Benzema est l'un des meilleurs footballeurs de sa génération mais ce n'est pas pour ses exploits sportifs que son nom est sur toutes les lèvres. Retour sur sa semaine très agitée à Madrid, Lyon et Paris.
+L'homme qui défie Daech - Il défie l'Etat islamique le coran dans une main et son passeport français dans l'autre. Acte de courage ou coup d'état médiatique ? Portrait de Mohammed Chirani.
+Profession : dealer d'art - Caméra embarquée avec Philippe Ségalot, acteur majeur du monde de l'art contemporain, y compris dans les coulisses d'une vente aux enchères chez Christie's.</desc>
     <credits>
       <name function="presenter">Ali Baddou</name>
+      <name function="guest">Bernard-Henri Lévy (philosophe)</name>
+      <name function="guest">Mohammed Chirani (consultant en politiques publiques)</name>
+      <name function="guest">Philippe Segalot (conseiller en art contemporain)</name>
     </credits>
-    <image />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_03:50.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210071000 +0100" stop="20151210094000 +0100">
+  <programme channel="testchannelname01" start="20151210061000 +0100" stop="20151210084000 +0100">
     <length units="minutes">150</length>
     <title>Fin des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>fin</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_05:10.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210094000 +0100" stop="20151210094500 +0100">
+  <programme channel="testchannelname01" start="20151210084000 +0100" stop="20151210084500 +0100">
     <length units="minutes">5</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_07:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210094500 +0100" stop="20151210105500 +0100">
+  <programme channel="testchannelname01" start="20151210084500 +0100" stop="20151210095500 +0100">
     <length units="minutes">70</length>
     <title>Les spécialistes F1</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_07:45.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210105500 +0100" stop="20151210123500 +0100">
+  <programme channel="testchannelname01" start="20151210095500 +0100" stop="20151210113500 +0100">
     <length units="minutes">100</length>
     <title>Football (Valence (Esp) / Lyon (Fra))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_08:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210123500 +0100" stop="20151210134000 +0100">
+  <programme channel="testchannelname01" start="20151210113500 +0100" stop="20151210124000 +0100">
     <length units="minutes">65</length>
     <title>Golf+, le mag</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_10:35.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210134000 +0100" stop="20151210154000 +0100">
+  <programme channel="testchannelname01" start="20151210124000 +0100" stop="20151210144000 +0100">
     <length units="minutes">120</length>
     <title>Football (Champion du Japon / Auckland (N-Z))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_11:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210154000 +0100" stop="20151210155500 +0100">
+  <programme channel="testchannelname01" start="20151210144000 +0100" stop="20151210145500 +0100">
     <length units="minutes">15</length>
     <title>Marathon (Marathon des Alpes-Maritimes 2015)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_13:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210155500 +0100" stop="20151210174000 +0100">
+  <programme channel="testchannelname01" start="20151210145500 +0100" stop="20151210164000 +0100">
     <length units="minutes">105</length>
     <title>Fight+</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_13:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210174000 +0100" stop="20151210191500 +0100">
+  <programme channel="testchannelname01" start="20151210164000 +0100" stop="20151210181500 +0100">
     <length units="minutes">95</length>
     <title>Hockey sur glace (Montréal Canadiens / Boston Bruins)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_15:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210191500 +0100" stop="20151210194500 +0100">
+  <programme channel="testchannelname01" start="20151210181500 +0100" stop="20151210184500 +0100">
     <length units="minutes">30</length>
     <title>Premier League World</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_17:15.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210194500 +0100" stop="20151210212500 +0100">
+  <programme channel="testchannelname01" start="20151210184500 +0100" stop="20151210202500 +0100">
     <length units="minutes">100</length>
     <title>Football (Valence (Esp) / Lyon (Fra))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_17:45.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210212500 +0100" stop="20151210214000 +0100">
+  <programme channel="testchannelname01" start="20151210202500 +0100" stop="20151210204000 +0100">
     <length units="minutes">15</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_19:25.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210214000 +0100" stop="20151210224000 +0100">
+  <programme channel="testchannelname01" start="20151210204000 +0100" stop="20151210214000 +0100">
     <length units="minutes">60</length>
     <title>Les spécialistes rugby</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_19:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151210224000 +0100" stop="20151211003500 +0100">
+  <programme channel="testchannelname01" start="20151210214000 +0100" stop="20151210233500 +0100">
     <length units="minutes">115</length>
     <title>Rugby (Bayonne / Montauban)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_20:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211003500 +0100" stop="20151211021500 +0100">
+  <programme channel="testchannelname01" start="20151210233500 +0100" stop="20151211011500 +0100">
     <length units="minutes">100</length>
     <title>Football (Champion du Japon / Auckland (N-Z))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_47_22:35.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211021500 +0100" stop="20151211034500 +0100">
+  <programme channel="testchannelname01" start="20151211011500 +0100" stop="20151211024500 +0100">
     <length units="minutes">90</length>
     <title>Golf (Open de Naples)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_00:15.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211034500 +0100" stop="20151211043500 +0100">
+  <programme channel="testchannelname01" start="20151211024500 +0100" stop="20151211033500 +0100">
     <length units="minutes">50</length>
     <title>Les spécialistes rugby</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_01:45.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211043500 +0100" stop="20151211045500 +0100">
+  <programme channel="testchannelname01" start="20151211033500 +0100" stop="20151211035500 +0100">
     <length units="minutes">20</length>
     <title>Made in Groland</title>
-    <category>Divertissement</category>
-    <desc>Depuis plus de vingt ans, la présipauté de... (Lire la suite).</desc>
+    <category>divertissement</category>
+    <desc>Depuis plus de vingt ans, la présipauté de Groland propose un journal décalé qui se penche sur l'actualité du monde tel qu'il ne va pas. Epaulés par une équipe de reporters trublions, le présentateur vedette Jules-Edouard Moustic et sa coprésentatrice Chiara De Daddy analysent avec un sérieux tout relatif les grands événements de la semaine dans la présipauté et dans le reste du monde.</desc>
     <credits>
-      <name function="presenter">Jules-Edouard Moustic,</name>
+      <name function="presenter">Jules-Edouard Moustic</name>
       <name function="presenter">Chiara De Daddy</name>
     </credits>
-    <image />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_02:35.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211045500 +0100" stop="20151211050000 +0100">
+  <programme channel="testchannelname01" start="20151211035500 +0100" stop="20151211040000 +0100">
     <length units="minutes">5</length>
     <title>Zapping</title>
-    <category>Divertissement</category>
-    <desc>Un cocktail d'images éloquentes, de petites... (Lire la suite).</desc>
-    <image />
+    <category>divertissement</category>
+    <desc>Un cocktail d'images éloquentes, de petites phrases farfelues et de scènes étonnantes, sélection quotidienne du meilleur et du pire de la télévision.</desc>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_02:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211050000 +0100" stop="20151211093000 +0100">
+  <programme channel="testchannelname01" start="20151211040000 +0100" stop="20151211083000 +0100">
     <length units="minutes">270</length>
     <title>Fin des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>fin</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_03:00.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211093000 +0100" stop="20151211093500 +0100">
+  <programme channel="testchannelname01" start="20151211083000 +0100" stop="20151211083500 +0100">
     <length units="minutes">5</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_07:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211093500 +0100" stop="20151211103000 +0100">
+  <programme channel="testchannelname01" start="20151211083500 +0100" stop="20151211093000 +0100">
     <length units="minutes">55</length>
     <title>Les spécialistes rugby</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_07:35.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211103000 +0100" stop="20151211121000 +0100">
+  <programme channel="testchannelname01" start="20151211093000 +0100" stop="20151211111000 +0100">
     <length units="minutes">100</length>
     <title>Rugby (Bayonne / Montauban)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_08:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211121000 +0100" stop="20151211134000 +0100">
+  <programme channel="testchannelname01" start="20151211111000 +0100" stop="20151211124000 +0100">
     <length units="minutes">90</length>
     <title>Golf (Open de Naples)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_10:10.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211134000 +0100" stop="20151211135000 +0100">
+  <programme channel="testchannelname01" start="20151211124000 +0100" stop="20151211125000 +0100">
     <length units="minutes">10</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_11:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211135000 +0100" stop="20151211144500 +0100">
+  <programme channel="testchannelname01" start="20151211125000 +0100" stop="20151211134500 +0100">
     <length units="minutes">55</length>
     <title>Les spécialistes rugby</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_11:50.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211144500 +0100" stop="20151211145000 +0100">
+  <programme channel="testchannelname01" start="20151211134500 +0100" stop="20151211135000 +0100">
     <length units="minutes">5</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_12:45.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211145000 +0100" stop="20151211163000 +0100">
+  <programme channel="testchannelname01" start="20151211135000 +0100" stop="20151211153000 +0100">
     <length units="minutes">100</length>
     <title>Hockey sur glace (Montréal Canadiens / Boston Bruins)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_12:50.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211163000 +0100" stop="20151211165500 +0100">
+  <programme channel="testchannelname01" start="20151211153000 +0100" stop="20151211155500 +0100">
     <length units="minutes">25</length>
     <title>Premier League World</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_14:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211165500 +0100" stop="20151211184000 +0100">
+  <programme channel="testchannelname01" start="20151211155500 +0100" stop="20151211174000 +0100">
     <length units="minutes">105</length>
     <title>Fight+</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_14:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211184000 +0100" stop="20151211202500 +0100">
+  <programme channel="testchannelname01" start="20151211174000 +0100" stop="20151211192500 +0100">
     <length units="minutes">105</length>
     <title>Rugby (Bayonne / Montauban)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_16:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211202500 +0100" stop="20151211213000 +0100">
+  <programme channel="testchannelname01" start="20151211192500 +0100" stop="20151211203000 +0100">
     <length units="minutes">65</length>
     <title>J+1</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_18:25.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211213000 +0100" stop="20151211214000 +0100">
+  <programme channel="testchannelname01" start="20151211203000 +0100" stop="20151211204000 +0100">
     <length units="minutes">10</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(c)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_19:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211214000 +0100" stop="20151211224500 +0100">
+  <programme channel="testchannelname01" start="20151211204000 +0100" stop="20151211214500 +0100">
     <length units="minutes">65</length>
     <title>La Data Room de Canal+</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_19:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151211224500 +0100" stop="20151212003000 +0100">
+  <programme channel="testchannelname01" start="20151211214500 +0100" stop="20151211233000 +0100">
     <length units="minutes">105</length>
-    <title>I Am Ali (?)</title>
-    <category>Film</category>
-    <desc>Les archives audio personnelles de Mohamed... (Lire la suite).(r)</desc>
+    <title>I Am Ali</title>
+    <category>film</category>
+    <desc>Les archives audio personnelles de Mohamed Ali éclairent d'un jour nouveau la vie hors normes et la fulgurante carrière du légendaire boxeur américain. Interviews et témoignages des membres de sa famille, de ses proches et même de ses adversaires complètent le portrait du multiple champion du monde des poids lourds.</desc>
     <credits>
       <name function="director">Clare Lewins</name>
+      <name function="actor">Mohamed Ali</name>
+      <name function="actor">Mohamed Ali Jr</name>
+      <name function="actor">Maryum Ali</name>
+      <name function="actor">Rahaman Ali</name>
       <name function="actor">Jim Brown</name>
       <name function="actor">George Foreman</name>
       <name function="actor">Carl Fischer</name>
-      <name function="actor">Rahaman Ali</name>
-      <name function="actor">Mohamed Ali</name>
-      <name function="actor">Maryum Ali</name>
-      <name function="actor">Mohamed Ali Jr</name>
       <name function="actor">Marvis Frazier</name>
     </credits>
-    <image />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_20:45.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212003000 +0100" stop="20151212011500 +0100">
+  <programme channel="testchannelname01" start="20151211233000 +0100" stop="20151212001500 +0100">
     <length units="minutes">45</length>
     <title>Jour de foot, première édition</title>
-    <category>Sport</category>
-    <desc>18e journée de Ligue 1 (Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_22:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212011500 +0100" stop="20151212025000 +0100">
+  <programme channel="testchannelname01" start="20151212001500 +0100" stop="20151212015000 +0100">
     <length units="minutes">95</length>
     <title>Golf (Open de Naples)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_47_23:15.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212025000 +0100" stop="20151212034000 +0100">
+  <programme channel="testchannelname01" start="20151212015000 +0100" stop="20151212024000 +0100">
     <length units="minutes">50</length>
     <title>La Data Room de Canal+</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_00:50.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212034000 +0100" stop="20151212053000 +0100">
+  <programme channel="testchannelname01" start="20151212024000 +0100" stop="20151212043000 +0100">
     <length units="minutes">110</length>
     <title>Fight+</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_01:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212053000 +0100" stop="20151212063500 +0100">
+  <programme channel="testchannelname01" start="20151212043000 +0100" stop="20151212053500 +0100">
     <length units="minutes">65</length>
     <title>Salut les Terriens !</title>
-    <category>Magazine</category>
-    <desc>Tout de noir vêtu, Thierry Ardissson reçoit... (Lire la suite).</desc>
+    <category>magazine</category>
+    <desc>Tout de noir vêtu, Thierry Ardissson reçoit les personnalités qui font l'actualité du moment pour les soumettre à un feu roulant de questions, pertinentes et impertinentes. Stéphane Guillon distille ses analyses décalées. Une dixième saison faite d'autodérision et de déclarations chocs, de dossiers désintox et de samples ironiques.</desc>
     <credits>
-      <name function="presenter">Stéphane Guillon,</name>
-      <name function="presenter">Thierry Ardisson,</name>
-      <name function="presenter">Stéphane Blakowski,</name>
-      <name function="presenter">Julien Grappe,</name>
+      <name function="presenter">Thierry Ardisson</name>
+      <name function="presenter">Stéphane Guillon</name>
+      <name function="presenter">Stéphane Blakowski</name>
+      <name function="presenter">Julien Grappe</name>
       <name function="presenter">Tom Villa</name>
     </credits>
-    <image />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_03:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212063500 +0100" stop="20151212102000 +0100">
+  <programme channel="testchannelname01" start="20151212053500 +0100" stop="20151212092000 +0100">
     <length units="minutes">225</length>
     <title>Fin des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>fin</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_04:35.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212102000 +0100" stop="20151212105000 +0100">
+  <programme channel="testchannelname01" start="20151212092000 +0100" stop="20151212095000 +0100">
     <length units="minutes">30</length>
     <title>Champions League Weekly</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_08:20.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212105000 +0100" stop="20151212114000 +0100">
+  <programme channel="testchannelname01" start="20151212095000 +0100" stop="20151212104000 +0100">
     <length units="minutes">50</length>
     <title>La Data Room de Canal+</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_08:50.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212114000 +0100" stop="20151212131500 +0100">
+  <programme channel="testchannelname01" start="20151212104000 +0100" stop="20151212121500 +0100">
     <length units="minutes">95</length>
     <title>Golf (Open de Naples)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_09:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212131500 +0100" stop="20151212145500 +0100">
+  <programme channel="testchannelname01" start="20151212121500 +0100" stop="20151212135500 +0100">
     <length units="minutes">100</length>
     <title>Rugby (Bayonne / Montauban)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_11:15.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212145500 +0100" stop="20151212152500 +0100">
+  <programme channel="testchannelname01" start="20151212135500 +0100" stop="20151212142500 +0100">
     <length units="minutes">30</length>
     <title>Premier League World</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_12:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212152500 +0100" stop="20151212154000 +0100">
+  <programme channel="testchannelname01" start="20151212142500 +0100" stop="20151212144000 +0100">
     <length units="minutes">15</length>
     <title>Match of Ze Day</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_13:25.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212154000 +0100" stop="20151212175500 +0100">
+  <programme channel="testchannelname01" start="20151212144000 +0100" stop="20151212165500 +0100">
     <length units="minutes">135</length>
     <title>Football (Norwich / Everton)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_13:40.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212175500 +0100" stop="20151212195500 +0100">
+  <programme channel="testchannelname01" start="20151212165500 +0100" stop="20151212185500 +0100">
     <length units="minutes">120</length>
     <title>Football (Manchester City / Swansea)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_15:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212195500 +0100" stop="20151212202500 +0100">
+  <programme channel="testchannelname01" start="20151212185500 +0100" stop="20151212192500 +0100">
     <length units="minutes">30</length>
     <title>Match of Ze Day</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_17:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212202500 +0100" stop="20151212223500 +0100">
+  <programme channel="testchannelname01" start="20151212192500 +0100" stop="20151212213500 +0100">
     <length units="minutes">130</length>
     <title>Football (Bournemouth / Manchester United)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_18:25.jpg</image>
   </programme>
-  <programme channel="burger" start="20151212223500 +0100" stop="20151213000500 +0100">
+  <programme channel="testchannelname01" start="20151212213500 +0100" stop="20151212230500 +0100">
     <length units="minutes">90</length>
     <title>Rugby à 7 (Sevens World Series 2015/2016)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_20:35.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213000500 +0100" stop="20151213003000 +0100">
+  <programme channel="testchannelname01" start="20151212230500 +0100" stop="20151212233000 +0100">
     <length units="minutes">25</length>
     <title>Champions League Weekly</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_22:05.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213003000 +0100" stop="20151213012500 +0100">
+  <programme channel="testchannelname01" start="20151212233000 +0100" stop="20151213002500 +0100">
     <length units="minutes">55</length>
     <title>Jour de foot</title>
-    <category>Sport</category>
-    <desc>18e journée de Ligue 1 (Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_22:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213012500 +0100" stop="20151213030000 +0100">
+  <programme channel="testchannelname01" start="20151213002500 +0100" stop="20151213020000 +0100">
     <length units="minutes">95</length>
     <title>Golf (Open de Naples)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_47_23:25.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213030000 +0100" stop="20151213044500 +0100">
+  <programme channel="testchannelname01" start="20151213020000 +0100" stop="20151213034500 +0100">
     <length units="minutes">105</length>
-    <title>Elle l'adore (?)</title>
-    <category>Film</category>
-    <desc>Esthéticienne sympathique mais mythomane,... (Lire la suite).(n)</desc>
+    <title>Elle l'adore</title>
+    <category>film</category>
+    <desc>Esthéticienne sympathique mais mythomane, Muriel est surtout une fervente admiratrice de Vincent Lacroix, un chanteur de variétés à succès. Lorsqu'une nuit son idole se présente à sa porte, la jeune femme est émerveillée. Mais la star est en réalité venue solliciter son aide pour se débarrasser du corps d'une femme caché dans sa voiture. Fascinée par cette rencontre avec son chanteur fétiche, Muriel accepte la proposition. C'est le début des ennuis. Si son entourage, habitué à ses récits farfelus, ne croit guère à cette nouvelle histoire saugrenue, la police est bientôt sur ses traces...
+ --  Critique : Un chanteur beau et populaire, en fâcheuse posture, se sert de sa fan numéro un pour éviter de graves ennuis judiciaires. Deux acteurs percutants (Kiberlain, Lafitte) sauvent de justesse cette comédie policière de ses invraisemblances.</desc>
     <credits>
       <name function="director">Jeanne Herry</name>
-      <name function="actor">Sébastien Knafo</name>
-      <name function="actor">Pascal Demolon</name>
-      <name function="actor">Nicolas Bridet</name>
-      <name function="actor">Sharif Andoura</name>
-      <name function="actor">Benjamin Lavernhe</name>
-      <name function="actor">Laurent Lafitte</name>
-      <name function="actor">Sandrine Kiberlain</name>
-      <name function="actor">Olivia Côte</name>
+      <name function="actor">Sandrine Kiberlain (Muriel Bayen)</name>
+      <name function="actor">Laurent Lafitte (Vincent Lacroix)</name>
+      <name function="actor">Pascal Demolon (Antoine)</name>
+      <name function="actor">Olivia Côte (Coline)</name>
+      <name function="actor">Sébastien Knafo (Sébastien)</name>
+      <name function="actor">Benjamin Lavernhe (Guillaume)</name>
+      <name function="actor">Sharif Andoura (Etienne)</name>
+      <name function="actor">Nicolas Bridet (Nicolas)</name>
+      <name function="composer">Pascal Sangla</name>
     </credits>
-    <image />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_01:00.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213044500 +0100" stop="20151213093000 +0100">
+  <programme channel="testchannelname01" start="20151213034500 +0100" stop="20151213083000 +0100">
     <length units="minutes">285</length>
     <title>Fin des programmes</title>
-    <category />
-    <desc>(Lire la suite).(n)</desc>
-    <image />
+    <category>fin</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_02:45.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213093000 +0100" stop="20151213095500 +0100">
+  <programme channel="testchannelname01" start="20151213083000 +0100" stop="20151213085500 +0100">
     <length units="minutes">25</length>
     <title>Spirit of Yachting</title>
-    <category>Sport</category>
-    <desc>Middle Sea (Lire la suite).(n)</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_07:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213095500 +0100" stop="20151213115000 +0100">
+  <programme channel="testchannelname01" start="20151213085500 +0100" stop="20151213105000 +0100">
     <length units="minutes">115</length>
     <title>Football (Club America (Mex) / Guangzhou Evergrande (Chn))</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_07:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213115000 +0100" stop="20151213132500 +0100">
+  <programme channel="testchannelname01" start="20151213105000 +0100" stop="20151213122500 +0100">
     <length units="minutes">95</length>
     <title>Golf (Open de Naples)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_09:50.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213132500 +0100" stop="20151213152500 +0100">
+  <programme channel="testchannelname01" start="20151213122500 +0100" stop="20151213142500 +0100">
     <length units="minutes">120</length>
     <title>Football (TP Mazembe (Con) / Adversaire à déterminer)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_11:25.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213152500 +0100" stop="20151213154500 +0100">
+  <programme channel="testchannelname01" start="20151213142500 +0100" stop="20151213144500 +0100">
     <length units="minutes">20</length>
     <title>Enquêtes de foot</title>
-    <category>Magazine</category>
-    <desc>Le public vibre au rythme des grands rendez-vous (Lire la suite).(n)</desc>
+    <category>magazine</category>
+    <desc>Le public vibre au rythme des grands rendez-vous et des affiches de prestige. Mais le monde du sport est bien plus vaste que ce que les caméras laissent entrevoir l'instant d'un match. Une immersion dans les coulisses en compagnie d'Astrid Bard, à la faveur de ce magazine qui dévoile la face cachée du monde du foot.</desc>
     <credits>
       <name function="presenter">Astrid Bard</name>
     </credits>
-    <image />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_13:25.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213154500 +0100" stop="20151213160000 +0100">
+  <programme channel="testchannelname01" start="20151213144500 +0100" stop="20151213150000 +0100">
     <length units="minutes">15</length>
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_13:45.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213160000 +0100" stop="20151213162500 +0100">
+  <programme channel="testchannelname01" start="20151213150000 +0100" stop="20151213152500 +0100">
     <length units="minutes">25</length>
     <title>Match of Ze Day</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_14:00.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213162500 +0100" stop="20151213182500 +0100">
+  <programme channel="testchannelname01" start="20151213152500 +0100" stop="20151213172500 +0100">
     <length units="minutes">120</length>
     <title>Football (Aston Villa / Arsenal)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_14:25.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213182500 +0100" stop="20151213185500 +0100">
+  <programme channel="testchannelname01" start="20151213172500 +0100" stop="20151213175500 +0100">
     <length units="minutes">30</length>
     <title>Match of Ze Day</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_16:25.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213185500 +0100" stop="20151213211000 +0100">
+  <programme channel="testchannelname01" start="20151213175500 +0100" stop="20151213201000 +0100">
     <length units="minutes">135</length>
     <title>Football (Tottenham / Newcastle)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_16:55.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213211000 +0100" stop="20151213230000 +0100">
+  <programme channel="testchannelname01" start="20151213201000 +0100" stop="20151213220000 +0100">
     <length units="minutes">110</length>
     <title>Fight+</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_19:10.jpg</image>
   </programme>
-  <programme channel="burger" start="20151213230000 +0100" stop="20151214003000 +0100">
+  <programme channel="testchannelname01" start="20151213220000 +0100" stop="20151213233000 +0100">
     <length units="minutes">90</length>
     <title>Rugby à 7 (Sevens World Series 2015/2016)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_21:00.jpg</image>
   </programme>
-  <programme channel="burger" start="20151214003000 +0100" stop="20151214012000 +0100">
+  <programme channel="testchannelname01" start="20151213233000 +0100" stop="20151214002000 +0100">
     <length units="minutes">50</length>
     <title>Golf (Masters de l'Ile Maurice 2015)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_22:30.jpg</image>
   </programme>
-  <programme channel="burger" start="20151214012000 +0100" stop="20151214030000 +0100">
+  <programme channel="testchannelname01" start="20151214002000 +0100" stop="20151214020000 +0100">
     <length units="minutes">100</length>
     <title>Football (Coupe du monde des clubs 2015)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_47_23:20.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214020000 +0100" stop="20151214024500 +0100">
+    <length units="minutes">45</length>
+    <title>L'équipe du dimanche</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_01:00.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214024500 +0100" stop="20151214043000 +0100">
+    <length units="minutes">105</length>
+    <title>Under the Skin</title>
+    <category>film</category>
+    <desc>Sans nom, sans lieu, une jeune femme déambule, souvent au crépuscule ou en pleine nuit, dans les brumes et dans des coins isolés d'Ecosse. Cette extraterrestre prend des hommes en autostop, puis les envoûte, de ses yeux, de sa bouche et de son corps de rêve. Attirés dans un couloir noir, ces derniers poursuivent cette beauté fatale alors que telle une araignée tissant sa toile, elle les tue les uns après les autres pour le compte de son espèce. Ce manège se répète à l'infini, jusqu'à ce qu'elle fasse une rencontre qui bouleverse son plan...
+ --  Critique : Les humains à travers les yeux d'un alien dans le corps d'une fille. Film étrange sur notre étrangeté, stupéfiant de profondeur et d'inventivité. Avec Scarlett Johansson, géniale fausse brune pour jouer une fausse femme.</desc>
+    <credits>
+      <name function="director">Jonathan Glazer</name>
+      <name function="actor">Scarlett Johansson (la femme)</name>
+      <name function="actor">Jeremy McWilliams (le motard)</name>
+      <name function="actor">Lynsey Taylor Mackay (la femme morte)</name>
+      <name function="actor">Kevin McAlinden (la première victime)</name>
+      <name function="actor">Andrew Gorman (la deuxième victime)</name>
+      <name function="actor">Dougie McConnell</name>
+      <name function="actor">Joe Szula</name>
+      <name function="actor">Michael Moreland</name>
+      <name function="composer">Mica Levi</name>
+    </credits>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_01:45.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214043000 +0100" stop="20151214053500 +0100">
+    <length units="minutes">65</length>
+    <title>Salut les Terriens !</title>
+    <category>magazine</category>
+    <desc>Tout de noir vêtu, Thierry Ardissson reçoit les personnalités qui font l'actualité du moment pour les soumettre à un feu roulant de questions, pertinentes et impertinentes. Stéphane Guillon distille ses analyses décalées. Une dixième saison faite d'autodérision et de déclarations chocs, de dossiers désintox et de samples ironiques.</desc>
+    <credits>
+      <name function="presenter">Thierry Ardisson</name>
+      <name function="presenter">Stéphane Guillon</name>
+      <name function="presenter">Stéphane Blakowski</name>
+      <name function="presenter">Julien Grappe</name>
+      <name function="presenter">Tom Villa</name>
+    </credits>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_03:30.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214053500 +0100" stop="20151214085500 +0100">
+    <length units="minutes">200</length>
+    <title>Fin des programmes</title>
+    <category>fin</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_04:35.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214085500 +0100" stop="20151214090500 +0100">
+    <length units="minutes">10</length>
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_07:55.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214090500 +0100" stop="20151214095000 +0100">
+    <length units="minutes">45</length>
+    <title>L'équipe du dimanche</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_08:05.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214095000 +0100" stop="20151214113000 +0100">
+    <length units="minutes">100</length>
+    <title>Football (Manchester City / Swansea)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_08:50.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214113000 +0100" stop="20151214131000 +0100">
+    <length units="minutes">100</length>
+    <title>Football (Bournemouth / Manchester United)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_10:30.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214131000 +0100" stop="20151214135500 +0100">
+    <length units="minutes">45</length>
+    <title>L'équipe du dimanche</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_12:10.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214135500 +0100" stop="20151214145000 +0100">
+    <length units="minutes">55</length>
+    <title>Golf (Masters de l'Ile Maurice 2015)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_12:55.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214145000 +0100" stop="20151214162000 +0100">
+    <length units="minutes">90</length>
+    <title>Rugby à 7 (Sevens World Series 2015/2016)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_13:50.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214162000 +0100" stop="20151214170500 +0100">
+    <length units="minutes">45</length>
+    <title>L'équipe du dimanche</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_15:20.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214170500 +0100" stop="20151214184500 +0100">
+    <length units="minutes">100</length>
+    <title>Football (Aston Villa / Arsenal)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_16:05.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214184500 +0100" stop="20151214202500 +0100">
+    <length units="minutes">100</length>
+    <title>Football (Tottenham / Newcastle)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_17:45.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214202500 +0100" stop="20151214204000 +0100">
+    <length units="minutes">15</length>
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_19:25.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214204000 +0100" stop="20151214215500 +0100">
+    <length units="minutes">75</length>
+    <title>Les spécialistes Ligue 1</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_19:40.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214215500 +0100" stop="20151214235500 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Leicester / Chelsea)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_20:55.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151214235500 +0100" stop="20151215005500 +0100">
+    <length units="minutes">60</length>
+    <title>J+1</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_22:55.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215005500 +0100" stop="20151215020000 +0100">
+    <length units="minutes">65</length>
+    <title>Les spécialistes Ligue 1</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_47_23:55.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215020000 +0100" stop="20151215020500 +0100">
+    <length units="minutes">5</length>
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_01:00.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215020500 +0100" stop="20151215023000 +0100">
+    <length units="minutes">25</length>
+    <title>Canal Football Club</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_01:05.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215023000 +0100" stop="20151215033500 +0100">
+    <length units="minutes">65</length>
+    <title>Canal Football Club</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_01:30.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215033500 +0100" stop="20151215051500 +0100">
+    <length units="minutes">100</length>
+    <title>Football (Paris-SG / Lyon)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_02:35.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215051500 +0100" stop="20151215052000 +0100">
+    <length units="minutes">5</length>
+    <title>Zapping</title>
+    <category>divertissement</category>
+    <desc>Un cocktail d'images éloquentes, de petites phrases farfelues et de scènes étonnantes, sélection quotidienne du meilleur et du pire de la télévision.</desc>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_04:15.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215052000 +0100" stop="20151215082000 +0100">
+    <length units="minutes">180</length>
+    <title>Fin des programmes</title>
+    <category>fin</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_04:20.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215082000 +0100" stop="20151215082500 +0100">
+    <length units="minutes">5</length>
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_07:20.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215082500 +0100" stop="20151215094000 +0100">
+    <length units="minutes">75</length>
+    <title>Les spécialistes Ligue 1</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_07:25.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215094000 +0100" stop="20151215112000 +0100">
+    <length units="minutes">100</length>
+    <title>Football (Leicester / Chelsea)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_08:40.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215112000 +0100" stop="20151215114500 +0100">
+    <length units="minutes">25</length>
+    <title>Champions League Weekly</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_10:20.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215114500 +0100" stop="20151215120500 +0100">
+    <length units="minutes">20</length>
+    <title>Canal Football Club</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_10:45.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215120500 +0100" stop="20151215131000 +0100">
+    <length units="minutes">65</length>
+    <title>Canal Football Club</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_11:05.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215131000 +0100" stop="20151215142000 +0100">
+    <length units="minutes">70</length>
+    <title>Les spécialistes Ligue 1</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_12:10.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215142000 +0100" stop="20151215144500 +0100">
+    <length units="minutes">25</length>
+    <title>Spirit of Yachting</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_13:20.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215144500 +0100" stop="20151215151500 +0100">
+    <length units="minutes">30</length>
+    <title>Premier League World</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_13:45.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215151500 +0100" stop="20151215165500 +0100">
+    <length units="minutes">100</length>
+    <title>Football (Leicester / Chelsea)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_14:15.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215165500 +0100" stop="20151215183000 +0100">
+    <length units="minutes">95</length>
+    <title>Football (Paris-SG / Lyon)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_15:55.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215183000 +0100" stop="20151215193500 +0100">
+    <length units="minutes">65</length>
+    <title>J+1</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_17:30.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215193500 +0100" stop="20151215202500 +0100">
+    <length units="minutes">50</length>
+    <title>L'équipe du dimanche</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_18:35.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215202500 +0100" stop="20151215204000 +0100">
+    <length units="minutes">15</length>
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_19:25.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215204000 +0100" stop="20151215215000 +0100">
+    <length units="minutes">70</length>
+    <title>MOZD Extra-Time</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_19:40.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215215000 +0100" stop="20151215233500 +0100">
+    <length units="minutes">105</length>
+    <title>Fight+</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_20:50.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151215233500 +0100" stop="20151216011000 +0100">
+    <length units="minutes">95</length>
+    <title>Hockey sur glace (Pittsburgh Penguins / Washington Capitals)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_47_22:35.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216011000 +0100" stop="20151216021000 +0100">
+    <length units="minutes">60</length>
+    <title>MOZD Extra-Time</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_00:10.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216021000 +0100" stop="20151216042000 +0100">
+    <length units="minutes">130</length>
+    <title>La French</title>
+    <category>film</category>
+    <desc>Dans les années 70, Marseille est devenue la capitale mondiale du trafic d'héroïne. Gaëtan Zampa est l'un des membres influents de la French connection, réseau mafieux qui «gère» et prospère grâce à ce très juteux business. Alors qu'il mène grand train sur la Côte d'Azur, il trouve sur sa route le juge Pierre Michel, qui a été muté dans le sud pour faire le ménage. Magistrat intègre et jusqu'au-boutiste, il mène une guerre sans répit contre le milieu au point de risquer plus d'une fois sa vie. Sa femme Jacqueline ne comprend pas sa lutte obstinée et ne supporte pas de le voir mettre sa vie et celle de sa famille en danger...
+ --  Critique : Polar haletant et efficace, dominé par l'interprétation de Gilles Lellouche et Jean Dujardin, et inspiré de l'histoire vraie de la French Connection, dans le Marseille des années 1970.</desc>
+    <credits>
+      <name function="director">Cédric Jimenez</name>
+      <name function="actor">Jean Dujardin (Pierre Michel )</name>
+      <name function="actor">Gilles Lellouche (Gaëtan Zampa)</name>
+      <name function="actor">Céline Sallette (Jacqueline Michel )</name>
+      <name function="actor">Mélanie Doutey (Christiane Zampa)</name>
+      <name function="actor">Benoît Magimel (le Fou)</name>
+      <name function="actor">Guillaume Gouix (José Alvarez)</name>
+      <name function="actor">Bruno Todeschini (le banquier)</name>
+      <name function="actor">Moussa Maaskri (Franky Manzoni)</name>
+      <name function="composer">Guillaume Roussel</name>
+    </credits>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_01:10.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216042000 +0100" stop="20151216044000 +0100">
+    <length units="minutes">20</length>
+    <title>Made in Groland</title>
+    <category>divertissement</category>
+    <desc>Depuis plus de vingt ans, la présipauté de Groland propose un journal décalé qui se penche sur l'actualité du monde tel qu'il ne va pas. Epaulés par une équipe de reporters trublions, le présentateur vedette Jules-Edouard Moustic et sa coprésentatrice Chiara De Daddy analysent avec un sérieux tout relatif les grands événements de la semaine dans la présipauté et dans le reste du monde.</desc>
+    <credits>
+      <name function="presenter">Jules-Edouard Moustic</name>
+      <name function="presenter">Chiara De Daddy</name>
+    </credits>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_03:20.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216044000 +0100" stop="20151216044500 +0100">
+    <length units="minutes">5</length>
+    <title>Zapping</title>
+    <category>divertissement</category>
+    <desc>Un cocktail d'images éloquentes, de petites phrases farfelues et de scènes étonnantes, sélection quotidienne du meilleur et du pire de la télévision.</desc>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_03:40.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216044500 +0100" stop="20151216081000 +0100">
+    <length units="minutes">205</length>
+    <title>Fin des programmes</title>
+    <category>fin</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_03:45.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216081000 +0100" stop="20151216081500 +0100">
+    <length units="minutes">5</length>
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_07:10.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216081500 +0100" stop="20151216092500 +0100">
+    <length units="minutes">70</length>
+    <title>MOZD Extra-Time</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_07:15.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216092500 +0100" stop="20151216112500 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Coupe du monde des clubs 2015)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_08:25.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216112500 +0100" stop="20151216115500 +0100">
+    <length units="minutes">30</length>
+    <title>Premier League World</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_10:25.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216115500 +0100" stop="20151216122500 +0100">
+    <length units="minutes">30</length>
+    <title>Champions League Weekly</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_10:55.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216122500 +0100" stop="20151216143000 +0100">
+    <length units="minutes">125</length>
+    <title>Football (River Plate (Arg) / Adversaire à déterminer)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_11:25.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216143000 +0100" stop="20151216143500 +0100">
+    <length units="minutes">5</length>
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_13:30.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216143500 +0100" stop="20151216160500 +0100">
+    <length units="minutes">90</length>
+    <title>Repas de famille</title>
+    <category>film</category>
+    <desc>Bernard, un carrossier de droite qui convoite la mairie de son village, est marié à la pulpeuse Bernadette. Pour le déjeuner dominical, ils invitent Bruno et Huguette, leur beau-frère et belle-soeur enseignants, qui eux votent plutôt à gauche. Entre discussions animées et disputes autour de la table du déjeuner et blagues en tout genre, une question se pose : qui va s'occuper de leur grand-mère pour les fêtes de Noël ? Et ce n'est pas le seul point de tension entre les deux couples. De l'éducation des enfants à la religion, en passant par les histoires d'héritages et même la drogue, leurs points de vue divergent sur tous les sujets...</desc>
+    <credits>
+      <name function="director">Pierre-Henry Salfati</name>
+      <name function="actor">Eric Carrière (Bruno)</name>
+      <name function="actor">Francis Ginibre (Bernard)</name>
+      <name function="actor">Noëlle Perna (Bernadette)</name>
+      <name function="actor">Lorella Cravotta (Huguette)</name>
+      <name function="actor">Ludivine Manca (Léa)</name>
+      <name function="actor">Lamine Lezghad (Kader)</name>
+      <name function="actor">Yves Pujol (Yves)</name>
+      <name function="actor">Joël Cantona (Luis)</name>
+    </credits>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_13:35.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216160500 +0100" stop="20151216174500 +0100">
+    <length units="minutes">100</length>
+    <title>Sous X</title>
+    <category>film</category>
+    <desc>Après neuf ans passés derrière les barreaux pour braquage, Jean-Jacques retrouve la cité où il a grandi et qu'il ne reconnaît plus. Les plus jeunes font la loi dans le quartier et il a du mal à trouver sa place. Il veut tourner la page et trouver un nouveau sens à sa vie. Décidé à prendre le droit chemin, il est finalement rattrapé par son passé quand son ami Nassim lui propose de participer à un trafic de drogue. Jean-Jacques, métis adopté par des blancs et en quête de ses origines, est tenté alors que sa réinsertion se passe moins bien que prévu...
+ --  Critique : J.J. sort de prison après neuf ans de détention. Le réalisateur filme avec tendresse sa réinsertion, ses efforts pour retrouver sa mère biologique, sa peur de devenir père... C'est, par moments, maladroit, mais sympa.</desc>
+    <credits>
+      <name function="director">Jean-Michel Correia</name>
+      <name function="actor">Jean-Michel Correia (Jean-Jacques)</name>
+      <name function="actor">Karim Leklou (Lamo)</name>
+      <name function="actor">Anissa Allali (Meryam)</name>
+      <name function="actor">David Saracino (Nassim)</name>
+      <name function="actor">Pierre Douglas (le père)</name>
+      <name function="actor">Lisa Livane (la mère)</name>
+      <name function="actor">Mariama Gueye (Mélissa)</name>
+      <name function="actor">Nizar Saïdi (Klint)</name>
+    </credits>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_15:05.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216174500 +0100" stop="20151216192500 +0100">
+    <length units="minutes">100</length>
+    <title>Hockey sur glace (Pittsburgh Penguins / Washington Capitals)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_16:45.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216192500 +0100" stop="20151216203000 +0100">
+    <length units="minutes">65</length>
+    <title>Golf+, le mag</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_18:25.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216203000 +0100" stop="20151216204000 +0100">
+    <length units="minutes">10</length>
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_19:30.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216204000 +0100" stop="20151216215000 +0100">
+    <length units="minutes">70</length>
+    <title>Les spécialistes F1</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_19:40.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216215000 +0100" stop="20151216232000 +0100">
+    <length units="minutes">90</length>
+    <title>Formule 1 (Championnat du monde 2015)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_20:50.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216232000 +0100" stop="20151216234500 +0100">
+    <length units="minutes">25</length>
+    <title>Spirit of Yachting</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_22:20.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151216234500 +0100" stop="20151217012000 +0100">
+    <length units="minutes">95</length>
+    <title>Football (River Plate (Arg) / Adversaire à déterminer)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_47_22:45.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217012000 +0100" stop="20151217031000 +0100">
+    <length units="minutes">110</length>
+    <title>Fight+</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_00:20.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217031000 +0100" stop="20151217041000 +0100">
+    <length units="minutes">60</length>
+    <title>Golf+, le mag</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_02:10.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217041000 +0100" stop="20151217055500 +0100">
+    <length units="minutes">105</length>
+    <title>Valentin Valentin</title>
+    <category>film</category>
+    <desc>Presque malgré lui, Valentin, jeune homme timide et doux, a beaucoup de succès auprès des femmes. Elodie et Florence, ses voisines du 5e étage, se pâment d'amour et Claudia, sa maîtresse, lui mène la vie dure. Valentin invite tous ses voisins à sa pendaison de crémaillère, sans se douter qu'il déclenche un engrenage infernal. C'est le drame quand il est retrouvé poignardé près de son nouvel appartement. Les habitants de la résidence, qui ont assisté à une altercation entre les deux hommes lors de la petite fête du défunt, ont vite fait d'en conclure à la culpabilité de Freddy, le mari de sa maîtresse. Mais il ne faut pas toujours se fier aux apparences...
+ --  Critique : Faire du cinéma comme on flâne, est-ce encore possible ? Oui, répond Pascal Thomas. Voici donc comment une histoire de crime sur la personne d'un jeune homme rêveur devient le prétexte à une galerie de portraits pittoresque. Une comédie très humaine.</desc>
+    <credits>
+      <name function="director">Pascal Thomas</name>
+      <name function="actor">Marilou Berry (Elodie)</name>
+      <name function="actor">Vincent Rottiers (Valentin)</name>
+      <name function="actor">Geraldine Chaplin (Jane)</name>
+      <name function="actor">Arielle Dombasle (la mère de Valentin)</name>
+      <name function="actor">Marie Gillain (Claudia Livorno)</name>
+      <name function="actor">Agathe Bonitzer (Florence)</name>
+      <name function="actor">Christine Citti (Antonia)</name>
+      <name function="actor">Isabelle Candelier (Rose)</name>
+    </credits>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_03:10.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217055500 +0100" stop="20151217063000 +0100">
+    <length units="minutes">35</length>
+    <title>Salut les Terriens !</title>
+    <category>magazine</category>
+    <desc>Tout de noir vêtu, Thierry Ardissson reçoit les personnalités qui font l'actualité du moment pour les soumettre à un feu roulant de questions, pertinentes et impertinentes. Stéphane Guillon distille ses analyses décalées. Une dixième saison faite d'autodérision et de déclarations chocs, de dossiers désintox et de samples ironiques.</desc>
+    <credits>
+      <name function="presenter">Thierry Ardisson</name>
+      <name function="presenter">Stéphane Guillon</name>
+      <name function="presenter">Stéphane Blakowski</name>
+      <name function="presenter">Julien Grappe</name>
+      <name function="presenter">Tom Villa</name>
+    </credits>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_04:55.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217063000 +0100" stop="20151217081000 +0100">
+    <length units="minutes">100</length>
+    <title>Le supplément</title>
+    <category>magazine</category>
+    <desc>Un grand témoin de l'époque répond aux questions d'Ali Baddou et réagit aux reportages diffusés au cours de l'émission ainsi qu'aux différentes chroniques : «L'Inspecteur Beaugé», «Sexy demain», «La Bio interdite» de Vincent Dedienne».</desc>
+    <credits>
+      <name function="presenter">Ali Baddou</name>
+    </credits>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_05:30.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217081000 +0100" stop="20151217081500 +0100">
+    <length units="minutes">5</length>
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_07:10.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217081500 +0100" stop="20151217092000 +0100">
+    <length units="minutes">65</length>
+    <title>Les spécialistes F1</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_07:15.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217092000 +0100" stop="20151217105000 +0100">
+    <length units="minutes">90</length>
+    <title>Formule 1 (Championnat du monde 2015)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_08:20.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217105000 +0100" stop="20151217122500 +0100">
+    <length units="minutes">95</length>
+    <title>Rugby à 7 (Sevens World Series 2015/2016)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_09:50.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217122500 +0100" stop="20151217142000 +0100">
+    <length units="minutes">115</length>
+    <title>Football (FC Barcelone (Esp) / Adversaire à déterminer)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_11:25.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217142000 +0100" stop="20151217163000 +0100">
+    <length units="minutes">130</length>
+    <title>War Zone</title>
+    <category>film</category>
+    <desc>En 2008, en Ossétie du Sud, Kseniya envoie son fils en vacances chez son père, à Tskhinvali, à l'autre bout du pays. Mais quelques jours après, la guerre éclate avec le voisin russe. Inquiète, la jeune mère décide alors, au péril de sa vie, d'aller chercher son enfant, qui se trouve derrière les lignes de front. Pour atteindre son but, elle va devoir traverser la zone la plus dangereuse du conflit, où la bataille fait rage. De son côté, le garçon s'imagine une réalité alternative, où les réalités de la guerre sont modifiées. En effet, les soldats et véhicules font place à des combats entre robots géants...</desc>
+    <credits>
+      <name function="director">Dzhanik Fayziev</name>
+      <name function="actor">Svetlana Ivanova (Kseniya)</name>
+      <name function="actor">Maksim Matveyev (Lekha)</name>
+      <name function="actor">Aleksey Guskov (Kazbek)</name>
+      <name function="actor">Khasan Baroev (Ilya)</name>
+      <name function="actor">Vladimir Vdovichenkov (le président)</name>
+      <name function="actor">Egor Beroev (Zaur)</name>
+      <name function="actor">Artyom Fadeev (Tyoma)</name>
+      <name function="actor">Aleksandr Oleshko (Egor)</name>
+      <name function="composer">Ruslan Muratov</name>
+    </credits>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_13:20.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217163000 +0100" stop="20151217181500 +0100">
+    <length units="minutes">105</length>
+    <title>Fight+</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_15:30.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217181500 +0100" stop="20151217184500 +0100">
+    <length units="minutes">30</length>
+    <title>Premier League World</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_17:15.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217184500 +0100" stop="20151217202500 +0100">
+    <length units="minutes">100</length>
+    <title>Hockey sur glace (Washington Capitals / Ottawa Senators)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_17:45.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217202500 +0100" stop="20151217204000 +0100">
+    <length units="minutes">15</length>
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_19:25.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217204000 +0100" stop="20151217214000 +0100">
+    <length units="minutes">60</length>
+    <title>Les spécialistes rugby</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_19:40.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217214000 +0100" stop="20151217233500 +0100">
+    <length units="minutes">115</length>
+    <title>Rugby (Béziers / Perpignan)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_20:40.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151217233500 +0100" stop="20151218011500 +0100">
+    <length units="minutes">100</length>
+    <title>Football (FC Barcelone (Esp) / Adversaire à déterminer)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_47_22:35.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218011500 +0100" stop="20151218020500 +0100">
+    <length units="minutes">50</length>
+    <title>Golf (Masters de l'Ile Maurice 2015)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_00:15.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218020500 +0100" stop="20151218025500 +0100">
+    <length units="minutes">50</length>
+    <title>Les spécialistes rugby</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_01:05.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218025500 +0100" stop="20151218032500 +0100">
+    <length units="minutes">30</length>
+    <title>Premier League World</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_01:55.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218032500 +0100" stop="20151218034000 +0100">
+    <length units="minutes">15</length>
+    <title>Made in Groland</title>
+    <category>divertissement</category>
+    <desc>Depuis plus de vingt ans, la présipauté de Groland propose un journal décalé qui se penche sur l'actualité du monde tel qu'il ne va pas. Epaulés par une équipe de reporters trublions, le présentateur vedette Jules-Edouard Moustic et sa coprésentatrice Chiara De Daddy analysent avec un sérieux tout relatif les grands événements de la semaine dans la présipauté et dans le reste du monde.</desc>
+    <credits>
+      <name function="presenter">Jules-Edouard Moustic</name>
+      <name function="presenter">Chiara De Daddy</name>
+    </credits>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_02:25.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218034000 +0100" stop="20151218035000 +0100">
+    <length units="minutes">10</length>
+    <title>Zapping</title>
+    <category>divertissement</category>
+    <desc>Un cocktail d'images éloquentes, de petites phrases farfelues et de scènes étonnantes, sélection quotidienne du meilleur et du pire de la télévision.</desc>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_02:40.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218035000 +0100" stop="20151218082500 +0100">
+    <length units="minutes">275</length>
+    <title>Fin des programmes</title>
+    <category>fin</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_02:50.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218082500 +0100" stop="20151218083000 +0100">
+    <length units="minutes">5</length>
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_07:25.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218083000 +0100" stop="20151218093000 +0100">
+    <length units="minutes">60</length>
+    <title>Les spécialistes rugby</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_07:30.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218093000 +0100" stop="20151218111000 +0100">
+    <length units="minutes">100</length>
+    <title>Rugby (Béziers / Perpignan)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_08:30.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218111000 +0100" stop="20151218111500 +0100">
+    <length units="minutes">5</length>
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_10:10.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218111500 +0100" stop="20151218130500 +0100">
+    <length units="minutes">110</length>
+    <title>Fight+</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_10:15.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218130500 +0100" stop="20151218140000 +0100">
+    <length units="minutes">55</length>
+    <title>Les spécialistes rugby</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_12:05.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218140000 +0100" stop="20151218153000 +0100">
+    <length units="minutes">90</length>
+    <title>Formule 1 (Championnat du monde 2015)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_13:00.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218153000 +0100" stop="20151218153500 +0100">
+    <length units="minutes">5</length>
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_14:30.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218153500 +0100" stop="20151218171500 +0100">
+    <length units="minutes">100</length>
+    <title>Hockey sur glace (Washington Capitals / Ottawa Senators)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_14:35.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218171500 +0100" stop="20151218174000 +0100">
+    <length units="minutes">25</length>
+    <title>Premier League World</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_16:15.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218174000 +0100" stop="20151218192000 +0100">
+    <length units="minutes">100</length>
+    <title>Rugby (Béziers / Perpignan)</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_16:40.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218192000 +0100" stop="20151218202500 +0100">
+    <length units="minutes">65</length>
+    <title>J+1</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_18:20.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218202500 +0100" stop="20151218204000 +0100">
+    <length units="minutes">15</length>
+    <title>Zapsport</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_19:25.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218204000 +0100" stop="20151218214000 +0100">
+    <length units="minutes">60</length>
+    <title>La Data Room de Canal+</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_19:40.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218214000 +0100" stop="20151218223500 +0100">
+    <length units="minutes">55</length>
+    <title>Playground : croire en ses rêves</title>
+    <category>documentaire</category>
+    <desc>La Nations Cup est une compétition internationale de football pour les enfants de 10 à 12 ans dont l'édition 2014 se tenait au Brésil. Dans ce documentaire, les parcours de cinq enfants venus d'Espagne, du Brésil, d'Indonésie, du Maroc et de France sont confrontés. Ces jeunes passionnés peuvent compter sur Zinédine Zidane et Cafu pour les guider jusqu'au bout de leur rêve.</desc>
+    <credits>
+      <name function="director">Edouard Bergeon</name>
+    </credits>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_20:40.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218223500 +0100" stop="20151218233500 +0100">
+    <length units="minutes">60</length>
+    <title>Looking For Alger</title>
+    <category>documentaire</category>
+    <desc>A travers le prisme du derby ancestral opposant les deux clubs de la capitale algérienne, le Mouloudia Club d'Alger (MCA) et l'Union Sportive de la Médina d'Alger (USMA), qui rassemble 100 000 spectateurs, Eric Cantona propose un voyage footballistique et historique au coeur de la ville. Il déambule dans le quartier de la Casbah, à la rencontre des habitants, qui ont tous choisi leur camp et lui expliquent pourquoi leur équipe fétiche doit gagner cette confrontation. Anecdotes, témoignages, images insolites, émaillent ce documentaire. D'anciens joueurs, supporters et artistes racontent leurs histoires, graves, drôles ou sincères.
+ --  Critique : D'abord, il y eut le Mouloudia. Créé en 1921 dans la partie basse de la Casbah d'Alger, il sera le tout premier club de football « indigène » à affronter des formations coloniales, avant de se mesurer à sa voisine, l'Union sportive musulmane d'Alger (USMA), formée en 1937 sur les hauteurs de la vieille ville. En redonnant vie au derby historique de la capitale, c'est tout un pan du passé national qu'éclaire Eric Cantona. Au gré de ses discussions avec d'anciennes gloires locales, l'ex-numéro 7 s'emploie à rappeler la couleur très politique du football algérien. Elle s'incarne notamment dans la trajectoire d'Abdelhamid Zouba, qui troqua en 1958 les promesses d'une carrière en Europe pour le militantisme balle au pied, au sein de l'équipe du FLN. Très (trop ?) incarné et alourdi par quel­ques longueurs, le récit a le mérite de mettre en lumière une histoire singulière, rarement évoquée. &amp;mdash; Emilie Gavoille</desc>
+    <credits>
+      <name function="director">Théo Schuster</name>
+    </credits>
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_21:35.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151218233500 +0100" stop="20151219002000 +0100">
+    <length units="minutes">45</length>
+    <title>Jour de foot, première édition</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_22:35.jpg</image>
+  </programme>
+  <programme channel="testchannelname01" start="20151219002000 +0100" stop="20151219011000 +0100">
+    <length units="minutes">50</length>
+    <title>La Data Room de Canal+</title>
+    <category>sport</category>
+    <desc />
+    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_47_23:20.jpg</image>
   </programme>
 </tv>

@@ -259,8 +259,11 @@ namespace XmlGeneration.CronApp
 
                 zip.ExtractAll(outputDirectory, ExtractExistingFileAction.OverwriteSilently);
 
+                var hasFolder = zip.Any(entry => entry.FileName.Contains("/"));
 
-                var files = Directory.GetFiles(outputDirectory + Path.GetFileNameWithoutExtension(zipFileName), "*.xml", SearchOption.TopDirectoryOnly);
+                var files = Directory.GetFiles(outputDirectory + (hasFolder ? Path.GetFileNameWithoutExtension(zipFileName) : ""), "*.xml", SearchOption.TopDirectoryOnly);
+              
+                //var files = Directory.GetFiles(outputDirectory + Path.GetFileNameWithoutExtension(zipFileName), "*.xml", SearchOption.TopDirectoryOnly);
 
                 foreach (var xmlFile in files)
                 {
@@ -648,9 +651,7 @@ namespace XmlGeneration.CronApp
             sourceUrl = sourceUrl.Trim();
             var file = GetSafeFilename(Path.GetFileNameWithoutExtension(sourceUrl));
             var saveLocation = ZipFolderPath + file + extension;
-
-            saveLocation =  saveLocation;
-
+              
             using (WebClient webClt = new WebClient())
             {
                 try

@@ -68,6 +68,7 @@ namespace XmlParser.Core.Core
                #region Channel...
                var id = string.Empty;
                var channelName = string.Empty;
+               var queryChannelName = string.Empty;
                const string formatString = "yyyyMMddHHmmss";
                var outputFileName = string.Empty;
 
@@ -76,12 +77,20 @@ namespace XmlParser.Core.Core
                if (!string.IsNullOrEmpty(newChannelName))
                {
                    channelName = newChannelName;
+                  
+                   id = xElements[i].Attributes("id").First().Value;
+                   queryChannelName = xElements[i].Value;
+                   if (string.IsNullOrEmpty(queryChannelName))
+                   {
+                       queryChannelName = xElements[i].Attributes("display-name").First().Value;
+                   }
+
                    try
                    {
                        id = xElements[i].Attributes("id").First().Value;
                        outputFileName = xElements[i].Value;
 
-                       if (string.IsNullOrEmpty(channelName))
+                       if (string.IsNullOrEmpty(outputFileName))
                        {
                            outputFileName = xElements[i].Attributes("display-name").First().Value;
                        }
@@ -103,7 +112,7 @@ namespace XmlParser.Core.Core
                        id = xElements[i].Attributes("id").First().Value;
 
                        channelName = xElements[i].Value;
-
+                       queryChannelName = channelName;
                        //Nov-19
                        if (channelName.Contains("http://"))
                        {
@@ -147,7 +156,7 @@ namespace XmlParser.Core.Core
                {
                    var channelList =
                        dataContext.SourceURLs.Find(srno)
-                           .ActiveChannels.FirstOrDefault(c => c.ChannelName.Equals(outputFileName) && c.IsActive);
+                           .ActiveChannels.FirstOrDefault(c => c.ChannelName.Equals(queryChannelName) && c.IsActive);
 
                    if (channelList == null)
                        continue;

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="10">
-    <display-name>pizza</display-name>
+    <display-name>TMC</display-name>
   </channel>
-  <programme channel="pizza" start="20151203084500 +0100" stop="20151203103500 +0100">
+  <programme channel="TMC" start="20151203004500 +0100" stop="20151203023500 +0100">
     <length units="minutes">110</length>
     <title>Hibernatus</title>
     <category>Théâtre</category>
@@ -19,7 +19,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_00:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203103500 +0100" stop="20151203123500 +0100">
+  <programme channel="TMC" start="20151203023500 +0100" stop="20151203043500 +0100">
     <length units="minutes">120</length>
     <title>La maison de Nina</title>
     <category>Film</category>
@@ -39,7 +39,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_02:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203123500 +0100" stop="20151203130000 +0100">
+  <programme channel="TMC" start="20151203043500 +0100" stop="20151203050000 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -56,7 +56,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_04:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203130000 +0100" stop="20151203132500 +0100">
+  <programme channel="TMC" start="20151203050000 +0100" stop="20151203052500 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -72,7 +72,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_05:00.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203132500 +0100" stop="20151203135000 +0100">
+  <programme channel="TMC" start="20151203052500 +0100" stop="20151203055000 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -89,7 +89,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_05:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203135000 +0100" stop="20151203141500 +0100">
+  <programme channel="TMC" start="20151203055000 +0100" stop="20151203061500 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -106,7 +106,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_05:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203141500 +0100" stop="20151203144500 +0100">
+  <programme channel="TMC" start="20151203061500 +0100" stop="20151203064500 +0100">
     <length units="minutes">30</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -122,21 +122,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_06:15.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203144500 +0100" stop="20151203164500 +0100">
+  <programme channel="TMC" start="20151203064500 +0100" stop="20151203084500 +0100">
     <length units="minutes">120</length>
     <title>TV achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_06:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203164500 +0100" stop="20151203165000 +0100">
+  <programme channel="TMC" start="20151203084500 +0100" stop="20151203085000 +0100">
     <length units="minutes">5</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_08:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203165000 +0100" stop="20151203174000 +0100">
+  <programme channel="TMC" start="20151203085000 +0100" stop="20151203094000 +0100">
     <length units="minutes">50</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -154,7 +154,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_08:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203174000 +0100" stop="20151203192500 +0100">
+  <programme channel="TMC" start="20151203094000 +0100" stop="20151203112500 +0100">
     <length units="minutes">105</length>
     <title>De l'amour pour Noël</title>
     <category>Téléfilm</category>
@@ -173,7 +173,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_09:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203192500 +0100" stop="20151203202500 +0100">
+  <programme channel="TMC" start="20151203112500 +0100" stop="20151203122500 +0100">
     <length units="minutes">60</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -190,7 +190,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_11:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203202500 +0100" stop="20151203212000 +0100">
+  <programme channel="TMC" start="20151203122500 +0100" stop="20151203132000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -208,28 +208,28 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_12:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203212000 +0100" stop="20151203212300 +0100">
+  <programme channel="TMC" start="20151203132000 +0100" stop="20151203132300 +0100">
     <length units="minutes">3</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_13:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203212300 +0100" stop="20151203212500 +0100">
+  <programme channel="TMC" start="20151203132300 +0100" stop="20151203132500 +0100">
     <length units="minutes">2</length>
     <title>TMC info</title>
     <category>Journal</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_13:23.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203212500 +0100" stop="20151203214000 +0100">
+  <programme channel="TMC" start="20151203132500 +0100" stop="20151203134000 +0100">
     <length units="minutes">15</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_13:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203214000 +0100" stop="20151203223000 +0100">
+  <programme channel="TMC" start="20151203134000 +0100" stop="20151203143000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -247,7 +247,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_13:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203223000 +0100" stop="20151203232000 +0100">
+  <programme channel="TMC" start="20151203143000 +0100" stop="20151203152000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -264,7 +264,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_14:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151203232000 +0100" stop="20151204001000 +0100">
+  <programme channel="TMC" start="20151203152000 +0100" stop="20151203161000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -282,7 +282,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_15:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204001000 +0100" stop="20151204010500 +0100">
+  <programme channel="TMC" start="20151203161000 +0100" stop="20151203170500 +0100">
     <length units="minutes">55</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -300,7 +300,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_16:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204010500 +0100" stop="20151204015500 +0100">
+  <programme channel="TMC" start="20151203170500 +0100" stop="20151203175500 +0100">
     <length units="minutes">50</length>
     <title>Monk</title>
     <category>Série</category>
@@ -318,7 +318,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_17:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204015500 +0100" stop="20151204025000 +0100">
+  <programme channel="TMC" start="20151203175500 +0100" stop="20151203185000 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -336,7 +336,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_17:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204025000 +0100" stop="20151204034500 +0100">
+  <programme channel="TMC" start="20151203185000 +0100" stop="20151203194500 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -354,7 +354,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_18:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204034500 +0100" stop="20151204044000 +0100">
+  <programme channel="TMC" start="20151203194500 +0100" stop="20151203204000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -373,21 +373,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_19:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204044000 +0100" stop="20151204045000 +0100">
+  <programme channel="TMC" start="20151203204000 +0100" stop="20151203205000 +0100">
     <length units="minutes">10</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_20:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204045000 +0100" stop="20151204045500 +0100">
+  <programme channel="TMC" start="20151203205000 +0100" stop="20151203205500 +0100">
     <length units="minutes">5</length>
     <title>The Perfect Vacation</title>
     <category>Magazine</category>
     <desc>Sans guide, sans carte, sans programme précis, une célébrité part pour des vacances, guidé uniquement par les conseils des internautes. Pour cette première saison, Michel Fugain est parti à la découverte d'Israël. Les conseils des internautes l'ont amené à sillonner le pays : Jérusalem, Tel Aviv, Césarée ou encore la Galilée ou la mer morte. Chaque lieu visité est aussi l'occasion d'une rencontre riche en émotion.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_20:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204045500 +0100" stop="20151204064500 +0100">
+  <programme channel="TMC" start="20151203205500 +0100" stop="20151203224500 +0100">
     <length units="minutes">110</length>
     <title>L'enquête corse</title>
     <category>Film</category>
@@ -407,14 +407,14 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_20:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204064500 +0100" stop="20151204083500 +0100">
+  <programme channel="TMC" start="20151203224500 +0100" stop="20151204003500 +0100">
     <length units="minutes">110</length>
     <title>Christian Clavier : la fabuleuse histoire d'un Bronzé</title>
     <category>Documentaire</category>
     <desc>Christian Clavier, acteur star des plus grandes comédies françaises, s'est confié sur les grands moments qui ont jalonné sa carrière. Ses proches et partenaires de scène ont accepté de raconter l'ascension fulgurante de ce comédien. De ses angoisses à ses premiers succès, ils dévoilent le parcours de cet homme qui a su s'imposer comme l'un des acteurs les plus populaires en France. Pourtant, sa carrière n'était pas une évidence, ni pour sa famille, ni pour ses proches, ni pour ses pairs. Jalonnée d'embûches, de critiques et de déceptions, le parcours de Christian Clavier n'a pas été un long fleuve tranquille. Des répliques cultes des Bronzés au «Okkaay !» des Visiteurs, du «Père Noël est une ordure» à «Qu'est-ce qu'on a fait au Bon Dieu», retour sur vie.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-03_10_22:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204083500 +0100" stop="20151204102500 +0100">
+  <programme channel="TMC" start="20151204003500 +0100" stop="20151204022500 +0100">
     <length units="minutes">110</length>
     <title>90' Enquêtes</title>
     <category>Magazine</category>
@@ -424,7 +424,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_00:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204102500 +0100" stop="20151204121000 +0100">
+  <programme channel="TMC" start="20151204022500 +0100" stop="20151204041000 +0100">
     <length units="minutes">105</length>
     <title>Dangereux désirs</title>
     <category>Téléfilm</category>
@@ -440,7 +440,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_02:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204121000 +0100" stop="20151204123500 +0100">
+  <programme channel="TMC" start="20151204041000 +0100" stop="20151204043500 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -457,7 +457,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_04:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204123500 +0100" stop="20151204130000 +0100">
+  <programme channel="TMC" start="20151204043500 +0100" stop="20151204050000 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -474,7 +474,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_04:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204130000 +0100" stop="20151204132000 +0100">
+  <programme channel="TMC" start="20151204050000 +0100" stop="20151204052000 +0100">
     <length units="minutes">20</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -491,7 +491,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_05:00.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204132000 +0100" stop="20151204134500 +0100">
+  <programme channel="TMC" start="20151204052000 +0100" stop="20151204054500 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -508,7 +508,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_05:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204134500 +0100" stop="20151204141000 +0100">
+  <programme channel="TMC" start="20151204054500 +0100" stop="20151204061000 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -525,7 +525,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_05:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204141000 +0100" stop="20151204144500 +0100">
+  <programme channel="TMC" start="20151204061000 +0100" stop="20151204064500 +0100">
     <length units="minutes">35</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -538,21 +538,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_06:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204144500 +0100" stop="20151204164500 +0100">
+  <programme channel="TMC" start="20151204064500 +0100" stop="20151204084500 +0100">
     <length units="minutes">120</length>
     <title>TV achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_06:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204164500 +0100" stop="20151204165000 +0100">
+  <programme channel="TMC" start="20151204084500 +0100" stop="20151204085000 +0100">
     <length units="minutes">5</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_08:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204165000 +0100" stop="20151204174000 +0100">
+  <programme channel="TMC" start="20151204085000 +0100" stop="20151204094000 +0100">
     <length units="minutes">50</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -570,7 +570,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_08:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204174000 +0100" stop="20151204192500 +0100">
+  <programme channel="TMC" start="20151204094000 +0100" stop="20151204112500 +0100">
     <length units="minutes">105</length>
     <title>Un Père Noël au grand coeur</title>
     <category>Téléfilm</category>
@@ -589,7 +589,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_09:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204192500 +0100" stop="20151204202500 +0100">
+  <programme channel="TMC" start="20151204112500 +0100" stop="20151204122500 +0100">
     <length units="minutes">60</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -606,7 +606,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_11:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204202500 +0100" stop="20151204212000 +0100">
+  <programme channel="TMC" start="20151204122500 +0100" stop="20151204132000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -623,28 +623,28 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_12:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204212000 +0100" stop="20151204212300 +0100">
+  <programme channel="TMC" start="20151204132000 +0100" stop="20151204132300 +0100">
     <length units="minutes">3</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_13:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204212300 +0100" stop="20151204212500 +0100">
+  <programme channel="TMC" start="20151204132300 +0100" stop="20151204132500 +0100">
     <length units="minutes">2</length>
     <title>TMC info</title>
     <category>Journal</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_13:23.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204212500 +0100" stop="20151204214000 +0100">
+  <programme channel="TMC" start="20151204132500 +0100" stop="20151204134000 +0100">
     <length units="minutes">15</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_13:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204214000 +0100" stop="20151204223000 +0100">
+  <programme channel="TMC" start="20151204134000 +0100" stop="20151204143000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -662,7 +662,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_13:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204223000 +0100" stop="20151204232000 +0100">
+  <programme channel="TMC" start="20151204143000 +0100" stop="20151204152000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -680,7 +680,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_14:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151204232000 +0100" stop="20151205001000 +0100">
+  <programme channel="TMC" start="20151204152000 +0100" stop="20151204161000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -698,7 +698,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_15:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205001000 +0100" stop="20151205010500 +0100">
+  <programme channel="TMC" start="20151204161000 +0100" stop="20151204170500 +0100">
     <length units="minutes">55</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -716,7 +716,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_16:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205010500 +0100" stop="20151205015500 +0100">
+  <programme channel="TMC" start="20151204170500 +0100" stop="20151204175500 +0100">
     <length units="minutes">50</length>
     <title>Monk</title>
     <category>Série</category>
@@ -734,7 +734,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_17:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205015500 +0100" stop="20151205025000 +0100">
+  <programme channel="TMC" start="20151204175500 +0100" stop="20151204185000 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -752,7 +752,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_17:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205025000 +0100" stop="20151205034500 +0100">
+  <programme channel="TMC" start="20151204185000 +0100" stop="20151204194500 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -770,7 +770,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_18:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205034500 +0100" stop="20151205044000 +0100">
+  <programme channel="TMC" start="20151204194500 +0100" stop="20151204204000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -789,21 +789,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_19:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205044000 +0100" stop="20151205045000 +0100">
+  <programme channel="TMC" start="20151204204000 +0100" stop="20151204205000 +0100">
     <length units="minutes">10</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_20:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205045000 +0100" stop="20151205045500 +0100">
+  <programme channel="TMC" start="20151204205000 +0100" stop="20151204205500 +0100">
     <length units="minutes">5</length>
     <title>The Perfect Vacation</title>
     <category>Magazine</category>
     <desc>Sans guide, sans carte, sans programme précis, une célébrité part pour des vacances, guidé uniquement par les conseils des internautes. Pour cette première saison, Michel Fugain est parti à la découverte d'Israël. Les conseils des internautes l'ont amené à sillonner le pays : Jérusalem, Tel Aviv, Césarée ou encore la Galilée ou la mer morte. Chaque lieu visité est aussi l'occasion d'une rencontre riche en émotion.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_20:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205045500 +0100" stop="20151205055000 +0100">
+  <programme channel="TMC" start="20151204205500 +0100" stop="20151204215000 +0100">
     <length units="minutes">55</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -821,7 +821,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_20:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205055000 +0100" stop="20151205064500 +0100">
+  <programme channel="TMC" start="20151204215000 +0100" stop="20151204224500 +0100">
     <length units="minutes">55</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -839,7 +839,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_21:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205064500 +0100" stop="20151205073500 +0100">
+  <programme channel="TMC" start="20151204224500 +0100" stop="20151204233500 +0100">
     <length units="minutes">50</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -858,7 +858,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_22:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205073500 +0100" stop="20151205083000 +0100">
+  <programme channel="TMC" start="20151204233500 +0100" stop="20151205003000 +0100">
     <length units="minutes">55</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -877,7 +877,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-04_10_23:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205083000 +0100" stop="20151205092500 +0100">
+  <programme channel="TMC" start="20151205003000 +0100" stop="20151205012500 +0100">
     <length units="minutes">55</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -895,7 +895,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_00:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205092500 +0100" stop="20151205101500 +0100">
+  <programme channel="TMC" start="20151205012500 +0100" stop="20151205021500 +0100">
     <length units="minutes">50</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -914,7 +914,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_01:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205101500 +0100" stop="20151205111500 +0100">
+  <programme channel="TMC" start="20151205021500 +0100" stop="20151205031500 +0100">
     <length units="minutes">60</length>
     <title>Close to Home</title>
     <category>Série</category>
@@ -932,7 +932,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_02:15.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205111500 +0100" stop="20151205125500 +0100">
+  <programme channel="TMC" start="20151205031500 +0100" stop="20151205045500 +0100">
     <length units="minutes">100</length>
     <title>Delphine ou les plaisirs simples</title>
     <category>Téléfilm</category>
@@ -950,7 +950,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_03:15.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205125500 +0100" stop="20151205132000 +0100">
+  <programme channel="TMC" start="20151205045500 +0100" stop="20151205052000 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -967,7 +967,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_04:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205132000 +0100" stop="20151205134500 +0100">
+  <programme channel="TMC" start="20151205052000 +0100" stop="20151205054500 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -984,7 +984,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_05:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205134500 +0100" stop="20151205140500 +0100">
+  <programme channel="TMC" start="20151205054500 +0100" stop="20151205060500 +0100">
     <length units="minutes">20</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -1001,7 +1001,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_05:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205140500 +0100" stop="20151205143500 +0100">
+  <programme channel="TMC" start="20151205060500 +0100" stop="20151205063500 +0100">
     <length units="minutes">30</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -1013,21 +1013,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_06:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205143500 +0100" stop="20151205144500 +0100">
+  <programme channel="TMC" start="20151205063500 +0100" stop="20151205064500 +0100">
     <length units="minutes">10</length>
     <title>Monacoscope</title>
     <category>Magazine</category>
     <desc>Dix minutes pour faire, en images, le tour d'horizon des événements marquants de la semaine en Principauté. De l'inauguration d'un nouveau yacht au vernissage de la dernière exposition du Grimaldi Forum, rien n'échappe au Monacoscope.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_06:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205144500 +0100" stop="20151205165000 +0100">
+  <programme channel="TMC" start="20151205064500 +0100" stop="20151205085000 +0100">
     <length units="minutes">125</length>
     <title>TV achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_06:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205165000 +0100" stop="20151205173500 +0100">
+  <programme channel="TMC" start="20151205085000 +0100" stop="20151205093500 +0100">
     <length units="minutes">45</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -1045,7 +1045,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_08:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205173500 +0100" stop="20151205183000 +0100">
+  <programme channel="TMC" start="20151205093500 +0100" stop="20151205103000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -1063,7 +1063,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_09:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205183000 +0100" stop="20151205193000 +0100">
+  <programme channel="TMC" start="20151205103000 +0100" stop="20151205113000 +0100">
     <length units="minutes">60</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -1081,7 +1081,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_10:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205193000 +0100" stop="20151205202500 +0100">
+  <programme channel="TMC" start="20151205113000 +0100" stop="20151205122500 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -1099,7 +1099,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_11:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205202500 +0100" stop="20151205212000 +0100">
+  <programme channel="TMC" start="20151205122500 +0100" stop="20151205132000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -1117,21 +1117,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_12:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205212000 +0100" stop="20151205212500 +0100">
+  <programme channel="TMC" start="20151205132000 +0100" stop="20151205132500 +0100">
     <length units="minutes">5</length>
     <title>TMC info</title>
     <category>Journal</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_13:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205212500 +0100" stop="20151205213000 +0100">
+  <programme channel="TMC" start="20151205132500 +0100" stop="20151205133000 +0100">
     <length units="minutes">5</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_13:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205213000 +0100" stop="20151205223000 +0100">
+  <programme channel="TMC" start="20151205133000 +0100" stop="20151205143000 +0100">
     <length units="minutes">60</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -1149,7 +1149,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_13:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205223000 +0100" stop="20151205232000 +0100">
+  <programme channel="TMC" start="20151205143000 +0100" stop="20151205152000 +0100">
     <length units="minutes">50</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -1167,7 +1167,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_14:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151205232000 +0100" stop="20151206001000 +0100">
+  <programme channel="TMC" start="20151205152000 +0100" stop="20151205161000 +0100">
     <length units="minutes">50</length>
     <title>Close to Home</title>
     <category>Série</category>
@@ -1185,7 +1185,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_15:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206001000 +0100" stop="20151206010500 +0100">
+  <programme channel="TMC" start="20151205161000 +0100" stop="20151205170500 +0100">
     <length units="minutes">55</length>
     <title>Close to Home</title>
     <category>Série</category>
@@ -1204,7 +1204,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_16:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206010500 +0100" stop="20151206015500 +0100">
+  <programme channel="TMC" start="20151205170500 +0100" stop="20151205175500 +0100">
     <length units="minutes">50</length>
     <title>Close to Home</title>
     <category>Série</category>
@@ -1222,7 +1222,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_17:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206015500 +0100" stop="20151206025000 +0100">
+  <programme channel="TMC" start="20151205175500 +0100" stop="20151205185000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -1239,7 +1239,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_17:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206025000 +0100" stop="20151206034500 +0100">
+  <programme channel="TMC" start="20151205185000 +0100" stop="20151205194500 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -1256,7 +1256,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_18:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206034500 +0100" stop="20151206045000 +0100">
+  <programme channel="TMC" start="20151205194500 +0100" stop="20151205205000 +0100">
     <length units="minutes">65</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -1273,14 +1273,14 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_19:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206045000 +0100" stop="20151206045500 +0100">
+  <programme channel="TMC" start="20151205205000 +0100" stop="20151205205500 +0100">
     <length units="minutes">5</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_20:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206045500 +0100" stop="20151206061000 +0100">
+  <programme channel="TMC" start="20151205205500 +0100" stop="20151205221000 +0100">
     <length units="minutes">75</length>
     <title>Downton Abbey</title>
     <category>Série</category>
@@ -1299,7 +1299,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_20:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206061000 +0100" stop="20151206071000 +0100">
+  <programme channel="TMC" start="20151205221000 +0100" stop="20151205231000 +0100">
     <length units="minutes">60</length>
     <title>Downton Abbey</title>
     <category>Série</category>
@@ -1318,7 +1318,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_22:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206071000 +0100" stop="20151206080000 +0100">
+  <programme channel="TMC" start="20151205231000 +0100" stop="20151206000000 +0100">
     <length units="minutes">50</length>
     <title>New York, section criminelle</title>
     <category>Série</category>
@@ -1336,7 +1336,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-05_10_23:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206080000 +0100" stop="20151206085500 +0100">
+  <programme channel="TMC" start="20151206000000 +0100" stop="20151206005500 +0100">
     <length units="minutes">55</length>
     <title>New York, section criminelle</title>
     <category>Série</category>
@@ -1354,7 +1354,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_00:00.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206085500 +0100" stop="20151206094500 +0100">
+  <programme channel="TMC" start="20151206005500 +0100" stop="20151206014500 +0100">
     <length units="minutes">50</length>
     <title>New York, section criminelle</title>
     <category>Série</category>
@@ -1373,7 +1373,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_00:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206094500 +0100" stop="20151206113000 +0100">
+  <programme channel="TMC" start="20151206014500 +0100" stop="20151206033000 +0100">
     <length units="minutes">105</length>
     <title>Manuela ou l'impossible plaisir</title>
     <category>Téléfilm</category>
@@ -1391,7 +1391,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_01:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206113000 +0100" stop="20151206115500 +0100">
+  <programme channel="TMC" start="20151206033000 +0100" stop="20151206035500 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -1408,7 +1408,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_03:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206115500 +0100" stop="20151206125000 +0100">
+  <programme channel="TMC" start="20151206035500 +0100" stop="20151206045000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -1425,7 +1425,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_03:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206125000 +0100" stop="20151206134500 +0100">
+  <programme channel="TMC" start="20151206045000 +0100" stop="20151206054500 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -1442,7 +1442,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_04:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206134500 +0100" stop="20151206143500 +0100">
+  <programme channel="TMC" start="20151206054500 +0100" stop="20151206063500 +0100">
     <length units="minutes">50</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -1459,7 +1459,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_05:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206143500 +0100" stop="20151206153000 +0100">
+  <programme channel="TMC" start="20151206063500 +0100" stop="20151206073000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -1476,14 +1476,14 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_06:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206153000 +0100" stop="20151206153500 +0100">
+  <programme channel="TMC" start="20151206073000 +0100" stop="20151206073500 +0100">
     <length units="minutes">5</length>
     <title>Monacoscope</title>
     <category>Magazine</category>
     <desc>Dix minutes pour faire, en images, le tour d'horizon des événements marquants de la semaine en Principauté. De l'inauguration d'un nouveau yacht au vernissage de la dernière exposition du Grimaldi Forum, rien n'échappe au Monacoscope.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_07:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206153500 +0100" stop="20151206163500 +0100">
+  <programme channel="TMC" start="20151206073500 +0100" stop="20151206083500 +0100">
     <length units="minutes">60</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -1500,7 +1500,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_07:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206163500 +0100" stop="20151206174000 +0100">
+  <programme channel="TMC" start="20151206083500 +0100" stop="20151206094000 +0100">
     <length units="minutes">65</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -1517,7 +1517,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_08:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206174000 +0100" stop="20151206182500 +0100">
+  <programme channel="TMC" start="20151206094000 +0100" stop="20151206102500 +0100">
     <length units="minutes">45</length>
     <title>American Wives</title>
     <category>Série</category>
@@ -1535,7 +1535,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_09:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206182500 +0100" stop="20151206191500 +0100">
+  <programme channel="TMC" start="20151206102500 +0100" stop="20151206111500 +0100">
     <length units="minutes">50</length>
     <title>American Wives</title>
     <category>Série</category>
@@ -1553,7 +1553,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_10:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206191500 +0100" stop="20151206200500 +0100">
+  <programme channel="TMC" start="20151206111500 +0100" stop="20151206120500 +0100">
     <length units="minutes">50</length>
     <title>American Wives</title>
     <category>Série</category>
@@ -1571,7 +1571,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_11:15.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206200500 +0100" stop="20151206210000 +0100">
+  <programme channel="TMC" start="20151206120500 +0100" stop="20151206130000 +0100">
     <length units="minutes">55</length>
     <title>American Wives</title>
     <category>Série</category>
@@ -1589,21 +1589,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_12:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206210000 +0100" stop="20151206210500 +0100">
+  <programme channel="TMC" start="20151206130000 +0100" stop="20151206130500 +0100">
     <length units="minutes">5</length>
     <title>TMC info</title>
     <category>Journal</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_13:00.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206210500 +0100" stop="20151206211000 +0100">
+  <programme channel="TMC" start="20151206130500 +0100" stop="20151206131000 +0100">
     <length units="minutes">5</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_13:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206211000 +0100" stop="20151206224000 +0100">
+  <programme channel="TMC" start="20151206131000 +0100" stop="20151206144000 +0100">
     <length units="minutes">90</length>
     <title>Les ondes de Noël</title>
     <category>Téléfilm</category>
@@ -1621,7 +1621,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_13:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151206224000 +0100" stop="20151207002000 +0100">
+  <programme channel="TMC" start="20151206144000 +0100" stop="20151206162000 +0100">
     <length units="minutes">100</length>
     <title>Vengeance aveugle</title>
     <category>Téléfilm</category>
@@ -1641,7 +1641,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_14:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207002000 +0100" stop="20151207020000 +0100">
+  <programme channel="TMC" start="20151206162000 +0100" stop="20151206180000 +0100">
     <length units="minutes">100</length>
     <title>Le secret d'une soeur</title>
     <category>Téléfilm</category>
@@ -1660,7 +1660,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_16:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207020000 +0100" stop="20151207034500 +0100">
+  <programme channel="TMC" start="20151206180000 +0100" stop="20151206194500 +0100">
     <length units="minutes">105</length>
     <title>Une femme d'honneur</title>
     <category>Téléfilm</category>
@@ -1681,7 +1681,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_18:00.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207034500 +0100" stop="20151207045000 +0100">
+  <programme channel="TMC" start="20151206194500 +0100" stop="20151206205000 +0100">
     <length units="minutes">65</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -1698,14 +1698,14 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_19:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207045000 +0100" stop="20151207045500 +0100">
+  <programme channel="TMC" start="20151206205000 +0100" stop="20151206205500 +0100">
     <length units="minutes">5</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_20:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207045500 +0100" stop="20151207065500 +0100">
+  <programme channel="TMC" start="20151206205500 +0100" stop="20151206225500 +0100">
     <length units="minutes">120</length>
     <title>Banzaï</title>
     <category>Film</category>
@@ -1725,7 +1725,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_20:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207065500 +0100" stop="20151207092000 +0100">
+  <programme channel="TMC" start="20151206225500 +0100" stop="20151207012000 +0100">
     <length units="minutes">145</length>
     <title>Les 30 histoires</title>
     <category>Divertissement</category>
@@ -1737,7 +1737,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-06_10_22:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207092000 +0100" stop="20151207114500 +0100">
+  <programme channel="TMC" start="20151207012000 +0100" stop="20151207034500 +0100">
     <length units="minutes">145</length>
     <title>Les 30 histoires</title>
     <category>Divertissement</category>
@@ -1748,7 +1748,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_01:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207114500 +0100" stop="20151207133500 +0100">
+  <programme channel="TMC" start="20151207034500 +0100" stop="20151207053500 +0100">
     <length units="minutes">110</length>
     <title>Désirs troublés</title>
     <category>Téléfilm</category>
@@ -1766,7 +1766,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_03:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207133500 +0100" stop="20151207140000 +0100">
+  <programme channel="TMC" start="20151207053500 +0100" stop="20151207060000 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -1781,7 +1781,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_05:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207140000 +0100" stop="20151207144500 +0100">
+  <programme channel="TMC" start="20151207060000 +0100" stop="20151207064500 +0100">
     <length units="minutes">45</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -1796,21 +1796,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_06:00.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207144500 +0100" stop="20151207164500 +0100">
+  <programme channel="TMC" start="20151207064500 +0100" stop="20151207084500 +0100">
     <length units="minutes">120</length>
     <title>TV achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_06:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207164500 +0100" stop="20151207165000 +0100">
+  <programme channel="TMC" start="20151207084500 +0100" stop="20151207085000 +0100">
     <length units="minutes">5</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_08:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207165000 +0100" stop="20151207174000 +0100">
+  <programme channel="TMC" start="20151207085000 +0100" stop="20151207094000 +0100">
     <length units="minutes">50</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -1828,7 +1828,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_08:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207174000 +0100" stop="20151207193000 +0100">
+  <programme channel="TMC" start="20151207094000 +0100" stop="20151207113000 +0100">
     <length units="minutes">110</length>
     <title>L'avant-veille de Noël</title>
     <category>Téléfilm</category>
@@ -1847,7 +1847,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_09:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207193000 +0100" stop="20151207202500 +0100">
+  <programme channel="TMC" start="20151207113000 +0100" stop="20151207122500 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -1864,7 +1864,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_11:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207202500 +0100" stop="20151207212000 +0100">
+  <programme channel="TMC" start="20151207122500 +0100" stop="20151207132000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -1881,28 +1881,28 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_12:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207212000 +0100" stop="20151207212300 +0100">
+  <programme channel="TMC" start="20151207132000 +0100" stop="20151207132300 +0100">
     <length units="minutes">3</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_13:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207212300 +0100" stop="20151207212500 +0100">
+  <programme channel="TMC" start="20151207132300 +0100" stop="20151207132500 +0100">
     <length units="minutes">2</length>
     <title>TMC info</title>
     <category>Journal</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_13:23.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207212500 +0100" stop="20151207214000 +0100">
+  <programme channel="TMC" start="20151207132500 +0100" stop="20151207134000 +0100">
     <length units="minutes">15</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_13:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207214000 +0100" stop="20151207223000 +0100">
+  <programme channel="TMC" start="20151207134000 +0100" stop="20151207143000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -1920,7 +1920,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_13:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207223000 +0100" stop="20151207232000 +0100">
+  <programme channel="TMC" start="20151207143000 +0100" stop="20151207152000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -1938,7 +1938,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_14:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151207232000 +0100" stop="20151208001000 +0100">
+  <programme channel="TMC" start="20151207152000 +0100" stop="20151207161000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -1956,7 +1956,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_15:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208001000 +0100" stop="20151208010500 +0100">
+  <programme channel="TMC" start="20151207161000 +0100" stop="20151207170500 +0100">
     <length units="minutes">55</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -1974,7 +1974,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_16:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208010500 +0100" stop="20151208015500 +0100">
+  <programme channel="TMC" start="20151207170500 +0100" stop="20151207175500 +0100">
     <length units="minutes">50</length>
     <title>Monk</title>
     <category>Série</category>
@@ -1993,7 +1993,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_17:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208015500 +0100" stop="20151208025000 +0100">
+  <programme channel="TMC" start="20151207175500 +0100" stop="20151207185000 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -2011,7 +2011,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_17:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208025000 +0100" stop="20151208034500 +0100">
+  <programme channel="TMC" start="20151207185000 +0100" stop="20151207194500 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -2029,7 +2029,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_18:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208034500 +0100" stop="20151208044000 +0100">
+  <programme channel="TMC" start="20151207194500 +0100" stop="20151207204000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -2047,21 +2047,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_19:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208044000 +0100" stop="20151208044500 +0100">
+  <programme channel="TMC" start="20151207204000 +0100" stop="20151207204500 +0100">
     <length units="minutes">5</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_20:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208044500 +0100" stop="20151208045000 +0100">
+  <programme channel="TMC" start="20151207204500 +0100" stop="20151207205000 +0100">
     <length units="minutes">5</length>
     <title>The Perfect Vacation</title>
     <category>Magazine</category>
     <desc>Sans guide, sans carte, sans programme précis, une célébrité part pour des vacances, guidé uniquement par les conseils des internautes. Pour cette première saison, Michel Fugain est parti à la découverte d'Israël. Les conseils des internautes l'ont amené à sillonner le pays : Jérusalem, Tel Aviv, Césarée ou encore la Galilée ou la mer morte. Chaque lieu visité est aussi l'occasion d'une rencontre riche en émotion.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_20:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208045000 +0100" stop="20151208073000 +0100">
+  <programme channel="TMC" start="20151207205000 +0100" stop="20151207233000 +0100">
     <length units="minutes">160</length>
     <title>Montreux Comedy Festival Gala de clôture : #Hyperconnecté</title>
     <category>Spectacle</category>
@@ -2078,7 +2078,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_20:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208073000 +0100" stop="20151208094000 +0100">
+  <programme channel="TMC" start="20151207233000 +0100" stop="20151208014000 +0100">
     <length units="minutes">130</length>
     <title>Total Recall : mémoires programmées</title>
     <category>Film</category>
@@ -2098,7 +2098,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_10_23:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208094000 +0100" stop="20151208113000 +0100">
+  <programme channel="TMC" start="20151208014000 +0100" stop="20151208033000 +0100">
     <length units="minutes">110</length>
     <title>L'empreinte de la vengeance</title>
     <category>Téléfilm</category>
@@ -2117,7 +2117,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_01:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208113000 +0100" stop="20151208131500 +0100">
+  <programme channel="TMC" start="20151208033000 +0100" stop="20151208051500 +0100">
     <length units="minutes">105</length>
     <title>Drôles de jeux</title>
     <category>Téléfilm</category>
@@ -2135,7 +2135,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_03:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208131500 +0100" stop="20151208134000 +0100">
+  <programme channel="TMC" start="20151208051500 +0100" stop="20151208054000 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2150,7 +2150,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_05:15.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208134000 +0100" stop="20151208140500 +0100">
+  <programme channel="TMC" start="20151208054000 +0100" stop="20151208060500 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2165,7 +2165,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_05:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208140500 +0100" stop="20151208144500 +0100">
+  <programme channel="TMC" start="20151208060500 +0100" stop="20151208064500 +0100">
     <length units="minutes">40</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2181,21 +2181,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_06:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208144500 +0100" stop="20151208164500 +0100">
+  <programme channel="TMC" start="20151208064500 +0100" stop="20151208084500 +0100">
     <length units="minutes">120</length>
     <title>TV achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_06:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208164500 +0100" stop="20151208165000 +0100">
+  <programme channel="TMC" start="20151208084500 +0100" stop="20151208085000 +0100">
     <length units="minutes">5</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_08:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208165000 +0100" stop="20151208174000 +0100">
+  <programme channel="TMC" start="20151208085000 +0100" stop="20151208094000 +0100">
     <length units="minutes">50</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -2213,7 +2213,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_08:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208174000 +0100" stop="20151208193000 +0100">
+  <programme channel="TMC" start="20151208094000 +0100" stop="20151208113000 +0100">
     <length units="minutes">110</length>
     <title>De l'espoir pour Noël</title>
     <category>Téléfilm</category>
@@ -2232,7 +2232,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_09:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208193000 +0100" stop="20151208202500 +0100">
+  <programme channel="TMC" start="20151208113000 +0100" stop="20151208122500 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -2250,7 +2250,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_11:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208202500 +0100" stop="20151208212000 +0100">
+  <programme channel="TMC" start="20151208122500 +0100" stop="20151208132000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -2265,28 +2265,28 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_12:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208212000 +0100" stop="20151208212300 +0100">
+  <programme channel="TMC" start="20151208132000 +0100" stop="20151208132300 +0100">
     <length units="minutes">3</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_13:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208212300 +0100" stop="20151208212500 +0100">
+  <programme channel="TMC" start="20151208132300 +0100" stop="20151208132500 +0100">
     <length units="minutes">2</length>
     <title>TMC info</title>
     <category>Journal</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_13:23.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208212500 +0100" stop="20151208214000 +0100">
+  <programme channel="TMC" start="20151208132500 +0100" stop="20151208134000 +0100">
     <length units="minutes">15</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_13:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208214000 +0100" stop="20151208223000 +0100">
+  <programme channel="TMC" start="20151208134000 +0100" stop="20151208143000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -2304,7 +2304,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_13:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208223000 +0100" stop="20151208232000 +0100">
+  <programme channel="TMC" start="20151208143000 +0100" stop="20151208152000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -2322,7 +2322,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_14:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151208232000 +0100" stop="20151209001000 +0100">
+  <programme channel="TMC" start="20151208152000 +0100" stop="20151208161000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -2339,7 +2339,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_15:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209001000 +0100" stop="20151209010500 +0100">
+  <programme channel="TMC" start="20151208161000 +0100" stop="20151208170500 +0100">
     <length units="minutes">55</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -2357,7 +2357,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_16:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209010500 +0100" stop="20151209015500 +0100">
+  <programme channel="TMC" start="20151208170500 +0100" stop="20151208175500 +0100">
     <length units="minutes">50</length>
     <title>Monk</title>
     <category>Série</category>
@@ -2375,7 +2375,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_17:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209015500 +0100" stop="20151209025000 +0100">
+  <programme channel="TMC" start="20151208175500 +0100" stop="20151208185000 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -2393,7 +2393,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_17:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209025000 +0100" stop="20151209034500 +0100">
+  <programme channel="TMC" start="20151208185000 +0100" stop="20151208194500 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -2411,7 +2411,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_18:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209034500 +0100" stop="20151209044000 +0100">
+  <programme channel="TMC" start="20151208194500 +0100" stop="20151208204000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -2429,28 +2429,28 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_19:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209044000 +0100" stop="20151209044500 +0100">
+  <programme channel="TMC" start="20151208204000 +0100" stop="20151208204500 +0100">
     <length units="minutes">5</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_20:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209044500 +0100" stop="20151209045500 +0100">
+  <programme channel="TMC" start="20151208204500 +0100" stop="20151208205500 +0100">
     <length units="minutes">10</length>
     <title>The Perfect Vacation</title>
     <category>Magazine</category>
     <desc>Sans guide, sans carte, sans programme précis, une célébrité part pour des vacances, guidé uniquement par les conseils des internautes. Pour cette première saison, Michel Fugain est parti à la découverte d'Israël. Les conseils des internautes l'ont amené à sillonner le pays : Jérusalem, Tel Aviv, Césarée ou encore la Galilée ou la mer morte. Chaque lieu visité est aussi l'occasion d'une rencontre riche en émotion.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_20:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209045500 +0100" stop="20151209064500 +0100">
+  <programme channel="TMC" start="20151208205500 +0100" stop="20151208224500 +0100">
     <length units="minutes">110</length>
     <title>Mylène Farmer : sur les pas d'une icône</title>
     <category>Documentaire</category>
     <desc>De son premier album «Cendres de Lune» à «Interstellaires», son nouvel album, Mylène Farmer est devenue le symbole de toute une génération. Elle a réussi à percer dans le monde de la musique, en cultivant un certain goût pour la provocation, mais c'est sa part de mystère qui a fait d'elle l'une des artistes les plus demandées en France. De nombreuses personnalités ont accepté de raconter leurs plus belles expériences aux côtés de Mylène. Parmi eux Sting, qui collabore avec elle sur son dernier album «Interstellaires», Martin Kieszenbaum, le producteur de l'album, et Thierry Suc, son manager et producteur depuis ses débuts.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_20:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209064500 +0100" stop="20151209083000 +0100">
+  <programme channel="TMC" start="20151208224500 +0100" stop="20151209003000 +0100">
     <length units="minutes">105</length>
     <title>90' Enquêtes</title>
     <category>Magazine</category>
@@ -2460,7 +2460,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_10_22:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209083000 +0100" stop="20151209102000 +0100">
+  <programme channel="TMC" start="20151209003000 +0100" stop="20151209022000 +0100">
     <length units="minutes">110</length>
     <title>90' Enquêtes</title>
     <category>Magazine</category>
@@ -2470,7 +2470,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_00:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209102000 +0100" stop="20151209121000 +0100">
+  <programme channel="TMC" start="20151209022000 +0100" stop="20151209041000 +0100">
     <length units="minutes">110</length>
     <title>Etranges exhibitions</title>
     <category>Téléfilm</category>
@@ -2486,7 +2486,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_02:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209121000 +0100" stop="20151209123500 +0100">
+  <programme channel="TMC" start="20151209041000 +0100" stop="20151209043500 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2501,7 +2501,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_04:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209123500 +0100" stop="20151209125500 +0100">
+  <programme channel="TMC" start="20151209043500 +0100" stop="20151209045500 +0100">
     <length units="minutes">20</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2516,7 +2516,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_04:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209125500 +0100" stop="20151209132000 +0100">
+  <programme channel="TMC" start="20151209045500 +0100" stop="20151209052000 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2532,7 +2532,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_04:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209132000 +0100" stop="20151209134500 +0100">
+  <programme channel="TMC" start="20151209052000 +0100" stop="20151209054500 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2548,7 +2548,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_05:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209134500 +0100" stop="20151209140500 +0100">
+  <programme channel="TMC" start="20151209054500 +0100" stop="20151209060500 +0100">
     <length units="minutes">20</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2565,7 +2565,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_05:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209140500 +0100" stop="20151209144500 +0100">
+  <programme channel="TMC" start="20151209060500 +0100" stop="20151209064500 +0100">
     <length units="minutes">40</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2582,21 +2582,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_06:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209144500 +0100" stop="20151209164500 +0100">
+  <programme channel="TMC" start="20151209064500 +0100" stop="20151209084500 +0100">
     <length units="minutes">120</length>
     <title>TV achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_06:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209164500 +0100" stop="20151209165000 +0100">
+  <programme channel="TMC" start="20151209084500 +0100" stop="20151209085000 +0100">
     <length units="minutes">5</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_08:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209165000 +0100" stop="20151209174000 +0100">
+  <programme channel="TMC" start="20151209085000 +0100" stop="20151209094000 +0100">
     <length units="minutes">50</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -2614,7 +2614,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_08:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209174000 +0100" stop="20151209193000 +0100">
+  <programme channel="TMC" start="20151209094000 +0100" stop="20151209113000 +0100">
     <length units="minutes">110</length>
     <title>Une famille pour Noël</title>
     <category>Téléfilm</category>
@@ -2633,7 +2633,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_09:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209193000 +0100" stop="20151209202500 +0100">
+  <programme channel="TMC" start="20151209113000 +0100" stop="20151209122500 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -2650,7 +2650,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_11:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209202500 +0100" stop="20151209212000 +0100">
+  <programme channel="TMC" start="20151209122500 +0100" stop="20151209132000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -2665,42 +2665,42 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_12:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209212000 +0100" stop="20151209212300 +0100">
+  <programme channel="TMC" start="20151209132000 +0100" stop="20151209132300 +0100">
     <length units="minutes">3</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_13:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209212300 +0100" stop="20151209212500 +0100">
+  <programme channel="TMC" start="20151209132300 +0100" stop="20151209132500 +0100">
     <length units="minutes">2</length>
     <title>TMC info</title>
     <category>Journal</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_13:23.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209212500 +0100" stop="20151209213000 +0100">
+  <programme channel="TMC" start="20151209132500 +0100" stop="20151209133000 +0100">
     <length units="minutes">5</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_13:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209213000 +0100" stop="20151209232000 +0100">
+  <programme channel="TMC" start="20151209133000 +0100" stop="20151209152000 +0100">
     <length units="minutes">110</length>
     <title>Mylène Farmer : sur les pas d'une icône</title>
     <category>Documentaire</category>
     <desc>De son premier album «Cendres de Lune» à «Interstellaires», son nouvel album, Mylène Farmer est devenue le symbole de toute une génération. Elle a réussi à percer dans le monde de la musique, en cultivant un certain goût pour la provocation, mais c'est sa part de mystère qui a fait d'elle l'une des artistes les plus demandées en France. De nombreuses personnalités ont accepté de raconter leurs plus belles expériences aux côtés de Mylène. Parmi eux Sting, qui collabore avec elle sur son dernier album «Interstellaires», Martin Kieszenbaum, le producteur de l'album, et Thierry Suc, son manager et producteur depuis ses débuts.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_13:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151209232000 +0100" stop="20151210010500 +0100">
+  <programme channel="TMC" start="20151209152000 +0100" stop="20151209170500 +0100">
     <length units="minutes">105</length>
     <title>Christian Clavier : la fabuleuse histoire d'un Bronzé</title>
     <category>Documentaire</category>
     <desc>Christian Clavier, acteur star des plus grandes comédies françaises, s'est confié sur les grands moments qui ont jalonné sa carrière. Ses proches et partenaires de scène ont accepté de raconter l'ascension fulgurante de ce comédien. De ses angoisses à ses premiers succès, ils dévoilent le parcours de cet homme qui a su s'imposer comme l'un des acteurs les plus populaires en France. Pourtant, sa carrière n'était pas une évidence, ni pour sa famille, ni pour ses proches, ni pour ses pairs. Jalonnée d'embûches, de critiques et de déceptions, le parcours de Christian Clavier n'a pas été un long fleuve tranquille. Des répliques cultes des Bronzés au «Okkaay !» des Visiteurs, du «Père Noël est une ordure» à «Qu'est-ce qu'on a fait au Bon Dieu», retour sur vie.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_15:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210010500 +0100" stop="20151210015500 +0100">
+  <programme channel="TMC" start="20151209170500 +0100" stop="20151209175500 +0100">
     <length units="minutes">50</length>
     <title>Monk</title>
     <category>Série</category>
@@ -2719,7 +2719,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_17:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210015500 +0100" stop="20151210025000 +0100">
+  <programme channel="TMC" start="20151209175500 +0100" stop="20151209185000 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -2737,7 +2737,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_17:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210025000 +0100" stop="20151210034500 +0100">
+  <programme channel="TMC" start="20151209185000 +0100" stop="20151209194500 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -2755,7 +2755,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_18:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210034500 +0100" stop="20151210044000 +0100">
+  <programme channel="TMC" start="20151209194500 +0100" stop="20151209204000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -2773,28 +2773,28 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_19:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210044000 +0100" stop="20151210044500 +0100">
+  <programme channel="TMC" start="20151209204000 +0100" stop="20151209204500 +0100">
     <length units="minutes">5</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_20:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210044500 +0100" stop="20151210045500 +0100">
+  <programme channel="TMC" start="20151209204500 +0100" stop="20151209205500 +0100">
     <length units="minutes">10</length>
     <title>The Perfect Vacation</title>
     <category>Magazine</category>
     <desc>Sans guide, sans carte, sans programme précis, une célébrité part pour des vacances, guidé uniquement par les conseils des internautes. Pour cette première saison, Michel Fugain est parti à la découverte d'Israël. Les conseils des internautes l'ont amené à sillonner le pays : Jérusalem, Tel Aviv, Césarée ou encore la Galilée ou la mer morte. Chaque lieu visité est aussi l'occasion d'une rencontre riche en émotion.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_20:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210045500 +0100" stop="20151210065000 +0100">
+  <programme channel="TMC" start="20151209205500 +0100" stop="20151209225000 +0100">
     <length units="minutes">115</length>
     <title>Champs-Elysées : dans les coulisses de la plus belle avenue du monde</title>
     <category>Documentaire</category>
     <desc>Avec ses 25 millions de touristes qui foulent ses trottoirs chaque année, l'avenue des Champs-Elysées est considérée comme la plus belle du monde. C'est durant les fêtes de Noël qu'elle attire le plus de touristes. Mais la concurrence est de plus en plus rude. Il faut rivaliser avec les «adversaires» de toujours, comme la 5e avenue à New York et depuis peu avec Causeway Bay à Hong-Kong. Comment l'avenue la plus célèbre au monde parvient-elle à rester aussi populaire ? Découverte des coulisses des Champs-Elysées, des coulisses parfois insolites, comme avec ses escouades de nettoyeurs qui arpentent les trottoirs au lever du jour, ou luxueuses, au coeur des établissements les plus prestigieux. Que ce soit le Lido, le Fouquet's ou encorele parfumeur Guerlain, tous ont accepté d'ouvrir leurs portes, de révéler leurs secrets et leurs plans de bataille pour créer l'événement et permettre aux Champs-Elysées de rester la vitrine de Paris.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_20:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210065000 +0100" stop="20151210084000 +0100">
+  <programme channel="TMC" start="20151209225000 +0100" stop="20151210004000 +0100">
     <length units="minutes">110</length>
     <title>90' Enquêtes</title>
     <category>Magazine</category>
@@ -2804,7 +2804,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_10_22:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210084000 +0100" stop="20151210102000 +0100">
+  <programme channel="TMC" start="20151210004000 +0100" stop="20151210022000 +0100">
     <length units="minutes">100</length>
     <title>90' Enquêtes</title>
     <category>Magazine</category>
@@ -2814,7 +2814,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_00:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210102000 +0100" stop="20151210120500 +0100">
+  <programme channel="TMC" start="20151210022000 +0100" stop="20151210040500 +0100">
     <length units="minutes">105</length>
     <title>Intimes connexions</title>
     <category>Téléfilm</category>
@@ -2829,7 +2829,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_02:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210120500 +0100" stop="20151210123000 +0100">
+  <programme channel="TMC" start="20151210040500 +0100" stop="20151210043000 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2844,7 +2844,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_04:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210123000 +0100" stop="20151210125500 +0100">
+  <programme channel="TMC" start="20151210043000 +0100" stop="20151210045500 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2859,7 +2859,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_04:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210125500 +0100" stop="20151210132000 +0100">
+  <programme channel="TMC" start="20151210045500 +0100" stop="20151210052000 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2875,7 +2875,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_04:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210132000 +0100" stop="20151210134500 +0100">
+  <programme channel="TMC" start="20151210052000 +0100" stop="20151210054500 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2891,7 +2891,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_05:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210134500 +0100" stop="20151210140500 +0100">
+  <programme channel="TMC" start="20151210054500 +0100" stop="20151210060500 +0100">
     <length units="minutes">20</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2908,7 +2908,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_05:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210140500 +0100" stop="20151210144500 +0100">
+  <programme channel="TMC" start="20151210060500 +0100" stop="20151210064500 +0100">
     <length units="minutes">40</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -2925,21 +2925,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_06:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210144500 +0100" stop="20151210164500 +0100">
+  <programme channel="TMC" start="20151210064500 +0100" stop="20151210084500 +0100">
     <length units="minutes">120</length>
     <title>TV achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_06:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210164500 +0100" stop="20151210165000 +0100">
+  <programme channel="TMC" start="20151210084500 +0100" stop="20151210085000 +0100">
     <length units="minutes">5</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_08:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210165000 +0100" stop="20151210174000 +0100">
+  <programme channel="TMC" start="20151210085000 +0100" stop="20151210094000 +0100">
     <length units="minutes">50</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -2957,7 +2957,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_08:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210174000 +0100" stop="20151210193000 +0100">
+  <programme channel="TMC" start="20151210094000 +0100" stop="20151210113000 +0100">
     <length units="minutes">110</length>
     <title>Un mariage à Noël</title>
     <category>Téléfilm</category>
@@ -2975,7 +2975,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_09:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210193000 +0100" stop="20151210202500 +0100">
+  <programme channel="TMC" start="20151210113000 +0100" stop="20151210122500 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -2990,7 +2990,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_11:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210202500 +0100" stop="20151210212000 +0100">
+  <programme channel="TMC" start="20151210122500 +0100" stop="20151210132000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -3006,28 +3006,28 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_12:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210212000 +0100" stop="20151210212300 +0100">
+  <programme channel="TMC" start="20151210132000 +0100" stop="20151210132300 +0100">
     <length units="minutes">3</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_13:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210212300 +0100" stop="20151210212500 +0100">
+  <programme channel="TMC" start="20151210132300 +0100" stop="20151210132500 +0100">
     <length units="minutes">2</length>
     <title>TMC info</title>
     <category>Journal</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_13:23.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210212500 +0100" stop="20151210214000 +0100">
+  <programme channel="TMC" start="20151210132500 +0100" stop="20151210134000 +0100">
     <length units="minutes">15</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_13:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210214000 +0100" stop="20151210223000 +0100">
+  <programme channel="TMC" start="20151210134000 +0100" stop="20151210143000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -3045,7 +3045,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_13:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210223000 +0100" stop="20151210232000 +0100">
+  <programme channel="TMC" start="20151210143000 +0100" stop="20151210152000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -3063,7 +3063,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_14:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151210232000 +0100" stop="20151211001000 +0100">
+  <programme channel="TMC" start="20151210152000 +0100" stop="20151210161000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -3081,7 +3081,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_15:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211001000 +0100" stop="20151211010500 +0100">
+  <programme channel="TMC" start="20151210161000 +0100" stop="20151210170500 +0100">
     <length units="minutes">55</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -3099,7 +3099,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_16:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211010500 +0100" stop="20151211015500 +0100">
+  <programme channel="TMC" start="20151210170500 +0100" stop="20151210175500 +0100">
     <length units="minutes">50</length>
     <title>Monk</title>
     <category>Série</category>
@@ -3117,7 +3117,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_17:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211015500 +0100" stop="20151211025000 +0100">
+  <programme channel="TMC" start="20151210175500 +0100" stop="20151210185000 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -3135,7 +3135,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_17:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211025000 +0100" stop="20151211034500 +0100">
+  <programme channel="TMC" start="20151210185000 +0100" stop="20151210194500 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -3154,7 +3154,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_18:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211034500 +0100" stop="20151211044000 +0100">
+  <programme channel="TMC" start="20151210194500 +0100" stop="20151210204000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -3172,21 +3172,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_19:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211044000 +0100" stop="20151211044500 +0100">
+  <programme channel="TMC" start="20151210204000 +0100" stop="20151210204500 +0100">
     <length units="minutes">5</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_20:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211044500 +0100" stop="20151211045500 +0100">
+  <programme channel="TMC" start="20151210204500 +0100" stop="20151210205500 +0100">
     <length units="minutes">10</length>
     <title>The Perfect Vacation</title>
     <category>Magazine</category>
     <desc>Sans guide, sans carte, sans programme précis, une célébrité part pour des vacances, guidé uniquement par les conseils des internautes. Pour cette première saison, Michel Fugain est parti à la découverte d'Israël. Les conseils des internautes l'ont amené à sillonner le pays : Jérusalem, Tel Aviv, Césarée ou encore la Galilée ou la mer morte. Chaque lieu visité est aussi l'occasion d'une rencontre riche en émotion.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_20:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211045500 +0100" stop="20151211071500 +0100">
+  <programme channel="TMC" start="20151210205500 +0100" stop="20151210231500 +0100">
     <length units="minutes">140</length>
     <title>Coup de foudre à Notting Hill</title>
     <category>Film</category>
@@ -3206,14 +3206,14 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_20:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211071500 +0100" stop="20151211090500 +0100">
+  <programme channel="TMC" start="20151210231500 +0100" stop="20151211010500 +0100">
     <length units="minutes">110</length>
     <title>Mylène Farmer : sur les pas d'une icône</title>
     <category>Documentaire</category>
     <desc>De son premier album «Cendres de Lune» à «Interstellaires», son nouvel album, Mylène Farmer est devenue le symbole de toute une génération. Elle a réussi à percer dans le monde de la musique, en cultivant un certain goût pour la provocation, mais c'est sa part de mystère qui a fait d'elle l'une des artistes les plus demandées en France. De nombreuses personnalités ont accepté de raconter leurs plus belles expériences aux côtés de Mylène. Parmi eux Sting, qui collabore avec elle sur son dernier album «Interstellaires», Martin Kieszenbaum, le producteur de l'album, et Thierry Suc, son manager et producteur depuis ses débuts.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_10_23:15.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211090500 +0100" stop="20151211105500 +0100">
+  <programme channel="TMC" start="20151211010500 +0100" stop="20151211025500 +0100">
     <length units="minutes">110</length>
     <title>90' Enquêtes</title>
     <category>Magazine</category>
@@ -3223,7 +3223,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_01:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211105500 +0100" stop="20151211124000 +0100">
+  <programme channel="TMC" start="20151211025500 +0100" stop="20151211044000 +0100">
     <length units="minutes">105</length>
     <title>La dernière fille</title>
     <category>Téléfilm</category>
@@ -3240,7 +3240,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_02:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211124000 +0100" stop="20151211130500 +0100">
+  <programme channel="TMC" start="20151211044000 +0100" stop="20151211050500 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -3256,7 +3256,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_04:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211130500 +0100" stop="20151211133000 +0100">
+  <programme channel="TMC" start="20151211050500 +0100" stop="20151211053000 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -3272,7 +3272,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_05:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211133000 +0100" stop="20151211135000 +0100">
+  <programme channel="TMC" start="20151211053000 +0100" stop="20151211055000 +0100">
     <length units="minutes">20</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -3289,7 +3289,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_05:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211135000 +0100" stop="20151211144500 +0100">
+  <programme channel="TMC" start="20151211055000 +0100" stop="20151211064500 +0100">
     <length units="minutes">55</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -3306,21 +3306,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_05:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211144500 +0100" stop="20151211164500 +0100">
+  <programme channel="TMC" start="20151211064500 +0100" stop="20151211084500 +0100">
     <length units="minutes">120</length>
     <title>TV achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_06:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211164500 +0100" stop="20151211165000 +0100">
+  <programme channel="TMC" start="20151211084500 +0100" stop="20151211085000 +0100">
     <length units="minutes">5</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_08:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211165000 +0100" stop="20151211174000 +0100">
+  <programme channel="TMC" start="20151211085000 +0100" stop="20151211094000 +0100">
     <length units="minutes">50</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -3338,7 +3338,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_08:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211174000 +0100" stop="20151211192500 +0100">
+  <programme channel="TMC" start="20151211094000 +0100" stop="20151211112500 +0100">
     <length units="minutes">105</length>
     <title>Ma famille en cadeau</title>
     <category>Téléfilm</category>
@@ -3356,7 +3356,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_09:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211192500 +0100" stop="20151211202500 +0100">
+  <programme channel="TMC" start="20151211112500 +0100" stop="20151211122500 +0100">
     <length units="minutes">60</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -3371,7 +3371,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_11:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211202500 +0100" stop="20151211212000 +0100">
+  <programme channel="TMC" start="20151211122500 +0100" stop="20151211132000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -3386,28 +3386,28 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_12:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211212000 +0100" stop="20151211212300 +0100">
+  <programme channel="TMC" start="20151211132000 +0100" stop="20151211132300 +0100">
     <length units="minutes">3</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_13:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211212300 +0100" stop="20151211212500 +0100">
+  <programme channel="TMC" start="20151211132300 +0100" stop="20151211132500 +0100">
     <length units="minutes">2</length>
     <title>TMC info</title>
     <category>Journal</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_13:23.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211212500 +0100" stop="20151211214000 +0100">
+  <programme channel="TMC" start="20151211132500 +0100" stop="20151211134000 +0100">
     <length units="minutes">15</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_13:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211214000 +0100" stop="20151211223000 +0100">
+  <programme channel="TMC" start="20151211134000 +0100" stop="20151211143000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -3425,7 +3425,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_13:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211223000 +0100" stop="20151211232000 +0100">
+  <programme channel="TMC" start="20151211143000 +0100" stop="20151211152000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -3443,7 +3443,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_14:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151211232000 +0100" stop="20151212001000 +0100">
+  <programme channel="TMC" start="20151211152000 +0100" stop="20151211161000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -3461,7 +3461,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_15:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212001000 +0100" stop="20151212010500 +0100">
+  <programme channel="TMC" start="20151211161000 +0100" stop="20151211170500 +0100">
     <length units="minutes">55</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -3479,7 +3479,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_16:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212010500 +0100" stop="20151212015500 +0100">
+  <programme channel="TMC" start="20151211170500 +0100" stop="20151211175500 +0100">
     <length units="minutes">50</length>
     <title>Monk</title>
     <category>Série</category>
@@ -3497,7 +3497,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_17:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212015500 +0100" stop="20151212025000 +0100">
+  <programme channel="TMC" start="20151211175500 +0100" stop="20151211185000 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -3515,7 +3515,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_17:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212025000 +0100" stop="20151212034500 +0100">
+  <programme channel="TMC" start="20151211185000 +0100" stop="20151211194500 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -3533,7 +3533,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_18:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212034500 +0100" stop="20151212044000 +0100">
+  <programme channel="TMC" start="20151211194500 +0100" stop="20151211204000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -3551,21 +3551,21 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_19:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212044000 +0100" stop="20151212044500 +0100">
+  <programme channel="TMC" start="20151211204000 +0100" stop="20151211204500 +0100">
     <length units="minutes">5</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_20:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212044500 +0100" stop="20151212045500 +0100">
+  <programme channel="TMC" start="20151211204500 +0100" stop="20151211205500 +0100">
     <length units="minutes">10</length>
     <title>The Perfect Vacation</title>
     <category>Magazine</category>
     <desc>Sans guide, sans carte, sans programme précis, une célébrité part pour des vacances, guidé uniquement par les conseils des internautes. Pour cette première saison, Michel Fugain est parti à la découverte d'Israël. Les conseils des internautes l'ont amené à sillonner le pays : Jérusalem, Tel Aviv, Césarée ou encore la Galilée ou la mer morte. Chaque lieu visité est aussi l'occasion d'une rencontre riche en émotion.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_20:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212045500 +0100" stop="20151212055000 +0100">
+  <programme channel="TMC" start="20151211205500 +0100" stop="20151211215000 +0100">
     <length units="minutes">55</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -3583,7 +3583,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_20:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212055000 +0100" stop="20151212064500 +0100">
+  <programme channel="TMC" start="20151211215000 +0100" stop="20151211224500 +0100">
     <length units="minutes">55</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -3601,7 +3601,7 @@
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_21:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212064500 +0100" stop="20151212073500 +0100">
+  <programme channel="TMC" start="20151211224500 +0100" stop="20151211233500 +0100">
     <length units="minutes">50</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -3622,7 +3622,7 @@ Valérie Hurier</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_22:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212073500 +0100" stop="20151212083000 +0100">
+  <programme channel="TMC" start="20151211233500 +0100" stop="20151212003000 +0100">
     <length units="minutes">55</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -3640,7 +3640,7 @@ Valérie Hurier</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_10_23:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212083000 +0100" stop="20151212092000 +0100">
+  <programme channel="TMC" start="20151212003000 +0100" stop="20151212012000 +0100">
     <length units="minutes">50</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -3658,7 +3658,7 @@ Valérie Hurier</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_00:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212092000 +0100" stop="20151212100500 +0100">
+  <programme channel="TMC" start="20151212012000 +0100" stop="20151212020500 +0100">
     <length units="minutes">45</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -3680,7 +3680,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_01:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212100500 +0100" stop="20151212110000 +0100">
+  <programme channel="TMC" start="20151212020500 +0100" stop="20151212030000 +0100">
     <length units="minutes">55</length>
     <title>Close to Home</title>
     <category>Série</category>
@@ -3698,7 +3698,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_02:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212110000 +0100" stop="20151212124000 +0100">
+  <programme channel="TMC" start="20151212030000 +0100" stop="20151212044000 +0100">
     <length units="minutes">100</length>
     <title>Laura ou une sensuelle rencontre</title>
     <category>Téléfilm</category>
@@ -3717,7 +3717,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_03:00.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212124000 +0100" stop="20151212130500 +0100">
+  <programme channel="TMC" start="20151212044000 +0100" stop="20151212050500 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -3733,7 +3733,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_04:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212130500 +0100" stop="20151212132500 +0100">
+  <programme channel="TMC" start="20151212050500 +0100" stop="20151212052500 +0100">
     <length units="minutes">20</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -3750,7 +3750,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_05:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212132500 +0100" stop="20151212135000 +0100">
+  <programme channel="TMC" start="20151212052500 +0100" stop="20151212055000 +0100">
     <length units="minutes">25</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -3767,7 +3767,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_05:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212135000 +0100" stop="20151212143500 +0100">
+  <programme channel="TMC" start="20151212055000 +0100" stop="20151212063500 +0100">
     <length units="minutes">45</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -3784,21 +3784,21 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_05:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212143500 +0100" stop="20151212144500 +0100">
+  <programme channel="TMC" start="20151212063500 +0100" stop="20151212064500 +0100">
     <length units="minutes">10</length>
     <title>Monacoscope</title>
     <category>Magazine</category>
     <desc>Dix minutes pour faire, en images, le tour d'horizon des événements marquants de la semaine en Principauté. De l'inauguration d'un nouveau yacht au vernissage de la dernière exposition du Grimaldi Forum, rien n'échappe au Monacoscope.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_06:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212144500 +0100" stop="20151212165000 +0100">
+  <programme channel="TMC" start="20151212064500 +0100" stop="20151212085000 +0100">
     <length units="minutes">125</length>
     <title>TV achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_06:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212165000 +0100" stop="20151212173500 +0100">
+  <programme channel="TMC" start="20151212085000 +0100" stop="20151212093500 +0100">
     <length units="minutes">45</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -3816,7 +3816,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_08:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212173500 +0100" stop="20151212183000 +0100">
+  <programme channel="TMC" start="20151212093500 +0100" stop="20151212103000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -3834,7 +3834,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_09:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212183000 +0100" stop="20151212193000 +0100">
+  <programme channel="TMC" start="20151212103000 +0100" stop="20151212113000 +0100">
     <length units="minutes">60</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -3852,7 +3852,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_10:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212193000 +0100" stop="20151212202500 +0100">
+  <programme channel="TMC" start="20151212113000 +0100" stop="20151212122500 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -3870,7 +3870,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_11:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212202500 +0100" stop="20151212212000 +0100">
+  <programme channel="TMC" start="20151212122500 +0100" stop="20151212132000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -3888,21 +3888,21 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_12:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212212000 +0100" stop="20151212212500 +0100">
+  <programme channel="TMC" start="20151212132000 +0100" stop="20151212132500 +0100">
     <length units="minutes">5</length>
     <title>TMC info</title>
     <category>Journal</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_13:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212212500 +0100" stop="20151212213000 +0100">
+  <programme channel="TMC" start="20151212132500 +0100" stop="20151212133000 +0100">
     <length units="minutes">5</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_13:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212213000 +0100" stop="20151212223000 +0100">
+  <programme channel="TMC" start="20151212133000 +0100" stop="20151212143000 +0100">
     <length units="minutes">60</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -3920,7 +3920,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_13:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212223000 +0100" stop="20151212232000 +0100">
+  <programme channel="TMC" start="20151212143000 +0100" stop="20151212152000 +0100">
     <length units="minutes">50</length>
     <title>Les experts : Miami</title>
     <category>Série</category>
@@ -3938,7 +3938,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_14:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151212232000 +0100" stop="20151213001000 +0100">
+  <programme channel="TMC" start="20151212152000 +0100" stop="20151212161000 +0100">
     <length units="minutes">50</length>
     <title>Monk</title>
     <category>Série</category>
@@ -3957,7 +3957,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_15:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213001000 +0100" stop="20151213010500 +0100">
+  <programme channel="TMC" start="20151212161000 +0100" stop="20151212170500 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -3975,7 +3975,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_16:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213010500 +0100" stop="20151213015500 +0100">
+  <programme channel="TMC" start="20151212170500 +0100" stop="20151212175500 +0100">
     <length units="minutes">50</length>
     <title>Monk</title>
     <category>Série</category>
@@ -3993,7 +3993,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_17:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213015500 +0100" stop="20151213025000 +0100">
+  <programme channel="TMC" start="20151212175500 +0100" stop="20151212185000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -4010,7 +4010,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_17:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213025000 +0100" stop="20151213034500 +0100">
+  <programme channel="TMC" start="20151212185000 +0100" stop="20151212194500 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -4027,7 +4027,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_18:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213034500 +0100" stop="20151213045000 +0100">
+  <programme channel="TMC" start="20151212194500 +0100" stop="20151212205000 +0100">
     <length units="minutes">65</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -4044,14 +4044,14 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_19:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213045000 +0100" stop="20151213045500 +0100">
+  <programme channel="TMC" start="20151212205000 +0100" stop="20151212205500 +0100">
     <length units="minutes">5</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_20:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213045500 +0100" stop="20151213060000 +0100">
+  <programme channel="TMC" start="20151212205500 +0100" stop="20151212220000 +0100">
     <length units="minutes">65</length>
     <title>Downton Abbey</title>
     <category>Série</category>
@@ -4069,7 +4069,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_20:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213060000 +0100" stop="20151213071000 +0100">
+  <programme channel="TMC" start="20151212220000 +0100" stop="20151212231000 +0100">
     <length units="minutes">70</length>
     <title>Downton Abbey</title>
     <category>Série</category>
@@ -4088,7 +4088,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_22:00.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213071000 +0100" stop="20151213082500 +0100">
+  <programme channel="TMC" start="20151212231000 +0100" stop="20151213002500 +0100">
     <length units="minutes">75</length>
     <title>Downton Abbey</title>
     <category>Série</category>
@@ -4107,7 +4107,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_10_23:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213082500 +0100" stop="20151213092500 +0100">
+  <programme channel="TMC" start="20151213002500 +0100" stop="20151213012500 +0100">
     <length units="minutes">60</length>
     <title>Downton Abbey</title>
     <category>Série</category>
@@ -4126,7 +4126,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_00:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213092500 +0100" stop="20151213102000 +0100">
+  <programme channel="TMC" start="20151213012500 +0100" stop="20151213022000 +0100">
     <length units="minutes">55</length>
     <title>New York, section criminelle</title>
     <category>Série</category>
@@ -4144,7 +4144,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_01:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213102000 +0100" stop="20151213121000 +0100">
+  <programme channel="TMC" start="20151213022000 +0100" stop="20151213041000 +0100">
     <length units="minutes">110</length>
     <title>Manuela ou l'impossible plaisir</title>
     <category>Téléfilm</category>
@@ -4162,7 +4162,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_02:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213121000 +0100" stop="20151213130000 +0100">
+  <programme channel="TMC" start="20151213041000 +0100" stop="20151213050000 +0100">
     <length units="minutes">50</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -4179,7 +4179,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_04:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213130000 +0100" stop="20151213134500 +0100">
+  <programme channel="TMC" start="20151213050000 +0100" stop="20151213054500 +0100">
     <length units="minutes">45</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -4196,7 +4196,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_05:00.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213134500 +0100" stop="20151213143500 +0100">
+  <programme channel="TMC" start="20151213054500 +0100" stop="20151213063500 +0100">
     <length units="minutes">50</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -4213,7 +4213,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_05:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213143500 +0100" stop="20151213153000 +0100">
+  <programme channel="TMC" start="20151213063500 +0100" stop="20151213073000 +0100">
     <length units="minutes">55</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -4230,14 +4230,14 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_06:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213153000 +0100" stop="20151213153500 +0100">
+  <programme channel="TMC" start="20151213073000 +0100" stop="20151213073500 +0100">
     <length units="minutes">5</length>
     <title>Monacoscope</title>
     <category>Magazine</category>
     <desc>Dix minutes pour faire, en images, le tour d'horizon des événements marquants de la semaine en Principauté. De l'inauguration d'un nouveau yacht au vernissage de la dernière exposition du Grimaldi Forum, rien n'échappe au Monacoscope.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_07:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213153500 +0100" stop="20151213163500 +0100">
+  <programme channel="TMC" start="20151213073500 +0100" stop="20151213083500 +0100">
     <length units="minutes">60</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -4254,7 +4254,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_07:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213163500 +0100" stop="20151213174000 +0100">
+  <programme channel="TMC" start="20151213083500 +0100" stop="20151213094000 +0100">
     <length units="minutes">65</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -4271,7 +4271,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_08:35.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213174000 +0100" stop="20151213182500 +0100">
+  <programme channel="TMC" start="20151213094000 +0100" stop="20151213102500 +0100">
     <length units="minutes">45</length>
     <title>American Wives</title>
     <category>Série</category>
@@ -4289,7 +4289,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_09:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213182500 +0100" stop="20151213191500 +0100">
+  <programme channel="TMC" start="20151213102500 +0100" stop="20151213111500 +0100">
     <length units="minutes">50</length>
     <title>American Wives</title>
     <category>Série</category>
@@ -4307,7 +4307,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_10:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213191500 +0100" stop="20151213200500 +0100">
+  <programme channel="TMC" start="20151213111500 +0100" stop="20151213120500 +0100">
     <length units="minutes">50</length>
     <title>American Wives</title>
     <category>Série</category>
@@ -4325,7 +4325,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_11:15.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213200500 +0100" stop="20151213210000 +0100">
+  <programme channel="TMC" start="20151213120500 +0100" stop="20151213130000 +0100">
     <length units="minutes">55</length>
     <title>American Wives</title>
     <category>Série</category>
@@ -4343,21 +4343,21 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_12:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213210000 +0100" stop="20151213210500 +0100">
+  <programme channel="TMC" start="20151213130000 +0100" stop="20151213130500 +0100">
     <length units="minutes">5</length>
     <title>TMC info</title>
     <category>Journal</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_13:00.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213210500 +0100" stop="20151213211000 +0100">
+  <programme channel="TMC" start="20151213130500 +0100" stop="20151213131000 +0100">
     <length units="minutes">5</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_13:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213211000 +0100" stop="20151213224000 +0100">
+  <programme channel="TMC" start="20151213131000 +0100" stop="20151213144000 +0100">
     <length units="minutes">90</length>
     <title>Appelez-moi le père Noël !</title>
     <category>Téléfilm</category>
@@ -4378,7 +4378,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_13:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151213224000 +0100" stop="20151214002000 +0100">
+  <programme channel="TMC" start="20151213144000 +0100" stop="20151213162000 +0100">
     <length units="minutes">100</length>
     <title>Dernier Noël avant l'Apocalypse</title>
     <category>Téléfilm</category>
@@ -4396,7 +4396,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_14:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214002000 +0100" stop="20151214020000 +0100">
+  <programme channel="TMC" start="20151213162000 +0100" stop="20151213180000 +0100">
     <length units="minutes">100</length>
     <title>L'enfer de glace</title>
     <category>Téléfilm</category>
@@ -4414,7 +4414,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_16:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214020000 +0100" stop="20151214034500 +0100">
+  <programme channel="TMC" start="20151213180000 +0100" stop="20151213194500 +0100">
     <length units="minutes">105</length>
     <title>Une femme d'honneur</title>
     <category>Téléfilm</category>
@@ -4434,7 +4434,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_18:00.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214034500 +0100" stop="20151214045000 +0100">
+  <programme channel="TMC" start="20151213194500 +0100" stop="20151213205000 +0100">
     <length units="minutes">65</length>
     <title>Les mystères de l'amour</title>
     <category>Série</category>
@@ -4451,14 +4451,14 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_19:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214045000 +0100" stop="20151214045500 +0100">
+  <programme channel="TMC" start="20151213205000 +0100" stop="20151213205500 +0100">
     <length units="minutes">5</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_20:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214045500 +0100" stop="20151214071500 +0100">
+  <programme channel="TMC" start="20151213205500 +0100" stop="20151213231500 +0100">
     <length units="minutes">140</length>
     <title>Oblivion</title>
     <category>Film</category>
@@ -4480,7 +4480,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_20:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214071500 +0100" stop="20151214094500 +0100">
+  <programme channel="TMC" start="20151213231500 +0100" stop="20151214014500 +0100">
     <length units="minutes">150</length>
     <title>Les 30 histoires</title>
     <category>Divertissement</category>
@@ -4491,7 +4491,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_10_23:15.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214094500 +0100" stop="20151214120500 +0100">
+  <programme channel="TMC" start="20151214014500 +0100" stop="20151214040500 +0100">
     <length units="minutes">140</length>
     <title>Les 30 histoires</title>
     <category>Divertissement</category>
@@ -4503,7 +4503,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_01:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214120500 +0100" stop="20151214140000 +0100">
+  <programme channel="TMC" start="20151214040500 +0100" stop="20151214060000 +0100">
     <length units="minutes">115</length>
     <title>La maison de Nina</title>
     <category>Film</category>
@@ -4523,14 +4523,14 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_04:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214140000 +0100" stop="20151214140500 +0100">
+  <programme channel="TMC" start="20151214060000 +0100" stop="20151214060500 +0100">
     <length units="minutes">5</length>
     <title>Programmes de la nuit</title>
     <category>Émission</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_06:00.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214140500 +0100" stop="20151214144500 +0100">
+  <programme channel="TMC" start="20151214060500 +0100" stop="20151214064500 +0100">
     <length units="minutes">40</length>
     <title>Les filles d'à côté</title>
     <category>Série</category>
@@ -4547,21 +4547,21 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_06:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214144500 +0100" stop="20151214164500 +0100">
+  <programme channel="TMC" start="20151214064500 +0100" stop="20151214084500 +0100">
     <length units="minutes">120</length>
     <title>TV achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_06:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214164500 +0100" stop="20151214165000 +0100">
+  <programme channel="TMC" start="20151214084500 +0100" stop="20151214085000 +0100">
     <length units="minutes">5</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_08:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214165000 +0100" stop="20151214174000 +0100">
+  <programme channel="TMC" start="20151214085000 +0100" stop="20151214094000 +0100">
     <length units="minutes">50</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -4579,7 +4579,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_08:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214174000 +0100" stop="20151214192500 +0100">
+  <programme channel="TMC" start="20151214094000 +0100" stop="20151214112500 +0100">
     <length units="minutes">105</length>
     <title>L'invité de Noël</title>
     <category>Téléfilm</category>
@@ -4598,7 +4598,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_09:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214192500 +0100" stop="20151214202500 +0100">
+  <programme channel="TMC" start="20151214112500 +0100" stop="20151214122500 +0100">
     <length units="minutes">60</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -4614,7 +4614,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_11:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214202500 +0100" stop="20151214212000 +0100">
+  <programme channel="TMC" start="20151214122500 +0100" stop="20151214132000 +0100">
     <length units="minutes">55</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -4629,28 +4629,28 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_12:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214212000 +0100" stop="20151214212300 +0100">
+  <programme channel="TMC" start="20151214132000 +0100" stop="20151214132300 +0100">
     <length units="minutes">3</length>
     <title>Je peux le faire !</title>
     <category>Magazine</category>
     <desc>Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_13:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214212300 +0100" stop="20151214212500 +0100">
+  <programme channel="TMC" start="20151214132300 +0100" stop="20151214132500 +0100">
     <length units="minutes">2</length>
     <title>TMC info</title>
     <category>Journal</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_13:23.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214212500 +0100" stop="20151214214000 +0100">
+  <programme channel="TMC" start="20151214132500 +0100" stop="20151214134000 +0100">
     <length units="minutes">15</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_13:25.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214214000 +0100" stop="20151214223000 +0100">
+  <programme channel="TMC" start="20151214134000 +0100" stop="20151214143000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -4668,7 +4668,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_13:40.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214223000 +0100" stop="20151214232000 +0100">
+  <programme channel="TMC" start="20151214143000 +0100" stop="20151214152000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -4686,7 +4686,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_14:30.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151214232000 +0100" stop="20151215001000 +0100">
+  <programme channel="TMC" start="20151214152000 +0100" stop="20151214161000 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -4704,7 +4704,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_15:20.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151215001000 +0100" stop="20151215010500 +0100">
+  <programme channel="TMC" start="20151214161000 +0100" stop="20151214170500 +0100">
     <length units="minutes">55</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -4722,7 +4722,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_16:10.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151215010500 +0100" stop="20151215015500 +0100">
+  <programme channel="TMC" start="20151214170500 +0100" stop="20151214175500 +0100">
     <length units="minutes">50</length>
     <title>Monk</title>
     <category>Série</category>
@@ -4740,7 +4740,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_17:05.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151215015500 +0100" stop="20151215025000 +0100">
+  <programme channel="TMC" start="20151214175500 +0100" stop="20151214185000 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -4758,7 +4758,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_17:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151215025000 +0100" stop="20151215034500 +0100">
+  <programme channel="TMC" start="20151214185000 +0100" stop="20151214194500 +0100">
     <length units="minutes">55</length>
     <title>Monk</title>
     <category>Série</category>
@@ -4776,7 +4776,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_18:50.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151215034500 +0100" stop="20151215044500 +0100">
+  <programme channel="TMC" start="20151214194500 +0100" stop="20151214204500 +0100">
     <length units="minutes">60</length>
     <title>Alerte Cobra</title>
     <category>Série</category>
@@ -4794,14 +4794,14 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_19:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151215044500 +0100" stop="20151215045500 +0100">
+  <programme channel="TMC" start="20151214204500 +0100" stop="20151214205500 +0100">
     <length units="minutes">10</length>
     <title>TMC Météo</title>
     <category>Météo</category>
     <desc />
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_20:45.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151215045500 +0100" stop="20151215065000 +0100">
+  <programme channel="TMC" start="20151214205500 +0100" stop="20151214225000 +0100">
     <length units="minutes">115</length>
     <title>Die Hard : belle journée pour mourir</title>
     <category>Film</category>
@@ -4821,7 +4821,7 @@ Hugo Cassavetti</desc>
     </credits>
     <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_10_20:55.jpg</image>
   </programme>
-  <programme channel="pizza" start="20151215065000 +0100" stop="20151215084500 +0100">
+  <programme channel="TMC" start="20151214225000 +0100" stop="20151215004500 +0100">
     <length units="minutes">115</length>
     <title>La colère des titans</title>
     <category>Film</category>

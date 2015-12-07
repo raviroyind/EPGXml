@@ -62,7 +62,7 @@ namespace XmlParser
         protected void btnGetenerate_OnClick(object sender, EventArgs e)
         {
             _sourceXmlList.Clear();
-            _outputXmlList.Clear();
+             _outputXmlList.Clear();
             _additionalOutputXmlList.Clear();
             lblMsg.Text = "";
             grid.InnerHtml = "";
@@ -707,9 +707,12 @@ namespace XmlParser
                 ClearDirectory(HttpContext.Current.Server.MapPath(@"../ZipArchives/"));
                 var localFile = HttpContext.Current.Server.MapPath(DownloadFile(url, ".zip"));
                 var zip = ZipFile.Read(localFile);
+                 
+                var hasFolder = zip.Any(entry => entry.FileName.Contains("/"));
+                 
                 zip.ExtractAll(HttpContext.Current.Server.MapPath(@"../ZipArchives/"), ExtractExistingFileAction.OverwriteSilently);
 
-                var files = Directory.GetFiles(HttpContext.Current.Server.MapPath(@"../ZipArchives/" + Path.GetFileNameWithoutExtension(localFile)), "*.xml", SearchOption.TopDirectoryOnly);
+                var files = Directory.GetFiles(HttpContext.Current.Server.MapPath(@"../ZipArchives/" + (hasFolder?Path.GetFileNameWithoutExtension(localFile):"")), "*.xml", SearchOption.TopDirectoryOnly);
 
                 foreach (var xmlFile in files)
                 {
@@ -750,13 +753,13 @@ namespace XmlParser
         /// <param name="outputDirectory"></param>
         private void ExtractFileToDirectory(string zipFileName, string outputDirectory)
         {
-            //ClearDirectory(outputDirectory);
-
             var zip = ZipFile.Read(Server.MapPath(zipFileName));
             zip.ExtractAll(outputDirectory, ExtractExistingFileAction.OverwriteSilently);
 
-            var files = Directory.GetFiles(outputDirectory + Path.GetFileNameWithoutExtension(zipFileName), "*.xml", SearchOption.TopDirectoryOnly);
-
+            var hasFolder = zip.Any(entry => entry.FileName.Contains("/"));
+             
+            var files = Directory.GetFiles(outputDirectory + (hasFolder ? Path.GetFileNameWithoutExtension(zipFileName) : ""), "*.xml", SearchOption.TopDirectoryOnly);
+             
             foreach (var xmlFile in files)
             {
                 _sourceXmlList.Add(xmlFile);
