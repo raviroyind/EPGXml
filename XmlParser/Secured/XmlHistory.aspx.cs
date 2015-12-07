@@ -19,12 +19,13 @@ namespace XmlParser.Secured
         protected void Page_Load(object sender, EventArgs e)
         {
             //Hard Coding session keys to enable outsite access to this page.
+            //##############################################################//
             if (Session["USR_TYPE"] == null)
                 Session.Add("USR_TYPE", "Admin");
 
             if (Session["USER_KEY"] == null)
                 Session.Add("USER_KEY", "admin");
-            //
+            //##############################################################//
 
             if (!IsPostBack)
             {
