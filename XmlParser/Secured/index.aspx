@@ -286,9 +286,9 @@
                                                                                             EditText="Edit" ShowEditButton="true"
                                                                                             CancelImageUrl="../CSS/cancel.png" CancelText="Cancel"
                                                                                             UpdateImageUrl="../CSS/Save.png" ValidationGroup="grid"
-                                                                                            CausesValidation="True" UpdateText="Save"
+                                                                                            CausesValidation="True" UpdateText="Save" 
                                                                                             ShowDeleteButton="true" ItemStyle-Width="140">
-                                                                                            <ItemStyle HorizontalAlign="Right" />
+                                                                                            <ItemStyle HorizontalAlign="Right" Wrap="False" />
 
                                                                                         </asp:CommandField>
                                                                                         <asp:TemplateField HeaderText="" ItemStyle-Width="120">
