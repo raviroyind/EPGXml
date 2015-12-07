@@ -16,16 +16,16 @@
             <!-- Header -->
             <header>
                 <nav class="navbar navbar-inverse" style="height: 45px; width: 100%; padding: 0 0 0 0; background-color: #2f3334;">
-                    <div id="branding" style="width: 100%;">
-
-                        <span style="color: #ffffff; font-size: 18px; padding-left: 10px;">Xml Generation</span>
+                   <div id="branding" style="width: 100%;">
+                        <span style="color: #ffffff; font-size: 18px; padding-left: 10px; border-right: 1px solid #2f3334; padding-top: 10px;">Xml Generation</span>
                         <div class="pull-right" style="color: #ffffff; padding-right: 10px;">
-                            <asp:Label ID="lblUser" runat="server"></asp:Label>
-                            <i class="clearfix"></i>
+                            <i class="glyphicon glyphicon-user"></i><asp:Label ID="lblUser" runat="server"></asp:Label><br/>
+                            <div style="text-align: right;"> 
+                            <i class="glyphicon glyphicon-log-out"></i>
                             <asp:HyperLink runat="server" ID="hypUser" NavigateUrl="../default.aspx?id=lg" Text="Logout"></asp:HyperLink>
+                                </div>
                         </div>
                     </div>
-
                     <div class="header-content header-content-first">
                         <div class="header-column icon">
                             <i class="icon-time"></i>
@@ -155,13 +155,13 @@
                                 <asp:HyperLink runat="server" CssClass="user-links" ID="hypHome" NavigateUrl="../Admin/Dashboard.aspx" Text="Home"></asp:HyperLink>
                             </li>
                             <li>
-                                <a href="../Secured/index.aspx" class="bold info">Xml Generation</a>
+                                <a href="../Secured/index.aspx" class="user-links">Xml Generation</a>
                             </li>
                             <li>
                                 <a href="../Secured/XmlHistory.aspx" class="user-links">View Output Xmls</a>
                             </li>
                             <li>
-                                <a href="ChannelSelection.aspx" class="user-links">Channel Selection</a>
+                                <a href="ChannelSelection.aspx" class="bold info">Channel Selection</a>
                             </li>
                         </ul>
                     </div>

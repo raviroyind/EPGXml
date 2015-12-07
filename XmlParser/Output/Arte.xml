@@ -1,364 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Arte">
-    <display-name>MTV</display-name>
+    <display-name>burger</display-name>
   </channel>
-  <programme channel="MTV" start="20151206060000 +0100" stop="20151206065500 +0100">
-    <length units="minutes">55</length>
-    <title>Lollapalooza Berlin 2015</title>
-    <category>Concert</category>
-    <desc>Muse, Macklemore &amp; Ryan Lewis Le Lollapalooza Festival a été créé aux Etats-Unis en 1991 et a réuni au fil du temps les grands noms de la pop et du rock. Il s'est transporté... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206065500 +0100" stop="20151206084500 +0100">
-    <length units="minutes">110</length>
-    <title>Frenzy (?)</title>
-    <category>Film</category>
-    <desc>Pendant le discours d'un ministre se flattant... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Alfred Hitchcock</name>
-      <name function="actor">Vivien Merchant</name>
-      <name function="actor">Anna Massey</name>
-      <name function="actor">Alec McCowen</name>
-      <name function="actor">Jon Finch</name>
-      <name function="actor">Bernard Cribbins</name>
-      <name function="actor">Billie Whitelaw</name>
-      <name function="actor">Barry Foster</name>
-      <name function="actor">Barbara Leigh-Hunt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206084500 +0100" stop="20151206102000 +0100">
-    <length units="minutes">95</length>
-    <title>Un tour du monde à vol d'oiseau</title>
-    <category>Documentaire</category>
-    <desc>Au fil des quatre saisons, John Downer et ses équipes ont suivi les grandes migrations des oiseaux à travers les cinq continents. Grâce à des... (Lire la suite).</desc>
-    <credits>
-      <name function="director">John Downer</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206102000 +0100" stop="20151206104500 +0100">
-    <length units="minutes">25</length>
-    <title>Voyage aux Amériques</title>
-    <category>Documentaire</category>
-    <desc>A 400 kilomètres de Salvador, loin des plages tropicales, déferlent les chaînes montagneuses, les lacs et les cascades de la Chapada... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Daniel Duncan</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206104500 +0100" stop="20151206110000 +0100">
-    <length units="minutes">15</length>
-    <title>Fin des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206110000 +0100" stop="20151206121000 +0100">
-    <length units="minutes">70</length>
-    <title>Court-circuit</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : Mon ange - Un court métrage allemand réalisé par Miriam Bliese en 2013, avec Irina Vinogradova, Yekaterina Medvedeva. Une véritable... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206121000 +0100" stop="20151206130500 +0100">
-    <length units="minutes">55</length>
-    <title>Inondation !</title>
-    <category>Documentaire</category>
-    <desc>Pluies diluviennes, régions englouties sous les eaux, flots de boue destructeurs : les informations rappellent avec une régularité dramatique le... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Tilman Jens</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206130500 +0100" stop="20151206140000 +0100">
-    <length units="minutes">55</length>
-    <title>Le plastique</title>
-    <category>Documentaire</category>
-    <desc>Chaque année, l'humanité déverse six millions de tonnes de plastique dans les mers. L'océanographe et militant écologiste Markus Eriksen sillonne... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Max Mönch,</name>
-      <name function="director">Friedemann Hottenbacher</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206140000 +0100" stop="20151206142500 +0100">
-    <length units="minutes">25</length>
-    <title>Passe me voir !</title>
-    <category>Documentaire</category>
-    <desc>Todd, 6 ans, vit avec sa famille, des éleveurs, dans l'immense désert rouge au coeur de l'Australie ; il fréquente une école virtuelle, située à... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Cordula Henne</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206142500 +0100" stop="20151206144000 +0100">
-    <length units="minutes">15</length>
-    <title>Je voudrais devenir...</title>
-    <category>Documentaire</category>
-    <desc>Mark, un fauconnier, élève et soigne des oiseaux de proie, et leur apprend un certain nombre de tâches, car les rapaces aident à la chasse et à... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Benoit Van Wambeke</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206144000 +0100" stop="20151206150500 +0100">
-    <length units="minutes">25</length>
-    <title>La fille du boucher (?)</title>
-    <category>Film</category>
-    <desc>Pour plaire à un garçon, une petite fille,... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Tim Klaasse</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206150500 +0100" stop="20151206152000 +0100">
-    <length units="minutes">15</length>
-    <title>Arte journal junior</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Carolyn Höfchen,</name>
-      <name function="presenter">Dorothee Haffner,</name>
-      <name function="presenter">Magali Kreuzer,</name>
-      <name function="presenter">Frank Rauschendorf</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206152000 +0100" stop="20151206165000 +0100">
-    <length units="minutes">90</length>
-    <title>Miss Sixty (?)</title>
-    <category>Film</category>
-    <desc>Luise Jansen, biologiste moléculaire renommée, (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Sigrid Hoerner</name>
-      <name function="actor">Edgar Selge</name>
-      <name function="actor">Iris Berben</name>
-      <name function="actor">Michael Gwisdek</name>
-      <name function="actor">Götz Schubert</name>
-      <name function="actor">Kirsten Block</name>
-      <name function="actor">Carmen-Maja Antoni</name>
-      <name function="actor">Jördis Richter</name>
-      <name function="actor">Björn von der Wellen</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206165000 +0100" stop="20151206172000 +0100">
-    <length units="minutes">30</length>
-    <title>Voyage aux Amériques</title>
-    <category>Documentaire</category>
-    <desc>A 400 kilomètres de Salvador, loin des plages tropicales, déferlent les chaînes montagneuses, les lacs et les cascades de la Chapada... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Daniel Duncan</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206172000 +0100" stop="20151206180500 +0100">
-    <length units="minutes">45</length>
-    <title>Metropolis</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : Lisbonne - Il y a quelques années, Lisbonne était au bord du gouffre. Aujourd'hui, la ville brille à nouveau de tous ses feux. A... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206180500 +0100" stop="20151206183500 +0100">
-    <length units="minutes">30</length>
-    <title>Les petits secrets des grands tableaux</title>
-    <category>Documentaire</category>
-    <desc>Une décennie après la fin de la guerre de Cent Ans, à Tours, où Charles VII a installé sa cour, Jean Fouquet réalise une miniature inspirée du... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Carlos Franklin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206183500 +0100" stop="20151206190000 +0100">
-    <length units="minutes">25</length>
-    <title>Streetphilosophy</title>
-    <category>Magazine</category>
-    <desc>Le «minimalisme» a le vent en poupe auprès des jeunes Berlinois. Véritable ascèse ou effet de mode ? Jonas Bosslet se rend dans la forêt. Il y... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jonas Bosslet</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206190000 +0100" stop="20151206195500 +0100">
-    <length units="minutes">55</length>
-    <title>Square idée</title>
-    <category>Magazine</category>
-    <desc>La troisième révolution industrielle ? Chaque dimanche, intellectuels, créateurs et artistes débattent d'un thème précis et posent leur regard sur un monde en mutation. Les... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206195500 +0100" stop="20151206215500 +0100">
-    <length units="minutes">120</length>
-    <title>Don Quichotte</title>
-    <category>Ballet</category>
-    <desc>Don Quichotte, le chevalier à la triste figure, et son écuyer dévoué Sancho Pança se retrouvent mêlés aux amours tumultueuses de Kitri, la fille... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206215500 +0100" stop="20151206222000 +0100">
-    <length units="minutes">25</length>
-    <title>Graines d'étoiles</title>
-    <category>Documentaire</category>
-    <desc>Une année au sein de l'Ecole de danse de l'Opéra national de Paris : six épisodes pour découvrir la vie des élèves et une étonnante mécanique de... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Françoise Marie</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206222000 +0100" stop="20151206225000 +0100">
-    <length units="minutes">30</length>
-    <title>Graines d'étoiles</title>
-    <category>Documentaire</category>
-    <desc>En participant au défilé du corps de ballet, les élèves ont éprouvé un sentiment d'appartenance : ils vont maintenant devoir supporter la... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Françoise Marie</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206225000 +0100" stop="20151206231500 +0100">
-    <length units="minutes">25</length>
-    <title>Graines d'étoiles</title>
-    <category>Documentaire</category>
-    <desc>En décembre, chaque division va présenter son travail sur la scène du palais Garnier : les élèves redoublent de rigueur et de... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Françoise Marie</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206231500 +0100" stop="20151206234500 +0100">
-    <length units="minutes">30</length>
-    <title>Graines d'étoiles</title>
-    <category>Documentaire</category>
-    <desc>Les élèves vivent leur adolescence dans un cocon protecteur, nourris d'enseignements variés ; une fois l'an, les portes s'ouvrent à d'autres... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Françoise Marie</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206234500 +0100" stop="20151207001000 +0100">
-    <length units="minutes">25</length>
-    <title>Graines d'étoiles</title>
-    <category>Documentaire</category>
-    <desc>Voici venu le temps de briller comme de vrais professionnels : les élèves participent à un spectacle sur la grande scène de... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Françoise Marie</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207001000 +0100" stop="20151207004000 +0100">
-    <length units="minutes">30</length>
-    <title>Graines d'étoiles</title>
-    <category>Documentaire</category>
-    <desc>Le mois de mai est là, temps des examens, de la peur d'être exclu ; pour les élèves de dernière année, se joue l'étape du concours d'entrée dans... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Françoise Marie</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207004000 +0100" stop="20151207011500 +0100">
-    <length units="minutes">35</length>
-    <title>Personne ne bouge !</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Philippe Collin,</name>
-      <name function="presenter">Frédéric Bonnaud,</name>
-      <name function="presenter">Xavier Mauduit</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207011500 +0100" stop="20151207014500 +0100">
-    <length units="minutes">30</length>
-    <title>Cuisines des terroirs</title>
-    <category>Documentaire</category>
-    <desc>Chaque année, autour du solstice d'hiver, les habitants de Kirchseeon, en Haute-Bavière, s'adonnent à un étrange rituel, prétexte à des... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Alois Berger</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207014500 +0100" stop="20151207020000 +0100">
-    <length units="minutes">15</length>
-    <title>Arte journal</title>
-    <category>Journal</category>
-    <desc>L'actualité internationale, présentée en alternance le week-end par Dorothee Haffner et Meline Freda. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Dorothee Haffner,</name>
-      <name function="presenter">Meline Freda</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207020000 +0100" stop="20151207021000 +0100">
-    <length units="minutes">10</length>
-    <title>Karambolage</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Claire Doutriaux</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207021000 +0100" stop="20151207024000 +0100">
-    <length units="minutes">30</length>
-    <title>Vox pop</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : L'enquête : légiférer sur la traçabilité des vêtements et accessoires - En France et en Belgique, ONG et lobbies s'opposent autour... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">John Paul Lepers</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207024000 +0100" stop="20151207024500 +0100">
-    <length units="minutes">5</length>
-    <title>Silex and the City</title>
-    <category>Série</category>
-    <desc>Ce n'est pas parce que Web et Eve se sont inscrites au cours de danse classique de Mollusque Béjart qu'elles vont interpréter demain «Le Lac des... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Jean-Paul Guigue</name>
-      <name function="writer">Jul</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207024500 +0100" stop="20151207041500 +0100">
-    <length units="minutes">90</length>
-    <title>Flashdance (?)</title>
-    <category>Film</category>
-    <desc>A Pittsburgh. Le jour, Alex travaille comme... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Adrian Lyne</name>
-      <name function="actor">Jennifer Beals</name>
-      <name function="actor">Belinda Bauer</name>
-      <name function="actor">Michael Nouri</name>
-      <name function="actor">Lee Ving</name>
-      <name function="actor">Lilia Skala</name>
-      <name function="actor">Kyle T Heffner</name>
-      <name function="actor">Ron Karabatsos</name>
-      <name function="actor">Sunny Johnson</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207041500 +0100" stop="20151207053500 +0100">
-    <length units="minutes">80</length>
-    <title>Forever Crazy</title>
-    <category>Spectacle</category>
-    <desc>Durant une semaine, du 30 septembre au 8 octobre 2011, le «Crazy Horse» présentait à Bruxelles, à La Madeleine, son tout dernier spectacle,... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207053500 +0100" stop="20151207070000 +0100">
-    <length units="minutes">85</length>
-    <title>Ballet de Maurice Béjart : 9e de Beethoven</title>
-    <category>Ballet</category>
-    <desc>En 1964, à l'apogée de son énergie créatrice, Maurice Béjart s'immerge dans la partition de la «9e Symphonie» de Beethoven, qu'il entend... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207070000 +0100" stop="20151207075000 +0100">
+  <programme channel="burger" start="20151207030000 +0100" stop="20151207035000 +0100">
     <length units="minutes">50</length>
     <title>La truite, une version chorégraphiée</title>
     <category>Ballet</category>
     <desc>Pour ce ballet inspiré par «La Truite» de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207075000 +0100" stop="20151207091500 +0100">
+  <programme channel="burger" start="20151207035000 +0100" stop="20151207051500 +0100">
     <length units="minutes">85</length>
     <title>Le rêve d'Hollywood</title>
     <category>Documentaire</category>
@@ -369,7 +21,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207091500 +0100" stop="20151207101000 +0100">
+  <programme channel="burger" start="20151207051500 +0100" stop="20151207061000 +0100">
     <length units="minutes">55</length>
     <title>Robin Williams, un génie de la comédie</title>
     <category>Documentaire</category>
@@ -380,7 +32,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207101000 +0100" stop="20151207104000 +0100">
+  <programme channel="burger" start="20151207061000 +0100" stop="20151207064000 +0100">
     <length units="minutes">30</length>
     <title>Streetphilosophy</title>
     <category>Magazine</category>
@@ -390,21 +42,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207104000 +0100" stop="20151207112500 +0100">
+  <programme channel="burger" start="20151207064000 +0100" stop="20151207072500 +0100">
     <length units="minutes">45</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207112500 +0100" stop="20151207124500 +0100">
+  <programme channel="burger" start="20151207072500 +0100" stop="20151207084500 +0100">
     <length units="minutes">80</length>
     <title>Etienne Daho au Koko, Londres</title>
     <category>Concert</category>
     <desc>En 2014, la tournée à guichets fermés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207124500 +0100" stop="20151207134000 +0100">
+  <programme channel="burger" start="20151207084500 +0100" stop="20151207094000 +0100">
     <length units="minutes">55</length>
     <title>Arte reportage</title>
     <category>Magazine</category>
@@ -415,7 +67,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207134000 +0100" stop="20151207134500 +0100">
+  <programme channel="burger" start="20151207094000 +0100" stop="20151207094500 +0100">
     <length units="minutes">5</length>
     <title>Arte journal junior</title>
     <category>Journal</category>
@@ -428,7 +80,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207134500 +0100" stop="20151207143000 +0100">
+  <programme channel="burger" start="20151207094500 +0100" stop="20151207103000 +0100">
     <length units="minutes">45</length>
     <title>Polar Sea 360°, le guide du voyageur inter-arctique</title>
     <category>Documentaire</category>
@@ -438,7 +90,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207143000 +0100" stop="20151207145500 +0100">
+  <programme channel="burger" start="20151207103000 +0100" stop="20151207105500 +0100">
     <length units="minutes">25</length>
     <title>X:enius</title>
     <category>Magazine</category>
@@ -449,7 +101,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207145500 +0100" stop="20151207163000 +0100">
+  <programme channel="burger" start="20151207105500 +0100" stop="20151207123000 +0100">
     <length units="minutes">95</length>
     <title>Arctique, la conquête glaciale</title>
     <category>Documentaire</category>
@@ -459,7 +111,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207163000 +0100" stop="20151207171000 +0100">
+  <programme channel="burger" start="20151207123000 +0100" stop="20151207131000 +0100">
     <length units="minutes">40</length>
     <title>Pacifique sud</title>
     <category>Documentaire</category>
@@ -469,7 +121,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207171000 +0100" stop="20151207175500 +0100">
+  <programme channel="burger" start="20151207131000 +0100" stop="20151207135500 +0100">
     <length units="minutes">45</length>
     <title>Pacifique sud</title>
     <category>Documentaire</category>
@@ -479,7 +131,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207175500 +0100" stop="20151207182500 +0100">
+  <programme channel="burger" start="20151207135500 +0100" stop="20151207142500 +0100">
     <length units="minutes">30</length>
     <title>Fait main</title>
     <category>Documentaire</category>
@@ -489,7 +141,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207182500 +0100" stop="20151207192000 +0100">
+  <programme channel="burger" start="20151207142500 +0100" stop="20151207152000 +0100">
     <length units="minutes">55</length>
     <title>360°-GEO</title>
     <category>Documentaire</category>
@@ -499,14 +151,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207192000 +0100" stop="20151207193500 +0100">
+  <programme channel="burger" start="20151207152000 +0100" stop="20151207153500 +0100">
     <length units="minutes">15</length>
     <title>Arte journal</title>
     <category>Journal</category>
     <desc>L'actualité de la mi-journée en voix (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207193500 +0100" stop="20151207214000 +0100">
+  <programme channel="burger" start="20151207153500 +0100" stop="20151207174000 +0100">
     <length units="minutes">125</length>
     <title>Tirez la langue, mademoiselle (?)</title>
     <category>Film</category>
@@ -524,7 +176,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207214000 +0100" stop="20151207222000 +0100">
+  <programme channel="burger" start="20151207174000 +0100" stop="20151207182000 +0100">
     <length units="minutes">40</length>
     <title>Les hautes Tatras : des Alpes miniatures</title>
     <category>Documentaire</category>
@@ -534,7 +186,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207222000 +0100" stop="20151207232000 +0100">
+  <programme channel="burger" start="20151207182000 +0100" stop="20151207192000 +0100">
     <length units="minutes">60</length>
     <title>Papous, entre deux mondes</title>
     <category>Documentaire</category>
@@ -544,7 +196,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207232000 +0100" stop="20151207234500 +0100">
+  <programme channel="burger" start="20151207192000 +0100" stop="20151207194500 +0100">
     <length units="minutes">25</length>
     <title>X:enius</title>
     <category>Magazine</category>
@@ -555,7 +207,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207234500 +0100" stop="20151208001500 +0100">
+  <programme channel="burger" start="20151207194500 +0100" stop="20151207201500 +0100">
     <length units="minutes">30</length>
     <title>Quel cirque !</title>
     <category>Documentaire</category>
@@ -565,7 +217,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208001500 +0100" stop="20151208010000 +0100">
+  <programme channel="burger" start="20151207201500 +0100" stop="20151207210000 +0100">
     <length units="minutes">45</length>
     <title>Les îles du futur</title>
     <category>Documentaire</category>
@@ -575,7 +227,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208010000 +0100" stop="20151208014500 +0100">
+  <programme channel="burger" start="20151207210000 +0100" stop="20151207214500 +0100">
     <length units="minutes">45</length>
     <title>A +/- 5 mètres de la surface des océans</title>
     <category>Documentaire</category>
@@ -585,7 +237,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208014500 +0100" stop="20151208020500 +0100">
+  <programme channel="burger" start="20151207214500 +0100" stop="20151207220500 +0100">
     <length units="minutes">20</length>
     <title>Arte journal</title>
     <category>Journal</category>
@@ -596,7 +248,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208020500 +0100" stop="20151208025000 +0100">
+  <programme channel="burger" start="20151207220500 +0100" stop="20151207225000 +0100">
     <length units="minutes">45</length>
     <title>28 minutes</title>
     <category>Magazine</category>
@@ -614,7 +266,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208025000 +0100" stop="20151208025500 +0100">
+  <programme channel="burger" start="20151207225000 +0100" stop="20151207225500 +0100">
     <length units="minutes">5</length>
     <title>Silex and the City</title>
     <category>Série</category>
@@ -625,7 +277,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208025500 +0100" stop="20151208043000 +0100">
+  <programme channel="burger" start="20151207225500 +0100" stop="20151208003000 +0100">
     <length units="minutes">95</length>
     <title>Mais qui a tué Harry ? (?)</title>
     <category>Film</category>
@@ -643,14 +295,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208043000 +0100" stop="20151208071500 +0100">
+  <programme channel="burger" start="20151208003000 +0100" stop="20151208031500 +0100">
     <length units="minutes">165</length>
     <title>Giovanna d'Arco</title>
     <category>Opéra</category>
     <desc>En France, en 1429. Depuis l'âge de 13 ans,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208071500 +0100" stop="20151208081500 +0100">
+  <programme channel="burger" start="20151208031500 +0100" stop="20151208041500 +0100">
     <length units="minutes">60</length>
     <title>Aranda</title>
     <category>Documentaire</category>
@@ -660,7 +312,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208081500 +0100" stop="20151208091000 +0100">
+  <programme channel="burger" start="20151208041500 +0100" stop="20151208051000 +0100">
     <length units="minutes">55</length>
     <title>Trop jeune pour mourir</title>
     <category>Documentaire</category>
@@ -670,28 +322,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208091000 +0100" stop="20151208095500 +0100">
+  <programme channel="burger" start="20151208051000 +0100" stop="20151208055500 +0100">
     <length units="minutes">45</length>
     <title>Metropolis</title>
     <category>Magazine</category>
     <desc>Au sommaire : Lisbonne - Il y a quelques... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208095500 +0100" stop="20151208110000 +0100">
+  <programme channel="burger" start="20151208055500 +0100" stop="20151208070000 +0100">
     <length units="minutes">65</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208110000 +0100" stop="20151208120500 +0100">
+  <programme channel="burger" start="20151208070000 +0100" stop="20151208080500 +0100">
     <length units="minutes">65</length>
     <title>Mozart, la Grande Messe</title>
     <category>Concert</category>
     <desc>Entourée d'un quatuor de solistes talentueux,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208120500 +0100" stop="20151208124000 +0100">
+  <programme channel="burger" start="20151208080500 +0100" stop="20151208084000 +0100">
     <length units="minutes">35</length>
     <title>Mystères d'archives</title>
     <category>Documentaire</category>
@@ -701,7 +353,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208124000 +0100" stop="20151208131000 +0100">
+  <programme channel="burger" start="20151208084000 +0100" stop="20151208091000 +0100">
     <length units="minutes">30</length>
     <title>Vox pop</title>
     <category>Magazine</category>
@@ -711,7 +363,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208131000 +0100" stop="20151208133500 +0100">
+  <programme channel="burger" start="20151208091000 +0100" stop="20151208093500 +0100">
     <length units="minutes">25</length>
     <title>Yourope</title>
     <category>Magazine</category>
@@ -721,7 +373,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208133500 +0100" stop="20151208134500 +0100">
+  <programme channel="burger" start="20151208093500 +0100" stop="20151208094500 +0100">
     <length units="minutes">10</length>
     <title>Arte journal junior</title>
     <category>Journal</category>
@@ -734,7 +386,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208134500 +0100" stop="20151208143000 +0100">
+  <programme channel="burger" start="20151208094500 +0100" stop="20151208103000 +0100">
     <length units="minutes">45</length>
     <title>Polar Sea 360°, le guide du voyageur inter-arctique</title>
     <category>Documentaire</category>
@@ -744,7 +396,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208143000 +0100" stop="20151208145500 +0100">
+  <programme channel="burger" start="20151208103000 +0100" stop="20151208105500 +0100">
     <length units="minutes">25</length>
     <title>X:enius</title>
     <category>Magazine</category>
@@ -755,7 +407,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208145500 +0100" stop="20151208162000 +0100">
+  <programme channel="burger" start="20151208105500 +0100" stop="20151208122000 +0100">
     <length units="minutes">85</length>
     <title>Méthane, rêve ou cauchemar ?</title>
     <category>Documentaire</category>
@@ -767,7 +419,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208162000 +0100" stop="20151208171000 +0100">
+  <programme channel="burger" start="20151208122000 +0100" stop="20151208131000 +0100">
     <length units="minutes">50</length>
     <title>Le plastique</title>
     <category>Documentaire</category>
@@ -778,7 +430,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208171000 +0100" stop="20151208174000 +0100">
+  <programme channel="burger" start="20151208131000 +0100" stop="20151208134000 +0100">
     <length units="minutes">30</length>
     <title>Fait main</title>
     <category>Documentaire</category>
@@ -788,7 +440,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208174000 +0100" stop="20151208180500 +0100">
+  <programme channel="burger" start="20151208134000 +0100" stop="20151208140500 +0100">
     <length units="minutes">25</length>
     <title>Fait main</title>
     <category>Documentaire</category>
@@ -799,7 +451,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208180500 +0100" stop="20151208183500 +0100">
+  <programme channel="burger" start="20151208140500 +0100" stop="20151208143500 +0100">
     <length units="minutes">30</length>
     <title>Fait main</title>
     <category>Documentaire</category>
@@ -810,7 +462,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208183500 +0100" stop="20151208192000 +0100">
+  <programme channel="burger" start="20151208143500 +0100" stop="20151208152000 +0100">
     <length units="minutes">45</length>
     <title>360°-GEO</title>
     <category>Documentaire</category>
@@ -820,14 +472,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208192000 +0100" stop="20151208193500 +0100">
+  <programme channel="burger" start="20151208152000 +0100" stop="20151208153500 +0100">
     <length units="minutes">15</length>
     <title>Arte journal</title>
     <category>Journal</category>
     <desc>L'actualité de la mi-journée en voix (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208193500 +0100" stop="20151208214000 +0100">
+  <programme channel="burger" start="20151208153500 +0100" stop="20151208174000 +0100">
     <length units="minutes">125</length>
     <title>Mais qui a tué Harry ? (?)</title>
     <category>Film</category>
@@ -845,7 +497,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208214000 +0100" stop="20151208222500 +0100">
+  <programme channel="burger" start="20151208174000 +0100" stop="20151208182500 +0100">
     <length units="minutes">45</length>
     <title>Au coeur des montagnes bulgares</title>
     <category>Documentaire</category>
@@ -855,7 +507,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208222500 +0100" stop="20151208232000 +0100">
+  <programme channel="burger" start="20151208182500 +0100" stop="20151208192000 +0100">
     <length units="minutes">55</length>
     <title>Le vaisseau sous la Baltique</title>
     <category>Documentaire</category>
@@ -865,7 +517,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208232000 +0100" stop="20151208234500 +0100">
+  <programme channel="burger" start="20151208192000 +0100" stop="20151208194500 +0100">
     <length units="minutes">25</length>
     <title>X:enius</title>
     <category>Magazine</category>
@@ -876,7 +528,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208234500 +0100" stop="20151209001500 +0100">
+  <programme channel="burger" start="20151208194500 +0100" stop="20151208201500 +0100">
     <length units="minutes">30</length>
     <title>Quel cirque !</title>
     <category>Documentaire</category>
@@ -886,7 +538,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209001500 +0100" stop="20151209010000 +0100">
+  <programme channel="burger" start="20151208201500 +0100" stop="20151208210000 +0100">
     <length units="minutes">45</length>
     <title>Les îles du futur</title>
     <category>Documentaire</category>
@@ -896,7 +548,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209010000 +0100" stop="20151209014500 +0100">
+  <programme channel="burger" start="20151208210000 +0100" stop="20151208214500 +0100">
     <length units="minutes">45</length>
     <title>A +/- 5 mètres de la surface des océans</title>
     <category>Documentaire</category>
@@ -906,7 +558,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209014500 +0100" stop="20151209020500 +0100">
+  <programme channel="burger" start="20151208214500 +0100" stop="20151208220500 +0100">
     <length units="minutes">20</length>
     <title>Arte journal</title>
     <category>Journal</category>
@@ -917,7 +569,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209020500 +0100" stop="20151209025000 +0100">
+  <programme channel="burger" start="20151208220500 +0100" stop="20151208225000 +0100">
     <length units="minutes">45</length>
     <title>28 minutes</title>
     <category>Magazine</category>
@@ -935,14 +587,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209025000 +0100" stop="20151209025500 +0100">
+  <programme channel="burger" start="20151208225000 +0100" stop="20151208225500 +0100">
     <length units="minutes">5</length>
     <title>Silex and the City</title>
     <category>Série</category>
     <desc>Sa majesté des poulpes Dans la grotte de Versailles, tous les... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209025500 +0100" stop="20151209035000 +0100">
+  <programme channel="burger" start="20151208225500 +0100" stop="20151208235000 +0100">
     <length units="minutes">55</length>
     <title>Jésus et l'islam</title>
     <category>Documentaire</category>
@@ -953,7 +605,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209035000 +0100" stop="20151209044000 +0100">
+  <programme channel="burger" start="20151208235000 +0100" stop="20151209004000 +0100">
     <length units="minutes">50</length>
     <title>Jésus et l'islam</title>
     <category>Documentaire</category>
@@ -964,7 +616,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209044000 +0100" stop="20151209054500 +0100">
+  <programme channel="burger" start="20151209004000 +0100" stop="20151209014500 +0100">
     <length units="minutes">65</length>
     <title>Jésus et l'islam</title>
     <category>Documentaire</category>
@@ -975,7 +627,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209054500 +0100" stop="20151209064000 +0100">
+  <programme channel="burger" start="20151209014500 +0100" stop="20151209024000 +0100">
     <length units="minutes">55</length>
     <title>Espagne, la nouvelle donne</title>
     <category>Documentaire</category>
@@ -985,7 +637,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209064000 +0100" stop="20151209084000 +0100">
+  <programme channel="burger" start="20151209024000 +0100" stop="20151209044000 +0100">
     <length units="minutes">120</length>
     <title>L'Apollonide, souvenirs de la maison close (?)</title>
     <category>Film</category>
@@ -1003,7 +655,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209084000 +0100" stop="20151209100000 +0100">
+  <programme channel="burger" start="20151209044000 +0100" stop="20151209060000 +0100">
     <length units="minutes">80</length>
     <title>Tomboy (?)</title>
     <category>Film</category>
@@ -1021,7 +673,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209100000 +0100" stop="20151209103000 +0100">
+  <programme channel="burger" start="20151209060000 +0100" stop="20151209063000 +0100">
     <length units="minutes">30</length>
     <title>Yourope</title>
     <category>Magazine</category>
@@ -1031,7 +683,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209103000 +0100" stop="20151209104500 +0100">
+  <programme channel="burger" start="20151209063000 +0100" stop="20151209064500 +0100">
     <length units="minutes">15</length>
     <title>Sweetheart, deux soeurs amoureuses (?)</title>
     <category>Film</category>
@@ -1042,21 +694,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209104500 +0100" stop="20151209110500 +0100">
+  <programme channel="burger" start="20151209064500 +0100" stop="20151209070500 +0100">
     <length units="minutes">20</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209110500 +0100" stop="20151209120500 +0100">
+  <programme channel="burger" start="20151209070500 +0100" stop="20151209080500 +0100">
     <length units="minutes">60</length>
     <title>Udo Lindenberg</title>
     <category>Concert</category>
     <desc>Longtemps enfant terrible du rock allemand,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209120500 +0100" stop="20151209123000 +0100">
+  <programme channel="burger" start="20151209080500 +0100" stop="20151209083000 +0100">
     <length units="minutes">25</length>
     <title>Mystères d'archives</title>
     <category>Documentaire</category>
@@ -1066,7 +718,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209123000 +0100" stop="20151209131000 +0100">
+  <programme channel="burger" start="20151209083000 +0100" stop="20151209091000 +0100">
     <length units="minutes">40</length>
     <title>Personne ne bouge !</title>
     <category>Magazine</category>
@@ -1078,7 +730,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209131000 +0100" stop="20151209133500 +0100">
+  <programme channel="burger" start="20151209091000 +0100" stop="20151209093500 +0100">
     <length units="minutes">25</length>
     <title>X:enius</title>
     <category>Magazine</category>
@@ -1089,7 +741,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209133500 +0100" stop="20151209134500 +0100">
+  <programme channel="burger" start="20151209093500 +0100" stop="20151209094500 +0100">
     <length units="minutes">10</length>
     <title>Arte journal junior</title>
     <category>Journal</category>
@@ -1102,7 +754,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209134500 +0100" stop="20151209142500 +0100">
+  <programme channel="burger" start="20151209094500 +0100" stop="20151209102500 +0100">
     <length units="minutes">40</length>
     <title>Polar Sea 360°, le guide du voyageur inter-arctique</title>
     <category>Documentaire</category>
@@ -1112,7 +764,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209142500 +0100" stop="20151209145500 +0100">
+  <programme channel="burger" start="20151209102500 +0100" stop="20151209105500 +0100">
     <length units="minutes">30</length>
     <title>X:enius</title>
     <category>Magazine</category>
@@ -1123,7 +775,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209145500 +0100" stop="20151209155000 +0100">
+  <programme channel="burger" start="20151209105500 +0100" stop="20151209115000 +0100">
     <length units="minutes">55</length>
     <title>Daech, naissance d'un Etat terroriste</title>
     <category>Documentaire</category>
@@ -1133,7 +785,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209155000 +0100" stop="20151209165500 +0100">
+  <programme channel="burger" start="20151209115000 +0100" stop="20151209125500 +0100">
     <length units="minutes">65</length>
     <title>Encerclés par l'Etat islamique</title>
     <category>Documentaire</category>
@@ -1143,7 +795,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209165500 +0100" stop="20151209174000 +0100">
+  <programme channel="burger" start="20151209125500 +0100" stop="20151209134000 +0100">
     <length units="minutes">45</length>
     <title>Pacifique sud</title>
     <category>Documentaire</category>
@@ -1155,7 +807,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209174000 +0100" stop="20151209182500 +0100">
+  <programme channel="burger" start="20151209134000 +0100" stop="20151209142500 +0100">
     <length units="minutes">45</length>
     <title>Le silure, géant des rivières</title>
     <category>Documentaire</category>
@@ -1165,7 +817,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209182500 +0100" stop="20151209192000 +0100">
+  <programme channel="burger" start="20151209142500 +0100" stop="20151209152000 +0100">
     <length units="minutes">55</length>
     <title>360°-GEO</title>
     <category>Documentaire</category>
@@ -1175,14 +827,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209192000 +0100" stop="20151209193500 +0100">
+  <programme channel="burger" start="20151209152000 +0100" stop="20151209153500 +0100">
     <length units="minutes">15</length>
     <title>Arte journal</title>
     <category>Journal</category>
     <desc>L'actualité de la mi-journée en voix (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209193500 +0100" stop="20151209211500 +0100">
+  <programme channel="burger" start="20151209153500 +0100" stop="20151209171500 +0100">
     <length units="minutes">100</length>
     <title>Flashdance (?)</title>
     <category>Film</category>
@@ -1200,7 +852,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209211500 +0100" stop="20151209214000 +0100">
+  <programme channel="burger" start="20151209171500 +0100" stop="20151209174000 +0100">
     <length units="minutes">25</length>
     <title>Mystères d'archives</title>
     <category>Documentaire</category>
@@ -1212,14 +864,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209214000 +0100" stop="20151209222500 +0100">
+  <programme channel="burger" start="20151209174000 +0100" stop="20151209182500 +0100">
     <length units="minutes">45</length>
     <title>Les rizières célestes des Philippines</title>
     <category>Documentaire</category>
     <desc>Le peuple montagnard des Ifugao a su faire de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209222500 +0100" stop="20151209232000 +0100">
+  <programme channel="burger" start="20151209182500 +0100" stop="20151209192000 +0100">
     <length units="minutes">55</length>
     <title>Ouragan</title>
     <category>Documentaire</category>
@@ -1230,7 +882,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209232000 +0100" stop="20151209234500 +0100">
+  <programme channel="burger" start="20151209192000 +0100" stop="20151209194500 +0100">
     <length units="minutes">25</length>
     <title>X:enius</title>
     <category>Magazine</category>
@@ -1241,7 +893,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209234500 +0100" stop="20151210001500 +0100">
+  <programme channel="burger" start="20151209194500 +0100" stop="20151209201500 +0100">
     <length units="minutes">30</length>
     <title>Quel cirque !</title>
     <category>Documentaire</category>
@@ -1251,7 +903,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210001500 +0100" stop="20151210010000 +0100">
+  <programme channel="burger" start="20151209201500 +0100" stop="20151209210000 +0100">
     <length units="minutes">45</length>
     <title>Les îles du futur</title>
     <category>Documentaire</category>
@@ -1261,7 +913,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210010000 +0100" stop="20151210014500 +0100">
+  <programme channel="burger" start="20151209210000 +0100" stop="20151209214500 +0100">
     <length units="minutes">45</length>
     <title>A +/- 5 mètres de la surface des océans</title>
     <category>Documentaire</category>
@@ -1271,7 +923,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210014500 +0100" stop="20151210020500 +0100">
+  <programme channel="burger" start="20151209214500 +0100" stop="20151209220500 +0100">
     <length units="minutes">20</length>
     <title>Arte journal</title>
     <category>Journal</category>
@@ -1282,7 +934,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210020500 +0100" stop="20151210025000 +0100">
+  <programme channel="burger" start="20151209220500 +0100" stop="20151209225000 +0100">
     <length units="minutes">45</length>
     <title>28 minutes</title>
     <category>Magazine</category>
@@ -1300,7 +952,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210025000 +0100" stop="20151210025500 +0100">
+  <programme channel="burger" start="20151209225000 +0100" stop="20151209225500 +0100">
     <length units="minutes">5</length>
     <title>Silex and the City</title>
     <category>Série</category>
@@ -1311,7 +963,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210025500 +0100" stop="20151210050000 +0100">
+  <programme channel="burger" start="20151209225500 +0100" stop="20151210010000 +0100">
     <length units="minutes">125</length>
     <title>La grâce (?)</title>
     <category>Film</category>
@@ -1329,7 +981,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210050000 +0100" stop="20151210055500 +0100">
+  <programme channel="burger" start="20151210010000 +0100" stop="20151210015500 +0100">
     <length units="minutes">55</length>
     <title>Jésus et l'islam</title>
     <category>Documentaire</category>
@@ -1340,7 +992,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210055500 +0100" stop="20151210065000 +0100">
+  <programme channel="burger" start="20151210015500 +0100" stop="20151210025000 +0100">
     <length units="minutes">55</length>
     <title>Jésus et l'islam</title>
     <category>Documentaire</category>
@@ -1351,7 +1003,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210065000 +0100" stop="20151210081500 +0100">
+  <programme channel="burger" start="20151210025000 +0100" stop="20151210041500 +0100">
     <length units="minutes">85</length>
     <title>Rebelle (?)</title>
     <category>Film</category>
@@ -1369,7 +1021,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210081500 +0100" stop="20151210090000 +0100">
+  <programme channel="burger" start="20151210041500 +0100" stop="20151210050000 +0100">
     <length units="minutes">45</length>
     <title>Occupied</title>
     <category>Série</category>
@@ -1388,7 +1040,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210090000 +0100" stop="20151210095000 +0100">
+  <programme channel="burger" start="20151210050000 +0100" stop="20151210055000 +0100">
     <length units="minutes">50</length>
     <title>Occupied</title>
     <category>Série</category>
@@ -1406,14 +1058,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210095000 +0100" stop="20151210101500 +0100">
+  <programme channel="burger" start="20151210055000 +0100" stop="20151210061500 +0100">
     <length units="minutes">25</length>
     <title>Square idée</title>
     <category>Magazine</category>
     <desc>La troisième révolution industrielle ? Chaque dimanche, intellectuels, créateurs et... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210101500 +0100" stop="20151210104000 +0100">
+  <programme channel="burger" start="20151210061500 +0100" stop="20151210064000 +0100">
     <length units="minutes">25</length>
     <title>Voyage aux Amériques</title>
     <category>Documentaire</category>
@@ -1423,21 +1075,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210104000 +0100" stop="20151210111000 +0100">
+  <programme channel="burger" start="20151210064000 +0100" stop="20151210071000 +0100">
     <length units="minutes">30</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210111000 +0100" stop="20151210115500 +0100">
+  <programme channel="burger" start="20151210071000 +0100" stop="20151210075500 +0100">
     <length units="minutes">45</length>
     <title>Florilège Offenbach</title>
     <category>Concert</category>
     <desc>En 2013, à l'occasion des 50 ans de l'anniversaire (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210115500 +0100" stop="20151210122500 +0100">
+  <programme channel="burger" start="20151210075500 +0100" stop="20151210082500 +0100">
     <length units="minutes">30</length>
     <title>Mystères d'archives</title>
     <category>Documentaire</category>
@@ -1447,7 +1099,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210122500 +0100" stop="20151210125000 +0100">
+  <programme channel="burger" start="20151210082500 +0100" stop="20151210085000 +0100">
     <length units="minutes">25</length>
     <title>Mystères d'archives</title>
     <category>Documentaire</category>
@@ -1457,14 +1109,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210125000 +0100" stop="20151210133500 +0100">
+  <programme channel="burger" start="20151210085000 +0100" stop="20151210093500 +0100">
     <length units="minutes">45</length>
     <title>Metropolis</title>
     <category>Magazine</category>
     <desc>Au sommaire : Lisbonne - Il y a quelques... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210133500 +0100" stop="20151210134500 +0100">
+  <programme channel="burger" start="20151210093500 +0100" stop="20151210094500 +0100">
     <length units="minutes">10</length>
     <title>Arte journal junior</title>
     <category>Journal</category>
@@ -1477,7 +1129,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210134500 +0100" stop="20151210143000 +0100">
+  <programme channel="burger" start="20151210094500 +0100" stop="20151210103000 +0100">
     <length units="minutes">45</length>
     <title>Polar Sea 360°, le guide du voyageur inter-arctique</title>
     <category>Documentaire</category>
@@ -1487,7 +1139,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210143000 +0100" stop="20151210145500 +0100">
+  <programme channel="burger" start="20151210103000 +0100" stop="20151210105500 +0100">
     <length units="minutes">25</length>
     <title>X:enius</title>
     <category>Magazine</category>
@@ -1498,7 +1150,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210145500 +0100" stop="20151210162500 +0100">
+  <programme channel="burger" start="20151210105500 +0100" stop="20151210122500 +0100">
     <length units="minutes">90</length>
     <title>Albert Einstein, portrait d'un rebelle</title>
     <category>Documentaire</category>
@@ -1509,7 +1161,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210162500 +0100" stop="20151210171000 +0100">
+  <programme channel="burger" start="20151210122500 +0100" stop="20151210131000 +0100">
     <length units="minutes">45</length>
     <title>Pacifique sud</title>
     <category>Documentaire</category>
@@ -1521,7 +1173,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210171000 +0100" stop="20151210175500 +0100">
+  <programme channel="burger" start="20151210131000 +0100" stop="20151210135500 +0100">
     <length units="minutes">45</length>
     <title>Pacifique sud</title>
     <category>Documentaire</category>
@@ -1531,7 +1183,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210175500 +0100" stop="20151210182500 +0100">
+  <programme channel="burger" start="20151210135500 +0100" stop="20151210142500 +0100">
     <length units="minutes">30</length>
     <title>Fait main</title>
     <category>Documentaire</category>
@@ -1541,7 +1193,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210182500 +0100" stop="20151210192000 +0100">
+  <programme channel="burger" start="20151210142500 +0100" stop="20151210152000 +0100">
     <length units="minutes">55</length>
     <title>360°-GEO</title>
     <category>Documentaire</category>
@@ -1551,14 +1203,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210192000 +0100" stop="20151210193500 +0100">
+  <programme channel="burger" start="20151210152000 +0100" stop="20151210153500 +0100">
     <length units="minutes">15</length>
     <title>Arte journal</title>
     <category>Journal</category>
     <desc>L'actualité de la mi-journée en voix (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210193500 +0100" stop="20151210211500 +0100">
+  <programme channel="burger" start="20151210153500 +0100" stop="20151210171500 +0100">
     <length units="minutes">100</length>
     <title>Scoop en talons aiguilles</title>
     <category>Téléfilm</category>
@@ -1576,7 +1228,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210211500 +0100" stop="20151210214000 +0100">
+  <programme channel="burger" start="20151210171500 +0100" stop="20151210174000 +0100">
     <length units="minutes">25</length>
     <title>Mystères d'archives</title>
     <category>Documentaire</category>
@@ -1588,7 +1240,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210214000 +0100" stop="20151210222500 +0100">
+  <programme channel="burger" start="20151210174000 +0100" stop="20151210182500 +0100">
     <length units="minutes">45</length>
     <title>En Suède, sur la piste des élans</title>
     <category>Documentaire</category>
@@ -1598,7 +1250,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210222500 +0100" stop="20151210232000 +0100">
+  <programme channel="burger" start="20151210182500 +0100" stop="20151210192000 +0100">
     <length units="minutes">55</length>
     <title>Ouragan</title>
     <category>Documentaire</category>
@@ -1609,7 +1261,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210232000 +0100" stop="20151210234500 +0100">
+  <programme channel="burger" start="20151210192000 +0100" stop="20151210194500 +0100">
     <length units="minutes">25</length>
     <title>X:enius</title>
     <category>Magazine</category>
@@ -1620,7 +1272,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210234500 +0100" stop="20151211001500 +0100">
+  <programme channel="burger" start="20151210194500 +0100" stop="20151210201500 +0100">
     <length units="minutes">30</length>
     <title>Quel cirque !</title>
     <category>Documentaire</category>
@@ -1630,7 +1282,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211001500 +0100" stop="20151211010000 +0100">
+  <programme channel="burger" start="20151210201500 +0100" stop="20151210210000 +0100">
     <length units="minutes">45</length>
     <title>Les îles du futur</title>
     <category>Documentaire</category>
@@ -1640,7 +1292,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211010000 +0100" stop="20151211014500 +0100">
+  <programme channel="burger" start="20151210210000 +0100" stop="20151210214500 +0100">
     <length units="minutes">45</length>
     <title>A +/- 5 mètres de la surface des océans</title>
     <category>Documentaire</category>
@@ -1650,7 +1302,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211014500 +0100" stop="20151211020500 +0100">
+  <programme channel="burger" start="20151210214500 +0100" stop="20151210220500 +0100">
     <length units="minutes">20</length>
     <title>Arte journal</title>
     <category>Journal</category>
@@ -1661,7 +1313,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211020500 +0100" stop="20151211025000 +0100">
+  <programme channel="burger" start="20151210220500 +0100" stop="20151210225000 +0100">
     <length units="minutes">45</length>
     <title>28 minutes</title>
     <category>Magazine</category>
@@ -1679,7 +1331,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211025000 +0100" stop="20151211025500 +0100">
+  <programme channel="burger" start="20151210225000 +0100" stop="20151210225500 +0100">
     <length units="minutes">5</length>
     <title>Silex and the City</title>
     <category>Série</category>
@@ -1690,7 +1342,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211025500 +0100" stop="20151211034000 +0100">
+  <programme channel="burger" start="20151210225500 +0100" stop="20151210234000 +0100">
     <length units="minutes">45</length>
     <title>Occupied</title>
     <category>Série</category>
@@ -1709,7 +1361,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211034000 +0100" stop="20151211042500 +0100">
+  <programme channel="burger" start="20151210234000 +0100" stop="20151211002500 +0100">
     <length units="minutes">45</length>
     <title>Occupied</title>
     <category>Série</category>
@@ -1728,7 +1380,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211042500 +0100" stop="20151211052000 +0100">
+  <programme channel="burger" start="20151211002500 +0100" stop="20151211012000 +0100">
     <length units="minutes">55</length>
     <title>Jésus et l'islam</title>
     <category>Documentaire</category>
@@ -1739,7 +1391,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211052000 +0100" stop="20151211061500 +0100">
+  <programme channel="burger" start="20151211012000 +0100" stop="20151211021500 +0100">
     <length units="minutes">55</length>
     <title>Jésus et l'islam</title>
     <category>Documentaire</category>
@@ -1750,7 +1402,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211061500 +0100" stop="20151211081000 +0100">
+  <programme channel="burger" start="20151211021500 +0100" stop="20151211041000 +0100">
     <length units="minutes">115</length>
     <title>Jude (?)</title>
     <category>Film</category>
@@ -1768,7 +1420,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211081000 +0100" stop="20151211094500 +0100">
+  <programme channel="burger" start="20151211041000 +0100" stop="20151211054500 +0100">
     <length units="minutes">95</length>
     <title>Marga (?)</title>
     <category>Film</category>
@@ -1786,7 +1438,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211094500 +0100" stop="20151211103500 +0100">
+  <programme channel="burger" start="20151211054500 +0100" stop="20151211063500 +0100">
     <length units="minutes">50</length>
     <title>Ports d'attache</title>
     <category>Documentaire</category>
@@ -1798,21 +1450,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211103500 +0100" stop="20151211111000 +0100">
+  <programme channel="burger" start="20151211063500 +0100" stop="20151211071000 +0100">
     <length units="minutes">35</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211111000 +0100" stop="20151211121000 +0100">
+  <programme channel="burger" start="20151211071000 +0100" stop="20151211081000 +0100">
     <length units="minutes">60</length>
     <title>Berlin Live</title>
     <category>Concert</category>
     <desc>Depuis leurs premiers succès à la fin des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211121000 +0100" stop="20151211124000 +0100">
+  <programme channel="burger" start="20151211081000 +0100" stop="20151211084000 +0100">
     <length units="minutes">30</length>
     <title>Mystères d'archives</title>
     <category>Documentaire</category>
@@ -1823,7 +1475,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211124000 +0100" stop="20151211130500 +0100">
+  <programme channel="burger" start="20151211084000 +0100" stop="20151211090500 +0100">
     <length units="minutes">25</length>
     <title>X:enius</title>
     <category>Magazine</category>
@@ -1834,14 +1486,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211130500 +0100" stop="20151211133500 +0100">
+  <programme channel="burger" start="20151211090500 +0100" stop="20151211093500 +0100">
     <length units="minutes">30</length>
     <title>Futuremag</title>
     <category>Magazine</category>
     <desc>Au sommaire : (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211133500 +0100" stop="20151211134500 +0100">
+  <programme channel="burger" start="20151211093500 +0100" stop="20151211094500 +0100">
     <length units="minutes">10</length>
     <title>Arte journal junior</title>
     <category>Journal</category>
@@ -1854,7 +1506,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211134500 +0100" stop="20151211143000 +0100">
+  <programme channel="burger" start="20151211094500 +0100" stop="20151211103000 +0100">
     <length units="minutes">45</length>
     <title>Polar Sea 360°, le guide du voyageur inter-arctique</title>
     <category>Documentaire</category>
@@ -1864,7 +1516,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211143000 +0100" stop="20151211145500 +0100">
+  <programme channel="burger" start="20151211103000 +0100" stop="20151211105500 +0100">
     <length units="minutes">25</length>
     <title>X:enius</title>
     <category>Magazine</category>
@@ -1875,7 +1527,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211145500 +0100" stop="20151211163000 +0100">
+  <programme channel="burger" start="20151211105500 +0100" stop="20151211123000 +0100">
     <length units="minutes">95</length>
     <title>Climat, pour quelques degrés de moins</title>
     <category>Documentaire</category>
@@ -1887,7 +1539,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211163000 +0100" stop="20151211171500 +0100">
+  <programme channel="burger" start="20151211123000 +0100" stop="20151211131500 +0100">
     <length units="minutes">45</length>
     <title>Mousson</title>
     <category>Documentaire</category>
@@ -1897,7 +1549,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211171500 +0100" stop="20151211175500 +0100">
+  <programme channel="burger" start="20151211131500 +0100" stop="20151211135500 +0100">
     <length units="minutes">40</length>
     <title>Mousson</title>
     <category>Documentaire</category>
@@ -1907,7 +1559,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211175500 +0100" stop="20151211182500 +0100">
+  <programme channel="burger" start="20151211135500 +0100" stop="20151211142500 +0100">
     <length units="minutes">30</length>
     <title>L'Europe en bouteilles</title>
     <category>Documentaire</category>
@@ -1918,7 +1570,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211182500 +0100" stop="20151211192000 +0100">
+  <programme channel="burger" start="20151211142500 +0100" stop="20151211152000 +0100">
     <length units="minutes">55</length>
     <title>360°-GEO</title>
     <category>Documentaire</category>
@@ -1928,14 +1580,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211192000 +0100" stop="20151211193500 +0100">
+  <programme channel="burger" start="20151211152000 +0100" stop="20151211153500 +0100">
     <length units="minutes">15</length>
     <title>Arte journal</title>
     <category>Journal</category>
     <desc>L'actualité de la mi-journée en voix (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211193500 +0100" stop="20151211214000 +0100">
+  <programme channel="burger" start="20151211153500 +0100" stop="20151211174000 +0100">
     <length units="minutes">125</length>
     <title>La forêt d'émeraude (?)</title>
     <category>Film</category>
@@ -1953,7 +1605,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211214000 +0100" stop="20151211222500 +0100">
+  <programme channel="burger" start="20151211174000 +0100" stop="20151211182500 +0100">
     <length units="minutes">45</length>
     <title>Montecristo : combat pour une île</title>
     <category>Documentaire</category>
@@ -1963,7 +1615,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211222500 +0100" stop="20151211232000 +0100">
+  <programme channel="burger" start="20151211182500 +0100" stop="20151211192000 +0100">
     <length units="minutes">55</length>
     <title>Ouragan</title>
     <category>Documentaire</category>
@@ -1974,7 +1626,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211232000 +0100" stop="20151211234500 +0100">
+  <programme channel="burger" start="20151211192000 +0100" stop="20151211194500 +0100">
     <length units="minutes">25</length>
     <title>X:enius</title>
     <category>Magazine</category>
@@ -1985,7 +1637,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211234500 +0100" stop="20151212001500 +0100">
+  <programme channel="burger" start="20151211194500 +0100" stop="20151211201500 +0100">
     <length units="minutes">30</length>
     <title>Quel cirque !</title>
     <category>Documentaire</category>
@@ -1995,7 +1647,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212001500 +0100" stop="20151212010000 +0100">
+  <programme channel="burger" start="20151211201500 +0100" stop="20151211210000 +0100">
     <length units="minutes">45</length>
     <title>Les îles du futur</title>
     <category>Documentaire</category>
@@ -2005,7 +1657,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212010000 +0100" stop="20151212014500 +0100">
+  <programme channel="burger" start="20151211210000 +0100" stop="20151211214500 +0100">
     <length units="minutes">45</length>
     <title>A +/- 5 mètres de la surface des océans</title>
     <category>Documentaire</category>
@@ -2015,7 +1667,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212014500 +0100" stop="20151212020500 +0100">
+  <programme channel="burger" start="20151211214500 +0100" stop="20151211220500 +0100">
     <length units="minutes">20</length>
     <title>Arte journal</title>
     <category>Journal</category>
@@ -2026,7 +1678,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212020500 +0100" stop="20151212025000 +0100">
+  <programme channel="burger" start="20151211220500 +0100" stop="20151211225000 +0100">
     <length units="minutes">45</length>
     <title>28 minutes</title>
     <category>Magazine</category>
@@ -2044,7 +1696,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212025000 +0100" stop="20151212025500 +0100">
+  <programme channel="burger" start="20151211225000 +0100" stop="20151211225500 +0100">
     <length units="minutes">5</length>
     <title>Silex and the City</title>
     <category>Série</category>
@@ -2055,7 +1707,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212025500 +0100" stop="20151212043000 +0100">
+  <programme channel="burger" start="20151211225500 +0100" stop="20151212003000 +0100">
     <length units="minutes">95</length>
     <title>Neuf jours en hiver</title>
     <category>Téléfilm</category>
@@ -2073,7 +1725,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212043000 +0100" stop="20151212052000 +0100">
+  <programme channel="burger" start="20151212003000 +0100" stop="20151212012000 +0100">
     <length units="minutes">50</length>
     <title>Nos ordinateurs ont-ils la mémoire courte ?</title>
     <category>Documentaire</category>
@@ -2083,7 +1735,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212052000 +0100" stop="20151212070500 +0100">
+  <programme channel="burger" start="20151212012000 +0100" stop="20151212030500 +0100">
     <length units="minutes">105</length>
     <title>Vue imprenable</title>
     <category>Documentaire</category>
@@ -2094,14 +1746,432 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212070500 +0100" stop="20151212080000 +0100">
+  <programme channel="burger" start="20151212030500 +0100" stop="20151212040000 +0100">
+    <length units="minutes">55</length>
+    <title>Court-circuit</title>
+    <category>Magazine</category>
+    <desc>L'Académie des Arts et Médias de Cologne fête ses 25 ans Au sommaire : Herman the German : Le démineur... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212040000 +0100" stop="20151212043000 +0100">
+    <length units="minutes">30</length>
+    <title>Je passe mon tour (?)</title>
+    <category>Film</category>
+    <desc>Après plusieurs années d'absence, un quadragénaire (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Visar Morina</name>
+      <name function="actor">Michael Gempart</name>
+      <name function="actor">Thomas Loibl</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212043000 +0100" stop="20151212051500 +0100">
+    <length units="minutes">45</length>
+    <title>Tracks</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212051500 +0100" stop="20151212061000 +0100">
+    <length units="minutes">55</length>
+    <title>Lollapalooza Berlin 2015</title>
+    <category>Concert</category>
+    <desc>Muse, Macklemore &amp; Ryan Lewis Le Lollapalooza Festival a été créé aux... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212061000 +0100" stop="20151212063500 +0100">
+    <length units="minutes">25</length>
+    <title>Arte journal best of</title>
+    <category>Journal</category>
+    <desc>Un best of du JT d'Arte. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212063500 +0100" stop="20151212070500 +0100">
+    <length units="minutes">30</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212070500 +0100" stop="20151212073500 +0100">
+    <length units="minutes">30</length>
+    <title>Les petits secrets des grands tableaux</title>
+    <category>Documentaire</category>
+    <desc>Une décennie après la fin de la guerre de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Carlos Franklin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212073500 +0100" stop="20151212080000 +0100">
+    <length units="minutes">25</length>
+    <title>Square idée</title>
+    <category>Magazine</category>
+    <desc>La troisième révolution industrielle ? Chaque dimanche, intellectuels, créateurs et... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212080000 +0100" stop="20151212084000 +0100">
+    <length units="minutes">40</length>
+    <title>Personne ne bouge !</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Philippe Collin,</name>
+      <name function="presenter">Frédéric Bonnaud,</name>
+      <name function="presenter">Xavier Mauduit</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212084000 +0100" stop="20151212090500 +0100">
+    <length units="minutes">25</length>
+    <title>Escapade gourmande</title>
+    <category>Documentaire</category>
+    <desc>A Nancy, le chef Guy Lemaire évoque la... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Guy Lemaire</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212090500 +0100" stop="20151212093500 +0100">
+    <length units="minutes">30</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>Comment rester concentré à côté d'un téléphone (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Caro Matzko,</name>
+      <name function="presenter">Gunnar Mergner</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212093500 +0100" stop="20151212100000 +0100">
+    <length units="minutes">25</length>
+    <title>X:enius</title>
+    <category>Magazine</category>
+    <desc>Pierre et Dörthe détaillent notamment les... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dörthe Eickelberg,</name>
+      <name function="presenter">Pierre Girard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212100000 +0100" stop="20151212105500 +0100">
+    <length units="minutes">55</length>
+    <title>360°-GEO</title>
+    <category>Documentaire</category>
+    <desc>Des parfumeurs français indépendants révèlent... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Maja Dielhenn</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212105500 +0100" stop="20151212114500 +0100">
+    <length units="minutes">50</length>
+    <title>360°-GEO</title>
+    <category>Documentaire</category>
+    <desc>Au printemps, les rennes de Laponie, qui... (Lire la suite).</desc>
+    <credits>
+      <name function="director">J Michael Schumacher</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212114500 +0100" stop="20151212123000 +0100">
+    <length units="minutes">45</length>
+    <title>360°-GEO</title>
+    <category>Documentaire</category>
+    <desc>Voyage dans les montagnes du Yunnan dans les... (Lire la suite).</desc>
+    <credits>
+      <name function="director">J Michael Schumacher</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212123000 +0100" stop="20151212130000 +0100">
+    <length units="minutes">30</length>
+    <title>Quel cirque !</title>
+    <category>Documentaire</category>
+    <desc>A la découverte du cirque indien, dont les... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Olivier Le Hellard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212130000 +0100" stop="20151212132500 +0100">
+    <length units="minutes">25</length>
+    <title>Quel cirque !</title>
+    <category>Documentaire</category>
+    <desc>Sarah Schwartz part découvrir le Cirque du... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Guy Beauché</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212132500 +0100" stop="20151212135000 +0100">
+    <length units="minutes">25</length>
+    <title>Quel cirque !</title>
+    <category>Documentaire</category>
+    <desc>Paris a accueilli dès 1782 son premier... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jean-Thomas Ceccaldi</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212135000 +0100" stop="20151212142000 +0100">
+    <length units="minutes">30</length>
+    <title>Quel cirque !</title>
+    <category>Documentaire</category>
+    <desc>Sarah Schwartz part découvrir le cirque... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Philippe Moreau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212142000 +0100" stop="20151212144500 +0100">
+    <length units="minutes">25</length>
+    <title>Quel cirque !</title>
+    <category>Documentaire</category>
+    <desc>Au coeur de Mexico, la fildefériste Sarah... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Guy Beauché</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212144500 +0100" stop="20151212153000 +0100">
+    <length units="minutes">45</length>
+    <title>Pacifique sud</title>
+    <category>Documentaire</category>
+    <desc>Le Pacifique sud se compose de milliers... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Mark Brownlow,</name>
+      <name function="director">Fiona Pitcher</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212153000 +0100" stop="20151212160000 +0100">
+    <length units="minutes">30</length>
+    <title>Futuremag</title>
+    <category>Magazine</category>
+    <desc>«The Han Show», les coulisses d'un spectacle total Combinant représentations aériennes et... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212160000 +0100" stop="20151212163500 +0100">
+    <length units="minutes">35</length>
+    <title>Yourope</title>
+    <category>Magazine</category>
+    <desc>Avec un chômage des jeunes de 53,2 %,... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Andreas Korn</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212163500 +0100" stop="20151212173000 +0100">
+    <length units="minutes">55</length>
+    <title>En route pour Vladivostok</title>
+    <category>Documentaire</category>
+    <desc>Bien qu'elle couvre les trois quarts du... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Lothar Mattner</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212173000 +0100" stop="20151212181500 +0100">
+    <length units="minutes">45</length>
+    <title>A la découverte de la Sibérie</title>
+    <category>Documentaire</category>
+    <desc>Vaste comme un continent, s'étendant de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Kay Siering</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212181500 +0100" stop="20151212185500 +0100">
+    <length units="minutes">40</length>
+    <title>A la découverte de la Sibérie</title>
+    <category>Documentaire</category>
+    <desc>Les étendues glaciales de la Sibérie sont... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Kay Siering</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212185500 +0100" stop="20151212194000 +0100">
+    <length units="minutes">45</length>
+    <title>A la découverte de l'Alaska</title>
+    <category>Documentaire</category>
+    <desc>L'étonnante diversité naturelle qu'offre... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Christopher Gerisch,</name>
+      <name function="director">Kay Siering</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212194000 +0100" stop="20151212201000 +0100">
+    <length units="minutes">30</length>
+    <title>Cuisines des terroirs</title>
+    <category>Documentaire</category>
+    <desc>Chaque année, autour du solstice d'hiver, les... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Alois Berger</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212201000 +0100" stop="20151212203500 +0100">
+    <length units="minutes">25</length>
+    <title>Cuisines des terroirs</title>
+    <category>Documentaire</category>
+    <desc>Dans leur domaine viticole du Nord de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Adama Ulrich</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212203500 +0100" stop="20151212213000 +0100">
+    <length units="minutes">55</length>
+    <title>Arte reportage</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, le point sur l'actualité... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Andrea Fies,</name>
+      <name function="presenter">William Irigoyen (en alternance)</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212213000 +0100" stop="20151212214500 +0100">
+    <length units="minutes">15</length>
+    <title>Le dessous des cartes</title>
+    <category>Magazine</category>
+    <desc>Avec ses 21 millions d'habitants, Mexico est... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Jean-Christophe Victor</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212214500 +0100" stop="20151212220000 +0100">
+    <length units="minutes">15</length>
+    <title>Arte journal</title>
+    <category>Journal</category>
+    <desc>L'actualité internationale, présentée en... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Dorothee Haffner,</name>
+      <name function="presenter">Meline Freda</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212220000 +0100" stop="20151212224500 +0100">
+    <length units="minutes">45</length>
+    <title>360°-GEO</title>
+    <category>Documentaire</category>
+    <desc>Mariam Hamdani, première femme journaliste de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Lutz Gregor</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212224500 +0100" stop="20151212225000 +0100">
+    <length units="minutes">5</length>
+    <title>Silex and the City</title>
+    <category>Série</category>
+    <desc>Spam fait aujourd'hui un test de grossesse.... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jean-Paul Guigue</name>
+      <name function="writer">Jul</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212225000 +0100" stop="20151212234000 +0100">
+    <length units="minutes">50</length>
+    <title>En voiture autour du monde</title>
+    <category>Documentaire</category>
+    <desc>En 1927, Clärenore Stinnes, fille d'une riche... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Kirsten Hoehne,</name>
+      <name function="director">Anja Kindler</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212234000 +0100" stop="20151213004000 +0100">
+    <length units="minutes">60</length>
+    <title>1783, le premier vol de l'homme</title>
+    <category>Documentaire</category>
+    <desc>Le 21 novembre 1783, à Paris, un ballon conçu... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Stéphane Bégoin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213004000 +0100" stop="20151213013500 +0100">
+    <length units="minutes">55</length>
+    <title>Trop jeune pour mourir</title>
+    <category>Documentaire</category>
+    <desc>Né à San Francisco en 1940, il grandit à... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Annette Baumeister</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213013500 +0100" stop="20151213022000 +0100">
+    <length units="minutes">45</length>
+    <title>Tracks</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213022000 +0100" stop="20151213033000 +0100">
+    <length units="minutes">70</length>
+    <title>Iggy Pop aux Nuits de Fourvière à Lyon</title>
+    <category>Concert</category>
+    <desc>Après une décennie de concerts donnés à la... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213033000 +0100" stop="20151213053000 +0100">
+    <length units="minutes">120</length>
+    <title>L'Apollonide, souvenirs de la maison close (?)</title>
+    <category>Film</category>
+    <desc>A la charnière entre le XIXe et le XXe... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Bertrand Bonello</name>
+      <name function="actor">Xavier Beauvois</name>
+      <name function="actor">Jacques Nolot</name>
+      <name function="actor">Jasmine Trinca</name>
+      <name function="actor">Noémie Lvovsky</name>
+      <name function="actor">Céline Sallette</name>
+      <name function="actor">Hafsia Herzi</name>
+      <name function="actor">Alice Barnole</name>
+      <name function="actor">Adèle Haenel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213053000 +0100" stop="20151213065500 +0100">
+    <length units="minutes">85</length>
+    <title>I Want You (?)</title>
+    <category>Film</category>
+    <desc>Après neuf ans passés en prison, Martin... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Michael Winterbottom</name>
+      <name function="actor">Alessandro Nivola</name>
+      <name function="actor">Rachel Weisz</name>
+      <name function="actor">Labina Mitevska</name>
+      <name function="actor">Ben Daniels</name>
+      <name function="actor">Graham Crowden</name>
+      <name function="actor">Geraldine O'Rawe</name>
+      <name function="actor">Carmen Ejogo</name>
+      <name function="actor">Luka Petrusic</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213065500 +0100" stop="20151213070000 +0100">
+    <length units="minutes">5</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213070000 +0100" stop="20151213075500 +0100">
     <length units="minutes">55</length>
     <title>Court-circuit</title>
     <category>Magazine</category>
     <desc>L'Académie des Arts et Médias de Cologne fête ses 25 ans Au sommaire : Herman the German : Le démineur... (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212080000 +0100" stop="20151212083000 +0100">
+  <programme channel="burger" start="20151213075500 +0100" stop="20151213082500 +0100">
     <length units="minutes">30</length>
     <title>Je passe mon tour (?)</title>
     <category>Film</category>
@@ -2113,56 +2183,173 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212083000 +0100" stop="20151212091500 +0100">
+  <programme channel="burger" start="20151213082500 +0100" stop="20151213091000 +0100">
     <length units="minutes">45</length>
-    <title>Tracks</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : (Lire la suite).(n)</desc>
+    <title>Réchauffement climatique : les trois chiffres clés</title>
+    <category>Documentaire</category>
+    <desc>Le climat de la Terre évolue. Mesurer... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jonathan Renouf,</name>
+      <name function="director">Alex Freeman</name>
+    </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212091500 +0100" stop="20151212101000 +0100">
-    <length units="minutes">55</length>
-    <title>Lollapalooza Berlin 2015</title>
-    <category>Concert</category>
-    <desc>Muse, Macklemore &amp; Ryan Lewis Le Lollapalooza Festival a été créé aux... (Lire la suite).(n)</desc>
+  <programme channel="burger" start="20151213091000 +0100" stop="20151213100000 +0100">
+    <length units="minutes">50</length>
+    <title>Réchauffement climatique : les trois chiffres clés</title>
+    <category>Documentaire</category>
+    <desc>Illustrant leurs propos par des exemples... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jonathan Renouf,</name>
+      <name function="director">Alex Freeman</name>
+    </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212101000 +0100" stop="20151212103500 +0100">
+  <programme channel="burger" start="20151213100000 +0100" stop="20151213102500 +0100">
     <length units="minutes">25</length>
-    <title>Arte journal best of</title>
-    <category>Journal</category>
-    <desc>Un best of du JT d'Arte. (Lire la suite).(n)</desc>
+    <title>Passe me voir !</title>
+    <category>Documentaire</category>
+    <desc>Federica, 13 ans, vit dans un village de... (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212103500 +0100" stop="20151212110500 +0100">
-    <length units="minutes">30</length>
-    <title>Fin des programmes</title>
-    <category />
+  <programme channel="burger" start="20151213102500 +0100" stop="20151213103500 +0100">
+    <length units="minutes">10</length>
+    <title>Je voudrais devenir...</title>
+    <category>Documentaire</category>
+    <desc>Un grand nombre de garçons et de filles... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Benoit Van Wambeke</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213103500 +0100" stop="20151213110000 +0100">
+    <length units="minutes">25</length>
+    <title>Anouar et la Lune (?)</title>
+    <category>Film</category>
+    <desc>Anouar, un petit Iranien de 10 ans, vit avec... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Michiel Van Jaarsveld</name>
+      <name function="actor">Pedram Parastar</name>
+      <name function="actor">Mehrnoush Rahmani</name>
+      <name function="actor">Golda de Leon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213110000 +0100" stop="20151213112000 +0100">
+    <length units="minutes">20</length>
+    <title>ARTE Junior, le mag</title>
+    <category>Magazine</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212110500 +0100" stop="20151212113500 +0100">
-    <length units="minutes">30</length>
+  <programme channel="burger" start="20151213112000 +0100" stop="20151213125500 +0100">
+    <length units="minutes">95</length>
+    <title>Neuf jours en hiver</title>
+    <category>Téléfilm</category>
+    <desc>Suite à l'accident de voiture mortel de ses... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Alain Tasma</name>
+      <name function="actor">Bruno Abraham-Kremer</name>
+      <name function="actor">Robinson Stévenin</name>
+      <name function="actor">Stéphane Caillard</name>
+      <name function="actor">Patrick Mille</name>
+      <name function="actor">Yannick Choirat</name>
+      <name function="actor">Lucie Debay</name>
+      <name function="actor">Elina Solomon</name>
+      <name function="actor">Catherine Hiegel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213125500 +0100" stop="20151213132000 +0100">
+    <length units="minutes">25</length>
+    <title>Voyage aux Amériques</title>
+    <category>Documentaire</category>
+    <desc>La Colombie-Britannique, sur la côte ouest du... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Daniel Duncan</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213132000 +0100" stop="20151213140500 +0100">
+    <length units="minutes">45</length>
+    <title>Metropolis</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : Amsterdam - Depuis 2013 aux... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213140500 +0100" stop="20151213143000 +0100">
+    <length units="minutes">25</length>
     <title>Les petits secrets des grands tableaux</title>
     <category>Documentaire</category>
-    <desc>Une décennie après la fin de la guerre de... (Lire la suite).(n)</desc>
+    <desc>Peinte alors que les guerres de Religion... (Lire la suite).(n)</desc>
     <credits>
       <name function="director">Carlos Franklin</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212113500 +0100" stop="20151212120000 +0100">
-    <length units="minutes">25</length>
-    <title>Square idée</title>
-    <category>Magazine</category>
-    <desc>La troisième révolution industrielle ? Chaque dimanche, intellectuels, créateurs et... (Lire la suite).(n)</desc>
+  <programme channel="burger" start="20151213143000 +0100" stop="20151213150000 +0100">
+    <length units="minutes">30</length>
+    <title>Les petits secrets des grands tableaux</title>
+    <category>Documentaire</category>
+    <desc>Paris, deux ans avant la Révolution, l'opinion se (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Carlos Franklin</name>
+    </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212120000 +0100" stop="20151212124000 +0100">
-    <length units="minutes">40</length>
+  <programme channel="burger" start="20151213150000 +0100" stop="20151213153500 +0100">
+    <length units="minutes">35</length>
+    <title>Square Ted Stories</title>
+    <category>Magazine</category>
+    <desc>Les hommes de bonne volonté Chaque dimanche, intellectuels, créateurs et... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213153500 +0100" stop="20151213162500 +0100">
+    <length units="minutes">50</length>
+    <title>360°-GEO</title>
+    <category>Documentaire</category>
+    <desc>Mariam Hamdani, première femme journaliste de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Lutz Gregor</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213162500 +0100" stop="20151213171000 +0100">
+    <length units="minutes">45</length>
+    <title>Pacifique sud</title>
+    <category>Documentaire</category>
+    <desc>Le Pacifique Sud est vaste et se compose de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Andy Netley</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213171000 +0100" stop="20151213180500 +0100">
+    <length units="minutes">55</length>
+    <title>1783, le premier vol de l'homme</title>
+    <category>Documentaire</category>
+    <desc>Le 21 novembre 1783, à Paris, un ballon conçu... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Stéphane Bégoin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213180500 +0100" stop="20151213190000 +0100">
+    <length units="minutes">55</length>
+    <title>En voiture autour du monde</title>
+    <category>Documentaire</category>
+    <desc>En 1927, Clärenore Stinnes, fille d'une riche... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Kirsten Hoehne,</name>
+      <name function="director">Anja Kindler</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213190000 +0100" stop="20151213193500 +0100">
+    <length units="minutes">35</length>
     <title>Personne ne bouge !</title>
     <category>Magazine</category>
-    <desc>Au sommaire : (Lire la suite).(n)</desc>
+    <desc>De «La Piscine» à son histoire d'amour avec... (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Philippe Collin,</name>
       <name function="presenter">Frédéric Bonnaud,</name>
@@ -2170,229 +2357,34 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212124000 +0100" stop="20151212130500 +0100">
-    <length units="minutes">25</length>
-    <title>Escapade gourmande</title>
-    <category>Documentaire</category>
-    <desc>A Nancy, le chef Guy Lemaire évoque la... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Guy Lemaire</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212130500 +0100" stop="20151212133500 +0100">
-    <length units="minutes">30</length>
-    <title>X:enius</title>
-    <category>Magazine</category>
-    <desc>Comment rester concentré à côté d'un téléphone (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Caro Matzko,</name>
-      <name function="presenter">Gunnar Mergner</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212133500 +0100" stop="20151212140000 +0100">
-    <length units="minutes">25</length>
-    <title>X:enius</title>
-    <category>Magazine</category>
-    <desc>Pierre et Dörthe détaillent notamment les... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Dörthe Eickelberg,</name>
-      <name function="presenter">Pierre Girard</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212140000 +0100" stop="20151212145500 +0100">
+  <programme channel="burger" start="20151213193500 +0100" stop="20151213203000 +0100">
     <length units="minutes">55</length>
-    <title>360°-GEO</title>
+    <title>Trop jeune pour mourir</title>
     <category>Documentaire</category>
-    <desc>Des parfumeurs français indépendants révèlent... (Lire la suite).(n)</desc>
+    <desc>Né à San Francisco en 1940, il grandit à... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Maja Dielhenn</name>
+      <name function="director">Annette Baumeister</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212145500 +0100" stop="20151212154500 +0100">
-    <length units="minutes">50</length>
-    <title>360°-GEO</title>
-    <category>Documentaire</category>
-    <desc>Au printemps, les rennes de Laponie, qui... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">J Michael Schumacher</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212154500 +0100" stop="20151212163000 +0100">
+  <programme channel="burger" start="20151213203000 +0100" stop="20151213211500 +0100">
     <length units="minutes">45</length>
-    <title>360°-GEO</title>
-    <category>Documentaire</category>
-    <desc>Voyage dans les montagnes du Yunnan dans les... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">J Michael Schumacher</name>
-    </credits>
+    <title>Dvorák à Prague</title>
+    <category>Concert</category>
+    <desc>Coup d'envoi alerte de la 120e saison de... (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212163000 +0100" stop="20151212170000 +0100">
-    <length units="minutes">30</length>
-    <title>Quel cirque !</title>
-    <category>Documentaire</category>
-    <desc>A la découverte du cirque indien, dont les... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Olivier Le Hellard</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212170000 +0100" stop="20151212172500 +0100">
-    <length units="minutes">25</length>
-    <title>Quel cirque !</title>
-    <category>Documentaire</category>
-    <desc>Sarah Schwartz part découvrir le Cirque du... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Guy Beauché</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212172500 +0100" stop="20151212175000 +0100">
-    <length units="minutes">25</length>
-    <title>Quel cirque !</title>
-    <category>Documentaire</category>
-    <desc>Paris a accueilli dès 1782 son premier... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Jean-Thomas Ceccaldi</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212175000 +0100" stop="20151212182000 +0100">
-    <length units="minutes">30</length>
-    <title>Quel cirque !</title>
-    <category>Documentaire</category>
-    <desc>Sarah Schwartz part découvrir le cirque... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Philippe Moreau</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212182000 +0100" stop="20151212184500 +0100">
-    <length units="minutes">25</length>
-    <title>Quel cirque !</title>
-    <category>Documentaire</category>
-    <desc>Au coeur de Mexico, la fildefériste Sarah... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Guy Beauché</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212184500 +0100" stop="20151212193000 +0100">
-    <length units="minutes">45</length>
-    <title>Pacifique sud</title>
-    <category>Documentaire</category>
-    <desc>Le Pacifique sud se compose de milliers... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Mark Brownlow,</name>
-      <name function="director">Fiona Pitcher</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212193000 +0100" stop="20151212200000 +0100">
-    <length units="minutes">30</length>
-    <title>Futuremag</title>
-    <category>Magazine</category>
-    <desc>«The Han Show», les coulisses d'un spectacle total Combinant représentations aériennes et... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212200000 +0100" stop="20151212203500 +0100">
-    <length units="minutes">35</length>
-    <title>Yourope</title>
-    <category>Magazine</category>
-    <desc>Avec un chômage des jeunes de 53,2 %,... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Andreas Korn</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212203500 +0100" stop="20151212213000 +0100">
-    <length units="minutes">55</length>
-    <title>En route pour Vladivostok</title>
-    <category>Documentaire</category>
-    <desc>Bien qu'elle couvre les trois quarts du... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Lothar Mattner</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212213000 +0100" stop="20151212221500 +0100">
-    <length units="minutes">45</length>
-    <title>A la découverte de la Sibérie</title>
-    <category>Documentaire</category>
-    <desc>Vaste comme un continent, s'étendant de... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Kay Siering</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212221500 +0100" stop="20151212225500 +0100">
-    <length units="minutes">40</length>
-    <title>A la découverte de la Sibérie</title>
-    <category>Documentaire</category>
-    <desc>Les étendues glaciales de la Sibérie sont... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Kay Siering</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212225500 +0100" stop="20151212234000 +0100">
-    <length units="minutes">45</length>
-    <title>A la découverte de l'Alaska</title>
-    <category>Documentaire</category>
-    <desc>L'étonnante diversité naturelle qu'offre... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Christopher Gerisch,</name>
-      <name function="director">Kay Siering</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212234000 +0100" stop="20151213001000 +0100">
+  <programme channel="burger" start="20151213211500 +0100" stop="20151213214500 +0100">
     <length units="minutes">30</length>
     <title>Cuisines des terroirs</title>
     <category>Documentaire</category>
-    <desc>Chaque année, autour du solstice d'hiver, les... (Lire la suite).(n)</desc>
+    <desc>A Prague, à l'époque des marchés de Noël,... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Alois Berger</name>
+      <name function="director">Friederike Schlumbom</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213001000 +0100" stop="20151213003500 +0100">
-    <length units="minutes">25</length>
-    <title>Cuisines des terroirs</title>
-    <category>Documentaire</category>
-    <desc>Dans leur domaine viticole du Nord de... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Adama Ulrich</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213003500 +0100" stop="20151213013000 +0100">
-    <length units="minutes">55</length>
-    <title>Arte reportage</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, le point sur l'actualité... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Andrea Fies,</name>
-      <name function="presenter">William Irigoyen (en alternance)</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213013000 +0100" stop="20151213014500 +0100">
-    <length units="minutes">15</length>
-    <title>Le dessous des cartes</title>
-    <category>Magazine</category>
-    <desc>Avec ses 21 millions d'habitants, Mexico est... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Jean-Christophe Victor</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213014500 +0100" stop="20151213020000 +0100">
+  <programme channel="burger" start="20151213214500 +0100" stop="20151213220000 +0100">
     <length units="minutes">15</length>
     <title>Arte journal</title>
     <category>Journal</category>
@@ -2403,63 +2395,73 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213020000 +0100" stop="20151213024500 +0100">
-    <length units="minutes">45</length>
-    <title>360°-GEO</title>
-    <category>Documentaire</category>
-    <desc>Mariam Hamdani, première femme journaliste de... (Lire la suite).(n)</desc>
+  <programme channel="burger" start="20151213220000 +0100" stop="20151213221000 +0100">
+    <length units="minutes">10</length>
+    <title>Karambolage</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Lutz Gregor</name>
+      <name function="presenter">Claire Doutriaux</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213024500 +0100" stop="20151213025000 +0100">
+  <programme channel="burger" start="20151213221000 +0100" stop="20151213224000 +0100">
+    <length units="minutes">30</length>
+    <title>Vox pop</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">John Paul Lepers</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213224000 +0100" stop="20151213224500 +0100">
     <length units="minutes">5</length>
     <title>Silex and the City</title>
     <category>Série</category>
-    <desc>Spam fait aujourd'hui un test de grossesse.... (Lire la suite).(n)</desc>
+    <desc>Les aventures d'une famille d'Homo sapiens... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Jean-Paul Guigue</name>
+      <name function="director">Jérémie Hoarau</name>
       <name function="writer">Jul</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213025000 +0100" stop="20151213034000 +0100">
-    <length units="minutes">50</length>
-    <title>En voiture autour du monde</title>
-    <category>Documentaire</category>
-    <desc>En 1927, Clärenore Stinnes, fille d'une riche... (Lire la suite).(n)</desc>
+  <programme channel="burger" start="20151213224500 +0100" stop="20151214001500 +0100">
+    <length units="minutes">90</length>
+    <title>Les malheurs d'Alfred (?)</title>
+    <category>Film</category>
+    <desc>Depuis sa plus tendre enfance, Alfred joue de... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Kirsten Hoehne,</name>
-      <name function="director">Anja Kindler</name>
+      <name function="director">Pierre Richard</name>
+      <name function="actor">Pierre Richard</name>
+      <name function="actor">Pierre Mondy</name>
+      <name function="actor">Jean Carmet</name>
+      <name function="actor">Robert Dalban</name>
+      <name function="actor">Paul Préboist</name>
+      <name function="actor">Paul Le Person</name>
+      <name function="actor">Anny Duperey</name>
+      <name function="actor">Mario David</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213034000 +0100" stop="20151213044000 +0100">
-    <length units="minutes">60</length>
-    <title>1783, le premier vol de l'homme</title>
+  <programme channel="burger" start="20151214001500 +0100" stop="20151214014500 +0100">
+    <length units="minutes">90</length>
+    <title>Frank Sinatra</title>
     <category>Documentaire</category>
-    <desc>Le 21 novembre 1783, à Paris, un ballon conçu... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Stéphane Bégoin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213044000 +0100" stop="20151213053500 +0100">
-    <length units="minutes">55</length>
-    <title>Trop jeune pour mourir</title>
-    <category>Documentaire</category>
-    <desc>Né à San Francisco en 1940, il grandit à... (Lire la suite).(n)</desc>
+    <desc>Fils d'immigrés italiens, Frank Sinatra... (Lire la suite).(n)</desc>
     <credits>
       <name function="director">Annette Baumeister</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213053500 +0100" stop="20151213062000 +0100">
-    <length units="minutes">45</length>
-    <title>Tracks</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : (Lire la suite).(n)</desc>
+  <programme channel="burger" start="20151214014500 +0100" stop="20151214024000 +0100">
+    <length units="minutes">55</length>
+    <title>Au coeur de la nuit</title>
+    <category>Documentaire</category>
+    <desc>Till Brönner et Jonathan Jeremiah se souviennent (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Hasko Baumann</name>
+    </credits>
     <image />
   </programme>
 </tv>

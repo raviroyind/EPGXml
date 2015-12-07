@@ -51,6 +51,10 @@
     <Reference Include="Ionic.Zip">
       <HintPath>..\packages\DotNetZip.1.9.6\lib\net20\Ionic.Zip.dll</HintPath>
     </Reference>
+    <Reference Include="log4net, Version=1.2.14.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\log4net.2.0.4\lib\net45-full\log4net.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Security" />
@@ -142,13 +146,10 @@
     <Content Include="Images\ico\001.gif" />
     <Content Include="Images\ico\007.gif" />
     <Content Include="Images\ico\icon.png" />
-    <Content Include="login.aspx" />
     <Content Include="Secured\ChannelSelection.aspx" />
     <Content Include="Secured\index.aspx" />
-    <Content Include="Secured\newindex.aspx" />
     <Content Include="Secured\XmlHistory.aspx" />
     <Content Include="Site.Master" />
-    <Content Include="Lite.Master" />
     <Content Include="Content\theme.less" />
     <Content Include="Content\variables.less" />
     <None Include="Web.Debug.config">
@@ -196,11 +197,6 @@
     <Compile Include="Controls\Paging.ascx.designer.cs">
       <DependentUpon>Paging.ascx</DependentUpon>
     </Compile>
-    <Compile Include="DataContext\ActiveChannel.cs" />
-    <Compile Include="DataContext\EPGDataModel.cs" />
-    <Compile Include="DataContext\SourceURL.cs" />
-    <Compile Include="DataContext\User.cs" />
-    <Compile Include="DataContext\XmlImport.cs" />
     <Compile Include="default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -210,20 +206,6 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
-    </Compile>
-    <Compile Include="Lite.Master.cs">
-      <DependentUpon>Lite.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Lite.Master.designer.cs">
-      <DependentUpon>Lite.Master</DependentUpon>
-    </Compile>
-    <Compile Include="login.aspx.cs">
-      <DependentUpon>login.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="login.aspx.designer.cs">
-      <DependentUpon>login.aspx</DependentUpon>
     </Compile>
     <Compile Include="Secured\ChannelSelection.aspx.cs">
       <DependentUpon>ChannelSelection.aspx</DependentUpon>
@@ -240,13 +222,6 @@
       <DependentUpon>index.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Secured\newindex.aspx.cs">
-      <DependentUpon>newindex.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Secured\newindex.aspx.designer.cs">
-      <DependentUpon>newindex.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Secured\XmlHistory.aspx.cs">
       <DependentUpon>XmlHistory.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

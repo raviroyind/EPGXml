@@ -70,9 +70,11 @@
 
                         <span style="color: #ffffff; font-size: 18px; padding-left: 10px; border-right: 1px solid #2f3334; padding-top: 10px;">Xml Generation</span>
                         <div class="pull-right" style="color: #ffffff; padding-right: 10px;">
-                            <asp:Label ID="lblUser" runat="server"></asp:Label>
-                            <i class="clearfix"></i>
+                            <i class="glyphicon glyphicon-user"></i><asp:Label ID="lblUser" runat="server"></asp:Label><br/>
+                            <div style="text-align: right;"> 
+                            <i class="glyphicon glyphicon-log-out"></i>
                             <asp:HyperLink runat="server" ID="hypUser" NavigateUrl="../default.aspx?id=lg" Text="Logout"></asp:HyperLink>
+                                </div>
                         </div>
                     </div>
 
@@ -341,13 +343,13 @@
                     <div class="left-nav actions active" id="left-nav">
                         <ul style="margin-left: 40px;">
                             <li>
-                                <asp:HyperLink runat="server" CssClass="bold info" ID="hypHomeLink" NavigateUrl="../Admin/Dashboard.aspx" Text="Home"></asp:HyperLink>
+                                <asp:HyperLink runat="server" CssClass="user-links" ID="hypHomeLink" NavigateUrl="../Admin/Dashboard.aspx" Text="Home"></asp:HyperLink>
                             </li>
                             <li>
                                 <a href="index.aspx" class="user-links">Xml Generation</a>
                             </li>
                             <li>
-                                <a href="XmlHistory.aspx" class="user-links">View Output Xmls</a>
+                                <a href="XmlHistory.aspx" class="bold info">View Output Xmls</a>
                             </li>
                             <li>
                                 <a href="ChannelSelection.aspx" class="user-links">Channel Selection</a>

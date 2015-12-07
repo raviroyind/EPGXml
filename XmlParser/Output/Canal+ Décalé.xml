@@ -1,345 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Canal+ Décalé">
-    <display-name>MTV</display-name>
+    <display-name>burger</display-name>
   </channel>
-  <programme channel="MTV" start="20151206063000 +0100" stop="20151206080500 +0100">
-    <length units="minutes">95</length>
-    <title>The Anomaly (?)</title>
-    <category>Film</category>
-    <desc>Dans le futur, un homme se réveille à... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Noel Clarke</name>
-      <name function="actor">Brian Cox</name>
-      <name function="actor">Ian Somerhalder</name>
-      <name function="actor">Noel Clarke</name>
-      <name function="actor">Michael Bisping</name>
-      <name function="actor">Alexis Knapp</name>
-      <name function="actor">Art Parkinson</name>
-      <name function="actor">Niall Greig Fulton</name>
-      <name function="actor">Luke Hemsworth</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206080500 +0100" stop="20151206093500 +0100">
-    <length units="minutes">90</length>
-    <title>Le beau monde (?)</title>
-    <category>Film</category>
-    <desc>Alice a 20 ans et vit avec sa mère à Bayeux.... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Julie Lopes-Curval</name>
-      <name function="actor">Michèle Gleizer</name>
-      <name function="actor">Aurélia Petit</name>
-      <name function="actor">Sergi López</name>
-      <name function="actor">Stéphane Bissot</name>
-      <name function="actor">Baptiste Lecaplain</name>
-      <name function="actor">Bastien Bouillon</name>
-      <name function="actor">Ana Girardot</name>
-      <name function="actor">India Hair</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206093500 +0100" stop="20151206094500 +0100">
-    <length units="minutes">10</length>
-    <title>La semaine de Stéphane Guillon</title>
-    <category>Divertissement</category>
-    <desc>L'humoriste Stéphane Guillon signe une revue d'actualité de la semaine, dans les domaines de la politique, du sport, de la culture ou encore des... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206094500 +0100" stop="20151206125500 +0100">
-    <length units="minutes">190</length>
-    <title>Fin des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206125500 +0100" stop="20151206134000 +0100">
-    <length units="minutes">45</length>
-    <title>Le tube</title>
-    <category>Magazine</category>
-    <desc>Web, télévision, radio, print : avec sérieux et bonne humeur, Ophélie Meunier évoque celles et ceux qui transforment le monde des médias,... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Ophélie Meunier</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206134000 +0100" stop="20151206141500 +0100">
-    <length units="minutes">35</length>
-    <title>Album de la semaine +</title>
-    <category>Magazine</category>
-    <desc>Le groupe Mass Hysteria, figure de proue du... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Stéphane Saunier</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206141500 +0100" stop="20151206143500 +0100">
-    <length units="minutes">20</length>
-    <title>L'oeil de Links</title>
-    <category>Magazine</category>
-    <desc>Le webazine de l'activité créative du net :... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206143500 +0100" stop="20151206145500 +0100">
-    <length units="minutes">20</length>
-    <title>Made in Groland</title>
-    <category>Divertissement</category>
-    <desc>Depuis plus de vingt ans, la présipauté de... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jules-Edouard Moustic,</name>
-      <name function="presenter">Chiara De Daddy</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206145500 +0100" stop="20151206163000 +0100">
-    <length units="minutes">95</length>
-    <title>Repas de famille (?)</title>
-    <category>Film</category>
-    <desc>Bernard, un carrossier de droite qui convoite... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Pierre-Henry Salfati</name>
-      <name function="actor">Lorella Cravotta</name>
-      <name function="actor">Joël Cantona</name>
-      <name function="actor">Eric Carrière</name>
-      <name function="actor">Noëlle Perna</name>
-      <name function="actor">Ludivine Manca</name>
-      <name function="actor">Francis Ginibre</name>
-      <name function="actor">Lamine Lezghad</name>
-      <name function="actor">Yves Pujol</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206163000 +0100" stop="20151206182500 +0100">
-    <length units="minutes">115</length>
-    <title>Night Call (?)</title>
-    <category>Film</category>
-    <desc>Lou Bloom veut absolument faire carrière dans... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Dan Gilroy</name>
-      <name function="actor">Rene Russo</name>
-      <name function="actor">Bill Paxton</name>
-      <name function="actor">Ann Cusack</name>
-      <name function="actor">Jake Gyllenhaal</name>
-      <name function="actor">Kevin Rahm</name>
-      <name function="actor">Eric Lange</name>
-      <name function="actor">Riz Ahmed</name>
-      <name function="actor">Anne McDaniels</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206182500 +0100" stop="20151206185500 +0100">
-    <length units="minutes">30</length>
-    <title>Le petit journal de la semaine</title>
-    <category>Divertissement</category>
-    <desc>Les meilleurs moments de la semaine compilés à partir du «Petit Journal» de Yann Barthès : une autre manière de commenter l'actualité, tout en... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Laurent Lucas,</name>
-      <name function="presenter">Yann Barthès,</name>
-      <name function="presenter">Willy Papa,</name>
-      <name function="presenter">Martin Weill,</name>
-      <name function="presenter">Paul Larrouturou,</name>
-      <name function="presenter">Eric et Quentin,</name>
-      <name function="presenter">Catherine et Liliane,</name>
-      <name function="presenter">Hugo Clément,</name>
-      <name function="presenter">Camille Crosnier,</name>
-      <name function="presenter">César Charbonnier,</name>
-      <name function="presenter">Orelsan et Gringe,</name>
-      <name function="presenter">Panayotis Pascot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206185500 +0100" stop="20151206192000 +0100">
-    <length units="minutes">25</length>
-    <title>Made in Groland</title>
-    <category>Divertissement</category>
-    <desc>Depuis plus de vingt ans, la présipauté de Groland propose un journal décalé qui se penche sur l'actualité du monde tel qu'il ne va pas. Epaulés... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jules-Edouard Moustic,</name>
-      <name function="presenter">Chiara De Daddy</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206192000 +0100" stop="20151206203000 +0100">
-    <length units="minutes">70</length>
-    <title>L'émission d'Antoine</title>
-    <category>Divertissement</category>
-    <desc>Pour s'émanciper de l'actualité et raconter notre époque par un autre prisme, Antoine de Caunes établit un catalogue amusé des bizarreries,... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Antoine de Caunes,</name>
-      <name function="presenter">monsieur Poulpe,</name>
-      <name function="presenter">Alison Wheeler</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206203000 +0100" stop="20151206214500 +0100">
-    <length units="minutes">75</length>
-    <title>Le supplément</title>
-    <category>Magazine</category>
-    <desc>Un grand témoin de l'époque répond aux questions d'Ali Baddou et réagit aux reportages diffusés au cours de l'émission ainsi qu'aux différentes... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Ali Baddou</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206214500 +0100" stop="20151206221000 +0100">
-    <length units="minutes">25</length>
-    <title>Le tour du bagel</title>
-    <category>Série</category>
-    <desc>Les talents du Studio Bagel passent d'un... (Lire la suite).</desc>
-    <credits>
-      <name function="actor">Studio Bagel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206221000 +0100" stop="20151206221500 +0100">
-    <length units="minutes">5</length>
-    <title>Eric et Quentin</title>
-    <category>Divertissement</category>
-    <desc>Eric et Quentin, du «Petit Journal», ne... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206221500 +0100" stop="20151206224000 +0100">
-    <length units="minutes">25</length>
-    <title>Le petit journal de la semaine</title>
-    <category>Divertissement</category>
-    <desc>Les meilleurs moments de la semaine compilés à partir du «Petit Journal» de Yann Barthès : une autre manière de commenter l'actualité, tout en... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Laurent Lucas,</name>
-      <name function="presenter">Yann Barthès,</name>
-      <name function="presenter">Willy Papa,</name>
-      <name function="presenter">Martin Weill,</name>
-      <name function="presenter">Paul Larrouturou,</name>
-      <name function="presenter">Eric et Quentin,</name>
-      <name function="presenter">Catherine et Liliane,</name>
-      <name function="presenter">Hugo Clément,</name>
-      <name function="presenter">Camille Crosnier,</name>
-      <name function="presenter">César Charbonnier,</name>
-      <name function="presenter">Orelsan et Gringe,</name>
-      <name function="presenter">Panayotis Pascot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206224000 +0100" stop="20151206231500 +0100">
-    <length units="minutes">35</length>
-    <title>L'effet papillon</title>
-    <category>Magazine</category>
-    <desc>Un événement de l'autre côté de la planète en... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Daphné Roulier</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206231500 +0100" stop="20151207001000 +0100">
-    <length units="minutes">55</length>
-    <title>Spécial investigation</title>
-    <category>Magazine</category>
-    <desc>Alors que la violence s'étend au Moyen... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Stéphane Haumant</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207001000 +0100" stop="20151207004000 +0100">
-    <length units="minutes">30</length>
-    <title>Zapping de la semaine</title>
-    <category>Divertissement</category>
-    <desc>Images cocasses, discours fracassant ou scène... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207004000 +0100" stop="20151207015500 +0100">
-    <length units="minutes">75</length>
-    <title>Salut les Terriens !</title>
-    <category>Magazine</category>
-    <desc>Tout de noir vêtu, Thierry Ardissson reçoit les personnalités qui font l'actualité du moment pour les soumettre à un feu roulant de questions,... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Stéphane Guillon,</name>
-      <name function="presenter">Thierry Ardisson,</name>
-      <name function="presenter">Stéphane Blakowski,</name>
-      <name function="presenter">Julien Grappe,</name>
-      <name function="presenter">Tom Villa</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207015500 +0100" stop="20151207021500 +0100">
-    <length units="minutes">20</length>
-    <title>Made in Groland</title>
-    <category>Divertissement</category>
-    <desc>Depuis plus de vingt ans, la présipauté de Groland propose un journal décalé qui se penche sur l'actualité du monde tel qu'il ne va pas. Epaulés... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jules-Edouard Moustic,</name>
-      <name function="presenter">Chiara De Daddy</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207021500 +0100" stop="20151207024000 +0100">
-    <length units="minutes">25</length>
-    <title>Le petit journal de la semaine</title>
-    <category>Divertissement</category>
-    <desc>Les meilleurs moments de la semaine compilés... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Laurent Lucas,</name>
-      <name function="presenter">Yann Barthès,</name>
-      <name function="presenter">Willy Papa,</name>
-      <name function="presenter">Martin Weill,</name>
-      <name function="presenter">Paul Larrouturou,</name>
-      <name function="presenter">Eric et Quentin,</name>
-      <name function="presenter">Catherine et Liliane,</name>
-      <name function="presenter">Hugo Clément,</name>
-      <name function="presenter">Camille Crosnier,</name>
-      <name function="presenter">César Charbonnier,</name>
-      <name function="presenter">Orelsan et Gringe,</name>
-      <name function="presenter">Panayotis Pascot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207024000 +0100" stop="20151207025000 +0100">
-    <length units="minutes">10</length>
-    <title>Eric et Quentin</title>
-    <category>Divertissement</category>
-    <desc>Eric et Quentin, du «Petit Journal», ne... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207025000 +0100" stop="20151207044500 +0100">
-    <length units="minutes">115</length>
-    <title>Night Call (?)</title>
-    <category>Film</category>
-    <desc>Lou Bloom veut absolument faire carrière dans... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Dan Gilroy</name>
-      <name function="actor">Rene Russo</name>
-      <name function="actor">Bill Paxton</name>
-      <name function="actor">Ann Cusack</name>
-      <name function="actor">Jake Gyllenhaal</name>
-      <name function="actor">Kevin Rahm</name>
-      <name function="actor">Eric Lange</name>
-      <name function="actor">Riz Ahmed</name>
-      <name function="actor">Anne McDaniels</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207044500 +0100" stop="20151207054500 +0100">
-    <length units="minutes">60</length>
-    <title>L'émission d'Antoine</title>
-    <category>Divertissement</category>
-    <desc>Pour s'émanciper de l'actualité et raconter notre époque par un autre prisme, Antoine de Caunes établit un catalogue amusé des bizarreries,... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Antoine de Caunes,</name>
-      <name function="presenter">monsieur Poulpe,</name>
-      <name function="presenter">Alison Wheeler</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207054500 +0100" stop="20151207061000 +0100">
-    <length units="minutes">25</length>
-    <title>Le tour du bagel</title>
-    <category>Série</category>
-    <desc>Les talents du Studio Bagel passent d'un personnage à un autre en quelques minutes. Tour à tour dans un commissariat, une ferme ou une... (Lire la suite).</desc>
-    <credits>
-      <name function="actor">Studio Bagel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207061000 +0100" stop="20151207062500 +0100">
+  <programme channel="burger" start="20151207021000 +0100" stop="20151207022500 +0100">
     <length units="minutes">15</length>
     <title>Le journal du hard</title>
     <category>Magazine</category>
@@ -349,11 +13,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207062500 +0100" stop="20151207074500 +0100">
+  <programme channel="burger" start="20151207022500 +0100" stop="20151207034500 +0100">
     <length units="minutes">80</length>
     <title>Les filles du châtelain (?)</title>
     <category>Film</category>
-    <desc>(Lire la suite).(r)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="director">Tony Carrera</name>
       <name function="actor">Anna Polina</name>
@@ -367,11 +31,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207074500 +0100" stop="20151207092000 +0100">
+  <programme channel="burger" start="20151207034500 +0100" stop="20151207052000 +0100">
     <length units="minutes">95</length>
     <title>Les aventures extraordinaires d'Adèle Blanc-Sec (?)</title>
     <category>Film</category>
-    <desc>Au début du XXe siècle, Adèle Blanc-Sec... (Lire la suite).(r)</desc>
+    <desc>Au début du XXe siècle, Adèle Blanc-Sec... (Lire la suite).</desc>
     <credits>
       <name function="director">Luc Besson</name>
       <name function="actor">Mathieu Amalric</name>
@@ -385,7 +49,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207092000 +0100" stop="20151207095500 +0100">
+  <programme channel="burger" start="20151207052000 +0100" stop="20151207055500 +0100">
     <length units="minutes">35</length>
     <title>Album de la semaine +</title>
     <category>Magazine</category>
@@ -395,7 +59,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207095500 +0100" stop="20151207102000 +0100">
+  <programme channel="burger" start="20151207055500 +0100" stop="20151207062000 +0100">
     <length units="minutes">25</length>
     <title>Le journal des jeux vidéo</title>
     <category>Magazine</category>
@@ -405,14 +69,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207102000 +0100" stop="20151207125500 +0100">
+  <programme channel="burger" start="20151207062000 +0100" stop="20151207085500 +0100">
     <length units="minutes">155</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207125500 +0100" stop="20151207141500 +0100">
+  <programme channel="burger" start="20151207085500 +0100" stop="20151207101500 +0100">
     <length units="minutes">80</length>
     <title>Le supplément</title>
     <category>Magazine</category>
@@ -422,7 +86,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207141500 +0100" stop="20151207151000 +0100">
+  <programme channel="burger" start="20151207101500 +0100" stop="20151207111000 +0100">
     <length units="minutes">55</length>
     <title>Salut les Terriens !</title>
     <category>Magazine</category>
@@ -436,7 +100,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207151000 +0100" stop="20151207154000 +0100">
+  <programme channel="burger" start="20151207111000 +0100" stop="20151207114000 +0100">
     <length units="minutes">30</length>
     <title>Le petit journal de la semaine</title>
     <category>Divertissement</category>
@@ -457,14 +121,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207154000 +0100" stop="20151207154400 +0100">
+  <programme channel="burger" start="20151207114000 +0100" stop="20151207114400 +0100">
     <length units="minutes">4</length>
     <title>Eric et Quentin</title>
     <category>Divertissement</category>
     <desc>Eric et Quentin, du «Petit Journal», ne... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207154400 +0100" stop="20151207164500 +0100">
+  <programme channel="burger" start="20151207114400 +0100" stop="20151207124500 +0100">
     <length units="minutes">61</length>
     <title>L'émission d'Antoine</title>
     <category>Divertissement</category>
@@ -476,7 +140,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207164500 +0100" stop="20151207170500 +0100">
+  <programme channel="burger" start="20151207124500 +0100" stop="20151207130500 +0100">
     <length units="minutes">20</length>
     <title>Le tour du bagel</title>
     <category>Série</category>
@@ -486,14 +150,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207170500 +0100" stop="20151207172500 +0100">
+  <programme channel="burger" start="20151207130500 +0100" stop="20151207132500 +0100">
     <length units="minutes">20</length>
     <title>Zapping de la semaine</title>
     <category>Divertissement</category>
     <desc>Images cocasses, discours fracassant ou scène... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207172500 +0100" stop="20151207174500 +0100">
+  <programme channel="burger" start="20151207132500 +0100" stop="20151207134500 +0100">
     <length units="minutes">20</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
@@ -511,7 +175,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207174500 +0100" stop="20151207175500 +0100">
+  <programme channel="burger" start="20151207134500 +0100" stop="20151207135500 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -521,7 +185,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207175500 +0100" stop="20151207175800 +0100">
+  <programme channel="burger" start="20151207135500 +0100" stop="20151207135800 +0100">
     <length units="minutes">3</length>
     <title>Casting(s)</title>
     <category>Série</category>
@@ -538,7 +202,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207175800 +0100" stop="20151207190500 +0100">
+  <programme channel="burger" start="20151207135800 +0100" stop="20151207150500 +0100">
     <length units="minutes">67</length>
     <title>Le grand journal</title>
     <category>Talk show</category>
@@ -553,7 +217,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207190500 +0100" stop="20151207193500 +0100">
+  <programme channel="burger" start="20151207150500 +0100" stop="20151207153500 +0100">
     <length units="minutes">30</length>
     <title>Le petit journal de la semaine</title>
     <category>Divertissement</category>
@@ -574,14 +238,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207193500 +0100" stop="20151207194000 +0100">
+  <programme channel="burger" start="20151207153500 +0100" stop="20151207154000 +0100">
     <length units="minutes">5</length>
     <title>Eric et Quentin</title>
     <category>Divertissement</category>
     <desc>Eric et Quentin, du «Petit Journal», ne... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207194000 +0100" stop="20151207194900 +0100">
+  <programme channel="burger" start="20151207154000 +0100" stop="20151207154900 +0100">
     <length units="minutes">9</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -591,7 +255,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207194900 +0100" stop="20151207195500 +0100">
+  <programme channel="burger" start="20151207154900 +0100" stop="20151207155500 +0100">
     <length units="minutes">6</length>
     <title>Casting(s)</title>
     <category>Série</category>
@@ -608,7 +272,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207195500 +0100" stop="20151207211000 +0100">
+  <programme channel="burger" start="20151207155500 +0100" stop="20151207171000 +0100">
     <length units="minutes">75</length>
     <title>La nouvelle édition</title>
     <category>Magazine</category>
@@ -623,7 +287,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207211000 +0100" stop="20151207220800 +0100">
+  <programme channel="burger" start="20151207171000 +0100" stop="20151207180800 +0100">
     <length units="minutes">58</length>
     <title>Spécial investigation</title>
     <category>Magazine</category>
@@ -633,14 +297,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207220800 +0100" stop="20151207221000 +0100">
+  <programme channel="burger" start="20151207180800 +0100" stop="20151207181000 +0100">
     <length units="minutes">2</length>
     <title>Mash up</title>
     <category>Divertissement</category>
     <desc>Kanye western (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207221000 +0100" stop="20151208000000 +0100">
+  <programme channel="burger" start="20151207181000 +0100" stop="20151207200000 +0100">
     <length units="minutes">110</length>
     <title>The Dark Valley (?)</title>
     <category>Film</category>
@@ -658,7 +322,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208000000 +0100" stop="20151208012000 +0100">
+  <programme channel="burger" start="20151207200000 +0100" stop="20151207212000 +0100">
     <length units="minutes">80</length>
     <title>La nouvelle édition</title>
     <category>Magazine</category>
@@ -673,7 +337,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208012000 +0100" stop="20151208015000 +0100">
+  <programme channel="burger" start="20151207212000 +0100" stop="20151207215000 +0100">
     <length units="minutes">30</length>
     <title>Le petit journal de la semaine</title>
     <category>Divertissement</category>
@@ -694,28 +358,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208015000 +0100" stop="20151208015500 +0100">
+  <programme channel="burger" start="20151207215000 +0100" stop="20151207215500 +0100">
     <length units="minutes">5</length>
     <title>Eric et Quentin</title>
     <category>Divertissement</category>
     <desc>Eric et Quentin, du «Petit Journal», ne... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208015500 +0100" stop="20151208020000 +0100">
+  <programme channel="burger" start="20151207215500 +0100" stop="20151207220000 +0100">
     <length units="minutes">5</length>
     <title>La semaine de Stéphane Guillon</title>
     <category>Divertissement</category>
     <desc>L'humoriste Stéphane Guillon signe une revue... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208020000 +0100" stop="20151208021000 +0100">
+  <programme channel="burger" start="20151207220000 +0100" stop="20151207221000 +0100">
     <length units="minutes">10</length>
     <title>Surprises</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208021000 +0100" stop="20151208022000 +0100">
+  <programme channel="burger" start="20151207221000 +0100" stop="20151207222000 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -725,28 +389,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208022000 +0100" stop="20151208023000 +0100">
+  <programme channel="burger" start="20151207222000 +0100" stop="20151207223000 +0100">
     <length units="minutes">10</length>
     <title>Le JT</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208023000 +0100" stop="20151208023500 +0100">
+  <programme channel="burger" start="20151207223000 +0100" stop="20151207223500 +0100">
     <length units="minutes">5</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208023500 +0100" stop="20151208025000 +0100">
+  <programme channel="burger" start="20151207223500 +0100" stop="20151207225000 +0100">
     <length units="minutes">15</length>
     <title>Zapping</title>
     <category>Divertissement</category>
     <desc>Un cocktail d'images éloquentes, de petites... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208025000 +0100" stop="20151208035000 +0100">
+  <programme channel="burger" start="20151207225000 +0100" stop="20151207235000 +0100">
     <length units="minutes">60</length>
     <title>L'émission d'Antoine</title>
     <category>Divertissement</category>
@@ -758,7 +422,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208035000 +0100" stop="20151208041000 +0100">
+  <programme channel="burger" start="20151207235000 +0100" stop="20151208001000 +0100">
     <length units="minutes">20</length>
     <title>Le tour du bagel</title>
     <category>Série</category>
@@ -768,14 +432,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208041000 +0100" stop="20151208042000 +0100">
+  <programme channel="burger" start="20151208001000 +0100" stop="20151208002000 +0100">
     <length units="minutes">10</length>
     <title>La semaine de Stéphane Guillon</title>
     <category>Divertissement</category>
     <desc>L'humoriste Stéphane Guillon signe une revue... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208042000 +0100" stop="20151208052000 +0100">
+  <programme channel="burger" start="20151208002000 +0100" stop="20151208012000 +0100">
     <length units="minutes">60</length>
     <title>Versailles</title>
     <category>Série</category>
@@ -793,7 +457,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208052000 +0100" stop="20151208061500 +0100">
+  <programme channel="burger" start="20151208012000 +0100" stop="20151208021500 +0100">
     <length units="minutes">55</length>
     <title>Versailles</title>
     <category>Série</category>
@@ -811,7 +475,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208061500 +0100" stop="20151208072000 +0100">
+  <programme channel="burger" start="20151208021500 +0100" stop="20151208032000 +0100">
     <length units="minutes">65</length>
     <title>Le grand journal</title>
     <category>Talk show</category>
@@ -826,7 +490,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208072000 +0100" stop="20151208075000 +0100">
+  <programme channel="burger" start="20151208032000 +0100" stop="20151208035000 +0100">
     <length units="minutes">30</length>
     <title>Le petit journal</title>
     <category>Divertissement</category>
@@ -847,7 +511,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208075000 +0100" stop="20151208075500 +0100">
+  <programme channel="burger" start="20151208035000 +0100" stop="20151208035500 +0100">
     <length units="minutes">5</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -857,7 +521,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208075500 +0100" stop="20151208093000 +0100">
+  <programme channel="burger" start="20151208035500 +0100" stop="20151208053000 +0100">
     <length units="minutes">95</length>
     <title>Party Girl (?)</title>
     <category>Film</category>
@@ -877,21 +541,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208093000 +0100" stop="20151208132000 +0100">
+  <programme channel="burger" start="20151208053000 +0100" stop="20151208092000 +0100">
     <length units="minutes">230</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208132000 +0100" stop="20151208135500 +0100">
+  <programme channel="burger" start="20151208092000 +0100" stop="20151208095500 +0100">
     <length units="minutes">35</length>
     <title>L'intégrale du zapping</title>
     <category>Divertissement</category>
     <desc>Un condensé hebdomadaire des temps forts de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208135500 +0100" stop="20151208140200 +0100">
+  <programme channel="burger" start="20151208095500 +0100" stop="20151208100200 +0100">
     <length units="minutes">7</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -901,7 +565,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208140200 +0100" stop="20151208140500 +0100">
+  <programme channel="burger" start="20151208100200 +0100" stop="20151208100500 +0100">
     <length units="minutes">3</length>
     <title>Casting(s)</title>
     <category>Série</category>
@@ -918,7 +582,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208140500 +0100" stop="20151208151000 +0100">
+  <programme channel="burger" start="20151208100500 +0100" stop="20151208111000 +0100">
     <length units="minutes">65</length>
     <title>Le grand journal</title>
     <category>Talk show</category>
@@ -933,7 +597,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208151000 +0100" stop="20151208154000 +0100">
+  <programme channel="burger" start="20151208111000 +0100" stop="20151208114000 +0100">
     <length units="minutes">30</length>
     <title>Le petit journal</title>
     <category>Divertissement</category>
@@ -954,7 +618,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208154000 +0100" stop="20151208164000 +0100">
+  <programme channel="burger" start="20151208114000 +0100" stop="20151208124000 +0100">
     <length units="minutes">60</length>
     <title>Versailles</title>
     <category>Série</category>
@@ -972,7 +636,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208164000 +0100" stop="20151208173000 +0100">
+  <programme channel="burger" start="20151208124000 +0100" stop="20151208133000 +0100">
     <length units="minutes">50</length>
     <title>Versailles</title>
     <category>Série</category>
@@ -990,7 +654,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208173000 +0100" stop="20151208175000 +0100">
+  <programme channel="burger" start="20151208133000 +0100" stop="20151208135000 +0100">
     <length units="minutes">20</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
@@ -1006,7 +670,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208175000 +0100" stop="20151208180000 +0100">
+  <programme channel="burger" start="20151208135000 +0100" stop="20151208140000 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -1016,7 +680,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208180000 +0100" stop="20151208190500 +0100">
+  <programme channel="burger" start="20151208140000 +0100" stop="20151208150500 +0100">
     <length units="minutes">65</length>
     <title>Le grand journal</title>
     <category>Talk show</category>
@@ -1031,7 +695,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208190500 +0100" stop="20151208194000 +0100">
+  <programme channel="burger" start="20151208150500 +0100" stop="20151208154000 +0100">
     <length units="minutes">35</length>
     <title>Le petit journal</title>
     <category>Divertissement</category>
@@ -1052,7 +716,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208194000 +0100" stop="20151208195000 +0100">
+  <programme channel="burger" start="20151208154000 +0100" stop="20151208155000 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -1062,7 +726,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208195000 +0100" stop="20151208195500 +0100">
+  <programme channel="burger" start="20151208155000 +0100" stop="20151208155500 +0100">
     <length units="minutes">5</length>
     <title>Casting(s)</title>
     <category>Série</category>
@@ -1079,7 +743,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208195500 +0100" stop="20151208211000 +0100">
+  <programme channel="burger" start="20151208155500 +0100" stop="20151208171000 +0100">
     <length units="minutes">75</length>
     <title>La nouvelle édition</title>
     <category>Magazine</category>
@@ -1094,7 +758,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208211000 +0100" stop="20151208215500 +0100">
+  <programme channel="burger" start="20151208171000 +0100" stop="20151208175500 +0100">
     <length units="minutes">45</length>
     <title>Le tube</title>
     <category>Magazine</category>
@@ -1104,7 +768,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208215500 +0100" stop="20151208221500 +0100">
+  <programme channel="burger" start="20151208175500 +0100" stop="20151208181500 +0100">
     <length units="minutes">20</length>
     <title>Made in Groland</title>
     <category>Divertissement</category>
@@ -1115,7 +779,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208221500 +0100" stop="20151208234000 +0100">
+  <programme channel="burger" start="20151208181500 +0100" stop="20151208194000 +0100">
     <length units="minutes">85</length>
     <title>The Salvation (?)</title>
     <category>Film</category>
@@ -1133,14 +797,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208234000 +0100" stop="20151209000000 +0100">
+  <programme channel="burger" start="20151208194000 +0100" stop="20151208200000 +0100">
     <length units="minutes">20</length>
     <title>La caméra planquée de François Damiens</title>
     <category>Divertissement</category>
     <desc>Le milliardaire (n°2) Une version moderne de la caméra cachée par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209000000 +0100" stop="20151209012000 +0100">
+  <programme channel="burger" start="20151208200000 +0100" stop="20151208212000 +0100">
     <length units="minutes">80</length>
     <title>La nouvelle édition</title>
     <category>Magazine</category>
@@ -1155,7 +819,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209012000 +0100" stop="20151209015800 +0100">
+  <programme channel="burger" start="20151208212000 +0100" stop="20151208215800 +0100">
     <length units="minutes">38</length>
     <title>Le petit journal</title>
     <category>Divertissement</category>
@@ -1176,28 +840,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209015800 +0100" stop="20151209020100 +0100">
+  <programme channel="burger" start="20151208215800 +0100" stop="20151208220100 +0100">
     <length units="minutes">3</length>
     <title>Catherine et Liliane</title>
     <category>Divertissement</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209020100 +0100" stop="20151209020400 +0100">
+  <programme channel="burger" start="20151208220100 +0100" stop="20151208220400 +0100">
     <length units="minutes">3</length>
     <title>Catherine et Liliane</title>
     <category>Divertissement</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209020400 +0100" stop="20151209021000 +0100">
+  <programme channel="burger" start="20151208220400 +0100" stop="20151208221000 +0100">
     <length units="minutes">6</length>
     <title>Catherine et Liliane</title>
     <category>Divertissement</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209021000 +0100" stop="20151209022000 +0100">
+  <programme channel="burger" start="20151208221000 +0100" stop="20151208222000 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -1207,28 +871,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209022000 +0100" stop="20151209023000 +0100">
+  <programme channel="burger" start="20151208222000 +0100" stop="20151208223000 +0100">
     <length units="minutes">10</length>
     <title>Le JT</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209023000 +0100" stop="20151209023500 +0100">
+  <programme channel="burger" start="20151208223000 +0100" stop="20151208223500 +0100">
     <length units="minutes">5</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209023500 +0100" stop="20151209025000 +0100">
+  <programme channel="burger" start="20151208223500 +0100" stop="20151208225000 +0100">
     <length units="minutes">15</length>
     <title>Zapping</title>
     <category>Divertissement</category>
     <desc>Un cocktail d'images éloquentes, de petites... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209025000 +0100" stop="20151209034500 +0100">
+  <programme channel="burger" start="20151208225000 +0100" stop="20151208234500 +0100">
     <length units="minutes">55</length>
     <title>Versailles</title>
     <category>Série</category>
@@ -1246,7 +910,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209034500 +0100" stop="20151209044000 +0100">
+  <programme channel="burger" start="20151208234500 +0100" stop="20151209004000 +0100">
     <length units="minutes">55</length>
     <title>Versailles</title>
     <category>Série</category>
@@ -1264,7 +928,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209044000 +0100" stop="20151209064000 +0100">
+  <programme channel="burger" start="20151209004000 +0100" stop="20151209024000 +0100">
     <length units="minutes">120</length>
     <title>Une merveilleuse histoire du temps (?)</title>
     <category>Film</category>
@@ -1282,7 +946,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209064000 +0100" stop="20151209074500 +0100">
+  <programme channel="burger" start="20151209024000 +0100" stop="20151209034500 +0100">
     <length units="minutes">65</length>
     <title>Le grand journal</title>
     <category>Talk show</category>
@@ -1297,7 +961,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209074500 +0100" stop="20151209081500 +0100">
+  <programme channel="burger" start="20151209034500 +0100" stop="20151209041500 +0100">
     <length units="minutes">30</length>
     <title>Le petit journal</title>
     <category>Divertissement</category>
@@ -1318,7 +982,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209081500 +0100" stop="20151209082500 +0100">
+  <programme channel="burger" start="20151209041500 +0100" stop="20151209042500 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -1328,14 +992,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209082500 +0100" stop="20151209132000 +0100">
+  <programme channel="burger" start="20151209042500 +0100" stop="20151209092000 +0100">
     <length units="minutes">295</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209132000 +0100" stop="20151209135500 +0100">
+  <programme channel="burger" start="20151209092000 +0100" stop="20151209095500 +0100">
     <length units="minutes">35</length>
     <title>L'effet papillon</title>
     <category>Magazine</category>
@@ -1345,7 +1009,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209135500 +0100" stop="20151209140200 +0100">
+  <programme channel="burger" start="20151209095500 +0100" stop="20151209100200 +0100">
     <length units="minutes">7</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -1355,7 +1019,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209140200 +0100" stop="20151209140500 +0100">
+  <programme channel="burger" start="20151209100200 +0100" stop="20151209100500 +0100">
     <length units="minutes">3</length>
     <title>Casting(s)</title>
     <category>Série</category>
@@ -1372,7 +1036,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209140500 +0100" stop="20151209151000 +0100">
+  <programme channel="burger" start="20151209100500 +0100" stop="20151209111000 +0100">
     <length units="minutes">65</length>
     <title>Le grand journal</title>
     <category>Talk show</category>
@@ -1387,7 +1051,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209151000 +0100" stop="20151209154000 +0100">
+  <programme channel="burger" start="20151209111000 +0100" stop="20151209114000 +0100">
     <length units="minutes">30</length>
     <title>Le petit journal</title>
     <category>Divertissement</category>
@@ -1408,7 +1072,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209154000 +0100" stop="20151209174000 +0100">
+  <programme channel="burger" start="20151209114000 +0100" stop="20151209134000 +0100">
     <length units="minutes">120</length>
     <title>Une merveilleuse histoire du temps (?)</title>
     <category>Film</category>
@@ -1426,7 +1090,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209174000 +0100" stop="20151209180000 +0100">
+  <programme channel="burger" start="20151209134000 +0100" stop="20151209140000 +0100">
     <length units="minutes">20</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
@@ -1445,7 +1109,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209180000 +0100" stop="20151209190500 +0100">
+  <programme channel="burger" start="20151209140000 +0100" stop="20151209150500 +0100">
     <length units="minutes">65</length>
     <title>Le grand journal</title>
     <category>Talk show</category>
@@ -1460,7 +1124,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209190500 +0100" stop="20151209194000 +0100">
+  <programme channel="burger" start="20151209150500 +0100" stop="20151209154000 +0100">
     <length units="minutes">35</length>
     <title>Le petit journal</title>
     <category>Divertissement</category>
@@ -1481,7 +1145,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209194000 +0100" stop="20151209195000 +0100">
+  <programme channel="burger" start="20151209154000 +0100" stop="20151209155000 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -1491,7 +1155,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209195000 +0100" stop="20151209195500 +0100">
+  <programme channel="burger" start="20151209155000 +0100" stop="20151209155500 +0100">
     <length units="minutes">5</length>
     <title>Casting(s)</title>
     <category>Série</category>
@@ -1508,7 +1172,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209195500 +0100" stop="20151209211000 +0100">
+  <programme channel="burger" start="20151209155500 +0100" stop="20151209171000 +0100">
     <length units="minutes">75</length>
     <title>La nouvelle édition</title>
     <category>Magazine</category>
@@ -1523,14 +1187,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209211000 +0100" stop="20151209213500 +0100">
+  <programme channel="burger" start="20151209171000 +0100" stop="20151209173500 +0100">
     <length units="minutes">25</length>
     <title>L'oeil de Links</title>
     <category>Magazine</category>
     <desc>Le webazine de l'activité créative du net :... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209213500 +0100" stop="20151209221500 +0100">
+  <programme channel="burger" start="20151209173500 +0100" stop="20151209181500 +0100">
     <length units="minutes">40</length>
     <title>L'effet papillon</title>
     <category>Magazine</category>
@@ -1540,7 +1204,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209221500 +0100" stop="20151209234500 +0100">
+  <programme channel="burger" start="20151209181500 +0100" stop="20151209194500 +0100">
     <length units="minutes">90</length>
     <title>Kidnapping Mr. Heineken (?)</title>
     <category>Film</category>
@@ -1558,21 +1222,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209234500 +0100" stop="20151209235000 +0100">
+  <programme channel="burger" start="20151209194500 +0100" stop="20151209195000 +0100">
     <length units="minutes">5</length>
     <title>Zapping</title>
     <category>Divertissement</category>
     <desc>Un cocktail d'images éloquentes, de petites... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209235000 +0100" stop="20151210000000 +0100">
+  <programme channel="burger" start="20151209195000 +0100" stop="20151209200000 +0100">
     <length units="minutes">10</length>
     <title>La semaine de Stéphane Guillon</title>
     <category>Divertissement</category>
     <desc>L'humoriste Stéphane Guillon signe une revue... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210000000 +0100" stop="20151210012000 +0100">
+  <programme channel="burger" start="20151209200000 +0100" stop="20151209212000 +0100">
     <length units="minutes">80</length>
     <title>La nouvelle édition</title>
     <category>Magazine</category>
@@ -1587,7 +1251,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210012000 +0100" stop="20151210020000 +0100">
+  <programme channel="burger" start="20151209212000 +0100" stop="20151209220000 +0100">
     <length units="minutes">40</length>
     <title>Le petit journal</title>
     <category>Divertissement</category>
@@ -1608,7 +1272,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210020000 +0100" stop="20151210020200 +0100">
+  <programme channel="burger" start="20151209220000 +0100" stop="20151209220200 +0100">
     <length units="minutes">2</length>
     <title>Bloqués</title>
     <category>Série</category>
@@ -1619,7 +1283,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210020200 +0100" stop="20151210020300 +0100">
+  <programme channel="burger" start="20151209220200 +0100" stop="20151209220300 +0100">
     <length units="minutes">1</length>
     <title>Bloqués</title>
     <category>Série</category>
@@ -1630,7 +1294,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210020300 +0100" stop="20151210020600 +0100">
+  <programme channel="burger" start="20151209220300 +0100" stop="20151209220600 +0100">
     <length units="minutes">3</length>
     <title>Bloqués</title>
     <category>Série</category>
@@ -1641,7 +1305,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210020600 +0100" stop="20151210021000 +0100">
+  <programme channel="burger" start="20151209220600 +0100" stop="20151209221000 +0100">
     <length units="minutes">4</length>
     <title>Bloqués</title>
     <category>Série</category>
@@ -1652,7 +1316,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210021000 +0100" stop="20151210022000 +0100">
+  <programme channel="burger" start="20151209221000 +0100" stop="20151209222000 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -1662,28 +1326,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210022000 +0100" stop="20151210023000 +0100">
+  <programme channel="burger" start="20151209222000 +0100" stop="20151209223000 +0100">
     <length units="minutes">10</length>
     <title>Le JT</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210023000 +0100" stop="20151210023500 +0100">
+  <programme channel="burger" start="20151209223000 +0100" stop="20151209223500 +0100">
     <length units="minutes">5</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210023500 +0100" stop="20151210025000 +0100">
+  <programme channel="burger" start="20151209223500 +0100" stop="20151209225000 +0100">
     <length units="minutes">15</length>
     <title>Zapping</title>
     <category>Divertissement</category>
     <desc>Un cocktail d'images éloquentes, de petites... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210025000 +0100" stop="20151210045000 +0100">
+  <programme channel="burger" start="20151209225000 +0100" stop="20151210005000 +0100">
     <length units="minutes">120</length>
     <title>Une merveilleuse histoire du temps (?)</title>
     <category>Film</category>
@@ -1701,7 +1365,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210045000 +0100" stop="20151210063500 +0100">
+  <programme channel="burger" start="20151210005000 +0100" stop="20151210023500 +0100">
     <length units="minutes">105</length>
     <title>Triple alliance (?)</title>
     <category>Film</category>
@@ -1719,7 +1383,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210063500 +0100" stop="20151210074000 +0100">
+  <programme channel="burger" start="20151210023500 +0100" stop="20151210034000 +0100">
     <length units="minutes">65</length>
     <title>Le grand journal</title>
     <category>Talk show</category>
@@ -1734,7 +1398,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210074000 +0100" stop="20151210081000 +0100">
+  <programme channel="burger" start="20151210034000 +0100" stop="20151210041000 +0100">
     <length units="minutes">30</length>
     <title>Le petit journal de la semaine</title>
     <category>Divertissement</category>
@@ -1755,7 +1419,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210081000 +0100" stop="20151210081500 +0100">
+  <programme channel="burger" start="20151210041000 +0100" stop="20151210041500 +0100">
     <length units="minutes">5</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -1765,7 +1429,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210081500 +0100" stop="20151210095000 +0100">
+  <programme channel="burger" start="20151210041500 +0100" stop="20151210055000 +0100">
     <length units="minutes">95</length>
     <title>Qu'Allah bénisse la France (?)</title>
     <category>Film</category>
@@ -1783,21 +1447,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210095000 +0100" stop="20151210132500 +0100">
+  <programme channel="burger" start="20151210055000 +0100" stop="20151210092500 +0100">
     <length units="minutes">215</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210132500 +0100" stop="20151210135500 +0100">
+  <programme channel="burger" start="20151210092500 +0100" stop="20151210095500 +0100">
     <length units="minutes">30</length>
     <title>L'oeil de Links</title>
     <category>Magazine</category>
     <desc>Le webazine de l'activité créative du net :... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210135500 +0100" stop="20151210140200 +0100">
+  <programme channel="burger" start="20151210095500 +0100" stop="20151210100200 +0100">
     <length units="minutes">7</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -1807,7 +1471,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210140200 +0100" stop="20151210140500 +0100">
+  <programme channel="burger" start="20151210100200 +0100" stop="20151210100500 +0100">
     <length units="minutes">3</length>
     <title>Casting(s)</title>
     <category>Série</category>
@@ -1824,7 +1488,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210140500 +0100" stop="20151210151000 +0100">
+  <programme channel="burger" start="20151210100500 +0100" stop="20151210111000 +0100">
     <length units="minutes">65</length>
     <title>Le grand journal</title>
     <category>Talk show</category>
@@ -1839,7 +1503,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210151000 +0100" stop="20151210153500 +0100">
+  <programme channel="burger" start="20151210111000 +0100" stop="20151210113500 +0100">
     <length units="minutes">25</length>
     <title>Le petit journal de la semaine</title>
     <category>Divertissement</category>
@@ -1860,14 +1524,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210153500 +0100" stop="20151210154000 +0100">
+  <programme channel="burger" start="20151210113500 +0100" stop="20151210114000 +0100">
     <length units="minutes">5</length>
     <title>Eric et Quentin</title>
     <category>Divertissement</category>
     <desc>Eric et Quentin, du «Petit Journal», ne... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210154000 +0100" stop="20151210173000 +0100">
+  <programme channel="burger" start="20151210114000 +0100" stop="20151210133000 +0100">
     <length units="minutes">110</length>
     <title>The Dark Valley (?)</title>
     <category>Film</category>
@@ -1885,7 +1549,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210173000 +0100" stop="20151210175000 +0100">
+  <programme channel="burger" start="20151210133000 +0100" stop="20151210135000 +0100">
     <length units="minutes">20</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
@@ -1903,7 +1567,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210175000 +0100" stop="20151210180000 +0100">
+  <programme channel="burger" start="20151210135000 +0100" stop="20151210140000 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -1913,7 +1577,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210180000 +0100" stop="20151210190500 +0100">
+  <programme channel="burger" start="20151210140000 +0100" stop="20151210150500 +0100">
     <length units="minutes">65</length>
     <title>Le grand journal</title>
     <category>Talk show</category>
@@ -1928,7 +1592,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210190500 +0100" stop="20151210193500 +0100">
+  <programme channel="burger" start="20151210150500 +0100" stop="20151210153500 +0100">
     <length units="minutes">30</length>
     <title>Le petit journal de la semaine</title>
     <category>Divertissement</category>
@@ -1949,28 +1613,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210193500 +0100" stop="20151210194000 +0100">
+  <programme channel="burger" start="20151210153500 +0100" stop="20151210154000 +0100">
     <length units="minutes">5</length>
     <title>Eric et Quentin</title>
     <category>Divertissement</category>
     <desc>Eric et Quentin, du «Petit Journal», ne... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210194000 +0100" stop="20151210195000 +0100">
+  <programme channel="burger" start="20151210154000 +0100" stop="20151210155000 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
-    <desc>Groupe de rock américain, le quatuor Clutch a... (Lire la suite).(c)</desc>
+    <desc>Groupe de rock américain, le quatuor Clutch a... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Stéphane Saunier</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210195000 +0100" stop="20151210195500 +0100">
+  <programme channel="burger" start="20151210155000 +0100" stop="20151210155500 +0100">
     <length units="minutes">5</length>
     <title>Casting(s)</title>
     <category>Série</category>
-    <desc>De jeunes artistes et quelques célébrités... (Lire la suite).(c)</desc>
+    <desc>De jeunes artistes et quelques célébrités... (Lire la suite).</desc>
     <credits>
       <name function="actor">François Civil</name>
       <name function="actor">Pierre Niney</name>
@@ -1983,7 +1647,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210195500 +0100" stop="20151210211000 +0100">
+  <programme channel="burger" start="20151210155500 +0100" stop="20151210171000 +0100">
     <length units="minutes">75</length>
     <title>La nouvelle édition</title>
     <category>Magazine</category>
@@ -1998,7 +1662,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210211000 +0100" stop="20151210222000 +0100">
+  <programme channel="burger" start="20151210171000 +0100" stop="20151210182000 +0100">
     <length units="minutes">70</length>
     <title>Kindia #4</title>
     <category>Documentaire</category>
@@ -2009,7 +1673,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210222000 +0100" stop="20151211000000 +0100">
+  <programme channel="burger" start="20151210182000 +0100" stop="20151210200000 +0100">
     <length units="minutes">100</length>
     <title>Ninja Turtles (?)</title>
     <category>Film</category>
@@ -2027,7 +1691,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211000000 +0100" stop="20151211012000 +0100">
+  <programme channel="burger" start="20151210200000 +0100" stop="20151210212000 +0100">
     <length units="minutes">80</length>
     <title>La nouvelle édition</title>
     <category>Magazine</category>
@@ -2042,11 +1706,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211012000 +0100" stop="20151211015300 +0100">
+  <programme channel="burger" start="20151210212000 +0100" stop="20151210215300 +0100">
     <length units="minutes">33</length>
     <title>Le petit journal de la semaine</title>
     <category>Divertissement</category>
-    <desc>Les meilleurs moments de la semaine compilés... (Lire la suite).(c)</desc>
+    <desc>Les meilleurs moments de la semaine compilés... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Laurent Lucas,</name>
       <name function="presenter">Yann Barthès,</name>
@@ -2063,42 +1727,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211015300 +0100" stop="20151211015900 +0100">
+  <programme channel="burger" start="20151210215300 +0100" stop="20151210215900 +0100">
     <length units="minutes">6</length>
     <title>Eric et Quentin</title>
     <category>Divertissement</category>
-    <desc>Eric et Quentin, du «Petit Journal», ne... (Lire la suite).(c)</desc>
+    <desc>Eric et Quentin, du «Petit Journal», ne... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211015900 +0100" stop="20151211020100 +0100">
+  <programme channel="burger" start="20151210215900 +0100" stop="20151210220100 +0100">
     <length units="minutes">2</length>
     <title>Les tutos</title>
     <category>Série</category>
-    <desc>Carte de voeux (Lire la suite).(c)</desc>
+    <desc>Carte de voeux (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211020100 +0100" stop="20151211020300 +0100">
+  <programme channel="burger" start="20151210220100 +0100" stop="20151210220300 +0100">
     <length units="minutes">2</length>
     <title>Les tutos</title>
     <category>Série</category>
-    <desc>Epilation (Lire la suite).(c)</desc>
+    <desc>Epilation (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211020300 +0100" stop="20151211020500 +0100">
+  <programme channel="burger" start="20151210220300 +0100" stop="20151210220500 +0100">
     <length units="minutes">2</length>
     <title>Les tutos</title>
     <category>Série</category>
-    <desc>Bougie parfumée (Lire la suite).(c)</desc>
+    <desc>Bougie parfumée (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211020500 +0100" stop="20151211021000 +0100">
+  <programme channel="burger" start="20151210220500 +0100" stop="20151210221000 +0100">
     <length units="minutes">5</length>
     <title>Les tutos</title>
     <category>Série</category>
-    <desc>Crêpes (Lire la suite).(c)</desc>
+    <desc>Crêpes (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211021000 +0100" stop="20151211022000 +0100">
+  <programme channel="burger" start="20151210221000 +0100" stop="20151210222000 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -2108,28 +1772,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211022000 +0100" stop="20151211023000 +0100">
+  <programme channel="burger" start="20151210222000 +0100" stop="20151210223000 +0100">
     <length units="minutes">10</length>
     <title>Le JT</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(c)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211023000 +0100" stop="20151211023500 +0100">
+  <programme channel="burger" start="20151210223000 +0100" stop="20151210223500 +0100">
     <length units="minutes">5</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211023500 +0100" stop="20151211025000 +0100">
+  <programme channel="burger" start="20151210223500 +0100" stop="20151210225000 +0100">
     <length units="minutes">15</length>
     <title>Zapping</title>
     <category>Divertissement</category>
-    <desc>Un cocktail d'images éloquentes, de petites... (Lire la suite).(c)</desc>
+    <desc>Un cocktail d'images éloquentes, de petites... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211025000 +0100" stop="20151211043500 +0100">
+  <programme channel="burger" start="20151210225000 +0100" stop="20151211003500 +0100">
     <length units="minutes">105</length>
     <title>Quand vient la nuit (?)</title>
     <category>Film</category>
@@ -2147,7 +1811,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211043500 +0100" stop="20151211052500 +0100">
+  <programme channel="burger" start="20151211003500 +0100" stop="20151211012500 +0100">
     <length units="minutes">50</length>
     <title>Ray Donovan</title>
     <category>Série</category>
@@ -2166,11 +1830,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211052500 +0100" stop="20151211062500 +0100">
+  <programme channel="burger" start="20151211012500 +0100" stop="20151211022500 +0100">
     <length units="minutes">60</length>
     <title>Ray Donovan</title>
     <category>Série</category>
-    <desc>Mickey est aux prises avec les demandes... (Lire la suite).(c)</desc>
+    <desc>Mickey est aux prises avec les demandes... (Lire la suite).</desc>
     <credits>
       <name function="director">Daniel Attias</name>
       <name function="actor">Jon Voight</name>
@@ -2184,11 +1848,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211062500 +0100" stop="20151211073000 +0100">
+  <programme channel="burger" start="20151211022500 +0100" stop="20151211033000 +0100">
     <length units="minutes">65</length>
     <title>Le grand journal</title>
     <category>Talk show</category>
-    <desc>En compagnie de leurs invités, Maïtena... (Lire la suite).(c)</desc>
+    <desc>En compagnie de leurs invités, Maïtena... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Maïtena Biraben,</name>
       <name function="presenter">Victor Robert,</name>
@@ -2199,7 +1863,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211073000 +0100" stop="20151211080000 +0100">
+  <programme channel="burger" start="20151211033000 +0100" stop="20151211040000 +0100">
     <length units="minutes">30</length>
     <title>Le petit journal</title>
     <category>Divertissement</category>
@@ -2220,7 +1884,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211080000 +0100" stop="20151211081000 +0100">
+  <programme channel="burger" start="20151211040000 +0100" stop="20151211041000 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -2230,14 +1894,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211081000 +0100" stop="20151211133500 +0100">
+  <programme channel="burger" start="20151211041000 +0100" stop="20151211093500 +0100">
     <length units="minutes">325</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211133500 +0100" stop="20151211135500 +0100">
+  <programme channel="burger" start="20151211093500 +0100" stop="20151211095500 +0100">
     <length units="minutes">20</length>
     <title>Made in Groland</title>
     <category>Divertissement</category>
@@ -2248,7 +1912,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211135500 +0100" stop="20151211140200 +0100">
+  <programme channel="burger" start="20151211095500 +0100" stop="20151211100200 +0100">
     <length units="minutes">7</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -2258,7 +1922,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211140200 +0100" stop="20151211140500 +0100">
+  <programme channel="burger" start="20151211100200 +0100" stop="20151211100500 +0100">
     <length units="minutes">3</length>
     <title>Casting(s)</title>
     <category>Série</category>
@@ -2275,7 +1939,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211140500 +0100" stop="20151211151000 +0100">
+  <programme channel="burger" start="20151211100500 +0100" stop="20151211111000 +0100">
     <length units="minutes">65</length>
     <title>Le grand journal</title>
     <category>Talk show</category>
@@ -2290,7 +1954,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211151000 +0100" stop="20151211154000 +0100">
+  <programme channel="burger" start="20151211111000 +0100" stop="20151211114000 +0100">
     <length units="minutes">30</length>
     <title>Le petit journal</title>
     <category>Divertissement</category>
@@ -2311,7 +1975,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211154000 +0100" stop="20151211163500 +0100">
+  <programme channel="burger" start="20151211114000 +0100" stop="20151211123500 +0100">
     <length units="minutes">55</length>
     <title>Ray Donovan</title>
     <category>Série</category>
@@ -2330,7 +1994,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211163500 +0100" stop="20151211173000 +0100">
+  <programme channel="burger" start="20151211123500 +0100" stop="20151211133000 +0100">
     <length units="minutes">55</length>
     <title>Ray Donovan</title>
     <category>Série</category>
@@ -2348,7 +2012,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211173000 +0100" stop="20151211175000 +0100">
+  <programme channel="burger" start="20151211133000 +0100" stop="20151211135000 +0100">
     <length units="minutes">20</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
@@ -2365,7 +2029,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211175000 +0100" stop="20151211180000 +0100">
+  <programme channel="burger" start="20151211135000 +0100" stop="20151211140000 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -2375,7 +2039,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211180000 +0100" stop="20151211190500 +0100">
+  <programme channel="burger" start="20151211140000 +0100" stop="20151211150500 +0100">
     <length units="minutes">65</length>
     <title>Le grand journal</title>
     <category>Talk show</category>
@@ -2390,7 +2054,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211190500 +0100" stop="20151211194000 +0100">
+  <programme channel="burger" start="20151211150500 +0100" stop="20151211154000 +0100">
     <length units="minutes">35</length>
     <title>Le petit journal</title>
     <category>Divertissement</category>
@@ -2411,7 +2075,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211194000 +0100" stop="20151211195000 +0100">
+  <programme channel="burger" start="20151211154000 +0100" stop="20151211155000 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -2421,7 +2085,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211195000 +0100" stop="20151211195500 +0100">
+  <programme channel="burger" start="20151211155000 +0100" stop="20151211155500 +0100">
     <length units="minutes">5</length>
     <title>Casting(s)</title>
     <category>Série</category>
@@ -2438,7 +2102,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211195500 +0100" stop="20151211211000 +0100">
+  <programme channel="burger" start="20151211155500 +0100" stop="20151211171000 +0100">
     <length units="minutes">75</length>
     <title>La nouvelle édition</title>
     <category>Magazine</category>
@@ -2453,7 +2117,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211211000 +0100" stop="20151211221500 +0100">
+  <programme channel="burger" start="20151211171000 +0100" stop="20151211181500 +0100">
     <length units="minutes">65</length>
     <title>Salut les Terriens !</title>
     <category>Magazine</category>
@@ -2467,7 +2131,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211221500 +0100" stop="20151211235800 +0100">
+  <programme channel="burger" start="20151211181500 +0100" stop="20151211195800 +0100">
     <length units="minutes">103</length>
     <title>Elle l'adore (?)</title>
     <category>Film</category>
@@ -2485,7 +2149,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211235800 +0100" stop="20151212000000 +0100">
+  <programme channel="burger" start="20151211195800 +0100" stop="20151211200000 +0100">
     <length units="minutes">2</length>
     <title>Ma pire angoisse</title>
     <category>Série</category>
@@ -2501,7 +2165,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212000000 +0100" stop="20151212012000 +0100">
+  <programme channel="burger" start="20151211200000 +0100" stop="20151211212000 +0100">
     <length units="minutes">80</length>
     <title>La nouvelle édition</title>
     <category>Magazine</category>
@@ -2516,7 +2180,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212012000 +0100" stop="20151212020000 +0100">
+  <programme channel="burger" start="20151211212000 +0100" stop="20151211220000 +0100">
     <length units="minutes">40</length>
     <title>Le petit journal</title>
     <category>Divertissement</category>
@@ -2537,14 +2201,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212020000 +0100" stop="20151212021000 +0100">
+  <programme channel="burger" start="20151211220000 +0100" stop="20151211221000 +0100">
     <length units="minutes">10</length>
     <title>Surprises</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212021000 +0100" stop="20151212022500 +0100">
+  <programme channel="burger" start="20151211221000 +0100" stop="20151211222500 +0100">
     <length units="minutes">15</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
@@ -2554,28 +2218,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212022500 +0100" stop="20151212023500 +0100">
+  <programme channel="burger" start="20151211222500 +0100" stop="20151211223500 +0100">
     <length units="minutes">10</length>
     <title>Le JT</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212023500 +0100" stop="20151212024000 +0100">
+  <programme channel="burger" start="20151211223500 +0100" stop="20151211224000 +0100">
     <length units="minutes">5</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212024000 +0100" stop="20151212025000 +0100">
+  <programme channel="burger" start="20151211224000 +0100" stop="20151211225000 +0100">
     <length units="minutes">10</length>
     <title>Zapping</title>
     <category>Divertissement</category>
     <desc>Un cocktail d'images éloquentes, de petites... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212025000 +0100" stop="20151212034000 +0100">
+  <programme channel="burger" start="20151211225000 +0100" stop="20151211234000 +0100">
     <length units="minutes">50</length>
     <title>Ray Donovan</title>
     <category>Série</category>
@@ -2594,7 +2258,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212034000 +0100" stop="20151212044000 +0100">
+  <programme channel="burger" start="20151211234000 +0100" stop="20151212004000 +0100">
     <length units="minutes">60</length>
     <title>Ray Donovan</title>
     <category>Série</category>
@@ -2612,7 +2276,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212044000 +0100" stop="20151212062000 +0100">
+  <programme channel="burger" start="20151212004000 +0100" stop="20151212022000 +0100">
     <length units="minutes">100</length>
     <title>300 : la naissance d'un empire (?)</title>
     <category>Film</category>
@@ -2630,11 +2294,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212062000 +0100" stop="20151212074000 +0100">
+  <programme channel="burger" start="20151212022000 +0100" stop="20151212034000 +0100">
     <length units="minutes">80</length>
     <title>Piranha 2 (?)</title>
     <category>Film</category>
-    <desc>La petite station balnéaire du lac Victoria... (Lire la suite).(n)</desc>
+    <desc>La petite station balnéaire du lac Victoria... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">John Gulager</name>
       <name function="actor">David Koechner</name>
@@ -2648,48 +2312,48 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212074000 +0100" stop="20151212075000 +0100">
+  <programme channel="burger" start="20151212034000 +0100" stop="20151212035000 +0100">
     <length units="minutes">10</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
-    <desc>Groupe de rock américain, le quatuor Clutch a... (Lire la suite).(n)</desc>
+    <desc>Groupe de rock américain, le quatuor Clutch a... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Stéphane Saunier</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212075000 +0100" stop="20151212135000 +0100">
+  <programme channel="burger" start="20151212035000 +0100" stop="20151212095000 +0100">
     <length units="minutes">360</length>
     <title>Fin des programmes</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212135000 +0100" stop="20151212142500 +0100">
+  <programme channel="burger" start="20151212095000 +0100" stop="20151212102500 +0100">
     <length units="minutes">35</length>
     <title>Album de la semaine +</title>
     <category>Magazine</category>
-    <desc>Le groupe Mass Hysteria, figure de proue du... (Lire la suite).(n)</desc>
+    <desc>Le groupe Mass Hysteria, figure de proue du... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Stéphane Saunier</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212142500 +0100" stop="20151212143100 +0100">
+  <programme channel="burger" start="20151212102500 +0100" stop="20151212103100 +0100">
     <length units="minutes">6</length>
     <title>Album de la semaine</title>
     <category>Magazine</category>
-    <desc>Groupe de rock américain, le quatuor Clutch a... (Lire la suite).(n)</desc>
+    <desc>Groupe de rock américain, le quatuor Clutch a... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Stéphane Saunier</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212143100 +0100" stop="20151212143500 +0100">
+  <programme channel="burger" start="20151212103100 +0100" stop="20151212103500 +0100">
     <length units="minutes">4</length>
     <title>Casting(s)</title>
     <category>Série</category>
-    <desc>Richard, directeur de casting le plus... (Lire la suite).(n)</desc>
+    <desc>Richard, directeur de casting le plus... (Lire la suite).</desc>
     <credits>
       <name function="actor">François Civil</name>
       <name function="actor">Pierre Niney</name>
@@ -2702,28 +2366,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212143500 +0100" stop="20151212150000 +0100">
+  <programme channel="burger" start="20151212103500 +0100" stop="20151212110000 +0100">
     <length units="minutes">25</length>
     <title>L'oeil de Links</title>
     <category>Magazine</category>
-    <desc>Le webazine de l'activité créative du net :... (Lire la suite).(n)</desc>
+    <desc>Le webazine de l'activité créative du net :... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212150000 +0100" stop="20151212154500 +0100">
+  <programme channel="burger" start="20151212110000 +0100" stop="20151212114500 +0100">
     <length units="minutes">45</length>
     <title>Le tube</title>
     <category>Magazine</category>
-    <desc>Web, télévision, radio, print : avec sérieux... (Lire la suite).(n)</desc>
+    <desc>Web, télévision, radio, print : avec sérieux... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Ophélie Meunier</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212154500 +0100" stop="20151212171500 +0100">
+  <programme channel="burger" start="20151212114500 +0100" stop="20151212131500 +0100">
     <length units="minutes">90</length>
     <title>Toute première fois (?)</title>
     <category>Film</category>
-    <desc>Mais que fait Jérémie, 34 ans, dans le lit de... (Lire la suite).(n)</desc>
+    <desc>Mais que fait Jérémie, 34 ans, dans le lit de... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Noémie Saglio,</name>
       <name function="director">Maxime Govare</name>
@@ -2738,11 +2402,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212171500 +0100" stop="20151212191100 +0100">
+  <programme channel="burger" start="20151212131500 +0100" stop="20151212151100 +0100">
     <length units="minutes">116</length>
     <title>Samba (?)</title>
     <category>Film</category>
-    <desc>Samba, un sans-papiers sénégalais, vit en... (Lire la suite).(n)</desc>
+    <desc>Samba, un sans-papiers sénégalais, vit en... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Olivier Nakache,</name>
       <name function="director">Eric Toledano</name>
@@ -2757,11 +2421,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212191100 +0100" stop="20151212191500 +0100">
+  <programme channel="burger" start="20151212151100 +0100" stop="20151212151500 +0100">
     <length units="minutes">4</length>
     <title>Casting(s)</title>
     <category>Série</category>
-    <desc>Richard, directeur de casting le plus... (Lire la suite).(n)</desc>
+    <desc>Richard, directeur de casting le plus... (Lire la suite).</desc>
     <credits>
       <name function="actor">François Civil</name>
       <name function="actor">Pierre Niney</name>
@@ -2774,11 +2438,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212191500 +0100" stop="20151212194100 +0100">
+  <programme channel="burger" start="20151212151500 +0100" stop="20151212154100 +0100">
     <length units="minutes">26</length>
     <title>Le petit journal de la semaine</title>
     <category>Divertissement</category>
-    <desc>Les meilleurs moments de la semaine compilés... (Lire la suite).(n)</desc>
+    <desc>Les meilleurs moments de la semaine compilés... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Laurent Lucas,</name>
       <name function="presenter">Yann Barthès,</name>
@@ -2795,59 +2459,248 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212194100 +0100" stop="20151212194500 +0100">
+  <programme channel="burger" start="20151212154100 +0100" stop="20151212154500 +0100">
     <length units="minutes">4</length>
     <title>Eric et Quentin</title>
     <category>Divertissement</category>
-    <desc>Eric et Quentin, du «Petit Journal», ne... (Lire la suite).(n)</desc>
+    <desc>Eric et Quentin, du «Petit Journal», ne... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212194500 +0100" stop="20151212205000 +0100">
+  <programme channel="burger" start="20151212154500 +0100" stop="20151212165000 +0100">
     <length units="minutes">65</length>
     <title>Le tube</title>
     <category>Magazine</category>
-    <desc>Web, télévision, radio, print : avec sérieux... (Lire la suite).(n)</desc>
+    <desc>Web, télévision, radio, print : avec sérieux... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Ophélie Meunier</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212205000 +0100" stop="20151212211000 +0100">
+  <programme channel="burger" start="20151212165000 +0100" stop="20151212171000 +0100">
     <length units="minutes">20</length>
     <title>Zapping de la semaine</title>
     <category>Divertissement</category>
-    <desc>Images cocasses, discours fracassant ou scène... (Lire la suite).(n)</desc>
+    <desc>Images cocasses, discours fracassant ou scène... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212211000 +0100" stop="20151212215000 +0100">
+  <programme channel="burger" start="20151212171000 +0100" stop="20151212175000 +0100">
     <length units="minutes">40</length>
     <title>L'effet papillon</title>
     <category>Magazine</category>
-    <desc>Au sommaire : (Lire la suite).(n)</desc>
+    <desc>Au sommaire : (Lire la suite).</desc>
     <credits>
       <name function="presenter">Daphné Roulier</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212215000 +0100" stop="20151212224000 +0100">
+  <programme channel="burger" start="20151212175000 +0100" stop="20151212184000 +0100">
     <length units="minutes">50</length>
     <title>Spécial investigation</title>
     <category>Magazine</category>
-    <desc>Sur plus de 3700 fondations en France, 634... (Lire la suite).(n)</desc>
+    <desc>Sur plus de 3700 fondations en France, 634... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Stéphane Haumant</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212224000 +0100" stop="20151212230500 +0100">
+  <programme channel="burger" start="20151212184000 +0100" stop="20151212190500 +0100">
     <length units="minutes">25</length>
     <title>L'oeil de Links</title>
     <category>Magazine</category>
-    <desc>Le webazine de l'activité créative du net :... (Lire la suite).(n)</desc>
+    <desc>Le webazine de l'activité créative du net :... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212230500 +0100" stop="20151212234000 +0100">
+  <programme channel="burger" start="20151212190500 +0100" stop="20151212194000 +0100">
     <length units="minutes">35</length>
+    <title>Album de la semaine +</title>
+    <category>Magazine</category>
+    <desc>Gros plan sur le groupe de rock américain... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Stéphane Saunier</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212194000 +0100" stop="20151212202500 +0100">
+    <length units="minutes">45</length>
+    <title>Le tube</title>
+    <category>Magazine</category>
+    <desc>Web, télévision, radio, print : avec sérieux... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Ophélie Meunier</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212202500 +0100" stop="20151212205500 +0100">
+    <length units="minutes">30</length>
+    <title>Le petit journal de la semaine</title>
+    <category>Divertissement</category>
+    <desc>Les meilleurs moments de la semaine compilés... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Laurent Lucas,</name>
+      <name function="presenter">Yann Barthès,</name>
+      <name function="presenter">Willy Papa,</name>
+      <name function="presenter">Martin Weill,</name>
+      <name function="presenter">Paul Larrouturou,</name>
+      <name function="presenter">Eric et Quentin,</name>
+      <name function="presenter">Catherine et Liliane,</name>
+      <name function="presenter">Hugo Clément,</name>
+      <name function="presenter">Camille Crosnier,</name>
+      <name function="presenter">César Charbonnier,</name>
+      <name function="presenter">Orelsan et Gringe,</name>
+      <name function="presenter">Panayotis Pascot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212205500 +0100" stop="20151212210500 +0100">
+    <length units="minutes">10</length>
+    <title>Eric et Quentin</title>
+    <category>Divertissement</category>
+    <desc>Eric et Quentin, du «Petit Journal», ne... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212210500 +0100" stop="20151212221000 +0100">
+    <length units="minutes">65</length>
+    <title>L'émission d'Antoine</title>
+    <category>Divertissement</category>
+    <desc>Pour s'émanciper de l'actualité et raconter... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Antoine de Caunes,</name>
+      <name function="presenter">monsieur Poulpe,</name>
+      <name function="presenter">Alison Wheeler</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212221000 +0100" stop="20151212221800 +0100">
+    <length units="minutes">8</length>
+    <title>Album de la semaine</title>
+    <category>Magazine</category>
+    <desc>Groupe de rock américain, le quatuor Clutch a... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Stéphane Saunier</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212221800 +0100" stop="20151212222500 +0100">
+    <length units="minutes">7</length>
+    <title>Casting(s)</title>
+    <category>Série</category>
+    <desc>Richard, directeur de casting le plus... (Lire la suite).</desc>
+    <credits>
+      <name function="actor">François Civil</name>
+      <name function="actor">Pierre Niney</name>
+      <name function="actor">Ali Marhyar</name>
+      <name function="actor">Igor Gotesman</name>
+      <name function="actor">Natacha Andrews</name>
+      <name function="actor">Guillaume Compiano</name>
+      <name function="actor">Frya Mavor</name>
+      <name function="actor">Pierre Yvon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212222500 +0100" stop="20151212225000 +0100">
+    <length units="minutes">25</length>
+    <title>Zapping de la semaine</title>
+    <category>Divertissement</category>
+    <desc>Images cocasses, discours fracassant ou scène... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212225000 +0100" stop="20151213005000 +0100">
+    <length units="minutes">120</length>
+    <title>Godzilla (?)</title>
+    <category>Film</category>
+    <desc>Le physicien Joseph Brody a perdu sa femme il... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Gareth Edwards</name>
+      <name function="actor">Ken Watanabe</name>
+      <name function="actor">Aaron Taylor-Johnson</name>
+      <name function="actor">Victor Rasuk</name>
+      <name function="actor">Bryan Cranston</name>
+      <name function="actor">Sally Hawkins</name>
+      <name function="actor">Juliette Binoche</name>
+      <name function="actor">David Strathairn</name>
+      <name function="actor">Elizabeth Olsen</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213005000 +0100" stop="20151213030000 +0100">
+    <length units="minutes">130</length>
+    <title>La French (?)</title>
+    <category>Film</category>
+    <desc>Dans les années 70, Marseille est devenue la... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Cédric Jimenez</name>
+      <name function="actor">Bruno Todeschini</name>
+      <name function="actor">Moussa Maaskri</name>
+      <name function="actor">Mélanie Doutey</name>
+      <name function="actor">Jean Dujardin</name>
+      <name function="actor">Gilles Lellouche</name>
+      <name function="actor">Guillaume Gouix</name>
+      <name function="actor">Benoît Magimel</name>
+      <name function="actor">Céline Sallette</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213030000 +0100" stop="20151213031500 +0100">
+    <length units="minutes">15</length>
+    <title>Le journal du hard</title>
+    <category>Magazine</category>
+    <desc>Enquêtes, portraits, reportages et interviews... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Sébastien Thoen</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213031500 +0100" stop="20151213044500 +0100">
+    <length units="minutes">90</length>
+    <title>Le parfum de Manon (?)</title>
+    <category>Film</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Hervé Bodilis,</name>
+      <name function="director">Pascal Lucas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213044500 +0100" stop="20151213055000 +0100">
+    <length units="minutes">65</length>
+    <title>Les pensées de Paul</title>
+    <category>Documentaire</category>
+    <desc>Un portrait de Paul Harfleet, artiste anglais... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jean-Baptiste Erreca</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213055000 +0100" stop="20151213060000 +0100">
+    <length units="minutes">10</length>
+    <title>La semaine de Stéphane Guillon</title>
+    <category>Divertissement</category>
+    <desc>L'humoriste Stéphane Guillon signe une revue... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213060000 +0100" stop="20151213084000 +0100">
+    <length units="minutes">160</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213084000 +0100" stop="20151213094000 +0100">
+    <length units="minutes">60</length>
+    <title>Salut les Terriens !</title>
+    <category>Magazine</category>
+    <desc>Tout de noir vêtu, Thierry Ardissson reçoit... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Stéphane Guillon,</name>
+      <name function="presenter">Thierry Ardisson,</name>
+      <name function="presenter">Stéphane Blakowski,</name>
+      <name function="presenter">Julien Grappe,</name>
+      <name function="presenter">Tom Villa</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213094000 +0100" stop="20151213101000 +0100">
+    <length units="minutes">30</length>
     <title>Album de la semaine +</title>
     <category>Magazine</category>
     <desc>Gros plan sur le groupe de rock américain... (Lire la suite).(n)</desc>
@@ -2856,17 +2709,101 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212234000 +0100" stop="20151213002500 +0100">
-    <length units="minutes">45</length>
-    <title>Le tube</title>
+  <programme channel="burger" start="20151213101000 +0100" stop="20151213104000 +0100">
+    <length units="minutes">30</length>
+    <title>L'oeil de Links</title>
     <category>Magazine</category>
-    <desc>Web, télévision, radio, print : avec sérieux... (Lire la suite).(n)</desc>
+    <desc>Le webazine de l'activité créative du net :... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213104000 +0100" stop="20151213105500 +0100">
+    <length units="minutes">15</length>
+    <title>Made in Groland</title>
+    <category>Divertissement</category>
+    <desc>Depuis plus de vingt ans, la présipauté de... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Ophélie Meunier</name>
+      <name function="presenter">Jules-Edouard Moustic,</name>
+      <name function="presenter">Chiara De Daddy</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213002500 +0100" stop="20151213005500 +0100">
+  <programme channel="burger" start="20151213105500 +0100" stop="20151213123000 +0100">
+    <length units="minutes">95</length>
+    <title>The Anomaly (?)</title>
+    <category>Film</category>
+    <desc>Dans le futur, un homme se réveille à... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Noel Clarke</name>
+      <name function="actor">Brian Cox</name>
+      <name function="actor">Ian Somerhalder</name>
+      <name function="actor">Noel Clarke</name>
+      <name function="actor">Michael Bisping</name>
+      <name function="actor">Alexis Knapp</name>
+      <name function="actor">Art Parkinson</name>
+      <name function="actor">Niall Greig Fulton</name>
+      <name function="actor">Luke Hemsworth</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213123000 +0100" stop="20151213144500 +0100">
+    <length units="minutes">135</length>
+    <title>La French (?)</title>
+    <category>Film</category>
+    <desc>Dans les années 70, Marseille est devenue la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Cédric Jimenez</name>
+      <name function="actor">Bruno Todeschini</name>
+      <name function="actor">Moussa Maaskri</name>
+      <name function="actor">Mélanie Doutey</name>
+      <name function="actor">Jean Dujardin</name>
+      <name function="actor">Gilles Lellouche</name>
+      <name function="actor">Guillaume Gouix</name>
+      <name function="actor">Benoît Magimel</name>
+      <name function="actor">Céline Sallette</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213144500 +0100" stop="20151213151000 +0100">
+    <length units="minutes">25</length>
+    <title>Made in Groland</title>
+    <category>Divertissement</category>
+    <desc>Depuis plus de vingt ans, la présipauté de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jules-Edouard Moustic,</name>
+      <name function="presenter">Chiara De Daddy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213151000 +0100" stop="20151213152000 +0100">
+    <length units="minutes">10</length>
+    <title>La semaine de Stéphane Guillon</title>
+    <category>Divertissement</category>
+    <desc>L'humoriste Stéphane Guillon signe une revue... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213152000 +0100" stop="20151213163000 +0100">
+    <length units="minutes">70</length>
+    <title>L'émission d'Antoine</title>
+    <category>Divertissement</category>
+    <desc>Pour s'émanciper de l'actualité et raconter... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Antoine de Caunes,</name>
+      <name function="presenter">monsieur Poulpe,</name>
+      <name function="presenter">Alison Wheeler</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213163000 +0100" stop="20151213174500 +0100">
+    <length units="minutes">75</length>
+    <title>Le supplément</title>
+    <category>Magazine</category>
+    <desc>Un grand témoin de l'époque répond aux... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Ali Baddou</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213174500 +0100" stop="20151213181500 +0100">
     <length units="minutes">30</length>
     <title>Le petit journal de la semaine</title>
     <category>Divertissement</category>
@@ -2887,78 +2824,91 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213005500 +0100" stop="20151213010500 +0100">
+  <programme channel="burger" start="20151213181500 +0100" stop="20151213182000 +0100">
+    <length units="minutes">5</length>
+    <title>Eric et Quentin</title>
+    <category>Divertissement</category>
+    <desc>Eric et Quentin, du «Petit Journal», ne... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213182000 +0100" stop="20151213185500 +0100">
+    <length units="minutes">35</length>
+    <title>L'effet papillon</title>
+    <category>Magazine</category>
+    <desc>Un événement de l'autre côté de la planète en... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Daphné Roulier</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213185500 +0100" stop="20151213190000 +0100">
+    <length units="minutes">5</length>
+    <title>La semaine de Stéphane Guillon</title>
+    <category>Divertissement</category>
+    <desc>L'humoriste Stéphane Guillon signe une revue... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213190000 +0100" stop="20151213204000 +0100">
+    <length units="minutes">100</length>
+    <title>Aux royaumes du shit</title>
+    <category>Documentaire</category>
+    <desc>Le cannabis consommé en France provient à 80%... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213204000 +0100" stop="20151213215000 +0100">
+    <length units="minutes">70</length>
+    <title>Salut les Terriens !</title>
+    <category>Magazine</category>
+    <desc>Tout de noir vêtu, Thierry Ardissson reçoit... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Stéphane Guillon,</name>
+      <name function="presenter">Thierry Ardisson,</name>
+      <name function="presenter">Stéphane Blakowski,</name>
+      <name function="presenter">Julien Grappe,</name>
+      <name function="presenter">Tom Villa</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213215000 +0100" stop="20151213221000 +0100">
+    <length units="minutes">20</length>
+    <title>Made in Groland</title>
+    <category>Divertissement</category>
+    <desc>Depuis plus de vingt ans, la présipauté de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jules-Edouard Moustic,</name>
+      <name function="presenter">Chiara De Daddy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213221000 +0100" stop="20151213224000 +0100">
+    <length units="minutes">30</length>
+    <title>Le petit journal de la semaine</title>
+    <category>Divertissement</category>
+    <desc>Les meilleurs moments de la semaine compilés... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Laurent Lucas,</name>
+      <name function="presenter">Yann Barthès,</name>
+      <name function="presenter">Willy Papa,</name>
+      <name function="presenter">Martin Weill,</name>
+      <name function="presenter">Paul Larrouturou,</name>
+      <name function="presenter">Eric et Quentin,</name>
+      <name function="presenter">Catherine et Liliane,</name>
+      <name function="presenter">Hugo Clément,</name>
+      <name function="presenter">Camille Crosnier,</name>
+      <name function="presenter">César Charbonnier,</name>
+      <name function="presenter">Orelsan et Gringe,</name>
+      <name function="presenter">Panayotis Pascot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213224000 +0100" stop="20151213225000 +0100">
     <length units="minutes">10</length>
     <title>Eric et Quentin</title>
     <category>Divertissement</category>
     <desc>Eric et Quentin, du «Petit Journal», ne... (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213010500 +0100" stop="20151213021000 +0100">
-    <length units="minutes">65</length>
-    <title>L'émission d'Antoine</title>
-    <category>Divertissement</category>
-    <desc>Pour s'émanciper de l'actualité et raconter... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Antoine de Caunes,</name>
-      <name function="presenter">monsieur Poulpe,</name>
-      <name function="presenter">Alison Wheeler</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213021000 +0100" stop="20151213021800 +0100">
-    <length units="minutes">8</length>
-    <title>Album de la semaine</title>
-    <category>Magazine</category>
-    <desc>Groupe de rock américain, le quatuor Clutch a... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Stéphane Saunier</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213021800 +0100" stop="20151213022500 +0100">
-    <length units="minutes">7</length>
-    <title>Casting(s)</title>
-    <category>Série</category>
-    <desc>Richard, directeur de casting le plus... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="actor">François Civil</name>
-      <name function="actor">Pierre Niney</name>
-      <name function="actor">Ali Marhyar</name>
-      <name function="actor">Igor Gotesman</name>
-      <name function="actor">Natacha Andrews</name>
-      <name function="actor">Guillaume Compiano</name>
-      <name function="actor">Frya Mavor</name>
-      <name function="actor">Pierre Yvon</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213022500 +0100" stop="20151213025000 +0100">
-    <length units="minutes">25</length>
-    <title>Zapping de la semaine</title>
-    <category>Divertissement</category>
-    <desc>Images cocasses, discours fracassant ou scène... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213025000 +0100" stop="20151213045000 +0100">
-    <length units="minutes">120</length>
-    <title>Godzilla (?)</title>
-    <category>Film</category>
-    <desc>Le physicien Joseph Brody a perdu sa femme il... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Gareth Edwards</name>
-      <name function="actor">Ken Watanabe</name>
-      <name function="actor">Aaron Taylor-Johnson</name>
-      <name function="actor">Victor Rasuk</name>
-      <name function="actor">Bryan Cranston</name>
-      <name function="actor">Sally Hawkins</name>
-      <name function="actor">Juliette Binoche</name>
-      <name function="actor">David Strathairn</name>
-      <name function="actor">Elizabeth Olsen</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213045000 +0100" stop="20151213070000 +0100">
+  <programme channel="burger" start="20151213225000 +0100" stop="20151214010000 +0100">
     <length units="minutes">130</length>
     <title>La French (?)</title>
     <category>Film</category>
@@ -2973,6 +2923,18 @@
       <name function="actor">Guillaume Gouix</name>
       <name function="actor">Benoît Magimel</name>
       <name function="actor">Céline Sallette</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151214010000 +0100" stop="20151214020000 +0100">
+    <length units="minutes">60</length>
+    <title>L'émission d'Antoine</title>
+    <category>Divertissement</category>
+    <desc>Pour s'émanciper de l'actualité et raconter... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Antoine de Caunes,</name>
+      <name function="presenter">monsieur Poulpe,</name>
+      <name function="presenter">Alison Wheeler</name>
     </credits>
     <image />
   </programme>

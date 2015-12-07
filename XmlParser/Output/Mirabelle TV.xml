@@ -1,162 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Mirabelle TV">
-    <display-name>MTV</display-name>
+    <display-name>burger</display-name>
   </channel>
-  <programme channel="MTV" start="20151206120000 +0100" stop="20151206130000 +0100">
-    <length units="minutes">60</length>
-    <title>Rediffusions en boucle</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206130000 +0100" stop="20151206140000 +0100">
-    <length units="minutes">60</length>
-    <title>JT de la semaine</title>
-    <category>Journal</category>
-    <desc>Politique, sport, culture : retour sur l'actualité régionale de la semaine. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206140000 +0100" stop="20151206153000 +0100">
-    <length units="minutes">90</length>
-    <title>47 minutes</title>
-    <category>Documentaire</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206153000 +0100" stop="20151206160000 +0100">
-    <length units="minutes">30</length>
-    <title>Cap à l'Est</title>
-    <category>Magazine</category>
-    <desc>Valentine Tschaen Blaise découvre les pays de Lorraine à travers la vie passionnée et passionnante des gens qui la font... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Valentine Tschaen Blaise</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206160000 +0100" stop="20151206173000 +0100">
-    <length units="minutes">90</length>
-    <title>1, 2, 3 musette</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206173000 +0100" stop="20151206180000 +0100">
-    <length units="minutes">30</length>
-    <title>A feu doux</title>
-    <category>Magazine</category>
-    <desc>Le rendez-vous avec la cuisine et les produits du terroir et la rencontre d'un chef de la région. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206180000 +0100" stop="20151206203000 +0100">
-    <length units="minutes">150</length>
-    <title>Murder a la Mod (?)</title>
-    <category>Film</category>
-    <desc>(Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Brian De Palma</name>
-      <name function="actor">Jared Martin</name>
-      <name function="actor">Jennifer Salt</name>
-      <name function="actor">William Finley</name>
-      <name function="actor">Andra Akers</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206203000 +0100" stop="20151206223000 +0100">
-    <length units="minutes">120</length>
-    <title>1, 2, 3 musette</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206223000 +0100" stop="20151206233000 +0100">
-    <length units="minutes">60</length>
-    <title>A la découverte du monde</title>
-    <category>Documentaire</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206233000 +0100" stop="20151207003000 +0100">
-    <length units="minutes">60</length>
-    <title>Le club de la presse</title>
-    <category>Magazine</category>
-    <desc>L'actualité vu par les médias de la région. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207003000 +0100" stop="20151207014500 +0100">
-    <length units="minutes">75</length>
-    <title>Cap à l'Est</title>
-    <category>Magazine</category>
-    <desc>Valentine Tschaen Blaise découvre les pays de Lorraine à travers la vie passionnée et passionnante des gens qui la font... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Valentine Tschaen Blaise</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207014500 +0100" stop="20151207050000 +0100">
-    <length units="minutes">195</length>
-    <title>Elections régionales 2015</title>
-    <category />
-    <desc>1er tour (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207050000 +0100" stop="20151207063000 +0100">
-    <length units="minutes">90</length>
-    <title>Elections régionales 2015</title>
-    <category />
-    <desc>1er tour (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207063000 +0100" stop="20151207120000 +0100">
+  <programme channel="burger" start="20151207023000 +0100" stop="20151207080000 +0100">
     <length units="minutes">330</length>
     <title>Rediffusions en boucle</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207120000 +0100" stop="20151207130000 +0100">
+  <programme channel="burger" start="20151207080000 +0100" stop="20151207090000 +0100">
     <length units="minutes">60</length>
     <title>Rediffusions en boucle</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207130000 +0100" stop="20151207173000 +0100">
+  <programme channel="burger" start="20151207090000 +0100" stop="20151207133000 +0100">
     <length units="minutes">270</length>
     <title>Elections Régionales 2015</title>
     <category>Magazine</category>
     <desc>1er tour (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207173000 +0100" stop="20151207183000 +0100">
+  <programme channel="burger" start="20151207133000 +0100" stop="20151207143000 +0100">
     <length units="minutes">60</length>
     <title>Mirabelle gourmande</title>
     <category>Magazine</category>
     <desc>Une personnalité lorraine dévoile les secrets de sa recette préférée. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207183000 +0100" stop="20151207203000 +0100">
+  <programme channel="burger" start="20151207143000 +0100" stop="20151207163000 +0100">
     <length units="minutes">120</length>
     <title>Le club de la presse</title>
     <category>Magazine</category>
     <desc>L'actualité vu par les médias de la région. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207203000 +0100" stop="20151207210000 +0100">
+  <programme channel="burger" start="20151207163000 +0100" stop="20151207170000 +0100">
     <length units="minutes">30</length>
     <title>1, 2, 3 musette</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207210000 +0100" stop="20151207220000 +0100">
+  <programme channel="burger" start="20151207170000 +0100" stop="20151207180000 +0100">
     <length units="minutes">60</length>
     <title>47 minutes</title>
     <category>Documentaire</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207220000 +0100" stop="20151208000000 +0100">
+  <programme channel="burger" start="20151207180000 +0100" stop="20151207200000 +0100">
     <length units="minutes">120</length>
     <title>Murder a la Mod (?)</title>
     <category>Film</category>
@@ -170,7 +66,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208000000 +0100" stop="20151208010000 +0100">
+  <programme channel="burger" start="20151207200000 +0100" stop="20151207210000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -181,14 +77,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208010000 +0100" stop="20151208023000 +0100">
+  <programme channel="burger" start="20151207210000 +0100" stop="20151207223000 +0100">
     <length units="minutes">90</length>
     <title>Une semaine en Lorraine</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208023000 +0100" stop="20151208043000 +0100">
+  <programme channel="burger" start="20151207223000 +0100" stop="20151208003000 +0100">
     <length units="minutes">120</length>
     <title>Cap à l'Est : La compil'</title>
     <category>Magazine</category>
@@ -198,28 +94,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208043000 +0100" stop="20151208120000 +0100">
+  <programme channel="burger" start="20151208003000 +0100" stop="20151208080000 +0100">
     <length units="minutes">450</length>
     <title>Rediffusions en boucle</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208120000 +0100" stop="20151208130000 +0100">
+  <programme channel="burger" start="20151208080000 +0100" stop="20151208090000 +0100">
     <length units="minutes">60</length>
     <title>Rediffusions en boucle</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208130000 +0100" stop="20151208133000 +0100">
+  <programme channel="burger" start="20151208090000 +0100" stop="20151208093000 +0100">
     <length units="minutes">30</length>
     <title>Une semaine en Lorraine</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208133000 +0100" stop="20151208143000 +0100">
+  <programme channel="burger" start="20151208093000 +0100" stop="20151208103000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -230,7 +126,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208143000 +0100" stop="20151208163000 +0100">
+  <programme channel="burger" start="20151208103000 +0100" stop="20151208123000 +0100">
     <length units="minutes">120</length>
     <title>Terres de France</title>
     <category>Magazine</category>
@@ -240,7 +136,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208163000 +0100" stop="20151208173000 +0100">
+  <programme channel="burger" start="20151208123000 +0100" stop="20151208133000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -251,35 +147,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208173000 +0100" stop="20151208180000 +0100">
+  <programme channel="burger" start="20151208133000 +0100" stop="20151208140000 +0100">
     <length units="minutes">30</length>
     <title>Mirabelle gourmande</title>
     <category>Magazine</category>
     <desc>Une personnalité lorraine dévoile les secrets de sa recette préférée. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208180000 +0100" stop="20151208203000 +0100">
+  <programme channel="burger" start="20151208140000 +0100" stop="20151208163000 +0100">
     <length units="minutes">150</length>
     <title>A feu doux</title>
     <category>Magazine</category>
     <desc>Le rendez-vous avec la cuisine et les produits du terroir et la rencontre d'un chef de la région. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208203000 +0100" stop="20151208220000 +0100">
+  <programme channel="burger" start="20151208163000 +0100" stop="20151208180000 +0100">
     <length units="minutes">90</length>
     <title>1, 2, 3 musette</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208220000 +0100" stop="20151209000000 +0100">
+  <programme channel="burger" start="20151208180000 +0100" stop="20151208200000 +0100">
     <length units="minutes">120</length>
     <title>Le club de la presse</title>
     <category>Magazine</category>
     <desc>L'actualité vu par les médias de la région. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209000000 +0100" stop="20151209010000 +0100">
+  <programme channel="burger" start="20151208200000 +0100" stop="20151208210000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -290,7 +186,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209010000 +0100" stop="20151209013000 +0100">
+  <programme channel="burger" start="20151208210000 +0100" stop="20151208213000 +0100">
     <length units="minutes">30</length>
     <title>Ci Né Ma</title>
     <category>Magazine</category>
@@ -300,7 +196,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209013000 +0100" stop="20151209023000 +0100">
+  <programme channel="burger" start="20151208213000 +0100" stop="20151208223000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -311,7 +207,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209023000 +0100" stop="20151209043000 +0100">
+  <programme channel="burger" start="20151208223000 +0100" stop="20151209003000 +0100">
     <length units="minutes">120</length>
     <title>Graoully mag</title>
     <category>Magazine</category>
@@ -321,7 +217,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209043000 +0100" stop="20151209053000 +0100">
+  <programme channel="burger" start="20151209003000 +0100" stop="20151209013000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -332,21 +228,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209053000 +0100" stop="20151209120000 +0100">
+  <programme channel="burger" start="20151209013000 +0100" stop="20151209080000 +0100">
     <length units="minutes">390</length>
     <title>Rediffusions en boucle</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209120000 +0100" stop="20151209130000 +0100">
+  <programme channel="burger" start="20151209080000 +0100" stop="20151209090000 +0100">
     <length units="minutes">60</length>
     <title>Rediffusions en boucle</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209130000 +0100" stop="20151209133000 +0100">
+  <programme channel="burger" start="20151209090000 +0100" stop="20151209093000 +0100">
     <length units="minutes">30</length>
     <title>Ci Né Ma</title>
     <category>Magazine</category>
@@ -356,7 +252,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209133000 +0100" stop="20151209143000 +0100">
+  <programme channel="burger" start="20151209093000 +0100" stop="20151209103000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -367,7 +263,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209143000 +0100" stop="20151209173000 +0100">
+  <programme channel="burger" start="20151209103000 +0100" stop="20151209133000 +0100">
     <length units="minutes">180</length>
     <title>Graoully mag</title>
     <category>Magazine</category>
@@ -377,14 +273,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209173000 +0100" stop="20151209193000 +0100">
+  <programme channel="burger" start="20151209133000 +0100" stop="20151209153000 +0100">
     <length units="minutes">120</length>
     <title>Mirabelle gourmande</title>
     <category>Magazine</category>
     <desc>Une personnalité lorraine dévoile les secrets de sa recette préférée. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209193000 +0100" stop="20151209203000 +0100">
+  <programme channel="burger" start="20151209153000 +0100" stop="20151209163000 +0100">
     <length units="minutes">60</length>
     <title>Terres de France</title>
     <category>Magazine</category>
@@ -394,14 +290,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209203000 +0100" stop="20151209210000 +0100">
+  <programme channel="burger" start="20151209163000 +0100" stop="20151209170000 +0100">
     <length units="minutes">30</length>
     <title>1, 2, 3 musette</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209210000 +0100" stop="20151209233000 +0100">
+  <programme channel="burger" start="20151209170000 +0100" stop="20151209193000 +0100">
     <length units="minutes">150</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -412,14 +308,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209233000 +0100" stop="20151210000000 +0100">
+  <programme channel="burger" start="20151209193000 +0100" stop="20151209200000 +0100">
     <length units="minutes">30</length>
     <title>Grand tourisme</title>
     <category>Magazine</category>
     <desc>Bancs d'essais, caratéristiques détaillées des voitures neuves, conseils de conduite, infos : tout pour devenir un pro de la route et de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210000000 +0100" stop="20151210010000 +0100">
+  <programme channel="burger" start="20151209200000 +0100" stop="20151209210000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -430,42 +326,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210010000 +0100" stop="20151210023000 +0100">
+  <programme channel="burger" start="20151209210000 +0100" stop="20151209223000 +0100">
     <length units="minutes">90</length>
     <title>Débat élections Régionales 2015</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210023000 +0100" stop="20151210043000 +0100">
+  <programme channel="burger" start="20151209223000 +0100" stop="20151210003000 +0100">
     <length units="minutes">120</length>
     <title>Basket-ball (Charleroi (Bel) / Nancy (Fra))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210043000 +0100" stop="20151210053000 +0100">
+  <programme channel="burger" start="20151210003000 +0100" stop="20151210013000 +0100">
     <length units="minutes">60</length>
     <title>Débat élections Régionales 2015</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210053000 +0100" stop="20151210120000 +0100">
+  <programme channel="burger" start="20151210013000 +0100" stop="20151210080000 +0100">
     <length units="minutes">390</length>
     <title>Rediffusions en boucle</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210120000 +0100" stop="20151210133000 +0100">
+  <programme channel="burger" start="20151210080000 +0100" stop="20151210093000 +0100">
     <length units="minutes">90</length>
     <title>Rediffusions en boucle</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210133000 +0100" stop="20151210143000 +0100">
+  <programme channel="burger" start="20151210093000 +0100" stop="20151210103000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -476,28 +372,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210143000 +0100" stop="20151210153000 +0100">
+  <programme channel="burger" start="20151210103000 +0100" stop="20151210113000 +0100">
     <length units="minutes">60</length>
     <title>A la découverte du monde</title>
     <category>Documentaire</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210153000 +0100" stop="20151210173000 +0100">
+  <programme channel="burger" start="20151210113000 +0100" stop="20151210133000 +0100">
     <length units="minutes">120</length>
     <title>Débat élections Régionales 2015</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210173000 +0100" stop="20151210183000 +0100">
+  <programme channel="burger" start="20151210133000 +0100" stop="20151210143000 +0100">
     <length units="minutes">60</length>
     <title>Mirabelle gourmande</title>
     <category>Magazine</category>
     <desc>Une personnalité lorraine dévoile les secrets de sa recette préférée. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210183000 +0100" stop="20151210203000 +0100">
+  <programme channel="burger" start="20151210143000 +0100" stop="20151210163000 +0100">
     <length units="minutes">120</length>
     <title>Graoully mag</title>
     <category>Magazine</category>
@@ -507,14 +403,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210203000 +0100" stop="20151210210000 +0100">
+  <programme channel="burger" start="20151210163000 +0100" stop="20151210170000 +0100">
     <length units="minutes">30</length>
     <title>1, 2, 3 musette</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210210000 +0100" stop="20151210220000 +0100">
+  <programme channel="burger" start="20151210170000 +0100" stop="20151210180000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -525,14 +421,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210220000 +0100" stop="20151211000000 +0100">
+  <programme channel="burger" start="20151210180000 +0100" stop="20151210200000 +0100">
     <length units="minutes">120</length>
     <title>Débat élections Régionales 2015</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211000000 +0100" stop="20151211010000 +0100">
+  <programme channel="burger" start="20151210200000 +0100" stop="20151210210000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -543,14 +439,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211010000 +0100" stop="20151211023000 +0100">
+  <programme channel="burger" start="20151210210000 +0100" stop="20151210223000 +0100">
     <length units="minutes">90</length>
     <title>Le club de la presse</title>
     <category>Magazine</category>
     <desc>L'actualité vu par les médias de la région. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211023000 +0100" stop="20151211043000 +0100">
+  <programme channel="burger" start="20151210223000 +0100" stop="20151211003000 +0100">
     <length units="minutes">120</length>
     <title>Tosca (?)</title>
     <category>Film</category>
@@ -564,7 +460,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211043000 +0100" stop="20151211053000 +0100">
+  <programme channel="burger" start="20151211003000 +0100" stop="20151211013000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -575,28 +471,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211053000 +0100" stop="20151211120000 +0100">
+  <programme channel="burger" start="20151211013000 +0100" stop="20151211080000 +0100">
     <length units="minutes">390</length>
     <title>Rediffusions en boucle</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211120000 +0100" stop="20151211130000 +0100">
+  <programme channel="burger" start="20151211080000 +0100" stop="20151211090000 +0100">
     <length units="minutes">60</length>
     <title>Rediffusions en boucle</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211130000 +0100" stop="20151211133000 +0100">
+  <programme channel="burger" start="20151211090000 +0100" stop="20151211093000 +0100">
     <length units="minutes">30</length>
     <title>Le club de la presse</title>
     <category>Magazine</category>
     <desc>L'actualité vu par les médias de la région. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211133000 +0100" stop="20151211143000 +0100">
+  <programme channel="burger" start="20151211093000 +0100" stop="20151211103000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -607,7 +503,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211143000 +0100" stop="20151211163000 +0100">
+  <programme channel="burger" start="20151211103000 +0100" stop="20151211123000 +0100">
     <length units="minutes">120</length>
     <title>Tosca (?)</title>
     <category>Film</category>
@@ -621,7 +517,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211163000 +0100" stop="20151211173000 +0100">
+  <programme channel="burger" start="20151211123000 +0100" stop="20151211133000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -632,28 +528,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211173000 +0100" stop="20151211183000 +0100">
+  <programme channel="burger" start="20151211133000 +0100" stop="20151211143000 +0100">
     <length units="minutes">60</length>
     <title>Mirabelle gourmande</title>
     <category>Magazine</category>
     <desc>Une personnalité lorraine dévoile les secrets de sa recette préférée. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211183000 +0100" stop="20151211203000 +0100">
+  <programme channel="burger" start="20151211143000 +0100" stop="20151211163000 +0100">
     <length units="minutes">120</length>
     <title>Débat élections Régionales 2015</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211203000 +0100" stop="20151211210000 +0100">
+  <programme channel="burger" start="20151211163000 +0100" stop="20151211170000 +0100">
     <length units="minutes">30</length>
     <title>1, 2, 3 musette</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211210000 +0100" stop="20151211220000 +0100">
+  <programme channel="burger" start="20151211170000 +0100" stop="20151211180000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -664,7 +560,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211220000 +0100" stop="20151212000000 +0100">
+  <programme channel="burger" start="20151211180000 +0100" stop="20151211200000 +0100">
     <length units="minutes">120</length>
     <title>Graoully mag</title>
     <category>Magazine</category>
@@ -674,7 +570,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212000000 +0100" stop="20151212010000 +0100">
+  <programme channel="burger" start="20151211200000 +0100" stop="20151211210000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -685,21 +581,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212010000 +0100" stop="20151212033000 +0100">
+  <programme channel="burger" start="20151211210000 +0100" stop="20151211233000 +0100">
     <length units="minutes">150</length>
     <title>JT de la semaine</title>
     <category>Journal</category>
     <desc>Politique, sport, culture : retour sur l'actualité régionale de la semaine. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212033000 +0100" stop="20151212043000 +0100">
+  <programme channel="burger" start="20151211233000 +0100" stop="20151212003000 +0100">
     <length units="minutes">60</length>
     <title>Carla Bruni à l'Olympia</title>
     <category>Concert</category>
     <desc>Sur la scène de l'Olympia, Carla Bruni propose une relecture intimiste de son répertoire, avec des versions remaniées de «Quelqu'un m'a dit» ou... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212043000 +0100" stop="20151212053000 +0100">
+  <programme channel="burger" start="20151212003000 +0100" stop="20151212013000 +0100">
     <length units="minutes">60</length>
     <title>Juste avant de zapper</title>
     <category>Divertissement</category>
@@ -710,57 +606,154 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212053000 +0100" stop="20151212120000 +0100">
+  <programme channel="burger" start="20151212013000 +0100" stop="20151212080000 +0100">
     <length units="minutes">390</length>
     <title>Rediffusions en boucle</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212120000 +0100" stop="20151212130000 +0100">
+  <programme channel="burger" start="20151212080000 +0100" stop="20151212090000 +0100">
+    <length units="minutes">60</length>
+    <title>Rediffusions en boucle</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212090000 +0100" stop="20151212093000 +0100">
+    <length units="minutes">30</length>
+    <title>De vous à moi</title>
+    <category>Divertissement</category>
+    <desc>Un entretien intimiste au cour duquel une personnalité lorraine est amenée à se montrer sous un «autre jour», bien au-delà de l'image qu'elle... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Marylène Bergmann</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212093000 +0100" stop="20151212113000 +0100">
+    <length units="minutes">120</length>
+    <title>Juste avant de zapper</title>
+    <category>Divertissement</category>
+    <desc>Entre information et divertissement, «Juste avant de zapper» aborde les thèmes d'actualité de la région. Alicia Hiblot et Arnaud Cael, entourés... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Arnaud Cael,</name>
+      <name function="presenter">Alicia Hiblot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212113000 +0100" stop="20151212133000 +0100">
+    <length units="minutes">120</length>
+    <title>A feu doux</title>
+    <category>Magazine</category>
+    <desc>Le rendez-vous avec la cuisine et les produits du terroir et la rencontre d'un chef de la région. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212133000 +0100" stop="20151212140000 +0100">
+    <length units="minutes">30</length>
+    <title>Mirabelle gourmande</title>
+    <category>Magazine</category>
+    <desc>Une personnalité lorraine dévoile les secrets de sa recette préférée. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212140000 +0100" stop="20151212153000 +0100">
+    <length units="minutes">90</length>
+    <title>Cap à l'Est</title>
+    <category>Magazine</category>
+    <desc>Valentine Tschaen Blaise découvre les pays de Lorraine à travers la vie passionnée et passionnante des gens qui la font... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Valentine Tschaen Blaise</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212153000 +0100" stop="20151212163000 +0100">
+    <length units="minutes">60</length>
+    <title>A la découverte du monde</title>
+    <category>Documentaire</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212163000 +0100" stop="20151212170000 +0100">
+    <length units="minutes">30</length>
+    <title>1, 2, 3 musette</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212170000 +0100" stop="20151212193000 +0100">
+    <length units="minutes">150</length>
+    <title>Juste avant de zapper</title>
+    <category>Divertissement</category>
+    <desc>Entre information et divertissement, «Juste avant de zapper» aborde les thèmes d'actualité de la région. Alicia Hiblot et Arnaud Cael, entourés... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Arnaud Cael,</name>
+      <name function="presenter">Alicia Hiblot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212193000 +0100" stop="20151212210000 +0100">
+    <length units="minutes">90</length>
+    <title>Mirabelle gourmande</title>
+    <category>Magazine</category>
+    <desc>Une personnalité lorraine dévoile les secrets de sa recette préférée. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212210000 +0100" stop="20151212220000 +0100">
+    <length units="minutes">60</length>
+    <title>De vous à moi</title>
+    <category>Divertissement</category>
+    <desc>Un entretien intimiste au cour duquel une personnalité lorraine est amenée à se montrer sous un «autre jour», bien au-delà de l'image qu'elle... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Marylène Bergmann</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212220000 +0100" stop="20151212223000 +0100">
+    <length units="minutes">30</length>
+    <title>Cap à l'Est</title>
+    <category>Magazine</category>
+    <desc>Valentine Tschaen Blaise découvre les pays de Lorraine à travers la vie passionnée et passionnante des gens qui la font... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Valentine Tschaen Blaise</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212223000 +0100" stop="20151213003000 +0100">
+    <length units="minutes">120</length>
+    <title>47 minutes</title>
+    <category>Documentaire</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213003000 +0100" stop="20151213080000 +0100">
+    <length units="minutes">450</length>
+    <title>Rediffusions en boucle</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213080000 +0100" stop="20151213090000 +0100">
     <length units="minutes">60</length>
     <title>Rediffusions en boucle</title>
     <category />
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212130000 +0100" stop="20151212133000 +0100">
-    <length units="minutes">30</length>
-    <title>De vous à moi</title>
-    <category>Divertissement</category>
-    <desc>Un entretien intimiste au cour duquel une personnalité lorraine est amenée à se montrer sous un «autre jour», bien au-delà de l'image qu'elle... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Marylène Bergmann</name>
-    </credits>
+  <programme channel="burger" start="20151213090000 +0100" stop="20151213100000 +0100">
+    <length units="minutes">60</length>
+    <title>JT de la semaine</title>
+    <category>Journal</category>
+    <desc>Politique, sport, culture : retour sur l'actualité régionale de la semaine. (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212133000 +0100" stop="20151212153000 +0100">
-    <length units="minutes">120</length>
-    <title>Juste avant de zapper</title>
-    <category>Divertissement</category>
-    <desc>Entre information et divertissement, «Juste avant de zapper» aborde les thèmes d'actualité de la région. Alicia Hiblot et Arnaud Cael, entourés... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Arnaud Cael,</name>
-      <name function="presenter">Alicia Hiblot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212153000 +0100" stop="20151212173000 +0100">
-    <length units="minutes">120</length>
-    <title>A feu doux</title>
-    <category>Magazine</category>
-    <desc>Le rendez-vous avec la cuisine et les produits du terroir et la rencontre d'un chef de la région. (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212173000 +0100" stop="20151212180000 +0100">
-    <length units="minutes">30</length>
-    <title>Mirabelle gourmande</title>
-    <category>Magazine</category>
-    <desc>Une personnalité lorraine dévoile les secrets de sa recette préférée. (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212180000 +0100" stop="20151212193000 +0100">
+  <programme channel="burger" start="20151213100000 +0100" stop="20151213113000 +0100">
     <length units="minutes">90</length>
+    <title>47 minutes</title>
+    <category>Documentaire</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213113000 +0100" stop="20151213120000 +0100">
+    <length units="minutes">30</length>
     <title>Cap à l'Est</title>
     <category>Magazine</category>
     <desc>Valentine Tschaen Blaise découvre les pays de Lorraine à travers la vie passionnée et passionnante des gens qui la font... (Lire la suite).(n)</desc>
@@ -769,50 +762,57 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212193000 +0100" stop="20151212203000 +0100">
+  <programme channel="burger" start="20151213120000 +0100" stop="20151213133000 +0100">
+    <length units="minutes">90</length>
+    <title>1, 2, 3 musette</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213133000 +0100" stop="20151213140000 +0100">
+    <length units="minutes">30</length>
+    <title>A feu doux</title>
+    <category>Magazine</category>
+    <desc>Le rendez-vous avec la cuisine et les produits du terroir et la rencontre d'un chef de la région. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213140000 +0100" stop="20151213163000 +0100">
+    <length units="minutes">150</length>
+    <title>Tosca (?)</title>
+    <category>Film</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Carl Koch,</name>
+      <name function="director">Jean Renoir</name>
+      <name function="actor">Michel Simon</name>
+      <name function="actor">Rossano Brazzi</name>
+      <name function="actor">Imperio Argentina</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213163000 +0100" stop="20151213183000 +0100">
+    <length units="minutes">120</length>
+    <title>1, 2, 3 musette</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213183000 +0100" stop="20151213193000 +0100">
     <length units="minutes">60</length>
     <title>A la découverte du monde</title>
     <category>Documentaire</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212203000 +0100" stop="20151212210000 +0100">
-    <length units="minutes">30</length>
-    <title>1, 2, 3 musette</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212210000 +0100" stop="20151212233000 +0100">
-    <length units="minutes">150</length>
-    <title>Juste avant de zapper</title>
-    <category>Divertissement</category>
-    <desc>Entre information et divertissement, «Juste avant de zapper» aborde les thèmes d'actualité de la région. Alicia Hiblot et Arnaud Cael, entourés... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Arnaud Cael,</name>
-      <name function="presenter">Alicia Hiblot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212233000 +0100" stop="20151213010000 +0100">
-    <length units="minutes">90</length>
-    <title>Mirabelle gourmande</title>
-    <category>Magazine</category>
-    <desc>Une personnalité lorraine dévoile les secrets de sa recette préférée. (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213010000 +0100" stop="20151213020000 +0100">
+  <programme channel="burger" start="20151213193000 +0100" stop="20151213203000 +0100">
     <length units="minutes">60</length>
-    <title>De vous à moi</title>
-    <category>Divertissement</category>
-    <desc>Un entretien intimiste au cour duquel une personnalité lorraine est amenée à se montrer sous un «autre jour», bien au-delà de l'image qu'elle... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Marylène Bergmann</name>
-    </credits>
+    <title>Le club de la presse</title>
+    <category>Magazine</category>
+    <desc>L'actualité vu par les médias de la région. (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213020000 +0100" stop="20151213023000 +0100">
-    <length units="minutes">30</length>
+  <programme channel="burger" start="20151213203000 +0100" stop="20151213214500 +0100">
+    <length units="minutes">75</length>
     <title>Cap à l'Est</title>
     <category>Magazine</category>
     <desc>Valentine Tschaen Blaise découvre les pays de Lorraine à travers la vie passionnée et passionnante des gens qui la font... (Lire la suite).(n)</desc>
@@ -821,15 +821,22 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213023000 +0100" stop="20151213043000 +0100">
-    <length units="minutes">120</length>
-    <title>47 minutes</title>
-    <category>Documentaire</category>
-    <desc>(Lire la suite).(n)</desc>
+  <programme channel="burger" start="20151213214500 +0100" stop="20151213233000 +0100">
+    <length units="minutes">105</length>
+    <title>Elections régionales 2015</title>
+    <category />
+    <desc>2nd tour (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213043000 +0100" stop="20151213120000 +0100">
-    <length units="minutes">450</length>
+  <programme channel="burger" start="20151213233000 +0100" stop="20151214013000 +0100">
+    <length units="minutes">120</length>
+    <title>Elections régionales 2015</title>
+    <category />
+    <desc>2nd tour (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151214013000 +0100" stop="20151214080000 +0100">
+    <length units="minutes">390</length>
     <title>Rediffusions en boucle</title>
     <category />
     <desc>(Lire la suite).(n)</desc>

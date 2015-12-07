@@ -1,78 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="BFM TV">
-    <display-name>MTV</display-name>
+    <display-name>burger</display-name>
   </channel>
-  <programme channel="MTV" start="20151206060000 +0100" stop="20151206120000 +0100">
-    <length units="minutes">360</length>
-    <title>Le journal de la nuit</title>
-    <category>Journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Lucie Nuttin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206120000 +0100" stop="20151206160000 +0100">
-    <length units="minutes">240</length>
-    <title>Week-end première</title>
-    <category>Journal</category>
-    <desc>Au sommaire : (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Sandra Gandoin,</name>
-      <name function="presenter">Benjamin Dubois</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206160000 +0100" stop="20151206200000 +0100">
-    <length units="minutes">240</length>
-    <title>Non Stop</title>
-    <category>Journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Philippe Gaudin,</name>
-      <name function="presenter">Stéphanie de Muru</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206200000 +0100" stop="20151207000000 +0100">
-    <length units="minutes">240</length>
-    <title>Non Stop</title>
-    <category>Journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Céline Pitelet,</name>
-      <name function="presenter">Igor Sahiri</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207000000 +0100" stop="20151207040000 +0100">
-    <length units="minutes">240</length>
-    <title>Elections régionales 2015</title>
-    <category />
-    <desc>En compagnie d'invités, les journalistes de... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Ruth Elkrief,</name>
-      <name function="presenter">Hervé Gattegno,</name>
-      <name function="presenter">Eric Brunet,</name>
-      <name function="presenter">Laurent Neumann,</name>
-      <name function="presenter">Apolline de Malherbe,</name>
-      <name function="presenter">Alain Marschall,</name>
-      <name function="presenter">Thierry Arnaud</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207040000 +0100" stop="20151207070000 +0100">
-    <length units="minutes">180</length>
-    <title>Elections régionales 2015</title>
-    <category />
-    <desc>Jean-Baptiste Boursier reçoit de nombreux... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Baptiste Boursier</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207070000 +0100" stop="20151207103000 +0100">
+  <programme channel="burger" start="20151207030000 +0100" stop="20151207063000 +0100">
     <length units="minutes">210</length>
     <title>Le journal de la nuit</title>
     <category>Journal</category>
@@ -82,7 +13,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207103000 +0100" stop="20151207120000 +0100">
+  <programme channel="burger" start="20151207063000 +0100" stop="20151207080000 +0100">
     <length units="minutes">90</length>
     <title>Première édition</title>
     <category>Journal</category>
@@ -93,7 +24,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207120000 +0100" stop="20151207143500 +0100">
+  <programme channel="burger" start="20151207080000 +0100" stop="20151207103500 +0100">
     <length units="minutes">155</length>
     <title>Première édition</title>
     <category>Journal</category>
@@ -104,7 +35,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207143500 +0100" stop="20151207150000 +0100">
+  <programme channel="burger" start="20151207103500 +0100" stop="20151207110000 +0100">
     <length units="minutes">25</length>
     <title>Bourdin direct</title>
     <category>Magazine</category>
@@ -114,7 +45,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207150000 +0100" stop="20151207180000 +0100">
+  <programme channel="burger" start="20151207110000 +0100" stop="20151207140000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
     <category>Journal</category>
@@ -125,7 +56,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207180000 +0100" stop="20151207210000 +0100">
+  <programme channel="burger" start="20151207140000 +0100" stop="20151207170000 +0100">
     <length units="minutes">180</length>
     <title>Midi-15h</title>
     <category>Journal</category>
@@ -136,7 +67,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207210000 +0100" stop="20151208000000 +0100">
+  <programme channel="burger" start="20151207170000 +0100" stop="20151207200000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
     <category>Journal</category>
@@ -147,7 +78,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208000000 +0100" stop="20151208010000 +0100">
+  <programme channel="burger" start="20151207200000 +0100" stop="20151207210000 +0100">
     <length units="minutes">60</length>
     <title>BFM Story</title>
     <category>Magazine</category>
@@ -157,7 +88,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208010000 +0100" stop="20151208020000 +0100">
+  <programme channel="burger" start="20151207210000 +0100" stop="20151207220000 +0100">
     <length units="minutes">60</length>
     <title>19h Ruth Elkrief</title>
     <category>Journal</category>
@@ -167,7 +98,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208020000 +0100" stop="20151208023000 +0100">
+  <programme channel="burger" start="20151207220000 +0100" stop="20151207223000 +0100">
     <length units="minutes">30</length>
     <title>20h politique</title>
     <category>Magazine</category>
@@ -177,7 +108,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208023000 +0100" stop="20151208030000 +0100">
+  <programme channel="burger" start="20151207223000 +0100" stop="20151207230000 +0100">
     <length units="minutes">30</length>
     <title>20h30 Live</title>
     <category>Journal</category>
@@ -187,7 +118,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208030000 +0100" stop="20151208040000 +0100">
+  <programme channel="burger" start="20151207230000 +0100" stop="20151208000000 +0100">
     <length units="minutes">60</length>
     <title>News et compagnie</title>
     <category>Magazine</category>
@@ -197,7 +128,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208040000 +0100" stop="20151208060000 +0100">
+  <programme channel="burger" start="20151208000000 +0100" stop="20151208020000 +0100">
     <length units="minutes">120</length>
     <title>Grand angle</title>
     <category>Magazine</category>
@@ -207,7 +138,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208060000 +0100" stop="20151208103000 +0100">
+  <programme channel="burger" start="20151208020000 +0100" stop="20151208063000 +0100">
     <length units="minutes">270</length>
     <title>Le journal de la nuit</title>
     <category>Journal</category>
@@ -217,7 +148,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208103000 +0100" stop="20151208120000 +0100">
+  <programme channel="burger" start="20151208063000 +0100" stop="20151208080000 +0100">
     <length units="minutes">90</length>
     <title>Première édition</title>
     <category>Journal</category>
@@ -228,7 +159,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208120000 +0100" stop="20151208143500 +0100">
+  <programme channel="burger" start="20151208080000 +0100" stop="20151208103500 +0100">
     <length units="minutes">155</length>
     <title>Première édition</title>
     <category>Journal</category>
@@ -239,7 +170,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208143500 +0100" stop="20151208150000 +0100">
+  <programme channel="burger" start="20151208103500 +0100" stop="20151208110000 +0100">
     <length units="minutes">25</length>
     <title>Bourdin direct</title>
     <category>Magazine</category>
@@ -249,7 +180,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208150000 +0100" stop="20151208180000 +0100">
+  <programme channel="burger" start="20151208110000 +0100" stop="20151208140000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
     <category>Journal</category>
@@ -260,7 +191,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208180000 +0100" stop="20151208210000 +0100">
+  <programme channel="burger" start="20151208140000 +0100" stop="20151208170000 +0100">
     <length units="minutes">180</length>
     <title>Midi-15h</title>
     <category>Journal</category>
@@ -271,7 +202,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208210000 +0100" stop="20151209000000 +0100">
+  <programme channel="burger" start="20151208170000 +0100" stop="20151208200000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
     <category>Journal</category>
@@ -282,7 +213,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209000000 +0100" stop="20151209010000 +0100">
+  <programme channel="burger" start="20151208200000 +0100" stop="20151208210000 +0100">
     <length units="minutes">60</length>
     <title>BFM Story</title>
     <category>Magazine</category>
@@ -292,7 +223,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209010000 +0100" stop="20151209020000 +0100">
+  <programme channel="burger" start="20151208210000 +0100" stop="20151208220000 +0100">
     <length units="minutes">60</length>
     <title>19h Ruth Elkrief</title>
     <category>Journal</category>
@@ -302,7 +233,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209020000 +0100" stop="20151209023000 +0100">
+  <programme channel="burger" start="20151208220000 +0100" stop="20151208223000 +0100">
     <length units="minutes">30</length>
     <title>20h politique</title>
     <category>Magazine</category>
@@ -312,7 +243,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209023000 +0100" stop="20151209030000 +0100">
+  <programme channel="burger" start="20151208223000 +0100" stop="20151208230000 +0100">
     <length units="minutes">30</length>
     <title>20h30 Live</title>
     <category>Journal</category>
@@ -322,7 +253,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209030000 +0100" stop="20151209040000 +0100">
+  <programme channel="burger" start="20151208230000 +0100" stop="20151209000000 +0100">
     <length units="minutes">60</length>
     <title>News et compagnie</title>
     <category>Magazine</category>
@@ -332,7 +263,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209040000 +0100" stop="20151209060000 +0100">
+  <programme channel="burger" start="20151209000000 +0100" stop="20151209020000 +0100">
     <length units="minutes">120</length>
     <title>Grand angle</title>
     <category>Magazine</category>
@@ -342,7 +273,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209060000 +0100" stop="20151209103000 +0100">
+  <programme channel="burger" start="20151209020000 +0100" stop="20151209063000 +0100">
     <length units="minutes">270</length>
     <title>Le journal de la nuit</title>
     <category>Journal</category>
@@ -352,7 +283,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209103000 +0100" stop="20151209120000 +0100">
+  <programme channel="burger" start="20151209063000 +0100" stop="20151209080000 +0100">
     <length units="minutes">90</length>
     <title>Première édition</title>
     <category>Journal</category>
@@ -363,7 +294,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209120000 +0100" stop="20151209143500 +0100">
+  <programme channel="burger" start="20151209080000 +0100" stop="20151209103500 +0100">
     <length units="minutes">155</length>
     <title>Première édition</title>
     <category>Journal</category>
@@ -374,7 +305,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209143500 +0100" stop="20151209150000 +0100">
+  <programme channel="burger" start="20151209103500 +0100" stop="20151209110000 +0100">
     <length units="minutes">25</length>
     <title>Bourdin direct</title>
     <category>Magazine</category>
@@ -384,7 +315,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209150000 +0100" stop="20151209180000 +0100">
+  <programme channel="burger" start="20151209110000 +0100" stop="20151209140000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
     <category>Journal</category>
@@ -395,7 +326,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209180000 +0100" stop="20151209210000 +0100">
+  <programme channel="burger" start="20151209140000 +0100" stop="20151209170000 +0100">
     <length units="minutes">180</length>
     <title>Midi-15h</title>
     <category>Journal</category>
@@ -406,7 +337,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209210000 +0100" stop="20151210000000 +0100">
+  <programme channel="burger" start="20151209170000 +0100" stop="20151209200000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
     <category>Journal</category>
@@ -417,7 +348,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210000000 +0100" stop="20151210010000 +0100">
+  <programme channel="burger" start="20151209200000 +0100" stop="20151209210000 +0100">
     <length units="minutes">60</length>
     <title>BFM Story</title>
     <category>Magazine</category>
@@ -427,7 +358,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210010000 +0100" stop="20151210020000 +0100">
+  <programme channel="burger" start="20151209210000 +0100" stop="20151209220000 +0100">
     <length units="minutes">60</length>
     <title>19h Ruth Elkrief</title>
     <category>Journal</category>
@@ -437,7 +368,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210020000 +0100" stop="20151210023000 +0100">
+  <programme channel="burger" start="20151209220000 +0100" stop="20151209223000 +0100">
     <length units="minutes">30</length>
     <title>20h politique</title>
     <category>Magazine</category>
@@ -447,7 +378,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210023000 +0100" stop="20151210030000 +0100">
+  <programme channel="burger" start="20151209223000 +0100" stop="20151209230000 +0100">
     <length units="minutes">30</length>
     <title>20h30 Live</title>
     <category>Journal</category>
@@ -457,7 +388,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210030000 +0100" stop="20151210040000 +0100">
+  <programme channel="burger" start="20151209230000 +0100" stop="20151210000000 +0100">
     <length units="minutes">60</length>
     <title>News et compagnie</title>
     <category>Magazine</category>
@@ -467,7 +398,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210040000 +0100" stop="20151210060000 +0100">
+  <programme channel="burger" start="20151210000000 +0100" stop="20151210020000 +0100">
     <length units="minutes">120</length>
     <title>Grand angle</title>
     <category>Magazine</category>
@@ -477,7 +408,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210060000 +0100" stop="20151210103000 +0100">
+  <programme channel="burger" start="20151210020000 +0100" stop="20151210063000 +0100">
     <length units="minutes">270</length>
     <title>Le journal de la nuit</title>
     <category>Journal</category>
@@ -487,7 +418,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210103000 +0100" stop="20151210120000 +0100">
+  <programme channel="burger" start="20151210063000 +0100" stop="20151210080000 +0100">
     <length units="minutes">90</length>
     <title>Première édition</title>
     <category>Journal</category>
@@ -498,7 +429,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210120000 +0100" stop="20151210143500 +0100">
+  <programme channel="burger" start="20151210080000 +0100" stop="20151210103500 +0100">
     <length units="minutes">155</length>
     <title>Première édition</title>
     <category>Journal</category>
@@ -509,7 +440,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210143500 +0100" stop="20151210150000 +0100">
+  <programme channel="burger" start="20151210103500 +0100" stop="20151210110000 +0100">
     <length units="minutes">25</length>
     <title>Bourdin direct</title>
     <category>Magazine</category>
@@ -519,7 +450,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210150000 +0100" stop="20151210180000 +0100">
+  <programme channel="burger" start="20151210110000 +0100" stop="20151210140000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
     <category>Journal</category>
@@ -530,7 +461,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210180000 +0100" stop="20151210210000 +0100">
+  <programme channel="burger" start="20151210140000 +0100" stop="20151210170000 +0100">
     <length units="minutes">180</length>
     <title>Midi-15h</title>
     <category>Journal</category>
@@ -541,7 +472,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210210000 +0100" stop="20151211000000 +0100">
+  <programme channel="burger" start="20151210170000 +0100" stop="20151210200000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
     <category>Journal</category>
@@ -552,7 +483,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211000000 +0100" stop="20151211010000 +0100">
+  <programme channel="burger" start="20151210200000 +0100" stop="20151210210000 +0100">
     <length units="minutes">60</length>
     <title>BFM Story</title>
     <category>Magazine</category>
@@ -562,7 +493,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211010000 +0100" stop="20151211020000 +0100">
+  <programme channel="burger" start="20151210210000 +0100" stop="20151210220000 +0100">
     <length units="minutes">60</length>
     <title>19h Ruth Elkrief</title>
     <category>Journal</category>
@@ -572,7 +503,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211020000 +0100" stop="20151211023000 +0100">
+  <programme channel="burger" start="20151210220000 +0100" stop="20151210223000 +0100">
     <length units="minutes">30</length>
     <title>20h politique</title>
     <category>Magazine</category>
@@ -582,7 +513,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211023000 +0100" stop="20151211030000 +0100">
+  <programme channel="burger" start="20151210223000 +0100" stop="20151210230000 +0100">
     <length units="minutes">30</length>
     <title>20h30 Live</title>
     <category>Journal</category>
@@ -592,7 +523,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211030000 +0100" stop="20151211040000 +0100">
+  <programme channel="burger" start="20151210230000 +0100" stop="20151211000000 +0100">
     <length units="minutes">60</length>
     <title>News et compagnie</title>
     <category>Magazine</category>
@@ -602,7 +533,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211040000 +0100" stop="20151211060000 +0100">
+  <programme channel="burger" start="20151211000000 +0100" stop="20151211020000 +0100">
     <length units="minutes">120</length>
     <title>Grand angle</title>
     <category>Magazine</category>
@@ -612,7 +543,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211060000 +0100" stop="20151211103000 +0100">
+  <programme channel="burger" start="20151211020000 +0100" stop="20151211063000 +0100">
     <length units="minutes">270</length>
     <title>Le journal de la nuit</title>
     <category>Journal</category>
@@ -622,7 +553,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211103000 +0100" stop="20151211120000 +0100">
+  <programme channel="burger" start="20151211063000 +0100" stop="20151211080000 +0100">
     <length units="minutes">90</length>
     <title>Première édition</title>
     <category>Journal</category>
@@ -633,7 +564,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211120000 +0100" stop="20151211143500 +0100">
+  <programme channel="burger" start="20151211080000 +0100" stop="20151211103500 +0100">
     <length units="minutes">155</length>
     <title>Première édition</title>
     <category>Journal</category>
@@ -644,7 +575,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211143500 +0100" stop="20151211150000 +0100">
+  <programme channel="burger" start="20151211103500 +0100" stop="20151211110000 +0100">
     <length units="minutes">25</length>
     <title>Bourdin direct</title>
     <category>Magazine</category>
@@ -654,7 +585,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211150000 +0100" stop="20151211180000 +0100">
+  <programme channel="burger" start="20151211110000 +0100" stop="20151211140000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
     <category>Journal</category>
@@ -665,7 +596,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211180000 +0100" stop="20151211210000 +0100">
+  <programme channel="burger" start="20151211140000 +0100" stop="20151211170000 +0100">
     <length units="minutes">180</length>
     <title>Midi-15h</title>
     <category>Journal</category>
@@ -676,7 +607,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211210000 +0100" stop="20151212000000 +0100">
+  <programme channel="burger" start="20151211170000 +0100" stop="20151211200000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
     <category>Journal</category>
@@ -687,7 +618,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212000000 +0100" stop="20151212010000 +0100">
+  <programme channel="burger" start="20151211200000 +0100" stop="20151211210000 +0100">
     <length units="minutes">60</length>
     <title>BFM Story</title>
     <category>Magazine</category>
@@ -697,7 +628,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212010000 +0100" stop="20151212020000 +0100">
+  <programme channel="burger" start="20151211210000 +0100" stop="20151211220000 +0100">
     <length units="minutes">60</length>
     <title>19h Ruth Elkrief</title>
     <category>Journal</category>
@@ -707,7 +638,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212020000 +0100" stop="20151212030000 +0100">
+  <programme channel="burger" start="20151211220000 +0100" stop="20151211230000 +0100">
     <length units="minutes">60</length>
     <title>Le 20h</title>
     <category>Journal</category>
@@ -717,7 +648,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212030000 +0100" stop="20151212040000 +0100">
+  <programme channel="burger" start="20151211230000 +0100" stop="20151212000000 +0100">
     <length units="minutes">60</length>
     <title>L'histoire en direct</title>
     <category>Magazine</category>
@@ -729,7 +660,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212040000 +0100" stop="20151212060000 +0100">
+  <programme channel="burger" start="20151212000000 +0100" stop="20151212020000 +0100">
     <length units="minutes">120</length>
     <title>Week-end direct</title>
     <category>Journal</category>
@@ -739,17 +670,134 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212060000 +0100" stop="20151212120000 +0100">
+  <programme channel="burger" start="20151212020000 +0100" stop="20151212080000 +0100">
     <length units="minutes">360</length>
     <title>Le journal de la nuit</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Lucie Nuttin</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212120000 +0100" stop="20151212160000 +0100">
+  <programme channel="burger" start="20151212080000 +0100" stop="20151212120000 +0100">
+    <length units="minutes">240</length>
+    <title>Week-end première</title>
+    <category>Journal</category>
+    <desc>Au sommaire : (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Sandra Gandoin,</name>
+      <name function="presenter">Benjamin Dubois</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212120000 +0100" stop="20151212130000 +0100">
+    <length units="minutes">60</length>
+    <title>L'histoire en direct</title>
+    <category>Magazine</category>
+    <desc>Pascale de la Tour du Pin, Fabrice d'Almeida,... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Hervé Gattegno,</name>
+      <name function="presenter">Fabrice d'Almeida,</name>
+      <name function="presenter">Pascale de La Tour du Pin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212130000 +0100" stop="20151212150000 +0100">
+    <length units="minutes">120</length>
+    <title>Non Stop</title>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Philippe Gaudin,</name>
+      <name function="presenter">Stéphanie de Muru</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212150000 +0100" stop="20151212170000 +0100">
+    <length units="minutes">120</length>
+    <title>7 jours BFM</title>
+    <category>Magazine</category>
+    <desc>En compagnie d'invités qui font l'actualité,... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Thomas Misrachi</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212170000 +0100" stop="20151212190000 +0100">
+    <length units="minutes">120</length>
+    <title>Non Stop</title>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Céline Pitelet,</name>
+      <name function="presenter">Igor Sahiri</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212190000 +0100" stop="20151212200000 +0100">
+    <length units="minutes">60</length>
+    <title>L'histoire en direct</title>
+    <category>Magazine</category>
+    <desc>Pascale de la Tour du Pin, Fabrice d'Almeida,... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Hervé Gattegno,</name>
+      <name function="presenter">Fabrice d'Almeida,</name>
+      <name function="presenter">Pascale de La Tour du Pin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212200000 +0100" stop="20151212220000 +0100">
+    <length units="minutes">120</length>
+    <title>7 jours BFM</title>
+    <category>Magazine</category>
+    <desc>En compagnie d'invités qui font l'actualité,... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Thomas Misrachi</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212220000 +0100" stop="20151212230000 +0100">
+    <length units="minutes">60</length>
+    <title>Le 20h</title>
+    <category>Journal</category>
+    <desc>Retour sur l'actualité nationale et internationale (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Lucie Nuttin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212230000 +0100" stop="20151213003000 +0100">
+    <length units="minutes">90</length>
+    <title>7 jours BFM</title>
+    <category>Magazine</category>
+    <desc>En compagnie d'invités qui font l'actualité,... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Thomas Misrachi</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213003000 +0100" stop="20151213020000 +0100">
+    <length units="minutes">90</length>
+    <title>Week-end direct</title>
+    <category>Journal</category>
+    <desc>Le tour complet des infos du jour, sur... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">François Gapihan</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213020000 +0100" stop="20151213080000 +0100">
+    <length units="minutes">360</length>
+    <title>Le journal de la nuit</title>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Lucie Nuttin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213080000 +0100" stop="20151213120000 +0100">
     <length units="minutes">240</length>
     <title>Week-end première</title>
     <category>Journal</category>
@@ -760,20 +808,8 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212160000 +0100" stop="20151212170000 +0100">
-    <length units="minutes">60</length>
-    <title>L'histoire en direct</title>
-    <category>Magazine</category>
-    <desc>Pascale de la Tour du Pin, Fabrice d'Almeida,... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Hervé Gattegno,</name>
-      <name function="presenter">Fabrice d'Almeida,</name>
-      <name function="presenter">Pascale de La Tour du Pin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212170000 +0100" stop="20151212190000 +0100">
-    <length units="minutes">120</length>
+  <programme channel="burger" start="20151213120000 +0100" stop="20151213160000 +0100">
+    <length units="minutes">240</length>
     <title>Non Stop</title>
     <category>Journal</category>
     <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).(n)</desc>
@@ -783,18 +819,8 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212190000 +0100" stop="20151212210000 +0100">
-    <length units="minutes">120</length>
-    <title>7 jours BFM</title>
-    <category>Magazine</category>
-    <desc>En compagnie d'invités qui font l'actualité,... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Thomas Misrachi</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212210000 +0100" stop="20151212230000 +0100">
-    <length units="minutes">120</length>
+  <programme channel="burger" start="20151213160000 +0100" stop="20151213200000 +0100">
+    <length units="minutes">240</length>
     <title>Non Stop</title>
     <category>Journal</category>
     <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).(n)</desc>
@@ -804,50 +830,15 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212230000 +0100" stop="20151213000000 +0100">
+  <programme channel="burger" start="20151213200000 +0100" stop="20151214010000 +0100">
+    <length units="minutes">300</length>
+    <title>Elections régionales 2015</title>
+    <category />
+    <desc>Second tour En compagnie d'invités, les journalistes de... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151214010000 +0100" stop="20151214020000 +0100">
     <length units="minutes">60</length>
-    <title>L'histoire en direct</title>
-    <category>Magazine</category>
-    <desc>Pascale de la Tour du Pin, Fabrice d'Almeida,... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Hervé Gattegno,</name>
-      <name function="presenter">Fabrice d'Almeida,</name>
-      <name function="presenter">Pascale de La Tour du Pin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213000000 +0100" stop="20151213020000 +0100">
-    <length units="minutes">120</length>
-    <title>7 jours BFM</title>
-    <category>Magazine</category>
-    <desc>En compagnie d'invités qui font l'actualité,... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Thomas Misrachi</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213020000 +0100" stop="20151213030000 +0100">
-    <length units="minutes">60</length>
-    <title>Le 20h</title>
-    <category>Journal</category>
-    <desc>Retour sur l'actualité nationale et internationale (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Lucie Nuttin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213030000 +0100" stop="20151213043000 +0100">
-    <length units="minutes">90</length>
-    <title>7 jours BFM</title>
-    <category>Magazine</category>
-    <desc>En compagnie d'invités qui font l'actualité,... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Thomas Misrachi</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213043000 +0100" stop="20151213060000 +0100">
-    <length units="minutes">90</length>
     <title>Week-end direct</title>
     <category>Journal</category>
     <desc>Le tour complet des infos du jour, sur... (Lire la suite).(n)</desc>

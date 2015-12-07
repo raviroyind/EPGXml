@@ -10,7 +10,7 @@ using System.Web.UI.HtmlControls;
 using System.Web.UI.WebControls;
 using System.Xml;
 using Ionic.Zip;
-using XmlParser.DataContext;
+using XmlParser.Core.DataContext;
 
 namespace XmlParser.Secured
 {

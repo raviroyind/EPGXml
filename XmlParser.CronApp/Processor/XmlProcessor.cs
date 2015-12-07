@@ -8,11 +8,13 @@ using System.Net;
 using System.Text.RegularExpressions;
 using System.Web;
 using System.Xml.Linq;
+using System.Xml.Schema;
 using Ionic.Zip;
 using log4net;
 using log4net.Config;
-using XmlGeneration.Core.DataContext;
-using XmlGeneration.CronApp.XmlSchema;
+using XmlParser.Core.Core;
+using XmlParser.Core.DataContext;
+using XmlParser.Core.XmlSchema;
 
 namespace XmlGeneration.CronApp
 {
@@ -65,11 +67,11 @@ namespace XmlGeneration.CronApp
                     try
                     {
                         logger.Info("ravi");
-                        logger.Info("// Proccessing Source - " + source.URL);
+                        logger.Info("// Proccessing Source - " + source.Url);
                         var extension = source.Type.ToLower().Equals("zip") ? ".zip" : ".xml";
                         logger.Info("// File extension is - " + extension);
 
-                        var fileName = DownloadFile(source.URL, extension);
+                        var fileName = DownloadFile(source.Url, extension);
                         logger.Info("// File Name extension is - " + fileName);
                         
                         if (!string.IsNullOrEmpty(fileName))
@@ -114,7 +116,7 @@ namespace XmlGeneration.CronApp
                             foreach (var xmlFile in SourceXmlList)
                             {
 
-                                var sourceUri = new Uri(source.URL);
+                                var sourceUri = new Uri(source.Url);
                                 var newChannelName = string.Empty;
                                 var newOffset = 0;
 
@@ -128,9 +130,10 @@ namespace XmlGeneration.CronApp
                                     // ignored
                                 }
 
-                                logger.Info("Calling  GenerateOutputXml(" + xmlFile + ", " + newChannelName + ", " + newOffset + ")"); 
+                                logger.Info("Calling  GenerateOutputXml(" + xmlFile + ", " + newChannelName + ", " + newOffset + ")");
 
-                                GenerateOutputXml(xmlFile, newChannelName, newOffset);
+                                OutputXmlList.AddRange(ParserEngine.GenerateOutputXml(xmlFile, source.Srno, out _startDate, out _stopDate, newChannelName, newOffset));
+                                //GenerateOutputXml(xmlFile, newChannelName, newOffset);
 
                                 logger.Info("Completed  GenerateOutputXml(" + xmlFile + ", " + newChannelName + ", " + newOffset + ")"); 
                             }
@@ -257,7 +260,7 @@ namespace XmlGeneration.CronApp
                 zip.ExtractAll(outputDirectory, ExtractExistingFileAction.OverwriteSilently);
 
 
-                var files = Directory.GetFiles(outputDirectory, "*.xml", SearchOption.TopDirectoryOnly);
+                var files = Directory.GetFiles(outputDirectory + Path.GetFileNameWithoutExtension(zipFileName), "*.xml", SearchOption.TopDirectoryOnly);
 
                 foreach (var xmlFile in files)
                 {
@@ -289,8 +292,6 @@ namespace XmlGeneration.CronApp
 
             logger.Info("// Function ClearDirectory Completed.");
         }
-
-
 
         /// <summary>
         /// 
@@ -548,8 +549,8 @@ namespace XmlGeneration.CronApp
 
                 #region Generate Additional Xml...
 
-                var _tv2 = new XmlSchema.SecondOutput.tv();
-                XmlSchema.SecondOutput.tvProgramme[] _tvProgrammes2 = new XmlSchema.SecondOutput.tvProgramme[sourceXElements.Count];
+                var _tv2 = new XmlParser.Core.XmlSchema.SecondOutput.tv();
+                XmlParser.Core.XmlSchema.SecondOutput.tvProgramme[] _tvProgrammes2 = new XmlParser.Core.XmlSchema.SecondOutput.tvProgramme[sourceXElements.Count];
 
 
                 iNodeCount = 0;
@@ -576,7 +577,7 @@ namespace XmlGeneration.CronApp
 
                     #endregion Minutes...
 
-                    _tvProgrammes2[iNodeCount] = new XmlSchema.SecondOutput.tvProgramme()
+                    _tvProgrammes2[iNodeCount] = new XmlParser.Core.XmlSchema.SecondOutput.tvProgramme()
                     {
                         channel = channelName,
                         start = GetDateAddingOffset(item.Attributes("start").First().Value, newOffset),

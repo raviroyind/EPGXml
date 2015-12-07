@@ -1,402 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="France 2">
-    <display-name>MTV</display-name>
+    <display-name>burger</display-name>
   </channel>
-  <programme channel="MTV" start="20151206071000 +0100" stop="20151206071500 +0100">
-    <length units="minutes">5</length>
-    <title>Météo 2</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206071500 +0100" stop="20151206083500 +0100">
-    <length units="minutes">80</length>
-    <title>Alcaline, le concert</title>
-    <category>Magazine</category>
-    <desc>Adele Enregistré à Londres pour la BBC. La chanteuse britannique Adele interprète en exclusivité les titres de son 3e album, «25», ainsi que ses plus... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206083500 +0100" stop="20151206093000 +0100">
-    <length units="minutes">55</length>
-    <title>Les grands espaces de l'Ouest américain</title>
-    <category>Documentaire</category>
-    <desc>A la découverte des spectaculaires paysages naturels que rencontrent les voyageurs qui s'aventurent dans l'Ouest américain, immortalisé par de... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206093000 +0100" stop="20151206095500 +0100">
-    <length units="minutes">25</length>
-    <title>Saint-Tropez insolite</title>
-    <category>Documentaire</category>
-    <desc>Les dessous de Saint-Tropez, révélés au cours d'une plongée dans l'envers du décor de ce lieu de villégiature de la jet-set européenne et... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Claire David-Tartane</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206095500 +0100" stop="20151206102000 +0100">
-    <length units="minutes">25</length>
-    <title>Interventions sous-marines</title>
-    <category>Documentaire</category>
-    <desc>Gros plan sur le travail des hommes et des femmes spécialistes des interventions sous-marines, une tâche passionnante, qui réserve bien des... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206102000 +0100" stop="20151206111000 +0100">
-    <length units="minutes">50</length>
-    <title>Tahiti et ses îles</title>
-    <category>Documentaire</category>
-    <desc>A mi-chemin entre l'Australie et l'Amérique du Sud, les cinq archipels de la Polynésie française n'ont cessé, depuis leur découverte, d'exercer... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206111000 +0100" stop="20151206113000 +0100">
-    <length units="minutes">20</length>
-    <title>Le trafic des tortues</title>
-    <category>Documentaire</category>
-    <desc>Le trafic des tortues alimente le commerce des carapaces ; certaines sont chassées pour leur viande, tandis que d'autres deviennent des animaux... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206113000 +0100" stop="20151206122500 +0100">
-    <length units="minutes">55</length>
-    <title>La mort est dans le pré</title>
-    <category>Documentaire</category>
-    <desc>Un agriculteur de 47 ans, atteint d'un cancer, s'exprime : «Quand on découvrira toute la vérité sur les dangers des pesticides, ce sera un... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Eric Guéret</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206122500 +0100" stop="20151206130000 +0100">
-    <length units="minutes">35</length>
-    <title>Motus</title>
-    <category>Jeu</category>
-    <desc>Deux équipes s'affrontent pour déchiffrer des mots de sept à dix lettres. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Thierry Beccaro</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206130000 +0100" stop="20151206140500 +0100">
-    <length units="minutes">65</length>
-    <title>Thé ou café</title>
-    <category>Magazine</category>
-    <desc>Sur Twitter via #ThéouCafé. Catherine Ceylac brosse un portrait intimiste de Garou, Roch Voisine et Corneille, qui évoquent leur tournée «Forever... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Catherine Ceylac</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206140500 +0100" stop="20151206143000 +0100">
-    <length units="minutes">25</length>
-    <title>Rencontres à XV</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206143000 +0100" stop="20151206144500 +0100">
-    <length units="minutes">15</length>
-    <title>Sagesses bouddhistes</title>
-    <category>Magazine</category>
-    <desc>Le Musée d'ethnographie de Genève propose une exposition sur les traces de Madame Butterfly et du «japonisme bouddhique». Suite à la réouverture... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Aurélie Godefroy</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206144500 +0100" stop="20151206151500 +0100">
-    <length units="minutes">30</length>
-    <title>Islam</title>
-    <category>Magazine</category>
-    <desc>Les grandes lignes de l'évolution du droit islamique : une construction humaine qui suscite toujours débat et controverses. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Ghaleb Bencheikh,</name>
-      <name function="presenter">Abderrahim Hafidi</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206151500 +0100" stop="20151206153000 +0100">
-    <length units="minutes">15</length>
-    <title>Judaïca</title>
-    <category>Magazine</category>
-    <desc>Quinze minutes consacrées à l'actualité du judaïsme en France. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Josy Eisenberg</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206153000 +0100" stop="20151206160000 +0100">
-    <length units="minutes">30</length>
-    <title>La source de vie</title>
-    <category>Magazine</category>
-    <desc>Quinze minutes consacrées à l'actualité du judaïsme en France. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Josy Eisenberg</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206160000 +0100" stop="20151206161500 +0100">
-    <length units="minutes">15</length>
-    <title>Présence protestante</title>
-    <category>Magazine</category>
-    <desc>Protestants, parlons-en Focus sur l'actualité du protestantisme en France. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206161500 +0100" stop="20151206164500 +0100">
-    <length units="minutes">30</length>
-    <title>Kaïros</title>
-    <category>Magazine</category>
-    <desc>Depuis plusieurs années, Grégory Turpin sillonne la France pour chanter et témoigner devant des jeunes. Il leur raconte sa conversion, son désir... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Marie-Pierre Farkas</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206164500 +0100" stop="20151206180500 +0100">
-    <length units="minutes">80</length>
-    <title>Le jour du Seigneur</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : Messe (à 10h45) - Célébrée en la Basilique Sainte-Jeanne-d'Arc (Paris). Prédicateur : le père Guillaume Lepesqueux, prêtre des... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206180500 +0100" stop="20151206185500 +0100">
-    <length units="minutes">50</length>
-    <title>Tout le monde veut prendre sa place</title>
-    <category>Jeu</category>
-    <desc>Six candidats affrontent un «champion» autour d'une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Nagui</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206185500 +0100" stop="20151206190000 +0100">
-    <length units="minutes">5</length>
-    <title>Météo 2</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206190000 +0100" stop="20151206192000 +0100">
-    <length units="minutes">20</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Laurent Delahousse</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206192000 +0100" stop="20151206200500 +0100">
-    <length units="minutes">45</length>
-    <title>13h15, le dimanche...</title>
-    <category>Magazine</category>
-    <desc>Des images, des émotions, une écriture sensible aux aventures humaines : «13h15» propose des histoires françaises, le feuilleton de la politique,... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Laurent Delahousse</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206200500 +0100" stop="20151206200600 +0100">
-    <length units="minutes">1</length>
-    <title>Météo 2</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206200600 +0100" stop="20151206201000 +0100">
-    <length units="minutes">4</length>
-    <title>Point route</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Valérie Maurice</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206201000 +0100" stop="20151206222500 +0100">
-    <length units="minutes">135</length>
-    <title>Vivement dimanche</title>
-    <category>Divertissement</category>
-    <desc>La chanteuse Linda de Suza publie «Des larmes d'argent. Ma vérité», chez Carnets Nord aux Editions Montparnasse. En compagnie de Michel Drucker... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Michel Drucker</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206222500 +0100" stop="20151206232000 +0100">
-    <length units="minutes">55</length>
-    <title>Grandeurs nature</title>
-    <category>Documentaire</category>
-    <desc>Le ballet nautique des dauphins : des images saisissantes qui rappellent à quel point la nature est d'une grâce fragile et nécessite une... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Stéphane Granzotto,</name>
-      <name function="director">François Sarano</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206232000 +0100" stop="20151206233000 +0100">
-    <length units="minutes">10</length>
-    <title>La famille Millevoies, à chacun son métier</title>
-    <category>Magazine</category>
-    <desc>Par le biais de questions d'enfants à leurs parents, présentation de la richesse et de la diversité des métiers de... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206233000 +0100" stop="20151207002000 +0100">
-    <length units="minutes">50</length>
-    <title>Stade 2</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207002000 +0100" stop="20151207011500 +0100">
-    <length units="minutes">55</length>
-    <title>Vivement dimanche prochain</title>
-    <category>Divertissement</category>
-    <desc>Entouré de ses fidèles chroniqueurs, Michel Drucker interviewe Linda de Suza et évoque avec elle le sommaire de l'émission du dimanche... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Michel Drucker</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207011500 +0100" stop="20151207012000 +0100">
-    <length units="minutes">5</length>
-    <title>Météo 2</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207012000 +0100" stop="20151207013000 +0100">
-    <length units="minutes">10</length>
-    <title>Flash élections régionales</title>
-    <category>Journal</category>
-    <desc>Le point sur la participation, en partenariat avec Ipsos/Sopra Stéria, Radio France et les chaînes parlementaires. Avec un gros plan sur les... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Laurent Delahousse,</name>
-      <name function="presenter">David Pujadas,</name>
-      <name function="presenter">Brice Teinturier,</name>
-      <name function="presenter">Nathalie Saint-Cricq</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207013000 +0100" stop="20151207014000 +0100">
-    <length units="minutes">10</length>
-    <title>Journal</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Marie Drucker</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207014000 +0100" stop="20151207031500 +0100">
-    <length units="minutes">95</length>
-    <title>Elections régionales</title>
-    <category />
-    <desc>Les différents invités politiques, sur le plateau et en duplex, se succèdent pour commenter et analyser les premières estimations et les premiers... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Laurent Delahousse,</name>
-      <name function="presenter">David Pujadas,</name>
-      <name function="presenter">Brice Teinturier,</name>
-      <name function="presenter">Nathalie Saint-Cricq</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207031500 +0100" stop="20151207031600 +0100">
-    <length units="minutes">1</length>
-    <title>Qui m'aime m'écoute</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207031600 +0100" stop="20151207032000 +0100">
-    <length units="minutes">4</length>
-    <title>D'art d'art</title>
-    <category>Magazine</category>
-    <desc>La petite histoire d'une oeuvre choisie parmi les plus belles pièces des collections publiques. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Frédéric Taddeï</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207032000 +0100" stop="20151207032100 +0100">
-    <length units="minutes">1</length>
-    <title>Stade 2, 40 ans d'émotions</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207032100 +0100" stop="20151207032500 +0100">
-    <length units="minutes">4</length>
-    <title>Météo 2</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207032500 +0100" stop="20151207042500 +0100">
-    <length units="minutes">60</length>
-    <title>Meurtres au paradis</title>
-    <category>Série</category>
-    <desc>Pendant le festival Mouri, le propriétaire d'une distillerie est poignardé dans le dos alors qu'il se livrait à une séance de spiritisme. Les... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Richard Signy</name>
-      <name function="actor">Don Warrington</name>
-      <name function="actor">Danny John-Jules</name>
-      <name function="actor">Sara Martins</name>
-      <name function="actor">Kris Marshall</name>
-      <name function="actor">Don Gilet</name>
-      <name function="actor">Sharon D Clarke</name>
-      <name function="actor">Joséphine Jobert</name>
-      <name function="actor">Natalie Gumede</name>
-      <name function="writer">Robert Thorogood</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207042500 +0100" stop="20151207052500 +0100">
-    <length units="minutes">60</length>
-    <title>Meurtres au paradis</title>
-    <category>Série</category>
-    <desc>Un moniteur de surf est retrouvé abattu dans une pièce fermée à clef. Le suicide semble être la seule thèse plausible, mais l'inspecteur Goodman... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Richard Signy</name>
-      <name function="actor">Simon Day</name>
-      <name function="actor">Danny John-Jules</name>
-      <name function="actor">Claire Goose</name>
-      <name function="actor">Kris Marshall</name>
-      <name function="actor">Joséphine Jobert</name>
-      <name function="actor">Joel Fry</name>
-      <name function="actor">Tobi Bakare</name>
-      <name function="actor">Hetti Bywater</name>
-      <name function="writer">Simon Winstone</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207052500 +0100" stop="20151207065000 +0100">
-    <length units="minutes">85</length>
-    <title>Faites entrer l'accusé</title>
-    <category>Magazine</category>
-    <desc>Sophie Berkmans, 41 ans, a été assassinée le 7 octobre 2002, en pleine journée, dans son cabinet médical. La jeune rhumatologue jouissait d'une... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Frédérique Lantieri</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207065000 +0100" stop="20151207065200 +0100">
+  <programme channel="burger" start="20151207025000 +0100" stop="20151207025200 +0100">
     <length units="minutes">2</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207065200 +0100" stop="20151207065500 +0100">
+  <programme channel="burger" start="20151207025200 +0100" stop="20151207025500 +0100">
     <length units="minutes">3</length>
     <title>Histoires courtes</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207065500 +0100" stop="20151207072500 +0100">
+  <programme channel="burger" start="20151207025500 +0100" stop="20151207032500 +0100">
     <length units="minutes">30</length>
     <title>Ogurets, ou les turpitudes d'un concombre russe (?)</title>
     <category>Film</category>
-    <desc>En 1941, les nazis sont aux portes de... (Lire la suite).(r)</desc>
+    <desc>En 1941, les nazis sont aux portes de... (Lire la suite).</desc>
     <credits>
       <name function="director">Eric Bu</name>
       <name function="actor">Jean-Paul Farré</name>
@@ -406,11 +31,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207072500 +0100" stop="20151207074000 +0100">
+  <programme channel="burger" start="20151207032500 +0100" stop="20151207034000 +0100">
     <length units="minutes">15</length>
     <title>Baby Rush (?)</title>
     <category>Film</category>
-    <desc>A Orléans, à l'heure du marathon, une... (Lire la suite).(r)</desc>
+    <desc>A Orléans, à l'heure du marathon, une... (Lire la suite).</desc>
     <credits>
       <name function="director">Tigran Rosine</name>
       <name function="actor">Jean-Gilles Barbier</name>
@@ -424,11 +49,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207074000 +0100" stop="20151207080000 +0100">
+  <programme channel="burger" start="20151207034000 +0100" stop="20151207040000 +0100">
     <length units="minutes">20</length>
     <title>Mur (?)</title>
     <category>Film</category>
-    <desc>Un soir d'hiver, par temps de neige, une... (Lire la suite).(r)</desc>
+    <desc>Un soir d'hiver, par temps de neige, une... (Lire la suite).</desc>
     <credits>
       <name function="director">Andra Tévy</name>
       <name function="actor">Evelyne Didi</name>
@@ -437,7 +62,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207080000 +0100" stop="20151207084000 +0100">
+  <programme channel="burger" start="20151207040000 +0100" stop="20151207044000 +0100">
     <length units="minutes">40</length>
     <title>Vivement dimanche prochain</title>
     <category>Divertissement</category>
@@ -447,7 +72,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207084000 +0100" stop="20151207092000 +0100">
+  <programme channel="burger" start="20151207044000 +0100" stop="20151207052000 +0100">
     <length units="minutes">40</length>
     <title>13h15, le dimanche...</title>
     <category>Magazine</category>
@@ -457,7 +82,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207092000 +0100" stop="20151207102000 +0100">
+  <programme channel="burger" start="20151207052000 +0100" stop="20151207062000 +0100">
     <length units="minutes">60</length>
     <title>Thé ou café</title>
     <category>Magazine</category>
@@ -467,7 +92,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207102000 +0100" stop="20151207104500 +0100">
+  <programme channel="burger" start="20151207062000 +0100" stop="20151207064500 +0100">
     <length units="minutes">25</length>
     <title>Les villages perchés du massif des Maures</title>
     <category>Documentaire</category>
@@ -477,21 +102,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207104500 +0100" stop="20151207110500 +0100">
+  <programme channel="burger" start="20151207064500 +0100" stop="20151207070500 +0100">
     <length units="minutes">20</length>
     <title>Le monde de Marcela</title>
     <category>Documentaire</category>
     <desc>Dans les Andes péruviennes, deux soeurs agronomes s'appuyent sur les connaissances des communautés indiennes pour arriver à l'autosuffisance... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207110500 +0100" stop="20151207115500 +0100">
+  <programme channel="burger" start="20151207070500 +0100" stop="20151207075500 +0100">
     <length units="minutes">50</length>
     <title>Stade 2</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207115500 +0100" stop="20151207120000 +0100">
+  <programme channel="burger" start="20151207075500 +0100" stop="20151207080000 +0100">
     <length units="minutes">5</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
@@ -501,7 +126,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207120000 +0100" stop="20151207122500 +0100">
+  <programme channel="burger" start="20151207080000 +0100" stop="20151207082500 +0100">
     <length units="minutes">25</length>
     <title>Les Z'amours</title>
     <category>Jeu</category>
@@ -511,7 +136,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207122500 +0100" stop="20151207123000 +0100">
+  <programme channel="burger" start="20151207082500 +0100" stop="20151207083000 +0100">
     <length units="minutes">5</length>
     <title>Point route</title>
     <category>Magazine</category>
@@ -521,14 +146,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207123000 +0100" stop="20151207123500 +0100">
+  <programme channel="burger" start="20151207083000 +0100" stop="20151207083500 +0100">
     <length units="minutes">5</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207123500 +0100" stop="20151207125700 +0100">
+  <programme channel="burger" start="20151207083500 +0100" stop="20151207085700 +0100">
     <length units="minutes">22</length>
     <title>Télématin</title>
     <category>Magazine</category>
@@ -538,21 +163,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207125700 +0100" stop="20151207130000 +0100">
+  <programme channel="burger" start="20151207085700 +0100" stop="20151207090000 +0100">
     <length units="minutes">3</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207130000 +0100" stop="20151207131000 +0100">
+  <programme channel="burger" start="20151207090000 +0100" stop="20151207091000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207131000 +0100" stop="20151207140000 +0100">
+  <programme channel="burger" start="20151207091000 +0100" stop="20151207100000 +0100">
     <length units="minutes">50</length>
     <title>Télématin (suite)</title>
     <category>Magazine</category>
@@ -562,14 +187,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207140000 +0100" stop="20151207141000 +0100">
+  <programme channel="burger" start="20151207100000 +0100" stop="20151207101000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207141000 +0100" stop="20151207150500 +0100">
+  <programme channel="burger" start="20151207101000 +0100" stop="20151207110500 +0100">
     <length units="minutes">55</length>
     <title>Télématin (suite)</title>
     <category>Magazine</category>
@@ -579,7 +204,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207150500 +0100" stop="20151207151000 +0100">
+  <programme channel="burger" start="20151207110500 +0100" stop="20151207111000 +0100">
     <length units="minutes">5</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
@@ -589,7 +214,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207151000 +0100" stop="20151207153500 +0100">
+  <programme channel="burger" start="20151207111000 +0100" stop="20151207113500 +0100">
     <length units="minutes">25</length>
     <title>Des jours et des vies</title>
     <category>Feuilleton</category>
@@ -607,7 +232,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207153500 +0100" stop="20151207160000 +0100">
+  <programme channel="burger" start="20151207113500 +0100" stop="20151207120000 +0100">
     <length units="minutes">25</length>
     <title>Amour, gloire et beauté</title>
     <category>Feuilleton</category>
@@ -624,7 +249,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207160000 +0100" stop="20151207165000 +0100">
+  <programme channel="burger" start="20151207120000 +0100" stop="20151207125000 +0100">
     <length units="minutes">50</length>
     <title>C'est au programme</title>
     <category>Magazine</category>
@@ -634,14 +259,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207165000 +0100" stop="20151207165500 +0100">
+  <programme channel="burger" start="20151207125000 +0100" stop="20151207125500 +0100">
     <length units="minutes">5</length>
     <title>Météo outremer</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207165500 +0100" stop="20151207172500 +0100">
+  <programme channel="burger" start="20151207125500 +0100" stop="20151207132500 +0100">
     <length units="minutes">30</length>
     <title>Motus</title>
     <category>Jeu</category>
@@ -651,7 +276,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207172500 +0100" stop="20151207180000 +0100">
+  <programme channel="burger" start="20151207132500 +0100" stop="20151207140000 +0100">
     <length units="minutes">35</length>
     <title>Les Z'amours</title>
     <category>Jeu</category>
@@ -661,7 +286,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207180000 +0100" stop="20151207185500 +0100">
+  <programme channel="burger" start="20151207140000 +0100" stop="20151207145500 +0100">
     <length units="minutes">55</length>
     <title>Tout le monde veut prendre sa place</title>
     <category>Jeu</category>
@@ -671,14 +296,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207185500 +0100" stop="20151207190000 +0100">
+  <programme channel="burger" start="20151207145500 +0100" stop="20151207150000 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207190000 +0100" stop="20151207195000 +0100">
+  <programme channel="burger" start="20151207150000 +0100" stop="20151207155000 +0100">
     <length units="minutes">50</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -688,21 +313,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207195000 +0100" stop="20151207195500 +0100">
+  <programme channel="burger" start="20151207155000 +0100" stop="20151207155500 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207195500 +0100" stop="20151207200000 +0100">
+  <programme channel="burger" start="20151207155500 +0100" stop="20151207160000 +0100">
     <length units="minutes">5</length>
     <title>Consomag</title>
     <category>Magazine</category>
     <desc>Pourquoi et comment investir en bourse ? Une émission de l'Institut national de la consommation. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207200000 +0100" stop="20151207210500 +0100">
+  <programme channel="burger" start="20151207160000 +0100" stop="20151207170500 +0100">
     <length units="minutes">65</length>
     <title>Toute une histoire</title>
     <category>Magazine</category>
@@ -712,7 +337,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207210500 +0100" stop="20151207213500 +0100">
+  <programme channel="burger" start="20151207170500 +0100" stop="20151207173500 +0100">
     <length units="minutes">30</length>
     <title>L'histoire continue</title>
     <category>Magazine</category>
@@ -722,7 +347,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207213500 +0100" stop="20151207222000 +0100">
+  <programme channel="burger" start="20151207173500 +0100" stop="20151207182000 +0100">
     <length units="minutes">45</length>
     <title>Comment ça va bien !</title>
     <category>Magazine</category>
@@ -732,7 +357,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207222000 +0100" stop="20151207232000 +0100">
+  <programme channel="burger" start="20151207182000 +0100" stop="20151207192000 +0100">
     <length units="minutes">60</length>
     <title>Comment ça va bien !</title>
     <category>Magazine</category>
@@ -742,7 +367,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207232000 +0100" stop="20151208001500 +0100">
+  <programme channel="burger" start="20151207192000 +0100" stop="20151207201500 +0100">
     <length units="minutes">55</length>
     <title>Dans la peau d'un chef</title>
     <category>Magazine</category>
@@ -752,7 +377,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208001500 +0100" stop="20151208005500 +0100">
+  <programme channel="burger" start="20151207201500 +0100" stop="20151207205500 +0100">
     <length units="minutes">40</length>
     <title>Joker</title>
     <category>Jeu</category>
@@ -762,7 +387,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208005500 +0100" stop="20151208012500 +0100">
+  <programme channel="burger" start="20151207205500 +0100" stop="20151207212500 +0100">
     <length units="minutes">30</length>
     <title>N'oubliez pas les paroles</title>
     <category>Jeu</category>
@@ -772,7 +397,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208012500 +0100" stop="20151208015500 +0100">
+  <programme channel="burger" start="20151207212500 +0100" stop="20151207215500 +0100">
     <length units="minutes">30</length>
     <title>N'oubliez pas les paroles</title>
     <category>Jeu</category>
@@ -782,14 +407,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208015500 +0100" stop="20151208020500 +0100">
+  <programme channel="burger" start="20151207215500 +0100" stop="20151207220500 +0100">
     <length units="minutes">10</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208020500 +0100" stop="20151208024000 +0100">
+  <programme channel="burger" start="20151207220500 +0100" stop="20151207224000 +0100">
     <length units="minutes">35</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -799,7 +424,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208024000 +0100" stop="20151208024100 +0100">
+  <programme channel="burger" start="20151207224000 +0100" stop="20151207224100 +0100">
     <length units="minutes">1</length>
     <title>Parents mode d'emploi</title>
     <category>Série</category>
@@ -810,7 +435,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208024100 +0100" stop="20151208024500 +0100">
+  <programme channel="burger" start="20151207224100 +0100" stop="20151207224500 +0100">
     <length units="minutes">4</length>
     <title>Vestiaires</title>
     <category>Série</category>
@@ -825,28 +450,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208024500 +0100" stop="20151208024600 +0100">
+  <programme channel="burger" start="20151207224500 +0100" stop="20151207224600 +0100">
     <length units="minutes">1</length>
     <title>Beau travail COP21</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208024600 +0100" stop="20151208025000 +0100">
+  <programme channel="burger" start="20151207224600 +0100" stop="20151207225000 +0100">
     <length units="minutes">4</length>
     <title>Alcaline l'instant</title>
     <category>Magazine</category>
     <desc>Etienne Daho Rencontre avec un artiste qui fait l'actualité musicale. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208025000 +0100" stop="20151208025500 +0100">
+  <programme channel="burger" start="20151207225000 +0100" stop="20151207225500 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208025500 +0100" stop="20151208033500 +0100">
+  <programme channel="burger" start="20151207225500 +0100" stop="20151207233500 +0100">
     <length units="minutes">40</length>
     <title>Castle</title>
     <category>Série</category>
@@ -865,7 +490,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208033500 +0100" stop="20151208042000 +0100">
+  <programme channel="burger" start="20151207233500 +0100" stop="20151208002000 +0100">
     <length units="minutes">45</length>
     <title>Castle</title>
     <category>Série</category>
@@ -884,7 +509,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208042000 +0100" stop="20151208050000 +0100">
+  <programme channel="burger" start="20151208002000 +0100" stop="20151208010000 +0100">
     <length units="minutes">40</length>
     <title>Castle</title>
     <category>Série</category>
@@ -903,14 +528,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208050000 +0100" stop="20151208050500 +0100">
+  <programme channel="burger" start="20151208010000 +0100" stop="20151208010500 +0100">
     <length units="minutes">5</length>
     <title>Les héros du climat</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208050500 +0100" stop="20151208062500 +0100">
+  <programme channel="burger" start="20151208010500 +0100" stop="20151208022500 +0100">
     <length units="minutes">80</length>
     <title>L'angle éco</title>
     <category>Magazine</category>
@@ -920,7 +545,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208062500 +0100" stop="20151208062700 +0100">
+  <programme channel="burger" start="20151208022500 +0100" stop="20151208022700 +0100">
     <length units="minutes">2</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
@@ -930,25 +555,25 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208062700 +0100" stop="20151208062800 +0100">
+  <programme channel="burger" start="20151208022700 +0100" stop="20151208022800 +0100">
     <length units="minutes">1</length>
     <title>Météo outremer</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208062800 +0100" stop="20151208063000 +0100">
+  <programme channel="burger" start="20151208022800 +0100" stop="20151208023000 +0100">
     <length units="minutes">2</length>
     <title>Ciné-club</title>
     <category>Magazine</category>
     <desc>Cycle «La nature» (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208063000 +0100" stop="20151208081000 +0100">
+  <programme channel="burger" start="20151208023000 +0100" stop="20151208041000 +0100">
     <length units="minutes">100</length>
     <title>Stromboli (?)</title>
     <category>Film</category>
-    <desc>A Rome, après la Seconde Guerre mondiale,... (Lire la suite).(r)</desc>
+    <desc>A Rome, après la Seconde Guerre mondiale, Karin, jeune Lituanienne cultivée, végète dans un camp pour personnes déplacées. Afin d'en sortir, elle... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Roberto Rossellini</name>
       <name function="actor">Mario Vitale</name>
@@ -961,7 +586,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208081000 +0100" stop="20151208084000 +0100">
+  <programme channel="burger" start="20151208041000 +0100" stop="20151208044000 +0100">
     <length units="minutes">30</length>
     <title>13h15, le samedi...</title>
     <category>Magazine</category>
@@ -971,7 +596,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208084000 +0100" stop="20151208094000 +0100">
+  <programme channel="burger" start="20151208044000 +0100" stop="20151208054000 +0100">
     <length units="minutes">60</length>
     <title>Toute une histoire</title>
     <category>Magazine</category>
@@ -981,7 +606,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208094000 +0100" stop="20151208100500 +0100">
+  <programme channel="burger" start="20151208054000 +0100" stop="20151208060500 +0100">
     <length units="minutes">25</length>
     <title>L'histoire continue</title>
     <category>Magazine</category>
@@ -991,7 +616,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208100500 +0100" stop="20151208105000 +0100">
+  <programme channel="burger" start="20151208060500 +0100" stop="20151208065000 +0100">
     <length units="minutes">45</length>
     <title>Comment ça va bien !</title>
     <category>Magazine</category>
@@ -1001,28 +626,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208105000 +0100" stop="20151208111500 +0100">
+  <programme channel="burger" start="20151208065000 +0100" stop="20151208071500 +0100">
     <length units="minutes">25</length>
     <title>Le regard du singe</title>
     <category>Documentaire</category>
     <desc>A la découverte des conditions de vie, parfois singulières, de certains primates. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208111500 +0100" stop="20151208112500 +0100">
+  <programme channel="burger" start="20151208071500 +0100" stop="20151208072500 +0100">
     <length units="minutes">10</length>
     <title>Courant d'art</title>
     <category>Documentaire</category>
     <desc>Charles Cambier A la découverte des oeuvres et du style de Charles Cambier, un artiste adepte de l'aquarelle, de la peinture à l'huile et de la peinture au... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208112500 +0100" stop="20151208115500 +0100">
+  <programme channel="burger" start="20151208072500 +0100" stop="20151208075500 +0100">
     <length units="minutes">30</length>
     <title>Le fleuve de l'espoir</title>
     <category>Documentaire</category>
     <desc>A la découverte des secrets d'un majestueux cours d'eau qui suscite bien des interrogations. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208115500 +0100" stop="20151208120000 +0100">
+  <programme channel="burger" start="20151208075500 +0100" stop="20151208080000 +0100">
     <length units="minutes">5</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
@@ -1032,7 +657,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208120000 +0100" stop="20151208122500 +0100">
+  <programme channel="burger" start="20151208080000 +0100" stop="20151208082500 +0100">
     <length units="minutes">25</length>
     <title>Les Z'amours</title>
     <category>Jeu</category>
@@ -1042,7 +667,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208122500 +0100" stop="20151208123000 +0100">
+  <programme channel="burger" start="20151208082500 +0100" stop="20151208083000 +0100">
     <length units="minutes">5</length>
     <title>Point route</title>
     <category>Magazine</category>
@@ -1052,14 +677,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208123000 +0100" stop="20151208123500 +0100">
+  <programme channel="burger" start="20151208083000 +0100" stop="20151208083500 +0100">
     <length units="minutes">5</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208123500 +0100" stop="20151208125700 +0100">
+  <programme channel="burger" start="20151208083500 +0100" stop="20151208085700 +0100">
     <length units="minutes">22</length>
     <title>Télématin</title>
     <category>Magazine</category>
@@ -1069,21 +694,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208125700 +0100" stop="20151208130000 +0100">
+  <programme channel="burger" start="20151208085700 +0100" stop="20151208090000 +0100">
     <length units="minutes">3</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208130000 +0100" stop="20151208131000 +0100">
+  <programme channel="burger" start="20151208090000 +0100" stop="20151208091000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208131000 +0100" stop="20151208140000 +0100">
+  <programme channel="burger" start="20151208091000 +0100" stop="20151208100000 +0100">
     <length units="minutes">50</length>
     <title>Télématin (suite)</title>
     <category>Magazine</category>
@@ -1093,14 +718,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208140000 +0100" stop="20151208141000 +0100">
+  <programme channel="burger" start="20151208100000 +0100" stop="20151208101000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208141000 +0100" stop="20151208150500 +0100">
+  <programme channel="burger" start="20151208101000 +0100" stop="20151208110500 +0100">
     <length units="minutes">55</length>
     <title>Télématin (suite)</title>
     <category>Magazine</category>
@@ -1110,7 +735,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208150500 +0100" stop="20151208151000 +0100">
+  <programme channel="burger" start="20151208110500 +0100" stop="20151208111000 +0100">
     <length units="minutes">5</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
@@ -1120,7 +745,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208151000 +0100" stop="20151208153000 +0100">
+  <programme channel="burger" start="20151208111000 +0100" stop="20151208113000 +0100">
     <length units="minutes">20</length>
     <title>Des jours et des vies</title>
     <category>Feuilleton</category>
@@ -1138,7 +763,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208153000 +0100" stop="20151208155500 +0100">
+  <programme channel="burger" start="20151208113000 +0100" stop="20151208115500 +0100">
     <length units="minutes">25</length>
     <title>Amour, gloire et beauté</title>
     <category>Feuilleton</category>
@@ -1155,7 +780,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208155500 +0100" stop="20151208164500 +0100">
+  <programme channel="burger" start="20151208115500 +0100" stop="20151208124500 +0100">
     <length units="minutes">50</length>
     <title>C'est au programme</title>
     <category>Magazine</category>
@@ -1165,14 +790,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208164500 +0100" stop="20151208165000 +0100">
+  <programme channel="burger" start="20151208124500 +0100" stop="20151208125000 +0100">
     <length units="minutes">5</length>
     <title>Météo outremer</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208165000 +0100" stop="20151208172500 +0100">
+  <programme channel="burger" start="20151208125000 +0100" stop="20151208132500 +0100">
     <length units="minutes">35</length>
     <title>Motus</title>
     <category>Jeu</category>
@@ -1182,7 +807,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208172500 +0100" stop="20151208175500 +0100">
+  <programme channel="burger" start="20151208132500 +0100" stop="20151208135500 +0100">
     <length units="minutes">30</length>
     <title>Les Z'amours</title>
     <category>Jeu</category>
@@ -1192,7 +817,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208175500 +0100" stop="20151208185500 +0100">
+  <programme channel="burger" start="20151208135500 +0100" stop="20151208145500 +0100">
     <length units="minutes">60</length>
     <title>Tout le monde veut prendre sa place</title>
     <category>Jeu</category>
@@ -1202,14 +827,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208185500 +0100" stop="20151208190000 +0100">
+  <programme channel="burger" start="20151208145500 +0100" stop="20151208150000 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208190000 +0100" stop="20151208195000 +0100">
+  <programme channel="burger" start="20151208150000 +0100" stop="20151208155000 +0100">
     <length units="minutes">50</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -1219,21 +844,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208195000 +0100" stop="20151208195100 +0100">
+  <programme channel="burger" start="20151208155000 +0100" stop="20151208155100 +0100">
     <length units="minutes">1</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208195100 +0100" stop="20151208200000 +0100">
+  <programme channel="burger" start="20151208155100 +0100" stop="20151208160000 +0100">
     <length units="minutes">9</length>
     <title>Consomag</title>
     <category>Magazine</category>
     <desc>Placement : détecter les arnaques Une émission de l'Institut national de la consommation. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208200000 +0100" stop="20151208210500 +0100">
+  <programme channel="burger" start="20151208160000 +0100" stop="20151208170500 +0100">
     <length units="minutes">65</length>
     <title>Toute une histoire</title>
     <category>Magazine</category>
@@ -1243,7 +868,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208210500 +0100" stop="20151208213500 +0100">
+  <programme channel="burger" start="20151208170500 +0100" stop="20151208173500 +0100">
     <length units="minutes">30</length>
     <title>L'histoire continue</title>
     <category>Magazine</category>
@@ -1253,7 +878,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208213500 +0100" stop="20151208222000 +0100">
+  <programme channel="burger" start="20151208173500 +0100" stop="20151208182000 +0100">
     <length units="minutes">45</length>
     <title>Comment ça va bien !</title>
     <category>Magazine</category>
@@ -1263,7 +888,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208222000 +0100" stop="20151208231500 +0100">
+  <programme channel="burger" start="20151208182000 +0100" stop="20151208191500 +0100">
     <length units="minutes">55</length>
     <title>Comment ça va bien !</title>
     <category>Magazine</category>
@@ -1273,7 +898,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208231500 +0100" stop="20151209001500 +0100">
+  <programme channel="burger" start="20151208191500 +0100" stop="20151208201500 +0100">
     <length units="minutes">60</length>
     <title>Dans la peau d'un chef</title>
     <category>Magazine</category>
@@ -1283,7 +908,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209001500 +0100" stop="20151209005500 +0100">
+  <programme channel="burger" start="20151208201500 +0100" stop="20151208205500 +0100">
     <length units="minutes">40</length>
     <title>Joker</title>
     <category>Jeu</category>
@@ -1293,7 +918,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209005500 +0100" stop="20151209012500 +0100">
+  <programme channel="burger" start="20151208205500 +0100" stop="20151208212500 +0100">
     <length units="minutes">30</length>
     <title>N'oubliez pas les paroles</title>
     <category>Jeu</category>
@@ -1303,7 +928,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209012500 +0100" stop="20151209015500 +0100">
+  <programme channel="burger" start="20151208212500 +0100" stop="20151208215500 +0100">
     <length units="minutes">30</length>
     <title>N'oubliez pas les paroles</title>
     <category>Jeu</category>
@@ -1313,14 +938,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209015500 +0100" stop="20151209020000 +0100">
+  <programme channel="burger" start="20151208215500 +0100" stop="20151208220000 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209020000 +0100" stop="20151209024000 +0100">
+  <programme channel="burger" start="20151208220000 +0100" stop="20151208224000 +0100">
     <length units="minutes">40</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -1330,7 +955,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209024000 +0100" stop="20151209024100 +0100">
+  <programme channel="burger" start="20151208224000 +0100" stop="20151208224100 +0100">
     <length units="minutes">1</length>
     <title>Parents mode d'emploi</title>
     <category>Série</category>
@@ -1341,7 +966,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209024100 +0100" stop="20151209024500 +0100">
+  <programme channel="burger" start="20151208224100 +0100" stop="20151208224500 +0100">
     <length units="minutes">4</length>
     <title>Vestiaires</title>
     <category>Série</category>
@@ -1356,28 +981,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209024500 +0100" stop="20151209024600 +0100">
+  <programme channel="burger" start="20151208224500 +0100" stop="20151208224600 +0100">
     <length units="minutes">1</length>
     <title>Beau travail COP21</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209024600 +0100" stop="20151209025000 +0100">
+  <programme channel="burger" start="20151208224600 +0100" stop="20151208225000 +0100">
     <length units="minutes">4</length>
     <title>Alcaline l'instant</title>
     <category>Magazine</category>
     <desc>Odezenne Rencontre avec un artiste qui fait l'actualité musicale. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209025000 +0100" stop="20151209025500 +0100">
+  <programme channel="burger" start="20151208225000 +0100" stop="20151208225500 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209025500 +0100" stop="20151209044500 +0100">
+  <programme channel="burger" start="20151208225500 +0100" stop="20151209004500 +0100">
     <length units="minutes">110</length>
     <title>Les pouvoirs extraordinaires du corps humain</title>
     <category>Magazine</category>
@@ -1388,14 +1013,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209044500 +0100" stop="20151209045000 +0100">
+  <programme channel="burger" start="20151209004500 +0100" stop="20151209005000 +0100">
     <length units="minutes">5</length>
     <title>Les héros du climat</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209045000 +0100" stop="20151209054500 +0100">
+  <programme channel="burger" start="20151209005000 +0100" stop="20151209014500 +0100">
     <length units="minutes">55</length>
     <title>21 jours...</title>
     <category>Documentaire</category>
@@ -1405,7 +1030,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209054500 +0100" stop="20151209064500 +0100">
+  <programme channel="burger" start="20151209014500 +0100" stop="20151209024500 +0100">
     <length units="minutes">60</length>
     <title>Ils sont médecins au SAMU</title>
     <category>Documentaire</category>
@@ -1415,7 +1040,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209064500 +0100" stop="20151209074000 +0100">
+  <programme channel="burger" start="20151209024500 +0100" stop="20151209034000 +0100">
     <length units="minutes">55</length>
     <title>Ils sont médecins au SAMU</title>
     <category>Documentaire</category>
@@ -1425,7 +1050,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209074000 +0100" stop="20151209074100 +0100">
+  <programme channel="burger" start="20151209034000 +0100" stop="20151209034100 +0100">
     <length units="minutes">1</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
@@ -1435,14 +1060,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209074100 +0100" stop="20151209074500 +0100">
+  <programme channel="burger" start="20151209034100 +0100" stop="20151209034500 +0100">
     <length units="minutes">4</length>
     <title>Météo outremer</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209074500 +0100" stop="20151209091500 +0100">
+  <programme channel="burger" start="20151209034500 +0100" stop="20151209051500 +0100">
     <length units="minutes">90</length>
     <title>Terra</title>
     <category>Documentaire</category>
@@ -1453,7 +1078,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209091500 +0100" stop="20151209101500 +0100">
+  <programme channel="burger" start="20151209051500 +0100" stop="20151209061500 +0100">
     <length units="minutes">60</length>
     <title>Toute une histoire</title>
     <category>Magazine</category>
@@ -1463,7 +1088,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209101500 +0100" stop="20151209104500 +0100">
+  <programme channel="burger" start="20151209061500 +0100" stop="20151209064500 +0100">
     <length units="minutes">30</length>
     <title>L'histoire continue</title>
     <category>Magazine</category>
@@ -1473,14 +1098,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209104500 +0100" stop="20151209105500 +0100">
+  <programme channel="burger" start="20151209064500 +0100" stop="20151209065500 +0100">
     <length units="minutes">10</length>
     <title>Courant d'art</title>
     <category>Documentaire</category>
     <desc>Modernité plurielle Les arts n'ont-ils pas pour mission de conquérir la modernité ou se doivent-ils plutôt de la questionner afin de l'appréhender sous toutes ses... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209105500 +0100" stop="20151209115200 +0100">
+  <programme channel="burger" start="20151209065500 +0100" stop="20151209075200 +0100">
     <length units="minutes">57</length>
     <title>Grandeurs nature</title>
     <category>Documentaire</category>
@@ -1491,7 +1116,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209115200 +0100" stop="20151209115500 +0100">
+  <programme channel="burger" start="20151209075200 +0100" stop="20151209075500 +0100">
     <length units="minutes">3</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
@@ -1501,7 +1126,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209115500 +0100" stop="20151209122500 +0100">
+  <programme channel="burger" start="20151209075500 +0100" stop="20151209082500 +0100">
     <length units="minutes">30</length>
     <title>Les Z'amours</title>
     <category>Jeu</category>
@@ -1511,7 +1136,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209122500 +0100" stop="20151209123000 +0100">
+  <programme channel="burger" start="20151209082500 +0100" stop="20151209083000 +0100">
     <length units="minutes">5</length>
     <title>Point route</title>
     <category>Magazine</category>
@@ -1521,14 +1146,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209123000 +0100" stop="20151209123500 +0100">
+  <programme channel="burger" start="20151209083000 +0100" stop="20151209083500 +0100">
     <length units="minutes">5</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209123500 +0100" stop="20151209125700 +0100">
+  <programme channel="burger" start="20151209083500 +0100" stop="20151209085700 +0100">
     <length units="minutes">22</length>
     <title>Télématin</title>
     <category>Magazine</category>
@@ -1538,21 +1163,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209125700 +0100" stop="20151209130000 +0100">
+  <programme channel="burger" start="20151209085700 +0100" stop="20151209090000 +0100">
     <length units="minutes">3</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209130000 +0100" stop="20151209131000 +0100">
+  <programme channel="burger" start="20151209090000 +0100" stop="20151209091000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209131000 +0100" stop="20151209140000 +0100">
+  <programme channel="burger" start="20151209091000 +0100" stop="20151209100000 +0100">
     <length units="minutes">50</length>
     <title>Télématin (suite)</title>
     <category>Magazine</category>
@@ -1562,14 +1187,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209140000 +0100" stop="20151209141000 +0100">
+  <programme channel="burger" start="20151209100000 +0100" stop="20151209101000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209141000 +0100" stop="20151209150500 +0100">
+  <programme channel="burger" start="20151209101000 +0100" stop="20151209110500 +0100">
     <length units="minutes">55</length>
     <title>Télématin (suite)</title>
     <category>Magazine</category>
@@ -1579,7 +1204,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209150500 +0100" stop="20151209151000 +0100">
+  <programme channel="burger" start="20151209110500 +0100" stop="20151209111000 +0100">
     <length units="minutes">5</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
@@ -1589,7 +1214,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209151000 +0100" stop="20151209153500 +0100">
+  <programme channel="burger" start="20151209111000 +0100" stop="20151209113500 +0100">
     <length units="minutes">25</length>
     <title>Des jours et des vies</title>
     <category>Feuilleton</category>
@@ -1607,7 +1232,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209153500 +0100" stop="20151209160000 +0100">
+  <programme channel="burger" start="20151209113500 +0100" stop="20151209120000 +0100">
     <length units="minutes">25</length>
     <title>Amour, gloire et beauté</title>
     <category>Feuilleton</category>
@@ -1624,7 +1249,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209160000 +0100" stop="20151209165000 +0100">
+  <programme channel="burger" start="20151209120000 +0100" stop="20151209125000 +0100">
     <length units="minutes">50</length>
     <title>C'est au programme</title>
     <category>Magazine</category>
@@ -1634,14 +1259,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209165000 +0100" stop="20151209165500 +0100">
+  <programme channel="burger" start="20151209125000 +0100" stop="20151209125500 +0100">
     <length units="minutes">5</length>
     <title>Météo outremer</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209165500 +0100" stop="20151209173000 +0100">
+  <programme channel="burger" start="20151209125500 +0100" stop="20151209133000 +0100">
     <length units="minutes">35</length>
     <title>Motus</title>
     <category>Jeu</category>
@@ -1651,7 +1276,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209173000 +0100" stop="20151209180000 +0100">
+  <programme channel="burger" start="20151209133000 +0100" stop="20151209140000 +0100">
     <length units="minutes">30</length>
     <title>Les Z'amours</title>
     <category>Jeu</category>
@@ -1661,7 +1286,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209180000 +0100" stop="20151209185500 +0100">
+  <programme channel="burger" start="20151209140000 +0100" stop="20151209145500 +0100">
     <length units="minutes">55</length>
     <title>Tout le monde veut prendre sa place</title>
     <category>Jeu</category>
@@ -1671,14 +1296,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209185500 +0100" stop="20151209190000 +0100">
+  <programme channel="burger" start="20151209145500 +0100" stop="20151209150000 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209190000 +0100" stop="20151209195000 +0100">
+  <programme channel="burger" start="20151209150000 +0100" stop="20151209155000 +0100">
     <length units="minutes">50</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -1688,21 +1313,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209195000 +0100" stop="20151209195100 +0100">
+  <programme channel="burger" start="20151209155000 +0100" stop="20151209155100 +0100">
     <length units="minutes">1</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209195100 +0100" stop="20151209200000 +0100">
+  <programme channel="burger" start="20151209155100 +0100" stop="20151209160000 +0100">
     <length units="minutes">9</length>
     <title>Consomag</title>
     <category>Magazine</category>
     <desc>Bien investir avec le crowdfunding Une émission de l'Institut national de la consommation. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209200000 +0100" stop="20151209210500 +0100">
+  <programme channel="burger" start="20151209160000 +0100" stop="20151209170500 +0100">
     <length units="minutes">65</length>
     <title>Toute une histoire</title>
     <category>Magazine</category>
@@ -1712,7 +1337,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209210500 +0100" stop="20151209213500 +0100">
+  <programme channel="burger" start="20151209170500 +0100" stop="20151209173500 +0100">
     <length units="minutes">30</length>
     <title>L'histoire continue</title>
     <category>Magazine</category>
@@ -1722,7 +1347,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209213500 +0100" stop="20151209222000 +0100">
+  <programme channel="burger" start="20151209173500 +0100" stop="20151209182000 +0100">
     <length units="minutes">45</length>
     <title>Comment ça va bien !</title>
     <category>Magazine</category>
@@ -1732,7 +1357,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209222000 +0100" stop="20151209231500 +0100">
+  <programme channel="burger" start="20151209182000 +0100" stop="20151209191500 +0100">
     <length units="minutes">55</length>
     <title>Comment ça va bien !</title>
     <category>Magazine</category>
@@ -1742,7 +1367,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209231500 +0100" stop="20151210001500 +0100">
+  <programme channel="burger" start="20151209191500 +0100" stop="20151209201500 +0100">
     <length units="minutes">60</length>
     <title>Dans la peau d'un chef</title>
     <category>Magazine</category>
@@ -1752,7 +1377,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210001500 +0100" stop="20151210005500 +0100">
+  <programme channel="burger" start="20151209201500 +0100" stop="20151209205500 +0100">
     <length units="minutes">40</length>
     <title>Joker</title>
     <category>Jeu</category>
@@ -1762,7 +1387,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210005500 +0100" stop="20151210012500 +0100">
+  <programme channel="burger" start="20151209205500 +0100" stop="20151209212500 +0100">
     <length units="minutes">30</length>
     <title>N'oubliez pas les paroles</title>
     <category>Jeu</category>
@@ -1772,7 +1397,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210012500 +0100" stop="20151210015500 +0100">
+  <programme channel="burger" start="20151209212500 +0100" stop="20151209215500 +0100">
     <length units="minutes">30</length>
     <title>N'oubliez pas les paroles</title>
     <category>Jeu</category>
@@ -1782,14 +1407,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210015500 +0100" stop="20151210020000 +0100">
+  <programme channel="burger" start="20151209215500 +0100" stop="20151209220000 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210020000 +0100" stop="20151210024000 +0100">
+  <programme channel="burger" start="20151209220000 +0100" stop="20151209224000 +0100">
     <length units="minutes">40</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -1799,7 +1424,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210024000 +0100" stop="20151210024100 +0100">
+  <programme channel="burger" start="20151209224000 +0100" stop="20151209224100 +0100">
     <length units="minutes">1</length>
     <title>Parents mode d'emploi</title>
     <category>Série</category>
@@ -1810,7 +1435,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210024100 +0100" stop="20151210024500 +0100">
+  <programme channel="burger" start="20151209224100 +0100" stop="20151209224500 +0100">
     <length units="minutes">4</length>
     <title>Vestiaires</title>
     <category>Série</category>
@@ -1825,28 +1450,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210024500 +0100" stop="20151210024600 +0100">
+  <programme channel="burger" start="20151209224500 +0100" stop="20151209224600 +0100">
     <length units="minutes">1</length>
     <title>Beau travail COP21</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210024600 +0100" stop="20151210025000 +0100">
+  <programme channel="burger" start="20151209224600 +0100" stop="20151209225000 +0100">
     <length units="minutes">4</length>
     <title>Alcaline l'instant</title>
     <category>Magazine</category>
     <desc>M Rencontre avec un artiste qui fait l'actualité musicale. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210025000 +0100" stop="20151210025500 +0100">
+  <programme channel="burger" start="20151209225000 +0100" stop="20151209225500 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210025500 +0100" stop="20151210034500 +0100">
+  <programme channel="burger" start="20151209225500 +0100" stop="20151209234500 +0100">
     <length units="minutes">50</length>
     <title>Malaterra</title>
     <category>Série</category>
@@ -1864,7 +1489,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210034500 +0100" stop="20151210044400 +0100">
+  <programme channel="burger" start="20151209234500 +0100" stop="20151210004400 +0100">
     <length units="minutes">59</length>
     <title>Malaterra</title>
     <category>Série</category>
@@ -1882,14 +1507,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210044400 +0100" stop="20151210044500 +0100">
+  <programme channel="burger" start="20151210004400 +0100" stop="20151210004500 +0100">
     <length units="minutes">1</length>
     <title>Les héros du climat</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210044500 +0100" stop="20151210064000 +0100">
+  <programme channel="burger" start="20151210004500 +0100" stop="20151210024000 +0100">
     <length units="minutes">115</length>
     <title>Folie passagère</title>
     <category>Divertissement</category>
@@ -1899,7 +1524,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210064000 +0100" stop="20151210064400 +0100">
+  <programme channel="burger" start="20151210024000 +0100" stop="20151210024400 +0100">
     <length units="minutes">4</length>
     <title>Grand public</title>
     <category>Magazine</category>
@@ -1909,14 +1534,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210064400 +0100" stop="20151210064500 +0100">
+  <programme channel="burger" start="20151210024400 +0100" stop="20151210024500 +0100">
     <length units="minutes">1</length>
     <title>Plein 2 ciné</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210064500 +0100" stop="20151210064900 +0100">
+  <programme channel="burger" start="20151210024500 +0100" stop="20151210024900 +0100">
     <length units="minutes">4</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
@@ -1926,14 +1551,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210064900 +0100" stop="20151210065000 +0100">
+  <programme channel="burger" start="20151210024900 +0100" stop="20151210025000 +0100">
     <length units="minutes">1</length>
     <title>Météo outremer</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210065000 +0100" stop="20151210082000 +0100">
+  <programme channel="burger" start="20151210025000 +0100" stop="20151210042000 +0100">
     <length units="minutes">90</length>
     <title>3 femmes en colère</title>
     <category>Téléfilm</category>
@@ -1951,7 +1576,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210082000 +0100" stop="20151210092000 +0100">
+  <programme channel="burger" start="20151210042000 +0100" stop="20151210052000 +0100">
     <length units="minutes">60</length>
     <title>Toute une histoire</title>
     <category>Magazine</category>
@@ -1961,7 +1586,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210092000 +0100" stop="20151210095000 +0100">
+  <programme channel="burger" start="20151210052000 +0100" stop="20151210055000 +0100">
     <length units="minutes">30</length>
     <title>L'histoire continue</title>
     <category>Magazine</category>
@@ -1971,21 +1596,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210095000 +0100" stop="20151210105000 +0100">
+  <programme channel="burger" start="20151210055000 +0100" stop="20151210065000 +0100">
     <length units="minutes">60</length>
     <title>Emissions religieuses</title>
     <category>Magazine</category>
     <desc>La rediffusion des émissions religieuses du dimanche précédent. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210105000 +0100" stop="20151210111500 +0100">
+  <programme channel="burger" start="20151210065000 +0100" stop="20151210071500 +0100">
     <length units="minutes">25</length>
     <title>Apprends-moi à voler</title>
     <category>Documentaire</category>
     <desc>A la découverte des merveilles de la nature et de l'apprentissage du vol chez certaines espèces animales. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210111500 +0100" stop="20151210112000 +0100">
+  <programme channel="burger" start="20151210071500 +0100" stop="20151210072000 +0100">
     <length units="minutes">5</length>
     <title>Courant d'art</title>
     <category>Documentaire</category>
@@ -1995,14 +1620,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210112000 +0100" stop="20151210115500 +0100">
+  <programme channel="burger" start="20151210072000 +0100" stop="20151210075500 +0100">
     <length units="minutes">35</length>
     <title>Couleurs outremers</title>
     <category>Magazine</category>
     <desc>Au sommaire : Les maisons coloniales de l'île Maurice. - Les produits naturels de la Guadeloupe. - Le lagon d'Ouvéa, en Nouvelle-Calédonie. - Le... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210115500 +0100" stop="20151210120000 +0100">
+  <programme channel="burger" start="20151210075500 +0100" stop="20151210080000 +0100">
     <length units="minutes">5</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
@@ -2012,7 +1637,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210120000 +0100" stop="20151210122500 +0100">
+  <programme channel="burger" start="20151210080000 +0100" stop="20151210082500 +0100">
     <length units="minutes">25</length>
     <title>Les Z'amours</title>
     <category>Jeu</category>
@@ -2022,7 +1647,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210122500 +0100" stop="20151210123000 +0100">
+  <programme channel="burger" start="20151210082500 +0100" stop="20151210083000 +0100">
     <length units="minutes">5</length>
     <title>Point route</title>
     <category>Magazine</category>
@@ -2032,14 +1657,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210123000 +0100" stop="20151210123500 +0100">
+  <programme channel="burger" start="20151210083000 +0100" stop="20151210083500 +0100">
     <length units="minutes">5</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210123500 +0100" stop="20151210125700 +0100">
+  <programme channel="burger" start="20151210083500 +0100" stop="20151210085700 +0100">
     <length units="minutes">22</length>
     <title>Télématin</title>
     <category>Magazine</category>
@@ -2049,21 +1674,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210125700 +0100" stop="20151210130000 +0100">
+  <programme channel="burger" start="20151210085700 +0100" stop="20151210090000 +0100">
     <length units="minutes">3</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210130000 +0100" stop="20151210131000 +0100">
+  <programme channel="burger" start="20151210090000 +0100" stop="20151210091000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210131000 +0100" stop="20151210140000 +0100">
+  <programme channel="burger" start="20151210091000 +0100" stop="20151210100000 +0100">
     <length units="minutes">50</length>
     <title>Télématin (suite)</title>
     <category>Magazine</category>
@@ -2073,14 +1698,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210140000 +0100" stop="20151210141000 +0100">
+  <programme channel="burger" start="20151210100000 +0100" stop="20151210101000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210141000 +0100" stop="20151210150500 +0100">
+  <programme channel="burger" start="20151210101000 +0100" stop="20151210110500 +0100">
     <length units="minutes">55</length>
     <title>Télématin (suite)</title>
     <category>Magazine</category>
@@ -2090,7 +1715,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210150500 +0100" stop="20151210151000 +0100">
+  <programme channel="burger" start="20151210110500 +0100" stop="20151210111000 +0100">
     <length units="minutes">5</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
@@ -2100,7 +1725,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210151000 +0100" stop="20151210153000 +0100">
+  <programme channel="burger" start="20151210111000 +0100" stop="20151210113000 +0100">
     <length units="minutes">20</length>
     <title>Des jours et des vies</title>
     <category>Feuilleton</category>
@@ -2118,7 +1743,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210153000 +0100" stop="20151210155500 +0100">
+  <programme channel="burger" start="20151210113000 +0100" stop="20151210115500 +0100">
     <length units="minutes">25</length>
     <title>Amour, gloire et beauté</title>
     <category>Feuilleton</category>
@@ -2133,7 +1758,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210155500 +0100" stop="20151210164500 +0100">
+  <programme channel="burger" start="20151210115500 +0100" stop="20151210124500 +0100">
     <length units="minutes">50</length>
     <title>C'est au programme</title>
     <category>Magazine</category>
@@ -2143,14 +1768,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210164500 +0100" stop="20151210165500 +0100">
+  <programme channel="burger" start="20151210124500 +0100" stop="20151210125500 +0100">
     <length units="minutes">10</length>
     <title>Météo outremer</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210165500 +0100" stop="20151210172500 +0100">
+  <programme channel="burger" start="20151210125500 +0100" stop="20151210132500 +0100">
     <length units="minutes">30</length>
     <title>Motus</title>
     <category>Jeu</category>
@@ -2160,7 +1785,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210172500 +0100" stop="20151210175500 +0100">
+  <programme channel="burger" start="20151210132500 +0100" stop="20151210135500 +0100">
     <length units="minutes">30</length>
     <title>Les Z'amours</title>
     <category>Jeu</category>
@@ -2170,7 +1795,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210175500 +0100" stop="20151210185500 +0100">
+  <programme channel="burger" start="20151210135500 +0100" stop="20151210145500 +0100">
     <length units="minutes">60</length>
     <title>Tout le monde veut prendre sa place</title>
     <category>Jeu</category>
@@ -2180,14 +1805,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210185500 +0100" stop="20151210190000 +0100">
+  <programme channel="burger" start="20151210145500 +0100" stop="20151210150000 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210190000 +0100" stop="20151210195000 +0100">
+  <programme channel="burger" start="20151210150000 +0100" stop="20151210155000 +0100">
     <length units="minutes">50</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -2197,21 +1822,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210195000 +0100" stop="20151210195100 +0100">
+  <programme channel="burger" start="20151210155000 +0100" stop="20151210155100 +0100">
     <length units="minutes">1</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210195100 +0100" stop="20151210200000 +0100">
+  <programme channel="burger" start="20151210155100 +0100" stop="20151210160000 +0100">
     <length units="minutes">9</length>
     <title>Consomag</title>
     <category>Magazine</category>
     <desc>Que vous rapportent réellement vos placement ? Une émission de l'Institut national de la consommation. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210200000 +0100" stop="20151210210500 +0100">
+  <programme channel="burger" start="20151210160000 +0100" stop="20151210170500 +0100">
     <length units="minutes">65</length>
     <title>Toute une histoire</title>
     <category>Magazine</category>
@@ -2221,7 +1846,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210210500 +0100" stop="20151210213500 +0100">
+  <programme channel="burger" start="20151210170500 +0100" stop="20151210173500 +0100">
     <length units="minutes">30</length>
     <title>L'histoire continue</title>
     <category>Magazine</category>
@@ -2231,7 +1856,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210213500 +0100" stop="20151210222000 +0100">
+  <programme channel="burger" start="20151210173500 +0100" stop="20151210182000 +0100">
     <length units="minutes">45</length>
     <title>Comment ça va bien !</title>
     <category>Magazine</category>
@@ -2241,7 +1866,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210222000 +0100" stop="20151210231500 +0100">
+  <programme channel="burger" start="20151210182000 +0100" stop="20151210191500 +0100">
     <length units="minutes">55</length>
     <title>Comment ça va bien !</title>
     <category>Magazine</category>
@@ -2251,7 +1876,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210231500 +0100" stop="20151211001500 +0100">
+  <programme channel="burger" start="20151210191500 +0100" stop="20151210201500 +0100">
     <length units="minutes">60</length>
     <title>Dans la peau d'un chef</title>
     <category>Magazine</category>
@@ -2261,7 +1886,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211001500 +0100" stop="20151211005500 +0100">
+  <programme channel="burger" start="20151210201500 +0100" stop="20151210205500 +0100">
     <length units="minutes">40</length>
     <title>Joker</title>
     <category>Jeu</category>
@@ -2271,7 +1896,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211005500 +0100" stop="20151211012500 +0100">
+  <programme channel="burger" start="20151210205500 +0100" stop="20151210212500 +0100">
     <length units="minutes">30</length>
     <title>N'oubliez pas les paroles</title>
     <category>Jeu</category>
@@ -2281,7 +1906,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211012500 +0100" stop="20151211015500 +0100">
+  <programme channel="burger" start="20151210212500 +0100" stop="20151210215500 +0100">
     <length units="minutes">30</length>
     <title>N'oubliez pas les paroles</title>
     <category>Jeu</category>
@@ -2291,14 +1916,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211015500 +0100" stop="20151211020000 +0100">
+  <programme channel="burger" start="20151210215500 +0100" stop="20151210220000 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211020000 +0100" stop="20151211024000 +0100">
+  <programme channel="burger" start="20151210220000 +0100" stop="20151210224000 +0100">
     <length units="minutes">40</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -2308,7 +1933,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211024000 +0100" stop="20151211024100 +0100">
+  <programme channel="burger" start="20151210224000 +0100" stop="20151210224100 +0100">
     <length units="minutes">1</length>
     <title>Parents mode d'emploi</title>
     <category>Série</category>
@@ -2319,7 +1944,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211024100 +0100" stop="20151211024500 +0100">
+  <programme channel="burger" start="20151210224100 +0100" stop="20151210224500 +0100">
     <length units="minutes">4</length>
     <title>Vestiaires</title>
     <category>Série</category>
@@ -2334,35 +1959,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211024500 +0100" stop="20151211024600 +0100">
+  <programme channel="burger" start="20151210224500 +0100" stop="20151210224600 +0100">
     <length units="minutes">1</length>
     <title>Beau travail COP21</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211024600 +0100" stop="20151211025000 +0100">
+  <programme channel="burger" start="20151210224600 +0100" stop="20151210225000 +0100">
     <length units="minutes">4</length>
     <title>Alcaline l'instant</title>
     <category>Magazine</category>
     <desc>Bertrand Belin Rencontre avec un artiste qui fait l'actualité musicale. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211025000 +0100" stop="20151211025100 +0100">
+  <programme channel="burger" start="20151210225000 +0100" stop="20151210225100 +0100">
     <length units="minutes">1</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211025100 +0100" stop="20151211025500 +0100">
+  <programme channel="burger" start="20151210225100 +0100" stop="20151210225500 +0100">
     <length units="minutes">4</length>
     <title>Météo des neiges</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211025500 +0100" stop="20151211042500 +0100">
+  <programme channel="burger" start="20151210225500 +0100" stop="20151211002500 +0100">
     <length units="minutes">90</length>
     <title>Envoyé spécial</title>
     <category>Magazine</category>
@@ -2373,7 +1998,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211042500 +0100" stop="20151211053000 +0100">
+  <programme channel="burger" start="20151211002500 +0100" stop="20151211013000 +0100">
     <length units="minutes">65</length>
     <title>Complément d'enquête</title>
     <category>Magazine</category>
@@ -2383,21 +2008,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211053000 +0100" stop="20151211053500 +0100">
+  <programme channel="burger" start="20151211013000 +0100" stop="20151211013500 +0100">
     <length units="minutes">5</length>
     <title>Les héros du climat</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211053500 +0100" stop="20151211062500 +0100">
+  <programme channel="burger" start="20151211013500 +0100" stop="20151211022500 +0100">
     <length units="minutes">50</length>
     <title>Alcaline le mag</title>
     <category>Magazine</category>
     <desc>Eddy Mitchell En octobre, Eddy Mitchell a sorti son 36e album, «Big Band». Le premier extrait, «Il faut vivre vite», est un hommage à Frank Sinatra et a donné... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211062500 +0100" stop="20151211062800 +0100">
+  <programme channel="burger" start="20151211022500 +0100" stop="20151211022800 +0100">
     <length units="minutes">3</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
@@ -2407,21 +2032,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211062800 +0100" stop="20151211063000 +0100">
+  <programme channel="burger" start="20151211022800 +0100" stop="20151211023000 +0100">
     <length units="minutes">2</length>
     <title>Météo outremer</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211063000 +0100" stop="20151211084000 +0100">
+  <programme channel="burger" start="20151211023000 +0100" stop="20151211044000 +0100">
     <length units="minutes">130</length>
     <title>Jenufa</title>
     <category>Opéra</category>
     <desc>Dans un village morave, Jenufa est enceinte de Steva, qui l'a séduite puis abandonnée. Laca, le demi-frère de Steva, considère ce dernier indigne... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211084000 +0100" stop="20151211094000 +0100">
+  <programme channel="burger" start="20151211044000 +0100" stop="20151211054000 +0100">
     <length units="minutes">60</length>
     <title>Toute une histoire</title>
     <category>Magazine</category>
@@ -2431,7 +2056,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211094000 +0100" stop="20151211101000 +0100">
+  <programme channel="burger" start="20151211054000 +0100" stop="20151211061000 +0100">
     <length units="minutes">30</length>
     <title>L'histoire continue</title>
     <category>Magazine</category>
@@ -2441,7 +2066,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211101000 +0100" stop="20151211105500 +0100">
+  <programme channel="burger" start="20151211061000 +0100" stop="20151211065500 +0100">
     <length units="minutes">45</length>
     <title>Comment ça va bien !</title>
     <category>Magazine</category>
@@ -2451,7 +2076,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211105500 +0100" stop="20151211111000 +0100">
+  <programme channel="burger" start="20151211065500 +0100" stop="20151211071000 +0100">
     <length units="minutes">15</length>
     <title>Petits sous, grandes rizières</title>
     <category>Documentaire</category>
@@ -2462,14 +2087,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211111000 +0100" stop="20151211115500 +0100">
+  <programme channel="burger" start="20151211071000 +0100" stop="20151211075500 +0100">
     <length units="minutes">45</length>
     <title>Voyage au bout du monde</title>
     <category>Documentaire</category>
     <desc>L'île Maurice A la découverte des trésors naturels de l'île Maurice, dans l'océan Indien, voisine de La Réunion, qui attire les touristes grâce à la beauté de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211115500 +0100" stop="20151211120000 +0100">
+  <programme channel="burger" start="20151211075500 +0100" stop="20151211080000 +0100">
     <length units="minutes">5</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
@@ -2479,7 +2104,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211120000 +0100" stop="20151211122500 +0100">
+  <programme channel="burger" start="20151211080000 +0100" stop="20151211082500 +0100">
     <length units="minutes">25</length>
     <title>Les Z'amours</title>
     <category>Jeu</category>
@@ -2489,7 +2114,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211122500 +0100" stop="20151211123000 +0100">
+  <programme channel="burger" start="20151211082500 +0100" stop="20151211083000 +0100">
     <length units="minutes">5</length>
     <title>Point route</title>
     <category>Magazine</category>
@@ -2499,14 +2124,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211123000 +0100" stop="20151211123500 +0100">
+  <programme channel="burger" start="20151211083000 +0100" stop="20151211083500 +0100">
     <length units="minutes">5</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211123500 +0100" stop="20151211125700 +0100">
+  <programme channel="burger" start="20151211083500 +0100" stop="20151211085700 +0100">
     <length units="minutes">22</length>
     <title>Télématin</title>
     <category>Magazine</category>
@@ -2516,21 +2141,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211125700 +0100" stop="20151211130000 +0100">
+  <programme channel="burger" start="20151211085700 +0100" stop="20151211090000 +0100">
     <length units="minutes">3</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211130000 +0100" stop="20151211131000 +0100">
+  <programme channel="burger" start="20151211090000 +0100" stop="20151211091000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211131000 +0100" stop="20151211140000 +0100">
+  <programme channel="burger" start="20151211091000 +0100" stop="20151211100000 +0100">
     <length units="minutes">50</length>
     <title>Télématin (suite)</title>
     <category>Magazine</category>
@@ -2540,14 +2165,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211140000 +0100" stop="20151211141000 +0100">
+  <programme channel="burger" start="20151211100000 +0100" stop="20151211101000 +0100">
     <length units="minutes">10</length>
     <title>Journal</title>
     <category>Journal</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211141000 +0100" stop="20151211150500 +0100">
+  <programme channel="burger" start="20151211101000 +0100" stop="20151211110500 +0100">
     <length units="minutes">55</length>
     <title>Télématin (suite)</title>
     <category>Magazine</category>
@@ -2557,7 +2182,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211150500 +0100" stop="20151211150600 +0100">
+  <programme channel="burger" start="20151211110500 +0100" stop="20151211110600 +0100">
     <length units="minutes">1</length>
     <title>Point route</title>
     <category>Magazine</category>
@@ -2567,7 +2192,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211150600 +0100" stop="20151211151000 +0100">
+  <programme channel="burger" start="20151211110600 +0100" stop="20151211111000 +0100">
     <length units="minutes">4</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
@@ -2577,7 +2202,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211151000 +0100" stop="20151211153500 +0100">
+  <programme channel="burger" start="20151211111000 +0100" stop="20151211113500 +0100">
     <length units="minutes">25</length>
     <title>Des jours et des vies</title>
     <category>Feuilleton</category>
@@ -2595,7 +2220,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211153500 +0100" stop="20151211160000 +0100">
+  <programme channel="burger" start="20151211113500 +0100" stop="20151211120000 +0100">
     <length units="minutes">25</length>
     <title>Amour, gloire et beauté</title>
     <category>Feuilleton</category>
@@ -2610,7 +2235,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211160000 +0100" stop="20151211165000 +0100">
+  <programme channel="burger" start="20151211120000 +0100" stop="20151211125000 +0100">
     <length units="minutes">50</length>
     <title>C'est au programme</title>
     <category>Magazine</category>
@@ -2620,14 +2245,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211165000 +0100" stop="20151211165500 +0100">
+  <programme channel="burger" start="20151211125000 +0100" stop="20151211125500 +0100">
     <length units="minutes">5</length>
     <title>Météo outremer</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211165500 +0100" stop="20151211172500 +0100">
+  <programme channel="burger" start="20151211125500 +0100" stop="20151211132500 +0100">
     <length units="minutes">30</length>
     <title>Motus</title>
     <category>Jeu</category>
@@ -2637,7 +2262,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211172500 +0100" stop="20151211180000 +0100">
+  <programme channel="burger" start="20151211132500 +0100" stop="20151211140000 +0100">
     <length units="minutes">35</length>
     <title>Les Z'amours</title>
     <category>Jeu</category>
@@ -2647,7 +2272,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211180000 +0100" stop="20151211185500 +0100">
+  <programme channel="burger" start="20151211140000 +0100" stop="20151211145500 +0100">
     <length units="minutes">55</length>
     <title>Tout le monde veut prendre sa place</title>
     <category>Jeu</category>
@@ -2657,14 +2282,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211185500 +0100" stop="20151211190000 +0100">
+  <programme channel="burger" start="20151211145500 +0100" stop="20151211150000 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211190000 +0100" stop="20151211195000 +0100">
+  <programme channel="burger" start="20151211150000 +0100" stop="20151211155000 +0100">
     <length units="minutes">50</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -2674,14 +2299,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211195000 +0100" stop="20151211195100 +0100">
+  <programme channel="burger" start="20151211155000 +0100" stop="20151211155100 +0100">
     <length units="minutes">1</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211195100 +0100" stop="20151211195500 +0100">
+  <programme channel="burger" start="20151211155100 +0100" stop="20151211155500 +0100">
     <length units="minutes">4</length>
     <title>Point route</title>
     <category>Magazine</category>
@@ -2691,14 +2316,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211195500 +0100" stop="20151211200000 +0100">
+  <programme channel="burger" start="20151211155500 +0100" stop="20151211160000 +0100">
     <length units="minutes">5</length>
     <title>Consomag</title>
     <category>Magazine</category>
     <desc>Placement : que faire en cas de litige ? Une émission de l'Institut national de la consommation. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211200000 +0100" stop="20151211210500 +0100">
+  <programme channel="burger" start="20151211160000 +0100" stop="20151211170500 +0100">
     <length units="minutes">65</length>
     <title>Toute une histoire</title>
     <category>Magazine</category>
@@ -2708,7 +2333,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211210500 +0100" stop="20151211213500 +0100">
+  <programme channel="burger" start="20151211170500 +0100" stop="20151211173500 +0100">
     <length units="minutes">30</length>
     <title>L'histoire continue</title>
     <category>Magazine</category>
@@ -2718,7 +2343,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211213500 +0100" stop="20151211222000 +0100">
+  <programme channel="burger" start="20151211173500 +0100" stop="20151211182000 +0100">
     <length units="minutes">45</length>
     <title>Comment ça va bien !</title>
     <category>Magazine</category>
@@ -2728,7 +2353,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211222000 +0100" stop="20151211232000 +0100">
+  <programme channel="burger" start="20151211182000 +0100" stop="20151211192000 +0100">
     <length units="minutes">60</length>
     <title>Comment ça va bien !</title>
     <category>Magazine</category>
@@ -2738,7 +2363,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211232000 +0100" stop="20151212001000 +0100">
+  <programme channel="burger" start="20151211192000 +0100" stop="20151211201000 +0100">
     <length units="minutes">50</length>
     <title>Dans la peau d'un chef</title>
     <category>Magazine</category>
@@ -2748,7 +2373,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212001000 +0100" stop="20151212001500 +0100">
+  <programme channel="burger" start="20151211201000 +0100" stop="20151211201500 +0100">
     <length units="minutes">5</length>
     <title>Point route</title>
     <category>Magazine</category>
@@ -2758,7 +2383,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212001500 +0100" stop="20151212005500 +0100">
+  <programme channel="burger" start="20151211201500 +0100" stop="20151211205500 +0100">
     <length units="minutes">40</length>
     <title>Joker</title>
     <category>Jeu</category>
@@ -2768,7 +2393,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212005500 +0100" stop="20151212012500 +0100">
+  <programme channel="burger" start="20151211205500 +0100" stop="20151211212500 +0100">
     <length units="minutes">30</length>
     <title>N'oubliez pas les paroles</title>
     <category>Jeu</category>
@@ -2778,7 +2403,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212012500 +0100" stop="20151212015500 +0100">
+  <programme channel="burger" start="20151211212500 +0100" stop="20151211215500 +0100">
     <length units="minutes">30</length>
     <title>N'oubliez pas les paroles</title>
     <category>Jeu</category>
@@ -2788,14 +2413,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212015500 +0100" stop="20151212020000 +0100">
+  <programme channel="burger" start="20151211215500 +0100" stop="20151211220000 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212020000 +0100" stop="20151212024000 +0100">
+  <programme channel="burger" start="20151211220000 +0100" stop="20151211224000 +0100">
     <length units="minutes">40</length>
     <title>Journal</title>
     <category>Journal</category>
@@ -2805,7 +2430,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212024000 +0100" stop="20151212024100 +0100">
+  <programme channel="burger" start="20151211224000 +0100" stop="20151211224100 +0100">
     <length units="minutes">1</length>
     <title>Parents mode d'emploi</title>
     <category>Série</category>
@@ -2816,21 +2441,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212024100 +0100" stop="20151212024500 +0100">
+  <programme channel="burger" start="20151211224100 +0100" stop="20151211224500 +0100">
     <length units="minutes">4</length>
     <title>Qui m'aime m'écoute</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212024500 +0100" stop="20151212024600 +0100">
+  <programme channel="burger" start="20151211224500 +0100" stop="20151211224600 +0100">
     <length units="minutes">1</length>
     <title>Alcaline l'instant</title>
     <category>Magazine</category>
     <desc>Elliot Moss Rencontre avec un artiste qui fait l'actualité musicale. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212024600 +0100" stop="20151212025000 +0100">
+  <programme channel="burger" start="20151211224600 +0100" stop="20151211225000 +0100">
     <length units="minutes">4</length>
     <title>Grand public</title>
     <category>Magazine</category>
@@ -2840,21 +2465,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212025000 +0100" stop="20151212025400 +0100">
+  <programme channel="burger" start="20151211225000 +0100" stop="20151211225400 +0100">
     <length units="minutes">4</length>
     <title>Météo 2</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212025400 +0100" stop="20151212025500 +0100">
+  <programme channel="burger" start="20151211225400 +0100" stop="20151211225500 +0100">
     <length units="minutes">1</length>
     <title>Météo des neiges</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212025500 +0100" stop="20151212044000 +0100">
+  <programme channel="burger" start="20151211225500 +0100" stop="20151212004000 +0100">
     <length units="minutes">105</length>
     <title>Les Dames</title>
     <category>Téléfilm</category>
@@ -2872,14 +2497,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212044000 +0100" stop="20151212044500 +0100">
+  <programme channel="burger" start="20151212004000 +0100" stop="20151212004500 +0100">
     <length units="minutes">5</length>
     <title>Les héros du climat</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212044500 +0100" stop="20151212061500 +0100">
+  <programme channel="burger" start="20151212004500 +0100" stop="20151212021500 +0100">
     <length units="minutes">90</length>
     <title>Ce soir (ou jamais !)</title>
     <category>Magazine</category>
@@ -2889,351 +2514,351 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212061500 +0100" stop="20151212061800 +0100">
+  <programme channel="burger" start="20151212021500 +0100" stop="20151212021800 +0100">
     <length units="minutes">3</length>
     <title>Dans quelle éta-gère</title>
     <category>Magazine</category>
-    <desc>Un entretien de deux minutes avec un écrivain... (Lire la suite).(n)</desc>
+    <desc>Un entretien de deux minutes avec un écrivain... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Monique Atlan</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212061800 +0100" stop="20151212062000 +0100">
+  <programme channel="burger" start="20151212021800 +0100" stop="20151212022000 +0100">
     <length units="minutes">2</length>
     <title>Météo outremer</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212062000 +0100" stop="20151212081000 +0100">
+  <programme channel="burger" start="20151212022000 +0100" stop="20151212041000 +0100">
     <length units="minutes">110</length>
     <title>Folie passagère</title>
     <category>Divertissement</category>
-    <desc>Pour Marianne James, le rire est devenu une... (Lire la suite).(n)</desc>
+    <desc>Pour Marianne James, le rire est devenu une... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Frédéric Lopez</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212081000 +0100" stop="20151212091000 +0100">
+  <programme channel="burger" start="20151212041000 +0100" stop="20151212051000 +0100">
     <length units="minutes">60</length>
     <title>Toute une histoire</title>
     <category>Magazine</category>
-    <desc>Sur Twitter #Touteunehistoire. Sur le... (Lire la suite).(n)</desc>
+    <desc>Sur Twitter #Touteunehistoire. Sur le... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Sophie Davant</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212091000 +0100" stop="20151212094000 +0100">
+  <programme channel="burger" start="20151212051000 +0100" stop="20151212054000 +0100">
     <length units="minutes">30</length>
     <title>L'histoire continue</title>
     <category>Magazine</category>
-    <desc>Les invités des saisons précédentes racontent... (Lire la suite).(n)</desc>
+    <desc>Les invités des saisons précédentes racontent... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Sophie Davant</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212094000 +0100" stop="20151212102500 +0100">
+  <programme channel="burger" start="20151212054000 +0100" stop="20151212062500 +0100">
     <length units="minutes">45</length>
     <title>Comment ça va bien !</title>
     <category>Magazine</category>
-    <desc>Sur Twitter via #CCVB. Entouré d'une équipe... (Lire la suite).(n)</desc>
+    <desc>Sur Twitter via #CCVB. Entouré d'une équipe... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Stéphane Bern</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212102500 +0100" stop="20151212112000 +0100">
+  <programme channel="burger" start="20151212062500 +0100" stop="20151212072000 +0100">
     <length units="minutes">55</length>
     <title>Des arts pour les dieux</title>
     <category>Documentaire</category>
-    <desc>La danse des Kachinas Dans la mythologie des Indiens Hopi et Zuni,... (Lire la suite).(n)</desc>
+    <desc>La danse des Kachinas Dans la mythologie des Indiens Hopi et Zuni,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212112000 +0100" stop="20151212114500 +0100">
+  <programme channel="burger" start="20151212072000 +0100" stop="20151212074500 +0100">
     <length units="minutes">25</length>
     <title>La nuit du léopard</title>
     <category>Documentaire</category>
-    <desc>A la découverte de l'univers mystérieux et... (Lire la suite).(n)</desc>
+    <desc>A la découverte de l'univers mystérieux et... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212114500 +0100" stop="20151212122500 +0100">
+  <programme channel="burger" start="20151212074500 +0100" stop="20151212082500 +0100">
     <length units="minutes">40</length>
     <title>Voyage au bout du monde</title>
     <category>Documentaire</category>
-    <desc>Cuzco, Pérou Visite de la ville de Cuzco, située au... (Lire la suite).(n)</desc>
+    <desc>Cuzco, Pérou Visite de la ville de Cuzco, située au... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212122500 +0100" stop="20151212125300 +0100">
+  <programme channel="burger" start="20151212082500 +0100" stop="20151212085300 +0100">
     <length units="minutes">28</length>
     <title>Les Z'amours</title>
     <category>Jeu</category>
-    <desc>Trois couples de candidats répondent à des... (Lire la suite).(n)</desc>
+    <desc>Trois couples de candidats répondent à des... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Tex</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212125300 +0100" stop="20151212125500 +0100">
+  <programme channel="burger" start="20151212085300 +0100" stop="20151212085500 +0100">
     <length units="minutes">2</length>
     <title>Champions de France</title>
     <category>Documentaire</category>
-    <desc>Portraits de sportifs français, d'origines... (Lire la suite).(n)</desc>
+    <desc>Portraits de sportifs français, d'origines... (Lire la suite).</desc>
     <credits>
       <name function="director">Rachid Bouchareb</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212125500 +0100" stop="20151212130000 +0100">
+  <programme channel="burger" start="20151212085500 +0100" stop="20151212090000 +0100">
     <length units="minutes">5</length>
     <title>Journal</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212130000 +0100" stop="20151212160000 +0100">
+  <programme channel="burger" start="20151212090000 +0100" stop="20151212120000 +0100">
     <length units="minutes">180</length>
     <title>Télématin</title>
     <category>Magazine</category>
-    <desc>Sur Twitter via #telematin. Une émission... (Lire la suite).(n)</desc>
+    <desc>Sur Twitter via #telematin. Une émission... (Lire la suite).</desc>
     <credits>
       <name function="presenter">William Leymergie</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212160000 +0100" stop="20151212165000 +0100">
+  <programme channel="burger" start="20151212120000 +0100" stop="20151212125000 +0100">
     <length units="minutes">50</length>
     <title>Thé ou café</title>
     <category>Magazine</category>
-    <desc>Sur Twitter via #ThéouCafé. Catherine Ceylac... (Lire la suite).(n)</desc>
+    <desc>Sur Twitter via #ThéouCafé. Catherine Ceylac... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Catherine Ceylac</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212165000 +0100" stop="20151212172000 +0100">
+  <programme channel="burger" start="20151212125000 +0100" stop="20151212132000 +0100">
     <length units="minutes">30</length>
     <title>Un mot peut en cacher un autre</title>
     <category>Jeu</category>
-    <desc>Deux équipes de deux joueurs s'affrontent... (Lire la suite).(n)</desc>
+    <desc>Deux équipes de deux joueurs s'affrontent... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Damien Thévenot</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212172000 +0100" stop="20151212175500 +0100">
+  <programme channel="burger" start="20151212132000 +0100" stop="20151212135500 +0100">
     <length units="minutes">35</length>
     <title>Les Z'amours</title>
     <category>Jeu</category>
-    <desc>Trois couples de candidats répondent à des... (Lire la suite).(n)</desc>
+    <desc>Trois couples de candidats répondent à des... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Tex</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212175500 +0100" stop="20151212184000 +0100">
+  <programme channel="burger" start="20151212135500 +0100" stop="20151212144000 +0100">
     <length units="minutes">45</length>
     <title>Tout le monde veut prendre sa place</title>
     <category>Jeu</category>
-    <desc>Six candidats affrontent un «champion» autour... (Lire la suite).(n)</desc>
+    <desc>Six candidats affrontent un «champion» autour... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Nagui</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212184000 +0100" stop="20151212185500 +0100">
+  <programme channel="burger" start="20151212144000 +0100" stop="20151212145500 +0100">
     <length units="minutes">15</length>
     <title>Point route</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Valérie Maurice</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212185500 +0100" stop="20151212190000 +0100">
+  <programme channel="burger" start="20151212145500 +0100" stop="20151212150000 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212190000 +0100" stop="20151212192000 +0100">
+  <programme channel="burger" start="20151212150000 +0100" stop="20151212152000 +0100">
     <length units="minutes">20</length>
     <title>Journal</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Laurent Delahousse</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212192000 +0100" stop="20151212195500 +0100">
+  <programme channel="burger" start="20151212152000 +0100" stop="20151212155500 +0100">
     <length units="minutes">35</length>
     <title>13h15, le samedi...</title>
     <category>Magazine</category>
-    <desc>Des images, des émotions, une écriture... (Lire la suite).(n)</desc>
+    <desc>Des images, des émotions, une écriture... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Laurent Delahousse</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212195500 +0100" stop="20151212200000 +0100">
+  <programme channel="burger" start="20151212155500 +0100" stop="20151212160000 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212200000 +0100" stop="20151212204000 +0100">
+  <programme channel="burger" start="20151212160000 +0100" stop="20151212164000 +0100">
     <length units="minutes">40</length>
     <title>Mon Envoyé spécial</title>
     <category>Magazine</category>
-    <desc>Chaque semaine, les internautes choisissent... (Lire la suite).(n)</desc>
+    <desc>Chaque semaine, les internautes choisissent... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Guilaine Chenu,</name>
       <name function="presenter">Françoise Joly</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212204000 +0100" stop="20151212212500 +0100">
+  <programme channel="burger" start="20151212164000 +0100" stop="20151212172500 +0100">
     <length units="minutes">45</length>
     <title>Tout compte fait</title>
     <category>Magazine</category>
-    <desc>Pour comprendre un monde qui bouge et... (Lire la suite).(n)</desc>
+    <desc>Pour comprendre un monde qui bouge et... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Julian Bugier</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212212500 +0100" stop="20151212213000 +0100">
+  <programme channel="burger" start="20151212172500 +0100" stop="20151212173000 +0100">
     <length units="minutes">5</length>
     <title>La famille Millevoies, à chacun son métier</title>
     <category>Magazine</category>
-    <desc>Par le biais de questions d'enfants à leurs... (Lire la suite).(n)</desc>
+    <desc>Par le biais de questions d'enfants à leurs... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212213000 +0100" stop="20151212231000 +0100">
+  <programme channel="burger" start="20151212173000 +0100" stop="20151212191000 +0100">
     <length units="minutes">100</length>
     <title>Faites entrer l'accusé</title>
     <category>Magazine</category>
-    <desc>Le 17 mai 2005, les policiers font une... (Lire la suite).(n)</desc>
+    <desc>Le 17 mai 2005, les policiers font une... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Frédérique Lantieri</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212231000 +0100" stop="20151212235500 +0100">
+  <programme channel="burger" start="20151212191000 +0100" stop="20151212195500 +0100">
     <length units="minutes">45</length>
     <title>L'atelier déco</title>
     <category>Magazine</category>
-    <desc>A la tête d'un véritable atelier anti-crise,... (Lire la suite).(n)</desc>
+    <desc>A la tête d'un véritable atelier anti-crise,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Aurélie Hemar</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212235500 +0100" stop="20151213005000 +0100">
+  <programme channel="burger" start="20151212195500 +0100" stop="20151212205000 +0100">
     <length units="minutes">55</length>
     <title>L'atelier déco</title>
     <category>Magazine</category>
-    <desc>En compagnie de six experts, Aurélie Hemar,... (Lire la suite).(n)</desc>
+    <desc>En compagnie de six experts, Aurélie Hemar,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Aurélie Hemar</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213005000 +0100" stop="20151213012000 +0100">
+  <programme channel="burger" start="20151212205000 +0100" stop="20151212212000 +0100">
     <length units="minutes">30</length>
     <title>Mot de passe</title>
     <category>Jeu</category>
-    <desc>Associés à des personnalités, des candidats... (Lire la suite).(n)</desc>
+    <desc>Associés à des personnalités, des candidats... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Patrick Sabatier</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213012000 +0100" stop="20151213015500 +0100">
+  <programme channel="burger" start="20151212212000 +0100" stop="20151212215500 +0100">
     <length units="minutes">35</length>
     <title>Mot de passe</title>
     <category>Jeu</category>
-    <desc>Associés à des personnalités, des candidats... (Lire la suite).(n)</desc>
+    <desc>Associés à des personnalités, des candidats... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Patrick Sabatier</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213015500 +0100" stop="20151213020000 +0100">
+  <programme channel="burger" start="20151212215500 +0100" stop="20151212220000 +0100">
     <length units="minutes">5</length>
     <title>Météo 2</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213020000 +0100" stop="20151213024000 +0100">
+  <programme channel="burger" start="20151212220000 +0100" stop="20151212224000 +0100">
     <length units="minutes">40</length>
     <title>Journal</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Laurent Delahousse</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213024000 +0100" stop="20151213024500 +0100">
+  <programme channel="burger" start="20151212224000 +0100" stop="20151212224500 +0100">
     <length units="minutes">5</length>
     <title>Parents mode d'emploi</title>
     <category>Série</category>
-    <desc>Gaby et Isa, parents de trois enfants de 8,... (Lire la suite).(n)</desc>
+    <desc>Gaby et Isa, parents de trois enfants de 8,... (Lire la suite).</desc>
     <credits>
       <name function="actor">Arnaud Ducret</name>
       <name function="actor">Alix Poisson</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213024500 +0100" stop="20151213025000 +0100">
+  <programme channel="burger" start="20151212224500 +0100" stop="20151212225000 +0100">
     <length units="minutes">5</length>
     <title>Parfaites... ou presque !</title>
     <category>Divertissement</category>
-    <desc>Marie-Aldine Girard, rédactrice en chef d'un... (Lire la suite).(n)</desc>
+    <desc>Marie-Aldine Girard, rédactrice en chef d'un... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213025000 +0100" stop="20151213025100 +0100">
+  <programme channel="burger" start="20151212225000 +0100" stop="20151212225100 +0100">
     <length units="minutes">1</length>
     <title>Qui m'aime m'écoute</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213025100 +0100" stop="20151213025200 +0100">
+  <programme channel="burger" start="20151212225100 +0100" stop="20151212225200 +0100">
     <length units="minutes">1</length>
     <title>Stade 2, 40 ans d'émotions</title>
     <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213025200 +0100" stop="20151213025500 +0100">
+  <programme channel="burger" start="20151212225200 +0100" stop="20151212225500 +0100">
     <length units="minutes">3</length>
     <title>Météo 2</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213025500 +0100" stop="20151213030000 +0100">
+  <programme channel="burger" start="20151212225500 +0100" stop="20151212230000 +0100">
     <length units="minutes">5</length>
     <title>Météo des neiges</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213030000 +0100" stop="20151213051000 +0100">
+  <programme channel="burger" start="20151212230000 +0100" stop="20151213011000 +0100">
     <length units="minutes">130</length>
     <title>Les années bonheur</title>
     <category>Divertissement</category>
-    <desc>Une soirée festive et gaie avec Kendji Girac,... (Lire la suite).(n)</desc>
+    <desc>Une soirée festive et gaie avec Kendji Girac,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Roland Magdane,</name>
       <name function="presenter">Patrick Sébastien,</name>
@@ -3243,15 +2868,370 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213051000 +0100" stop="20151213082500 +0100">
+  <programme channel="burger" start="20151213011000 +0100" stop="20151213042500 +0100">
     <length units="minutes">195</length>
     <title>On n'est pas couché</title>
     <category>Talk show</category>
-    <desc>Sur Twitter #ONPC. Alors que les frimas de... (Lire la suite).(n)</desc>
+    <desc>Sur Twitter #ONPC. Alors que les frimas de... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Laurent Ruquier,</name>
       <name function="presenter">Yann Moix,</name>
       <name function="presenter">Léa Salamé</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213042500 +0100" stop="20151213043000 +0100">
+    <length units="minutes">5</length>
+    <title>Déconne cheese</title>
+    <category>Divertissement</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213043000 +0100" stop="20151213043500 +0100">
+    <length units="minutes">5</length>
+    <title>Météo 2</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213043500 +0100" stop="20151213052500 +0100">
+    <length units="minutes">50</length>
+    <title>Alcaline le mag</title>
+    <category>Magazine</category>
+    <desc>Eddy Mitchell En octobre, Eddy Mitchell a sorti son 36e album, «Big Band». Le premier extrait, «Il faut vivre vite», est un hommage à Frank Sinatra et a donné... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213052500 +0100" stop="20151213060500 +0100">
+    <length units="minutes">40</length>
+    <title>Thé ou café</title>
+    <category>Magazine</category>
+    <desc>Sur Twitter via #ThéouCafé. Catherine Ceylac brosse un portrait intimiste d'Ibrahim Maalouf, qui évoquqe «Kalthoum» et «Red &amp; Black Light», ses... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Catherine Ceylac</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213060500 +0100" stop="20151213065500 +0100">
+    <length units="minutes">50</length>
+    <title>Voyage au bout du monde</title>
+    <category>Documentaire</category>
+    <desc>Visite du Liban, pays contrasté et multiculturel à l'histoire chahutée : gros plan sur les trésors architecturaux et artistiques qu'il... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Sylvain Dommergue,</name>
+      <name function="director">Daniel Lafargue</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213065500 +0100" stop="20151213072500 +0100">
+    <length units="minutes">30</length>
+    <title>Le temple des rats sacrés</title>
+    <category>Documentaire</category>
+    <desc>En Inde, à Deshnok, près de Bikaner, le temple de Karni Mata abrite des milliers de rats qui y sont vénérés comme la réincarnation des... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213072500 +0100" stop="20151213073000 +0100">
+    <length units="minutes">5</length>
+    <title>Courant d'art</title>
+    <category>Documentaire</category>
+    <desc>Marionnettes laotiennes A la découverte de cette forme d'art extrême-orientale. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213073000 +0100" stop="20151213082500 +0100">
+    <length units="minutes">55</length>
+    <title>21 jours...</title>
+    <category>Documentaire</category>
+    <desc>Alexandra Alévêque a travaillé comme aide-soignante durant trois semaines aux urgences de l'hôpital Lyon-Sud. 21 jours passés au côté de celles... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Richard Puech</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213082500 +0100" stop="20151213090000 +0100">
+    <length units="minutes">35</length>
+    <title>Motus</title>
+    <category>Jeu</category>
+    <desc>Deux équipes s'affrontent pour déchiffrer des mots de sept à dix lettres. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Thierry Beccaro</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213090000 +0100" stop="20151213100500 +0100">
+    <length units="minutes">65</length>
+    <title>Thé ou café</title>
+    <category>Magazine</category>
+    <desc>Sur Twitter via #ThéouCafé. Les meilleurs moments des émissions diffusées ces derniers mois. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Catherine Ceylac</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213100500 +0100" stop="20151213103000 +0100">
+    <length units="minutes">25</length>
+    <title>Rencontres à XV</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213103000 +0100" stop="20151213104500 +0100">
+    <length units="minutes">15</length>
+    <title>Sagesses bouddhistes</title>
+    <category>Magazine</category>
+    <desc>Le parcours de vie de Trân Nhân Tông, un roi ayant vécu au XIIIe siècle, qui devint moine après avoir confié le pouvoir à son fils, et qui... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Sandrine Colombo</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213104500 +0100" stop="20151213111500 +0100">
+    <length units="minutes">30</length>
+    <title>Islam</title>
+    <category>Magazine</category>
+    <desc>Trente minutes consacrées à la religion musulmane et à l'Islam. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Ghaleb Bencheikh,</name>
+      <name function="presenter">Abderrahim Hafidi</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213111500 +0100" stop="20151213113000 +0100">
+    <length units="minutes">15</length>
+    <title>Judaïca</title>
+    <category>Magazine</category>
+    <desc>La Kabbale s'est beaucoup intéressée aux problèmes médicaux qui sont longuement évoqués dans les sources anciennes, particulièrement le Talmud.... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Josy Eisenberg</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213113000 +0100" stop="20151213120000 +0100">
+    <length units="minutes">30</length>
+    <title>Orthodoxie</title>
+    <category>Magazine</category>
+    <desc>Pour la vie du monde Un hommage au père Alexandre Schmemann, décédé le 13 décembre 1983. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213120000 +0100" stop="20151213123000 +0100">
+    <length units="minutes">30</length>
+    <title>Présence protestante</title>
+    <category>Magazine</category>
+    <desc>Focus sur l'actualité du protestantisme en France. Au sommaire : Le Mur : un retard en pierre - Le mur de la Réformation, monument édifié à la... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213123000 +0100" stop="20151213140500 +0100">
+    <length units="minutes">95</length>
+    <title>Le jour du Seigneur</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : Messe - Célébrée en la cathédrale Saint-Maclou à Pontoise (95). Prédicateur : monseigneur Stanislas Lalanne, évêque de Pontoise.... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">David Milliat</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213140500 +0100" stop="20151213145500 +0100">
+    <length units="minutes">50</length>
+    <title>Tout le monde veut prendre sa place</title>
+    <category>Jeu</category>
+    <desc>Six candidats affrontent un «champion» autour d'une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Nagui</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213145500 +0100" stop="20151213150000 +0100">
+    <length units="minutes">5</length>
+    <title>Météo 2</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213150000 +0100" stop="20151213152000 +0100">
+    <length units="minutes">20</length>
+    <title>Journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Laurent Delahousse</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213152000 +0100" stop="20151213160500 +0100">
+    <length units="minutes">45</length>
+    <title>13h15, le dimanche...</title>
+    <category>Magazine</category>
+    <desc>Des images, des émotions, une écriture sensible aux aventures humaines : «13h15» propose des histoires françaises, le feuilleton de la politique,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Laurent Delahousse</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213160500 +0100" stop="20151213160600 +0100">
+    <length units="minutes">1</length>
+    <title>Météo 2</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213160600 +0100" stop="20151213161000 +0100">
+    <length units="minutes">4</length>
+    <title>Point route</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Valérie Maurice</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213161000 +0100" stop="20151213180500 +0100">
+    <length units="minutes">115</length>
+    <title>Vivement dimanche</title>
+    <category>Divertissement</category>
+    <desc>Autour de Valérie Bonneton, interviewé par Michel Drucker, de nombreuses personnalités viennent évoquer leur actualité. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Michel Drucker</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213180500 +0100" stop="20151213201000 +0100">
+    <length units="minutes">125</length>
+    <title>Rugby (Toulon (Fra) / Leinster (Irl))</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213201000 +0100" stop="20151213201500 +0100">
+    <length units="minutes">5</length>
+    <title>La famille Millevoies, à chacun son métier</title>
+    <category>Magazine</category>
+    <desc>Par le biais de questions d'enfants à leurs parents, présentation de la richesse et de la diversité des métiers de... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213201500 +0100" stop="20151213211000 +0100">
+    <length units="minutes">55</length>
+    <title>Stade 2</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213211000 +0100" stop="20151213212000 +0100">
+    <length units="minutes">10</length>
+    <title>Météo 2</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213212000 +0100" stop="20151213213000 +0100">
+    <length units="minutes">10</length>
+    <title>Elections régionales</title>
+    <category />
+    <desc>Le point sur les estimations du deuxième tour des élections régionales. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Laurent Delahousse,</name>
+      <name function="presenter">David Pujadas,</name>
+      <name function="presenter">Brice Teinturier,</name>
+      <name function="presenter">Nathalie Saint-Cricq</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213213000 +0100" stop="20151213214000 +0100">
+    <length units="minutes">10</length>
+    <title>Journal</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Marie Drucker</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213214000 +0100" stop="20151213231500 +0100">
+    <length units="minutes">95</length>
+    <title>Elections régionales</title>
+    <category />
+    <desc>A partir de 20 heures et la proclamation officielle des résultats, les différents invités politiques en plateau et en duplex se succèdent pour... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Laurent Delahousse,</name>
+      <name function="presenter">David Pujadas,</name>
+      <name function="presenter">Brice Teinturier,</name>
+      <name function="presenter">Nathalie Saint-Cricq</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213231500 +0100" stop="20151213231600 +0100">
+    <length units="minutes">1</length>
+    <title>Qui m'aime m'écoute</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213231600 +0100" stop="20151213232000 +0100">
+    <length units="minutes">4</length>
+    <title>D'art d'art</title>
+    <category>Magazine</category>
+    <desc>La petite histoire d'une oeuvre choisie parmi les plus belles pièces des collections publiques. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Frédéric Taddeï</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213232000 +0100" stop="20151213232100 +0100">
+    <length units="minutes">1</length>
+    <title>Stade 2, 40 ans d'émotions</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213232100 +0100" stop="20151213232500 +0100">
+    <length units="minutes">4</length>
+    <title>Météo 2</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213232500 +0100" stop="20151214002500 +0100">
+    <length units="minutes">60</length>
+    <title>Meurtres au paradis</title>
+    <category>Série</category>
+    <desc>L'île de Sainte-Marie s'apprête à commémorer le 451e débarquement français. Alors que les membres de la société historique de l'île se préparent... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">David O'Neill</name>
+      <name function="actor">Don Warrington</name>
+      <name function="actor">David Bamber</name>
+      <name function="actor">Adrian Lukis</name>
+      <name function="actor">Danny John-Jules</name>
+      <name function="actor">Sara Martins</name>
+      <name function="actor">Kris Marshall</name>
+      <name function="actor">Joséphine Jobert</name>
+      <name function="actor">Tobi Bakare</name>
+      <name function="writer">Tom Higgins</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151214002500 +0100" stop="20151214012500 +0100">
+    <length units="minutes">60</length>
+    <title>Meurtres au paradis</title>
+    <category>Série</category>
+    <desc>Une future mariée est retrouvée morte dans la baignoire de sa chambre d'hôtel. La veille, elle avait enterré sa vie de jeune fille avec Sal... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">David O'Neill</name>
+      <name function="actor">Danny John-Jules</name>
+      <name function="actor">Sara Martins</name>
+      <name function="actor">Kris Marshall</name>
+      <name function="actor">Joséphine Jobert</name>
+      <name function="actor">Susannah Fielding</name>
+      <name function="actor">Tobi Bakare</name>
+      <name function="actor">Amy Nuttall</name>
+      <name function="actor">Leo Staar</name>
+      <name function="writer">Rebecca Wojciechowski</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151214012500 +0100" stop="20151214025300 +0100">
+    <length units="minutes">88</length>
+    <title>Faites entrer l'accusé</title>
+    <category>Magazine</category>
+    <desc>Le 22 mars 2002, Jean-Raymond Blatti, comptable d'une petite entreprise de la banlieue genevoise, est retrouvé mort à son bureau, le crâne... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Frédérique Lantieri</name>
     </credits>
     <image />
   </programme>

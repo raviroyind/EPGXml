@@ -7,7 +7,7 @@ using System.Text;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using XmlParser.DataContext;
+using XmlParser.Core.DataContext;
 
 namespace XmlParser.Secured
 {
@@ -20,6 +20,13 @@ namespace XmlParser.Secured
                 PopulateSources();
                 PopulateInactive(Convert.ToInt64(ddlSourceXml.SelectedValue));
                 PopulateActive(Convert.ToInt64(ddlSourceXml.SelectedValue));
+
+                if (Convert.ToString(Session["USR_TYPE"]) == "Admin")
+                {
+                    hypHome.NavigateUrl = "../Admin/Dashboard.aspx";
+                }
+
+                lblUser.Text = "Welcome " + Convert.ToString(Session["USER_KEY"]);
             }
         }
 
@@ -59,7 +66,7 @@ namespace XmlParser.Secured
         {
             using (var dataContext=new EPGDataModel())
             {
-                ListItem[] sourceList = dataContext.SourceURLs.Select(ct => new ListItem { Value = ct.Srno.ToString(), Text = ct.URL }).ToArray();
+                ListItem[] sourceList = dataContext.SourceURLs.Select(ct => new ListItem { Value = ct.Srno.ToString(), Text = ct.Url }).ToArray();
                  
                 foreach (var item in sourceList)
                 {

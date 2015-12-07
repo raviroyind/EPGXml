@@ -1,260 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="NRJ 12">
-    <display-name>MTV</display-name>
+    <display-name>burger</display-name>
   </channel>
-  <programme channel="MTV" start="20151206064000 +0100" stop="20151206082000 +0100">
-    <length units="minutes">100</length>
-    <title>Les Cordier, juge et flic</title>
-    <category>Téléfilm</category>
-    <desc>Le juge et le commissaire Cordier travaillent cette fois main dans la main. Un enfant, laveur de pare-brise, vient de mourir, fauché par une... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Gilles Béhat</name>
-      <name function="actor">Pierre Mondy</name>
-      <name function="actor">Bruno Madinier</name>
-      <name function="actor">Antonella Lualdi</name>
-      <name function="actor">Charlotte Valandrey</name>
-      <name function="actor">Jean-Jacques Moreau</name>
-      <name function="actor">Bernard Haller</name>
-      <name function="actor">Jean-Michel Dupuis</name>
-      <name function="actor">Pierre-Arnaud Juin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206082000 +0100" stop="20151206091000 +0100">
-    <length units="minutes">50</length>
-    <title>Shark Cage</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206091000 +0100" stop="20151206124000 +0100">
-    <length units="minutes">210</length>
-    <title>Programmes de la nuit</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206124000 +0100" stop="20151206155500 +0100">
-    <length units="minutes">195</length>
-    <title>Télé-achat</title>
-    <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206155500 +0100" stop="20151206162000 +0100">
-    <length units="minutes">25</length>
-    <title>American Dad !</title>
-    <category>Série</category>
-    <desc>Stan Smith ne garde pas un bon souvenir du bal de promo au cours duquel il avait été victime d'une mauvaise blague. Il pense tenir sa revanche... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Rodney Clouden</name>
-      <name function="writer">Alison McDonald</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206162000 +0100" stop="20151206164500 +0100">
-    <length units="minutes">25</length>
-    <title>American Dad !</title>
-    <category>Série</category>
-    <desc>Stan part pour Atlantic City où il doit assister à une soirée d'enterrement de vie de garçon. Sur place, son soi-disant meilleur ami se moque... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Anthony Lioi</name>
-      <name function="writer">Rick Wiener</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206164500 +0100" stop="20151206171000 +0100">
-    <length units="minutes">25</length>
-    <title>American Dad !</title>
-    <category>Série</category>
-    <desc>Stan essaie de venir en aide à Steve : pour ce faire, il lui donne des stéroïdes à gober. Le but : le rendre plus grand, plus... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Caleb Meurer</name>
-      <name function="writer">Nahnatchka Khan</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206171000 +0100" stop="20151206173500 +0100">
-    <length units="minutes">25</length>
-    <title>American Dad !</title>
-    <category>Série</category>
-    <desc>Steve ne se montre pas vraiment intéressé par le job exercé par Stan. Ni une ni deux : celui-ci le remplace par le patibulaire... (Lire la suite).</desc>
-    <credits>
-      <name function="director">John Aoshima</name>
-      <name function="writer">Erik Durbin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206173500 +0100" stop="20151206180000 +0100">
-    <length units="minutes">25</length>
-    <title>American Dad !</title>
-    <category>Série</category>
-    <desc>L'anniversaire de Francine fait remonter de drôles de souvenirs à la surface. Il y est question de George Clooney et de vengeance comme un plat... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Brent Woods</name>
-      <name function="writer">Matt McKenna</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206180000 +0100" stop="20151206182500 +0100">
-    <length units="minutes">25</length>
-    <title>American Dad !</title>
-    <category>Série</category>
-    <desc>Pour l'été, Stan décide d'envoyer Steve dans un camp de vacances en plein air. Mais les choses tournent mal et, sans comprendre comment, Steve se... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Albert Calleros</name>
-      <name function="writer">Josh Bycel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206182500 +0100" stop="20151206185000 +0100">
-    <length units="minutes">25</length>
-    <title>American Dad !</title>
-    <category>Série</category>
-    <desc>Stan prend conscience de son problème de poids. Il décide de s'occuper de sa santé en faisant de l'exercice. L'entraînement s'avère... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Pam Cooke</name>
-      <name function="writer">Dan Vebber</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206185000 +0100" stop="20151206191500 +0100">
-    <length units="minutes">25</length>
-    <title>American Dad !</title>
-    <category>Série</category>
-    <desc>Stan a perdu confiance en lui. Il a été viré parce qu'un vendeur de voitures l'a roulé dans la farine... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Rodney Clouden</name>
-      <name function="writer">Etan Cohen</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206191500 +0100" stop="20151206194000 +0100">
-    <length units="minutes">25</length>
-    <title>American Dad !</title>
-    <category>Série</category>
-    <desc>Francine confie à son époux qu'elle souhaiterait un peu plus d'action dans leur couple. La monotonie actuelle lui semble insupportable. De son... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Kurt Dumas</name>
-      <name function="writer">Michael Shipley</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206194000 +0100" stop="20151206200500 +0100">
-    <length units="minutes">25</length>
-    <title>American Dad !</title>
-    <category>Série</category>
-    <desc>Stan décide d'emmener le jeune Steve à la première réunion des Conservateurs de Langley : les membres du parti ont en effet choisi Stan pour les... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Brent Woods</name>
-      <name function="writer">Rick Wiener</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206200500 +0100" stop="20151206203000 +0100">
-    <length units="minutes">25</length>
-    <title>American Dad !</title>
-    <category>Série</category>
-    <desc>Maintenant que Steve a une petite amie, Francine ressent un grand vide dans sa vie. Elle essaye donc désespérément de convaincre Stan d'avoir un... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Caleb Meurer</name>
-      <name function="writer">Steve Hely</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206203000 +0100" stop="20151206210500 +0100">
-    <length units="minutes">35</length>
-    <title>American Dad !</title>
-    <category>Série</category>
-    <desc>Quand Francine découvre le secret de Stan, elle décide de le soutenir contre vents et marées. Mais Stan n'hésite pas à... (Lire la suite).</desc>
-    <credits>
-      <name function="director">John Aoshima</name>
-      <name function="writer">Brian Boyle</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206210500 +0100" stop="20151206221000 +0100">
-    <length units="minutes">65</length>
-    <title>S.O.S. ma famille a besoin d'aide</title>
-    <category>Magazine</category>
-    <desc>Chez Myriam, le conflit est devenu une insupportable routine quotidienne. Ses deux filles, Chloé, 20 ans, et Orlane, 16 ans, n'ont aucun respect... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Pascal Soetens</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206221000 +0100" stop="20151206235000 +0100">
-    <length units="minutes">100</length>
-    <title>S.O.S. ma famille a besoin d'aide</title>
-    <category>Magazine</category>
-    <desc>Depuis la naissance de Clément, le cadet de la famille, les relations entre Maxime et son beau-père Vincent se sont considérablement dégradées.... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Pascal Soetens</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206235000 +0100" stop="20151207010000 +0100">
-    <length units="minutes">70</length>
-    <title>Le labo de Damidot</title>
-    <category>Magazine</category>
-    <desc>Aujourd'hui, Valérie, sa bande de laborantins vont tester les expériences les plus loufoques et les plus incroyables en plateau. Des faits... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Valérie Damidot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207010000 +0100" stop="20151207025500 +0100">
-    <length units="minutes">115</length>
-    <title>Mission plus-value</title>
-    <category>Magazine</category>
-    <desc>Valérie Damidot et Phil entrent en compétition afin de faire réaliser la plus-value la plus importante à deux familles qui souhaitent vendre leur... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Valérie Damidot,</name>
-      <name function="presenter">Philippe Auriel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207025500 +0100" stop="20151207042500 +0100">
-    <length units="minutes">90</length>
-    <title>S.O.S. ma famille a besoin d'aide</title>
-    <category>Magazine</category>
-    <desc>Pascal Soetens intervient auprès de Sandrine, afin de l'aider à rétablir le dialogue entre elle et son fils Kévin. L'adolescent, qui n'a jamais... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Pascal Soetens</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207042500 +0100" stop="20151207055000 +0100">
-    <length units="minutes">85</length>
-    <title>S.O.S. ma famille a besoin d'aide</title>
-    <category>Magazine</category>
-    <desc>Depuis le départ de Bruno, son mari, il y a quatre ans, Sandrine est seule pour élever ses quatre enfants. Désormais, Quentin, 18 ans, s'impose... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Pascal Soetens</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207055000 +0100" stop="20151207063500 +0100">
-    <length units="minutes">45</length>
-    <title>American Horror Story : Murder House</title>
-    <category>Série</category>
-    <desc>A l'approche d'Halloween, l'agent immobilier des Harmon engage Chad et Patrick, un couple de décorateurs qui s'avèrent être d'anciens... (Lire la suite).</desc>
-    <credits>
-      <name function="director">David Semel</name>
-      <name function="actor">Connie Britton</name>
-      <name function="actor">Dylan McDermott</name>
-      <name function="actor">Jessica Lange</name>
-      <name function="actor">Zachary Quinto</name>
-      <name function="actor">Evan Peters</name>
-      <name function="actor">Teddy Sears</name>
-      <name function="actor">Taissa Farmiga</name>
-      <name function="actor">Jamie Brewer</name>
-      <name function="writer">James Wong</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207063500 +0100" stop="20151207072000 +0100">
+  <programme channel="burger" start="20151207023500 +0100" stop="20151207032000 +0100">
     <length units="minutes">45</length>
     <title>American Horror Story : Murder House</title>
     <category>Série</category>
@@ -273,7 +22,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207072000 +0100" stop="20151207081500 +0100">
+  <programme channel="burger" start="20151207032000 +0100" stop="20151207041500 +0100">
     <length units="minutes">55</length>
     <title>American Horror Story : Murder House</title>
     <category>Série</category>
@@ -292,28 +41,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207081500 +0100" stop="20151207085500 +0100">
+  <programme channel="burger" start="20151207041500 +0100" stop="20151207045500 +0100">
     <length units="minutes">40</length>
     <title>The Big Game</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207085500 +0100" stop="20151207123000 +0100">
+  <programme channel="burger" start="20151207045500 +0100" stop="20151207083000 +0100">
     <length units="minutes">215</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207123000 +0100" stop="20151207153000 +0100">
+  <programme channel="burger" start="20151207083000 +0100" stop="20151207113000 +0100">
     <length units="minutes">180</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207153000 +0100" stop="20151207162000 +0100">
+  <programme channel="burger" start="20151207113000 +0100" stop="20151207122000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -332,7 +81,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207162000 +0100" stop="20151207171000 +0100">
+  <programme channel="burger" start="20151207122000 +0100" stop="20151207131000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -351,7 +100,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207171000 +0100" stop="20151207180000 +0100">
+  <programme channel="burger" start="20151207131000 +0100" stop="20151207140000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -370,7 +119,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207180000 +0100" stop="20151207183000 +0100">
+  <programme channel="burger" start="20151207140000 +0100" stop="20151207143000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -389,7 +138,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207183000 +0100" stop="20151207190000 +0100">
+  <programme channel="burger" start="20151207143000 +0100" stop="20151207150000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -408,7 +157,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207190000 +0100" stop="20151207193000 +0100">
+  <programme channel="burger" start="20151207150000 +0100" stop="20151207153000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -427,42 +176,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207193000 +0100" stop="20151207211000 +0100">
+  <programme channel="burger" start="20151207153000 +0100" stop="20151207171000 +0100">
     <length units="minutes">100</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207211000 +0100" stop="20151207225000 +0100">
+  <programme channel="burger" start="20151207171000 +0100" stop="20151207185000 +0100">
     <length units="minutes">100</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207225000 +0100" stop="20151207231500 +0100">
+  <programme channel="burger" start="20151207185000 +0100" stop="20151207191500 +0100">
     <length units="minutes">25</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207231500 +0100" stop="20151207234000 +0100">
+  <programme channel="burger" start="20151207191500 +0100" stop="20151207194000 +0100">
     <length units="minutes">25</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207234000 +0100" stop="20151208001000 +0100">
+  <programme channel="burger" start="20151207194000 +0100" stop="20151207201000 +0100">
     <length units="minutes">30</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208001000 +0100" stop="20151208010000 +0100">
+  <programme channel="burger" start="20151207201000 +0100" stop="20151207210000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -481,7 +230,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208010000 +0100" stop="20151208015000 +0100">
+  <programme channel="burger" start="20151207210000 +0100" stop="20151207215000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -500,7 +249,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208015000 +0100" stop="20151208025500 +0100">
+  <programme channel="burger" start="20151207215000 +0100" stop="20151207225500 +0100">
     <length units="minutes">65</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -519,7 +268,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208025500 +0100" stop="20151208045000 +0100">
+  <programme channel="burger" start="20151207225500 +0100" stop="20151208005000 +0100">
     <length units="minutes">115</length>
     <title>Crimes</title>
     <category>Magazine</category>
@@ -529,7 +278,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208045000 +0100" stop="20151208064000 +0100">
+  <programme channel="burger" start="20151208005000 +0100" stop="20151208024000 +0100">
     <length units="minutes">110</length>
     <title>Crimes en direct</title>
     <category>Magazine</category>
@@ -539,7 +288,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208064000 +0100" stop="20151208083000 +0100">
+  <programme channel="burger" start="20151208024000 +0100" stop="20151208043000 +0100">
     <length units="minutes">110</length>
     <title>Crimes</title>
     <category>Magazine</category>
@@ -549,28 +298,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208083000 +0100" stop="20151208092000 +0100">
+  <programme channel="burger" start="20151208043000 +0100" stop="20151208052000 +0100">
     <length units="minutes">50</length>
     <title>Shark Cage</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208092000 +0100" stop="20151208123000 +0100">
+  <programme channel="burger" start="20151208052000 +0100" stop="20151208083000 +0100">
     <length units="minutes">190</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208123000 +0100" stop="20151208153000 +0100">
+  <programme channel="burger" start="20151208083000 +0100" stop="20151208113000 +0100">
     <length units="minutes">180</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208153000 +0100" stop="20151208162000 +0100">
+  <programme channel="burger" start="20151208113000 +0100" stop="20151208122000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -589,7 +338,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208162000 +0100" stop="20151208171000 +0100">
+  <programme channel="burger" start="20151208122000 +0100" stop="20151208131000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -608,7 +357,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208171000 +0100" stop="20151208180000 +0100">
+  <programme channel="burger" start="20151208131000 +0100" stop="20151208140000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -627,7 +376,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208180000 +0100" stop="20151208183000 +0100">
+  <programme channel="burger" start="20151208140000 +0100" stop="20151208143000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -646,7 +395,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208183000 +0100" stop="20151208190000 +0100">
+  <programme channel="burger" start="20151208143000 +0100" stop="20151208150000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -665,7 +414,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208190000 +0100" stop="20151208193000 +0100">
+  <programme channel="burger" start="20151208150000 +0100" stop="20151208153000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -684,42 +433,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208193000 +0100" stop="20151208211000 +0100">
+  <programme channel="burger" start="20151208153000 +0100" stop="20151208171000 +0100">
     <length units="minutes">100</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208211000 +0100" stop="20151208225000 +0100">
+  <programme channel="burger" start="20151208171000 +0100" stop="20151208185000 +0100">
     <length units="minutes">100</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208225000 +0100" stop="20151208231500 +0100">
+  <programme channel="burger" start="20151208185000 +0100" stop="20151208191500 +0100">
     <length units="minutes">25</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208231500 +0100" stop="20151208234000 +0100">
+  <programme channel="burger" start="20151208191500 +0100" stop="20151208194000 +0100">
     <length units="minutes">25</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208234000 +0100" stop="20151209001000 +0100">
+  <programme channel="burger" start="20151208194000 +0100" stop="20151208201000 +0100">
     <length units="minutes">30</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209001000 +0100" stop="20151209010000 +0100">
+  <programme channel="burger" start="20151208201000 +0100" stop="20151208210000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -738,7 +487,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209010000 +0100" stop="20151209015000 +0100">
+  <programme channel="burger" start="20151208210000 +0100" stop="20151208215000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -757,7 +506,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209015000 +0100" stop="20151209025500 +0100">
+  <programme channel="burger" start="20151208215000 +0100" stop="20151208225500 +0100">
     <length units="minutes">65</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -776,7 +525,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209025500 +0100" stop="20151209043000 +0100">
+  <programme channel="burger" start="20151208225500 +0100" stop="20151209003000 +0100">
     <length units="minutes">95</length>
     <title>Albert est méchant (?)</title>
     <category>Film</category>
@@ -794,7 +543,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209043000 +0100" stop="20151209063000 +0100">
+  <programme channel="burger" start="20151209003000 +0100" stop="20151209023000 +0100">
     <length units="minutes">120</length>
     <title>J'ai faim !!! (?)</title>
     <category>Film</category>
@@ -812,7 +561,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209063000 +0100" stop="20151209081500 +0100">
+  <programme channel="burger" start="20151209023000 +0100" stop="20151209041500 +0100">
     <length units="minutes">105</length>
     <title>Crimes</title>
     <category>Magazine</category>
@@ -822,28 +571,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209081500 +0100" stop="20151209090500 +0100">
+  <programme channel="burger" start="20151209041500 +0100" stop="20151209050500 +0100">
     <length units="minutes">50</length>
     <title>Shark Cage</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209090500 +0100" stop="20151209123000 +0100">
+  <programme channel="burger" start="20151209050500 +0100" stop="20151209083000 +0100">
     <length units="minutes">205</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209123000 +0100" stop="20151209153000 +0100">
+  <programme channel="burger" start="20151209083000 +0100" stop="20151209113000 +0100">
     <length units="minutes">180</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209153000 +0100" stop="20151209162000 +0100">
+  <programme channel="burger" start="20151209113000 +0100" stop="20151209122000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -862,7 +611,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209162000 +0100" stop="20151209171000 +0100">
+  <programme channel="burger" start="20151209122000 +0100" stop="20151209131000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -881,7 +630,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209171000 +0100" stop="20151209180000 +0100">
+  <programme channel="burger" start="20151209131000 +0100" stop="20151209140000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -900,7 +649,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209180000 +0100" stop="20151209183000 +0100">
+  <programme channel="burger" start="20151209140000 +0100" stop="20151209143000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -919,7 +668,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209183000 +0100" stop="20151209190000 +0100">
+  <programme channel="burger" start="20151209143000 +0100" stop="20151209150000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -938,7 +687,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209190000 +0100" stop="20151209193000 +0100">
+  <programme channel="burger" start="20151209150000 +0100" stop="20151209153000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -957,7 +706,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209193000 +0100" stop="20151209210500 +0100">
+  <programme channel="burger" start="20151209153000 +0100" stop="20151209170500 +0100">
     <length units="minutes">95</length>
     <title>S.O.S. ma famille a besoin d'aide</title>
     <category>Magazine</category>
@@ -967,7 +716,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209210500 +0100" stop="20151209222500 +0100">
+  <programme channel="burger" start="20151209170500 +0100" stop="20151209182500 +0100">
     <length units="minutes">80</length>
     <title>S.O.S. ma famille a besoin d'aide</title>
     <category>Magazine</category>
@@ -977,35 +726,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209222500 +0100" stop="20151209225000 +0100">
+  <programme channel="burger" start="20151209182500 +0100" stop="20151209185000 +0100">
     <length units="minutes">25</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209225000 +0100" stop="20151209231500 +0100">
+  <programme channel="burger" start="20151209185000 +0100" stop="20151209191500 +0100">
     <length units="minutes">25</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209231500 +0100" stop="20151209234000 +0100">
+  <programme channel="burger" start="20151209191500 +0100" stop="20151209194000 +0100">
     <length units="minutes">25</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209234000 +0100" stop="20151210001000 +0100">
+  <programme channel="burger" start="20151209194000 +0100" stop="20151209201000 +0100">
     <length units="minutes">30</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210001000 +0100" stop="20151210010000 +0100">
+  <programme channel="burger" start="20151209201000 +0100" stop="20151209210000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1024,7 +773,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210010000 +0100" stop="20151210015000 +0100">
+  <programme channel="burger" start="20151209210000 +0100" stop="20151209215000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1043,7 +792,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210015000 +0100" stop="20151210025500 +0100">
+  <programme channel="burger" start="20151209215000 +0100" stop="20151209225500 +0100">
     <length units="minutes">65</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1061,7 +810,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210025500 +0100" stop="20151210034500 +0100">
+  <programme channel="burger" start="20151209225500 +0100" stop="20151209234500 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -1080,7 +829,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210034500 +0100" stop="20151210043500 +0100">
+  <programme channel="burger" start="20151209234500 +0100" stop="20151210003500 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -1099,7 +848,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210043500 +0100" stop="20151210052500 +0100">
+  <programme channel="burger" start="20151210003500 +0100" stop="20151210012500 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -1118,7 +867,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210052500 +0100" stop="20151210061500 +0100">
+  <programme channel="burger" start="20151210012500 +0100" stop="20151210021500 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -1137,7 +886,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210061500 +0100" stop="20151210070500 +0100">
+  <programme channel="burger" start="20151210021500 +0100" stop="20151210030500 +0100">
     <length units="minutes">50</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -1156,7 +905,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210070500 +0100" stop="20151210080000 +0100">
+  <programme channel="burger" start="20151210030500 +0100" stop="20151210040000 +0100">
     <length units="minutes">55</length>
     <title>New York police judiciaire</title>
     <category>Série</category>
@@ -1175,28 +924,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210080000 +0100" stop="20151210085000 +0100">
+  <programme channel="burger" start="20151210040000 +0100" stop="20151210045000 +0100">
     <length units="minutes">50</length>
     <title>Shark Cage</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210085000 +0100" stop="20151210123000 +0100">
+  <programme channel="burger" start="20151210045000 +0100" stop="20151210083000 +0100">
     <length units="minutes">220</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210123000 +0100" stop="20151210153000 +0100">
+  <programme channel="burger" start="20151210083000 +0100" stop="20151210113000 +0100">
     <length units="minutes">180</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210153000 +0100" stop="20151210162000 +0100">
+  <programme channel="burger" start="20151210113000 +0100" stop="20151210122000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1215,7 +964,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210162000 +0100" stop="20151210171000 +0100">
+  <programme channel="burger" start="20151210122000 +0100" stop="20151210131000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1234,7 +983,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210171000 +0100" stop="20151210180000 +0100">
+  <programme channel="burger" start="20151210131000 +0100" stop="20151210140000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1253,7 +1002,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210180000 +0100" stop="20151210183000 +0100">
+  <programme channel="burger" start="20151210140000 +0100" stop="20151210143000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -1272,7 +1021,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210183000 +0100" stop="20151210190000 +0100">
+  <programme channel="burger" start="20151210143000 +0100" stop="20151210150000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -1291,7 +1040,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210190000 +0100" stop="20151210193000 +0100">
+  <programme channel="burger" start="20151210150000 +0100" stop="20151210153000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -1309,42 +1058,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210193000 +0100" stop="20151210211000 +0100">
+  <programme channel="burger" start="20151210153000 +0100" stop="20151210171000 +0100">
     <length units="minutes">100</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210211000 +0100" stop="20151210225000 +0100">
+  <programme channel="burger" start="20151210171000 +0100" stop="20151210185000 +0100">
     <length units="minutes">100</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210225000 +0100" stop="20151210231500 +0100">
+  <programme channel="burger" start="20151210185000 +0100" stop="20151210191500 +0100">
     <length units="minutes">25</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210231500 +0100" stop="20151210234000 +0100">
+  <programme channel="burger" start="20151210191500 +0100" stop="20151210194000 +0100">
     <length units="minutes">25</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210234000 +0100" stop="20151211001000 +0100">
+  <programme channel="burger" start="20151210194000 +0100" stop="20151210201000 +0100">
     <length units="minutes">30</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211001000 +0100" stop="20151211010000 +0100">
+  <programme channel="burger" start="20151210201000 +0100" stop="20151210210000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1362,7 +1111,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211010000 +0100" stop="20151211015000 +0100">
+  <programme channel="burger" start="20151210210000 +0100" stop="20151210215000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1380,7 +1129,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211015000 +0100" stop="20151211025500 +0100">
+  <programme channel="burger" start="20151210215000 +0100" stop="20151210225500 +0100">
     <length units="minutes">65</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1399,49 +1148,49 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211025500 +0100" stop="20151211044500 +0100">
+  <programme channel="burger" start="20151210225500 +0100" stop="20151211004500 +0100">
     <length units="minutes">110</length>
     <title>Enquêtes et découvertes</title>
     <category>Documentaire</category>
     <desc>Grands magasins : au coeur de la magie de noël A deux semaines des fêtes de Noël, Anne-Gaëlle Riccio plonge dans les coulisses des grands magasins parisiens. Celui du boulevard Haussmann,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211044500 +0100" stop="20151211063500 +0100">
+  <programme channel="burger" start="20151211004500 +0100" stop="20151211023500 +0100">
     <length units="minutes">110</length>
     <title>Une saison extraordinaire à Courchevel</title>
     <category>Documentaire</category>
     <desc>Une saison extraordinaire à Courchevel Courchevel, station de sports d'hiver huppée de Savoie, attire chaque année de nombreux visiteurs, parmi lesquels des millionnaires, mais aussi... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211063500 +0100" stop="20151211082000 +0100">
+  <programme channel="burger" start="20151211023500 +0100" stop="20151211042000 +0100">
     <length units="minutes">105</length>
     <title>Enquêtes et découvertes</title>
     <category>Documentaire</category>
     <desc>Les secrets de la côte Basque Anne-Gaëlle Riccio propose de découvrir la côte Basque, une terre de traditions qui accueille chaque année plus de deux millions de touristes.... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211082000 +0100" stop="20151211091000 +0100">
+  <programme channel="burger" start="20151211042000 +0100" stop="20151211051000 +0100">
     <length units="minutes">50</length>
     <title>Shark Cage</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211091000 +0100" stop="20151211123000 +0100">
+  <programme channel="burger" start="20151211051000 +0100" stop="20151211083000 +0100">
     <length units="minutes">200</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211123000 +0100" stop="20151211153000 +0100">
+  <programme channel="burger" start="20151211083000 +0100" stop="20151211113000 +0100">
     <length units="minutes">180</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211153000 +0100" stop="20151211162000 +0100">
+  <programme channel="burger" start="20151211113000 +0100" stop="20151211122000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1460,7 +1209,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211162000 +0100" stop="20151211171000 +0100">
+  <programme channel="burger" start="20151211122000 +0100" stop="20151211131000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1479,7 +1228,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211171000 +0100" stop="20151211180000 +0100">
+  <programme channel="burger" start="20151211131000 +0100" stop="20151211140000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1498,7 +1247,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211180000 +0100" stop="20151211183000 +0100">
+  <programme channel="burger" start="20151211140000 +0100" stop="20151211143000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -1517,7 +1266,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211183000 +0100" stop="20151211190000 +0100">
+  <programme channel="burger" start="20151211143000 +0100" stop="20151211150000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -1535,7 +1284,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211190000 +0100" stop="20151211193000 +0100">
+  <programme channel="burger" start="20151211150000 +0100" stop="20151211153000 +0100">
     <length units="minutes">30</length>
     <title>The Middle</title>
     <category>Série</category>
@@ -1554,42 +1303,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211193000 +0100" stop="20151211211000 +0100">
+  <programme channel="burger" start="20151211153000 +0100" stop="20151211171000 +0100">
     <length units="minutes">100</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211211000 +0100" stop="20151211225000 +0100">
+  <programme channel="burger" start="20151211171000 +0100" stop="20151211185000 +0100">
     <length units="minutes">100</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211225000 +0100" stop="20151211231500 +0100">
+  <programme channel="burger" start="20151211185000 +0100" stop="20151211191500 +0100">
     <length units="minutes">25</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211231500 +0100" stop="20151211234000 +0100">
+  <programme channel="burger" start="20151211191500 +0100" stop="20151211194000 +0100">
     <length units="minutes">25</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211234000 +0100" stop="20151212001000 +0100">
+  <programme channel="burger" start="20151211194000 +0100" stop="20151211201000 +0100">
     <length units="minutes">30</length>
     <title>Tellement vrai</title>
     <category>Magazine</category>
     <desc>Aventures peu banales ou expériences partagées par de nombreuses personnes, «Tellement vrai» s'intéresse à quatre destins qui sont mis en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212001000 +0100" stop="20151212010000 +0100">
+  <programme channel="burger" start="20151211201000 +0100" stop="20151211210000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1608,7 +1357,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212010000 +0100" stop="20151212015000 +0100">
+  <programme channel="burger" start="20151211210000 +0100" stop="20151211215000 +0100">
     <length units="minutes">50</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1627,7 +1376,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212015000 +0100" stop="20151212025500 +0100">
+  <programme channel="burger" start="20151211215000 +0100" stop="20151211225500 +0100">
     <length units="minutes">65</length>
     <title>Smallville</title>
     <category>Série</category>
@@ -1646,7 +1395,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212025500 +0100" stop="20151212044500 +0100">
+  <programme channel="burger" start="20151211225500 +0100" stop="20151212004500 +0100">
     <length units="minutes">110</length>
     <title>Mission plus-value</title>
     <category>Magazine</category>
@@ -1657,7 +1406,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212044500 +0100" stop="20151212064000 +0100">
+  <programme channel="burger" start="20151212004500 +0100" stop="20151212024000 +0100">
     <length units="minutes">115</length>
     <title>Mission plus-value</title>
     <category>Magazine</category>
@@ -1668,43 +1417,43 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212064000 +0100" stop="20151212082000 +0100">
+  <programme channel="burger" start="20151212024000 +0100" stop="20151212042000 +0100">
     <length units="minutes">100</length>
     <title>Mission plus-value</title>
     <category>Magazine</category>
-    <desc>En compagnie de Philippe Auriel, Valérie Damidot vient en aide à des propriétaires, afin de les aider à vendre leur bien immobilier au prix... (Lire la suite).(n)</desc>
+    <desc>En compagnie de Philippe Auriel, Valérie Damidot vient en aide à des propriétaires, afin de les aider à vendre leur bien immobilier au prix... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Valérie Damidot,</name>
       <name function="presenter">Philippe Auriel</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212082000 +0100" stop="20151212091000 +0100">
+  <programme channel="burger" start="20151212042000 +0100" stop="20151212051000 +0100">
     <length units="minutes">50</length>
     <title>European Poker Tour</title>
     <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212091000 +0100" stop="20151212124500 +0100">
+  <programme channel="burger" start="20151212051000 +0100" stop="20151212084500 +0100">
     <length units="minutes">215</length>
     <title>Programmes de la nuit</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212124500 +0100" stop="20151212160000 +0100">
+  <programme channel="burger" start="20151212084500 +0100" stop="20151212120000 +0100">
     <length units="minutes">195</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212160000 +0100" stop="20151212162500 +0100">
+  <programme channel="burger" start="20151212120000 +0100" stop="20151212122500 +0100">
     <length units="minutes">25</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
-    <desc>En rentrant chez eux, Sheldon et Leonard découvrent qu'ils ont été cambriolés. Sheldon, inquiet, demande alors à Howard d'installer un système... (Lire la suite).(n)</desc>
+    <desc>En rentrant chez eux, Sheldon et Leonard découvrent qu'ils ont été cambriolés. Sheldon, inquiet, demande alors à Howard d'installer un système... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Mark Cendrowski</name>
       <name function="actor">Johnny Galecki</name>
@@ -1718,11 +1467,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212162500 +0100" stop="20151212165000 +0100">
+  <programme channel="burger" start="20151212122500 +0100" stop="20151212125000 +0100">
     <length units="minutes">25</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
-    <desc>Sheldon commence à souffrir du «blocage des théoriciens» et perd toute notion de physique. Il en devient dépressif et il est prêt à faire... (Lire la suite).(n)</desc>
+    <desc>Sheldon commence à souffrir du «blocage des théoriciens» et perd toute notion de physique. Il en devient dépressif et il est prêt à faire... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Mark Cendrowski</name>
       <name function="actor">Johnny Galecki</name>
@@ -1737,11 +1486,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212165000 +0100" stop="20151212171500 +0100">
+  <programme channel="burger" start="20151212125000 +0100" stop="20151212131500 +0100">
     <length units="minutes">25</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
-    <desc>Leonard est invité en Suisse pour visiter le grand collisionneur du Cern (l'accélérateur de particules le plus grand du monde). Il peut convier... (Lire la suite).(n)</desc>
+    <desc>Leonard est invité en Suisse pour visiter le grand collisionneur du Cern (l'accélérateur de particules le plus grand du monde). Il peut convier... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Mark Cendrowski</name>
       <name function="actor">Johnny Galecki</name>
@@ -1754,11 +1503,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212171500 +0100" stop="20151212174000 +0100">
+  <programme channel="burger" start="20151212131500 +0100" stop="20151212134000 +0100">
     <length units="minutes">25</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
-    <desc>Evénement au magasin de comics : Stan Lee vient faire une séance de dédicaces. Les garçons sont surexcités. Mais Sheldon manque cette occasion... (Lire la suite).(n)</desc>
+    <desc>Evénement au magasin de comics : Stan Lee vient faire une séance de dédicaces. Les garçons sont surexcités. Mais Sheldon manque cette occasion... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Peter Chakos</name>
       <name function="actor">Johnny Galecki</name>
@@ -1773,11 +1522,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212174000 +0100" stop="20151212180500 +0100">
+  <programme channel="burger" start="20151212134000 +0100" stop="20151212140500 +0100">
     <length units="minutes">25</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
-    <desc>A l'occasion d'un vide-grenier, les garçons trouvent une bague ayant servi lors du tournage du film «Le Seigneur des anneaux». Ils ne cessent de... (Lire la suite).(n)</desc>
+    <desc>A l'occasion d'un vide-grenier, les garçons trouvent une bague ayant servi lors du tournage du film «Le Seigneur des anneaux». Ils ne cessent de... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Mark Cendrowski</name>
       <name function="actor">Johnny Galecki</name>
@@ -1790,11 +1539,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212180500 +0100" stop="20151212183000 +0100">
+  <programme channel="burger" start="20151212140500 +0100" stop="20151212143000 +0100">
     <length units="minutes">25</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
-    <desc>Sheldon est sur le point de recevoir une récompense scientifique très convoitée. A cette occasion, il doit faire un discours. Mais Sheldon a très... (Lire la suite).(n)</desc>
+    <desc>Sheldon est sur le point de recevoir une récompense scientifique très convoitée. A cette occasion, il doit faire un discours. Mais Sheldon a très... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Mark Cendrowski</name>
       <name function="actor">Johnny Galecki</name>
@@ -1806,11 +1555,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212183000 +0100" stop="20151212185500 +0100">
+  <programme channel="burger" start="20151212143000 +0100" stop="20151212145500 +0100">
     <length units="minutes">25</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
-    <desc>La relation entre Penny et Leonard ne tient plus qu'à un fil. Ces deux-là se disputent avec force parce que, lorsque Leonard a dit à Penny qu'il... (Lire la suite).(n)</desc>
+    <desc>La relation entre Penny et Leonard ne tient plus qu'à un fil. Ces deux-là se disputent avec force parce que, lorsque Leonard a dit à Penny qu'il... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Mark Cendrowski</name>
       <name function="actor">Johnny Galecki</name>
@@ -1822,11 +1571,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212185500 +0100" stop="20151212192000 +0100">
+  <programme channel="burger" start="20151212145500 +0100" stop="20151212152000 +0100">
     <length units="minutes">25</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
-    <desc>Leonard et Penny n'arrivent plus du tout à communiquer. Sheldon fait tout son possible pour arranger la situation entre eux, mais rien n'y... (Lire la suite).(n)</desc>
+    <desc>Leonard et Penny n'arrivent plus du tout à communiquer. Sheldon fait tout son possible pour arranger la situation entre eux, mais rien n'y... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Anthony Joseph Rich</name>
       <name function="actor">Johnny Galecki</name>
@@ -1839,11 +1588,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212192000 +0100" stop="20151212194500 +0100">
+  <programme channel="burger" start="20151212152000 +0100" stop="20151212154500 +0100">
     <length units="minutes">25</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
-    <desc>Leonard et Sheldon rivalisent d'ingéniosité pour tenter d'accaparer l'attention d'Elizabeth Plimpton, une brillante physicienne qu'ils... (Lire la suite).(n)</desc>
+    <desc>Leonard et Sheldon rivalisent d'ingéniosité pour tenter d'accaparer l'attention d'Elizabeth Plimpton, une brillante physicienne qu'ils... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Mark Cendrowski</name>
       <name function="actor">Judy Greer</name>
@@ -1856,11 +1605,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212194500 +0100" stop="20151212201000 +0100">
+  <programme channel="burger" start="20151212154500 +0100" stop="20151212161000 +0100">
     <length units="minutes">25</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
-    <desc>Leonard et Sheldon se disputent au sujet d'un thermostat. Peu de temps après, Leonard se rend chez Penny et lui raconte comment il a rencontré... (Lire la suite).(n)</desc>
+    <desc>Leonard et Sheldon se disputent au sujet d'un thermostat. Peu de temps après, Leonard se rend chez Penny et lui raconte comment il a rencontré... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Mark Cendrowski</name>
       <name function="actor">Johnny Galecki</name>
@@ -1875,11 +1624,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212201000 +0100" stop="20151212203500 +0100">
+  <programme channel="burger" start="20151212161000 +0100" stop="20151212163500 +0100">
     <length units="minutes">25</length>
     <title>Big Bang Theory</title>
     <category>Série</category>
-    <desc>Penny et Leonard passent une folle nuit, que Leonard s'empresse d'interpréter comme étant autre chose qu'une regrettable erreur : la méprise est... (Lire la suite).(n)</desc>
+    <desc>Penny et Leonard passent une folle nuit, que Leonard s'empresse d'interpréter comme étant autre chose qu'une regrettable erreur : la méprise est... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Peter Chakos</name>
       <name function="actor">Mayim Bialik</name>
@@ -1894,11 +1643,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212203500 +0100" stop="20151212210000 +0100">
+  <programme channel="burger" start="20151212163500 +0100" stop="20151212170000 +0100">
     <length units="minutes">25</length>
     <title>The Middle</title>
     <category>Série</category>
-    <desc>Tandis que Frankie et Mike étaient de sortie, Axl, Sue et Brick n'ont rien trouvé de mieux à faire que de casser une vitre. Au retour de leurs... (Lire la suite).(n)</desc>
+    <desc>Tandis que Frankie et Mike étaient de sortie, Axl, Sue et Brick n'ont rien trouvé de mieux à faire que de casser une vitre. Au retour de leurs... (Lire la suite).</desc>
     <credits>
       <name function="director">Lee Shallat Chemel</name>
       <name function="actor">Jane Kaczmarek</name>
@@ -1913,11 +1662,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212210000 +0100" stop="20151212212500 +0100">
+  <programme channel="burger" start="20151212170000 +0100" stop="20151212172500 +0100">
     <length units="minutes">25</length>
     <title>The Middle</title>
     <category>Série</category>
-    <desc>Janet, la soeur de Frankie, accepte de venir l'aider à tenir la maisonnée, le temps que Frankie termine ses études. Les enfants ne sont pas très... (Lire la suite).(n)</desc>
+    <desc>Janet, la soeur de Frankie, accepte de venir l'aider à tenir la maisonnée, le temps que Frankie termine ses études. Les enfants ne sont pas très... (Lire la suite).</desc>
     <credits>
       <name function="director">Alex Hardcastle</name>
       <name function="actor">Patricia Heaton</name>
@@ -1932,11 +1681,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212212500 +0100" stop="20151212215000 +0100">
+  <programme channel="burger" start="20151212172500 +0100" stop="20151212175000 +0100">
     <length units="minutes">25</length>
     <title>The Middle</title>
     <category>Série</category>
-    <desc>Tandis qu'Axl ne recule devant rien pour reconquérir Cassidy, Mike accepte à contrecoeur d'enseigner le tennis à sa fille. Pendant ce temps,... (Lire la suite).(n)</desc>
+    <desc>Tandis qu'Axl ne recule devant rien pour reconquérir Cassidy, Mike accepte à contrecoeur d'enseigner le tennis à sa fille. Pendant ce temps,... (Lire la suite).</desc>
     <credits>
       <name function="director">Lee Shallat Chemel</name>
       <name function="actor">Patricia Heaton</name>
@@ -1951,11 +1700,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212215000 +0100" stop="20151212221500 +0100">
+  <programme channel="burger" start="20151212175000 +0100" stop="20151212181500 +0100">
     <length units="minutes">25</length>
     <title>The Middle</title>
     <category>Série</category>
-    <desc>Toujours à la recherche d'un emploi, Frankie envisage de devenir assistante dentaire. Axl ne supporte plus Sue et Darrin, qui se prennent pour... (Lire la suite).(n)</desc>
+    <desc>Toujours à la recherche d'un emploi, Frankie envisage de devenir assistante dentaire. Axl ne supporte plus Sue et Darrin, qui se prennent pour... (Lire la suite).</desc>
     <credits>
       <name function="director">Phil Traill</name>
       <name function="actor">Marsha Mason</name>
@@ -1970,11 +1719,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212221500 +0100" stop="20151212224000 +0100">
+  <programme channel="burger" start="20151212181500 +0100" stop="20151212184000 +0100">
     <length units="minutes">25</length>
     <title>The Middle</title>
     <category>Série</category>
-    <desc>En surfant sur un réseau social, Sue découvre que toutes ses amies de lycée se retrouvent pour passer leurs samedis soirs ensemble et postent des... (Lire la suite).(n)</desc>
+    <desc>En surfant sur un réseau social, Sue découvre que toutes ses amies de lycée se retrouvent pour passer leurs samedis soirs ensemble et postent des... (Lire la suite).</desc>
     <credits>
       <name function="director">Lee Shallat Chemel</name>
       <name function="actor">Patricia Heaton</name>
@@ -1989,11 +1738,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212224000 +0100" stop="20151212230500 +0100">
+  <programme channel="burger" start="20151212184000 +0100" stop="20151212190500 +0100">
     <length units="minutes">25</length>
     <title>The Middle</title>
     <category>Série</category>
-    <desc>A l'approche de la Fête des mères, Frankie décide de préciser à ses enfants ce qu'elle souhaite exactement recevoir, afin de ne pas être déçue.... (Lire la suite).(n)</desc>
+    <desc>A l'approche de la Fête des mères, Frankie décide de préciser à ses enfants ce qu'elle souhaite exactement recevoir, afin de ne pas être déçue.... (Lire la suite).</desc>
     <credits>
       <name function="director">Blake T Evans</name>
       <name function="actor">Paul Hipp</name>
@@ -2008,11 +1757,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212230500 +0100" stop="20151212233000 +0100">
+  <programme channel="burger" start="20151212190500 +0100" stop="20151212193000 +0100">
     <length units="minutes">25</length>
     <title>The Middle</title>
     <category>Série</category>
-    <desc>Vêtue de sa blouse d'assistante dentaire, Frankie attend son tour pour payer sa facture d'électricité. Persuadés qu'elle est médecin, les gens la... (Lire la suite).(n)</desc>
+    <desc>Vêtue de sa blouse d'assistante dentaire, Frankie attend son tour pour payer sa facture d'électricité. Persuadés qu'elle est médecin, les gens la... (Lire la suite).</desc>
     <credits>
       <name function="director">Lee Shallat Chemel</name>
       <name function="actor">Dave Foley</name>
@@ -2027,11 +1776,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212233000 +0100" stop="20151212235500 +0100">
+  <programme channel="burger" start="20151212193000 +0100" stop="20151212195500 +0100">
     <length units="minutes">25</length>
     <title>The Middle</title>
     <category>Série</category>
-    <desc>Le jour de la remise des diplômes approche, et Frankie harcèle Axl pour qu'il lui explique comment va se dérouler la journée, pour ainsi en faire... (Lire la suite).(n)</desc>
+    <desc>Le jour de la remise des diplômes approche, et Frankie harcèle Axl pour qu'il lui explique comment va se dérouler la journée, pour ainsi en faire... (Lire la suite).</desc>
     <credits>
       <name function="director">Eileen Heisler</name>
       <name function="actor">Marion Ross</name>
@@ -2046,11 +1795,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212235500 +0100" stop="20151213002000 +0100">
+  <programme channel="burger" start="20151212195500 +0100" stop="20151212202000 +0100">
     <length units="minutes">25</length>
     <title>The Middle</title>
     <category>Série</category>
-    <desc>Sans tenir compte de l'avis d'Axl, Frankie, émue, impose à la famille d'accompagner le jeune homme sur le campus universitaire où il va passer... (Lire la suite).(n)</desc>
+    <desc>Sans tenir compte de l'avis d'Axl, Frankie, émue, impose à la famille d'accompagner le jeune homme sur le campus universitaire où il va passer... (Lire la suite).</desc>
     <credits>
       <name function="director">Lee Shallat Chemel</name>
       <name function="actor">Chris Kattan</name>
@@ -2063,11 +1812,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213002000 +0100" stop="20151213010000 +0100">
+  <programme channel="burger" start="20151212202000 +0100" stop="20151212210000 +0100">
     <length units="minutes">40</length>
     <title>The Middle</title>
     <category>Série</category>
-    <desc>C'est le premier jour d'école pour les enfants. Sue s'épanouit depuis le départ de son grand frère. Frankie est jalouse car Axl répond aux textos... (Lire la suite).(n)</desc>
+    <desc>C'est le premier jour d'école pour les enfants. Sue s'épanouit depuis le départ de son grand frère. Frankie est jalouse car Axl répond aux textos... (Lire la suite).</desc>
     <credits>
       <name function="director">Blake T Evans</name>
       <name function="actor">Patricia Heaton</name>
@@ -2081,22 +1830,22 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213010000 +0100" stop="20151213025500 +0100">
+  <programme channel="burger" start="20151212210000 +0100" stop="20151212225500 +0100">
     <length units="minutes">115</length>
     <title>Mission plus-value</title>
     <category>Magazine</category>
-    <desc>Valérie Damidot et Phil entrent en compétition afin de faire réaliser la plus-value la plus importante à deux familles qui souhaitent vendre leur... (Lire la suite).(n)</desc>
+    <desc>Valérie Damidot et Phil entrent en compétition afin de faire réaliser la plus-value la plus importante à deux familles qui souhaitent vendre leur... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Valérie Damidot,</name>
       <name function="presenter">Philippe Auriel</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213025500 +0100" stop="20151213043500 +0100">
+  <programme channel="burger" start="20151212225500 +0100" stop="20151213003500 +0100">
     <length units="minutes">100</length>
     <title>Missionary Man</title>
     <category>Téléfilm</category>
-    <desc>Un motard solitaire débarque dans une petite bourgade d'une réserve indienne pour assister aux funérailles de son meilleur ami. Pour tout bagage,... (Lire la suite).(n)</desc>
+    <desc>Un motard solitaire débarque dans une petite bourgade d'une réserve indienne pour assister aux funérailles de son meilleur ami. Pour tout bagage,... (Lire la suite).</desc>
     <credits>
       <name function="director">Dolph Lundgren</name>
       <name function="actor">Dolph Lundgren</name>
@@ -2110,11 +1859,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213043500 +0100" stop="20151213062000 +0100">
+  <programme channel="burger" start="20151213003500 +0100" stop="20151213022000 +0100">
     <length units="minutes">105</length>
     <title>Blood Out</title>
     <category>Téléfilm</category>
-    <desc>Shérif d'une petite commune de Louisiane, Michael Savion s'occupe avec efficacité de la tranquillité publique. Un jour, il apprend le décès de... (Lire la suite).(n)</desc>
+    <desc>Shérif d'une petite commune de Louisiane, Michael Savion s'occupe avec efficacité de la tranquillité publique. Un jour, il apprend le décès de... (Lire la suite).</desc>
     <credits>
       <name function="director">Jason Hewitt</name>
       <name function="actor">Val Kilmer</name>
@@ -2125,6 +1874,248 @@
       <name function="actor">Tamer Hassan</name>
       <name function="actor">Ryan Donowho</name>
       <name function="actor">Jason Hewitt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213022000 +0100" stop="20151213041500 +0100">
+    <length units="minutes">115</length>
+    <title>Atomic apocalypse</title>
+    <category>Téléfilm</category>
+    <desc>Le Supercollider, le plus grand accélérateur de particules du monde, mis au point par une puissante multinationale, a été installé dans un... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jeffery Scott Lando</name>
+      <name function="actor">Robin Dunne</name>
+      <name function="actor">Brendan Beiser</name>
+      <name function="actor">Enzo Cilenti</name>
+      <name function="actor">Yana Marinova</name>
+      <name function="actor">Emilia Klayn</name>
+      <name function="actor">Amy Bailey</name>
+      <name function="actor">Mia Nordstrom</name>
+      <name function="actor">Rudy Philip</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213041500 +0100" stop="20151213050500 +0100">
+    <length units="minutes">50</length>
+    <title>European Poker Tour</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213050500 +0100" stop="20151213084500 +0100">
+    <length units="minutes">220</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213084500 +0100" stop="20151213115500 +0100">
+    <length units="minutes">190</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213115500 +0100" stop="20151213122000 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Steve ne se montre pas vraiment intéressé par le job exercé par Stan. Ni une ni deux : celui-ci le remplace par le patibulaire... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">John Aoshima</name>
+      <name function="writer">Erik Durbin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213122000 +0100" stop="20151213124500 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>L'anniversaire de Francine fait remonter de drôles de souvenirs à la surface. Il y est question de George Clooney et de vengeance comme un plat... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Brent Woods</name>
+      <name function="writer">Matt McKenna</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213124500 +0100" stop="20151213131000 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Pour l'été, Stan décide d'envoyer Steve dans un camp de vacances en plein air. Mais les choses tournent mal et, sans comprendre comment, Steve se... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Albert Calleros</name>
+      <name function="writer">Josh Bycel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213131000 +0100" stop="20151213133500 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Stan prend conscience de son problème de poids. Il décide de s'occuper de sa santé en faisant de l'exercice. L'entraînement s'avère... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Pam Cooke</name>
+      <name function="writer">Dan Vebber</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213133500 +0100" stop="20151213140000 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Stan a perdu confiance en lui. Il a été viré parce qu'un vendeur de voitures l'a roulé dans la farine... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Rodney Clouden</name>
+      <name function="writer">Etan Cohen</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213140000 +0100" stop="20151213142500 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Francine confie à son époux qu'elle souhaiterait un peu plus d'action dans leur couple. La monotonie actuelle lui semble insupportable. De son... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Kurt Dumas</name>
+      <name function="writer">Michael Shipley</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213142500 +0100" stop="20151213145000 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Stan décide d'emmener le jeune Steve à la première réunion des Conservateurs de Langley : les membres du parti ont en effet choisi Stan pour les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Brent Woods</name>
+      <name function="writer">Rick Wiener</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213145000 +0100" stop="20151213151500 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Maintenant que Steve a une petite amie, Francine ressent un grand vide dans sa vie. Elle essaye donc désespérément de convaincre Stan d'avoir un... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Caleb Meurer</name>
+      <name function="writer">Steve Hely</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213151500 +0100" stop="20151213154000 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Quand Francine découvre le secret de Stan, elle décide de le soutenir contre vents et marées. Mais Stan n'hésite pas à... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">John Aoshima</name>
+      <name function="writer">Brian Boyle</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213154000 +0100" stop="20151213160500 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>D'un commun accord, Roger et Steve partent pour New York. Toute la famille est persuadée qu'ils se sont en fait installés dans la cabane du... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Pam Cooke</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213160500 +0100" stop="20151213163000 +0100">
+    <length units="minutes">25</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Le président Bush arrive à l'improviste chez Stan. Ce dernier est aux anges mais ce n'est pas le cas du reste de la famille. Alors qu'Hayley... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213163000 +0100" stop="20151213170000 +0100">
+    <length units="minutes">30</length>
+    <title>American Dad !</title>
+    <category>Série</category>
+    <desc>Médusé, Steve découvre par hasard tous les éléments d'une vaste conspiration qui aurait débuté après la guerre de... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213170000 +0100" stop="20151213181500 +0100">
+    <length units="minutes">75</length>
+    <title>S.O.S. ma famille a besoin d'aide</title>
+    <category>Magazine</category>
+    <desc>Depuis 4 ans, Stéphanie vit un véritable calvaire. Sa fille Kathleen, âgée de 16 ans, est en pleine crise d'adolescence. La jeune fille ne... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Pascal Soetens</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213181500 +0100" stop="20151213195000 +0100">
+    <length units="minutes">95</length>
+    <title>S.O.S. ma famille a besoin d'aide</title>
+    <category>Magazine</category>
+    <desc>Depuis le départ de Bruno, son mari, il y a quatre ans, Sandrine est seule pour élever ses quatre enfants. Désormais, Quentin, 18 ans, s'impose... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Pascal Soetens</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213195000 +0100" stop="20151213210000 +0100">
+    <length units="minutes">70</length>
+    <title>Le labo de Damidot</title>
+    <category>Magazine</category>
+    <desc>Aujourd'hui, Valérie, sa bande de laborantins vont tester les expériences les plus loufoques et les plus incroyables en plateau. Des faits... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Valérie Damidot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213210000 +0100" stop="20151213225500 +0100">
+    <length units="minutes">115</length>
+    <title>Mission plus-value</title>
+    <category>Magazine</category>
+    <desc>Valérie Damidot et Phil entrent en compétition afin de faire réaliser la plus-value la plus importante à deux familles qui souhaitent vendre leur... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Valérie Damidot,</name>
+      <name function="presenter">Philippe Auriel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213225500 +0100" stop="20151214002000 +0100">
+    <length units="minutes">85</length>
+    <title>S.O.S. ma famille a besoin d'aide</title>
+    <category>Magazine</category>
+    <desc>A 17 ans, Jordan, sans emploi ni formation, passe ses journées à la maison. Sa mère, Peggy, 43 ans, ne supporte plus de voir son fils dans cette... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Pascal Soetens</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151214002000 +0100" stop="20151214014500 +0100">
+    <length units="minutes">85</length>
+    <title>S.O.S. ma famille a besoin d'aide</title>
+    <category>Magazine</category>
+    <desc>Pascal Soetens intervient auprès de Sandrine, afin de l'aider à rétablir le dialogue entre elle et son fils Kévin. L'adolescent, qui n'a jamais... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Pascal Soetens</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151214014500 +0100" stop="20151214023000 +0100">
+    <length units="minutes">45</length>
+    <title>American Horror Story : Murder House</title>
+    <category>Série</category>
+    <desc>A l'issue d'un nouvel examen obstétrique, Ben et Vivien apprennent qu'ils sont les futurs parents de jumeaux. La maison, par ailleurs, intéresse... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Tim Hunter</name>
+      <name function="actor">Frances Conroy</name>
+      <name function="actor">Jessica Lange</name>
+      <name function="actor">Denis O'Hare</name>
+      <name function="actor">Connie Britton</name>
+      <name function="actor">Dylan McDermott</name>
+      <name function="actor">Evan Peters</name>
+      <name function="actor">Taissa Farmiga</name>
+      <name function="actor">Jamie Brewer</name>
+      <name function="writer">Brad Falchuk</name>
     </credits>
     <image />
   </programme>

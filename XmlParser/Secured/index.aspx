@@ -93,13 +93,19 @@
                     <div class="header-column">
                     </div>
                 </div>
-                <div id="user-tools">
-                    <span class="user-links">
-                        <i class="icon-home"></i>
-                        <asp:Label ID="lblUser" runat="server" class="btn-high bold"></asp:Label>
-                        <i class="icon-lock" style="color: #ffffff;"></i>
-                        <asp:HyperLink runat="server" ID="hypUser" NavigateUrl="../default.aspx?id=lg" Text="Logout"></asp:HyperLink>
-                    </span>
+               <div id="user-tools">
+                    <div class="row">
+                        <div >
+                            <i class="glyphicon glyphicon-user"></i>
+                            <asp:Label ID="lblUser" runat="server" class="btn-high bold"></asp:Label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="pull-right">
+                            <i class="glyphicon glyphicon-log-out"></i>
+                            <asp:HyperLink runat="server" ID="hypUser" NavigateUrl="../default.aspx?id=lg" Text="Logout"></asp:HyperLink>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -219,7 +225,7 @@
                                                                                 <strong><span class="alert-info">Select one or more URLs below & Click on 'Generate Output' to process.</span></strong>
                                                                                 <hr />
                                                                                 <div class="alert" role="alert">
-                                                                                    Important: If "Select Channels" button is red it means no channels are selected<br/> for corressponding source.
+                                                                                   <strong>Important:</strong> If "Select Channels" button is red it means no channels are selected<br/> for corressponding source.
                                                                                     Please click on "Select Channels" button to set the channels.
                                                                                 </div>
                                                                                 <div style="float: right; margin-right: 12px;">

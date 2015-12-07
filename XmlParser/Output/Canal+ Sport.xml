@@ -1,132 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Canal+ Sport">
-    <display-name>MTV</display-name>
+    <display-name>burger</display-name>
   </channel>
-  <programme channel="MTV" start="20151206061500 +0100" stop="20151206074500 +0100">
-    <length units="minutes">90</length>
-    <title>Rugby à 7 (Sevens World Series 2015/2016)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206074500 +0100" stop="20151206091500 +0100">
-    <length units="minutes">90</length>
-    <title>Golf (World Challenge)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206091500 +0100" stop="20151206141000 +0100">
-    <length units="minutes">295</length>
-    <title>Fin des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206141000 +0100" stop="20151206155000 +0100">
-    <length units="minutes">100</length>
-    <title>Football (Stoke / Manchester City)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206155000 +0100" stop="20151206161500 +0100">
-    <length units="minutes">25</length>
-    <title>Champions League Weekly</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206161500 +0100" stop="20151206164500 +0100">
-    <length units="minutes">30</length>
-    <title>On Board : au coeur de la F1</title>
-    <category>Sport</category>
-    <desc>Grand Prix d'Abu Dhabi (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206164500 +0100" stop="20151206182500 +0100">
-    <length units="minutes">100</length>
-    <title>Rugby (Toulon / Agen)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206182500 +0100" stop="20151206200500 +0100">
-    <length units="minutes">100</length>
-    <title>Rugby (Toulouse / Oyonnax)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206200500 +0100" stop="20151206204500 +0100">
-    <length units="minutes">40</length>
-    <title>Jour de rugby</title>
-    <category>Sport</category>
-    <desc>10e journée de Top 14 (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206204500 +0100" stop="20151206222500 +0100">
-    <length units="minutes">100</length>
-    <title>Football (Arsenal / Sunderland)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206222500 +0100" stop="20151206225500 +0100">
-    <length units="minutes">30</length>
-    <title>Match of Ze Day</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206225500 +0100" stop="20151207011000 +0100">
-    <length units="minutes">135</length>
-    <title>Football (Newcastle / Liverpool)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207011000 +0100" stop="20151207025000 +0100">
-    <length units="minutes">100</length>
-    <title>Rugby à 7 (Sevens World Series 2015/2016)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207025000 +0100" stop="20151207042500 +0100">
-    <length units="minutes">95</length>
-    <title>Rugby (Brive / Clermont-Auvergne)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207042500 +0100" stop="20151207052000 +0100">
-    <length units="minutes">55</length>
-    <title>Canal Rugby Club</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207052000 +0100" stop="20151207065000 +0100">
-    <length units="minutes">90</length>
-    <title>Golf (World Challenge)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207065000 +0100" stop="20151207073500 +0100">
+  <programme channel="burger" start="20151207025000 +0100" stop="20151207033500 +0100">
     <length units="minutes">45</length>
     <title>L'équipe du dimanche</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207073500 +0100" stop="20151207093000 +0100">
+  <programme channel="burger" start="20151207033500 +0100" stop="20151207053000 +0100">
     <length units="minutes">115</length>
     <title>Un illustre inconnu (?)</title>
     <category>Film</category>
-    <desc>Sébastien Nicolas, 42 ans, est un agent... (Lire la suite).(r)</desc>
+    <desc>Sébastien Nicolas, 42 ans, est un agent... (Lire la suite).</desc>
     <credits>
       <name function="director">Matthieu Delaporte</name>
       <name function="actor">Olivier Rabourdin</name>
@@ -140,7 +28,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207093000 +0100" stop="20151207103500 +0100">
+  <programme channel="burger" start="20151207053000 +0100" stop="20151207063500 +0100">
     <length units="minutes">65</length>
     <title>Salut les Terriens !</title>
     <category>Magazine</category>
@@ -154,287 +42,287 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207103500 +0100" stop="20151207135000 +0100">
+  <programme channel="burger" start="20151207063500 +0100" stop="20151207095000 +0100">
     <length units="minutes">195</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207135000 +0100" stop="20151207140000 +0100">
+  <programme channel="burger" start="20151207095000 +0100" stop="20151207100000 +0100">
     <length units="minutes">10</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207140000 +0100" stop="20151207144500 +0100">
+  <programme channel="burger" start="20151207100000 +0100" stop="20151207104500 +0100">
     <length units="minutes">45</length>
     <title>L'équipe du dimanche</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207144500 +0100" stop="20151207162500 +0100">
+  <programme channel="burger" start="20151207104500 +0100" stop="20151207122500 +0100">
     <length units="minutes">100</length>
     <title>Football (Stoke / Manchester City)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207162500 +0100" stop="20151207180500 +0100">
+  <programme channel="burger" start="20151207122500 +0100" stop="20151207140500 +0100">
     <length units="minutes">100</length>
     <title>Football (Arsenal / Sunderland)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207180500 +0100" stop="20151207185000 +0100">
+  <programme channel="burger" start="20151207140500 +0100" stop="20151207145000 +0100">
     <length units="minutes">45</length>
     <title>L'équipe du dimanche</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207185000 +0100" stop="20151207202500 +0100">
+  <programme channel="burger" start="20151207145000 +0100" stop="20151207162500 +0100">
     <length units="minutes">95</length>
     <title>Rugby (Toulouse / Oyonnax)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207202500 +0100" stop="20151207220500 +0100">
+  <programme channel="burger" start="20151207162500 +0100" stop="20151207180500 +0100">
     <length units="minutes">100</length>
     <title>Rugby (Brive / Clermont-Auvergne)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207220500 +0100" stop="20151207225500 +0100">
+  <programme channel="burger" start="20151207180500 +0100" stop="20151207185500 +0100">
     <length units="minutes">50</length>
     <title>Canal Rugby Club</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207225500 +0100" stop="20151207234500 +0100">
+  <programme channel="burger" start="20151207185500 +0100" stop="20151207194500 +0100">
     <length units="minutes">50</length>
     <title>L'équipe du dimanche</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207234500 +0100" stop="20151208013000 +0100">
+  <programme channel="burger" start="20151207194500 +0100" stop="20151207213000 +0100">
     <length units="minutes">105</length>
     <title>Football (Newcastle / Liverpool)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208013000 +0100" stop="20151208014000 +0100">
+  <programme channel="burger" start="20151207213000 +0100" stop="20151207214000 +0100">
     <length units="minutes">10</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208014000 +0100" stop="20151208025500 +0100">
+  <programme channel="burger" start="20151207214000 +0100" stop="20151207225500 +0100">
     <length units="minutes">75</length>
     <title>Les spécialistes Ligue 1</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208025500 +0100" stop="20151208045500 +0100">
+  <programme channel="burger" start="20151207225500 +0100" stop="20151208005500 +0100">
     <length units="minutes">120</length>
     <title>Football (Everton / Crystal Palace)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208045500 +0100" stop="20151208055500 +0100">
+  <programme channel="burger" start="20151208005500 +0100" stop="20151208015500 +0100">
     <length units="minutes">60</length>
     <title>J+1</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208055500 +0100" stop="20151208070000 +0100">
+  <programme channel="burger" start="20151208015500 +0100" stop="20151208030000 +0100">
     <length units="minutes">65</length>
     <title>Les spécialistes Ligue 1</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208070000 +0100" stop="20151208070500 +0100">
+  <programme channel="burger" start="20151208030000 +0100" stop="20151208030500 +0100">
     <length units="minutes">5</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208070500 +0100" stop="20151208073000 +0100">
+  <programme channel="burger" start="20151208030500 +0100" stop="20151208033000 +0100">
     <length units="minutes">25</length>
     <title>Canal Football Club</title>
     <category>Sport</category>
     <desc>1re partie (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208073000 +0100" stop="20151208083500 +0100">
+  <programme channel="burger" start="20151208033000 +0100" stop="20151208043500 +0100">
     <length units="minutes">65</length>
     <title>Canal Football Club</title>
     <category>Sport</category>
     <desc>2e partie (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208083500 +0100" stop="20151208101000 +0100">
+  <programme channel="burger" start="20151208043500 +0100" stop="20151208061000 +0100">
     <length units="minutes">95</length>
     <title>Football (Saint-Etienne / Rennes)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208101000 +0100" stop="20151208102000 +0100">
+  <programme channel="burger" start="20151208061000 +0100" stop="20151208062000 +0100">
     <length units="minutes">10</length>
     <title>Zapping</title>
     <category>Divertissement</category>
     <desc>Un cocktail d'images éloquentes, de petites... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208102000 +0100" stop="20151208132500 +0100">
+  <programme channel="burger" start="20151208062000 +0100" stop="20151208092500 +0100">
     <length units="minutes">185</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208132500 +0100" stop="20151208133000 +0100">
+  <programme channel="burger" start="20151208092500 +0100" stop="20151208093000 +0100">
     <length units="minutes">5</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208133000 +0100" stop="20151208144000 +0100">
+  <programme channel="burger" start="20151208093000 +0100" stop="20151208104000 +0100">
     <length units="minutes">70</length>
     <title>Les spécialistes Ligue 1</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208144000 +0100" stop="20151208162000 +0100">
+  <programme channel="burger" start="20151208104000 +0100" stop="20151208122000 +0100">
     <length units="minutes">100</length>
     <title>Football (Everton / Crystal Palace)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208162000 +0100" stop="20151208164000 +0100">
+  <programme channel="burger" start="20151208122000 +0100" stop="20151208124000 +0100">
     <length units="minutes">20</length>
     <title>Canal Football Club</title>
     <category>Sport</category>
     <desc>1re partie (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208164000 +0100" stop="20151208175000 +0100">
+  <programme channel="burger" start="20151208124000 +0100" stop="20151208135000 +0100">
     <length units="minutes">70</length>
     <title>Canal Football Club</title>
     <category>Sport</category>
     <desc>2e partie (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208175000 +0100" stop="20151208190000 +0100">
+  <programme channel="burger" start="20151208135000 +0100" stop="20151208150000 +0100">
     <length units="minutes">70</length>
     <title>Les spécialistes Ligue 1</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208190000 +0100" stop="20151208195000 +0100">
+  <programme channel="burger" start="20151208150000 +0100" stop="20151208155000 +0100">
     <length units="minutes">50</length>
     <title>Canal Rugby Club</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208195000 +0100" stop="20151208215500 +0100">
+  <programme channel="burger" start="20151208155000 +0100" stop="20151208175500 +0100">
     <length units="minutes">125</length>
     <title>Football (FC Séville (Esp) / Juventus Turin (Ita))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208215500 +0100" stop="20151208235500 +0100">
+  <programme channel="burger" start="20151208175500 +0100" stop="20151208195500 +0100">
     <length units="minutes">120</length>
     <title>Football (Wolfsburg (All) / Manchester United (Ang))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208235500 +0100" stop="20151209000000 +0100">
+  <programme channel="burger" start="20151208195500 +0100" stop="20151208200000 +0100">
     <length units="minutes">5</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209000000 +0100" stop="20151209010000 +0100">
+  <programme channel="burger" start="20151208200000 +0100" stop="20151208210000 +0100">
     <length units="minutes">60</length>
     <title>J+1</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209010000 +0100" stop="20151209012500 +0100">
+  <programme channel="burger" start="20151208210000 +0100" stop="20151208212500 +0100">
     <length units="minutes">25</length>
     <title>Champions League Weekly</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209012500 +0100" stop="20151209014000 +0100">
+  <programme channel="burger" start="20151208212500 +0100" stop="20151208214000 +0100">
     <length units="minutes">15</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209014000 +0100" stop="20151209025500 +0100">
+  <programme channel="burger" start="20151208214000 +0100" stop="20151208225500 +0100">
     <length units="minutes">75</length>
     <title>MOZD Extra-Time</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209025500 +0100" stop="20151209044000 +0100">
+  <programme channel="burger" start="20151208225500 +0100" stop="20151209004000 +0100">
     <length units="minutes">105</length>
     <title>Fight+</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209044000 +0100" stop="20151209060500 +0100">
+  <programme channel="burger" start="20151209004000 +0100" stop="20151209020500 +0100">
     <length units="minutes">85</length>
     <title>Hockey sur glace (Vancouver Canucks / Buffalo Sabres)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209060500 +0100" stop="20151209071000 +0100">
+  <programme channel="burger" start="20151209020500 +0100" stop="20151209031000 +0100">
     <length units="minutes">65</length>
     <title>MOZD Extra-Time</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209071000 +0100" stop="20151209084500 +0100">
+  <programme channel="burger" start="20151209031000 +0100" stop="20151209044500 +0100">
     <length units="minutes">95</length>
     <title>Football (FC Séville (Esp) / Juventus Turin (Ita))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209084500 +0100" stop="20151209090500 +0100">
+  <programme channel="burger" start="20151209044500 +0100" stop="20151209050500 +0100">
     <length units="minutes">20</length>
     <title>Made in Groland</title>
     <category>Divertissement</category>
@@ -445,126 +333,126 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209090500 +0100" stop="20151209091000 +0100">
+  <programme channel="burger" start="20151209050500 +0100" stop="20151209051000 +0100">
     <length units="minutes">5</length>
     <title>Zapping</title>
     <category>Divertissement</category>
     <desc>Un cocktail d'images éloquentes, de petites... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209091000 +0100" stop="20151209132000 +0100">
+  <programme channel="burger" start="20151209051000 +0100" stop="20151209092000 +0100">
     <length units="minutes">250</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209132000 +0100" stop="20151209132500 +0100">
+  <programme channel="burger" start="20151209092000 +0100" stop="20151209092500 +0100">
     <length units="minutes">5</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209132500 +0100" stop="20151209144000 +0100">
+  <programme channel="burger" start="20151209092500 +0100" stop="20151209104000 +0100">
     <length units="minutes">75</length>
     <title>MOZD Extra-Time</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209144000 +0100" stop="20151209150500 +0100">
+  <programme channel="burger" start="20151209104000 +0100" stop="20151209110500 +0100">
     <length units="minutes">25</length>
     <title>Spirit of Yachting</title>
     <category>Sport</category>
     <desc>Farr 40 (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209150500 +0100" stop="20151209153000 +0100">
+  <programme channel="burger" start="20151209110500 +0100" stop="20151209113000 +0100">
     <length units="minutes">25</length>
     <title>Champions League Weekly</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209153000 +0100" stop="20151209170500 +0100">
+  <programme channel="burger" start="20151209113000 +0100" stop="20151209130500 +0100">
     <length units="minutes">95</length>
     <title>Football (FC Séville (Esp) / Juventus Turin (Ita))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209170500 +0100" stop="20151209184500 +0100">
+  <programme channel="burger" start="20151209130500 +0100" stop="20151209144500 +0100">
     <length units="minutes">100</length>
     <title>Football (Wolfsburg (All) / Manchester United (Ang))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209184500 +0100" stop="20151209195000 +0100">
+  <programme channel="burger" start="20151209144500 +0100" stop="20151209155000 +0100">
     <length units="minutes">65</length>
     <title>Golf+, le mag</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209195000 +0100" stop="20151209215500 +0100">
+  <programme channel="burger" start="20151209155000 +0100" stop="20151209175500 +0100">
     <length units="minutes">125</length>
     <title>Football (Chelsea (Ang) / Porto (Por))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209215500 +0100" stop="20151209233500 +0100">
+  <programme channel="burger" start="20151209175500 +0100" stop="20151209193500 +0100">
     <length units="minutes">100</length>
     <title>Football (Valence (Esp) / Lyon (Fra))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209233500 +0100" stop="20151210010000 +0100">
+  <programme channel="burger" start="20151209193500 +0100" stop="20151209210000 +0100">
     <length units="minutes">85</length>
     <title>Hockey sur glace (Vancouver Canucks / Buffalo Sabres)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210010000 +0100" stop="20151210013000 +0100">
+  <programme channel="burger" start="20151209210000 +0100" stop="20151209213000 +0100">
     <length units="minutes">30</length>
     <title>Premier League World</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210013000 +0100" stop="20151210014000 +0100">
+  <programme channel="burger" start="20151209213000 +0100" stop="20151209214000 +0100">
     <length units="minutes">10</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210014000 +0100" stop="20151210024500 +0100">
+  <programme channel="burger" start="20151209214000 +0100" stop="20151209224500 +0100">
     <length units="minutes">65</length>
     <title>Les spécialistes F1</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210024500 +0100" stop="20151210025500 +0100">
+  <programme channel="burger" start="20151209224500 +0100" stop="20151209225500 +0100">
     <length units="minutes">10</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210025500 +0100" stop="20151210025800 +0100">
+  <programme channel="burger" start="20151209225500 +0100" stop="20151209225800 +0100">
     <length units="minutes">3</length>
     <title>Plateau sport</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210025800 +0100" stop="20151210043800 +0100">
+  <programme channel="burger" start="20151209225800 +0100" stop="20151210003800 +0100">
     <length units="minutes">100</length>
     <title>Jonah : le souffle de la colère</title>
     <category>Documentaire</category>
@@ -575,42 +463,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210043800 +0100" stop="20151210044000 +0100">
+  <programme channel="burger" start="20151210003800 +0100" stop="20151210004000 +0100">
     <length units="minutes">2</length>
     <title>Plateau sport</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210044000 +0100" stop="20151210050500 +0100">
+  <programme channel="burger" start="20151210004000 +0100" stop="20151210010500 +0100">
     <length units="minutes">25</length>
     <title>Spirit of Yachting</title>
     <category>Sport</category>
     <desc>Middle Sea (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210050500 +0100" stop="20151210060500 +0100">
+  <programme channel="burger" start="20151210010500 +0100" stop="20151210020500 +0100">
     <length units="minutes">60</length>
     <title>Golf+, le mag</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210060500 +0100" stop="20151210070500 +0100">
+  <programme channel="burger" start="20151210020500 +0100" stop="20151210030500 +0100">
     <length units="minutes">60</length>
     <title>Les spécialistes F1</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210070500 +0100" stop="20151210084500 +0100">
+  <programme channel="burger" start="20151210030500 +0100" stop="20151210044500 +0100">
     <length units="minutes">100</length>
     <title>Football (Valence (Esp) / Lyon (Fra))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210084500 +0100" stop="20151210095000 +0100">
+  <programme channel="burger" start="20151210044500 +0100" stop="20151210055000 +0100">
     <length units="minutes">65</length>
     <title>Salut les Terriens !</title>
     <category>Magazine</category>
@@ -624,7 +512,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210095000 +0100" stop="20151210111000 +0100">
+  <programme channel="burger" start="20151210055000 +0100" stop="20151210071000 +0100">
     <length units="minutes">80</length>
     <title>Le supplément</title>
     <category>Magazine</category>
@@ -634,126 +522,126 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210111000 +0100" stop="20151210134000 +0100">
+  <programme channel="burger" start="20151210071000 +0100" stop="20151210094000 +0100">
     <length units="minutes">150</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210134000 +0100" stop="20151210134500 +0100">
+  <programme channel="burger" start="20151210094000 +0100" stop="20151210094500 +0100">
     <length units="minutes">5</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210134500 +0100" stop="20151210145500 +0100">
+  <programme channel="burger" start="20151210094500 +0100" stop="20151210105500 +0100">
     <length units="minutes">70</length>
     <title>Les spécialistes F1</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210145500 +0100" stop="20151210163500 +0100">
+  <programme channel="burger" start="20151210105500 +0100" stop="20151210123500 +0100">
     <length units="minutes">100</length>
     <title>Football (Valence (Esp) / Lyon (Fra))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210163500 +0100" stop="20151210174000 +0100">
+  <programme channel="burger" start="20151210123500 +0100" stop="20151210134000 +0100">
     <length units="minutes">65</length>
     <title>Golf+, le mag</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210174000 +0100" stop="20151210194000 +0100">
+  <programme channel="burger" start="20151210134000 +0100" stop="20151210154000 +0100">
     <length units="minutes">120</length>
     <title>Football (Champion du Japon / Auckland (N-Z))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210194000 +0100" stop="20151210195500 +0100">
+  <programme channel="burger" start="20151210154000 +0100" stop="20151210155500 +0100">
     <length units="minutes">15</length>
     <title>Marathon (Marathon des Alpes-Maritimes 2015)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210195500 +0100" stop="20151210214000 +0100">
+  <programme channel="burger" start="20151210155500 +0100" stop="20151210174000 +0100">
     <length units="minutes">105</length>
     <title>Fight+</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210214000 +0100" stop="20151210231500 +0100">
+  <programme channel="burger" start="20151210174000 +0100" stop="20151210191500 +0100">
     <length units="minutes">95</length>
     <title>Hockey sur glace (Montréal Canadiens / Boston Bruins)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210231500 +0100" stop="20151210234500 +0100">
+  <programme channel="burger" start="20151210191500 +0100" stop="20151210194500 +0100">
     <length units="minutes">30</length>
     <title>Premier League World</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210234500 +0100" stop="20151211012500 +0100">
+  <programme channel="burger" start="20151210194500 +0100" stop="20151210212500 +0100">
     <length units="minutes">100</length>
     <title>Football (Valence (Esp) / Lyon (Fra))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211012500 +0100" stop="20151211014000 +0100">
+  <programme channel="burger" start="20151210212500 +0100" stop="20151210214000 +0100">
     <length units="minutes">15</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211014000 +0100" stop="20151211024000 +0100">
+  <programme channel="burger" start="20151210214000 +0100" stop="20151210224000 +0100">
     <length units="minutes">60</length>
     <title>Les spécialistes rugby</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211024000 +0100" stop="20151211043500 +0100">
+  <programme channel="burger" start="20151210224000 +0100" stop="20151211003500 +0100">
     <length units="minutes">115</length>
     <title>Rugby (Bayonne / Montauban)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211043500 +0100" stop="20151211061500 +0100">
+  <programme channel="burger" start="20151211003500 +0100" stop="20151211021500 +0100">
     <length units="minutes">100</length>
     <title>Football (Champion du Japon / Auckland (N-Z))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211061500 +0100" stop="20151211074500 +0100">
+  <programme channel="burger" start="20151211021500 +0100" stop="20151211034500 +0100">
     <length units="minutes">90</length>
     <title>Golf (Open de Naples)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211074500 +0100" stop="20151211083500 +0100">
+  <programme channel="burger" start="20151211034500 +0100" stop="20151211043500 +0100">
     <length units="minutes">50</length>
     <title>Les spécialistes rugby</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211083500 +0100" stop="20151211085500 +0100">
+  <programme channel="burger" start="20151211043500 +0100" stop="20151211045500 +0100">
     <length units="minutes">20</length>
     <title>Made in Groland</title>
     <category>Divertissement</category>
@@ -764,119 +652,119 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211085500 +0100" stop="20151211090000 +0100">
+  <programme channel="burger" start="20151211045500 +0100" stop="20151211050000 +0100">
     <length units="minutes">5</length>
     <title>Zapping</title>
     <category>Divertissement</category>
     <desc>Un cocktail d'images éloquentes, de petites... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211090000 +0100" stop="20151211133000 +0100">
+  <programme channel="burger" start="20151211050000 +0100" stop="20151211093000 +0100">
     <length units="minutes">270</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211133000 +0100" stop="20151211133500 +0100">
+  <programme channel="burger" start="20151211093000 +0100" stop="20151211093500 +0100">
     <length units="minutes">5</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211133500 +0100" stop="20151211143000 +0100">
+  <programme channel="burger" start="20151211093500 +0100" stop="20151211103000 +0100">
     <length units="minutes">55</length>
     <title>Les spécialistes rugby</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211143000 +0100" stop="20151211161000 +0100">
+  <programme channel="burger" start="20151211103000 +0100" stop="20151211121000 +0100">
     <length units="minutes">100</length>
     <title>Rugby (Bayonne / Montauban)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211161000 +0100" stop="20151211174000 +0100">
+  <programme channel="burger" start="20151211121000 +0100" stop="20151211134000 +0100">
     <length units="minutes">90</length>
     <title>Golf (Open de Naples)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211174000 +0100" stop="20151211175000 +0100">
+  <programme channel="burger" start="20151211134000 +0100" stop="20151211135000 +0100">
     <length units="minutes">10</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211175000 +0100" stop="20151211184500 +0100">
+  <programme channel="burger" start="20151211135000 +0100" stop="20151211144500 +0100">
     <length units="minutes">55</length>
     <title>Les spécialistes rugby</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211184500 +0100" stop="20151211185000 +0100">
+  <programme channel="burger" start="20151211144500 +0100" stop="20151211145000 +0100">
     <length units="minutes">5</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211185000 +0100" stop="20151211203000 +0100">
+  <programme channel="burger" start="20151211145000 +0100" stop="20151211163000 +0100">
     <length units="minutes">100</length>
     <title>Hockey sur glace (Montréal Canadiens / Boston Bruins)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211203000 +0100" stop="20151211205500 +0100">
+  <programme channel="burger" start="20151211163000 +0100" stop="20151211165500 +0100">
     <length units="minutes">25</length>
     <title>Premier League World</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211205500 +0100" stop="20151211224000 +0100">
+  <programme channel="burger" start="20151211165500 +0100" stop="20151211184000 +0100">
     <length units="minutes">105</length>
     <title>Fight+</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211224000 +0100" stop="20151212002500 +0100">
+  <programme channel="burger" start="20151211184000 +0100" stop="20151211202500 +0100">
     <length units="minutes">105</length>
     <title>Rugby (Bayonne / Montauban)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212002500 +0100" stop="20151212013000 +0100">
+  <programme channel="burger" start="20151211202500 +0100" stop="20151211213000 +0100">
     <length units="minutes">65</length>
     <title>J+1</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212013000 +0100" stop="20151212014000 +0100">
+  <programme channel="burger" start="20151211213000 +0100" stop="20151211214000 +0100">
     <length units="minutes">10</length>
     <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212014000 +0100" stop="20151212024500 +0100">
+  <programme channel="burger" start="20151211214000 +0100" stop="20151211224500 +0100">
     <length units="minutes">65</length>
     <title>La Data Room de Canal+</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212024500 +0100" stop="20151212043000 +0100">
+  <programme channel="burger" start="20151211224500 +0100" stop="20151212003000 +0100">
     <length units="minutes">105</length>
     <title>I Am Ali (?)</title>
     <category>Film</category>
@@ -894,39 +782,39 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212043000 +0100" stop="20151212051500 +0100">
+  <programme channel="burger" start="20151212003000 +0100" stop="20151212011500 +0100">
     <length units="minutes">45</length>
     <title>Jour de foot, première édition</title>
     <category>Sport</category>
     <desc>18e journée de Ligue 1 (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212051500 +0100" stop="20151212065000 +0100">
+  <programme channel="burger" start="20151212011500 +0100" stop="20151212025000 +0100">
     <length units="minutes">95</length>
     <title>Golf (Open de Naples)</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212065000 +0100" stop="20151212074000 +0100">
+  <programme channel="burger" start="20151212025000 +0100" stop="20151212034000 +0100">
     <length units="minutes">50</length>
     <title>La Data Room de Canal+</title>
     <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212074000 +0100" stop="20151212093000 +0100">
+  <programme channel="burger" start="20151212034000 +0100" stop="20151212053000 +0100">
     <length units="minutes">110</length>
     <title>Fight+</title>
     <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212093000 +0100" stop="20151212103500 +0100">
+  <programme channel="burger" start="20151212053000 +0100" stop="20151212063500 +0100">
     <length units="minutes">65</length>
     <title>Salut les Terriens !</title>
     <category>Magazine</category>
-    <desc>Tout de noir vêtu, Thierry Ardissson reçoit... (Lire la suite).(n)</desc>
+    <desc>Tout de noir vêtu, Thierry Ardissson reçoit... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Stéphane Guillon,</name>
       <name function="presenter">Thierry Ardisson,</name>
@@ -936,107 +824,233 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212103500 +0100" stop="20151212142000 +0100">
+  <programme channel="burger" start="20151212063500 +0100" stop="20151212102000 +0100">
     <length units="minutes">225</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212102000 +0100" stop="20151212105000 +0100">
+    <length units="minutes">30</length>
+    <title>Champions League Weekly</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212105000 +0100" stop="20151212114000 +0100">
+    <length units="minutes">50</length>
+    <title>La Data Room de Canal+</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212114000 +0100" stop="20151212131500 +0100">
+    <length units="minutes">95</length>
+    <title>Golf (Open de Naples)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212131500 +0100" stop="20151212145500 +0100">
+    <length units="minutes">100</length>
+    <title>Rugby (Bayonne / Montauban)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212145500 +0100" stop="20151212152500 +0100">
+    <length units="minutes">30</length>
+    <title>Premier League World</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212152500 +0100" stop="20151212154000 +0100">
+    <length units="minutes">15</length>
+    <title>Match of Ze Day</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212154000 +0100" stop="20151212175500 +0100">
+    <length units="minutes">135</length>
+    <title>Football (Norwich / Everton)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212175500 +0100" stop="20151212195500 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Manchester City / Swansea)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212195500 +0100" stop="20151212202500 +0100">
+    <length units="minutes">30</length>
+    <title>Match of Ze Day</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212202500 +0100" stop="20151212223500 +0100">
+    <length units="minutes">130</length>
+    <title>Football (Bournemouth / Manchester United)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212223500 +0100" stop="20151213000500 +0100">
+    <length units="minutes">90</length>
+    <title>Rugby à 7 (Sevens World Series 2015/2016)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213000500 +0100" stop="20151213003000 +0100">
+    <length units="minutes">25</length>
+    <title>Champions League Weekly</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213003000 +0100" stop="20151213012500 +0100">
+    <length units="minutes">55</length>
+    <title>Jour de foot</title>
+    <category>Sport</category>
+    <desc>18e journée de Ligue 1 (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213012500 +0100" stop="20151213030000 +0100">
+    <length units="minutes">95</length>
+    <title>Golf (Open de Naples)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213030000 +0100" stop="20151213044500 +0100">
+    <length units="minutes">105</length>
+    <title>Elle l'adore (?)</title>
+    <category>Film</category>
+    <desc>Esthéticienne sympathique mais mythomane,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jeanne Herry</name>
+      <name function="actor">Sébastien Knafo</name>
+      <name function="actor">Pascal Demolon</name>
+      <name function="actor">Nicolas Bridet</name>
+      <name function="actor">Sharif Andoura</name>
+      <name function="actor">Benjamin Lavernhe</name>
+      <name function="actor">Laurent Lafitte</name>
+      <name function="actor">Sandrine Kiberlain</name>
+      <name function="actor">Olivia Côte</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213044500 +0100" stop="20151213093000 +0100">
+    <length units="minutes">285</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212142000 +0100" stop="20151212145000 +0100">
-    <length units="minutes">30</length>
-    <title>Champions League Weekly</title>
+  <programme channel="burger" start="20151213093000 +0100" stop="20151213095500 +0100">
+    <length units="minutes">25</length>
+    <title>Spirit of Yachting</title>
+    <category>Sport</category>
+    <desc>Middle Sea (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213095500 +0100" stop="20151213115000 +0100">
+    <length units="minutes">115</length>
+    <title>Football (Club America (Mex) / Guangzhou Evergrande (Chn))</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212145000 +0100" stop="20151212154000 +0100">
-    <length units="minutes">50</length>
-    <title>La Data Room de Canal+</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212154000 +0100" stop="20151212171500 +0100">
+  <programme channel="burger" start="20151213115000 +0100" stop="20151213132500 +0100">
     <length units="minutes">95</length>
     <title>Golf (Open de Naples)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212171500 +0100" stop="20151212185500 +0100">
-    <length units="minutes">100</length>
-    <title>Rugby (Bayonne / Montauban)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212185500 +0100" stop="20151212192500 +0100">
-    <length units="minutes">30</length>
-    <title>Premier League World</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212192500 +0100" stop="20151212194000 +0100">
-    <length units="minutes">15</length>
-    <title>Match of Ze Day</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212194000 +0100" stop="20151212215500 +0100">
-    <length units="minutes">135</length>
-    <title>Football (Norwich / Everton)</title>
-    <category>Sport</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212215500 +0100" stop="20151212235500 +0100">
+  <programme channel="burger" start="20151213132500 +0100" stop="20151213152500 +0100">
     <length units="minutes">120</length>
-    <title>Football (Manchester City / Swansea)</title>
+    <title>Football (TP Mazembe (Con) / Adversaire à déterminer)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212235500 +0100" stop="20151213002500 +0100">
+  <programme channel="burger" start="20151213152500 +0100" stop="20151213154500 +0100">
+    <length units="minutes">20</length>
+    <title>Enquêtes de foot</title>
+    <category>Magazine</category>
+    <desc>Le public vibre au rythme des grands rendez-vous (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Astrid Bard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213154500 +0100" stop="20151213160000 +0100">
+    <length units="minutes">15</length>
+    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213160000 +0100" stop="20151213162500 +0100">
+    <length units="minutes">25</length>
+    <title>Match of Ze Day</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213162500 +0100" stop="20151213182500 +0100">
+    <length units="minutes">120</length>
+    <title>Football (Aston Villa / Arsenal)</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213182500 +0100" stop="20151213185500 +0100">
     <length units="minutes">30</length>
     <title>Match of Ze Day</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213002500 +0100" stop="20151213023500 +0100">
-    <length units="minutes">130</length>
-    <title>Football (Bournemouth / Manchester United)</title>
+  <programme channel="burger" start="20151213185500 +0100" stop="20151213211000 +0100">
+    <length units="minutes">135</length>
+    <title>Football (Tottenham / Newcastle)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213023500 +0100" stop="20151213040500 +0100">
+  <programme channel="burger" start="20151213211000 +0100" stop="20151213230000 +0100">
+    <length units="minutes">110</length>
+    <title>Fight+</title>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213230000 +0100" stop="20151214003000 +0100">
     <length units="minutes">90</length>
     <title>Rugby à 7 (Sevens World Series 2015/2016)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213040500 +0100" stop="20151213043000 +0100">
-    <length units="minutes">25</length>
-    <title>Champions League Weekly</title>
+  <programme channel="burger" start="20151214003000 +0100" stop="20151214012000 +0100">
+    <length units="minutes">50</length>
+    <title>Golf (Masters de l'Ile Maurice 2015)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213043000 +0100" stop="20151213052500 +0100">
-    <length units="minutes">55</length>
-    <title>Jour de foot</title>
-    <category>Sport</category>
-    <desc>18e journée de Ligue 1 (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213052500 +0100" stop="20151213070000 +0100">
-    <length units="minutes">95</length>
-    <title>Golf (Open de Naples)</title>
+  <programme channel="burger" start="20151214012000 +0100" stop="20151214030000 +0100">
+    <length units="minutes">100</length>
+    <title>Football (Coupe du monde des clubs 2015)</title>
     <category>Sport</category>
     <desc>(Lire la suite).(n)</desc>
     <image />

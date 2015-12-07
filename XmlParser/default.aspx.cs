@@ -6,7 +6,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using XmlParser.DataContext;
+using XmlParser.Core.DataContext;
 
 namespace XmlParser
 {

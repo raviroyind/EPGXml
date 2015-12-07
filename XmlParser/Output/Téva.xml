@@ -1,173 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Téva">
-    <display-name>MTV</display-name>
+    <display-name>burger</display-name>
   </channel>
-  <programme channel="MTV" start="20151206063500 +0100" stop="20151206084000 +0100">
-    <length units="minutes">125</length>
-    <title>Les dossiers de Téva</title>
-    <category>Magazine</category>
-    <desc>En France, six millions d'enfants grandissent au sein de familles de plus de trois enfants. «Les Dossiers de Téva» ont suivi plusieurs de ces... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Marielle Fournier</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206084000 +0100" stop="20151206130000 +0100">
-    <length units="minutes">260</length>
-    <title>Programmes de la nuit</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206130000 +0100" stop="20151206141500 +0100">
-    <length units="minutes">75</length>
-    <title>Téva boutique</title>
-    <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Pierre Dhostel,</name>
-      <name function="presenter">Valérie Pascale</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206141500 +0100" stop="20151206163000 +0100">
-    <length units="minutes">135</length>
-    <title>D&amp;CO, une semaine pour tout changer</title>
-    <category>Magazine</category>
-    <desc>Sébastien et Marie se sont lancés dans la transformation en maison d'habitation d'un ancien restaurant des années 30, mais après quelques mois de... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Valérie Damidot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206163000 +0100" stop="20151206170000 +0100">
-    <length units="minutes">30</length>
-    <title>Magnifique by Cristina</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Cristina Cordula</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206170000 +0100" stop="20151206174000 +0100">
-    <length units="minutes">40</length>
-    <title>Magnifique by Cristina</title>
-    <category>Magazine</category>
-    <desc>Cristina livre ses conseils et décrypte les tendances mode et beauté pour révéler la beauté qui sommeille en chaque femme. Au sommaire... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Cristina Cordula</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206174000 +0100" stop="20151206181500 +0100">
-    <length units="minutes">35</length>
-    <title>Téva déco</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Cendrine Dominguez</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206181500 +0100" stop="20151206185500 +0100">
-    <length units="minutes">40</length>
-    <title>Téva déco</title>
-    <category>Magazine</category>
-    <desc>Au sommaire : (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Cendrine Dominguez,</name>
-      <name function="presenter">Sophie Ferjani</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206185500 +0100" stop="20151206193000 +0100">
-    <length units="minutes">35</length>
-    <title>Le gâteau de mes rêves</title>
-    <category>Magazine</category>
-    <desc>Jonathan Blot s'attaque à un fruit exotique : la noix de coco. En compagnie d'Aurélie, il confectionne un riz-au-lait à la noix de coco, servi... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Christophe Adam,</name>
-      <name function="presenter">Jonathan Blot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206193000 +0100" stop="20151206211500 +0100">
-    <length units="minutes">105</length>
-    <title>Trois jours avant Noël</title>
-    <category>Téléfilm</category>
-    <desc>Trois jours avant les fêtes de Noël, la détective privée Regan Reilly et la très curieuse Alvirah Meegan enquêtent sur la disparition du père de... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Ron Underwood</name>
-      <name function="actor">Jane Alexander</name>
-      <name function="actor">David Selby</name>
-      <name function="actor">Larry Miller</name>
-      <name function="actor">Kathy Najimy</name>
-      <name function="actor">Hiro Kanagawa</name>
-      <name function="actor">Eric Johnson</name>
-      <name function="actor">Luciana Carro</name>
-      <name function="actor">Scottie Thompson</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206211500 +0100" stop="20151206230000 +0100">
-    <length units="minutes">105</length>
-    <title>La magie de Noël</title>
-    <category>Téléfilm</category>
-    <desc>Vice-présidente d'une agence de publicité, Elizabeth ne vit que pour son métier, au grand dam de sa soeur et de son neveu, qui se désespèrent... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Fred Olen Ray</name>
-      <name function="actor">Tom Arnold</name>
-      <name function="actor">Brad Rowe</name>
-      <name function="actor">Melissa Sagemiller</name>
-      <name function="actor">Martin Klebba</name>
-      <name function="actor">Laura Gordon</name>
-      <name function="actor">Marliss Amiea</name>
-      <name function="actor">Christian Gehring</name>
-      <name function="actor">Danny Lacy</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206230000 +0100" stop="20151207004000 +0100">
-    <length units="minutes">100</length>
-    <title>L'expérience de Noël</title>
-    <category>Téléfilm</category>
-    <desc>Martin Taylor vient de prendre brutalement conscience qu'il a perdu toute connection avec sa famille. Il ne sait pas qui sont les amis de sa... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Corbin Bernsen</name>
-      <name function="actor">Megyn Price</name>
-      <name function="actor">George Newbern</name>
-      <name function="actor">Kevin Crowley</name>
-      <name function="actor">Taylor Spreitler</name>
-      <name function="actor">Francesca Capaldi</name>
-      <name function="actor">Aidan Potter</name>
-      <name function="actor">Richard Fike</name>
-      <name function="actor">Corbin Bernsen</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207004000 +0100" stop="20151207013500 +0100">
-    <length units="minutes">55</length>
-    <title>D&amp;CO</title>
-    <category>Magazine</category>
-    <desc>Dany, 55 ans, et sa fille Marion, 23 ans, résident depuis treize ans dans le même appartement. L'année dernière, Dany et son mari avaient prévu... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Valérie Damidot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207013500 +0100" stop="20151207024000 +0100">
-    <length units="minutes">65</length>
-    <title>D&amp;CO</title>
-    <category>Magazine</category>
-    <desc>Sonia réside avec ses deux enfants dans une maison qu'elle partage désormais avec Eddy, dont les deux petites filles viennent agrandir la famille... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Valérie Damidot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207024000 +0100" stop="20151207033000 +0100">
+  <programme channel="burger" start="20151207020000 +0100" stop="20151207025000 +0100">
     <length units="minutes">50</length>
     <title>The Good Wife</title>
     <category>Série</category>
@@ -186,7 +22,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207033000 +0100" stop="20151207041500 +0100">
+  <programme channel="burger" start="20151207025000 +0100" stop="20151207033500 +0100">
     <length units="minutes">45</length>
     <title>The Good Wife</title>
     <category>Série</category>
@@ -205,90 +41,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207041500 +0100" stop="20151207050500 +0100">
-    <length units="minutes">50</length>
-    <title>The Good Wife</title>
-    <category>Série</category>
-    <desc>Après de nombreuses déconvenues et, comme si c'était devenu une évidence, Eli propose à Alicia de devenir le prochain procureur du comté. Diane... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Robert King</name>
-      <name function="actor">Christine Baranski</name>
-      <name function="actor">Julianna Margulies</name>
-      <name function="actor">Michael Cerveris</name>
-      <name function="actor">Chris Noth</name>
-      <name function="actor">Archie Panjabi</name>
-      <name function="actor">Alan Cumming</name>
-      <name function="actor">Matt Czuchry</name>
-      <name function="actor">Mike Colter</name>
-      <name function="writer">Robert King</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207050500 +0100" stop="20151207060000 +0100">
-    <length units="minutes">55</length>
-    <title>The Good Wife</title>
-    <category>Série</category>
-    <desc>Alors que Cary est toujours en prison, Alicia prend le relais sur une de ses affaires. Il s'agit d'un recours collectif contre Chumhum. Elle... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Jim McKay</name>
-      <name function="actor">Zach Grenier</name>
-      <name function="actor">Chris Noth</name>
-      <name function="actor">Archie Panjabi</name>
-      <name function="actor">Matthew Goode</name>
-      <name function="actor">Alan Cumming</name>
-      <name function="actor">Matt Czuchry</name>
-      <name function="actor">Christine Baranski</name>
-      <name function="actor">Julianna Margulies</name>
-      <name function="writer">Ted Humphrey</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207060000 +0100" stop="20151207065000 +0100">
-    <length units="minutes">50</length>
-    <title>The Good Wife</title>
-    <category>Série</category>
-    <desc>Cary, sorti de prison, est en liberté provisoire jusqu'au procès. Toutefois, suite à la disparition du témoin clé, le procureur demande la... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Brooke Kennedy</name>
-      <name function="actor">Christine Baranski</name>
-      <name function="actor">Julianna Margulies</name>
-      <name function="actor">Zach Grenier</name>
-      <name function="actor">Taye Diggs</name>
-      <name function="actor">Archie Panjabi</name>
-      <name function="actor">Matthew Goode</name>
-      <name function="actor">Alan Cumming</name>
-      <name function="actor">Matt Czuchry</name>
-      <name function="writer">Luke Schelhaas</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207065000 +0100" stop="20151207073500 +0100">
-    <length units="minutes">45</length>
-    <title>The Good Wife</title>
-    <category>Série</category>
-    <desc>Alicia réfléchit désormais sérieusement à se présenter au poste de procureur. Afin de s'y préparer, elle rencontre Eli, ainsi que son directeur... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Matt Shakman</name>
-      <name function="actor">Christine Baranski</name>
-      <name function="actor">Julianna Margulies</name>
-      <name function="actor">Zach Grenier</name>
-      <name function="actor">Archie Panjabi</name>
-      <name function="actor">Steven Pasquale</name>
-      <name function="actor">Alan Cumming</name>
-      <name function="actor">Matt Czuchry</name>
-      <name function="actor">Mike Colter</name>
-      <name function="writer">Robert King</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207073500 +0100" stop="20151207133000 +0100">
+  <programme channel="burger" start="20151207033500 +0100" stop="20151207093000 +0100">
     <length units="minutes">355</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207133000 +0100" stop="20151207151000 +0100">
+  <programme channel="burger" start="20151207093000 +0100" stop="20151207111000 +0100">
     <length units="minutes">100</length>
     <title>Téva boutique</title>
     <category>Magazine</category>
@@ -299,7 +59,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207151000 +0100" stop="20151207164500 +0100">
+  <programme channel="burger" start="20151207111000 +0100" stop="20151207124500 +0100">
     <length units="minutes">95</length>
     <title>Autant en emporte Noël</title>
     <category>Téléfilm</category>
@@ -317,7 +77,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207164500 +0100" stop="20151207182500 +0100">
+  <programme channel="burger" start="20151207124500 +0100" stop="20151207142500 +0100">
     <length units="minutes">100</length>
     <title>La mère Noël</title>
     <category>Téléfilm</category>
@@ -335,7 +95,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207182500 +0100" stop="20151207201000 +0100">
+  <programme channel="burger" start="20151207142500 +0100" stop="20151207161000 +0100">
     <length units="minutes">105</length>
     <title>Pour l'amour d'une star</title>
     <category>Téléfilm</category>
@@ -353,7 +113,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207201000 +0100" stop="20151207214500 +0100">
+  <programme channel="burger" start="20151207161000 +0100" stop="20151207174500 +0100">
     <length units="minutes">95</length>
     <title>Le cadeau de Carole</title>
     <category>Téléfilm</category>
@@ -371,7 +131,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207214500 +0100" stop="20151207223500 +0100">
+  <programme channel="burger" start="20151207174500 +0100" stop="20151207183500 +0100">
     <length units="minutes">50</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -389,7 +149,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207223500 +0100" stop="20151207232500 +0100">
+  <programme channel="burger" start="20151207183500 +0100" stop="20151207192500 +0100">
     <length units="minutes">50</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -408,7 +168,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207232500 +0100" stop="20151208000500 +0100">
+  <programme channel="burger" start="20151207192500 +0100" stop="20151207200500 +0100">
     <length units="minutes">40</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -427,7 +187,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208000500 +0100" stop="20151208005500 +0100">
+  <programme channel="burger" start="20151207200500 +0100" stop="20151207205500 +0100">
     <length units="minutes">50</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -446,7 +206,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208005500 +0100" stop="20151208014500 +0100">
+  <programme channel="burger" start="20151207205500 +0100" stop="20151207214500 +0100">
     <length units="minutes">50</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -465,7 +225,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208014500 +0100" stop="20151208024000 +0100">
+  <programme channel="burger" start="20151207214500 +0100" stop="20151207224000 +0100">
     <length units="minutes">55</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -484,7 +244,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208024000 +0100" stop="20151208050500 +0100">
+  <programme channel="burger" start="20151207224000 +0100" stop="20151208010500 +0100">
     <length units="minutes">145</length>
     <title>D&amp;CO, une semaine pour tout changer</title>
     <category>Magazine</category>
@@ -494,7 +254,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208050500 +0100" stop="20151208071500 +0100">
+  <programme channel="burger" start="20151208010500 +0100" stop="20151208031500 +0100">
     <length units="minutes">130</length>
     <title>D&amp;CO, une semaine pour tout changer</title>
     <category>Magazine</category>
@@ -504,7 +264,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208071500 +0100" stop="20151208092000 +0100">
+  <programme channel="burger" start="20151208031500 +0100" stop="20151208052000 +0100">
     <length units="minutes">125</length>
     <title>D&amp;CO, une semaine pour tout changer</title>
     <category>Magazine</category>
@@ -514,14 +274,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208092000 +0100" stop="20151208133000 +0100">
+  <programme channel="burger" start="20151208052000 +0100" stop="20151208093000 +0100">
     <length units="minutes">250</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208133000 +0100" stop="20151208151000 +0100">
+  <programme channel="burger" start="20151208093000 +0100" stop="20151208111000 +0100">
     <length units="minutes">100</length>
     <title>Téva boutique</title>
     <category>Magazine</category>
@@ -532,7 +292,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208151000 +0100" stop="20151208164500 +0100">
+  <programme channel="burger" start="20151208111000 +0100" stop="20151208124500 +0100">
     <length units="minutes">95</length>
     <title>La parade de Noël</title>
     <category>Téléfilm</category>
@@ -550,7 +310,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208164500 +0100" stop="20151208181500 +0100">
+  <programme channel="burger" start="20151208124500 +0100" stop="20151208141500 +0100">
     <length units="minutes">90</length>
     <title>Noël sans cadeaux</title>
     <category>Téléfilm</category>
@@ -568,7 +328,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208181500 +0100" stop="20151208200000 +0100">
+  <programme channel="burger" start="20151208141500 +0100" stop="20151208160000 +0100">
     <length units="minutes">105</length>
     <title>Un coeur pour Noël</title>
     <category>Téléfilm</category>
@@ -586,7 +346,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208200000 +0100" stop="20151208214000 +0100">
+  <programme channel="burger" start="20151208160000 +0100" stop="20151208174000 +0100">
     <length units="minutes">100</length>
     <title>Rien que la vérité !</title>
     <category>Téléfilm</category>
@@ -604,7 +364,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208214000 +0100" stop="20151208222500 +0100">
+  <programme channel="burger" start="20151208174000 +0100" stop="20151208182500 +0100">
     <length units="minutes">45</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -623,7 +383,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208222500 +0100" stop="20151208231500 +0100">
+  <programme channel="burger" start="20151208182500 +0100" stop="20151208191500 +0100">
     <length units="minutes">50</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -642,7 +402,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208231500 +0100" stop="20151209000500 +0100">
+  <programme channel="burger" start="20151208191500 +0100" stop="20151208200500 +0100">
     <length units="minutes">50</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -661,7 +421,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209000500 +0100" stop="20151209005000 +0100">
+  <programme channel="burger" start="20151208200500 +0100" stop="20151208205000 +0100">
     <length units="minutes">45</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -680,7 +440,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209005000 +0100" stop="20151209013500 +0100">
+  <programme channel="burger" start="20151208205000 +0100" stop="20151208213500 +0100">
     <length units="minutes">45</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -699,7 +459,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209013500 +0100" stop="20151209024000 +0100">
+  <programme channel="burger" start="20151208213500 +0100" stop="20151208224000 +0100">
     <length units="minutes">65</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -718,7 +478,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209024000 +0100" stop="20151209041500 +0100">
+  <programme channel="burger" start="20151208224000 +0100" stop="20151209001500 +0100">
     <length units="minutes">95</length>
     <title>L'ange des neiges</title>
     <category>Téléfilm</category>
@@ -736,7 +496,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209041500 +0100" stop="20151209060000 +0100">
+  <programme channel="burger" start="20151209001500 +0100" stop="20151209020000 +0100">
     <length units="minutes">105</length>
     <title>L'ange de Noël</title>
     <category>Téléfilm</category>
@@ -754,7 +514,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209060000 +0100" stop="20151209073000 +0100">
+  <programme channel="burger" start="20151209020000 +0100" stop="20151209033000 +0100">
     <length units="minutes">90</length>
     <title>Les princesses des neiges</title>
     <category>Téléfilm</category>
@@ -772,14 +532,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209073000 +0100" stop="20151209133000 +0100">
+  <programme channel="burger" start="20151209033000 +0100" stop="20151209093000 +0100">
     <length units="minutes">360</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209133000 +0100" stop="20151209151000 +0100">
+  <programme channel="burger" start="20151209093000 +0100" stop="20151209111000 +0100">
     <length units="minutes">100</length>
     <title>Téva boutique</title>
     <category>Magazine</category>
@@ -790,7 +550,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209151000 +0100" stop="20151209164500 +0100">
+  <programme channel="burger" start="20151209111000 +0100" stop="20151209124500 +0100">
     <length units="minutes">95</length>
     <title>Le spectacle de Noël</title>
     <category>Téléfilm</category>
@@ -808,7 +568,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209164500 +0100" stop="20151209182000 +0100">
+  <programme channel="burger" start="20151209124500 +0100" stop="20151209142000 +0100">
     <length units="minutes">95</length>
     <title>Trois jours avant Noël</title>
     <category>Téléfilm</category>
@@ -826,7 +586,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209182000 +0100" stop="20151209200500 +0100">
+  <programme channel="burger" start="20151209142000 +0100" stop="20151209160500 +0100">
     <length units="minutes">105</length>
     <title>Sous le charme du Père Noël</title>
     <category>Téléfilm</category>
@@ -844,7 +604,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209200500 +0100" stop="20151209213500 +0100">
+  <programme channel="burger" start="20151209160500 +0100" stop="20151209173500 +0100">
     <length units="minutes">90</length>
     <title>La baby-sitter de Noël</title>
     <category>Téléfilm</category>
@@ -862,7 +622,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209213500 +0100" stop="20151209222500 +0100">
+  <programme channel="burger" start="20151209173500 +0100" stop="20151209182500 +0100">
     <length units="minutes">50</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -881,7 +641,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209222500 +0100" stop="20151209231500 +0100">
+  <programme channel="burger" start="20151209182500 +0100" stop="20151209191500 +0100">
     <length units="minutes">50</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -900,7 +660,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209231500 +0100" stop="20151210000500 +0100">
+  <programme channel="burger" start="20151209191500 +0100" stop="20151209200500 +0100">
     <length units="minutes">50</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -919,7 +679,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210000500 +0100" stop="20151210004500 +0100">
+  <programme channel="burger" start="20151209200500 +0100" stop="20151209204500 +0100">
     <length units="minutes">40</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -938,7 +698,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210004500 +0100" stop="20151210013500 +0100">
+  <programme channel="burger" start="20151209204500 +0100" stop="20151209213500 +0100">
     <length units="minutes">50</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -957,7 +717,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210013500 +0100" stop="20151210024000 +0100">
+  <programme channel="burger" start="20151209213500 +0100" stop="20151209224000 +0100">
     <length units="minutes">65</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -976,7 +736,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210024000 +0100" stop="20151210033000 +0100">
+  <programme channel="burger" start="20151209224000 +0100" stop="20151209233000 +0100">
     <length units="minutes">50</length>
     <title>Mistresses</title>
     <category>Série</category>
@@ -995,7 +755,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210033000 +0100" stop="20151210041500 +0100">
+  <programme channel="burger" start="20151209233000 +0100" stop="20151210001500 +0100">
     <length units="minutes">45</length>
     <title>Mistresses</title>
     <category>Série</category>
@@ -1014,7 +774,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210041500 +0100" stop="20151210050500 +0100">
+  <programme channel="burger" start="20151210001500 +0100" stop="20151210010500 +0100">
     <length units="minutes">50</length>
     <title>Mistresses</title>
     <category>Série</category>
@@ -1033,7 +793,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210050500 +0100" stop="20151210055500 +0100">
+  <programme channel="burger" start="20151210010500 +0100" stop="20151210015500 +0100">
     <length units="minutes">50</length>
     <title>Mistresses</title>
     <category>Série</category>
@@ -1052,7 +812,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210055500 +0100" stop="20151210064000 +0100">
+  <programme channel="burger" start="20151210015500 +0100" stop="20151210024000 +0100">
     <length units="minutes">45</length>
     <title>Mistresses</title>
     <category>Série</category>
@@ -1071,7 +831,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210064000 +0100" stop="20151210072500 +0100">
+  <programme channel="burger" start="20151210024000 +0100" stop="20151210032500 +0100">
     <length units="minutes">45</length>
     <title>Mistresses</title>
     <category>Série</category>
@@ -1090,7 +850,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210072500 +0100" stop="20151210080500 +0100">
+  <programme channel="burger" start="20151210032500 +0100" stop="20151210040500 +0100">
     <length units="minutes">40</length>
     <title>Mistresses</title>
     <category>Série</category>
@@ -1109,14 +869,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210080500 +0100" stop="20151210133000 +0100">
+  <programme channel="burger" start="20151210040500 +0100" stop="20151210093000 +0100">
     <length units="minutes">325</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210133000 +0100" stop="20151210151000 +0100">
+  <programme channel="burger" start="20151210093000 +0100" stop="20151210111000 +0100">
     <length units="minutes">100</length>
     <title>Téva boutique</title>
     <category>Magazine</category>
@@ -1127,7 +887,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210151000 +0100" stop="20151210164500 +0100">
+  <programme channel="burger" start="20151210111000 +0100" stop="20151210124500 +0100">
     <length units="minutes">95</length>
     <title>Dans la peau du Père Noël</title>
     <category>Téléfilm</category>
@@ -1145,7 +905,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210164500 +0100" stop="20151210182000 +0100">
+  <programme channel="burger" start="20151210124500 +0100" stop="20151210142000 +0100">
     <length units="minutes">95</length>
     <title>Deux anges dans la ville</title>
     <category>Téléfilm</category>
@@ -1162,7 +922,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210182000 +0100" stop="20151210200000 +0100">
+  <programme channel="burger" start="20151210142000 +0100" stop="20151210160000 +0100">
     <length units="minutes">100</length>
     <title>L'expérience de Noël</title>
     <category>Téléfilm</category>
@@ -1180,7 +940,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210200000 +0100" stop="20151210214000 +0100">
+  <programme channel="burger" start="20151210160000 +0100" stop="20151210174000 +0100">
     <length units="minutes">100</length>
     <title>Nanny Express</title>
     <category>Téléfilm</category>
@@ -1198,7 +958,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210214000 +0100" stop="20151210222500 +0100">
+  <programme channel="burger" start="20151210174000 +0100" stop="20151210182500 +0100">
     <length units="minutes">45</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -1217,7 +977,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210222500 +0100" stop="20151210231500 +0100">
+  <programme channel="burger" start="20151210182500 +0100" stop="20151210191500 +0100">
     <length units="minutes">50</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -1236,7 +996,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210231500 +0100" stop="20151211000500 +0100">
+  <programme channel="burger" start="20151210191500 +0100" stop="20151210200500 +0100">
     <length units="minutes">50</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -1255,7 +1015,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211000500 +0100" stop="20151211004500 +0100">
+  <programme channel="burger" start="20151210200500 +0100" stop="20151210204500 +0100">
     <length units="minutes">40</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -1274,7 +1034,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211004500 +0100" stop="20151211013500 +0100">
+  <programme channel="burger" start="20151210204500 +0100" stop="20151210213500 +0100">
     <length units="minutes">50</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -1293,7 +1053,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211013500 +0100" stop="20151211024000 +0100">
+  <programme channel="burger" start="20151210213500 +0100" stop="20151210224000 +0100">
     <length units="minutes">65</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -1312,7 +1072,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211024000 +0100" stop="20151211042500 +0100">
+  <programme channel="burger" start="20151210224000 +0100" stop="20151211002500 +0100">
     <length units="minutes">105</length>
     <title>Witness (?)</title>
     <category>Film</category>
@@ -1330,7 +1090,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211042500 +0100" stop="20151211062500 +0100">
+  <programme channel="burger" start="20151211002500 +0100" stop="20151211022500 +0100">
     <length units="minutes">120</length>
     <title>Terreur sur la ligne (?)</title>
     <category>Film</category>
@@ -1348,42 +1108,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211062500 +0100" stop="20151211064500 +0100">
+  <programme channel="burger" start="20151211022500 +0100" stop="20151211024500 +0100">
     <length units="minutes">20</length>
     <title>Rendez-vous fatal</title>
     <category>Documentaire</category>
     <desc>Un sourire trompeur Après un divorce tumultueux, une mère célibataire accepte l'invitation d'un homme, qui se montre parfaitement courtois mais cache une... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211064500 +0100" stop="20151211071000 +0100">
+  <programme channel="burger" start="20151211024500 +0100" stop="20151211031000 +0100">
     <length units="minutes">25</length>
     <title>Rendez-vous fatal</title>
     <category>Documentaire</category>
     <desc>Séduction sur la toile Un homme tombe amoureux d'une jeune femme sur un site de rencontre et lui donne rendez-vous, mais lorsqu'il arrive chez elle, sa vie... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211071000 +0100" stop="20151211073500 +0100">
+  <programme channel="burger" start="20151211031000 +0100" stop="20151211033500 +0100">
     <length units="minutes">25</length>
     <title>Rendez-vous fatal</title>
     <category>Documentaire</category>
     <desc>L'autoroute de l'enfer Un rendez-vous galant tourne à l'horreur lorsqu'une jeune adolescente se retrouve enfermée dans une voiture en compagnie d'un homme... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211073500 +0100" stop="20151211075500 +0100">
+  <programme channel="burger" start="20151211033500 +0100" stop="20151211035500 +0100">
     <length units="minutes">20</length>
     <title>Rendez-vous fatal</title>
     <category>Documentaire</category>
     <desc>Piège à touristes Une jolie jeune femme passe des vacances exceptionnelles à Rome et accepte un rendez-vous avec un bel Italien, qui se révèle être un violent... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211075500 +0100" stop="20151211133000 +0100">
+  <programme channel="burger" start="20151211035500 +0100" stop="20151211093000 +0100">
     <length units="minutes">335</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211133000 +0100" stop="20151211151000 +0100">
+  <programme channel="burger" start="20151211093000 +0100" stop="20151211111000 +0100">
     <length units="minutes">100</length>
     <title>Téva boutique</title>
     <category>Magazine</category>
@@ -1394,7 +1154,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211151000 +0100" stop="20151211164500 +0100">
+  <programme channel="burger" start="20151211111000 +0100" stop="20151211124500 +0100">
     <length units="minutes">95</length>
     <title>Une nouvelle vie</title>
     <category>Téléfilm</category>
@@ -1412,7 +1172,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211164500 +0100" stop="20151211182000 +0100">
+  <programme channel="burger" start="20151211124500 +0100" stop="20151211142000 +0100">
     <length units="minutes">95</length>
     <title>Monsieur Décembre</title>
     <category>Téléfilm</category>
@@ -1430,7 +1190,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211182000 +0100" stop="20151211200000 +0100">
+  <programme channel="burger" start="20151211142000 +0100" stop="20151211160000 +0100">
     <length units="minutes">100</length>
     <title>Mon Père Noël bien aimé</title>
     <category>Téléfilm</category>
@@ -1448,7 +1208,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211200000 +0100" stop="20151211213500 +0100">
+  <programme channel="burger" start="20151211160000 +0100" stop="20151211173500 +0100">
     <length units="minutes">95</length>
     <title>Autant en emporte Noël</title>
     <category>Téléfilm</category>
@@ -1466,7 +1226,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211213500 +0100" stop="20151211222500 +0100">
+  <programme channel="burger" start="20151211173500 +0100" stop="20151211182500 +0100">
     <length units="minutes">50</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -1485,7 +1245,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211222500 +0100" stop="20151211231000 +0100">
+  <programme channel="burger" start="20151211182500 +0100" stop="20151211191000 +0100">
     <length units="minutes">45</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -1503,7 +1263,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211231000 +0100" stop="20151212000500 +0100">
+  <programme channel="burger" start="20151211191000 +0100" stop="20151211200500 +0100">
     <length units="minutes">55</length>
     <title>Dawson</title>
     <category>Série</category>
@@ -1522,7 +1282,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212000500 +0100" stop="20151212004500 +0100">
+  <programme channel="burger" start="20151211200500 +0100" stop="20151211204500 +0100">
     <length units="minutes">40</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -1541,7 +1301,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212004500 +0100" stop="20151212013500 +0100">
+  <programme channel="burger" start="20151211204500 +0100" stop="20151211213500 +0100">
     <length units="minutes">50</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -1560,7 +1320,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212013500 +0100" stop="20151212024000 +0100">
+  <programme channel="burger" start="20151211213500 +0100" stop="20151211224000 +0100">
     <length units="minutes">65</length>
     <title>Drop Dead Diva</title>
     <category>Série</category>
@@ -1579,50 +1339,50 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212024000 +0100" stop="20151212044000 +0100">
+  <programme channel="burger" start="20151211224000 +0100" stop="20151212004000 +0100">
     <length units="minutes">120</length>
     <title>Passions criminelles</title>
     <category>Magazine</category>
     <desc>Faux coupable / Au-dessus de tout soupçon Au sommaire : Faux coupable - Le 12 août 1991, un gendarme découvre le corps nu, visiblement roué de coups, de Valérie Bechtel, 20 ans. Chez ses... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212044000 +0100" stop="20151212064500 +0100">
+  <programme channel="burger" start="20151212004000 +0100" stop="20151212024500 +0100">
     <length units="minutes">125</length>
     <title>Passions criminelles</title>
     <category>Magazine</category>
     <desc>Mystérieux meurtre sur la Côte d'Azur : l'affaire Dalmasso / Au-dessus de tout soupçon : l'affaire Evelyne Boucher Au sommaire : Mystérieux meurtre sur la Côte d'Azur : l'affaire Dalmasso - Nice, le 2 septembre 2003. Christophe Dalmasso, un riche homme... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212064500 +0100" stop="20151212083500 +0100">
+  <programme channel="burger" start="20151212024500 +0100" stop="20151212043500 +0100">
     <length units="minutes">110</length>
     <title>Passions criminelles</title>
     <category>Magazine</category>
-    <desc>Le mystère du couple disparu / Le meurtre de la riche héritière Au sommaire : Affaire Virey : le mystère du couple disparu. A Pont d'Ain, le 28 juin 1996, un garçon de 11 ans, seul à la maison avec son frère... (Lire la suite).(n)</desc>
+    <desc>Le mystère du couple disparu / Le meurtre de la riche héritière Au sommaire : Affaire Virey : le mystère du couple disparu. A Pont d'Ain, le 28 juin 1996, un garçon de 11 ans, seul à la maison avec son frère... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212083500 +0100" stop="20151212133500 +0100">
+  <programme channel="burger" start="20151212043500 +0100" stop="20151212093500 +0100">
     <length units="minutes">300</length>
     <title>Programmes de la nuit</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212133500 +0100" stop="20151212151000 +0100">
+  <programme channel="burger" start="20151212093500 +0100" stop="20151212111000 +0100">
     <length units="minutes">95</length>
     <title>Téva boutique</title>
     <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Pierre Dhostel,</name>
       <name function="presenter">Valérie Pascale</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212151000 +0100" stop="20151212165000 +0100">
+  <programme channel="burger" start="20151212111000 +0100" stop="20151212125000 +0100">
     <length units="minutes">100</length>
     <title>Une famille sur les bras !</title>
     <category>Téléfilm</category>
-    <desc>Isabelle, une jeune femme brillante, vient d'être nommée rédactrice en chef d'un magazine féminin. Alors qu'elle fête sa promotion, elle apprend... (Lire la suite).(n)</desc>
+    <desc>Isabelle, une jeune femme brillante, vient d'être nommée rédactrice en chef d'un magazine féminin. Alors qu'elle fête sa promotion, elle apprend... (Lire la suite).</desc>
     <credits>
       <name function="director">Christine Kabisch</name>
       <name function="actor">Ellen Schulz</name>
@@ -1636,11 +1396,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212165000 +0100" stop="20151212182500 +0100">
+  <programme channel="burger" start="20151212125000 +0100" stop="20151212142500 +0100">
     <length units="minutes">95</length>
     <title>L'ange de Noël</title>
     <category>Téléfilm</category>
-    <desc>Carrie mène une brillante carrière dans l'événementiel même si la concurrence est rude et que sa plus grande rivale cherche à lui voler des... (Lire la suite).(n)</desc>
+    <desc>Carrie mène une brillante carrière dans l'événementiel même si la concurrence est rude et que sa plus grande rivale cherche à lui voler des... (Lire la suite).</desc>
     <credits>
       <name function="director">John Bradshaw</name>
       <name function="actor">Barbara Gordon</name>
@@ -1654,11 +1414,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212182500 +0100" stop="20151212200000 +0100">
+  <programme channel="burger" start="20151212142500 +0100" stop="20151212160000 +0100">
     <length units="minutes">95</length>
     <title>La magie de Noël</title>
     <category>Téléfilm</category>
-    <desc>Vice-présidente d'une agence de publicité, Elizabeth ne vit que pour son métier, au grand dam de sa soeur et de son neveu, qui se désespèrent... (Lire la suite).(n)</desc>
+    <desc>Vice-présidente d'une agence de publicité, Elizabeth ne vit que pour son métier, au grand dam de sa soeur et de son neveu, qui se désespèrent... (Lire la suite).</desc>
     <credits>
       <name function="director">Fred Olen Ray</name>
       <name function="actor">Tom Arnold</name>
@@ -1672,11 +1432,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212200000 +0100" stop="20151212215500 +0100">
+  <programme channel="burger" start="20151212160000 +0100" stop="20151212175500 +0100">
     <length units="minutes">115</length>
     <title>La mère Noël</title>
     <category>Téléfilm</category>
-    <desc>Injustement accusée de détournement de fonds et condamnée à trois ans de prison, Klaudia choisit la fuite pour prouver son innocence. Persuadée... (Lire la suite).(n)</desc>
+    <desc>Injustement accusée de détournement de fonds et condamnée à trois ans de prison, Klaudia choisit la fuite pour prouver son innocence. Persuadée... (Lire la suite).</desc>
     <credits>
       <name function="director">Gabi Kubach</name>
       <name function="actor">Helmut Berger</name>
@@ -1690,11 +1450,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212215500 +0100" stop="20151212234000 +0100">
+  <programme channel="burger" start="20151212175500 +0100" stop="20151212194000 +0100">
     <length units="minutes">105</length>
     <title>Dans la peau du Père Noël</title>
     <category>Téléfilm</category>
-    <desc>Eddie Bennett est un petit escroc qui, déguisé en Père Noël, se fait souvent courser par la police. Sam Wells est un senior de 70 ans à la santé... (Lire la suite).(n)</desc>
+    <desc>Eddie Bennett est un petit escroc qui, déguisé en Père Noël, se fait souvent courser par la police. Sam Wells est un senior de 70 ans à la santé... (Lire la suite).</desc>
     <credits>
       <name function="director">Paul Lynch</name>
       <name function="actor">Cedric Smith</name>
@@ -1708,53 +1468,272 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212234000 +0100" stop="20151213004000 +0100">
+  <programme channel="burger" start="20151212194000 +0100" stop="20151212204000 +0100">
     <length units="minutes">60</length>
     <title>SOS Tabatha</title>
     <category>Téléréalité</category>
-    <desc>Tabatha, hair-styliste au franc-parler redoutable, doit empêcher la fermeture de salons proches du dépôt de bilan, une tâche qu'elle accomplit... (Lire la suite).(n)</desc>
+    <desc>Tabatha, hair-styliste au franc-parler redoutable, doit empêcher la fermeture de salons proches du dépôt de bilan, une tâche qu'elle accomplit... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Tabatha Coffey</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213004000 +0100" stop="20151213013500 +0100">
+  <programme channel="burger" start="20151212204000 +0100" stop="20151212213500 +0100">
     <length units="minutes">55</length>
     <title>SOS Tabatha</title>
     <category>Téléréalité</category>
-    <desc>Janeen Nufer a investi toutes ses économies et celles de sa mère pour ouvrir le «Earth, Moon, Sun», à Western Springs dans l'Illinois. Sa soeur,... (Lire la suite).(n)</desc>
+    <desc>Janeen Nufer a investi toutes ses économies et celles de sa mère pour ouvrir le «Earth, Moon, Sun», à Western Springs dans l'Illinois. Sa soeur,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Tabatha Coffey</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213013500 +0100" stop="20151213024000 +0100">
+  <programme channel="burger" start="20151212213500 +0100" stop="20151212224000 +0100">
     <length units="minutes">65</length>
     <title>SOS Tabatha</title>
     <category>Téléréalité</category>
-    <desc>Robert Moreno et Jody Garcia ont ouvert le salon «Tantrum», à Covina, en Californie, il y a cinq ans. Mais Jody s'est mariée et a eu deux... (Lire la suite).(n)</desc>
+    <desc>Robert Moreno et Jody Garcia ont ouvert le salon «Tantrum», à Covina, en Californie, il y a cinq ans. Mais Jody s'est mariée et a eu deux... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Tabatha Coffey</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213024000 +0100" stop="20151213044000 +0100">
+  <programme channel="burger" start="20151212224000 +0100" stop="20151213004000 +0100">
     <length units="minutes">120</length>
     <title>Les dossiers de Téva</title>
     <category>Magazine</category>
-    <desc>Certains bébés viennent au monde à une date très spéciale : le 24 ou le 25 décembre, comme un cadeau de Noël. Quand le mystère de Noël se... (Lire la suite).(n)</desc>
+    <desc>Certains bébés viennent au monde à une date très spéciale : le 24 ou le 25 décembre, comme un cadeau de Noël. Quand le mystère de Noël se... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Marielle Fournier</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213044000 +0100" stop="20151213063500 +0100">
+  <programme channel="burger" start="20151213004000 +0100" stop="20151213023500 +0100">
     <length units="minutes">115</length>
     <title>Les dossiers de Téva</title>
     <category>Magazine</category>
-    <desc>Les parents qui élèvent 6, 7 ou 13 enfants ont l'habitude de tout voir en grand à longueur d'année. Alors, quand les fêtes de Noël approchent,... (Lire la suite).(n)</desc>
+    <desc>Les parents qui élèvent 6, 7 ou 13 enfants ont l'habitude de tout voir en grand à longueur d'année. Alors, quand les fêtes de Noël approchent,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Marielle Fournier</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213023500 +0100" stop="20151213043000 +0100">
+    <length units="minutes">115</length>
+    <title>Les dossiers de Téva</title>
+    <category>Magazine</category>
+    <desc>Tous les 5 ans, des retrouvailles sont organisées par la famille Matossian. Or, ses membres sont éparpillés dans maints pays d'Europe. Une fête... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Marielle Fournier</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213043000 +0100" stop="20151213090000 +0100">
+    <length units="minutes">270</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213090000 +0100" stop="20151213100500 +0100">
+    <length units="minutes">65</length>
+    <title>Téva boutique</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Pierre Dhostel,</name>
+      <name function="presenter">Valérie Pascale</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213100500 +0100" stop="20151213123000 +0100">
+    <length units="minutes">145</length>
+    <title>D&amp;CO, une semaine pour tout changer</title>
+    <category>Magazine</category>
+    <desc>En 1995, Laurence et son compagnon ont acquis une bâtisse située dans un village picard. Désormais séparée de son compagnon et sans travail,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Valérie Damidot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213123000 +0100" stop="20151213130000 +0100">
+    <length units="minutes">30</length>
+    <title>Magnifique by Cristina</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Cristina Cordula</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213130000 +0100" stop="20151213133000 +0100">
+    <length units="minutes">30</length>
+    <title>Magnifique by Cristina</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Cristina Cordula</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213133000 +0100" stop="20151213142000 +0100">
+    <length units="minutes">50</length>
+    <title>Téva déco</title>
+    <category>Magazine</category>
+    <desc>Au sommaire : (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Cendrine Dominguez</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213142000 +0100" stop="20151213150500 +0100">
+    <length units="minutes">45</length>
+    <title>Le gâteau de mes rêves</title>
+    <category>Magazine</category>
+    <desc>Plutôt qu'une tarte au citron classique, Christophe réalise un sablé breton à la pistache, surmonté d'une crème à l'orange et de quenelles de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Christophe Adam,</name>
+      <name function="presenter">Jonathan Blot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213150500 +0100" stop="20151213164000 +0100">
+    <length units="minutes">95</length>
+    <title>La parade de Noël</title>
+    <category>Téléfilm</category>
+    <desc>Emily Jones, directrice des opérations à Chicago, s'occupe chaque année d'organiser la grande parade de Thanksgiving. Elle attend avec impatience... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Ron Oliver</name>
+      <name function="actor">David Hovan</name>
+      <name function="actor">April Telek</name>
+      <name function="actor">Ben Cotton</name>
+      <name function="actor">Alvin Sanders</name>
+      <name function="actor">Antonio Cupo</name>
+      <name function="actor">Autumn Reeser</name>
+      <name function="actor">Ali Liebert</name>
+      <name function="actor">Barbara Kottmeier</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213164000 +0100" stop="20151213183000 +0100">
+    <length units="minutes">110</length>
+    <title>Autant en emporte Noël</title>
+    <category>Téléfilm</category>
+    <desc>Divorcée, Katherine vit seule à New York avec son fils Zack, 8 ans, qui voit peu sa mère, complètement absorbée par son travail. Pour se... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Leslie Hope</name>
+      <name function="actor">Randy Travis</name>
+      <name function="actor">Hilarie Burton</name>
+      <name function="actor">Tyler Hilton</name>
+      <name function="actor">Samantha Beaulieu</name>
+      <name function="actor">Brody Rose</name>
+      <name function="actor">Ariane Neal</name>
+      <name function="actor">Edward Asner</name>
+      <name function="actor">Markie Post</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213183000 +0100" stop="20151213201500 +0100">
+    <length units="minutes">105</length>
+    <title>A la recherche du Père Noël</title>
+    <category>Téléfilm</category>
+    <desc>Calvin Carter a repris l'affaire de son père et l'a transformé en un magasin de vente au rabais qui rencontre un vif succès. Même si son mariage... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Martha Coolidge</name>
+      <name function="actor">Chad Willett</name>
+      <name function="actor">Patricia Velasquez</name>
+      <name function="actor">Molly Shannon</name>
+      <name function="actor">Vincent Gale</name>
+      <name function="actor">Teryl Rothery</name>
+      <name function="actor">Steven Weber</name>
+      <name function="actor">Stefanie von Pfetten</name>
+      <name function="actor">Mark Krysko</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213201500 +0100" stop="20151213224000 +0100">
+    <length units="minutes">145</length>
+    <title>D&amp;CO, une semaine pour tout changer</title>
+    <category>Magazine</category>
+    <desc>En 2010, Sylvain et Karine ont acheté un corps de ferme pour le transformer et y vivre avec leurs trois enfants. Mais le prêt pour financer les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Valérie Damidot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213224000 +0100" stop="20151213233000 +0100">
+    <length units="minutes">50</length>
+    <title>The Good Wife</title>
+    <category>Série</category>
+    <desc>Au tribunal, Alicia retrouve une ancienne connaissance, Elsbeth Tascioni. Dean et elle défendent une femme qui attaque sa société pour... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Fred Toye</name>
+      <name function="actor">Christine Baranski</name>
+      <name function="actor">Julianna Margulies</name>
+      <name function="actor">Carrie Preston</name>
+      <name function="actor">Taye Diggs</name>
+      <name function="actor">Archie Panjabi</name>
+      <name function="actor">Matthew Goode</name>
+      <name function="actor">Alan Cumming</name>
+      <name function="actor">Matt Czuchry</name>
+      <name function="writer">Keith Eisner</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213233000 +0100" stop="20151214002000 +0100">
+    <length units="minutes">50</length>
+    <title>The Good Wife</title>
+    <category>Série</category>
+    <desc>Suite à l'intervention de Josh Perotti lors du procès opposant Alicia à Elsbeth Tascioni, les deux femmes doivent désormais faire face ensemble... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">James Whitmore Jr</name>
+      <name function="actor">Christine Baranski</name>
+      <name function="actor">Michael J Fox</name>
+      <name function="actor">Kyle MacLachlan</name>
+      <name function="actor">Julianna Margulies</name>
+      <name function="actor">Carrie Preston</name>
+      <name function="actor">Archie Panjabi</name>
+      <name function="actor">Alan Cumming</name>
+      <name function="actor">Matt Czuchry</name>
+      <name function="writer">Robert King</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151214002000 +0100" stop="20151214010500 +0100">
+    <length units="minutes">45</length>
+    <title>The Good Wife</title>
+    <category>Série</category>
+    <desc>Cary, sorti de prison, est en liberté provisoire jusqu'au procès. Toutefois, suite à la disparition du témoin clé, le procureur demande la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Brooke Kennedy</name>
+      <name function="actor">Christine Baranski</name>
+      <name function="actor">Julianna Margulies</name>
+      <name function="actor">Zach Grenier</name>
+      <name function="actor">Taye Diggs</name>
+      <name function="actor">Archie Panjabi</name>
+      <name function="actor">Matthew Goode</name>
+      <name function="actor">Alan Cumming</name>
+      <name function="actor">Matt Czuchry</name>
+      <name function="writer">Luke Schelhaas</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151214010500 +0100" stop="20151214020000 +0100">
+    <length units="minutes">55</length>
+    <title>The Good Wife</title>
+    <category>Série</category>
+    <desc>Alicia réfléchit désormais sérieusement à se présenter au poste de procureur. Afin de s'y préparer, elle rencontre Eli, ainsi que son directeur... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Matt Shakman</name>
+      <name function="actor">Christine Baranski</name>
+      <name function="actor">Julianna Margulies</name>
+      <name function="actor">Zach Grenier</name>
+      <name function="actor">Archie Panjabi</name>
+      <name function="actor">Steven Pasquale</name>
+      <name function="actor">Alan Cumming</name>
+      <name function="actor">Matt Czuchry</name>
+      <name function="actor">Mike Colter</name>
+      <name function="writer">Robert King</name>
     </credits>
     <image />
   </programme>

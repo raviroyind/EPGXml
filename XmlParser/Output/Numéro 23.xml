@@ -1,435 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Numéro 23">
-    <display-name>MTV</display-name>
+    <display-name>burger</display-name>
   </channel>
-  <programme channel="MTV" start="20151206062500 +0100" stop="20151206072000 +0100">
-    <length units="minutes">55</length>
-    <title>Orphan Black</title>
-    <category>Série</category>
-    <desc>Depuis qu'elle sait la vie de Kira menacée, Sarah est sur le sentier de guerre. Mais le Dr Leekie parvient à la convaincre de temporiser sa... (Lire la suite).</desc>
-    <credits>
-      <name function="director">TJ Scott</name>
-      <name function="actor">Maria Doyle Kennedy</name>
-      <name function="actor">Tatiana Maslany</name>
-      <name function="actor">Inga Cadranel</name>
-      <name function="actor">Kevin Hanchard</name>
-      <name function="actor">Jordan Gavaris</name>
-      <name function="actor">Dylan Bruce</name>
-      <name function="actor">Skyler Wexler</name>
-      <name function="actor">Kristian Bruun</name>
-      <name function="writer">Alex Levine</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206072000 +0100" stop="20151206081500 +0100">
-    <length units="minutes">55</length>
-    <title>Orphan Black</title>
-    <category>Série</category>
-    <desc>La guerre avec Dyade est quasimment perdue, quand le dernier stratagème de Rachel oblige une Sarah affaiblie à céder. Le club des clones passe à... (Lire la suite).</desc>
-    <credits>
-      <name function="director">John Fawcett</name>
-      <name function="actor">Maria Doyle Kennedy</name>
-      <name function="actor">Tatiana Maslany</name>
-      <name function="actor">Inga Cadranel</name>
-      <name function="actor">Kevin Hanchard</name>
-      <name function="actor">Jordan Gavaris</name>
-      <name function="actor">Dylan Bruce</name>
-      <name function="actor">Skyler Wexler</name>
-      <name function="actor">Kristian Bruun</name>
-      <name function="writer">John Fawcett</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206081500 +0100" stop="20151206091500 +0100">
-    <length units="minutes">60</length>
-    <title>Shameless *2011</title>
-    <category>Série</category>
-    <desc>Installé chez les Gallagher, Jimmy s'occupe des enfants pendant que Fiona travaille dans une entreprise de nettoyage. La jeune femme a du mal à... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Mark Mylod</name>
-      <name function="actor">William H Macy</name>
-      <name function="actor">Joan Cusack</name>
-      <name function="actor">Emmy Rossum</name>
-      <name function="actor">Justin Chatwin</name>
-      <name function="actor">Shanola Hampton</name>
-      <name function="actor">Ethan Cutkosky</name>
-      <name function="actor">Emma Kenney</name>
-      <name function="actor">Jeremy Allen White</name>
-      <name function="writer">John Wells</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206091500 +0100" stop="20151206095000 +0100">
-    <length units="minutes">35</length>
-    <title>Shameless *2011</title>
-    <category>Série</category>
-    <desc>Fiona doit s'endetter pour organiser sa première soirée au club. Le père d'Estefania fait appel à Beto, un homme de main, pour suivre Jimmy dans... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Anthony Hemingway</name>
-      <name function="actor">William H Macy</name>
-      <name function="actor">Emmy Rossum</name>
-      <name function="actor">Justin Chatwin</name>
-      <name function="actor">Bernardo de Paula</name>
-      <name function="actor">Emma Kenney</name>
-      <name function="actor">Jeremy Allen White</name>
-      <name function="actor">Stephanie Fantauzzi</name>
-      <name function="actor">Emma Greenwell</name>
-      <name function="writer">John Wells</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206095000 +0100" stop="20151206101500 +0100">
-    <length units="minutes">25</length>
-    <title>Baie des flamboyants</title>
-    <category>Feuilleton</category>
-    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Gérard Espinasse</name>
-      <name function="actor">Tanya Saint-Val</name>
-      <name function="actor">Lukas Delcourt</name>
-      <name function="actor">Emilie Minatchy</name>
-      <name function="actor">Auriana Annonay</name>
-      <name function="actor">Anthony Le Mouroux</name>
-      <name function="actor">Benjamin Rovello</name>
-      <name function="actor">Morane Juin</name>
-      <name function="actor">Laure Guibert</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206101500 +0100" stop="20151206104000 +0100">
-    <length units="minutes">25</length>
-    <title>Baie des flamboyants</title>
-    <category>Feuilleton</category>
-    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Gérard Espinasse</name>
-      <name function="actor">Tanya Saint-Val</name>
-      <name function="actor">Lukas Delcourt</name>
-      <name function="actor">Emilie Minatchy</name>
-      <name function="actor">Auriana Annonay</name>
-      <name function="actor">Anthony Le Mouroux</name>
-      <name function="actor">Benjamin Rovello</name>
-      <name function="actor">Morane Juin</name>
-      <name function="actor">Laure Guibert</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206104000 +0100" stop="20151206110500 +0100">
-    <length units="minutes">25</length>
-    <title>Baie des flamboyants</title>
-    <category>Feuilleton</category>
-    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Gérard Espinasse</name>
-      <name function="actor">Tanya Saint-Val</name>
-      <name function="actor">Lukas Delcourt</name>
-      <name function="actor">Emilie Minatchy</name>
-      <name function="actor">Auriana Annonay</name>
-      <name function="actor">Anthony Le Mouroux</name>
-      <name function="actor">Benjamin Rovello</name>
-      <name function="actor">Morane Juin</name>
-      <name function="actor">Laure Guibert</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206110500 +0100" stop="20151206113000 +0100">
-    <length units="minutes">25</length>
-    <title>Baie des flamboyants</title>
-    <category>Feuilleton</category>
-    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Gérard Espinasse</name>
-      <name function="actor">Tanya Saint-Val</name>
-      <name function="actor">Lukas Delcourt</name>
-      <name function="actor">Emilie Minatchy</name>
-      <name function="actor">Auriana Annonay</name>
-      <name function="actor">Anthony Le Mouroux</name>
-      <name function="actor">Benjamin Rovello</name>
-      <name function="actor">Morane Juin</name>
-      <name function="actor">Laure Guibert</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206113000 +0100" stop="20151206115000 +0100">
-    <length units="minutes">20</length>
-    <title>Baie des flamboyants</title>
-    <category>Feuilleton</category>
-    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Gérard Espinasse</name>
-      <name function="actor">Emilie Minatchy</name>
-      <name function="actor">Auriana Annonay</name>
-      <name function="actor">Anthony Le Mouroux</name>
-      <name function="actor">Benjamin Rovello</name>
-      <name function="actor">Morane Juin</name>
-      <name function="actor">Franck Soyez</name>
-      <name function="actor">Sévy Vilette</name>
-      <name function="actor">Greg Germain</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206115000 +0100" stop="20151206125500 +0100">
-    <length units="minutes">65</length>
-    <title>Ça fait débat</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206125500 +0100" stop="20151206140500 +0100">
-    <length units="minutes">70</length>
-    <title>The Killing</title>
-    <category>Série</category>
-    <desc>Tandis que Jan et Sarah poursuivent leur enquête sur Rama, un professeur d'un lycée de la ville, Troels, jeune candidat à la mairie de... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Kristoffer Nyholm</name>
-      <name function="actor">Sofie Grabol</name>
-      <name function="actor">Bjarne Henriksen</name>
-      <name function="actor">Lars Mikkelsen</name>
-      <name function="actor">Ann Eleonora Jorgensen</name>
-      <name function="actor">Farshad Kholghi</name>
-      <name function="actor">Soren Malling</name>
-      <name function="actor">Cyron Bjorn Melville</name>
-      <name function="actor">Marie Askehave</name>
-      <name function="writer">Soren Sveistrup</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206140500 +0100" stop="20151206151500 +0100">
-    <length units="minutes">70</length>
-    <title>The Killing</title>
-    <category>Série</category>
-    <desc>Le retour de Sarah met fin aux ambitions de Jan, qui espérait continuer à diriger les investigations. Plus que jamais déterminée à découvrir la... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Kristoffer Nyholm</name>
-      <name function="actor">Sofie Grabol</name>
-      <name function="actor">Bjarne Henriksen</name>
-      <name function="actor">Lars Mikkelsen</name>
-      <name function="actor">Farshad Kholghi</name>
-      <name function="actor">Soren Malling</name>
-      <name function="actor">Cyron Bjorn Melville</name>
-      <name function="actor">Julie R Olgaard</name>
-      <name function="actor">Johan Gry</name>
-      <name function="writer">Soren Sveistrup</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206151500 +0100" stop="20151206162000 +0100">
-    <length units="minutes">65</length>
-    <title>The Killing</title>
-    <category>Série</category>
-    <desc>Avec l'aide de l'imam local, les policiers découvrent de nouveaux indices au domicile d'un proche de Rama, qui confortent les soupçons contre... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Kristoffer Nyholm</name>
-      <name function="actor">Sofie Grabol</name>
-      <name function="actor">Bjarne Henriksen</name>
-      <name function="actor">Lars Mikkelsen</name>
-      <name function="actor">Ann Eleonora Jorgensen</name>
-      <name function="actor">Farshad Kholghi</name>
-      <name function="actor">Soren Malling</name>
-      <name function="actor">Cyron Bjorn Melville</name>
-      <name function="actor">Johan Gry</name>
-      <name function="writer">Soren Sveistrup</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206162000 +0100" stop="20151206171500 +0100">
-    <length units="minutes">55</length>
-    <title>Rescue unité spéciale</title>
-    <category>Série</category>
-    <desc>L'unité spéciale est embrigadée dans une affaire de règlement de compte entre un gang de motards et un écrivain pour le moins farfelu. Lancés à... (Lire la suite).</desc>
-    <credits>
-      <name function="actor">David Field</name>
-      <name function="actor">Kim Hillas</name>
-      <name function="actor">Gigi Edgley</name>
-      <name function="actor">Katherine Hicks</name>
-      <name function="actor">Les Hill</name>
-      <name function="actor">Daniel Amalm</name>
-      <name function="actor">Peter Corbett</name>
-      <name function="actor">Luke McKenzie</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206171500 +0100" stop="20151206181000 +0100">
-    <length units="minutes">55</length>
-    <title>Rescue unité spéciale</title>
-    <category>Série</category>
-    <desc>L'équipe est appelée au musée où un agent d'entretien s'est empalé sur une des oeuvres exposées. Heidi et Jordan portent secours à une femme... (Lire la suite).</desc>
-    <credits>
-      <name function="actor">Libby Tanner</name>
-      <name function="actor">Peter Phelps</name>
-      <name function="actor">Gigi Edgley</name>
-      <name function="actor">Katherine Hicks</name>
-      <name function="actor">Les Hill</name>
-      <name function="actor">Daniel Amalm</name>
-      <name function="actor">Andrew Lees</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206181000 +0100" stop="20151206184500 +0100">
-    <length units="minutes">35</length>
-    <title>Rocking Chair</title>
-    <category>Talk show</category>
-    <desc>Dans ce nouveau numéro, Bruno de Stabenrath reçoit Passi, le célèbre chanteur, qui s'est fait connaître grâce au Ministère A.M.E.R, un collectif... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Bruno de Stabenrath</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206184500 +0100" stop="20151206203000 +0100">
-    <length units="minutes">105</length>
-    <title>Révélations</title>
-    <category>Magazine</category>
-    <desc>Avec 62 millions d'animaux domestiques, la France détient le record d'Europe. Mais les chats et les chiens ne sont plus les seuls compagnons des... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Yasmine Oughlis</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206203000 +0100" stop="20151206212500 +0100">
-    <length units="minutes">55</length>
-    <title>Demain à la une</title>
-    <category>Série</category>
-    <desc>Gary aide un ancien policier, qui a sombré dans la folie après la mort de son coéquipier, dix ans plus tôt. Aujourd'hui, il se prend pour Bat... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Rick Wallace</name>
-      <name function="actor">Philip Bosco</name>
-      <name function="actor">Fisher Stevens</name>
-      <name function="actor">Kyle Chandler</name>
-      <name function="actor">Joan McMurtrey</name>
-      <name function="actor">Shanesia Davis-Williams</name>
-      <name function="writer">Dusty Kay</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206212500 +0100" stop="20151206222000 +0100">
-    <length units="minutes">55</length>
-    <title>Demain à la une</title>
-    <category>Série</category>
-    <desc>Gary est nommé juré dans un tribunal et doit s'occuper d'une affaire d'escroquerie. Il s'inquiète de toutes les personnes qu'il ne peut pas... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Stephen Cragg</name>
-      <name function="actor">Mike Starr</name>
-      <name function="actor">Kevin McCarthy</name>
-      <name function="actor">Fisher Stevens</name>
-      <name function="actor">Holly Fulger</name>
-      <name function="actor">Kyle Chandler</name>
-      <name function="actor">Shanesia Davis-Williams</name>
-      <name function="actor">Jay Harik</name>
-      <name function="writer">Norman Morrill</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206222000 +0100" stop="20151206231000 +0100">
-    <length units="minutes">50</length>
-    <title>Demain à la une</title>
-    <category>Série</category>
-    <desc>Gary sauve la vie d'une jeune femme, Claire, et découvre qu'elle a des dons de voyance. Claire lui propose de faire équipe avec lui afin de... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Mel Damski</name>
-      <name function="actor">Fisher Stevens</name>
-      <name function="actor">Kyle Chandler</name>
-      <name function="actor">Kathy Najimy</name>
-      <name function="actor">Christine Dunford</name>
-      <name function="actor">Shanesia Davis-Williams</name>
-      <name function="actor">Gerard Prendergast</name>
-      <name function="actor">Jennifer Anglin</name>
-      <name function="actor">Sarah Underwood</name>
-      <name function="writer">Alex Taub</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206231000 +0100" stop="20151207000500 +0100">
-    <length units="minutes">55</length>
-    <title>Lost Girl</title>
-    <category>Série</category>
-    <desc>Bo, Dyson, Kenzi, Hale, Trick, Ciara et Lauren se retrouvent au Dal. Un prisonnier en cavale, poursuivi par un chasseur de Fae, les y attend. Il... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Paul Fox</name>
-      <name function="actor">Richard Howland</name>
-      <name function="actor">Ksenia Solo</name>
-      <name function="actor">Zoie Palmer</name>
-      <name function="actor">Anna Silk</name>
-      <name function="actor">Kristen Holden-Ried</name>
-      <name function="actor">Lina Roessler</name>
-      <name function="actor">KC Collins</name>
-      <name function="actor">Vincent Walsh</name>
-      <name function="writer">Emily Andras</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207000500 +0100" stop="20151207010000 +0100">
-    <length units="minutes">55</length>
-    <title>Lost Girl</title>
-    <category>Série</category>
-    <desc>Bo intervient auprès d'un homme qui a utilisé l'équivalent de stéroïdes issus du monde magique pour améliorer ses performances. Le compétiteur ne... (Lire la suite).</desc>
-    <credits>
-      <name function="director">David Greene</name>
-      <name function="actor">Richard Howland</name>
-      <name function="actor">Ksenia Solo</name>
-      <name function="actor">Joe Pingue</name>
-      <name function="actor">Zoie Palmer</name>
-      <name function="actor">Anna Silk</name>
-      <name function="actor">Kristen Holden-Ried</name>
-      <name function="actor">KC Collins</name>
-      <name function="actor">Nicholas Bode</name>
-      <name function="writer">Jeremy Boxen</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207010000 +0100" stop="20151207024000 +0100">
-    <length units="minutes">100</length>
-    <title>Révélations</title>
-    <category>Magazine</category>
-    <desc>En France, où trente millions de véhicules circulent chaque jour sur les routes, la délinquance routière reste un problème majeur. Durant... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Yasmine Oughlis</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207024000 +0100" stop="20151207025000 +0100">
-    <length units="minutes">10</length>
-    <title>Là où je t'emmènerai</title>
-    <category>Magazine</category>
-    <desc>Une personnalité invite à découvrir l'endroit où elle rêverait d'emmener un être cher. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207025000 +0100" stop="20151207044000 +0100">
-    <length units="minutes">110</length>
-    <title>Poupoupidou (?)</title>
-    <category>Film</category>
-    <desc>David Rousseau est un auteur de polars à succès. Une affaire d'héritage le ramène à Mouthe, un village du Jura où il a passé son enfance. A la... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Gérald Hustache-Mathieu</name>
-      <name function="actor">Arsinée Khanjian</name>
-      <name function="actor">Olivier Rabourdin</name>
-      <name function="actor">Antoine Chappey</name>
-      <name function="actor">Eric Ruf</name>
-      <name function="actor">Guillaume Gouix</name>
-      <name function="actor">Sophie Quinton</name>
-      <name function="actor">Jean-Paul Rouve</name>
-      <name function="actor">Joséphine de Meaux</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207044000 +0100" stop="20151207061500 +0100">
-    <length units="minutes">95</length>
-    <title>Osama (?)</title>
-    <category>Film</category>
-    <desc>L'Afghanistan au début du règne des talibans. Une jeune fille de 12 ans vit avec son petit frère, sa mère et sa grand-mère. Tous ont réussi à... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Siddiq Barmak</name>
-      <name function="actor">Zubaida Sahar</name>
-      <name function="actor">Mohamad Nader Khadjeh</name>
-      <name function="actor">Gol Rahman Ghorbandi</name>
-      <name function="actor">Hamida Refah</name>
-      <name function="actor">Mohamed Nabi Nawa</name>
-      <name function="actor">Marina Golbahari</name>
-      <name function="actor">Arif Herati</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207061500 +0100" stop="20151207070500 +0100">
+  <programme channel="burger" start="20151207021500 +0100" stop="20151207030500 +0100">
     <length units="minutes">50</length>
     <title>Lost Girl</title>
     <category>Série</category>
@@ -448,7 +22,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207070500 +0100" stop="20151207080000 +0100">
+  <programme channel="burger" start="20151207030500 +0100" stop="20151207040000 +0100">
     <length units="minutes">55</length>
     <title>Lost Girl</title>
     <category>Série</category>
@@ -467,11 +41,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207080000 +0100" stop="20151207085000 +0100">
+  <programme channel="burger" start="20151207040000 +0100" stop="20151207045000 +0100">
     <length units="minutes">50</length>
     <title>Shameless *2011</title>
     <category>Série</category>
-    <desc>L'épouse de Kevin refait surface, au grand dam de Veronica, qui craint un rapprochement. Frank fait croire à Carl qu'il est atteint d'un cancer,... (Lire la suite).(c)</desc>
+    <desc>L'épouse de Kevin refait surface, au grand dam de Veronica, qui craint un rapprochement. Frank fait croire à Carl qu'il est atteint d'un cancer,... (Lire la suite).</desc>
     <credits>
       <name function="director">Steve Shill</name>
       <name function="actor">William H Macy</name>
@@ -486,11 +60,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207085000 +0100" stop="20151207100000 +0100">
+  <programme channel="burger" start="20151207045000 +0100" stop="20151207060000 +0100">
     <length units="minutes">70</length>
     <title>Shameless *2011</title>
     <category>Série</category>
-    <desc>Mandy reçoit un appel de sa jeune demi-soeur Molly, dont la mère vient de mourir. Elle cherche à lui venir en aide. Pendant ce temps, Debbie... (Lire la suite).(c)</desc>
+    <desc>Mandy reçoit un appel de sa jeune demi-soeur Molly, dont la mère vient de mourir. Elle cherche à lui venir en aide. Pendant ce temps, Debbie... (Lire la suite).</desc>
     <credits>
       <name function="director">Randall Einhorn</name>
       <name function="actor">William H Macy</name>
@@ -505,11 +79,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207100000 +0100" stop="20151207102500 +0100">
+  <programme channel="burger" start="20151207060000 +0100" stop="20151207062500 +0100">
     <length units="minutes">25</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
-    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).(c)</desc>
+    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).</desc>
     <credits>
       <name function="director">Gérard Espinasse</name>
       <name function="actor">Tanya Saint-Val</name>
@@ -523,11 +97,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207102500 +0100" stop="20151207105000 +0100">
+  <programme channel="burger" start="20151207062500 +0100" stop="20151207065000 +0100">
     <length units="minutes">25</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
-    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).(c)</desc>
+    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).</desc>
     <credits>
       <name function="director">Gérard Espinasse</name>
       <name function="actor">Tanya Saint-Val</name>
@@ -541,11 +115,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207105000 +0100" stop="20151207111500 +0100">
+  <programme channel="burger" start="20151207065000 +0100" stop="20151207071500 +0100">
     <length units="minutes">25</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
-    <desc>Raphaël prend connaissance des résultats des examens pratiqués par l'ophtalmologiste : une opération serait trop... (Lire la suite).(c)</desc>
+    <desc>Raphaël prend connaissance des résultats des examens pratiqués par l'ophtalmologiste : une opération serait trop... (Lire la suite).</desc>
     <credits>
       <name function="director">Gérard Espinasse</name>
       <name function="actor">Emilie Minatchy</name>
@@ -559,11 +133,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207111500 +0100" stop="20151207114000 +0100">
+  <programme channel="burger" start="20151207071500 +0100" stop="20151207074000 +0100">
     <length units="minutes">25</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
-    <desc>Isa tente de convaincre Arthur de pactiser avec Christian. Ce dernier affirme que rien d'amical ne sera possible entre eux car ils n'ont aucune... (Lire la suite).(c)</desc>
+    <desc>Isa tente de convaincre Arthur de pactiser avec Christian. Ce dernier affirme que rien d'amical ne sera possible entre eux car ils n'ont aucune... (Lire la suite).</desc>
     <credits>
       <name function="director">Gérard Espinasse</name>
       <name function="actor">Emilie Minatchy</name>
@@ -577,11 +151,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207114000 +0100" stop="20151207120000 +0100">
+  <programme channel="burger" start="20151207074000 +0100" stop="20151207080000 +0100">
     <length units="minutes">20</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
-    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).(c)</desc>
+    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).</desc>
     <credits>
       <name function="director">Gérard Espinasse</name>
       <name function="actor">Tanya Saint-Val</name>
@@ -595,7 +169,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207120000 +0100" stop="20151207130500 +0100">
+  <programme channel="burger" start="20151207080000 +0100" stop="20151207090500 +0100">
     <length units="minutes">65</length>
     <title>Africa News Room</title>
     <category>Magazine</category>
@@ -606,7 +180,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207130500 +0100" stop="20151207140500 +0100">
+  <programme channel="burger" start="20151207090500 +0100" stop="20151207100500 +0100">
     <length units="minutes">60</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -624,7 +198,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207140500 +0100" stop="20151207150000 +0100">
+  <programme channel="burger" start="20151207100500 +0100" stop="20151207110000 +0100">
     <length units="minutes">55</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -643,7 +217,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207150000 +0100" stop="20151207155500 +0100">
+  <programme channel="burger" start="20151207110000 +0100" stop="20151207115500 +0100">
     <length units="minutes">55</length>
     <title>Rush</title>
     <category>Série</category>
@@ -662,7 +236,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207155500 +0100" stop="20151207164500 +0100">
+  <programme channel="burger" start="20151207115500 +0100" stop="20151207124500 +0100">
     <length units="minutes">50</length>
     <title>Rush</title>
     <category>Série</category>
@@ -681,7 +255,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207164500 +0100" stop="20151207174000 +0100">
+  <programme channel="burger" start="20151207124500 +0100" stop="20151207134000 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -700,7 +274,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207174000 +0100" stop="20151207183500 +0100">
+  <programme channel="burger" start="20151207134000 +0100" stop="20151207143500 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -719,7 +293,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207183500 +0100" stop="20151207193000 +0100">
+  <programme channel="burger" start="20151207143500 +0100" stop="20151207153000 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -738,7 +312,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207193000 +0100" stop="20151207203000 +0100">
+  <programme channel="burger" start="20151207153000 +0100" stop="20151207163000 +0100">
     <length units="minutes">60</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -757,7 +331,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207203000 +0100" stop="20151207212500 +0100">
+  <programme channel="burger" start="20151207163000 +0100" stop="20151207172500 +0100">
     <length units="minutes">55</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -776,7 +350,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207212500 +0100" stop="20151207222000 +0100">
+  <programme channel="burger" start="20151207172500 +0100" stop="20151207182000 +0100">
     <length units="minutes">55</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -795,7 +369,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207222000 +0100" stop="20151207230000 +0100">
+  <programme channel="burger" start="20151207182000 +0100" stop="20151207190000 +0100">
     <length units="minutes">40</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -814,7 +388,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207230000 +0100" stop="20151208005000 +0100">
+  <programme channel="burger" start="20151207190000 +0100" stop="20151207205000 +0100">
     <length units="minutes">110</length>
     <title>Révélations</title>
     <category>Magazine</category>
@@ -824,7 +398,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208005000 +0100" stop="20151208014500 +0100">
+  <programme channel="burger" start="20151207205000 +0100" stop="20151207214500 +0100">
     <length units="minutes">55</length>
     <title>Face off</title>
     <category>Divertissement</category>
@@ -836,7 +410,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208014500 +0100" stop="20151208025000 +0100">
+  <programme channel="burger" start="20151207214500 +0100" stop="20151207225000 +0100">
     <length units="minutes">65</length>
     <title>Face off</title>
     <category>Divertissement</category>
@@ -848,7 +422,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208025000 +0100" stop="20151208043500 +0100">
+  <programme channel="burger" start="20151207225000 +0100" stop="20151208003500 +0100">
     <length units="minutes">105</length>
     <title>Révélations</title>
     <category>Magazine</category>
@@ -858,7 +432,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208043500 +0100" stop="20151208063000 +0100">
+  <programme channel="burger" start="20151208003500 +0100" stop="20151208023000 +0100">
     <length units="minutes">115</length>
     <title>Révélations</title>
     <category>Magazine</category>
@@ -868,7 +442,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208063000 +0100" stop="20151208072500 +0100">
+  <programme channel="burger" start="20151208023000 +0100" stop="20151208032500 +0100">
     <length units="minutes">55</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -887,7 +461,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208072500 +0100" stop="20151208082500 +0100">
+  <programme channel="burger" start="20151208032500 +0100" stop="20151208042500 +0100">
     <length units="minutes">60</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -905,7 +479,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208082500 +0100" stop="20151208085500 +0100">
+  <programme channel="burger" start="20151208042500 +0100" stop="20151208045500 +0100">
     <length units="minutes">30</length>
     <title>Lost Girl</title>
     <category>Série</category>
@@ -924,7 +498,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208085500 +0100" stop="20151208094500 +0100">
+  <programme channel="burger" start="20151208045500 +0100" stop="20151208054500 +0100">
     <length units="minutes">50</length>
     <title>Lost Girl</title>
     <category>Série</category>
@@ -943,7 +517,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208094500 +0100" stop="20151208104000 +0100">
+  <programme channel="burger" start="20151208054500 +0100" stop="20151208064000 +0100">
     <length units="minutes">55</length>
     <title>Physique ou chimie</title>
     <category>Série</category>
@@ -960,7 +534,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208104000 +0100" stop="20151208110500 +0100">
+  <programme channel="burger" start="20151208064000 +0100" stop="20151208070500 +0100">
     <length units="minutes">25</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
@@ -978,7 +552,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208110500 +0100" stop="20151208113000 +0100">
+  <programme channel="burger" start="20151208070500 +0100" stop="20151208073000 +0100">
     <length units="minutes">25</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
@@ -996,7 +570,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208113000 +0100" stop="20151208120000 +0100">
+  <programme channel="burger" start="20151208073000 +0100" stop="20151208080000 +0100">
     <length units="minutes">30</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
@@ -1014,7 +588,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208120000 +0100" stop="20151208130500 +0100">
+  <programme channel="burger" start="20151208080000 +0100" stop="20151208090500 +0100">
     <length units="minutes">65</length>
     <title>Africa News Room</title>
     <category>Magazine</category>
@@ -1025,7 +599,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208130500 +0100" stop="20151208140500 +0100">
+  <programme channel="burger" start="20151208090500 +0100" stop="20151208100500 +0100">
     <length units="minutes">60</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -1044,7 +618,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208140500 +0100" stop="20151208151000 +0100">
+  <programme channel="burger" start="20151208100500 +0100" stop="20151208111000 +0100">
     <length units="minutes">65</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -1063,7 +637,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208151000 +0100" stop="20151208161000 +0100">
+  <programme channel="burger" start="20151208111000 +0100" stop="20151208121000 +0100">
     <length units="minutes">60</length>
     <title>Rush</title>
     <category>Série</category>
@@ -1082,7 +656,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208161000 +0100" stop="20151208170500 +0100">
+  <programme channel="burger" start="20151208121000 +0100" stop="20151208130500 +0100">
     <length units="minutes">55</length>
     <title>Rush</title>
     <category>Série</category>
@@ -1101,7 +675,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208170500 +0100" stop="20151208180000 +0100">
+  <programme channel="burger" start="20151208130500 +0100" stop="20151208140000 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -1120,7 +694,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208180000 +0100" stop="20151208185500 +0100">
+  <programme channel="burger" start="20151208140000 +0100" stop="20151208145500 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -1139,7 +713,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208185500 +0100" stop="20151208194000 +0100">
+  <programme channel="burger" start="20151208145500 +0100" stop="20151208154000 +0100">
     <length units="minutes">45</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -1157,7 +731,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208194000 +0100" stop="20151208203500 +0100">
+  <programme channel="burger" start="20151208154000 +0100" stop="20151208163500 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -1176,7 +750,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208203500 +0100" stop="20151208212500 +0100">
+  <programme channel="burger" start="20151208163500 +0100" stop="20151208172500 +0100">
     <length units="minutes">50</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -1195,7 +769,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208212500 +0100" stop="20151208222000 +0100">
+  <programme channel="burger" start="20151208172500 +0100" stop="20151208182000 +0100">
     <length units="minutes">55</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -1214,7 +788,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208222000 +0100" stop="20151208230500 +0100">
+  <programme channel="burger" start="20151208182000 +0100" stop="20151208190500 +0100">
     <length units="minutes">45</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -1233,7 +807,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208230500 +0100" stop="20151209005000 +0100">
+  <programme channel="burger" start="20151208190500 +0100" stop="20151208205000 +0100">
     <length units="minutes">105</length>
     <title>Révélations</title>
     <category>Magazine</category>
@@ -1243,7 +817,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209005000 +0100" stop="20151209014500 +0100">
+  <programme channel="burger" start="20151208205000 +0100" stop="20151208214500 +0100">
     <length units="minutes">55</length>
     <title>Face off</title>
     <category>Divertissement</category>
@@ -1255,7 +829,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209014500 +0100" stop="20151209024500 +0100">
+  <programme channel="burger" start="20151208214500 +0100" stop="20151208224500 +0100">
     <length units="minutes">60</length>
     <title>Face off</title>
     <category>Divertissement</category>
@@ -1267,7 +841,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209024500 +0100" stop="20151209051500 +0100">
+  <programme channel="burger" start="20151208224500 +0100" stop="20151209011500 +0100">
     <length units="minutes">150</length>
     <title>The Constant Gardener (?)</title>
     <category>Film</category>
@@ -1285,7 +859,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209051500 +0100" stop="20151209070500 +0100">
+  <programme channel="burger" start="20151209011500 +0100" stop="20151209030500 +0100">
     <length units="minutes">110</length>
     <title>La vie d'une autre (?)</title>
     <category>Film</category>
@@ -1303,7 +877,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209070500 +0100" stop="20151209080000 +0100">
+  <programme channel="burger" start="20151209030500 +0100" stop="20151209040000 +0100">
     <length units="minutes">55</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -1322,7 +896,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209080000 +0100" stop="20151209090500 +0100">
+  <programme channel="burger" start="20151209040000 +0100" stop="20151209050500 +0100">
     <length units="minutes">65</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -1341,7 +915,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209090500 +0100" stop="20151209095500 +0100">
+  <programme channel="burger" start="20151209050500 +0100" stop="20151209055500 +0100">
     <length units="minutes">50</length>
     <title>Physique ou chimie</title>
     <category>Série</category>
@@ -1358,7 +932,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209095500 +0100" stop="20151209110000 +0100">
+  <programme channel="burger" start="20151209055500 +0100" stop="20151209070000 +0100">
     <length units="minutes">65</length>
     <title>Physique ou chimie</title>
     <category>Série</category>
@@ -1375,7 +949,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209110000 +0100" stop="20151209112500 +0100">
+  <programme channel="burger" start="20151209070000 +0100" stop="20151209072500 +0100">
     <length units="minutes">25</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
@@ -1393,7 +967,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209112500 +0100" stop="20151209114500 +0100">
+  <programme channel="burger" start="20151209072500 +0100" stop="20151209074500 +0100">
     <length units="minutes">20</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
@@ -1411,14 +985,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209114500 +0100" stop="20151209120000 +0100">
+  <programme channel="burger" start="20151209074500 +0100" stop="20151209080000 +0100">
     <length units="minutes">15</length>
     <title>La 23e dimension</title>
     <category>Magazine</category>
     <desc>Chaque nuit, un programme unique et original révèle au grand public tous les talents de l'art contemporain, fait découvrir le travail... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209120000 +0100" stop="20151209130500 +0100">
+  <programme channel="burger" start="20151209080000 +0100" stop="20151209090500 +0100">
     <length units="minutes">65</length>
     <title>Africa News Room</title>
     <category>Magazine</category>
@@ -1429,7 +1003,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209130500 +0100" stop="20151209135500 +0100">
+  <programme channel="burger" start="20151209090500 +0100" stop="20151209095500 +0100">
     <length units="minutes">50</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -1448,7 +1022,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209135500 +0100" stop="20151209151000 +0100">
+  <programme channel="burger" start="20151209095500 +0100" stop="20151209111000 +0100">
     <length units="minutes">75</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -1467,7 +1041,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209151000 +0100" stop="20151209161000 +0100">
+  <programme channel="burger" start="20151209111000 +0100" stop="20151209121000 +0100">
     <length units="minutes">60</length>
     <title>Rush</title>
     <category>Série</category>
@@ -1486,7 +1060,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209161000 +0100" stop="20151209170500 +0100">
+  <programme channel="burger" start="20151209121000 +0100" stop="20151209130500 +0100">
     <length units="minutes">55</length>
     <title>Rush</title>
     <category>Série</category>
@@ -1505,7 +1079,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209170500 +0100" stop="20151209180000 +0100">
+  <programme channel="burger" start="20151209130500 +0100" stop="20151209140000 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -1524,7 +1098,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209180000 +0100" stop="20151209185500 +0100">
+  <programme channel="burger" start="20151209140000 +0100" stop="20151209145500 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -1543,7 +1117,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209185500 +0100" stop="20151209194000 +0100">
+  <programme channel="burger" start="20151209145500 +0100" stop="20151209154000 +0100">
     <length units="minutes">45</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -1562,7 +1136,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209194000 +0100" stop="20151209203500 +0100">
+  <programme channel="burger" start="20151209154000 +0100" stop="20151209163500 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -1579,7 +1153,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209203500 +0100" stop="20151209212500 +0100">
+  <programme channel="burger" start="20151209163500 +0100" stop="20151209172500 +0100">
     <length units="minutes">50</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -1598,7 +1172,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209212500 +0100" stop="20151209222000 +0100">
+  <programme channel="burger" start="20151209172500 +0100" stop="20151209182000 +0100">
     <length units="minutes">55</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -1617,7 +1191,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209222000 +0100" stop="20151209230500 +0100">
+  <programme channel="burger" start="20151209182000 +0100" stop="20151209190500 +0100">
     <length units="minutes">45</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -1636,7 +1210,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209230500 +0100" stop="20151210004500 +0100">
+  <programme channel="burger" start="20151209190500 +0100" stop="20151209204500 +0100">
     <length units="minutes">100</length>
     <title>Révélations</title>
     <category>Magazine</category>
@@ -1646,14 +1220,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210004500 +0100" stop="20151210005000 +0100">
+  <programme channel="burger" start="20151209204500 +0100" stop="20151209205000 +0100">
     <length units="minutes">5</length>
     <title>Là où je t'emmènerai</title>
     <category>Magazine</category>
     <desc>Une personnalité invite à découvrir l'endroit où elle rêverait d'emmener un être cher. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210005000 +0100" stop="20151210014500 +0100">
+  <programme channel="burger" start="20151209205000 +0100" stop="20151209214500 +0100">
     <length units="minutes">55</length>
     <title>Face off</title>
     <category>Divertissement</category>
@@ -1665,7 +1239,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210014500 +0100" stop="20151210025000 +0100">
+  <programme channel="burger" start="20151209214500 +0100" stop="20151209225000 +0100">
     <length units="minutes">65</length>
     <title>Face off</title>
     <category>Divertissement</category>
@@ -1677,35 +1251,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210025000 +0100" stop="20151210043500 +0100">
+  <programme channel="burger" start="20151209225000 +0100" stop="20151210003500 +0100">
     <length units="minutes">105</length>
     <title>River Monsters</title>
     <category>Documentaire</category>
     <desc>La légende du Loch Ness Jeremy Wade embarque pour une mission épique, qui consiste à démasquer la vraie créature qui se cache derrière l'une des légendes les plus... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210043500 +0100" stop="20151210054000 +0100">
+  <programme channel="burger" start="20151210003500 +0100" stop="20151210014000 +0100">
     <length units="minutes">65</length>
     <title>River Monsters</title>
     <category>Documentaire</category>
     <desc>Le mangeur d'hommes Jeremy Wade, biologiste et pêcheur passionné, poursuit sa quête des poissons d'eau douce les plus impressionnants du monde. Ce qu'il souhaite... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210054000 +0100" stop="20151210062500 +0100">
+  <programme channel="burger" start="20151210014000 +0100" stop="20151210022500 +0100">
     <length units="minutes">45</length>
     <title>Hangar 1 : les dossiers ovni</title>
     <category>Documentaire</category>
     <desc>L'armement spatial Certains documents suggèrent l'existence d'une base militaire confidentielle, camouflée par les montagnes et les déserts. Selon les rumeurs, cet... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210062500 +0100" stop="20151210071500 +0100">
+  <programme channel="burger" start="20151210022500 +0100" stop="20151210031500 +0100">
     <length units="minutes">50</length>
     <title>Hangar 1 : les dossiers ovni</title>
     <category>Documentaire</category>
     <desc>Le gouvernement fantôme De Truman à Obama, de Ford à Bush, la plupart des présidents américains se sont un jour retrouvés au coeur d'histoires d'ovnis, toutes aussi... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210071500 +0100" stop="20151210081500 +0100">
+  <programme channel="burger" start="20151210031500 +0100" stop="20151210041500 +0100">
     <length units="minutes">60</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -1724,7 +1298,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210081500 +0100" stop="20151210091500 +0100">
+  <programme channel="burger" start="20151210041500 +0100" stop="20151210051500 +0100">
     <length units="minutes">60</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -1743,7 +1317,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210091500 +0100" stop="20151210095500 +0100">
+  <programme channel="burger" start="20151210051500 +0100" stop="20151210055500 +0100">
     <length units="minutes">40</length>
     <title>Rush</title>
     <category>Série</category>
@@ -1762,7 +1336,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210095500 +0100" stop="20151210104000 +0100">
+  <programme channel="burger" start="20151210055500 +0100" stop="20151210064000 +0100">
     <length units="minutes">45</length>
     <title>Rush</title>
     <category>Série</category>
@@ -1781,7 +1355,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210104000 +0100" stop="20151210110500 +0100">
+  <programme channel="burger" start="20151210064000 +0100" stop="20151210070500 +0100">
     <length units="minutes">25</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
@@ -1799,7 +1373,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210110500 +0100" stop="20151210113000 +0100">
+  <programme channel="burger" start="20151210070500 +0100" stop="20151210073000 +0100">
     <length units="minutes">25</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
@@ -1817,14 +1391,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210113000 +0100" stop="20151210120000 +0100">
+  <programme channel="burger" start="20151210073000 +0100" stop="20151210080000 +0100">
     <length units="minutes">30</length>
     <title>La 23e dimension</title>
     <category>Magazine</category>
     <desc>Chaque nuit, un programme unique et original révèle au grand public tous les talents de l'art contemporain, fait découvrir le travail... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210120000 +0100" stop="20151210130500 +0100">
+  <programme channel="burger" start="20151210080000 +0100" stop="20151210090500 +0100">
     <length units="minutes">65</length>
     <title>Africa News Room</title>
     <category>Magazine</category>
@@ -1835,7 +1409,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210130500 +0100" stop="20151210135500 +0100">
+  <programme channel="burger" start="20151210090500 +0100" stop="20151210095500 +0100">
     <length units="minutes">50</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -1854,7 +1428,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210135500 +0100" stop="20151210151000 +0100">
+  <programme channel="burger" start="20151210095500 +0100" stop="20151210111000 +0100">
     <length units="minutes">75</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -1873,7 +1447,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210151000 +0100" stop="20151210161000 +0100">
+  <programme channel="burger" start="20151210111000 +0100" stop="20151210121000 +0100">
     <length units="minutes">60</length>
     <title>Rush</title>
     <category>Série</category>
@@ -1892,7 +1466,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210161000 +0100" stop="20151210170500 +0100">
+  <programme channel="burger" start="20151210121000 +0100" stop="20151210130500 +0100">
     <length units="minutes">55</length>
     <title>Rush</title>
     <category>Série</category>
@@ -1911,7 +1485,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210170500 +0100" stop="20151210180000 +0100">
+  <programme channel="burger" start="20151210130500 +0100" stop="20151210140000 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -1928,7 +1502,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210180000 +0100" stop="20151210185500 +0100">
+  <programme channel="burger" start="20151210140000 +0100" stop="20151210145500 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -1947,7 +1521,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210185500 +0100" stop="20151210194000 +0100">
+  <programme channel="burger" start="20151210145500 +0100" stop="20151210154000 +0100">
     <length units="minutes">45</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -1966,7 +1540,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210194000 +0100" stop="20151210203500 +0100">
+  <programme channel="burger" start="20151210154000 +0100" stop="20151210163500 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -1985,7 +1559,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210203500 +0100" stop="20151210212500 +0100">
+  <programme channel="burger" start="20151210163500 +0100" stop="20151210172500 +0100">
     <length units="minutes">50</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -2004,7 +1578,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210212500 +0100" stop="20151210222000 +0100">
+  <programme channel="burger" start="20151210172500 +0100" stop="20151210182000 +0100">
     <length units="minutes">55</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -2023,7 +1597,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210222000 +0100" stop="20151210230500 +0100">
+  <programme channel="burger" start="20151210182000 +0100" stop="20151210190500 +0100">
     <length units="minutes">45</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -2042,7 +1616,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210230500 +0100" stop="20151211005000 +0100">
+  <programme channel="burger" start="20151210190500 +0100" stop="20151210205000 +0100">
     <length units="minutes">105</length>
     <title>Révélations</title>
     <category>Magazine</category>
@@ -2052,7 +1626,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211005000 +0100" stop="20151211014500 +0100">
+  <programme channel="burger" start="20151210205000 +0100" stop="20151210214500 +0100">
     <length units="minutes">55</length>
     <title>Face off</title>
     <category>Divertissement</category>
@@ -2064,7 +1638,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211014500 +0100" stop="20151211024500 +0100">
+  <programme channel="burger" start="20151210214500 +0100" stop="20151210224500 +0100">
     <length units="minutes">60</length>
     <title>Face off</title>
     <category>Divertissement</category>
@@ -2076,35 +1650,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211024500 +0100" stop="20151211031000 +0100">
+  <programme channel="burger" start="20151210224500 +0100" stop="20151210231000 +0100">
     <length units="minutes">25</length>
     <title>Chasseur de bolides</title>
     <category>Documentaire</category>
     <desc>Motus et bouche cousue Mike achète une Smart pour la décorer à l'atelier, mais Kevin le prévient que Danny déteste les nouvelles voitures et qu'il ferait mieux de ne... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211031000 +0100" stop="20151211034000 +0100">
+  <programme channel="burger" start="20151210231000 +0100" stop="20151210234000 +0100">
     <length units="minutes">30</length>
     <title>Chasseur de bolides</title>
     <category>Documentaire</category>
     <desc>Le chopper Big Twin Ryan travaille sur un projet secret pour le magasin de motos Bones Legacy, tandis que Mike et Roli sont très impressionnés par une Chevy... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211034000 +0100" stop="20151211040000 +0100">
+  <programme channel="burger" start="20151210234000 +0100" stop="20151211000000 +0100">
     <length units="minutes">20</length>
     <title>Chasseur de bolides</title>
     <category>Documentaire</category>
     <desc>Je veux revoir ma Cadillac Le quotidien de Danny et ses amis, des passionnés de mécanique, dans leur magasin de restauration, de customisation et de vente de véhicules en... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211040000 +0100" stop="20151211042500 +0100">
+  <programme channel="burger" start="20151211000000 +0100" stop="20151211002500 +0100">
     <length units="minutes">25</length>
     <title>Chasseur de bolides</title>
     <category>Documentaire</category>
     <desc>Des Willys pour des soldats Le quotidien de Danny et ses amis, des passionnés de mécanique, dans leur magasin de restauration, de customisation et de vente de véhicules en... (Lire la suite).(c)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211042500 +0100" stop="20151211062000 +0100">
+  <programme channel="burger" start="20151211002500 +0100" stop="20151211022000 +0100">
     <length units="minutes">115</length>
     <title>Marie-Line (?)</title>
     <category>Film</category>
@@ -2122,7 +1696,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211062000 +0100" stop="20151211072000 +0100">
+  <programme channel="burger" start="20151211022000 +0100" stop="20151211032000 +0100">
     <length units="minutes">60</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -2140,7 +1714,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211072000 +0100" stop="20151211081500 +0100">
+  <programme channel="burger" start="20151211032000 +0100" stop="20151211041500 +0100">
     <length units="minutes">55</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -2159,7 +1733,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211081500 +0100" stop="20151211085500 +0100">
+  <programme channel="burger" start="20151211041500 +0100" stop="20151211045500 +0100">
     <length units="minutes">40</length>
     <title>Rush</title>
     <category>Série</category>
@@ -2178,7 +1752,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211085500 +0100" stop="20151211093500 +0100">
+  <programme channel="burger" start="20151211045500 +0100" stop="20151211053500 +0100">
     <length units="minutes">40</length>
     <title>Rush</title>
     <category>Série</category>
@@ -2197,7 +1771,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211093500 +0100" stop="20151211103000 +0100">
+  <programme channel="burger" start="20151211053500 +0100" stop="20151211063000 +0100">
     <length units="minutes">55</length>
     <title>Rush</title>
     <category>Série</category>
@@ -2216,7 +1790,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211103000 +0100" stop="20151211111500 +0100">
+  <programme channel="burger" start="20151211063000 +0100" stop="20151211071500 +0100">
     <length units="minutes">45</length>
     <title>Rush</title>
     <category>Série</category>
@@ -2235,7 +1809,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211111500 +0100" stop="20151211114000 +0100">
+  <programme channel="burger" start="20151211071500 +0100" stop="20151211074000 +0100">
     <length units="minutes">25</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
@@ -2253,14 +1827,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211114000 +0100" stop="20151211120000 +0100">
+  <programme channel="burger" start="20151211074000 +0100" stop="20151211080000 +0100">
     <length units="minutes">20</length>
     <title>La 23e dimension</title>
     <category>Magazine</category>
     <desc>Chaque nuit, un programme unique et original révèle au grand public tous les talents de l'art contemporain, fait découvrir le travail... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211120000 +0100" stop="20151211130500 +0100">
+  <programme channel="burger" start="20151211080000 +0100" stop="20151211090500 +0100">
     <length units="minutes">65</length>
     <title>Africa News Room</title>
     <category>Magazine</category>
@@ -2271,7 +1845,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211130500 +0100" stop="20151211135500 +0100">
+  <programme channel="burger" start="20151211090500 +0100" stop="20151211095500 +0100">
     <length units="minutes">50</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -2290,7 +1864,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211135500 +0100" stop="20151211151000 +0100">
+  <programme channel="burger" start="20151211095500 +0100" stop="20151211111000 +0100">
     <length units="minutes">75</length>
     <title>P.J.</title>
     <category>Série</category>
@@ -2309,7 +1883,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211151000 +0100" stop="20151211161000 +0100">
+  <programme channel="burger" start="20151211111000 +0100" stop="20151211121000 +0100">
     <length units="minutes">60</length>
     <title>Rush</title>
     <category>Série</category>
@@ -2328,7 +1902,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211161000 +0100" stop="20151211170500 +0100">
+  <programme channel="burger" start="20151211121000 +0100" stop="20151211130500 +0100">
     <length units="minutes">55</length>
     <title>Rush</title>
     <category>Série</category>
@@ -2347,7 +1921,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211170500 +0100" stop="20151211180000 +0100">
+  <programme channel="burger" start="20151211130500 +0100" stop="20151211140000 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -2366,7 +1940,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211180000 +0100" stop="20151211185500 +0100">
+  <programme channel="burger" start="20151211140000 +0100" stop="20151211145500 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -2385,7 +1959,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211185500 +0100" stop="20151211194000 +0100">
+  <programme channel="burger" start="20151211145500 +0100" stop="20151211154000 +0100">
     <length units="minutes">45</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -2404,7 +1978,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211194000 +0100" stop="20151211203500 +0100">
+  <programme channel="burger" start="20151211154000 +0100" stop="20151211163500 +0100">
     <length units="minutes">55</length>
     <title>Demain à la une</title>
     <category>Série</category>
@@ -2423,7 +1997,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211203500 +0100" stop="20151211212500 +0100">
+  <programme channel="burger" start="20151211163500 +0100" stop="20151211172500 +0100">
     <length units="minutes">50</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -2442,7 +2016,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211212500 +0100" stop="20151211222000 +0100">
+  <programme channel="burger" start="20151211172500 +0100" stop="20151211182000 +0100">
     <length units="minutes">55</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -2461,7 +2035,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211222000 +0100" stop="20151211230500 +0100">
+  <programme channel="burger" start="20151211182000 +0100" stop="20151211190500 +0100">
     <length units="minutes">45</length>
     <title>The Listener</title>
     <category>Série</category>
@@ -2480,7 +2054,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211230500 +0100" stop="20151212005000 +0100">
+  <programme channel="burger" start="20151211190500 +0100" stop="20151211205000 +0100">
     <length units="minutes">105</length>
     <title>Révélations</title>
     <category>Magazine</category>
@@ -2490,7 +2064,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212005000 +0100" stop="20151212014500 +0100">
+  <programme channel="burger" start="20151211205000 +0100" stop="20151211214500 +0100">
     <length units="minutes">55</length>
     <title>Face off</title>
     <category>Divertissement</category>
@@ -2502,7 +2076,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212014500 +0100" stop="20151212024500 +0100">
+  <programme channel="burger" start="20151211214500 +0100" stop="20151211224500 +0100">
     <length units="minutes">60</length>
     <title>Face off</title>
     <category>Divertissement</category>
@@ -2514,21 +2088,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212024500 +0100" stop="20151212033000 +0100">
+  <programme channel="burger" start="20151211224500 +0100" stop="20151211233000 +0100">
     <length units="minutes">45</length>
     <title>Ink Master : maître vs apprenti</title>
     <category>Documentaire</category>
     <desc>Le choix des champions Après avoir tatoué des fans de football américain dans le défi flash, les artistes doivent travailler avec les joueurs des équipes les plus... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212033000 +0100" stop="20151212042500 +0100">
+  <programme channel="burger" start="20151211233000 +0100" stop="20151212002500 +0100">
     <length units="minutes">55</length>
     <title>Ink Master : maître vs apprenti</title>
     <category>Documentaire</category>
     <desc>En service L'épreuve éliminatoire que tous les tatoueurs redoutent est au programme : celle des portraits. Les modèles sont des soldats prêts à être envoyés... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212042500 +0100" stop="20151212053000 +0100">
+  <programme channel="burger" start="20151212002500 +0100" stop="20151212013000 +0100">
     <length units="minutes">65</length>
     <title>The Killing</title>
     <category>Série</category>
@@ -2547,7 +2121,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212053000 +0100" stop="20151212064500 +0100">
+  <programme channel="burger" start="20151212013000 +0100" stop="20151212024500 +0100">
     <length units="minutes">75</length>
     <title>The Killing</title>
     <category>Série</category>
@@ -2566,11 +2140,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212064500 +0100" stop="20151212075000 +0100">
+  <programme channel="burger" start="20151212024500 +0100" stop="20151212035000 +0100">
     <length units="minutes">65</length>
     <title>Shameless *2011</title>
     <category>Série</category>
-    <desc>Installé chez les Gallagher, Jimmy s'occupe des enfants pendant que Fiona travaille dans une entreprise de nettoyage. La jeune femme a du mal à... (Lire la suite).(n)</desc>
+    <desc>Installé chez les Gallagher, Jimmy s'occupe des enfants pendant que Fiona travaille dans une entreprise de nettoyage. La jeune femme a du mal à... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Mark Mylod</name>
       <name function="actor">William H Macy</name>
@@ -2585,11 +2159,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212075000 +0100" stop="20151212084000 +0100">
+  <programme channel="burger" start="20151212035000 +0100" stop="20151212044000 +0100">
     <length units="minutes">50</length>
     <title>Shameless *2011</title>
     <category>Série</category>
-    <desc>Fiona doit s'endetter pour organiser sa première soirée au club. Le père d'Estefania fait appel à Beto, un homme de main, pour suivre Jimmy dans... (Lire la suite).(n)</desc>
+    <desc>Fiona doit s'endetter pour organiser sa première soirée au club. Le père d'Estefania fait appel à Beto, un homme de main, pour suivre Jimmy dans... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Anthony Hemingway</name>
       <name function="actor">William H Macy</name>
@@ -2604,11 +2178,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212084000 +0100" stop="20151212092500 +0100">
+  <programme channel="burger" start="20151212044000 +0100" stop="20151212052500 +0100">
     <length units="minutes">45</length>
     <title>Rush</title>
     <category>Série</category>
-    <desc>L'équipe est appelée en urgence après un drame familial. Un jeune homme a disparu dans le bush après avoir tiré sur le nouveau petit ami de sa... (Lire la suite).(n)</desc>
+    <desc>L'équipe est appelée en urgence après un drame familial. Un jeune homme a disparu dans le bush après avoir tiré sur le nouveau petit ami de sa... (Lire la suite).</desc>
     <credits>
       <name function="director">Stuart McDonald</name>
       <name function="actor">Callan Mulvey</name>
@@ -2623,11 +2197,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212092500 +0100" stop="20151212101000 +0100">
+  <programme channel="burger" start="20151212052500 +0100" stop="20151212061000 +0100">
     <length units="minutes">45</length>
     <title>Rush</title>
     <category>Série</category>
-    <desc>Stella est embarquée dans une course de voiture organisée illégalement. Elle est arrêtée au volant de son véhicule, et son avenir au sein de... (Lire la suite).(n)</desc>
+    <desc>Stella est embarquée dans une course de voiture organisée illégalement. Elle est arrêtée au volant de son véhicule, et son avenir au sein de... (Lire la suite).</desc>
     <credits>
       <name function="director">Grant Brown</name>
       <name function="actor">Callan Mulvey</name>
@@ -2642,11 +2216,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212101000 +0100" stop="20151212105500 +0100">
+  <programme channel="burger" start="20151212061000 +0100" stop="20151212065500 +0100">
     <length units="minutes">45</length>
     <title>Rush</title>
     <category>Série</category>
-    <desc>L'équipe doit faire face à un dangereux criminel impliqué dans des vols de voitures. Les enquêteurs découvrent un système élaboré pour réussir... (Lire la suite).(n)</desc>
+    <desc>L'équipe doit faire face à un dangereux criminel impliqué dans des vols de voitures. Les enquêteurs découvrent un système élaboré pour réussir... (Lire la suite).</desc>
     <credits>
       <name function="director">Daniel Nettheim</name>
       <name function="actor">Callan Mulvey</name>
@@ -2661,11 +2235,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212105500 +0100" stop="20151212112000 +0100">
+  <programme channel="burger" start="20151212065500 +0100" stop="20151212072000 +0100">
     <length units="minutes">25</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
-    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).(n)</desc>
+    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Gérard Espinasse</name>
       <name function="actor">Tanya Saint-Val</name>
@@ -2679,11 +2253,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212112000 +0100" stop="20151212114500 +0100">
+  <programme channel="burger" start="20151212072000 +0100" stop="20151212074500 +0100">
     <length units="minutes">25</length>
     <title>Baie des flamboyants</title>
     <category>Feuilleton</category>
-    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).(n)</desc>
+    <desc>Dans les décors paradisiaques de la Guadeloupe, les destins croisés de six familles et d'une jeunesse romantique née sous le... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Gérard Espinasse</name>
       <name function="actor">Tanya Saint-Val</name>
@@ -2697,36 +2271,36 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212114500 +0100" stop="20151212120000 +0100">
+  <programme channel="burger" start="20151212074500 +0100" stop="20151212080000 +0100">
     <length units="minutes">15</length>
     <title>La 23e dimension</title>
     <category>Magazine</category>
-    <desc>Chaque nuit un programme unique et original, révèle au grand public tous les talents de l'art contemporain, fait découvrir le travail... (Lire la suite).(n)</desc>
+    <desc>Chaque nuit un programme unique et original, révèle au grand public tous les talents de l'art contemporain, fait découvrir le travail... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212120000 +0100" stop="20151212130000 +0100">
+  <programme channel="burger" start="20151212080000 +0100" stop="20151212090000 +0100">
     <length units="minutes">60</length>
     <title>Africa News Room</title>
     <category>Magazine</category>
-    <desc>Marie Angèle Touré et Khadija Sfar décryptent les temps forts de l'actualité du continent africain, avec des débats et des analyses politiques,... (Lire la suite).(n)</desc>
+    <desc>Marie Angèle Touré et Khadija Sfar décryptent les temps forts de l'actualité du continent africain, avec des débats et des analyses politiques,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Marie Angèle Touré,</name>
       <name function="presenter">Khadija Sfar</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212130000 +0100" stop="20151212131000 +0100">
+  <programme channel="burger" start="20151212090000 +0100" stop="20151212091000 +0100">
     <length units="minutes">10</length>
     <title>Trop chou</title>
     <category>Documentaire</category>
-    <desc>Chatons Les chats ont un succès fou chez les gens et sur Internet, mais cela devient la folie dès lors qu'il s'agit de petits... (Lire la suite).(n)</desc>
+    <desc>Chatons Les chats ont un succès fou chez les gens et sur Internet, mais cela devient la folie dès lors qu'il s'agit de petits... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212131000 +0100" stop="20151212134000 +0100">
+  <programme channel="burger" start="20151212091000 +0100" stop="20151212094000 +0100">
     <length units="minutes">30</length>
     <title>Community</title>
     <category>Série</category>
-    <desc>Annie est ravie de quitter le quartier dangereux où elle vit pour emménager chez Troy et Abed, malgré les avertissements de Britta sur la... (Lire la suite).(n)</desc>
+    <desc>Annie est ravie de quitter le quartier dangereux où elle vit pour emménager chez Troy et Abed, malgré les avertissements de Britta sur la... (Lire la suite).</desc>
     <credits>
       <name function="director">Tristram Shapeero</name>
       <name function="actor">Joel McHale</name>
@@ -2741,11 +2315,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212134000 +0100" stop="20151212142500 +0100">
+  <programme channel="burger" start="20151212094000 +0100" stop="20151212102500 +0100">
     <length units="minutes">45</length>
     <title>Rush</title>
     <category>Série</category>
-    <desc>Lawson, Josh et le reste de l'équipe doivent unir leurs forces pour sauver les otages retenus par un dangereux criminel, et neutraliser ce... (Lire la suite).(n)</desc>
+    <desc>Lawson, Josh et le reste de l'équipe doivent unir leurs forces pour sauver les otages retenus par un dangereux criminel, et neutraliser ce... (Lire la suite).</desc>
     <credits>
       <name function="director">Erin White</name>
       <name function="actor">Callan Mulvey</name>
@@ -2760,11 +2334,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212142500 +0100" stop="20151212151500 +0100">
+  <programme channel="burger" start="20151212102500 +0100" stop="20151212111500 +0100">
     <length units="minutes">50</length>
     <title>Rush</title>
     <category>Série</category>
-    <desc>Josh, Grace et Michael enquêtent sur une effraction dans un laboratoire hautement sécurisé. Sur place, ils trouvent tous les animaux qui servent... (Lire la suite).(n)</desc>
+    <desc>Josh, Grace et Michael enquêtent sur une effraction dans un laboratoire hautement sécurisé. Sur place, ils trouvent tous les animaux qui servent... (Lire la suite).</desc>
     <credits>
       <name function="director">Andrew Prowse</name>
       <name function="actor">Nicole da Silva</name>
@@ -2779,11 +2353,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212151500 +0100" stop="20151212160500 +0100">
+  <programme channel="burger" start="20151212111500 +0100" stop="20151212120500 +0100">
     <length units="minutes">50</length>
     <title>Rush</title>
     <category>Série</category>
-    <desc>En l'absence de Conor, Grace loge dans l'appartement de Josh. Mais sa voiture est garée devant, et elle réalise alors que si quelqu'un lui... (Lire la suite).(n)</desc>
+    <desc>En l'absence de Conor, Grace loge dans l'appartement de Josh. Mais sa voiture est garée devant, et elle réalise alors que si quelqu'un lui... (Lire la suite).</desc>
     <credits>
       <name function="director">Geoff Bennett</name>
       <name function="actor">Callan Mulvey</name>
@@ -2798,11 +2372,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212160500 +0100" stop="20151212170000 +0100">
+  <programme channel="burger" start="20151212120500 +0100" stop="20151212130000 +0100">
     <length units="minutes">55</length>
     <title>Rush</title>
     <category>Série</category>
-    <desc>L'influente politicienne Robyn Hume fait appel à Kerry après avoir reçu un DVD montrant des images de sa fille et une amie, toutes deux retenues... (Lire la suite).(n)</desc>
+    <desc>L'influente politicienne Robyn Hume fait appel à Kerry après avoir reçu un DVD montrant des images de sa fille et une amie, toutes deux retenues... (Lire la suite).</desc>
     <credits>
       <name function="director">Erin White</name>
       <name function="actor">Callan Mulvey</name>
@@ -2817,11 +2391,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212170000 +0100" stop="20151212175000 +0100">
+  <programme channel="burger" start="20151212130000 +0100" stop="20151212135000 +0100">
     <length units="minutes">50</length>
     <title>Rush</title>
     <category>Série</category>
-    <desc>Lawson, Stella et Dom essayent de retrouver le responsable d'une série de carjackings. De leur côté, Josh, Grace et Michael sont victimes d'un... (Lire la suite).(n)</desc>
+    <desc>Lawson, Stella et Dom essayent de retrouver le responsable d'une série de carjackings. De leur côté, Josh, Grace et Michael sont victimes d'un... (Lire la suite).</desc>
     <credits>
       <name function="director">Erin White</name>
       <name function="actor">Callan Mulvey</name>
@@ -2836,11 +2410,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212175000 +0100" stop="20151212184000 +0100">
+  <programme channel="burger" start="20151212135000 +0100" stop="20151212144000 +0100">
     <length units="minutes">50</length>
     <title>Rush</title>
     <category>Série</category>
-    <desc>L'équipe de secouristes évacue les employés d'une entreprise après une alarme incendie. Dom, ancien démineur, sent que quelque chose ne va pas.... (Lire la suite).(n)</desc>
+    <desc>L'équipe de secouristes évacue les employés d'une entreprise après une alarme incendie. Dom, ancien démineur, sent que quelque chose ne va pas.... (Lire la suite).</desc>
     <credits>
       <name function="director">Andrew Prowse</name>
       <name function="actor">Callan Mulvey</name>
@@ -2855,25 +2429,25 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212184000 +0100" stop="20151212194500 +0100">
+  <programme channel="burger" start="20151212144000 +0100" stop="20151212154500 +0100">
     <length units="minutes">65</length>
     <title>Dossiers criminels</title>
     <category>Documentaire</category>
-    <desc>Affaire Pinneteau : le mystère du triple meurtre l'Esteron Le 18 mars 1999, dans la vallée de l'Esteron, un homme découvre des sacs poubelles contenant des restes humains. Trois corps sont mis au jour,... (Lire la suite).(n)</desc>
+    <desc>Affaire Pinneteau : le mystère du triple meurtre l'Esteron Le 18 mars 1999, dans la vallée de l'Esteron, un homme découvre des sacs poubelles contenant des restes humains. Trois corps sont mis au jour,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212194500 +0100" stop="20151212204000 +0100">
+  <programme channel="burger" start="20151212154500 +0100" stop="20151212164000 +0100">
     <length units="minutes">55</length>
     <title>Dossiers criminels</title>
     <category>Documentaire</category>
-    <desc>Affaire Raspini : le meurtre de la rentière En 2002, la riche septuagénaire Francine Veran-Raspini et son fils, Marc Raspini, ont été enlevés, séquestrés, puis... (Lire la suite).(n)</desc>
+    <desc>Affaire Raspini : le meurtre de la rentière En 2002, la riche septuagénaire Francine Veran-Raspini et son fils, Marc Raspini, ont été enlevés, séquestrés, puis... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212204000 +0100" stop="20151212212500 +0100">
+  <programme channel="burger" start="20151212164000 +0100" stop="20151212172500 +0100">
     <length units="minutes">45</length>
     <title>The Listener</title>
     <category>Série</category>
-    <desc>Le génie criminel Magnus Elphrenson s'est à nouveau échappé de prison. Michelle, Toby et les autres membres de l'IIB sont immédiatement sur... (Lire la suite).(n)</desc>
+    <desc>Le génie criminel Magnus Elphrenson s'est à nouveau échappé de prison. Michelle, Toby et les autres membres de l'IIB sont immédiatement sur... (Lire la suite).</desc>
     <credits>
       <name function="director">Robert Liebermann</name>
       <name function="actor">Craig Olejnik</name>
@@ -2885,11 +2459,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212212500 +0100" stop="20151212222000 +0100">
+  <programme channel="burger" start="20151212172500 +0100" stop="20151212182000 +0100">
     <length units="minutes">55</length>
     <title>The Listener</title>
     <category>Série</category>
-    <desc>Franca Burrows, une riche philanthrope qui a fait fructifier une affaire familiale en empire, est retrouvée assassinée dans un parking. Michelle... (Lire la suite).(n)</desc>
+    <desc>Franca Burrows, une riche philanthrope qui a fait fructifier une affaire familiale en empire, est retrouvée assassinée dans un parking. Michelle... (Lire la suite).</desc>
     <credits>
       <name function="director">Charles Binamé</name>
       <name function="actor">Lauren Lee Smith</name>
@@ -2901,11 +2475,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212222000 +0100" stop="20151212231000 +0100">
+  <programme channel="burger" start="20151212182000 +0100" stop="20151212191000 +0100">
     <length units="minutes">50</length>
     <title>The Listener</title>
     <category>Série</category>
-    <desc>A l'hôpital, Toby et Olivia partagent un moment d'intimité avant son départ. Peu après, Oz arrive avec un patient dans un état critique. Deux... (Lire la suite).(n)</desc>
+    <desc>A l'hôpital, Toby et Olivia partagent un moment d'intimité avant son départ. Peu après, Oz arrive avec un patient dans un état critique. Deux... (Lire la suite).</desc>
     <credits>
       <name function="director">Stefan Pleszczynski</name>
       <name function="actor">Craig Olejnik</name>
@@ -2920,11 +2494,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212231000 +0100" stop="20151213001000 +0100">
+  <programme channel="burger" start="20151212191000 +0100" stop="20151212201000 +0100">
     <length units="minutes">60</length>
     <title>The Listener</title>
     <category>Série</category>
-    <desc>Les habitants de la ville sont terrorisés par une série de cambriolages mystérieux, parfois accompagnés de violences. Une jeune femme est morte... (Lire la suite).(n)</desc>
+    <desc>Les habitants de la ville sont terrorisés par une série de cambriolages mystérieux, parfois accompagnés de violences. Une jeune femme est morte... (Lire la suite).</desc>
     <credits>
       <name function="director">John L'Ecuyer</name>
       <name function="actor">Kenneth Welsh</name>
@@ -2939,49 +2513,473 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213001000 +0100" stop="20151213005500 +0100">
+  <programme channel="burger" start="20151212201000 +0100" stop="20151212205500 +0100">
     <length units="minutes">45</length>
     <title>Ink Master : maître vs apprenti</title>
     <category>Documentaire</category>
-    <desc>Camouflage L'épreuve éliminatoire la plus difficile de cette saison 6 attend les 12 candidats toujours dans la course : ils vont devoir, grâce à la texture,... (Lire la suite).(n)</desc>
+    <desc>Camouflage L'épreuve éliminatoire la plus difficile de cette saison 6 attend les 12 candidats toujours dans la course : ils vont devoir, grâce à la texture,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213005500 +0100" stop="20151213010500 +0100">
+  <programme channel="burger" start="20151212205500 +0100" stop="20151212210500 +0100">
+    <length units="minutes">10</length>
+    <title>Là où je t'emmènerai</title>
+    <category>Magazine</category>
+    <desc>Une personnalité invite à découvrir l'endroit où elle rêverait d'emmener un être cher. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212210500 +0100" stop="20151212220000 +0100">
+    <length units="minutes">55</length>
+    <title>Ink Master : maître vs apprenti</title>
+    <category>Documentaire</category>
+    <desc>Composition stratégique Après une élimination d'anthologie, les candidats restants doivent se remettre au travail. Et c'est sur la composition qu'ils sont testés cette... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212220000 +0100" stop="20151212224500 +0100">
+    <length units="minutes">45</length>
+    <title>Ink Master : maître vs apprenti</title>
+    <category>Documentaire</category>
+    <desc>Dompter la flamme Après avoir peint des panneaux de bois avec du feu pour le défi flash, les artistes devront tatouer Neptune. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212224500 +0100" stop="20151213002500 +0100">
+    <length units="minutes">100</length>
+    <title>Dossiers surnaturels</title>
+    <category>Documentaire</category>
+    <desc>Les «expérienceurs» affirment être revenus de la mort après un accident de la route, une opération chirurgicale ou encore un infarctus.... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Dimitri Grimblat</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213002500 +0100" stop="20151213021500 +0100">
+    <length units="minutes">110</length>
+    <title>Dossiers surnaturels</title>
+    <category>Documentaire</category>
+    <desc>Hypnotiseurs, mentalistes : peuvent-ils nous contrôler ? Hypnotiseurs ou mentalistes, ils fascinent les foules en manipulant les esprits. Certains scientifiques, médecins et chirurgiens se sont même... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213021500 +0100" stop="20151213031500 +0100">
+    <length units="minutes">60</length>
+    <title>Shameless *2011</title>
+    <category>Série</category>
+    <desc>Mandy reçoit un appel de sa jeune demi-soeur Molly, dont la mère vient de mourir. Elle cherche à lui venir en aide. Pendant ce temps, Debbie... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Randall Einhorn</name>
+      <name function="actor">William H Macy</name>
+      <name function="actor">Joan Cusack</name>
+      <name function="actor">Emmy Rossum</name>
+      <name function="actor">Justin Chatwin</name>
+      <name function="actor">Ethan Cutkosky</name>
+      <name function="actor">Emma Kenney</name>
+      <name function="actor">Emma Greenwell</name>
+      <name function="actor">Madison Moellers</name>
+      <name function="writer">John Wells</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213031500 +0100" stop="20151213041500 +0100">
+    <length units="minutes">60</length>
+    <title>Shameless *2011</title>
+    <category>Série</category>
+    <desc>Une employée de Chicago confie à Fiona que des travaux d'envergure vont bientôt démarrer dans la ville, la canalisation principale devant être... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">J Michael Muro</name>
+      <name function="actor">William H Macy</name>
+      <name function="actor">Joan Cusack</name>
+      <name function="actor">Chloe Webb</name>
+      <name function="actor">Emmy Rossum</name>
+      <name function="actor">Noel Fisher</name>
+      <name function="actor">Laura Wiggins</name>
+      <name function="actor">Emma Kenney</name>
+      <name function="actor">Jeremy Allen White</name>
+      <name function="writer">John Wells</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213041500 +0100" stop="20151213051000 +0100">
+    <length units="minutes">55</length>
+    <title>Shameless *2011</title>
+    <category>Série</category>
+    <desc>La cohésion de la famille Gallagher est mise à rude épreuve. Les frères et soeurs de Fiona ont été pris en charge par les services de protection... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Mark Mylod</name>
+      <name function="actor">William H Macy</name>
+      <name function="actor">Joan Cusack</name>
+      <name function="actor">Emmy Rossum</name>
+      <name function="actor">Steve Howey</name>
+      <name function="actor">Noel Fisher</name>
+      <name function="actor">Shanola Hampton</name>
+      <name function="actor">Emma Kenney</name>
+      <name function="actor">Jeremy Allen White</name>
+      <name function="writer">John Wells</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213051000 +0100" stop="20151213061500 +0100">
+    <length units="minutes">65</length>
+    <title>Shameless *2011</title>
+    <category>Série</category>
+    <desc>Fiona se prépare pour son audience au tribunal. La jeune femme, qui souhaite devenir la tutrice légale de ses frères et soeurs, doit expliquer le... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Mimi Leder</name>
+      <name function="actor">William H Macy</name>
+      <name function="actor">Joan Cusack</name>
+      <name function="actor">Chloe Webb</name>
+      <name function="actor">Emmy Rossum</name>
+      <name function="actor">Justin Chatwin</name>
+      <name function="actor">Emma Kenney</name>
+      <name function="actor">Jeremy Allen White</name>
+      <name function="actor">Stephanie Fantauzzi</name>
+      <name function="writer">John Wells</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213061500 +0100" stop="20151213064000 +0100">
+    <length units="minutes">25</length>
+    <title>Baie des flamboyants</title>
+    <category>Feuilleton</category>
+    <desc>Claudia doute de l'existence réelle de ce David que sa fille prétend aimer alors qu'elle vient de la surprendre avec une photo de Thomas en... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Gérard Espinasse</name>
+      <name function="actor">Emilie Minatchy</name>
+      <name function="actor">Auriana Annonay</name>
+      <name function="actor">Anthony Le Mouroux</name>
+      <name function="actor">Benjamin Rovello</name>
+      <name function="actor">Morane Juin</name>
+      <name function="actor">Franck Soyez</name>
+      <name function="actor">Sévy Vilette</name>
+      <name function="actor">Greg Germain</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213064000 +0100" stop="20151213070000 +0100">
+    <length units="minutes">20</length>
+    <title>Baie des flamboyants</title>
+    <category>Feuilleton</category>
+    <desc>Sur le point d'enregistrer son disque, Raphaël a toujours du mal à réaliser que son rêve devient réalité. Thomas lui avoue que c'est à Mélanie... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Gérard Espinasse</name>
+      <name function="actor">Emilie Minatchy</name>
+      <name function="actor">Auriana Annonay</name>
+      <name function="actor">Anthony Le Mouroux</name>
+      <name function="actor">Benjamin Rovello</name>
+      <name function="actor">Morane Juin</name>
+      <name function="actor">Franck Soyez</name>
+      <name function="actor">Sévy Vilette</name>
+      <name function="actor">Greg Germain</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213070000 +0100" stop="20151213072500 +0100">
+    <length units="minutes">25</length>
+    <title>Baie des flamboyants</title>
+    <category>Feuilleton</category>
+    <desc>Fabrice tente de convaincre Bruno qu'il n'est que le conseiller financier de Marc et qu'à ce titre, il ne sait pas où il se trouve. De leur côté,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Gérard Espinasse</name>
+      <name function="actor">Emilie Minatchy</name>
+      <name function="actor">Auriana Annonay</name>
+      <name function="actor">Anthony Le Mouroux</name>
+      <name function="actor">Benjamin Rovello</name>
+      <name function="actor">Morane Juin</name>
+      <name function="actor">Franck Soyez</name>
+      <name function="actor">Sévy Vilette</name>
+      <name function="actor">Greg Germain</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213072500 +0100" stop="20151213075000 +0100">
+    <length units="minutes">25</length>
+    <title>Baie des flamboyants</title>
+    <category>Feuilleton</category>
+    <desc>Bruno est conscient que la relation qu'il entretient avec son fils mérite de s'améliorer. Mais il avoue à Jessica ne pas savoir comment s'y... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Gérard Espinasse</name>
+      <name function="actor">Emilie Minatchy</name>
+      <name function="actor">Auriana Annonay</name>
+      <name function="actor">Anthony Le Mouroux</name>
+      <name function="actor">Benjamin Rovello</name>
+      <name function="actor">Morane Juin</name>
+      <name function="actor">Franck Soyez</name>
+      <name function="actor">Sévy Vilette</name>
+      <name function="actor">Greg Germain</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213075000 +0100" stop="20151213080000 +0100">
+    <length units="minutes">10</length>
+    <title>La 23e dimension</title>
+    <category>Magazine</category>
+    <desc>Chaque nuit, un programme unique et original révèle au grand public tous les talents de l'art contemporain, fait découvrir le travail... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213080000 +0100" stop="20151213091000 +0100">
+    <length units="minutes">70</length>
+    <title>Ça fait débat</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213091000 +0100" stop="20151213100500 +0100">
+    <length units="minutes">55</length>
+    <title>The Killing</title>
+    <category>Série</category>
+    <desc>Avec l'aide de l'imam local, les policiers découvrent de nouveaux indices au domicile d'un proche de Rama, qui confortent les soupçons contre... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Kristoffer Nyholm</name>
+      <name function="actor">Sofie Grabol</name>
+      <name function="actor">Bjarne Henriksen</name>
+      <name function="actor">Lars Mikkelsen</name>
+      <name function="actor">Ann Eleonora Jorgensen</name>
+      <name function="actor">Farshad Kholghi</name>
+      <name function="actor">Soren Malling</name>
+      <name function="actor">Cyron Bjorn Melville</name>
+      <name function="actor">Johan Gry</name>
+      <name function="writer">Soren Sveistrup</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213100500 +0100" stop="20151213110500 +0100">
+    <length units="minutes">60</length>
+    <title>The Killing</title>
+    <category>Série</category>
+    <desc>La police tente désespérément de remetter la main sur Theis, le père de Nanna, qui semble décidé à rendre justice lui-même. Comme l'enquête... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Hans Fabian Wullenweber</name>
+      <name function="actor">Sofie Grabol</name>
+      <name function="actor">Bjarne Henriksen</name>
+      <name function="actor">Lars Mikkelsen</name>
+      <name function="actor">Ann Eleonora Jorgensen</name>
+      <name function="actor">Farshad Kholghi</name>
+      <name function="actor">Soren Malling</name>
+      <name function="actor">Cyron Bjorn Melville</name>
+      <name function="actor">Johan Gry</name>
+      <name function="writer">Torleif Hoppe</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213110500 +0100" stop="20151213121500 +0100">
+    <length units="minutes">70</length>
+    <title>The Killing</title>
+    <category>Série</category>
+    <desc>Jan et Sarah se sont lancés sur une nouvelle piste grâce à un indice capital. Aussi, quand leur chef leur ordonne de freiner leurs... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Charlotte Sieling</name>
+      <name function="actor">Bjarne Henriksen</name>
+      <name function="actor">Lars Mikkelsen</name>
+      <name function="actor">Ann Eleonora Jorgensen</name>
+      <name function="actor">Farshad Kholghi</name>
+      <name function="actor">Soren Malling</name>
+      <name function="actor">Cyron Bjorn Melville</name>
+      <name function="actor">Johan Gry</name>
+      <name function="actor">Sofie Grabol</name>
+      <name function="writer">Michael W Horsten</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213121500 +0100" stop="20151213130500 +0100">
+    <length units="minutes">50</length>
+    <title>The Listener</title>
+    <category>Série</category>
+    <desc>Une mystérieuse inconnue est sauvée de la noyade. Toby et Oz la conduisent à l'hôpital. La jeune femme reprend conscience mais n'a plus aucun... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Kari Skogland</name>
+      <name function="actor">Craig Olejnik</name>
+      <name function="actor">Arnold Pinnock</name>
+      <name function="actor">Lauren Lee Smith</name>
+      <name function="actor">Anthony Lemke</name>
+      <name function="actor">Lisa Marcos</name>
+      <name function="actor">Ennis Esmer</name>
+      <name function="actor">Colm Feore</name>
+      <name function="actor">Mylène Dinh-Robic</name>
+      <name function="writer">Ben Sokolowski</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213130500 +0100" stop="20151213140500 +0100">
+    <length units="minutes">60</length>
+    <title>The Listener</title>
+    <category>Série</category>
+    <desc>Selon un de ses informateurs, Nick, un des agents infiltrés de Michelle, s'est fait repérer. Pour en avoir le coeur net, elle décide de faire... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Charles Binamé</name>
+      <name function="actor">Colm Feore</name>
+      <name function="actor">Craig Olejnik</name>
+      <name function="actor">Lauren Lee Smith</name>
+      <name function="actor">Anthony Lemke</name>
+      <name function="actor">Lisa Marcos</name>
+      <name function="actor">Michael Majeski</name>
+      <name function="actor">Ennis Esmer</name>
+      <name function="actor">Mylène Dinh-Robic</name>
+      <name function="writer">Sam Egan</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213140500 +0100" stop="20151213144000 +0100">
+    <length units="minutes">35</length>
+    <title>Rocking Chair</title>
+    <category>Talk show</category>
+    <desc>Le temps d'un déjeuner préparé par un grand chef, la comédienne Aïssa Maïga se livre au présentateur et partage les grands moments de son... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Bruno de Stabenrath</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213144000 +0100" stop="20151213162000 +0100">
+    <length units="minutes">100</length>
+    <title>Révélations</title>
+    <category>Magazine</category>
+    <desc>Chaque Français boit en moyenne 12 litres d'alcool par an. La culture du vin tient une place prépondérante dans le pays. D'ailleurs, ce secteur... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Yasmine Oughlis</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213162000 +0100" stop="20151213171000 +0100">
+    <length units="minutes">50</length>
+    <title>Demain à la une</title>
+    <category>Série</category>
+    <desc>Gary se rend dans la région du lac Michigan pour empêcher ce qu'il croit être un meurtre. Il se retrouve face à Jim Matthews, un homme hanté par... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Daniel Attias</name>
+      <name function="actor">Fisher Stevens</name>
+      <name function="actor">Kyle Chandler</name>
+      <name function="actor">Dan Conway</name>
+      <name function="actor">Louis Gossett Jr</name>
+      <name function="actor">Shanesia Davis-Williams</name>
+      <name function="actor">Mushond Lee</name>
+      <name function="actor">Elaina Erika Davis</name>
+      <name function="actor">Bill Visteen</name>
+      <name function="writer">Sean Clark</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213171000 +0100" stop="20151213180000 +0100">
+    <length units="minutes">50</length>
+    <title>Demain à la une</title>
+    <category>Série</category>
+    <desc>Chuck accepte de s'occuper du buffet de mariage de l'amie d'enfance de Gary, Genie Berlatski. Mais Gary apprend par le journal que la jeune femme... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">James Quinn</name>
+      <name function="actor">Brian McNamara</name>
+      <name function="actor">Fisher Stevens</name>
+      <name function="actor">Cari Shayne</name>
+      <name function="actor">Kyle Chandler</name>
+      <name function="actor">Shanesia Davis-Williams</name>
+      <name function="actor">Marilyn Dodds Frank</name>
+      <name function="actor">Kwame Amoaku</name>
+      <name function="writer">Carla Kettner</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213180000 +0100" stop="20151213185500 +0100">
+    <length units="minutes">55</length>
+    <title>Demain à la une</title>
+    <category>Série</category>
+    <desc>Après avoir sauvé un jeune fugitif de 11 ans, Gary découvre que celui-ci refuse la chimiothérapie qui pourrait le guérir de sa leucémie. Gary... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Gary Nelson</name>
+      <name function="actor">John Spencer</name>
+      <name function="actor">Fisher Stevens</name>
+      <name function="actor">Kyle Chandler</name>
+      <name function="actor">Shanesia Davis-Williams</name>
+      <name function="actor">Robyn Lively</name>
+      <name function="actor">Zaks Lubin</name>
+      <name function="actor">Lisa Dodson</name>
+      <name function="actor">Kevin Gudahl</name>
+      <name function="writer">Alex Taub</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213185500 +0100" stop="20151213195000 +0100">
+    <length units="minutes">55</length>
+    <title>Demain à la une</title>
+    <category>Série</category>
+    <desc>Gary apprend qu'un de ses anciens amis, un agent de change, trouvera la mort après une opération de chirurgie esthétique, non sans avoir, au... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Mel Damski</name>
+      <name function="actor">Barbara Howard</name>
+      <name function="actor">Fisher Stevens</name>
+      <name function="actor">Romy Walthall</name>
+      <name function="actor">Kyle Chandler</name>
+      <name function="actor">Richard Gilliland</name>
+      <name function="actor">John Lordan</name>
+      <name function="actor">Shanesia Davis-Williams</name>
+      <name function="actor">Ronald B Parady</name>
+      <name function="writer">Nick Harding</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213195000 +0100" stop="20151213205000 +0100">
+    <length units="minutes">60</length>
+    <title>Demain à la une</title>
+    <category>Série</category>
+    <desc>Alors qu'il vient d'être libéré de prison, Karim Jackson se rend devant l'église où son plus jeune frère joue au basket-ball. Gary apprend par... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Gary Nelson</name>
+      <name function="actor">Fisher Stevens</name>
+      <name function="actor">Nia Peeples</name>
+      <name function="actor">Kyle Chandler</name>
+      <name function="actor">Judy Greer</name>
+      <name function="actor">Shanesia Davis-Williams</name>
+      <name function="actor">Vicellous Reon Shannon</name>
+      <name function="actor">Nigél Thatch</name>
+      <name function="actor">Gaddiel Otero</name>
+      <name function="writer">George Eckstein</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213205000 +0100" stop="20151213223500 +0100">
+    <length units="minutes">105</length>
+    <title>Révélations</title>
+    <category>Magazine</category>
+    <desc>Avec plus de 30 millions de visiteurs par an et un chiffre d'affaires avoisinant les deux milliards d'euros, les 300 sites ouverts au public en... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Yasmine Oughlis</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213223500 +0100" stop="20151213224500 +0100">
     <length units="minutes">10</length>
     <title>Là où je t'emmènerai</title>
     <category>Magazine</category>
     <desc>Une personnalité invite à découvrir l'endroit où elle rêverait d'emmener un être cher. (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213010500 +0100" stop="20151213020000 +0100">
-    <length units="minutes">55</length>
-    <title>Ink Master : maître vs apprenti</title>
-    <category>Documentaire</category>
-    <desc>Composition stratégique Après une élimination d'anthologie, les candidats restants doivent se remettre au travail. Et c'est sur la composition qu'ils sont testés cette... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213020000 +0100" stop="20151213024500 +0100">
-    <length units="minutes">45</length>
-    <title>Ink Master : maître vs apprenti</title>
-    <category>Documentaire</category>
-    <desc>Dompter la flamme Après avoir peint des panneaux de bois avec du feu pour le défi flash, les artistes devront tatouer Neptune. (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213024500 +0100" stop="20151213042500 +0100">
+  <programme channel="burger" start="20151213224500 +0100" stop="20151214002500 +0100">
     <length units="minutes">100</length>
-    <title>Dossiers surnaturels</title>
-    <category>Documentaire</category>
-    <desc>Les «expérienceurs» affirment être revenus de la mort après un accident de la route, une opération chirurgicale ou encore un infarctus.... (Lire la suite).(n)</desc>
+    <title>Le convoyeur (?)</title>
+    <category>Film</category>
+    <desc>La société «Vigilante», une petite compagnie de transport de fonds, traverse une grave crise. Elle a été victime, en un an, de trois violents... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Dimitri Grimblat</name>
+      <name function="director">Nicolas Boukhrief</name>
+      <name function="actor">Albert Dupontel</name>
+      <name function="actor">Claude Perron</name>
+      <name function="actor">Philippe Laudenbach</name>
+      <name function="actor">Gilles Gaston-Dreyfus</name>
+      <name function="actor">Julien Boisselier</name>
+      <name function="actor">Jean Dujardin</name>
+      <name function="actor">Aure Atika</name>
+      <name function="actor">François Berléand</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213042500 +0100" stop="20151213061500 +0100">
-    <length units="minutes">110</length>
-    <title>Dossiers surnaturels</title>
-    <category>Documentaire</category>
-    <desc>Hypnotiseurs, mentalistes : peuvent-ils nous contrôler ? Hypnotiseurs ou mentalistes, ils fascinent les foules en manipulant les esprits. Certains scientifiques, médecins et chirurgiens se sont même... (Lire la suite).(n)</desc>
+  <programme channel="burger" start="20151214002500 +0100" stop="20151214022000 +0100">
+    <length units="minutes">115</length>
+    <title>Regarde les hommes tomber (?)</title>
+    <category>Film</category>
+    <desc>Simon Hirsch est représentant de commerce. L'ennui s'est emparé de sa vie : les affaires ne marchent plus, et, surtout, il se sent vieillir.... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jacques Audiard</name>
+      <name function="actor">Christine Pascal</name>
+      <name function="actor">Jean Yanne</name>
+      <name function="actor">Jean-Louis Trintignant</name>
+      <name function="actor">Mathieu Kassovitz</name>
+      <name function="actor">Bulle Ogier</name>
+      <name function="actor">Marc Citti</name>
+      <name function="actor">Yvon Back</name>
+      <name function="actor">Roger Mollien</name>
+    </credits>
     <image />
   </programme>
 </tv>

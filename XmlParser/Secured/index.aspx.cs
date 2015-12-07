@@ -19,7 +19,7 @@ using System.Xml.Linq;
 using Ionic.Zip;
 using XmlParser.Code;
 using XmlParser.Core.Core;
-using XmlParser.DataContext;
+using XmlParser.Core.DataContext;
 
 #endregion Using ...
 
@@ -80,7 +80,7 @@ namespace XmlParser
                         if (source != null)
                         {
                             var extension = source.Type.ToLower().Equals("zip") ? ".zip" : ".xml";
-                            var fileName = DownloadFile(source.URL, extension);
+                            var fileName = DownloadFile(source.Url, extension);
                             //MODIFY HERE
                             if (!string.IsNullOrEmpty(fileName))
                             {
@@ -106,7 +106,7 @@ namespace XmlParser
                                  foreach (var xmlFile in _sourceXmlList)
                                  {
 
-                                     var sourceUri = new Uri(source.URL);
+                                     var sourceUri = new Uri(source.Url);
                                      var newChannelName = string.Empty;
                                      var newOffset = 0;
 
@@ -206,7 +206,7 @@ namespace XmlParser
             {
                 var source = new SourceURL
                 {
-                    URL = txtSourceURLAdd.Text,
+                    Url = txtSourceURLAdd.Text,
                     Type=ddlSourceType.SelectedValue,
                     IsActive = true,
                     EntryDate = DateTime.Today,
@@ -215,7 +215,7 @@ namespace XmlParser
                 };
                 dataContext.SourceURLs.Add(source);
                 dataContext.SaveChanges();
-                source.ActiveChannels = GetActiveChannels(source.URL, source.Srno);
+                source.ActiveChannels = GetActiveChannels(source.Url, source.Srno);
                 dataContext.SaveChanges(); 
             }
 
@@ -251,7 +251,7 @@ namespace XmlParser
 
                     var sourceUrl = new SourceURL
                     {
-                        URL = url,
+                        Url = url,
                         Type = type,
                         EntryIP= CommonFunctions.GetIpAddress(),
                         EntryDate = DateTime.Today,
@@ -265,7 +265,7 @@ namespace XmlParser
                         {
                             dataContext.SourceURLs.Add(sourceUrl);
                             dataContext.SaveChanges();
-                            sourceUrl.ActiveChannels = GetActiveChannels(sourceUrl.URL,sourceUrl.Srno);
+                            sourceUrl.ActiveChannels = GetActiveChannels(sourceUrl.Url, sourceUrl.Srno);
                             dataContext.SaveChanges();
                         }
                     }
@@ -376,10 +376,8 @@ namespace XmlParser
 
                 #endregion Channel Name...
 
-                //1.> Nov-19 - Remove any Illegeal characters from filename.
-                
-                
-                //2.> Nov-25 - Task ID:  1647 (duplicate channel bug ).
+                 //1.> Nov-19 - Remove any Illegeal characters from filename.
+                 //2.> Nov-25 - Task ID:  1647 (duplicate channel bug ).
                 if (outputFileName.Contains("http://"))
                 {
                     outputFileName = outputFileName.Substring(0, outputFileName.IndexOf("http://", StringComparison.Ordinal));
@@ -398,20 +396,16 @@ namespace XmlParser
                         continue;
                 }
                 //End
-
-
-
+                 
                 var tvChannel = new tvChannel
                 {
                    id = id,
                    displayname = channelName,
-               
                 };
 
                 _tv.channel = tvChannel;
 
                 #endregion Channel...
-
 
                 #region Programme Nodes...
 
@@ -543,11 +537,9 @@ namespace XmlParser
                 }
 
                 #endregion Programme Nodes...
-
                  
                 _tv.Save(Server.MapPath("../Output/" + outputFileName + ".xml"));
-
-
+                
                 #region Generate Additional Xml...
 
                 var _tv2 = new Code.SecondOutput.tv();
@@ -604,7 +596,6 @@ namespace XmlParser
 
                 #endregion Generate Additional Xml...
 
-                 
                  _outputXmlList.Add("../Output/" + outputFileName + ".xml" + "," 
                      + _startDate.Date.ToShortDateString() + "," 
                      + _stopDate.Date.ToShortDateString() + ","
@@ -745,8 +736,10 @@ namespace XmlParser
                     }
                 }
 
+                zip.Dispose();
             }
 
+            
             return activeChannelList;
         }
 
@@ -762,13 +755,13 @@ namespace XmlParser
             var zip = ZipFile.Read(Server.MapPath(zipFileName));
             zip.ExtractAll(outputDirectory, ExtractExistingFileAction.OverwriteSilently);
 
-            var files = Directory.GetFiles(outputDirectory, "*.xml", SearchOption.TopDirectoryOnly);
+            var files = Directory.GetFiles(outputDirectory + Path.GetFileNameWithoutExtension(zipFileName), "*.xml", SearchOption.TopDirectoryOnly);
 
             foreach (var xmlFile in files)
             {
                 _sourceXmlList.Add(xmlFile);
             }
-
+             
         }
 
         /// <summary>
@@ -853,7 +846,7 @@ namespace XmlParser
             {
                 var source = dataContext.SourceURLs.Find(srno);
 
-                source.URL = sourceUrl;
+                source.Url = sourceUrl;
                 source.Type = sourceType;
                 source.EntryDate = DateTime.Today;
                 source.IsActive = true;

@@ -46,6 +46,7 @@ namespace XmlParser.Core.Core
         /// <param name="epgStart"></param>
         public static List<string> GenerateOutputXml(string sourceXml, long srno,out DateTime epgStart,out DateTime epgEnd, string newChannelName = null, int newOffset = 0)
        {
+            OutputXmlList.Clear();
             epgStart=new DateTime();
             epgEnd = new DateTime();
 

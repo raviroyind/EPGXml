@@ -1,487 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="MCM">
-    <display-name>MTV</display-name>
+    <display-name>burger</display-name>
   </channel>
-  <programme channel="MTV" start="20151206060000 +0100" stop="20151206070000 +0100">
-    <length units="minutes">60</length>
-    <title>Ultra Electro</title>
-    <category>Clips</category>
-    <desc>Une sélection de clips techno, house, électro et drum'n bass. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206070000 +0100" stop="20151206080000 +0100">
-    <length units="minutes">60</length>
-    <title>Certifié Classic</title>
-    <category>Clips</category>
-    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206080000 +0100" stop="20151206093000 +0100">
+  <programme channel="burger" start="20151207020000 +0100" stop="20151207033000 +0100">
     <length units="minutes">90</length>
     <title>Top 50 hebdo</title>
     <category>Magazine</category>
     <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151206093000 +0100" stop="20151206100000 +0100">
+  <programme channel="burger" start="20151207033000 +0100" stop="20151207040000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151206100000 +0100" stop="20151206113000 +0100">
+  <programme channel="burger" start="20151207040000 +0100" stop="20151207053000 +0100">
     <length units="minutes">90</length>
     <title>Top 50 hebdo</title>
     <category>Magazine</category>
     <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151206113000 +0100" stop="20151206120000 +0100">
+  <programme channel="burger" start="20151207053000 +0100" stop="20151207060000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151206120000 +0100" stop="20151206130000 +0100">
-    <length units="minutes">60</length>
-    <title>Certifié Classic</title>
-    <category>Clips</category>
-    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206130000 +0100" stop="20151206140000 +0100">
-    <length units="minutes">60</length>
-    <title>Ultra Tubes</title>
-    <category>Clips</category>
-    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206140000 +0100" stop="20151206144000 +0100">
-    <length units="minutes">40</length>
-    <title>Ultra Tubes</title>
-    <category>Clips</category>
-    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206144000 +0100" stop="20151206163000 +0100">
-    <length units="minutes">110</length>
-    <title>My Top 50</title>
-    <category>Magazine</category>
-    <desc>Emission 5 Une présentation du top 50 de MCM, classement des meilleures ventes de singles du moment. Un téléspectateur prend les commandes de... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206163000 +0100" stop="20151206164500 +0100">
-    <length units="minutes">15</length>
-    <title>Gamix</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, l'émission fait le point sur les dernières news de la culture digitale. Au menu de ce nouveau magazine, des reportages inédits... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Florian Gazan,</name>
-      <name function="presenter">Manu Levy</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206164500 +0100" stop="20151206171200 +0100">
-    <length units="minutes">27</length>
-    <title>One Piece</title>
-    <category>Dessin animé</category>
-    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Konosuke Uda</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206171200 +0100" stop="20151206173600 +0100">
-    <length units="minutes">24</length>
-    <title>One Piece</title>
-    <category>Dessin animé</category>
-    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Konosuke Uda</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206173600 +0100" stop="20151206180200 +0100">
-    <length units="minutes">26</length>
-    <title>One Piece</title>
-    <category>Dessin animé</category>
-    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Konosuke Uda</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206180200 +0100" stop="20151206182600 +0100">
-    <length units="minutes">24</length>
-    <title>One Piece</title>
-    <category>Dessin animé</category>
-    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Konosuke Uda</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206182600 +0100" stop="20151206185100 +0100">
-    <length units="minutes">25</length>
-    <title>One Piece</title>
-    <category>Dessin animé</category>
-    <desc>Dans une petite ville portuaire vit Monkey D. Luffy, un jeune garçon qui rêve de devenir pirate. Il va pouvoir montrer tout ce dont il est... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Konosuke Uda</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206185100 +0100" stop="20151206191500 +0100">
-    <length units="minutes">24</length>
-    <title>One Piece</title>
-    <category>Dessin animé</category>
-    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Konosuke Uda</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206191500 +0100" stop="20151206194000 +0100">
-    <length units="minutes">25</length>
-    <title>One Piece</title>
-    <category>Dessin animé</category>
-    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Konosuke Uda</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206194000 +0100" stop="20151206200500 +0100">
-    <length units="minutes">25</length>
-    <title>One Piece</title>
-    <category>Dessin animé</category>
-    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Konosuke Uda</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206200500 +0100" stop="20151206202800 +0100">
-    <length units="minutes">23</length>
-    <title>Futurama</title>
-    <category>Série</category>
-    <desc>Lorsqu'un robot, vedette d'une série télévisée à succès, tombe en panne, Bender saisit sa chance de devenir célèbre. Il s'assure d'être retenu... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Ron Hughart</name>
-      <name function="writer">Lewis Morton</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206202800 +0100" stop="20151206205200 +0100">
-    <length units="minutes">24</length>
-    <title>Futurama</title>
-    <category>Série</category>
-    <desc>Afin de conquérir le coeur de la belle Leela, Fry décide de suivre des cours de musique. Il ne s'avère cependant pas très doué et pactise avec le... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Rich Moore</name>
-      <name function="writer">Ken Keeler</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206205200 +0100" stop="20151206211500 +0100">
-    <length units="minutes">23</length>
-    <title>Futurama</title>
-    <category>Série</category>
-    <desc>L'équipe de Planet Express se bat contre des aliens pour sauver la Terre. Alors que les diaboliques extraterrestres lancent une cyber-attaque... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Dwayne Carey-Hill</name>
-      <name function="writer">Matt Groening</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206211500 +0100" stop="20151206213800 +0100">
-    <length units="minutes">23</length>
-    <title>Futurama</title>
-    <category>Série</category>
-    <desc>Les extraterrestres commencent à piller tout ce qui a une quelconque valeur dans l'Histoire de la Terre. Ils ordonnent à Bender de tuer Fry. De... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Dwayne Carey-Hill</name>
-      <name function="writer">Matt Groening</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206213800 +0100" stop="20151206220500 +0100">
-    <length units="minutes">27</length>
-    <title>Futurama</title>
-    <category>Série</category>
-    <desc>Les extraterrestres pensent avoir gagné et être enfin parvenus à détruire la civilisation terrienne. Ils sont persuadés que Fry est mort. Or,... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Dwayne Carey-Hill</name>
-      <name function="writer">Matt Groening</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206220500 +0100" stop="20151206223200 +0100">
-    <length units="minutes">27</length>
-    <title>Friends</title>
-    <category>Série</category>
-    <desc>Rachel remplit une fiche d'évaluation concernant les compétences professionnelles de Tag, son assistant. Or, la fiche tombe entre de mauvaises... (Lire la suite).</desc>
-    <credits>
-      <name function="director">David Schwimmer</name>
-      <name function="actor">Matt LeBlanc</name>
-      <name function="actor">Matthew Perry</name>
-      <name function="actor">Courteney Cox</name>
-      <name function="actor">Jennifer Aniston</name>
-      <name function="actor">Lisa Kudrow</name>
-      <name function="actor">David Schwimmer</name>
-      <name function="actor">Eddie Cahill</name>
-      <name function="actor">Steve Ireland</name>
-      <name function="writer">Wil Calhoun</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206223200 +0100" stop="20151206225800 +0100">
-    <length units="minutes">26</length>
-    <title>Friends</title>
-    <category>Série</category>
-    <desc>Ross essaie, tant que faire se peut, d'initier son fils Ben à Hanoukka, mais celui-ci ne pense qu'au Père Noël et aux cadeaux qu'il aimerait... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Gary Halvorson</name>
-      <name function="actor">Lisa Kudrow</name>
-      <name function="actor">David Schwimmer</name>
-      <name function="actor">Matt LeBlanc</name>
-      <name function="actor">Matthew Perry</name>
-      <name function="actor">Courteney Cox</name>
-      <name function="actor">Jennifer Aniston</name>
-      <name function="actor">Cole Sprouse</name>
-      <name function="actor">James Michael Tyler</name>
-      <name function="writer">Greg Malins</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206225800 +0100" stop="20151206232200 +0100">
-    <length units="minutes">24</length>
-    <title>Friends</title>
-    <category>Série</category>
-    <desc>Rachel et Chandler ne peuvent résister à de délicieux cheesecakes livrés par erreur à leur adresse. Le paquet était en fait destiné à leur... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Gary Halvorson</name>
-      <name function="actor">Lisa Kudrow</name>
-      <name function="actor">David Schwimmer</name>
-      <name function="actor">Matt LeBlanc</name>
-      <name function="actor">Matthew Perry</name>
-      <name function="actor">Courteney Cox</name>
-      <name function="actor">Hank Azaria</name>
-      <name function="actor">Jennifer Aniston</name>
-      <name function="actor">Darlene Kardon</name>
-      <name function="writer">Shana Goldberg-Meehan</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206232200 +0100" stop="20151206234700 +0100">
-    <length units="minutes">25</length>
-    <title>Friends</title>
-    <category>Série</category>
-    <desc>Particulièrement excité, Ross convie ses amis à venir admirer depuis le balcon un phénomène astronomique rare : un météore. Mais, fatigués... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Kevin Bright</name>
-      <name function="actor">Lisa Kudrow</name>
-      <name function="actor">David Schwimmer</name>
-      <name function="actor">Matt LeBlanc</name>
-      <name function="actor">Matthew Perry</name>
-      <name function="actor">Courteney Cox</name>
-      <name function="actor">Jennifer Aniston</name>
-      <name function="writer">Zachary Rosenblatt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206234700 +0100" stop="20151207001100 +0100">
-    <length units="minutes">24</length>
-    <title>Friends</title>
-    <category>Série</category>
-    <desc>Les Geller ont décidé de vendre leur maison et invitent Ross et Monica à venir récupérer leurs souvenirs d'enfance. Malheureusement, Jack Geller... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Stephen Prime</name>
-      <name function="actor">Lisa Kudrow</name>
-      <name function="actor">David Schwimmer</name>
-      <name function="actor">Matt LeBlanc</name>
-      <name function="actor">Matthew Perry</name>
-      <name function="actor">Elliott Gould</name>
-      <name function="actor">Jason Alexander</name>
-      <name function="actor">Courteney Cox</name>
-      <name function="actor">Jennifer Aniston</name>
-      <name function="writer">Brian Buckner</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207001100 +0100" stop="20151207003500 +0100">
-    <length units="minutes">24</length>
-    <title>Friends</title>
-    <category>Série</category>
-    <desc>Alors que Rachel se prépare à fêter bientôt ses 30 ans, ses amis et elle se rappellent des souvenirs liés à leur propre 30e anniversaire : Ross... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Ben Weiss</name>
-      <name function="actor">Lisa Kudrow</name>
-      <name function="actor">David Schwimmer</name>
-      <name function="actor">Matt LeBlanc</name>
-      <name function="actor">Matthew Perry</name>
-      <name function="actor">Elliott Gould</name>
-      <name function="actor">Courteney Cox</name>
-      <name function="actor">Jennifer Aniston</name>
-      <name function="actor">Eddie Cahill</name>
-      <name function="writer">Sherry Bilsing</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207003500 +0100" stop="20151207011900 +0100">
-    <length units="minutes">44</length>
-    <title>The Tonight Show Starring Jimmy Fallon</title>
-    <category>Talk show</category>
-    <desc>Mêlant humour et talk-show, Jimmy Fallon reçoit des personnalités de la musique, du cinéma, ou encore du sport, pour un... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jimmy Fallon</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207011900 +0100" stop="20151207020500 +0100">
-    <length units="minutes">46</length>
-    <title>The Tonight Show Starring Jimmy Fallon</title>
-    <category>Talk show</category>
-    <desc>Mêlant humour et talk-show, Jimmy Fallon reçoit des personnalités de la musique, du cinéma, ou encore du sport, pour un... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jimmy Fallon</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207020500 +0100" stop="20151207022000 +0100">
-    <length units="minutes">15</length>
-    <title>Gamix</title>
-    <category>Magazine</category>
-    <desc>Chaque semaine, l'émission fait le point sur les dernières news de la culture digitale. Au menu de ce nouveau magazine, des reportages inédits... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Florian Gazan,</name>
-      <name function="presenter">Manu Levy</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207022000 +0100" stop="20151207030000 +0100">
-    <length units="minutes">40</length>
-    <title>Ultra Tubes</title>
-    <category>Clips</category>
-    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207030000 +0100" stop="20151207040000 +0100">
-    <length units="minutes">60</length>
-    <title>Ultra Tubes</title>
-    <category>Clips</category>
-    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207040000 +0100" stop="20151207041000 +0100">
-    <length units="minutes">10</length>
-    <title>Ultra Tubes</title>
-    <category>Clips</category>
-    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207041000 +0100" stop="20151207060000 +0100">
-    <length units="minutes">110</length>
-    <title>My Top 50</title>
-    <category>Magazine</category>
-    <desc>Emission 5 Une présentation du top 50 de MCM, classement des meilleures ventes de singles du moment. Un téléspectateur prend les commandes de... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207060000 +0100" stop="20151207073000 +0100">
-    <length units="minutes">90</length>
-    <title>Top 50 hebdo</title>
-    <category>Magazine</category>
-    <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207073000 +0100" stop="20151207080000 +0100">
-    <length units="minutes">30</length>
-    <title>Certifié Classic</title>
-    <category>Clips</category>
-    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207080000 +0100" stop="20151207093000 +0100">
-    <length units="minutes">90</length>
-    <title>Top 50 hebdo</title>
-    <category>Magazine</category>
-    <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207093000 +0100" stop="20151207100000 +0100">
-    <length units="minutes">30</length>
-    <title>Certifié Classic</title>
-    <category>Clips</category>
-    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207100000 +0100" stop="20151207110000 +0100">
+  <programme channel="burger" start="20151207060000 +0100" stop="20151207070000 +0100">
     <length units="minutes">60</length>
     <title>Top 50 hebdo</title>
     <category>Magazine</category>
     <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207110000 +0100" stop="20151207113000 +0100">
+  <programme channel="burger" start="20151207070000 +0100" stop="20151207073000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207113000 +0100" stop="20151207120000 +0100">
+  <programme channel="burger" start="20151207073000 +0100" stop="20151207080000 +0100">
     <length units="minutes">30</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207120000 +0100" stop="20151207130000 +0100">
+  <programme channel="burger" start="20151207080000 +0100" stop="20151207090000 +0100">
     <length units="minutes">60</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207130000 +0100" stop="20151207140000 +0100">
+  <programme channel="burger" start="20151207090000 +0100" stop="20151207100000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207140000 +0100" stop="20151207150000 +0100">
+  <programme channel="burger" start="20151207100000 +0100" stop="20151207110000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207150000 +0100" stop="20151207160000 +0100">
+  <programme channel="burger" start="20151207110000 +0100" stop="20151207120000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207160000 +0100" stop="20151207170000 +0100">
+  <programme channel="burger" start="20151207120000 +0100" stop="20151207130000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207170000 +0100" stop="20151207180000 +0100">
+  <programme channel="burger" start="20151207130000 +0100" stop="20151207140000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207180000 +0100" stop="20151207182400 +0100">
+  <programme channel="burger" start="20151207140000 +0100" stop="20151207142400 +0100">
     <length units="minutes">24</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -492,7 +105,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207182400 +0100" stop="20151207184800 +0100">
+  <programme channel="burger" start="20151207142400 +0100" stop="20151207144800 +0100">
     <length units="minutes">24</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -502,7 +115,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207184800 +0100" stop="20151207191000 +0100">
+  <programme channel="burger" start="20151207144800 +0100" stop="20151207151000 +0100">
     <length units="minutes">22</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -512,7 +125,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207191000 +0100" stop="20151207193500 +0100">
+  <programme channel="burger" start="20151207151000 +0100" stop="20151207153500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -523,7 +136,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207193500 +0100" stop="20151207195900 +0100">
+  <programme channel="burger" start="20151207153500 +0100" stop="20151207155900 +0100">
     <length units="minutes">24</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -534,7 +147,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207195900 +0100" stop="20151207202500 +0100">
+  <programme channel="burger" start="20151207155900 +0100" stop="20151207162500 +0100">
     <length units="minutes">26</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -545,7 +158,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207202500 +0100" stop="20151207210500 +0100">
+  <programme channel="burger" start="20151207162500 +0100" stop="20151207170500 +0100">
     <length units="minutes">40</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -555,7 +168,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207210500 +0100" stop="20151207212900 +0100">
+  <programme channel="burger" start="20151207170500 +0100" stop="20151207172900 +0100">
     <length units="minutes">24</length>
     <title>Friends</title>
     <category>Série</category>
@@ -574,7 +187,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207212900 +0100" stop="20151207215500 +0100">
+  <programme channel="burger" start="20151207172900 +0100" stop="20151207175500 +0100">
     <length units="minutes">26</length>
     <title>Friends</title>
     <category>Série</category>
@@ -593,7 +206,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207215500 +0100" stop="20151207221900 +0100">
+  <programme channel="burger" start="20151207175500 +0100" stop="20151207181900 +0100">
     <length units="minutes">24</length>
     <title>Friends</title>
     <category>Série</category>
@@ -612,7 +225,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207221900 +0100" stop="20151207224500 +0100">
+  <programme channel="burger" start="20151207181900 +0100" stop="20151207184500 +0100">
     <length units="minutes">26</length>
     <title>Friends</title>
     <category>Série</category>
@@ -631,7 +244,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207224500 +0100" stop="20151207231000 +0100">
+  <programme channel="burger" start="20151207184500 +0100" stop="20151207191000 +0100">
     <length units="minutes">25</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -641,7 +254,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207231000 +0100" stop="20151207233600 +0100">
+  <programme channel="burger" start="20151207191000 +0100" stop="20151207193600 +0100">
     <length units="minutes">26</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -651,7 +264,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207233600 +0100" stop="20151208000100 +0100">
+  <programme channel="burger" start="20151207193600 +0100" stop="20151207200100 +0100">
     <length units="minutes">25</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -661,7 +274,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208000100 +0100" stop="20151208003000 +0100">
+  <programme channel="burger" start="20151207200100 +0100" stop="20151207203000 +0100">
     <length units="minutes">29</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -671,7 +284,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208003000 +0100" stop="20151208005300 +0100">
+  <programme channel="burger" start="20151207203000 +0100" stop="20151207205300 +0100">
     <length units="minutes">23</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -682,7 +295,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208005300 +0100" stop="20151208011500 +0100">
+  <programme channel="burger" start="20151207205300 +0100" stop="20151207211500 +0100">
     <length units="minutes">22</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -692,7 +305,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208011500 +0100" stop="20151208014000 +0100">
+  <programme channel="burger" start="20151207211500 +0100" stop="20151207214000 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -703,7 +316,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208014000 +0100" stop="20151208020500 +0100">
+  <programme channel="burger" start="20151207214000 +0100" stop="20151207220500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -714,7 +327,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208020500 +0100" stop="20151208025000 +0100">
+  <programme channel="burger" start="20151207220500 +0100" stop="20151207225000 +0100">
     <length units="minutes">45</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -724,28 +337,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208025000 +0100" stop="20151208030000 +0100">
+  <programme channel="burger" start="20151207225000 +0100" stop="20151207230000 +0100">
     <length units="minutes">10</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208030000 +0100" stop="20151208040000 +0100">
+  <programme channel="burger" start="20151207230000 +0100" stop="20151208000000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208040000 +0100" stop="20151208044500 +0100">
+  <programme channel="burger" start="20151208000000 +0100" stop="20151208004500 +0100">
     <length units="minutes">45</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208044500 +0100" stop="20151208051000 +0100">
+  <programme channel="burger" start="20151208004500 +0100" stop="20151208011000 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -756,7 +369,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208051000 +0100" stop="20151208053500 +0100">
+  <programme channel="burger" start="20151208011000 +0100" stop="20151208013500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -767,7 +380,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208053500 +0100" stop="20151208061700 +0100">
+  <programme channel="burger" start="20151208013500 +0100" stop="20151208021700 +0100">
     <length units="minutes">42</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -777,7 +390,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208061700 +0100" stop="20151208070000 +0100">
+  <programme channel="burger" start="20151208021700 +0100" stop="20151208030000 +0100">
     <length units="minutes">43</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -787,91 +400,91 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208070000 +0100" stop="20151208083000 +0100">
+  <programme channel="burger" start="20151208030000 +0100" stop="20151208043000 +0100">
     <length units="minutes">90</length>
     <title>Top 50 hebdo</title>
     <category>Magazine</category>
     <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208083000 +0100" stop="20151208090000 +0100">
+  <programme channel="burger" start="20151208043000 +0100" stop="20151208050000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208090000 +0100" stop="20151208103000 +0100">
+  <programme channel="burger" start="20151208050000 +0100" stop="20151208063000 +0100">
     <length units="minutes">90</length>
     <title>Top 50 hebdo</title>
     <category>Magazine</category>
     <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208103000 +0100" stop="20151208110000 +0100">
+  <programme channel="burger" start="20151208063000 +0100" stop="20151208070000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208110000 +0100" stop="20151208113000 +0100">
+  <programme channel="burger" start="20151208070000 +0100" stop="20151208073000 +0100">
     <length units="minutes">30</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208113000 +0100" stop="20151208120000 +0100">
+  <programme channel="burger" start="20151208073000 +0100" stop="20151208080000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208120000 +0100" stop="20151208130000 +0100">
+  <programme channel="burger" start="20151208080000 +0100" stop="20151208090000 +0100">
     <length units="minutes">60</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208130000 +0100" stop="20151208140000 +0100">
+  <programme channel="burger" start="20151208090000 +0100" stop="20151208100000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208140000 +0100" stop="20151208150000 +0100">
+  <programme channel="burger" start="20151208100000 +0100" stop="20151208110000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208150000 +0100" stop="20151208160000 +0100">
+  <programme channel="burger" start="20151208110000 +0100" stop="20151208120000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208160000 +0100" stop="20151208170000 +0100">
+  <programme channel="burger" start="20151208120000 +0100" stop="20151208130000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208170000 +0100" stop="20151208180000 +0100">
+  <programme channel="burger" start="20151208130000 +0100" stop="20151208140000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208180000 +0100" stop="20151208182400 +0100">
+  <programme channel="burger" start="20151208140000 +0100" stop="20151208142400 +0100">
     <length units="minutes">24</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -881,7 +494,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208182400 +0100" stop="20151208184800 +0100">
+  <programme channel="burger" start="20151208142400 +0100" stop="20151208144800 +0100">
     <length units="minutes">24</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -891,7 +504,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208184800 +0100" stop="20151208191000 +0100">
+  <programme channel="burger" start="20151208144800 +0100" stop="20151208151000 +0100">
     <length units="minutes">22</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -901,7 +514,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208191000 +0100" stop="20151208193500 +0100">
+  <programme channel="burger" start="20151208151000 +0100" stop="20151208153500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -912,7 +525,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208193500 +0100" stop="20151208195900 +0100">
+  <programme channel="burger" start="20151208153500 +0100" stop="20151208155900 +0100">
     <length units="minutes">24</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -923,7 +536,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208195900 +0100" stop="20151208202500 +0100">
+  <programme channel="burger" start="20151208155900 +0100" stop="20151208162500 +0100">
     <length units="minutes">26</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -934,7 +547,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208202500 +0100" stop="20151208210500 +0100">
+  <programme channel="burger" start="20151208162500 +0100" stop="20151208170500 +0100">
     <length units="minutes">40</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -944,7 +557,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208210500 +0100" stop="20151208212900 +0100">
+  <programme channel="burger" start="20151208170500 +0100" stop="20151208172900 +0100">
     <length units="minutes">24</length>
     <title>Friends</title>
     <category>Série</category>
@@ -963,7 +576,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208212900 +0100" stop="20151208215500 +0100">
+  <programme channel="burger" start="20151208172900 +0100" stop="20151208175500 +0100">
     <length units="minutes">26</length>
     <title>Friends</title>
     <category>Série</category>
@@ -982,7 +595,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208215500 +0100" stop="20151208221900 +0100">
+  <programme channel="burger" start="20151208175500 +0100" stop="20151208181900 +0100">
     <length units="minutes">24</length>
     <title>Friends</title>
     <category>Série</category>
@@ -1001,7 +614,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208221900 +0100" stop="20151208224500 +0100">
+  <programme channel="burger" start="20151208181900 +0100" stop="20151208184500 +0100">
     <length units="minutes">26</length>
     <title>Friends</title>
     <category>Série</category>
@@ -1020,7 +633,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208224500 +0100" stop="20151208231000 +0100">
+  <programme channel="burger" start="20151208184500 +0100" stop="20151208191000 +0100">
     <length units="minutes">25</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1030,7 +643,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208231000 +0100" stop="20151208233600 +0100">
+  <programme channel="burger" start="20151208191000 +0100" stop="20151208193600 +0100">
     <length units="minutes">26</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1040,7 +653,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208233600 +0100" stop="20151209000100 +0100">
+  <programme channel="burger" start="20151208193600 +0100" stop="20151208200100 +0100">
     <length units="minutes">25</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1050,7 +663,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209000100 +0100" stop="20151209003000 +0100">
+  <programme channel="burger" start="20151208200100 +0100" stop="20151208203000 +0100">
     <length units="minutes">29</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1060,7 +673,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209003000 +0100" stop="20151209005300 +0100">
+  <programme channel="burger" start="20151208203000 +0100" stop="20151208205300 +0100">
     <length units="minutes">23</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -1070,7 +683,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209005300 +0100" stop="20151209011500 +0100">
+  <programme channel="burger" start="20151208205300 +0100" stop="20151208211500 +0100">
     <length units="minutes">22</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -1080,7 +693,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209011500 +0100" stop="20151209014000 +0100">
+  <programme channel="burger" start="20151208211500 +0100" stop="20151208214000 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1091,7 +704,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209014000 +0100" stop="20151209020500 +0100">
+  <programme channel="burger" start="20151208214000 +0100" stop="20151208220500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1102,7 +715,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209020500 +0100" stop="20151209025000 +0100">
+  <programme channel="burger" start="20151208220500 +0100" stop="20151208225000 +0100">
     <length units="minutes">45</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -1112,7 +725,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209025000 +0100" stop="20151209031400 +0100">
+  <programme channel="burger" start="20151208225000 +0100" stop="20151208231400 +0100">
     <length units="minutes">24</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1122,7 +735,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209031400 +0100" stop="20151209033900 +0100">
+  <programme channel="burger" start="20151208231400 +0100" stop="20151208233900 +0100">
     <length units="minutes">25</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1132,7 +745,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209033900 +0100" stop="20151209040300 +0100">
+  <programme channel="burger" start="20151208233900 +0100" stop="20151209000300 +0100">
     <length units="minutes">24</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1142,7 +755,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209040300 +0100" stop="20151209042700 +0100">
+  <programme channel="burger" start="20151209000300 +0100" stop="20151209002700 +0100">
     <length units="minutes">24</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1152,7 +765,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209042700 +0100" stop="20151209044500 +0100">
+  <programme channel="burger" start="20151209002700 +0100" stop="20151209004500 +0100">
     <length units="minutes">18</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1162,7 +775,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209044500 +0100" stop="20151209051000 +0100">
+  <programme channel="burger" start="20151209004500 +0100" stop="20151209011000 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1173,7 +786,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209051000 +0100" stop="20151209053500 +0100">
+  <programme channel="burger" start="20151209011000 +0100" stop="20151209013500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1184,7 +797,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209053500 +0100" stop="20151209061700 +0100">
+  <programme channel="burger" start="20151209013500 +0100" stop="20151209021700 +0100">
     <length units="minutes">42</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -1194,7 +807,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209061700 +0100" stop="20151209070000 +0100">
+  <programme channel="burger" start="20151209021700 +0100" stop="20151209030000 +0100">
     <length units="minutes">43</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -1204,91 +817,91 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209070000 +0100" stop="20151209080000 +0100">
+  <programme channel="burger" start="20151209030000 +0100" stop="20151209040000 +0100">
     <length units="minutes">60</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209080000 +0100" stop="20151209093000 +0100">
+  <programme channel="burger" start="20151209040000 +0100" stop="20151209053000 +0100">
     <length units="minutes">90</length>
     <title>Top 50 hebdo</title>
     <category>Magazine</category>
     <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209093000 +0100" stop="20151209100000 +0100">
+  <programme channel="burger" start="20151209053000 +0100" stop="20151209060000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209100000 +0100" stop="20151209110000 +0100">
+  <programme channel="burger" start="20151209060000 +0100" stop="20151209070000 +0100">
     <length units="minutes">60</length>
     <title>Top 50 hebdo</title>
     <category>Magazine</category>
     <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209110000 +0100" stop="20151209113000 +0100">
+  <programme channel="burger" start="20151209070000 +0100" stop="20151209073000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209113000 +0100" stop="20151209120000 +0100">
+  <programme channel="burger" start="20151209073000 +0100" stop="20151209080000 +0100">
     <length units="minutes">30</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209120000 +0100" stop="20151209130000 +0100">
+  <programme channel="burger" start="20151209080000 +0100" stop="20151209090000 +0100">
     <length units="minutes">60</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209130000 +0100" stop="20151209140000 +0100">
+  <programme channel="burger" start="20151209090000 +0100" stop="20151209100000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209140000 +0100" stop="20151209150000 +0100">
+  <programme channel="burger" start="20151209100000 +0100" stop="20151209110000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209150000 +0100" stop="20151209160000 +0100">
+  <programme channel="burger" start="20151209110000 +0100" stop="20151209120000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209160000 +0100" stop="20151209170000 +0100">
+  <programme channel="burger" start="20151209120000 +0100" stop="20151209130000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209170000 +0100" stop="20151209180000 +0100">
+  <programme channel="burger" start="20151209130000 +0100" stop="20151209140000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209180000 +0100" stop="20151209182400 +0100">
+  <programme channel="burger" start="20151209140000 +0100" stop="20151209142400 +0100">
     <length units="minutes">24</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -1298,7 +911,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209182400 +0100" stop="20151209184800 +0100">
+  <programme channel="burger" start="20151209142400 +0100" stop="20151209144800 +0100">
     <length units="minutes">24</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -1308,7 +921,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209184800 +0100" stop="20151209191000 +0100">
+  <programme channel="burger" start="20151209144800 +0100" stop="20151209151000 +0100">
     <length units="minutes">22</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -1318,7 +931,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209191000 +0100" stop="20151209193500 +0100">
+  <programme channel="burger" start="20151209151000 +0100" stop="20151209153500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1329,7 +942,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209193500 +0100" stop="20151209195900 +0100">
+  <programme channel="burger" start="20151209153500 +0100" stop="20151209155900 +0100">
     <length units="minutes">24</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1340,7 +953,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209195900 +0100" stop="20151209202500 +0100">
+  <programme channel="burger" start="20151209155900 +0100" stop="20151209162500 +0100">
     <length units="minutes">26</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1351,7 +964,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209202500 +0100" stop="20151209210500 +0100">
+  <programme channel="burger" start="20151209162500 +0100" stop="20151209170500 +0100">
     <length units="minutes">40</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -1361,7 +974,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209210500 +0100" stop="20151209212900 +0100">
+  <programme channel="burger" start="20151209170500 +0100" stop="20151209172900 +0100">
     <length units="minutes">24</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1371,7 +984,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209212900 +0100" stop="20151209215500 +0100">
+  <programme channel="burger" start="20151209172900 +0100" stop="20151209175500 +0100">
     <length units="minutes">26</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1381,7 +994,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209215500 +0100" stop="20151209221900 +0100">
+  <programme channel="burger" start="20151209175500 +0100" stop="20151209181900 +0100">
     <length units="minutes">24</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1391,7 +1004,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209221900 +0100" stop="20151209224500 +0100">
+  <programme channel="burger" start="20151209181900 +0100" stop="20151209184500 +0100">
     <length units="minutes">26</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1401,7 +1014,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209224500 +0100" stop="20151209231000 +0100">
+  <programme channel="burger" start="20151209184500 +0100" stop="20151209191000 +0100">
     <length units="minutes">25</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1411,7 +1024,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209231000 +0100" stop="20151209233600 +0100">
+  <programme channel="burger" start="20151209191000 +0100" stop="20151209193600 +0100">
     <length units="minutes">26</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1421,7 +1034,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209233600 +0100" stop="20151210000100 +0100">
+  <programme channel="burger" start="20151209193600 +0100" stop="20151209200100 +0100">
     <length units="minutes">25</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1431,7 +1044,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210000100 +0100" stop="20151210003000 +0100">
+  <programme channel="burger" start="20151209200100 +0100" stop="20151209203000 +0100">
     <length units="minutes">29</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1441,7 +1054,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210003000 +0100" stop="20151210005300 +0100">
+  <programme channel="burger" start="20151209203000 +0100" stop="20151209205300 +0100">
     <length units="minutes">23</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -1451,7 +1064,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210005300 +0100" stop="20151210011500 +0100">
+  <programme channel="burger" start="20151209205300 +0100" stop="20151209211500 +0100">
     <length units="minutes">22</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -1461,7 +1074,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210011500 +0100" stop="20151210014000 +0100">
+  <programme channel="burger" start="20151209211500 +0100" stop="20151209214000 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1472,7 +1085,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210014000 +0100" stop="20151210020500 +0100">
+  <programme channel="burger" start="20151209214000 +0100" stop="20151209220500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1483,7 +1096,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210020500 +0100" stop="20151210025000 +0100">
+  <programme channel="burger" start="20151209220500 +0100" stop="20151209225000 +0100">
     <length units="minutes">45</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -1493,7 +1106,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210025000 +0100" stop="20151210031400 +0100">
+  <programme channel="burger" start="20151209225000 +0100" stop="20151209231400 +0100">
     <length units="minutes">24</length>
     <title>Friends</title>
     <category>Série</category>
@@ -1512,7 +1125,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210031400 +0100" stop="20151210033900 +0100">
+  <programme channel="burger" start="20151209231400 +0100" stop="20151209233900 +0100">
     <length units="minutes">25</length>
     <title>Friends</title>
     <category>Série</category>
@@ -1531,7 +1144,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210033900 +0100" stop="20151210040300 +0100">
+  <programme channel="burger" start="20151209233900 +0100" stop="20151210000300 +0100">
     <length units="minutes">24</length>
     <title>Friends</title>
     <category>Série</category>
@@ -1550,7 +1163,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210040300 +0100" stop="20151210042700 +0100">
+  <programme channel="burger" start="20151210000300 +0100" stop="20151210002700 +0100">
     <length units="minutes">24</length>
     <title>Friends</title>
     <category>Série</category>
@@ -1569,7 +1182,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210042700 +0100" stop="20151210044500 +0100">
+  <programme channel="burger" start="20151210002700 +0100" stop="20151210004500 +0100">
     <length units="minutes">18</length>
     <title>Friends</title>
     <category>Série</category>
@@ -1586,7 +1199,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210044500 +0100" stop="20151210051000 +0100">
+  <programme channel="burger" start="20151210004500 +0100" stop="20151210011000 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1597,7 +1210,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210051000 +0100" stop="20151210053500 +0100">
+  <programme channel="burger" start="20151210011000 +0100" stop="20151210013500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1608,7 +1221,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210053500 +0100" stop="20151210061700 +0100">
+  <programme channel="burger" start="20151210013500 +0100" stop="20151210021700 +0100">
     <length units="minutes">42</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -1618,7 +1231,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210061700 +0100" stop="20151210070000 +0100">
+  <programme channel="burger" start="20151210021700 +0100" stop="20151210030000 +0100">
     <length units="minutes">43</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -1628,91 +1241,91 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210070000 +0100" stop="20151210083000 +0100">
+  <programme channel="burger" start="20151210030000 +0100" stop="20151210043000 +0100">
     <length units="minutes">90</length>
     <title>Top 50 hebdo</title>
     <category>Magazine</category>
     <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210083000 +0100" stop="20151210090000 +0100">
+  <programme channel="burger" start="20151210043000 +0100" stop="20151210050000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210090000 +0100" stop="20151210103000 +0100">
+  <programme channel="burger" start="20151210050000 +0100" stop="20151210063000 +0100">
     <length units="minutes">90</length>
     <title>Top 50 hebdo</title>
     <category>Magazine</category>
     <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210103000 +0100" stop="20151210110000 +0100">
+  <programme channel="burger" start="20151210063000 +0100" stop="20151210070000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210110000 +0100" stop="20151210113000 +0100">
+  <programme channel="burger" start="20151210070000 +0100" stop="20151210073000 +0100">
     <length units="minutes">30</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210113000 +0100" stop="20151210120000 +0100">
+  <programme channel="burger" start="20151210073000 +0100" stop="20151210080000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210120000 +0100" stop="20151210130000 +0100">
+  <programme channel="burger" start="20151210080000 +0100" stop="20151210090000 +0100">
     <length units="minutes">60</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210130000 +0100" stop="20151210140000 +0100">
+  <programme channel="burger" start="20151210090000 +0100" stop="20151210100000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210140000 +0100" stop="20151210150000 +0100">
+  <programme channel="burger" start="20151210100000 +0100" stop="20151210110000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210150000 +0100" stop="20151210160000 +0100">
+  <programme channel="burger" start="20151210110000 +0100" stop="20151210120000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210160000 +0100" stop="20151210170000 +0100">
+  <programme channel="burger" start="20151210120000 +0100" stop="20151210130000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210170000 +0100" stop="20151210180000 +0100">
+  <programme channel="burger" start="20151210130000 +0100" stop="20151210140000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210180000 +0100" stop="20151210182400 +0100">
+  <programme channel="burger" start="20151210140000 +0100" stop="20151210142400 +0100">
     <length units="minutes">24</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -1722,7 +1335,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210182400 +0100" stop="20151210184800 +0100">
+  <programme channel="burger" start="20151210142400 +0100" stop="20151210144800 +0100">
     <length units="minutes">24</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -1732,7 +1345,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210184800 +0100" stop="20151210191000 +0100">
+  <programme channel="burger" start="20151210144800 +0100" stop="20151210151000 +0100">
     <length units="minutes">22</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -1742,7 +1355,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210191000 +0100" stop="20151210193500 +0100">
+  <programme channel="burger" start="20151210151000 +0100" stop="20151210153500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1753,7 +1366,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210193500 +0100" stop="20151210195900 +0100">
+  <programme channel="burger" start="20151210153500 +0100" stop="20151210155900 +0100">
     <length units="minutes">24</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1764,7 +1377,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210195900 +0100" stop="20151210202500 +0100">
+  <programme channel="burger" start="20151210155900 +0100" stop="20151210162500 +0100">
     <length units="minutes">26</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1775,7 +1388,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210202500 +0100" stop="20151210210500 +0100">
+  <programme channel="burger" start="20151210162500 +0100" stop="20151210170500 +0100">
     <length units="minutes">40</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -1785,7 +1398,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210210500 +0100" stop="20151210212900 +0100">
+  <programme channel="burger" start="20151210170500 +0100" stop="20151210172900 +0100">
     <length units="minutes">24</length>
     <title>Friends</title>
     <category>Série</category>
@@ -1804,7 +1417,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210212900 +0100" stop="20151210215500 +0100">
+  <programme channel="burger" start="20151210172900 +0100" stop="20151210175500 +0100">
     <length units="minutes">26</length>
     <title>Friends</title>
     <category>Série</category>
@@ -1823,7 +1436,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210215500 +0100" stop="20151210221900 +0100">
+  <programme channel="burger" start="20151210175500 +0100" stop="20151210181900 +0100">
     <length units="minutes">24</length>
     <title>Friends</title>
     <category>Série</category>
@@ -1842,7 +1455,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210221900 +0100" stop="20151210224500 +0100">
+  <programme channel="burger" start="20151210181900 +0100" stop="20151210184500 +0100">
     <length units="minutes">26</length>
     <title>Friends</title>
     <category>Série</category>
@@ -1860,7 +1473,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210224500 +0100" stop="20151210231000 +0100">
+  <programme channel="burger" start="20151210184500 +0100" stop="20151210191000 +0100">
     <length units="minutes">25</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1870,7 +1483,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210231000 +0100" stop="20151210233600 +0100">
+  <programme channel="burger" start="20151210191000 +0100" stop="20151210193600 +0100">
     <length units="minutes">26</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1880,7 +1493,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210233600 +0100" stop="20151211000100 +0100">
+  <programme channel="burger" start="20151210193600 +0100" stop="20151210200100 +0100">
     <length units="minutes">25</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1890,7 +1503,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211000100 +0100" stop="20151211003000 +0100">
+  <programme channel="burger" start="20151210200100 +0100" stop="20151210203000 +0100">
     <length units="minutes">29</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -1900,7 +1513,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211003000 +0100" stop="20151211005300 +0100">
+  <programme channel="burger" start="20151210203000 +0100" stop="20151210205300 +0100">
     <length units="minutes">23</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -1910,7 +1523,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211005300 +0100" stop="20151211011500 +0100">
+  <programme channel="burger" start="20151210205300 +0100" stop="20151210211500 +0100">
     <length units="minutes">22</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -1920,7 +1533,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211011500 +0100" stop="20151211014000 +0100">
+  <programme channel="burger" start="20151210211500 +0100" stop="20151210214000 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1931,7 +1544,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211014000 +0100" stop="20151211020500 +0100">
+  <programme channel="burger" start="20151210214000 +0100" stop="20151210220500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1942,7 +1555,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211020500 +0100" stop="20151211025000 +0100">
+  <programme channel="burger" start="20151210220500 +0100" stop="20151210225000 +0100">
     <length units="minutes">45</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -1952,7 +1565,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211025000 +0100" stop="20151211031300 +0100">
+  <programme channel="burger" start="20151210225000 +0100" stop="20151210231300 +0100">
     <length units="minutes">23</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1963,7 +1576,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211031300 +0100" stop="20151211033700 +0100">
+  <programme channel="burger" start="20151210231300 +0100" stop="20151210233700 +0100">
     <length units="minutes">24</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1974,7 +1587,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211033700 +0100" stop="20151211040000 +0100">
+  <programme channel="burger" start="20151210233700 +0100" stop="20151211000000 +0100">
     <length units="minutes">23</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1985,7 +1598,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211040000 +0100" stop="20151211042300 +0100">
+  <programme channel="burger" start="20151211000000 +0100" stop="20151211002300 +0100">
     <length units="minutes">23</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -1996,7 +1609,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211042300 +0100" stop="20151211044500 +0100">
+  <programme channel="burger" start="20151211002300 +0100" stop="20151211004500 +0100">
     <length units="minutes">22</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -2007,7 +1620,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211044500 +0100" stop="20151211051000 +0100">
+  <programme channel="burger" start="20151211004500 +0100" stop="20151211011000 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -2018,7 +1631,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211051000 +0100" stop="20151211053500 +0100">
+  <programme channel="burger" start="20151211011000 +0100" stop="20151211013500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -2029,7 +1642,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211053500 +0100" stop="20151211061700 +0100">
+  <programme channel="burger" start="20151211013500 +0100" stop="20151211021700 +0100">
     <length units="minutes">42</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -2039,7 +1652,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211061700 +0100" stop="20151211070000 +0100">
+  <programme channel="burger" start="20151211021700 +0100" stop="20151211030000 +0100">
     <length units="minutes">43</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -2049,91 +1662,91 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211070000 +0100" stop="20151211080000 +0100">
+  <programme channel="burger" start="20151211030000 +0100" stop="20151211040000 +0100">
     <length units="minutes">60</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211080000 +0100" stop="20151211093000 +0100">
+  <programme channel="burger" start="20151211040000 +0100" stop="20151211053000 +0100">
     <length units="minutes">90</length>
     <title>Top 50 hebdo</title>
     <category>Magazine</category>
     <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211093000 +0100" stop="20151211100000 +0100">
+  <programme channel="burger" start="20151211053000 +0100" stop="20151211060000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211100000 +0100" stop="20151211110000 +0100">
+  <programme channel="burger" start="20151211060000 +0100" stop="20151211070000 +0100">
     <length units="minutes">60</length>
     <title>Top 50 hebdo</title>
     <category>Magazine</category>
     <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211110000 +0100" stop="20151211113000 +0100">
+  <programme channel="burger" start="20151211070000 +0100" stop="20151211073000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211113000 +0100" stop="20151211120000 +0100">
+  <programme channel="burger" start="20151211073000 +0100" stop="20151211080000 +0100">
     <length units="minutes">30</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211120000 +0100" stop="20151211130000 +0100">
+  <programme channel="burger" start="20151211080000 +0100" stop="20151211090000 +0100">
     <length units="minutes">60</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
     <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211130000 +0100" stop="20151211140000 +0100">
+  <programme channel="burger" start="20151211090000 +0100" stop="20151211100000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211140000 +0100" stop="20151211150000 +0100">
+  <programme channel="burger" start="20151211100000 +0100" stop="20151211110000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211150000 +0100" stop="20151211160000 +0100">
+  <programme channel="burger" start="20151211110000 +0100" stop="20151211120000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211160000 +0100" stop="20151211170000 +0100">
+  <programme channel="burger" start="20151211120000 +0100" stop="20151211130000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211170000 +0100" stop="20151211180000 +0100">
+  <programme channel="burger" start="20151211130000 +0100" stop="20151211140000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
     <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211180000 +0100" stop="20151211182400 +0100">
+  <programme channel="burger" start="20151211140000 +0100" stop="20151211142400 +0100">
     <length units="minutes">24</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -2143,7 +1756,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211182400 +0100" stop="20151211184800 +0100">
+  <programme channel="burger" start="20151211142400 +0100" stop="20151211144800 +0100">
     <length units="minutes">24</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -2153,7 +1766,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211184800 +0100" stop="20151211191000 +0100">
+  <programme channel="burger" start="20151211144800 +0100" stop="20151211151000 +0100">
     <length units="minutes">22</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -2163,7 +1776,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211191000 +0100" stop="20151211193500 +0100">
+  <programme channel="burger" start="20151211151000 +0100" stop="20151211153500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -2174,7 +1787,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211193500 +0100" stop="20151211195900 +0100">
+  <programme channel="burger" start="20151211153500 +0100" stop="20151211155900 +0100">
     <length units="minutes">24</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -2185,7 +1798,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211195900 +0100" stop="20151211202500 +0100">
+  <programme channel="burger" start="20151211155900 +0100" stop="20151211162500 +0100">
     <length units="minutes">26</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -2196,7 +1809,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211202500 +0100" stop="20151211210500 +0100">
+  <programme channel="burger" start="20151211162500 +0100" stop="20151211170500 +0100">
     <length units="minutes">40</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -2206,7 +1819,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211210500 +0100" stop="20151211212900 +0100">
+  <programme channel="burger" start="20151211170500 +0100" stop="20151211172900 +0100">
     <length units="minutes">24</length>
     <title>Friends</title>
     <category>Série</category>
@@ -2225,7 +1838,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211212900 +0100" stop="20151211215500 +0100">
+  <programme channel="burger" start="20151211172900 +0100" stop="20151211175500 +0100">
     <length units="minutes">26</length>
     <title>Friends</title>
     <category>Série</category>
@@ -2243,7 +1856,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211215500 +0100" stop="20151211221900 +0100">
+  <programme channel="burger" start="20151211175500 +0100" stop="20151211181900 +0100">
     <length units="minutes">24</length>
     <title>Friends</title>
     <category>Série</category>
@@ -2262,7 +1875,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211221900 +0100" stop="20151211224500 +0100">
+  <programme channel="burger" start="20151211181900 +0100" stop="20151211184500 +0100">
     <length units="minutes">26</length>
     <title>Friends</title>
     <category>Série</category>
@@ -2281,7 +1894,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211224500 +0100" stop="20151211231000 +0100">
+  <programme channel="burger" start="20151211184500 +0100" stop="20151211191000 +0100">
     <length units="minutes">25</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -2291,7 +1904,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211231000 +0100" stop="20151211233600 +0100">
+  <programme channel="burger" start="20151211191000 +0100" stop="20151211193600 +0100">
     <length units="minutes">26</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -2301,7 +1914,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211233600 +0100" stop="20151212000100 +0100">
+  <programme channel="burger" start="20151211193600 +0100" stop="20151211200100 +0100">
     <length units="minutes">25</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -2311,7 +1924,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212000100 +0100" stop="20151212003000 +0100">
+  <programme channel="burger" start="20151211200100 +0100" stop="20151211203000 +0100">
     <length units="minutes">29</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
@@ -2321,7 +1934,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212003000 +0100" stop="20151212005300 +0100">
+  <programme channel="burger" start="20151211203000 +0100" stop="20151211205300 +0100">
     <length units="minutes">23</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -2331,7 +1944,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212005300 +0100" stop="20151212011500 +0100">
+  <programme channel="burger" start="20151211205300 +0100" stop="20151211211500 +0100">
     <length units="minutes">22</length>
     <title>Futurama</title>
     <category>Série</category>
@@ -2341,7 +1954,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212011500 +0100" stop="20151212014000 +0100">
+  <programme channel="burger" start="20151211211500 +0100" stop="20151211214000 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -2352,7 +1965,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212014000 +0100" stop="20151212020500 +0100">
+  <programme channel="burger" start="20151211214000 +0100" stop="20151211220500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -2363,7 +1976,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212020500 +0100" stop="20151212025000 +0100">
+  <programme channel="burger" start="20151211220500 +0100" stop="20151211225000 +0100">
     <length units="minutes">45</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -2373,14 +1986,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212025000 +0100" stop="20151212044500 +0100">
+  <programme channel="burger" start="20151211225000 +0100" stop="20151212004500 +0100">
     <length units="minutes">115</length>
     <title>My Top 50</title>
     <category>Magazine</category>
     <desc>Emission 6 Une présentation du top 50 de MCM, classement des meilleures ventes de singles du moment. Un téléspectateur prend les commandes de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212044500 +0100" stop="20151212051000 +0100">
+  <programme channel="burger" start="20151212004500 +0100" stop="20151212011000 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -2391,7 +2004,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212051000 +0100" stop="20151212053500 +0100">
+  <programme channel="burger" start="20151212011000 +0100" stop="20151212013500 +0100">
     <length units="minutes">25</length>
     <title>Les Griffin</title>
     <category>Série</category>
@@ -2402,7 +2015,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212053500 +0100" stop="20151212061700 +0100">
+  <programme channel="burger" start="20151212013500 +0100" stop="20151212021700 +0100">
     <length units="minutes">42</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
@@ -2412,361 +2025,361 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212061700 +0100" stop="20151212070000 +0100">
+  <programme channel="burger" start="20151212021700 +0100" stop="20151212030000 +0100">
     <length units="minutes">43</length>
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <category>Talk show</category>
-    <desc>Mêlant humour et talk-show, Jimmy Fallon reçoit des personnalités de la musique, du cinéma, ou encore du sport, pour un... (Lire la suite).(n)</desc>
+    <desc>Mêlant humour et talk-show, Jimmy Fallon reçoit des personnalités de la musique, du cinéma, ou encore du sport, pour un... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jimmy Fallon</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212070000 +0100" stop="20151212083000 +0100">
+  <programme channel="burger" start="20151212030000 +0100" stop="20151212043000 +0100">
     <length units="minutes">90</length>
     <title>Top 50 hebdo</title>
     <category>Magazine</category>
-    <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).(n)</desc>
+    <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212083000 +0100" stop="20151212090000 +0100">
+  <programme channel="burger" start="20151212043000 +0100" stop="20151212050000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
-    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).(n)</desc>
+    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212090000 +0100" stop="20151212103000 +0100">
+  <programme channel="burger" start="20151212050000 +0100" stop="20151212063000 +0100">
     <length units="minutes">90</length>
     <title>Top 50 hebdo</title>
     <category>Magazine</category>
-    <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).(n)</desc>
+    <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212103000 +0100" stop="20151212113000 +0100">
+  <programme channel="burger" start="20151212063000 +0100" stop="20151212073000 +0100">
     <length units="minutes">60</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
-    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).(n)</desc>
+    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212113000 +0100" stop="20151212120000 +0100">
+  <programme channel="burger" start="20151212073000 +0100" stop="20151212080000 +0100">
     <length units="minutes">30</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
-    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).(n)</desc>
+    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212120000 +0100" stop="20151212130000 +0100">
+  <programme channel="burger" start="20151212080000 +0100" stop="20151212090000 +0100">
     <length units="minutes">60</length>
     <title>Certifié Classic</title>
     <category>Clips</category>
-    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).(n)</desc>
+    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212130000 +0100" stop="20151212140000 +0100">
+  <programme channel="burger" start="20151212090000 +0100" stop="20151212100000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
-    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).(n)</desc>
+    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212140000 +0100" stop="20151212150000 +0100">
+  <programme channel="burger" start="20151212100000 +0100" stop="20151212110000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
-    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).(n)</desc>
+    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212150000 +0100" stop="20151212160000 +0100">
+  <programme channel="burger" start="20151212110000 +0100" stop="20151212120000 +0100">
     <length units="minutes">60</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
-    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).(n)</desc>
+    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212160000 +0100" stop="20151212163000 +0100">
+  <programme channel="burger" start="20151212120000 +0100" stop="20151212123000 +0100">
     <length units="minutes">30</length>
     <title>Ultra Tubes</title>
     <category>Clips</category>
-    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).(n)</desc>
+    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212163000 +0100" stop="20151212165600 +0100">
+  <programme channel="burger" start="20151212123000 +0100" stop="20151212125600 +0100">
     <length units="minutes">26</length>
     <title>Futurama</title>
     <category>Série</category>
-    <desc>Le professeur est à l'origine d'une création si effrayante qu'il décide de la brûler dans le feu d'un soleil. En attendant, il demande à Leela de... (Lire la suite).(n)</desc>
+    <desc>Le professeur est à l'origine d'une création si effrayante qu'il décide de la brûler dans le feu d'un soleil. En attendant, il demande à Leela de... (Lire la suite).</desc>
     <credits>
       <name function="director">Ron Hughart</name>
       <name function="writer">Bill Odenkirk</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212165600 +0100" stop="20151212172000 +0100">
+  <programme channel="burger" start="20151212125600 +0100" stop="20151212132000 +0100">
     <length units="minutes">24</length>
     <title>Futurama</title>
     <category>Série</category>
-    <desc>La victoire de Zap Brannigan contre le monde des arachnides a eu des effets bénéfiques pour toute l'équipe. En effet, la tête de Richard Nixon... (Lire la suite).(n)</desc>
+    <desc>La victoire de Zap Brannigan contre le monde des arachnides a eu des effets bénéfiques pour toute l'équipe. En effet, la tête de Richard Nixon... (Lire la suite).</desc>
     <credits>
       <name function="director">Swinton O Scott III</name>
       <name function="writer">Eric Kaplan</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212172000 +0100" stop="20151212174300 +0100">
+  <programme channel="burger" start="20151212132000 +0100" stop="20151212134300 +0100">
     <length units="minutes">23</length>
     <title>Futurama</title>
     <category>Série</category>
-    <desc>Fry est emmené dans un vaisseau spatial et se retrouve privé de nez. Il apprend que des aliens se sont mis à commercialiser les nez... (Lire la suite).(n)</desc>
+    <desc>Fry est emmené dans un vaisseau spatial et se retrouve privé de nez. Il apprend que des aliens se sont mis à commercialiser les nez... (Lire la suite).</desc>
     <credits>
       <name function="director">Peter Avanzino</name>
       <name function="writer">Ron Weiner</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212174300 +0100" stop="20151212180600 +0100">
+  <programme channel="burger" start="20151212134300 +0100" stop="20151212140600 +0100">
     <length units="minutes">23</length>
     <title>Futurama</title>
     <category>Série</category>
-    <desc>Bender participe aux Jeux olympiques terriens de 3004. Il remporte plusieurs épreuves dans la catégorie «Robot tordeur féminin». Pour passer les... (Lire la suite).(n)</desc>
+    <desc>Bender participe aux Jeux olympiques terriens de 3004. Il remporte plusieurs épreuves dans la catégorie «Robot tordeur féminin». Pour passer les... (Lire la suite).</desc>
     <credits>
       <name function="director">James Purdum</name>
       <name function="writer">Michael Rowe</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212180600 +0100" stop="20151212182900 +0100">
+  <programme channel="burger" start="20151212140600 +0100" stop="20151212142900 +0100">
     <length units="minutes">23</length>
     <title>Futurama</title>
     <category>Série</category>
-    <desc>Un nouveau robot, plus propre et plus serviable que les actuels, vient de sortir. Bender, jaloux, décide de vivre dans un monde sans technologie,... (Lire la suite).(n)</desc>
+    <desc>Un nouveau robot, plus propre et plus serviable que les actuels, vient de sortir. Bender, jaloux, décide de vivre dans un monde sans technologie,... (Lire la suite).</desc>
     <credits>
       <name function="director">Swayne Caray-Hill</name>
       <name function="writer">Dan Vebber</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212182900 +0100" stop="20151212185400 +0100">
+  <programme channel="burger" start="20151212142900 +0100" stop="20151212145400 +0100">
     <length units="minutes">25</length>
     <title>Futurama</title>
     <category>Série</category>
-    <desc>Lorsqu'un robot, vedette d'une série télévisée à succès, tombe en panne, Bender saisit sa chance de devenir célèbre. Il s'assure d'être retenu... (Lire la suite).(n)</desc>
+    <desc>Lorsqu'un robot, vedette d'une série télévisée à succès, tombe en panne, Bender saisit sa chance de devenir célèbre. Il s'assure d'être retenu... (Lire la suite).</desc>
     <credits>
       <name function="director">Ron Hughart</name>
       <name function="writer">Lewis Morton</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212185400 +0100" stop="20151212191700 +0100">
+  <programme channel="burger" start="20151212145400 +0100" stop="20151212151700 +0100">
     <length units="minutes">23</length>
     <title>Futurama</title>
     <category>Série</category>
-    <desc>Afin de conquérir le coeur de la belle Leela, Fry décide de suivre des cours de musique. Il ne s'avère cependant pas très doué et pactise avec le... (Lire la suite).(n)</desc>
+    <desc>Afin de conquérir le coeur de la belle Leela, Fry décide de suivre des cours de musique. Il ne s'avère cependant pas très doué et pactise avec le... (Lire la suite).</desc>
     <credits>
       <name function="director">Rich Moore</name>
       <name function="writer">Ken Keeler</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212191700 +0100" stop="20151212194000 +0100">
+  <programme channel="burger" start="20151212151700 +0100" stop="20151212154000 +0100">
     <length units="minutes">23</length>
     <title>Futurama</title>
     <category>Série</category>
-    <desc>L'équipe de Planet Express se bat contre des aliens pour sauver la Terre. Alors que les diaboliques extraterrestres lancent une cyber-attaque... (Lire la suite).(n)</desc>
+    <desc>L'équipe de Planet Express se bat contre des aliens pour sauver la Terre. Alors que les diaboliques extraterrestres lancent une cyber-attaque... (Lire la suite).</desc>
     <credits>
       <name function="director">Dwayne Carey-Hill</name>
       <name function="writer">Matt Groening</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212194000 +0100" stop="20151212200500 +0100">
+  <programme channel="burger" start="20151212154000 +0100" stop="20151212160500 +0100">
     <length units="minutes">25</length>
     <title>Futurama</title>
     <category>Série</category>
-    <desc>Les extraterrestres commencent à piller tout ce qui a une quelconque valeur dans l'Histoire de la Terre. Ils ordonnent à Bender de tuer Fry. De... (Lire la suite).(n)</desc>
+    <desc>Les extraterrestres commencent à piller tout ce qui a une quelconque valeur dans l'Histoire de la Terre. Ils ordonnent à Bender de tuer Fry. De... (Lire la suite).</desc>
     <credits>
       <name function="director">Dwayne Carey-Hill</name>
       <name function="writer">Matt Groening</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212200500 +0100" stop="20151212202800 +0100">
+  <programme channel="burger" start="20151212160500 +0100" stop="20151212162800 +0100">
     <length units="minutes">23</length>
     <title>Les Griffin</title>
     <category>Série</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).(c)</desc>
     <credits>
       <name function="director">Greg Colton</name>
       <name function="writer">Andy Goldberg</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212202800 +0100" stop="20151212205200 +0100">
+  <programme channel="burger" start="20151212162800 +0100" stop="20151212165200 +0100">
     <length units="minutes">24</length>
     <title>Les Griffin</title>
     <category>Série</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).(c)</desc>
     <credits>
       <name function="director">Joseph Lee</name>
       <name function="writer">Tom Devanney</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212205200 +0100" stop="20151212211500 +0100">
+  <programme channel="burger" start="20151212165200 +0100" stop="20151212171500 +0100">
     <length units="minutes">23</length>
     <title>Les Griffin</title>
     <category>Série</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).(c)</desc>
     <credits>
       <name function="director">Brian Iles</name>
       <name function="writer">Kevin Biggins</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212211500 +0100" stop="20151212213800 +0100">
+  <programme channel="burger" start="20151212171500 +0100" stop="20151212173800 +0100">
     <length units="minutes">23</length>
     <title>Les Griffin</title>
     <category>Série</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).(c)</desc>
     <credits>
       <name function="director">Bob Bowen</name>
       <name function="writer">Danny Smith</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212213800 +0100" stop="20151212220500 +0100">
+  <programme channel="burger" start="20151212173800 +0100" stop="20151212180500 +0100">
     <length units="minutes">27</length>
     <title>Les Griffin</title>
     <category>Série</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).(c)</desc>
     <credits>
       <name function="director">Steve Roberston</name>
       <name function="writer">Julius Sharpe</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212220500 +0100" stop="20151212223200 +0100">
+  <programme channel="burger" start="20151212180500 +0100" stop="20151212183200 +0100">
     <length units="minutes">27</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
-    <desc>Dans une petite ville portuaire vit Monkey D. Luffy, un jeune garçon qui rêve de devenir pirate. Il va pouvoir montrer tout ce dont il est... (Lire la suite).(n)</desc>
+    <desc>Dans une petite ville portuaire vit Monkey D. Luffy, un jeune garçon qui rêve de devenir pirate. Il va pouvoir montrer tout ce dont il est... (Lire la suite).</desc>
     <credits>
       <name function="director">Konosuke Uda</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212223200 +0100" stop="20151212225800 +0100">
+  <programme channel="burger" start="20151212183200 +0100" stop="20151212185800 +0100">
     <length units="minutes">26</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
-    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).(n)</desc>
+    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).</desc>
     <credits>
       <name function="director">Konosuke Uda</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212225800 +0100" stop="20151212232200 +0100">
+  <programme channel="burger" start="20151212185800 +0100" stop="20151212192200 +0100">
     <length units="minutes">24</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
-    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).(n)</desc>
+    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).</desc>
     <credits>
       <name function="director">Konosuke Uda</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212232200 +0100" stop="20151212234700 +0100">
+  <programme channel="burger" start="20151212192200 +0100" stop="20151212194700 +0100">
     <length units="minutes">25</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
-    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).(n)</desc>
+    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).</desc>
     <credits>
       <name function="director">Konosuke Uda</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212234700 +0100" stop="20151213001100 +0100">
+  <programme channel="burger" start="20151212194700 +0100" stop="20151212201100 +0100">
     <length units="minutes">24</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
-    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).(n)</desc>
+    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).</desc>
     <credits>
       <name function="director">Konosuke Uda</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213001100 +0100" stop="20151213003700 +0100">
+  <programme channel="burger" start="20151212201100 +0100" stop="20151212203700 +0100">
     <length units="minutes">26</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
-    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).(n)</desc>
+    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).</desc>
     <credits>
       <name function="director">Konosuke Uda</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213003700 +0100" stop="20151213010000 +0100">
+  <programme channel="burger" start="20151212203700 +0100" stop="20151212210000 +0100">
     <length units="minutes">23</length>
     <title>One Piece</title>
     <category>Dessin animé</category>
-    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).(n)</desc>
+    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).</desc>
     <credits>
       <name function="director">Konosuke Uda</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213010000 +0100" stop="20151213024500 +0100">
+  <programme channel="burger" start="20151212210000 +0100" stop="20151212224500 +0100">
     <length units="minutes">105</length>
     <title>My Top 50</title>
     <category>Magazine</category>
-    <desc>Emission 6 Une présentation du top 50 de MCM, classement des meilleures ventes de singles du moment. Un téléspectateur prend les commandes de... (Lire la suite).(n)</desc>
+    <desc>Emission 6 Une présentation du top 50 de MCM, classement des meilleures ventes de singles du moment. Un téléspectateur prend les commandes de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213024500 +0100" stop="20151213030000 +0100">
+  <programme channel="burger" start="20151212224500 +0100" stop="20151212230000 +0100">
     <length units="minutes">15</length>
     <title>Gamix</title>
     <category>Magazine</category>
-    <desc>Chaque semaine, l'émission fait le point sur les dernières news de la culture digitale. Au menu de ce nouveau magazine, des reportages inédits... (Lire la suite).(n)</desc>
+    <desc>Chaque semaine, l'émission fait le point sur les dernières news de la culture digitale. Au menu de ce nouveau magazine, des reportages inédits... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Florian Gazan,</name>
       <name function="presenter">Manu Levy</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213030000 +0100" stop="20151213032400 +0100">
+  <programme channel="burger" start="20151212230000 +0100" stop="20151212232400 +0100">
     <length units="minutes">24</length>
     <title>Paranormal Video</title>
     <category>Documentaire</category>
-    <desc>Selon le principe du «found footage», des victimes témoignent de l'existence de créatures telles que des loups-garous, des vampires ou des... (Lire la suite).(n)</desc>
+    <desc>Selon le principe du «found footage», des victimes témoignent de l'existence de créatures telles que des loups-garous, des vampires ou des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213032400 +0100" stop="20151213035000 +0100">
+  <programme channel="burger" start="20151212232400 +0100" stop="20151212235000 +0100">
     <length units="minutes">26</length>
     <title>Paranormal Video</title>
     <category>Documentaire</category>
-    <desc>Selon le principe du «found footage», des victimes témoignent de l'existence de créatures telles que des loups-garous, des vampires ou des... (Lire la suite).(n)</desc>
+    <desc>Selon le principe du «found footage», des victimes témoignent de l'existence de créatures telles que des loups-garous, des vampires ou des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213035000 +0100" stop="20151213041400 +0100">
+  <programme channel="burger" start="20151212235000 +0100" stop="20151213001400 +0100">
     <length units="minutes">24</length>
     <title>Paranormal Video</title>
     <category>Documentaire</category>
-    <desc>Selon le principe du «found footage», des victimes témoignent de l'existence de créatures telles que des loups-garous, des vampires ou des... (Lire la suite).(n)</desc>
+    <desc>Selon le principe du «found footage», des victimes témoignent de l'existence de créatures telles que des loups-garous, des vampires ou des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213041400 +0100" stop="20151213044000 +0100">
+  <programme channel="burger" start="20151213001400 +0100" stop="20151213004000 +0100">
     <length units="minutes">26</length>
     <title>Paranormal Video</title>
     <category>Documentaire</category>
-    <desc>Selon le principe du «found footage», des victimes témoignent de l'existence de créatures telles que des loups-garous, des vampires ou des... (Lire la suite).(n)</desc>
+    <desc>Selon le principe du «found footage», des victimes témoignent de l'existence de créatures telles que des loups-garous, des vampires ou des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213044000 +0100" stop="20151213061000 +0100">
+  <programme channel="burger" start="20151213004000 +0100" stop="20151213021000 +0100">
     <length units="minutes">90</length>
     <title>7 Below</title>
     <category>Téléfilm</category>
-    <desc>Un groupe de gens se rend en week-end dans un mini-bus. Parmi eux, Bill tente de renouer avec son épouse. Sur une petite route perdue, un des... (Lire la suite).(n)</desc>
+    <desc>Un groupe de gens se rend en week-end dans un mini-bus. Parmi eux, Bill tente de renouer avec son épouse. Sur une petite route perdue, un des... (Lire la suite).</desc>
     <credits>
       <name function="director">Kevin Carraway</name>
       <name function="actor">Val Kilmer</name>
@@ -2778,6 +2391,391 @@
       <name function="actor">Rebecca Da Costa</name>
       <name function="actor">Brianna Lee Johnson</name>
     </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213021000 +0100" stop="20151213030000 +0100">
+    <length units="minutes">50</length>
+    <title>Ultra Electro</title>
+    <category>Clips</category>
+    <desc>Une sélection de clips techno, house, électro et drum'n bass. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213030000 +0100" stop="20151213040000 +0100">
+    <length units="minutes">60</length>
+    <title>Certifié Classic</title>
+    <category>Clips</category>
+    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213040000 +0100" stop="20151213053000 +0100">
+    <length units="minutes">90</length>
+    <title>Top 50 hebdo</title>
+    <category>Magazine</category>
+    <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213053000 +0100" stop="20151213060000 +0100">
+    <length units="minutes">30</length>
+    <title>Certifié Classic</title>
+    <category>Clips</category>
+    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213060000 +0100" stop="20151213073000 +0100">
+    <length units="minutes">90</length>
+    <title>Top 50 hebdo</title>
+    <category>Magazine</category>
+    <desc>Le classement officiel des cinquante meilleures ventes de singles en France. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213073000 +0100" stop="20151213080000 +0100">
+    <length units="minutes">30</length>
+    <title>Certifié Classic</title>
+    <category>Clips</category>
+    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213080000 +0100" stop="20151213090000 +0100">
+    <length units="minutes">60</length>
+    <title>Certifié Classic</title>
+    <category>Clips</category>
+    <desc>Retour sur les compos inoubliables de l'histoire du rock, de la pop et de la soul. Tubes originaux, reprises légendaires, singles immortels... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213090000 +0100" stop="20151213100000 +0100">
+    <length units="minutes">60</length>
+    <title>Ultra Tubes</title>
+    <category>Clips</category>
+    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213100000 +0100" stop="20151213104000 +0100">
+    <length units="minutes">40</length>
+    <title>Ultra Tubes</title>
+    <category>Clips</category>
+    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213104000 +0100" stop="20151213123000 +0100">
+    <length units="minutes">110</length>
+    <title>My Top 50</title>
+    <category>Magazine</category>
+    <desc>Emission 6 Une présentation du top 50 de MCM, classement des meilleures ventes de singles du moment. Un téléspectateur prend les commandes de... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213123000 +0100" stop="20151213124500 +0100">
+    <length units="minutes">15</length>
+    <title>Gamix</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, l'émission fait le point sur les dernières news de la culture digitale. Au menu de ce nouveau magazine, des reportages inédits... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Florian Gazan,</name>
+      <name function="presenter">Manu Levy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213124500 +0100" stop="20151213131200 +0100">
+    <length units="minutes">27</length>
+    <title>One Piece</title>
+    <category>Dessin animé</category>
+    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Konosuke Uda</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213131200 +0100" stop="20151213133600 +0100">
+    <length units="minutes">24</length>
+    <title>One Piece</title>
+    <category>Dessin animé</category>
+    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Konosuke Uda</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213133600 +0100" stop="20151213140200 +0100">
+    <length units="minutes">26</length>
+    <title>One Piece</title>
+    <category>Dessin animé</category>
+    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Konosuke Uda</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213140200 +0100" stop="20151213142600 +0100">
+    <length units="minutes">24</length>
+    <title>One Piece</title>
+    <category>Dessin animé</category>
+    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Konosuke Uda</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213142600 +0100" stop="20151213145100 +0100">
+    <length units="minutes">25</length>
+    <title>One Piece</title>
+    <category>Dessin animé</category>
+    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Konosuke Uda</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213145100 +0100" stop="20151213151500 +0100">
+    <length units="minutes">24</length>
+    <title>One Piece</title>
+    <category>Dessin animé</category>
+    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Konosuke Uda</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213151500 +0100" stop="20151213154000 +0100">
+    <length units="minutes">25</length>
+    <title>One Piece</title>
+    <category>Dessin animé</category>
+    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Konosuke Uda</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213154000 +0100" stop="20151213160500 +0100">
+    <length units="minutes">25</length>
+    <title>One Piece</title>
+    <category>Dessin animé</category>
+    <desc>Monkey D Luffy, un jeune garçon, rêve de devenir pirate depuis qu'il a fait la connaissance de Shanks Le Roux. Devenu adolescent, il monte son... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Konosuke Uda</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213160500 +0100" stop="20151213162800 +0100">
+    <length units="minutes">23</length>
+    <title>Futurama</title>
+    <category>Série</category>
+    <desc>Convaincu par les arguments des extraterrestres, le président Nixon leur laisse le pouvoir de commander. Chacun est sommé de quitter la planète.... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Dwayne Carey-Hill</name>
+      <name function="writer">Matt Groening</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213162800 +0100" stop="20151213165200 +0100">
+    <length units="minutes">24</length>
+    <title>Futurama</title>
+    <category>Série</category>
+    <desc>Un mois après qu'une faille spatio-temporelle a été ouverte non loin de la Terre, risquant de provoquer la fin de l'Humanité, les Terriens ont... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Peter Avanzino</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213165200 +0100" stop="20151213171500 +0100">
+    <length units="minutes">23</length>
+    <title>Futurama</title>
+    <category>Série</category>
+    <desc>Farnsworth et Wernstrom découvrent que l'anomalie détruit les dispositifs électriques sur Terre. Le président Nixon ordonne une action... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Peter Avanzino</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213171500 +0100" stop="20151213173800 +0100">
+    <length units="minutes">23</length>
+    <title>Futurama</title>
+    <category>Série</category>
+    <desc>La créature utilise ses pouvoirs sur Fry pour en faire son messager et établir son influence sur la Terre. Amy, de son côté, essaie de faire face... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Peter Avanzino</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213173800 +0100" stop="20151213180500 +0100">
+    <length units="minutes">27</length>
+    <title>Futurama</title>
+    <category>Série</category>
+    <desc>La créature pousse les humains à évacuer la planète pour la laisser aux mains des robots. Bender prend alors des mesures drastiques pour faire... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Peter Avanzino</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213180500 +0100" stop="20151213183200 +0100">
+    <length units="minutes">27</length>
+    <title>Friends</title>
+    <category>Série</category>
+    <desc>Ross réserve une surprise pour le mariage de Monica et Chandler : il veut jouer de la cornemuse ! Un instrument qui pourrait ne pas plaire à tout... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Kevin Bright</name>
+      <name function="actor">Lisa Kudrow</name>
+      <name function="actor">David Schwimmer</name>
+      <name function="actor">Matt LeBlanc</name>
+      <name function="actor">Matthew Perry</name>
+      <name function="actor">Courteney Cox</name>
+      <name function="actor">Jennifer Aniston</name>
+      <name function="actor">Susan Sarandon</name>
+      <name function="actor">Eva Amurri</name>
+      <name function="writer">Andrew Reich</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213183200 +0100" stop="20151213185800 +0100">
+    <length units="minutes">26</length>
+    <title>Friends</title>
+    <category>Série</category>
+    <desc>Installés confortablement, Monica et Chandler se livrent à une tendre séance «souvenirs» qui tourne à la franche dispute quand le jeune homme... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">David Schwimmer</name>
+      <name function="actor">Matt LeBlanc</name>
+      <name function="actor">Matthew Perry</name>
+      <name function="actor">Jane Sibbett</name>
+      <name function="actor">Courteney Cox</name>
+      <name function="actor">Jennifer Aniston</name>
+      <name function="actor">Cole Sprouse</name>
+      <name function="actor">Lisa Kudrow</name>
+      <name function="actor">David Schwimmer</name>
+      <name function="writer">Zachary Rosenblatt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213185800 +0100" stop="20151213192200 +0100">
+    <length units="minutes">24</length>
+    <title>Friends</title>
+    <category>Série</category>
+    <desc>Au terme d'une longue recherche, Monica trouve enfin la robe de mariée de ses rêves, qui contribuera à rendre ses noces inoubliables. Mais le... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Kevin Bright</name>
+      <name function="actor">Lisa Kudrow</name>
+      <name function="actor">David Schwimmer</name>
+      <name function="actor">Matt LeBlanc</name>
+      <name function="actor">Matthew Perry</name>
+      <name function="actor">Courteney Cox</name>
+      <name function="actor">Jennifer Aniston</name>
+      <name function="actor">Andrea Bendewald</name>
+      <name function="actor">Gabrielle Union</name>
+      <name function="writer">Andrew Reich</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213192200 +0100" stop="20151213194700 +0100">
+    <length units="minutes">25</length>
+    <title>Friends</title>
+    <category>Série</category>
+    <desc>A sa grande fierté, Joey est nominé comme Meilleur Acteur de séries pour «Les Jours de notre vie». Il se prend à rêver de gloire et espère... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Gary Halvorson</name>
+      <name function="actor">Lisa Kudrow</name>
+      <name function="actor">David Schwimmer</name>
+      <name function="actor">Matt LeBlanc</name>
+      <name function="actor">Matthew Perry</name>
+      <name function="actor">Courteney Cox</name>
+      <name function="actor">Kyle Howard</name>
+      <name function="actor">Jennifer Aniston</name>
+      <name function="actor">Alison Sweeney</name>
+      <name function="writer">Brian Boyle</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213194700 +0100" stop="20151213201100 +0100">
+    <length units="minutes">24</length>
+    <title>Friends</title>
+    <category>Série</category>
+    <desc>Cassie, la cousine des Geller, vient passer quelques jours à New York. Cette nouvelle réjouit grandement Ross, qui trouve la jeune femme... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Gary Halvorson</name>
+      <name function="actor">Lisa Kudrow</name>
+      <name function="actor">David Schwimmer</name>
+      <name function="actor">Matt LeBlanc</name>
+      <name function="actor">Matthew Perry</name>
+      <name function="actor">Courteney Cox</name>
+      <name function="actor">Jennifer Aniston</name>
+      <name function="actor">Denise Richards</name>
+      <name function="actor">June Gable</name>
+      <name function="writer">Andrew Reich</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213201100 +0100" stop="20151213203500 +0100">
+    <length units="minutes">24</length>
+    <title>Friends</title>
+    <category>Série</category>
+    <desc>Rachel retrouve avec joie une ancienne amie de faculté, Melissa, qu'elle présente à ses amis. C'est l'occasion pour elles d'évoquer les souvenirs... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Gary Halvorson</name>
+      <name function="actor">Lisa Kudrow</name>
+      <name function="actor">David Schwimmer</name>
+      <name function="actor">Matt LeBlanc</name>
+      <name function="actor">Matthew Perry</name>
+      <name function="actor">Courteney Cox</name>
+      <name function="actor">Jennifer Aniston</name>
+      <name function="actor">Winona Ryder</name>
+      <name function="actor">James Michael Tyler</name>
+      <name function="writer">Shana Goldberg-Meehan</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213203500 +0100" stop="20151213212000 +0100">
+    <length units="minutes">45</length>
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <category>Talk show</category>
+    <desc>Mêlant humour et talk-show, Jimmy Fallon reçoit des personnalités de la musique, du cinéma, ou encore du sport, pour un... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jimmy Fallon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213212000 +0100" stop="20151213220500 +0100">
+    <length units="minutes">45</length>
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <category>Talk show</category>
+    <desc>Mêlant humour et talk-show, Jimmy Fallon reçoit des personnalités de la musique, du cinéma, ou encore du sport, pour un... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jimmy Fallon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213220500 +0100" stop="20151213222000 +0100">
+    <length units="minutes">15</length>
+    <title>Gamix</title>
+    <category>Magazine</category>
+    <desc>Chaque semaine, l'émission fait le point sur les dernières news de la culture digitale. Au menu de ce nouveau magazine, des reportages inédits... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Florian Gazan,</name>
+      <name function="presenter">Manu Levy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213222000 +0100" stop="20151213230000 +0100">
+    <length units="minutes">40</length>
+    <title>Ultra Tubes</title>
+    <category>Clips</category>
+    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213230000 +0100" stop="20151214000000 +0100">
+    <length units="minutes">60</length>
+    <title>Ultra Tubes</title>
+    <category>Clips</category>
+    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151214000000 +0100" stop="20151214001000 +0100">
+    <length units="minutes">10</length>
+    <title>Ultra Tubes</title>
+    <category>Clips</category>
+    <desc>Un espace musical exclusivement réservé aux clips. MCM propose une sélection des tubes du moment. C'est l'occasion de découvrir les dernières... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151214001000 +0100" stop="20151214020000 +0100">
+    <length units="minutes">110</length>
+    <title>My Top 50</title>
+    <category>Magazine</category>
+    <desc>Emission 6 Une présentation du top 50 de MCM, classement des meilleures ventes de singles du moment. Un téléspectateur prend les commandes de... (Lire la suite).(n)</desc>
     <image />
   </programme>
 </tv>

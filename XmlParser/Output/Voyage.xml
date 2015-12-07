@@ -1,325 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Voyage">
-    <display-name>MTV</display-name>
+    <display-name>burger</display-name>
   </channel>
-  <programme channel="MTV" start="20151206060500 +0100" stop="20151206063000 +0100">
-    <length units="minutes">25</length>
-    <title>Man vs Food : chroniques carnivores</title>
-    <category>Documentaire</category>
-    <desc>Ô charcuterie, mon amour De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206063000 +0100" stop="20151206065000 +0100">
-    <length units="minutes">20</length>
-    <title>Man vs Food : chroniques carnivores</title>
-    <category>Documentaire</category>
-    <desc>De la viande, encore et pour toujours De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206065000 +0100" stop="20151206071500 +0100">
-    <length units="minutes">25</length>
-    <title>Man vs Food : chroniques carnivores</title>
-    <category>Documentaire</category>
-    <desc>A l'attaque du porc ! De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et à ses... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206071500 +0100" stop="20151206073500 +0100">
-    <length units="minutes">20</length>
-    <title>Man vs Food : chroniques carnivores</title>
-    <category>Documentaire</category>
-    <desc>Du boeuf et encore du boeuf De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206073500 +0100" stop="20151206080500 +0100">
-    <length units="minutes">30</length>
-    <title>Man vs Food : chroniques carnivores</title>
-    <category>Documentaire</category>
-    <desc>Jamais sans mon pain de viande De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206080500 +0100" stop="20151206082500 +0100">
-    <length units="minutes">20</length>
-    <title>Mes pires vacances !</title>
-    <category>Documentaire</category>
-    <desc>Des vidéos qui immortalisent les désagréments rencontrés en voyage, d'un effondrement d'aéroport à des autruches en colère, en passant par des... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Douglas Jr Jones</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206082500 +0100" stop="20151206085000 +0100">
-    <length units="minutes">25</length>
-    <title>Mes pires vacances !</title>
-    <category>Documentaire</category>
-    <desc>Des vidéos qui immortalisent les désagréments rencontrés en voyage, d'un effondrement d'aéroport à des autruches en colère, en passant par des... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Douglas Jr Jones</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206085000 +0100" stop="20151206093500 +0100">
-    <length units="minutes">45</length>
-    <title>Chasseurs d'ovnis</title>
-    <category>Documentaire</category>
-    <desc>Zone d'atterrissage Depuis longtemps, dans le ciel de Roswell, des phénomènes étranges ont été remarqués, comme des lumières clignotantes ou de grands objets... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206093500 +0100" stop="20151206100500 +0100">
-    <length units="minutes">30</length>
-    <title>Vrai ou faux ?</title>
-    <category>Documentaire</category>
-    <desc>Le Da Vinci Code En 2003, l'écrivain américain Dan Brown publie le «Da Vinci Code», un thriller politico-religieux qui dévoilerait la véritable vie de Jésus et... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206100500 +0100" stop="20151206110000 +0100">
-    <length units="minutes">55</length>
-    <title>Les châteaux de la Loire</title>
-    <category>Documentaire</category>
-    <desc>Du haut de son promontoire, le château de Saumur, construit au XIVe siècle pour les Ducs d'Anjou, surplombe la ville et le confluent de la Loire.... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Delphine Oger</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206110000 +0100" stop="20151206115000 +0100">
-    <length units="minutes">50</length>
-    <title>Un train d'exception</title>
-    <category>Documentaire</category>
-    <desc>Depuis la gare Queen Street à Glasgow, la West Highland Line serpente vers le nord, à travers les paysages verdoyants de l'Ecosse et jusqu'à... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Torben Schmidt</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206115000 +0100" stop="20151206122000 +0100">
-    <length units="minutes">30</length>
-    <title>Les boutiques du monde</title>
-    <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206122000 +0100" stop="20151206125000 +0100">
-    <length units="minutes">30</length>
-    <title>Les boutiques du monde</title>
-    <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206125000 +0100" stop="20151206132000 +0100">
-    <length units="minutes">30</length>
-    <title>Les boutiques du monde</title>
-    <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206132000 +0100" stop="20151206135500 +0100">
-    <length units="minutes">35</length>
-    <title>Les boutiques du monde</title>
-    <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206135500 +0100" stop="20151206144500 +0100">
-    <length units="minutes">50</length>
-    <title>Les trains de l'extrême</title>
-    <category>Documentaire</category>
-    <desc>Zay Harding voyage en hiver dans le Nord de la Sibérie, à l'intérieur du cercle polaire arctique, sur les lignes de chemin de fer les plus au... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Chris Ledger</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206144500 +0100" stop="20151206154000 +0100">
-    <length units="minutes">55</length>
-    <title>Vacances d'enfer</title>
-    <category>Documentaire</category>
-    <desc>Une expérience de survie tourne au cauchemar, un jeune homme s'embarque vers l'Amérique du Sud avec un équipage inexpérimenté, et un couple... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Julien Bernard</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206154000 +0100" stop="20151206163500 +0100">
-    <length units="minutes">55</length>
-    <title>Vacances d'enfer</title>
-    <category>Documentaire</category>
-    <desc>Une jeune femme est arrêtée au Mexique puis envoyée en prison, tandis qu'un professeur de voile a du mal à rejoindre Malte depuis le Sud de la... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Julien Bernard</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206163500 +0100" stop="20151206173000 +0100">
-    <length units="minutes">55</length>
-    <title>Vacances d'enfer</title>
-    <category>Documentaire</category>
-    <desc>La randonnée d'Alexandre en Papouasie devient vite un enfer, Eric et son ami rencontrent des difficultés en Grèce, et une famille fait naufrage... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Julien Bernard</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206173000 +0100" stop="20151206175500 +0100">
-    <length units="minutes">25</length>
-    <title>Epicerie fine</title>
-    <category>Magazine</category>
-    <desc>Fabriqué au coeur de l'Aveyron, le roquefort est un fromage au goût unique, à pâte persillée. Fait à partir de lait de brebis, il est devenu... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Guy Martin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206175500 +0100" stop="20151206182500 +0100">
-    <length units="minutes">30</length>
-    <title>Epicerie fine</title>
-    <category>Magazine</category>
-    <desc>Au coeur des Alpes, entre prairies verdoyantes et sommets inaccessibles, la Savoie cultive les meilleures poires de France. Parmi elles, la... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Guy Martin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206182500 +0100" stop="20151206191500 +0100">
-    <length units="minutes">50</length>
-    <title>Les bons plans de Jamie Oliver</title>
-    <category>Documentaire</category>
-    <desc>Jamie Oliver prépare une poitrine de boeuf rôtie avec tous les accompagnements ; il transforme ensuite le reste de son boeuf restant avec du riz... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Mike Matthew</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206191500 +0100" stop="20151206200500 +0100">
-    <length units="minutes">50</length>
-    <title>Petits plats entre amis</title>
-    <category>Documentaire</category>
-    <desc>Saveurs exotiques Hamburger, sandwich au fromage grillé, shepherd pie ou encore lasagnes au canard, Jamie revisite les classiques de la cuisine et propose des... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206200500 +0100" stop="20151206210000 +0100">
-    <length units="minutes">55</length>
-    <title>Les châteaux de la Loire</title>
-    <category>Documentaire</category>
-    <desc>La façade du château de Cheverny est connue de tous les amateurs de bande dessinée. Elle a en effet inspiré Hergé pour la création du château de... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Olivier Hennegrave</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206210000 +0100" stop="20151206215500 +0100">
-    <length units="minutes">55</length>
-    <title>Les châteaux de la Loire</title>
-    <category>Documentaire</category>
-    <desc>Situé entre Tours et Blois, le domaine de 30 hectares de Chaumont-sur-Loire est constitué du château et de ses magnifiques jardins. Son château,... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Olivier Hennegrave</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206215500 +0100" stop="20151206225500 +0100">
-    <length units="minutes">60</length>
-    <title>Very Green Trip</title>
-    <category>Documentaire</category>
-    <desc>Une équipe de journalistes français menée par l'humoriste Alexandre Pesle s'est fixé un challenge écologique de taille : voyager sans... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Ybao Benedetti</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206225500 +0100" stop="20151206235000 +0100">
-    <length units="minutes">55</length>
-    <title>Chasseurs de volcans</title>
-    <category>Documentaire</category>
-    <desc>Vincent et Bertrand dépoussièrent la vulcanologie et entreprennent l'ascension d'édifices naturels aux humeurs indomptables. Ils parcourent les... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Bertrand Homassel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206235000 +0100" stop="20151207004500 +0100">
-    <length units="minutes">55</length>
-    <title>Chasseurs de volcans</title>
-    <category>Documentaire</category>
-    <desc>Vincent et Bertrand, cousins originaires de Clermont-Ferrand en Auvergne, haut lieu du volcanisme Européen, entament l'ascension des volcans au... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Bertrand Homassel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207004500 +0100" stop="20151207014000 +0100">
-    <length units="minutes">55</length>
-    <title>J'irai dormir chez vous</title>
-    <category>Documentaire</category>
-    <desc>La Californie est sans nul doute un des Etats les plus ouverts des Etats-Unis, comme va le vérifier Antoine de Maximy, qui commence son voyage à... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Antoine de Maximy</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207014000 +0100" stop="20151207024000 +0100">
-    <length units="minutes">60</length>
-    <title>Expédition passage du Nord-Ouest</title>
-    <category>Documentaire</category>
-    <desc>Pendant des siècles, la recherche vers l'Ouest d'une route reliant l'Europe à l'Asie est à l'origine d'aventures incroyables. Nombre de... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Christophe Boyer</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207024000 +0100" stop="20151207033500 +0100">
-    <length units="minutes">55</length>
-    <title>Martin autour du monde</title>
-    <category>Documentaire</category>
-    <desc>L'Indonésie Java est l'île la plus densément peuplée au monde. Pour y nourrir une population de 140 millions d'habitants sur un territoire trois fois moins... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207033500 +0100" stop="20151207043000 +0100">
-    <length units="minutes">55</length>
-    <title>La quête des vents</title>
-    <category>Documentaire</category>
-    <desc>Le suroît est un mot qui vient du normand et qui signifie «sud-ouest» ; c'est un vent breton, redouté depuis toujours par les marins, et qui rend... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Eric Capitaine</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207043000 +0100" stop="20151207052500 +0100">
-    <length units="minutes">55</length>
-    <title>Les immersions d'Olivia</title>
-    <category>Documentaire</category>
-    <desc>Les rétro maniaques Olivia, journaliste parisienne, part à la rencontre des tribus urbaines : durant plusieurs jours, elle partage leur quotidien et tente de... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207052500 +0100" stop="20151207062000 +0100">
-    <length units="minutes">55</length>
-    <title>Les immersions d'Olivia</title>
-    <category>Documentaire</category>
-    <desc>Les tatoués Olivia, journaliste parisienne, part à la rencontre des tribus urbaines : durant plusieurs jours, elle partage leur quotidien et tente de... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207062000 +0100" stop="20151207071500 +0100">
+  <programme channel="burger" start="20151207022000 +0100" stop="20151207031500 +0100">
     <length units="minutes">55</length>
     <title>Les immersions d'Olivia</title>
     <category>Documentaire</category>
     <desc>Les gothiques Le gothique s'intéresse à la littérature, aux sciences humaines, à l'ésotérisme, à la philosophie et a souvent le goût du... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207071500 +0100" stop="20151207081000 +0100">
+  <programme channel="burger" start="20151207031500 +0100" stop="20151207041000 +0100">
     <length units="minutes">55</length>
     <title>Les immersions d'Olivia</title>
     <category>Documentaire</category>
     <desc>Les décroissants Décroissant : individu dont les ressources propres sont suffisantes pour assurer ses besoins essentiels, adepte de la simplicité... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207081000 +0100" stop="20151207085500 +0100">
+  <programme channel="burger" start="20151207041000 +0100" stop="20151207045500 +0100">
     <length units="minutes">45</length>
     <title>Petits plats entre amis</title>
     <category>Documentaire</category>
     <desc>Souvenirs d'enfance Jamie Oliver présente des plats simples mais délicieux, des recettes qui réconfortent, qui ont une odeur de nostalgie ou un parfum... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207085500 +0100" stop="20151207093500 +0100">
+  <programme channel="burger" start="20151207045500 +0100" stop="20151207053500 +0100">
     <length units="minutes">40</length>
     <title>24 heures avec Anthony Bourdain</title>
     <category>Documentaire</category>
@@ -329,7 +34,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207093500 +0100" stop="20151207100500 +0100">
+  <programme channel="burger" start="20151207053500 +0100" stop="20151207060500 +0100">
     <length units="minutes">30</length>
     <title>Epicerie fine</title>
     <category>Magazine</category>
@@ -339,7 +44,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207100500 +0100" stop="20151207110000 +0100">
+  <programme channel="burger" start="20151207060500 +0100" stop="20151207070000 +0100">
     <length units="minutes">55</length>
     <title>Les châteaux de la Loire</title>
     <category>Documentaire</category>
@@ -349,42 +54,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207110000 +0100" stop="20151207115000 +0100">
+  <programme channel="burger" start="20151207070000 +0100" stop="20151207075000 +0100">
     <length units="minutes">50</length>
     <title>En train à travers</title>
     <category>Documentaire</category>
     <desc>L'Andalousie La série «En train à travers» invite les amateurs de chemins de fer et, plus largement de voyages, à découvrir des parcours touristiques... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207115000 +0100" stop="20151207122000 +0100">
+  <programme channel="burger" start="20151207075000 +0100" stop="20151207082000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207122000 +0100" stop="20151207125000 +0100">
+  <programme channel="burger" start="20151207082000 +0100" stop="20151207085000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207125000 +0100" stop="20151207132000 +0100">
+  <programme channel="burger" start="20151207085000 +0100" stop="20151207092000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207132000 +0100" stop="20151207135500 +0100">
+  <programme channel="burger" start="20151207092000 +0100" stop="20151207095500 +0100">
     <length units="minutes">35</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207135500 +0100" stop="20151207144500 +0100">
+  <programme channel="burger" start="20151207095500 +0100" stop="20151207104500 +0100">
     <length units="minutes">50</length>
     <title>Le Sud de l'Inde en train de luxe</title>
     <category>Documentaire</category>
@@ -395,7 +100,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207144500 +0100" stop="20151207154000 +0100">
+  <programme channel="burger" start="20151207104500 +0100" stop="20151207114000 +0100">
     <length units="minutes">55</length>
     <title>Itinéraires bis</title>
     <category>Documentaire</category>
@@ -405,7 +110,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207154000 +0100" stop="20151207164000 +0100">
+  <programme channel="burger" start="20151207114000 +0100" stop="20151207124000 +0100">
     <length units="minutes">60</length>
     <title>Les châteaux de la Loire</title>
     <category>Documentaire</category>
@@ -415,7 +120,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207164000 +0100" stop="20151207173000 +0100">
+  <programme channel="burger" start="20151207124000 +0100" stop="20151207133000 +0100">
     <length units="minutes">50</length>
     <title>Les bons plans de Jamie Oliver</title>
     <category>Documentaire</category>
@@ -425,7 +130,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207173000 +0100" stop="20151207175500 +0100">
+  <programme channel="burger" start="20151207133000 +0100" stop="20151207135500 +0100">
     <length units="minutes">25</length>
     <title>Epicerie fine</title>
     <category>Magazine</category>
@@ -435,7 +140,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207175500 +0100" stop="20151207183000 +0100">
+  <programme channel="burger" start="20151207135500 +0100" stop="20151207143000 +0100">
     <length units="minutes">35</length>
     <title>Epicerie fine</title>
     <category>Magazine</category>
@@ -445,42 +150,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207183000 +0100" stop="20151207192000 +0100">
+  <programme channel="burger" start="20151207143000 +0100" stop="20151207152000 +0100">
     <length units="minutes">50</length>
     <title>Les étranges rencontres de Darren</title>
     <category>Documentaire</category>
     <desc>Le bondage japonais Darren McMullen rencontre un couple de londoniens qui tente de faire passer la pratique du bondage japonais dans les moeurs en organisant des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207192000 +0100" stop="20151207200500 +0100">
+  <programme channel="burger" start="20151207152000 +0100" stop="20151207160500 +0100">
     <length units="minutes">45</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Des vacanciers, dont le séjour a priori paradisiaque s'est transformé en cauchemar à cause d'un événement inattendu, témoignent et révèlent leurs... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207200500 +0100" stop="20151207205500 +0100">
+  <programme channel="burger" start="20151207160500 +0100" stop="20151207165500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Des vacanciers, dont le séjour a priori paradisiaque s'est transformé en cauchemar à cause d'un événement inattendu, témoignent et révèlent leurs... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207205500 +0100" stop="20151207214500 +0100">
+  <programme channel="burger" start="20151207165500 +0100" stop="20151207174500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Dans le premier épisode de cette série documentaire, un habitant de Los Angeles part en vacances dans la ville de New York. Sa caméra est en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207214500 +0100" stop="20151207224000 +0100">
+  <programme channel="burger" start="20151207174500 +0100" stop="20151207184000 +0100">
     <length units="minutes">55</length>
     <title>L'Afrique en train avec Griff Rhys Jones</title>
     <category>Documentaire</category>
     <desc>De la Zambie au Zimbabwe Griff Rhys embarque pour une grande aventure ferroviaire à la découverte de l'Afrique, de sa faune étonnante, de ses grands fleuves, de ses... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207224000 +0100" stop="20151207230500 +0100">
+  <programme channel="burger" start="20151207184000 +0100" stop="20151207190500 +0100">
     <length units="minutes">25</length>
     <title>J'irai dormir chez les maharadjahs</title>
     <category>Documentaire</category>
@@ -490,7 +195,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207230500 +0100" stop="20151207233500 +0100">
+  <programme channel="burger" start="20151207190500 +0100" stop="20151207193500 +0100">
     <length units="minutes">30</length>
     <title>J'irai dormir en Amérique</title>
     <category>Documentaire</category>
@@ -500,7 +205,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207233500 +0100" stop="20151208003000 +0100">
+  <programme channel="burger" start="20151207193500 +0100" stop="20151207203000 +0100">
     <length units="minutes">55</length>
     <title>J'irai dormir chez vous</title>
     <category>Documentaire</category>
@@ -510,7 +215,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208003000 +0100" stop="20151208012500 +0100">
+  <programme channel="burger" start="20151207203000 +0100" stop="20151207212500 +0100">
     <length units="minutes">55</length>
     <title>Le monde d'Yvan</title>
     <category>Documentaire</category>
@@ -520,14 +225,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208012500 +0100" stop="20151208021000 +0100">
+  <programme channel="burger" start="20151207212500 +0100" stop="20151207221000 +0100">
     <length units="minutes">45</length>
     <title>La team SCA</title>
     <category>Documentaire</category>
     <desc>Un équipage au féminin Le quotidien de l'équipe SCA, composée uniquement de femmes, engagée dans la Volvo Ocean Race, la course à la voile la plus difficile au monde.... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208021000 +0100" stop="20151208023500 +0100">
+  <programme channel="burger" start="20151207221000 +0100" stop="20151207223500 +0100">
     <length units="minutes">25</length>
     <title>Une fleur dans les glaces</title>
     <category>Documentaire</category>
@@ -538,7 +243,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208023500 +0100" stop="20151208030000 +0100">
+  <programme channel="burger" start="20151207223500 +0100" stop="20151207230000 +0100">
     <length units="minutes">25</length>
     <title>J'irai dormir chez les maharadjahs</title>
     <category>Documentaire</category>
@@ -548,7 +253,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208030000 +0100" stop="20151208033000 +0100">
+  <programme channel="burger" start="20151207230000 +0100" stop="20151207233000 +0100">
     <length units="minutes">30</length>
     <title>J'irai dormir à Burning Man</title>
     <category>Documentaire</category>
@@ -558,7 +263,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208033000 +0100" stop="20151208042500 +0100">
+  <programme channel="burger" start="20151207233000 +0100" stop="20151208002500 +0100">
     <length units="minutes">55</length>
     <title>Le monde d'Yvan</title>
     <category>Documentaire</category>
@@ -568,14 +273,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208042500 +0100" stop="20151208051000 +0100">
+  <programme channel="burger" start="20151208002500 +0100" stop="20151208011000 +0100">
     <length units="minutes">45</length>
     <title>La team SCA</title>
     <category>Documentaire</category>
     <desc>Un équipage au féminin Le quotidien de l'équipe SCA, composée uniquement de femmes, engagée dans la Volvo Ocean Race, la course à la voile la plus difficile au monde.... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208051000 +0100" stop="20151208054000 +0100">
+  <programme channel="burger" start="20151208011000 +0100" stop="20151208014000 +0100">
     <length units="minutes">30</length>
     <title>Air tension</title>
     <category>Documentaire</category>
@@ -585,21 +290,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208054000 +0100" stop="20151208062500 +0100">
+  <programme channel="burger" start="20151208014000 +0100" stop="20151208022500 +0100">
     <length units="minutes">45</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Des vacanciers, dont le séjour a priori paradisiaque s'est transformé en cauchemar à cause d'un événement inattendu, témoignent et révèlent leurs... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208062500 +0100" stop="20151208071500 +0100">
+  <programme channel="burger" start="20151208022500 +0100" stop="20151208031500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Des vacanciers, dont le séjour a priori paradisiaque s'est transformé en cauchemar à cause d'un événement inattendu, témoignent et révèlent leurs... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208071500 +0100" stop="20151208081000 +0100">
+  <programme channel="burger" start="20151208031500 +0100" stop="20151208041000 +0100">
     <length units="minutes">55</length>
     <title>Le sexe autour du monde</title>
     <category>Documentaire</category>
@@ -609,14 +314,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208081000 +0100" stop="20151208090500 +0100">
+  <programme channel="burger" start="20151208041000 +0100" stop="20151208050500 +0100">
     <length units="minutes">55</length>
     <title>Martin autour du monde</title>
     <category>Documentaire</category>
     <desc>L'Indonésie Java est l'île la plus densément peuplée au monde. Pour y nourrir une population de 140 millions d'habitants sur un territoire trois fois moins... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208090500 +0100" stop="20151208100000 +0100">
+  <programme channel="burger" start="20151208050500 +0100" stop="20151208060000 +0100">
     <length units="minutes">55</length>
     <title>La quête des vents</title>
     <category>Documentaire</category>
@@ -626,7 +331,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208100000 +0100" stop="20151208105500 +0100">
+  <programme channel="burger" start="20151208060000 +0100" stop="20151208065500 +0100">
     <length units="minutes">55</length>
     <title>Les châteaux de la Loire</title>
     <category>Documentaire</category>
@@ -636,42 +341,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208105500 +0100" stop="20151208115000 +0100">
+  <programme channel="burger" start="20151208065500 +0100" stop="20151208075000 +0100">
     <length units="minutes">55</length>
     <title>Les trains de l'extrême</title>
     <category>Documentaire</category>
     <desc>Cuba, la route du sucre Ian Wright se rend à Cuba : sur cette île, la plus grande des Caraïbes, il suit les traces d'une ligne ferroviaire dont les trains sont... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208115000 +0100" stop="20151208122000 +0100">
+  <programme channel="burger" start="20151208075000 +0100" stop="20151208082000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208122000 +0100" stop="20151208125000 +0100">
+  <programme channel="burger" start="20151208082000 +0100" stop="20151208085000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208125000 +0100" stop="20151208132000 +0100">
+  <programme channel="burger" start="20151208085000 +0100" stop="20151208092000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208132000 +0100" stop="20151208135500 +0100">
+  <programme channel="burger" start="20151208092000 +0100" stop="20151208095500 +0100">
     <length units="minutes">35</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208135500 +0100" stop="20151208145000 +0100">
+  <programme channel="burger" start="20151208095500 +0100" stop="20151208105000 +0100">
     <length units="minutes">55</length>
     <title>Les trains de l'extrême</title>
     <category>Documentaire</category>
@@ -681,7 +386,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208145000 +0100" stop="20151208154500 +0100">
+  <programme channel="burger" start="20151208105000 +0100" stop="20151208114500 +0100">
     <length units="minutes">55</length>
     <title>Itinéraires bis</title>
     <category>Documentaire</category>
@@ -691,7 +396,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208154500 +0100" stop="20151208164000 +0100">
+  <programme channel="burger" start="20151208114500 +0100" stop="20151208124000 +0100">
     <length units="minutes">55</length>
     <title>Les châteaux de la Loire</title>
     <category>Documentaire</category>
@@ -701,7 +406,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208164000 +0100" stop="20151208173000 +0100">
+  <programme channel="burger" start="20151208124000 +0100" stop="20151208133000 +0100">
     <length units="minutes">50</length>
     <title>Les bons plans de Jamie Oliver</title>
     <category>Documentaire</category>
@@ -711,7 +416,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208173000 +0100" stop="20151208175500 +0100">
+  <programme channel="burger" start="20151208133000 +0100" stop="20151208135500 +0100">
     <length units="minutes">25</length>
     <title>Epicerie fine</title>
     <category>Magazine</category>
@@ -721,7 +426,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208175500 +0100" stop="20151208183000 +0100">
+  <programme channel="burger" start="20151208135500 +0100" stop="20151208143000 +0100">
     <length units="minutes">35</length>
     <title>Epicerie fine</title>
     <category>Magazine</category>
@@ -731,35 +436,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208183000 +0100" stop="20151208192000 +0100">
+  <programme channel="burger" start="20151208143000 +0100" stop="20151208152000 +0100">
     <length units="minutes">50</length>
     <title>Les étranges rencontres de Darren</title>
     <category>Documentaire</category>
     <desc>Les Femen Darren McMullen pénètre au coeur de l'organisation féministe radicale des Femen et rencontre Inna Shevchenko, leader de... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208192000 +0100" stop="20151208200500 +0100">
+  <programme channel="burger" start="20151208152000 +0100" stop="20151208160500 +0100">
     <length units="minutes">45</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Des vacanciers, dont le séjour a priori paradisiaque s'est transformé en cauchemar à cause d'un événement inattendu, témoignent et révèlent leurs... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208200500 +0100" stop="20151208205500 +0100">
+  <programme channel="burger" start="20151208160500 +0100" stop="20151208165500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>A cause d'un équipement défectueux, une femme qui s'adonnait au saut à l'élastique du haut des Chutes Victoria, en Zambie, plonge dans une... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208205500 +0100" stop="20151208214500 +0100">
+  <programme channel="burger" start="20151208165500 +0100" stop="20151208174500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Un voyage à travers les Etats-Unis se transforme en course contre la mort lorsque les secours tentent de sauver la vie d'une personne victime... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208214500 +0100" stop="20151208224000 +0100">
+  <programme channel="burger" start="20151208174500 +0100" stop="20151208184000 +0100">
     <length units="minutes">55</length>
     <title>L'Afrique en train avec Griff Rhys Jones</title>
     <category>Documentaire</category>
@@ -769,7 +474,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208224000 +0100" stop="20151208230500 +0100">
+  <programme channel="burger" start="20151208184000 +0100" stop="20151208190500 +0100">
     <length units="minutes">25</length>
     <title>J'irai dormir chez les maharadjahs</title>
     <category>Documentaire</category>
@@ -779,7 +484,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208230500 +0100" stop="20151208233500 +0100">
+  <programme channel="burger" start="20151208190500 +0100" stop="20151208193500 +0100">
     <length units="minutes">30</length>
     <title>J'irai dormir en Amérique</title>
     <category>Documentaire</category>
@@ -789,7 +494,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208233500 +0100" stop="20151209003000 +0100">
+  <programme channel="burger" start="20151208193500 +0100" stop="20151208203000 +0100">
     <length units="minutes">55</length>
     <title>J'irai dormir chez vous</title>
     <category>Documentaire</category>
@@ -799,21 +504,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209003000 +0100" stop="20151209012000 +0100">
+  <programme channel="burger" start="20151208203000 +0100" stop="20151208212000 +0100">
     <length units="minutes">50</length>
     <title>Polygamie ville</title>
     <category>Documentaire</category>
     <desc>Le choix Fiona, 8 ans, s'apprête à être baptisée mais, auparavant, elle doit prouver qu'elle comprend et accepte tous les principes de la communauté... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209012000 +0100" stop="20151209020500 +0100">
+  <programme channel="burger" start="20151208212000 +0100" stop="20151208220500 +0100">
     <length units="minutes">45</length>
     <title>Amish et affranchi</title>
     <category>Documentaire</category>
     <desc>La réconciliation Mose prend une pause bien méritée pour rendre visite à un cousin qui, comme lui, a quitté la communauté des Amish. Mais cette visite éclair le... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209020500 +0100" stop="20151209023000 +0100">
+  <programme channel="burger" start="20151208220500 +0100" stop="20151208223000 +0100">
     <length units="minutes">25</length>
     <title>Tessa &amp; Scott</title>
     <category>Documentaire</category>
@@ -823,7 +528,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209023000 +0100" stop="20151209025500 +0100">
+  <programme channel="burger" start="20151208223000 +0100" stop="20151208225500 +0100">
     <length units="minutes">25</length>
     <title>J'irai dormir chez les maharadjahs</title>
     <category>Documentaire</category>
@@ -833,7 +538,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209025500 +0100" stop="20151209033000 +0100">
+  <programme channel="burger" start="20151208225500 +0100" stop="20151208233000 +0100">
     <length units="minutes">35</length>
     <title>J'irai dormir à Burning Man</title>
     <category>Documentaire</category>
@@ -843,21 +548,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209033000 +0100" stop="20151209042000 +0100">
+  <programme channel="burger" start="20151208233000 +0100" stop="20151209002000 +0100">
     <length units="minutes">50</length>
     <title>Polygamie ville</title>
     <category>Documentaire</category>
     <desc>Le choix Fiona, 8 ans, s'apprête à être baptisée mais, auparavant, elle doit prouver qu'elle comprend et accepte tous les principes de la communauté... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209042000 +0100" stop="20151209051000 +0100">
+  <programme channel="burger" start="20151209002000 +0100" stop="20151209011000 +0100">
     <length units="minutes">50</length>
     <title>Amish et affranchi</title>
     <category>Documentaire</category>
     <desc>La réconciliation Mose prend une pause bien méritée pour rendre visite à un cousin qui, comme lui, a quitté la communauté des Amish. Mais cette visite éclair le... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209051000 +0100" stop="20151209054000 +0100">
+  <programme channel="burger" start="20151209011000 +0100" stop="20151209014000 +0100">
     <length units="minutes">30</length>
     <title>Air tension</title>
     <category>Documentaire</category>
@@ -867,21 +572,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209054000 +0100" stop="20151209062500 +0100">
+  <programme channel="burger" start="20151209014000 +0100" stop="20151209022500 +0100">
     <length units="minutes">45</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Des vacanciers, dont le séjour a priori paradisiaque s'est transformé en cauchemar à cause d'un événement inattendu, témoignent et révèlent leurs... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209062500 +0100" stop="20151209071500 +0100">
+  <programme channel="burger" start="20151209022500 +0100" stop="20151209031500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>A cause d'un équipement défectueux, une femme qui s'adonnait au saut à l'élastique du haut des Chutes Victoria, en Zambie, plonge dans une... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209071500 +0100" stop="20151209081000 +0100">
+  <programme channel="burger" start="20151209031500 +0100" stop="20151209041000 +0100">
     <length units="minutes">55</length>
     <title>Le sexe autour du monde</title>
     <category>Documentaire</category>
@@ -891,7 +596,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209081000 +0100" stop="20151209090500 +0100">
+  <programme channel="burger" start="20151209041000 +0100" stop="20151209050500 +0100">
     <length units="minutes">55</length>
     <title>Le monde d'Yvan</title>
     <category>Documentaire</category>
@@ -901,14 +606,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209090500 +0100" stop="20151209095500 +0100">
+  <programme channel="burger" start="20151209050500 +0100" stop="20151209055500 +0100">
     <length units="minutes">50</length>
     <title>La team SCA</title>
     <category>Documentaire</category>
     <desc>Un équipage au féminin Le quotidien de l'équipe SCA, composée uniquement de femmes, engagée dans la Volvo Ocean Race, la course à la voile la plus difficile au monde.... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209095500 +0100" stop="20151209105000 +0100">
+  <programme channel="burger" start="20151209055500 +0100" stop="20151209065000 +0100">
     <length units="minutes">55</length>
     <title>Les châteaux de la Loire</title>
     <category>Documentaire</category>
@@ -918,42 +623,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209105000 +0100" stop="20151209115000 +0100">
+  <programme channel="burger" start="20151209065000 +0100" stop="20151209075000 +0100">
     <length units="minutes">60</length>
     <title>Les trains de l'extrême</title>
     <category>Documentaire</category>
     <desc>La conquête de l'Ouest Un voyage en train à travers les Etats-Unis, à la découverte de l'histoire de ce continent, de l'Atlantique au Pacifique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209115000 +0100" stop="20151209122000 +0100">
+  <programme channel="burger" start="20151209075000 +0100" stop="20151209082000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209122000 +0100" stop="20151209125000 +0100">
+  <programme channel="burger" start="20151209082000 +0100" stop="20151209085000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209125000 +0100" stop="20151209132000 +0100">
+  <programme channel="burger" start="20151209085000 +0100" stop="20151209092000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209132000 +0100" stop="20151209135500 +0100">
+  <programme channel="burger" start="20151209092000 +0100" stop="20151209095500 +0100">
     <length units="minutes">35</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209135500 +0100" stop="20151209144500 +0100">
+  <programme channel="burger" start="20151209095500 +0100" stop="20151209104500 +0100">
     <length units="minutes">50</length>
     <title>En train à travers le Brésil, pays de pierres précieuses</title>
     <category>Documentaire</category>
@@ -963,7 +668,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209144500 +0100" stop="20151209154000 +0100">
+  <programme channel="burger" start="20151209104500 +0100" stop="20151209114000 +0100">
     <length units="minutes">55</length>
     <title>Itinéraires bis</title>
     <category>Documentaire</category>
@@ -973,7 +678,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209154000 +0100" stop="20151209164000 +0100">
+  <programme channel="burger" start="20151209114000 +0100" stop="20151209124000 +0100">
     <length units="minutes">60</length>
     <title>Les châteaux de la Loire</title>
     <category>Documentaire</category>
@@ -983,14 +688,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209164000 +0100" stop="20151209173000 +0100">
+  <programme channel="burger" start="20151209124000 +0100" stop="20151209133000 +0100">
     <length units="minutes">50</length>
     <title>Les bons plans de Jamie Oliver</title>
     <category>Documentaire</category>
     <desc>Ne jetez plus les restes Jamie Oliver veut prouver qu'il est possible de manger comme un roi même avec un tout petit budget ou même en utilisant les restes du... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209173000 +0100" stop="20151209175500 +0100">
+  <programme channel="burger" start="20151209133000 +0100" stop="20151209135500 +0100">
     <length units="minutes">25</length>
     <title>Epicerie fine</title>
     <category>Magazine</category>
@@ -1000,7 +705,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209175500 +0100" stop="20151209183000 +0100">
+  <programme channel="burger" start="20151209135500 +0100" stop="20151209143000 +0100">
     <length units="minutes">35</length>
     <title>Epicerie fine</title>
     <category>Magazine</category>
@@ -1010,35 +715,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209183000 +0100" stop="20151209192000 +0100">
+  <programme channel="burger" start="20151209143000 +0100" stop="20151209152000 +0100">
     <length units="minutes">50</length>
     <title>Les étranges rencontres de Darren</title>
     <category>Documentaire</category>
     <desc>Tous à nu ! En Pologne, Darren McMullen s'entraîne en compagnie de passionnés d'histoire bien décidés à combattre comme de véritables chevaliers du... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209192000 +0100" stop="20151209200500 +0100">
+  <programme channel="burger" start="20151209152000 +0100" stop="20151209160500 +0100">
     <length units="minutes">45</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Dans le premier épisode de cette série documentaire, un habitant de Los Angeles part en vacances dans la ville de New York. Sa caméra est en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209200500 +0100" stop="20151209205500 +0100">
+  <programme channel="burger" start="20151209160500 +0100" stop="20151209165500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Lorsque les vacances tournent au drame : un caméraman parachutiste s'écrase au sol ; puis un homme est mordu par un requin tisserand lors d'une... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209205500 +0100" stop="20151209214500 +0100">
+  <programme channel="burger" start="20151209165500 +0100" stop="20151209174500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Un voyage au ski tourne au drame lorsqu'un skieur est pris dans une avalanche et se retrouve enterré sous plusieurs mètres de neige. Un kayakiste... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209214500 +0100" stop="20151209224000 +0100">
+  <programme channel="burger" start="20151209174500 +0100" stop="20151209184000 +0100">
     <length units="minutes">55</length>
     <title>L'Afrique en train avec Griff Rhys Jones</title>
     <category>Documentaire</category>
@@ -1048,7 +753,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209224000 +0100" stop="20151209230500 +0100">
+  <programme channel="burger" start="20151209184000 +0100" stop="20151209190500 +0100">
     <length units="minutes">25</length>
     <title>J'irai dormir chez les maharadjahs</title>
     <category>Documentaire</category>
@@ -1058,7 +763,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209230500 +0100" stop="20151209233500 +0100">
+  <programme channel="burger" start="20151209190500 +0100" stop="20151209193500 +0100">
     <length units="minutes">30</length>
     <title>J'irai dormir en Amérique</title>
     <category>Documentaire</category>
@@ -1068,7 +773,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209233500 +0100" stop="20151210003000 +0100">
+  <programme channel="burger" start="20151209193500 +0100" stop="20151209203000 +0100">
     <length units="minutes">55</length>
     <title>J'irai dormir chez vous</title>
     <category>Documentaire</category>
@@ -1078,7 +783,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210003000 +0100" stop="20151210012500 +0100">
+  <programme channel="burger" start="20151209203000 +0100" stop="20151209212500 +0100">
     <length units="minutes">55</length>
     <title>Chasseurs de volcans</title>
     <category>Documentaire</category>
@@ -1088,7 +793,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210012500 +0100" stop="20151210023000 +0100">
+  <programme channel="burger" start="20151209212500 +0100" stop="20151209223000 +0100">
     <length units="minutes">65</length>
     <title>La quête des vents</title>
     <category>Documentaire</category>
@@ -1098,7 +803,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210023000 +0100" stop="20151210025500 +0100">
+  <programme channel="burger" start="20151209223000 +0100" stop="20151209225500 +0100">
     <length units="minutes">25</length>
     <title>J'irai dormir chez les maharadjahs</title>
     <category>Documentaire</category>
@@ -1108,7 +813,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210025500 +0100" stop="20151210033000 +0100">
+  <programme channel="burger" start="20151209225500 +0100" stop="20151209233000 +0100">
     <length units="minutes">35</length>
     <title>J'irai dormir à Burning Man</title>
     <category>Documentaire</category>
@@ -1118,7 +823,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210033000 +0100" stop="20151210042500 +0100">
+  <programme channel="burger" start="20151209233000 +0100" stop="20151210002500 +0100">
     <length units="minutes">55</length>
     <title>Chasseurs de volcans</title>
     <category>Documentaire</category>
@@ -1128,7 +833,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210042500 +0100" stop="20151210052000 +0100">
+  <programme channel="burger" start="20151210002500 +0100" stop="20151210012000 +0100">
     <length units="minutes">55</length>
     <title>La quête des vents</title>
     <category>Documentaire</category>
@@ -1138,7 +843,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210052000 +0100" stop="20151210055000 +0100">
+  <programme channel="burger" start="20151210012000 +0100" stop="20151210015000 +0100">
     <length units="minutes">30</length>
     <title>Air tension</title>
     <category>Documentaire</category>
@@ -1148,21 +853,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210055000 +0100" stop="20151210063000 +0100">
+  <programme channel="burger" start="20151210015000 +0100" stop="20151210023000 +0100">
     <length units="minutes">40</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Dans le premier épisode de cette série documentaire, un habitant de Los Angeles part en vacances dans la ville de New York. Sa caméra est en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210063000 +0100" stop="20151210071500 +0100">
+  <programme channel="burger" start="20151210023000 +0100" stop="20151210031500 +0100">
     <length units="minutes">45</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Lorsque les vacances tournent au drame : un caméraman parachutiste s'écrase au sol ; puis un homme est mordu par un requin tisserand lors d'une... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210071500 +0100" stop="20151210081000 +0100">
+  <programme channel="burger" start="20151210031500 +0100" stop="20151210041000 +0100">
     <length units="minutes">55</length>
     <title>Le sexe autour du monde</title>
     <category>Documentaire</category>
@@ -1172,21 +877,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210081000 +0100" stop="20151210085500 +0100">
+  <programme channel="burger" start="20151210041000 +0100" stop="20151210045500 +0100">
     <length units="minutes">45</length>
     <title>Polygamie ville</title>
     <category>Documentaire</category>
     <desc>Le choix Fiona, 8 ans, s'apprête à être baptisée mais, auparavant, elle doit prouver qu'elle comprend et accepte tous les principes de la communauté... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210085500 +0100" stop="20151210095500 +0100">
+  <programme channel="burger" start="20151210045500 +0100" stop="20151210055500 +0100">
     <length units="minutes">60</length>
     <title>Amish et affranchi</title>
     <category>Documentaire</category>
     <desc>La réconciliation Mose prend une pause bien méritée pour rendre visite à un cousin qui, comme lui, a quitté la communauté des Amish. Mais cette visite éclair le... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210095500 +0100" stop="20151210105000 +0100">
+  <programme channel="burger" start="20151210055500 +0100" stop="20151210065000 +0100">
     <length units="minutes">55</length>
     <title>Les châteaux de la Loire</title>
     <category>Documentaire</category>
@@ -1196,7 +901,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210105000 +0100" stop="20151210115000 +0100">
+  <programme channel="burger" start="20151210065000 +0100" stop="20151210075000 +0100">
     <length units="minutes">60</length>
     <title>Les trains de l'extrême</title>
     <category>Documentaire</category>
@@ -1206,42 +911,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210115000 +0100" stop="20151210122000 +0100">
+  <programme channel="burger" start="20151210075000 +0100" stop="20151210082000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210122000 +0100" stop="20151210125000 +0100">
+  <programme channel="burger" start="20151210082000 +0100" stop="20151210085000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210125000 +0100" stop="20151210132000 +0100">
+  <programme channel="burger" start="20151210085000 +0100" stop="20151210092000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210132000 +0100" stop="20151210135500 +0100">
+  <programme channel="burger" start="20151210092000 +0100" stop="20151210095500 +0100">
     <length units="minutes">35</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210135500 +0100" stop="20151210144500 +0100">
+  <programme channel="burger" start="20151210095500 +0100" stop="20151210104500 +0100">
     <length units="minutes">50</length>
     <title>En train à travers</title>
     <category>Documentaire</category>
     <desc>L'Andalousie La série «En train à travers» invite les amateurs de chemins de fer et, plus largement de voyages, à découvrir des parcours touristiques... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210144500 +0100" stop="20151210154000 +0100">
+  <programme channel="burger" start="20151210104500 +0100" stop="20151210114000 +0100">
     <length units="minutes">55</length>
     <title>Itinéraires bis</title>
     <category>Documentaire</category>
@@ -1251,7 +956,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210154000 +0100" stop="20151210164000 +0100">
+  <programme channel="burger" start="20151210114000 +0100" stop="20151210124000 +0100">
     <length units="minutes">60</length>
     <title>Les châteaux de la Loire</title>
     <category>Documentaire</category>
@@ -1261,14 +966,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210164000 +0100" stop="20151210173000 +0100">
+  <programme channel="burger" start="20151210124000 +0100" stop="20151210133000 +0100">
     <length units="minutes">50</length>
     <title>Les bons plans de Jamie Oliver</title>
     <category>Documentaire</category>
     <desc>Curry suprême Jamie Oliver propose des astuces de cuisine pour réduire les coûts, élever les esprits et rendre la nourriture et la dégustation... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210173000 +0100" stop="20151210175500 +0100">
+  <programme channel="burger" start="20151210133000 +0100" stop="20151210135500 +0100">
     <length units="minutes">25</length>
     <title>Epicerie fine</title>
     <category>Magazine</category>
@@ -1278,7 +983,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210175500 +0100" stop="20151210183000 +0100">
+  <programme channel="burger" start="20151210135500 +0100" stop="20151210143000 +0100">
     <length units="minutes">35</length>
     <title>Epicerie fine</title>
     <category>Magazine</category>
@@ -1288,35 +993,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210183000 +0100" stop="20151210192000 +0100">
+  <programme channel="burger" start="20151210143000 +0100" stop="20151210152000 +0100">
     <length units="minutes">50</length>
     <title>Les étranges rencontres de Darren</title>
     <category>Documentaire</category>
     <desc>La lutte des poneys Darren McMullen se rend à Manchester au coeur du plus grand groupe de fans de «My Little Pony» en Europe, puis il assiste à son propre... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210192000 +0100" stop="20151210200500 +0100">
+  <programme channel="burger" start="20151210152000 +0100" stop="20151210160500 +0100">
     <length units="minutes">45</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Ce second volet propose de nouvelles images de vacances qu'un événement inattendu transforme en cauchemar. Un vent puissant dévie une... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210200500 +0100" stop="20151210205500 +0100">
+  <programme channel="burger" start="20151210160500 +0100" stop="20151210165500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Une femme, inconsciente, crée la panique dans le zoo de Berlin lorsqu'elle saute dans l'enclos réservé aux ours polaires. Deux amis se promènent... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210205500 +0100" stop="20151210214500 +0100">
+  <programme channel="burger" start="20151210165500 +0100" stop="20151210174500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Pieter et Jerry veulent plonger en cage parmi les requins mais leur rêve tourne au drame lorsqu'un requin se retrouve à moitié dans leur cage. Un... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210214500 +0100" stop="20151210224000 +0100">
+  <programme channel="burger" start="20151210174500 +0100" stop="20151210184000 +0100">
     <length units="minutes">55</length>
     <title>L'Afrique en train avec Griff Rhys Jones</title>
     <category>Documentaire</category>
@@ -1326,7 +1031,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210224000 +0100" stop="20151210230500 +0100">
+  <programme channel="burger" start="20151210184000 +0100" stop="20151210190500 +0100">
     <length units="minutes">25</length>
     <title>J'irai dormir chez les maharadjahs</title>
     <category>Documentaire</category>
@@ -1336,7 +1041,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210230500 +0100" stop="20151210233500 +0100">
+  <programme channel="burger" start="20151210190500 +0100" stop="20151210193500 +0100">
     <length units="minutes">30</length>
     <title>J'irai dormir en Amérique</title>
     <category>Documentaire</category>
@@ -1346,7 +1051,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210233500 +0100" stop="20151211003000 +0100">
+  <programme channel="burger" start="20151210193500 +0100" stop="20151210203000 +0100">
     <length units="minutes">55</length>
     <title>J'irai dormir chez vous</title>
     <category>Documentaire</category>
@@ -1356,7 +1061,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211003000 +0100" stop="20151211012500 +0100">
+  <programme channel="burger" start="20151210203000 +0100" stop="20151210212500 +0100">
     <length units="minutes">55</length>
     <title>4 bébés par seconde</title>
     <category>Documentaire</category>
@@ -1366,21 +1071,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211012500 +0100" stop="20151211021000 +0100">
+  <programme channel="burger" start="20151210212500 +0100" stop="20151210221000 +0100">
     <length units="minutes">45</length>
     <title>Quintuplés par surprise</title>
     <category>Documentaire</category>
     <desc>Le 16 janvier 2009, Ethan et Casey Jones deviennent les parents de quintuplés au Centre médical Seton à Austin, dans l'Etat du Texas : gros plan... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211021000 +0100" stop="20151211023500 +0100">
+  <programme channel="burger" start="20151210221000 +0100" stop="20151210223500 +0100">
     <length units="minutes">25</length>
     <title>Quintuplés par surprise</title>
     <category>Documentaire</category>
     <desc>Les quintuplés commencent à se sentir à l'étroit dans leurs berceaux et leurs chaises hautes ; il est temps de les habituer à de vrais lits et à... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211023500 +0100" stop="20151211030000 +0100">
+  <programme channel="burger" start="20151210223500 +0100" stop="20151210230000 +0100">
     <length units="minutes">25</length>
     <title>J'irai dormir chez les maharadjahs</title>
     <category>Documentaire</category>
@@ -1390,7 +1095,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211030000 +0100" stop="20151211033000 +0100">
+  <programme channel="burger" start="20151210230000 +0100" stop="20151210233000 +0100">
     <length units="minutes">30</length>
     <title>J'irai dormir à Burning Man</title>
     <category>Documentaire</category>
@@ -1400,7 +1105,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211033000 +0100" stop="20151211042500 +0100">
+  <programme channel="burger" start="20151210233000 +0100" stop="20151211002500 +0100">
     <length units="minutes">55</length>
     <title>4 bébés par seconde</title>
     <category>Documentaire</category>
@@ -1410,14 +1115,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211042500 +0100" stop="20151211051000 +0100">
+  <programme channel="burger" start="20151211002500 +0100" stop="20151211011000 +0100">
     <length units="minutes">45</length>
     <title>Quintuplés par surprise</title>
     <category>Documentaire</category>
     <desc>Le 16 janvier 2009, Ethan et Casey Jones deviennent les parents de quintuplés au Centre médical Seton à Austin, dans l'Etat du Texas : gros plan... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211051000 +0100" stop="20151211054000 +0100">
+  <programme channel="burger" start="20151211011000 +0100" stop="20151211014000 +0100">
     <length units="minutes">30</length>
     <title>Air tension</title>
     <category>Documentaire</category>
@@ -1427,21 +1132,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211054000 +0100" stop="20151211062500 +0100">
+  <programme channel="burger" start="20151211014000 +0100" stop="20151211022500 +0100">
     <length units="minutes">45</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Ce second volet propose de nouvelles images de vacances qu'un événement inattendu transforme en cauchemar. Un vent puissant dévie une... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211062500 +0100" stop="20151211071500 +0100">
+  <programme channel="burger" start="20151211022500 +0100" stop="20151211031500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Une femme, inconsciente, crée la panique dans le zoo de Berlin lorsqu'elle saute dans l'enclos réservé aux ours polaires. Deux amis se promènent... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211071500 +0100" stop="20151211081000 +0100">
+  <programme channel="burger" start="20151211031500 +0100" stop="20151211041000 +0100">
     <length units="minutes">55</length>
     <title>Le sexe autour du monde</title>
     <category>Documentaire</category>
@@ -1451,7 +1156,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211081000 +0100" stop="20151211090500 +0100">
+  <programme channel="burger" start="20151211041000 +0100" stop="20151211050500 +0100">
     <length units="minutes">55</length>
     <title>Chasseurs de volcans</title>
     <category>Documentaire</category>
@@ -1461,7 +1166,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211090500 +0100" stop="20151211100000 +0100">
+  <programme channel="burger" start="20151211050500 +0100" stop="20151211060000 +0100">
     <length units="minutes">55</length>
     <title>La quête des vents</title>
     <category>Documentaire</category>
@@ -1471,7 +1176,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211100000 +0100" stop="20151211105500 +0100">
+  <programme channel="burger" start="20151211060000 +0100" stop="20151211065500 +0100">
     <length units="minutes">55</length>
     <title>Les châteaux de la Loire</title>
     <category>Documentaire</category>
@@ -1481,42 +1186,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211105500 +0100" stop="20151211115000 +0100">
+  <programme channel="burger" start="20151211065500 +0100" stop="20151211075000 +0100">
     <length units="minutes">55</length>
     <title>Les trains de l'extrême</title>
     <category>Documentaire</category>
     <desc>Cuba, la route du sucre Ian Wright se rend à Cuba : sur cette île, la plus grande des Caraïbes, il suit les traces d'une ligne ferroviaire dont les trains sont... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211115000 +0100" stop="20151211122000 +0100">
+  <programme channel="burger" start="20151211075000 +0100" stop="20151211082000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211122000 +0100" stop="20151211125000 +0100">
+  <programme channel="burger" start="20151211082000 +0100" stop="20151211085000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211125000 +0100" stop="20151211132000 +0100">
+  <programme channel="burger" start="20151211085000 +0100" stop="20151211092000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211132000 +0100" stop="20151211135500 +0100">
+  <programme channel="burger" start="20151211092000 +0100" stop="20151211095500 +0100">
     <length units="minutes">35</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211135500 +0100" stop="20151211144500 +0100">
+  <programme channel="burger" start="20151211095500 +0100" stop="20151211104500 +0100">
     <length units="minutes">50</length>
     <title>Un train d'exception</title>
     <category>Documentaire</category>
@@ -1526,7 +1231,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211144500 +0100" stop="20151211154000 +0100">
+  <programme channel="burger" start="20151211104500 +0100" stop="20151211114000 +0100">
     <length units="minutes">55</length>
     <title>Itinéraires bis</title>
     <category>Documentaire</category>
@@ -1536,7 +1241,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211154000 +0100" stop="20151211164000 +0100">
+  <programme channel="burger" start="20151211114000 +0100" stop="20151211124000 +0100">
     <length units="minutes">60</length>
     <title>Les châteaux de la Loire</title>
     <category>Documentaire</category>
@@ -1546,7 +1251,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211164000 +0100" stop="20151211173000 +0100">
+  <programme channel="burger" start="20151211124000 +0100" stop="20151211133000 +0100">
     <length units="minutes">50</length>
     <title>Les bons plans de Jamie Oliver</title>
     <category>Documentaire</category>
@@ -1556,7 +1261,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211173000 +0100" stop="20151211175500 +0100">
+  <programme channel="burger" start="20151211133000 +0100" stop="20151211135500 +0100">
     <length units="minutes">25</length>
     <title>Epicerie fine</title>
     <category>Magazine</category>
@@ -1566,7 +1271,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211175500 +0100" stop="20151211183000 +0100">
+  <programme channel="burger" start="20151211135500 +0100" stop="20151211143000 +0100">
     <length units="minutes">35</length>
     <title>Epicerie fine</title>
     <category>Magazine</category>
@@ -1576,35 +1281,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211183000 +0100" stop="20151211192000 +0100">
+  <programme channel="burger" start="20151211143000 +0100" stop="20151211152000 +0100">
     <length units="minutes">50</length>
     <title>Les étranges rencontres de Darren</title>
     <category>Documentaire</category>
     <desc>Le quartier rouge d'Amsterdam A Amsterdam, Darren McMullen part à la découverte du quartier rouge accompagné des soeurs Frokken, des jumelles de 71 ans travaillant comme... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211192000 +0100" stop="20151211200500 +0100">
+  <programme channel="burger" start="20151211152000 +0100" stop="20151211160500 +0100">
     <length units="minutes">45</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>A Staten Island, un spectacle aérien transforme une balade dans le parc en moment de panique lorsqu'un avion militaire, trop près du sol, brise... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211200500 +0100" stop="20151211205500 +0100">
+  <programme channel="burger" start="20151211160500 +0100" stop="20151211165500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Des vacanciers, dont le séjour a priori paradisiaque s'est transformé en cauchemar à cause d'un événement inattendu, témoignent et révèlent leurs... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211205500 +0100" stop="20151211214500 +0100">
+  <programme channel="burger" start="20151211165500 +0100" stop="20151211174500 +0100">
     <length units="minutes">50</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>Le saut en chute libre de Tommy devient imprévisible lorsque le vent se lève au moment de son atterrissage, un homme provoque une avalanche et se... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211214500 +0100" stop="20151211224000 +0100">
+  <programme channel="burger" start="20151211174500 +0100" stop="20151211184000 +0100">
     <length units="minutes">55</length>
     <title>L'Afrique en train avec Griff Rhys Jones</title>
     <category>Documentaire</category>
@@ -1614,7 +1319,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211224000 +0100" stop="20151211230500 +0100">
+  <programme channel="burger" start="20151211184000 +0100" stop="20151211190500 +0100">
     <length units="minutes">25</length>
     <title>J'irai dormir chez les maharadjahs</title>
     <category>Documentaire</category>
@@ -1624,7 +1329,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211230500 +0100" stop="20151211233500 +0100">
+  <programme channel="burger" start="20151211190500 +0100" stop="20151211193500 +0100">
     <length units="minutes">30</length>
     <title>J'irai dormir en Amérique</title>
     <category>Documentaire</category>
@@ -1634,7 +1339,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211233500 +0100" stop="20151212003000 +0100">
+  <programme channel="burger" start="20151211193500 +0100" stop="20151211203000 +0100">
     <length units="minutes">55</length>
     <title>J'irai dormir chez vous</title>
     <category>Documentaire</category>
@@ -1644,7 +1349,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212003000 +0100" stop="20151212005000 +0100">
+  <programme channel="burger" start="20151211203000 +0100" stop="20151211205000 +0100">
     <length units="minutes">20</length>
     <title>Mes pires vacances !</title>
     <category>Documentaire</category>
@@ -1654,7 +1359,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212005000 +0100" stop="20151212012000 +0100">
+  <programme channel="burger" start="20151211205000 +0100" stop="20151211212000 +0100">
     <length units="minutes">30</length>
     <title>Mes pires vacances !</title>
     <category>Documentaire</category>
@@ -1664,21 +1369,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212012000 +0100" stop="20151212020500 +0100">
+  <programme channel="burger" start="20151211212000 +0100" stop="20151211220500 +0100">
     <length units="minutes">45</length>
     <title>Chasseurs d'ovnis</title>
     <category>Documentaire</category>
     <desc>Dans le ciel du Texas Ryder, James et Ben enquêtent sur un mystérieux phénomène : plus de trente témoins déclarent avoir vu d'étranges lumières clignotantes dans le... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212020500 +0100" stop="20151212023000 +0100">
+  <programme channel="burger" start="20151211220500 +0100" stop="20151211223000 +0100">
     <length units="minutes">25</length>
     <title>Vrai ou faux ?</title>
     <category>Documentaire</category>
     <desc>Le hobbit de Sumatra Une équipe de scientifiques part étudier les restes d'une nouvelle espèce de très petite taille, qui ont été retrouvés sur une île d'Indonésie.... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212023000 +0100" stop="20151212025500 +0100">
+  <programme channel="burger" start="20151211223000 +0100" stop="20151211225500 +0100">
     <length units="minutes">25</length>
     <title>J'irai dormir chez les maharadjahs</title>
     <category>Documentaire</category>
@@ -1688,7 +1393,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212025500 +0100" stop="20151212033000 +0100">
+  <programme channel="burger" start="20151211225500 +0100" stop="20151211233000 +0100">
     <length units="minutes">35</length>
     <title>J'irai dormir à Burning Man</title>
     <category>Documentaire</category>
@@ -1698,7 +1403,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212033000 +0100" stop="20151212035000 +0100">
+  <programme channel="burger" start="20151211233000 +0100" stop="20151211235000 +0100">
     <length units="minutes">20</length>
     <title>Mes pires vacances !</title>
     <category>Documentaire</category>
@@ -1708,7 +1413,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212035000 +0100" stop="20151212041500 +0100">
+  <programme channel="burger" start="20151211235000 +0100" stop="20151212001500 +0100">
     <length units="minutes">25</length>
     <title>Mes pires vacances !</title>
     <category>Documentaire</category>
@@ -1718,167 +1423,484 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212041500 +0100" stop="20151212050000 +0100">
+  <programme channel="burger" start="20151212001500 +0100" stop="20151212010000 +0100">
     <length units="minutes">45</length>
     <title>Chasseurs d'ovnis</title>
     <category>Documentaire</category>
     <desc>Dans le ciel du Texas Ryder, James et Ben enquêtent sur un mystérieux phénomène : plus de trente témoins déclarent avoir vu d'étranges lumières clignotantes dans le... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212050000 +0100" stop="20151212053000 +0100">
+  <programme channel="burger" start="20151212010000 +0100" stop="20151212013000 +0100">
     <length units="minutes">30</length>
     <title>Vrai ou faux ?</title>
     <category>Documentaire</category>
     <desc>Le hobbit de Sumatra Une équipe de scientifiques part étudier les restes d'une nouvelle espèce de très petite taille, qui ont été retrouvés sur une île d'Indonésie.... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212053000 +0100" stop="20151212061500 +0100">
+  <programme channel="burger" start="20151212013000 +0100" stop="20151212021500 +0100">
     <length units="minutes">45</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
     <desc>A Staten Island, un spectacle aérien transforme une balade dans le parc en moment de panique lorsqu'un avion militaire, trop près du sol, brise... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212061500 +0100" stop="20151212071000 +0100">
+  <programme channel="burger" start="20151212021500 +0100" stop="20151212031000 +0100">
     <length units="minutes">55</length>
     <title>Cauchemars en vacances</title>
     <category>Documentaire</category>
-    <desc>Des vacanciers, dont le séjour a priori paradisiaque s'est transformé en cauchemar à cause d'un événement inattendu, témoignent et révèlent leurs... (Lire la suite).(n)</desc>
+    <desc>Des vacanciers, dont le séjour a priori paradisiaque s'est transformé en cauchemar à cause d'un événement inattendu, témoignent et révèlent leurs... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212071000 +0100" stop="20151212081000 +0100">
+  <programme channel="burger" start="20151212031000 +0100" stop="20151212041000 +0100">
     <length units="minutes">60</length>
     <title>Le sexe autour du monde</title>
     <category>Documentaire</category>
-    <desc>Pour battre en brèche les clichés sur la Suède, un pays assez mal connu, Philippe Desrosiers se rend sur place à la rencontre de ses habitants.... (Lire la suite).(n)</desc>
+    <desc>Pour battre en brèche les clichés sur la Suède, un pays assez mal connu, Philippe Desrosiers se rend sur place à la rencontre de ses habitants.... (Lire la suite).</desc>
     <credits>
       <name function="director">Mélanie Dion</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212081000 +0100" stop="20151212090500 +0100">
+  <programme channel="burger" start="20151212041000 +0100" stop="20151212050500 +0100">
     <length units="minutes">55</length>
     <title>4 bébés par seconde</title>
     <category>Documentaire</category>
-    <desc>Quatre professionnels de la naissance accompagnent quatre mamans et leurs nouveau-nés en partageant avec eux leur savoir-faire en matière de... (Lire la suite).(n)</desc>
+    <desc>Quatre professionnels de la naissance accompagnent quatre mamans et leurs nouveau-nés en partageant avec eux leur savoir-faire en matière de... (Lire la suite).</desc>
     <credits>
       <name function="director">Agnès Buthion</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212090500 +0100" stop="20151212095500 +0100">
+  <programme channel="burger" start="20151212050500 +0100" stop="20151212055500 +0100">
     <length units="minutes">50</length>
     <title>Quintuplés par surprise</title>
     <category>Documentaire</category>
-    <desc>Le 16 janvier 2009, Ethan et Casey Jones deviennent les parents de quintuplés au Centre médical Seton à Austin, dans l'Etat du Texas : gros plan... (Lire la suite).(n)</desc>
+    <desc>Le 16 janvier 2009, Ethan et Casey Jones deviennent les parents de quintuplés au Centre médical Seton à Austin, dans l'Etat du Texas : gros plan... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212095500 +0100" stop="20151212105000 +0100">
+  <programme channel="burger" start="20151212055500 +0100" stop="20151212065000 +0100">
     <length units="minutes">55</length>
     <title>Les châteaux de la Loire</title>
     <category>Documentaire</category>
-    <desc>Du haut de son promontoire, le château de Saumur, construit au XIVe siècle pour les Ducs d'Anjou, surplombe la ville et le confluent de la Loire.... (Lire la suite).(n)</desc>
+    <desc>Du haut de son promontoire, le château de Saumur, construit au XIVe siècle pour les Ducs d'Anjou, surplombe la ville et le confluent de la Loire.... (Lire la suite).</desc>
     <credits>
       <name function="director">Delphine Oger</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212105000 +0100" stop="20151212115000 +0100">
+  <programme channel="burger" start="20151212065000 +0100" stop="20151212075000 +0100">
     <length units="minutes">60</length>
     <title>Les trains de l'extrême</title>
     <category>Documentaire</category>
-    <desc>La conquête de l'Ouest Un voyage en train à travers les Etats-Unis, à la découverte de l'histoire de ce continent, de l'Atlantique au Pacifique. (Lire la suite).(n)</desc>
+    <desc>La conquête de l'Ouest Un voyage en train à travers les Etats-Unis, à la découverte de l'histoire de ce continent, de l'Atlantique au Pacifique. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212115000 +0100" stop="20151212122000 +0100">
+  <programme channel="burger" start="20151212075000 +0100" stop="20151212082000 +0100">
+    <length units="minutes">30</length>
+    <title>Les boutiques du monde</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212082000 +0100" stop="20151212085000 +0100">
+    <length units="minutes">30</length>
+    <title>Les boutiques du monde</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212085000 +0100" stop="20151212092000 +0100">
+    <length units="minutes">30</length>
+    <title>Les boutiques du monde</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212092000 +0100" stop="20151212095500 +0100">
+    <length units="minutes">35</length>
+    <title>Les boutiques du monde</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212095500 +0100" stop="20151212104500 +0100">
+    <length units="minutes">50</length>
+    <title>L'Afrique en train avec Griff Rhys Jones</title>
+    <category>Documentaire</category>
+    <desc>Griff Rhys embarque pour une grande aventure ferroviaire à la découverte de l'Afrique, de sa faune étonnante, de ses grands fleuves, de ses... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Rosalind Bain</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212104500 +0100" stop="20151212114000 +0100">
+    <length units="minutes">55</length>
+    <title>Chasseurs de volcans</title>
+    <category>Documentaire</category>
+    <desc>Vincent et Bertrand, cousins originaires de Clermont-Ferrand en Auvergne, haut lieu du volcanisme Européen, entament l'ascension des volcans au... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Bertrand Homassel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212114000 +0100" stop="20151212123500 +0100">
+    <length units="minutes">55</length>
+    <title>J'irai dormir chez vous</title>
+    <category>Documentaire</category>
+    <desc>La Californie est sans nul doute un des Etats les plus ouverts des Etats-Unis, comme va le vérifier Antoine de Maximy, qui commence son voyage à... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Antoine de Maximy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212123500 +0100" stop="20151212133000 +0100">
+    <length units="minutes">55</length>
+    <title>Chasseurs de volcans</title>
+    <category>Documentaire</category>
+    <desc>Vincent et Bertrand dépoussièrent la vulcanologie et entreprennent l'ascension d'édifices naturels aux humeurs indomptables. Ils parcourent les... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Bertrand Homassel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212133000 +0100" stop="20151212135500 +0100">
+    <length units="minutes">25</length>
+    <title>Epicerie fine</title>
+    <category>Magazine</category>
+    <desc>La grande famille des courges présente des couleurs, des formes, des textures et des notes aromatiques variées, qui inspirent le chef étoilé Guy... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Guy Martin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212135500 +0100" stop="20151212142500 +0100">
+    <length units="minutes">30</length>
+    <title>Epicerie fine</title>
+    <category>Magazine</category>
+    <desc>Installés sur les terres volcaniques de Martinique, les frères Accamah cultivent des patates douces. Peu consommé en métropole, ce tubercule... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Guy Martin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212142500 +0100" stop="20151212151500 +0100">
+    <length units="minutes">50</length>
+    <title>Les bons plans de Jamie Oliver</title>
+    <category>Documentaire</category>
+    <desc>Jamie donne quelques astuces intelligentes qui peuvent réduire les coûts, élever les esprits et rendre la nourriture... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Mike Matthews</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212151500 +0100" stop="20151212161000 +0100">
+    <length units="minutes">55</length>
+    <title>Le sexe autour du monde</title>
+    <category>Documentaire</category>
+    <desc>Apollon, Aphrodite, Eros, Sappho, Priape : la Grèce est un véritable temple de la renommée du sexe. Mais les champions du monde de la libido... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Yvonne Defour</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212161000 +0100" stop="20151212170500 +0100">
+    <length units="minutes">55</length>
+    <title>Le sexe autour du monde</title>
+    <category>Documentaire</category>
+    <desc>Philippe Desrosiers se rend en Pologne pour tenter d'en savoir un peu plus sur les pratiques sexuelles des habitants. Il rencontre tout d'abord... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Yvonne Defour</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212170500 +0100" stop="20151212180000 +0100">
+    <length units="minutes">55</length>
+    <title>Le sexe autour du monde</title>
+    <category>Documentaire</category>
+    <desc>Si Venise demeure la ville romantique par excellence et Vérone celle de Roméo et Juliette, l'Italie, avec ses présentatrices télé potiches et la... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Yvonne Defour</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212180000 +0100" stop="20151212184500 +0100">
+    <length units="minutes">45</length>
+    <title>Cauchemars en vacances</title>
+    <category>Documentaire</category>
+    <desc>Des vacanciers, dont le séjour a priori paradisiaque s'est transformé en cauchemar à cause d'un événement inattendu, témoignent et révèlent leurs... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212184500 +0100" stop="20151212193000 +0100">
+    <length units="minutes">45</length>
+    <title>Cauchemars en vacances</title>
+    <category>Documentaire</category>
+    <desc>Des vacanciers, dont le séjour a priori paradisiaque s'est transformé en cauchemar à cause d'un événement inattendu, témoignent et révèlent leurs... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212193000 +0100" stop="20151212201500 +0100">
+    <length units="minutes">45</length>
+    <title>Cauchemars en vacances</title>
+    <category>Documentaire</category>
+    <desc>Dans le premier épisode de cette série documentaire, un habitant de Los Angeles part en vacances dans la ville de New York. Sa caméra est en... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212201500 +0100" stop="20151212205000 +0100">
+    <length units="minutes">35</length>
+    <title>Mes pires vacances !</title>
+    <category>Documentaire</category>
+    <desc>Des vidéos qui immortalisent les désagréments rencontrés en voyage, d'un effondrement d'aéroport à des autruches en colère, en passant par des... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Douglas Jr Jones</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212205000 +0100" stop="20151212215000 +0100">
+    <length units="minutes">60</length>
+    <title>4 bébés par seconde</title>
+    <category>Documentaire</category>
+    <desc>Quatre professionnels de la naissance accompagnent quatre mamans et leurs nouveau-nés en partageant avec eux leur savoir-faire en matière de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Agnès Buthion</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212215000 +0100" stop="20151212224000 +0100">
+    <length units="minutes">50</length>
+    <title>Petits plats entre amis</title>
+    <category>Documentaire</category>
+    <desc>Souvenirs d'enfance Jamie Oliver présente des plats simples mais délicieux, des recettes qui réconfortent, qui ont une odeur de nostalgie ou un parfum... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212224000 +0100" stop="20151212233000 +0100">
+    <length units="minutes">50</length>
+    <title>Petits plats entre amis</title>
+    <category>Documentaire</category>
+    <desc>Recettes carnivores Jamie Oliver présente des plats simples mais délicieux, des recettes qui réconfortent, qui ont une odeur de nostalgie ou un parfum... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212233000 +0100" stop="20151213002000 +0100">
+    <length units="minutes">50</length>
+    <title>24 heures avec Anthony Bourdain</title>
+    <category>Documentaire</category>
+    <desc>Tony se trouve à Amsterdam. La ville est bien connue pour son quartier rouge, mais Tony veut découvrir les autres richesses de la capitale... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Tom Vitale</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213002000 +0100" stop="20151213004000 +0100">
+    <length units="minutes">20</length>
+    <title>Man vs Food : chroniques carnivores</title>
+    <category>Documentaire</category>
+    <desc>Du boeuf et encore du boeuf De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213004000 +0100" stop="20151213010500 +0100">
+    <length units="minutes">25</length>
+    <title>Man vs Food : chroniques carnivores</title>
+    <category>Documentaire</category>
+    <desc>Quête carnassière De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213010500 +0100" stop="20151213012500 +0100">
+    <length units="minutes">20</length>
+    <title>Man vs Food : chroniques carnivores</title>
+    <category>Documentaire</category>
+    <desc>Le menu des grands chefs De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213012500 +0100" stop="20151213015000 +0100">
+    <length units="minutes">25</length>
+    <title>Man vs Food : chroniques carnivores</title>
+    <category>Documentaire</category>
+    <desc>Chère viande, tendre viande De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213015000 +0100" stop="20151213021000 +0100">
+    <length units="minutes">20</length>
+    <title>Man vs Food : chroniques carnivores</title>
+    <category>Documentaire</category>
+    <desc>Au pays du burger De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et à ses... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213021000 +0100" stop="20151213023500 +0100">
+    <length units="minutes">25</length>
+    <title>Man vs Food : chroniques carnivores</title>
+    <category>Documentaire</category>
+    <desc>La viande est reine De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213023500 +0100" stop="20151213025500 +0100">
+    <length units="minutes">20</length>
+    <title>Man vs Food : chroniques carnivores</title>
+    <category>Documentaire</category>
+    <desc>Rencontre avec les plus grands De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213025500 +0100" stop="20151213032000 +0100">
+    <length units="minutes">25</length>
+    <title>Man vs Food : chroniques carnivores</title>
+    <category>Documentaire</category>
+    <desc>Omnipotence de la viande De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213032000 +0100" stop="20151213034000 +0100">
+    <length units="minutes">20</length>
+    <title>Man vs Food : chroniques carnivores</title>
+    <category>Documentaire</category>
+    <desc>Bienvenue à Jurassic Porc De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213034000 +0100" stop="20151213041000 +0100">
+    <length units="minutes">30</length>
+    <title>Man vs Food : chroniques carnivores</title>
+    <category>Documentaire</category>
+    <desc>Exploits carnassiers De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et à ses... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213041000 +0100" stop="20151213043000 +0100">
+    <length units="minutes">20</length>
+    <title>Mes pires vacances !</title>
+    <category>Documentaire</category>
+    <desc>Des vidéos qui immortalisent les désagréments rencontrés en voyage, d'un effondrement d'aéroport à des autruches en colère, en passant par des... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Douglas Jr Jones</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213043000 +0100" stop="20151213045500 +0100">
+    <length units="minutes">25</length>
+    <title>Mes pires vacances !</title>
+    <category>Documentaire</category>
+    <desc>Des vidéos qui immortalisent les désagréments rencontrés en voyage, d'un effondrement d'aéroport à des autruches en colère, en passant par des... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Douglas Jr Jones</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213045500 +0100" stop="20151213054000 +0100">
+    <length units="minutes">45</length>
+    <title>Chasseurs d'ovnis</title>
+    <category>Documentaire</category>
+    <desc>Dans le ciel du Texas Ryder, James et Ben enquêtent sur un mystérieux phénomène : plus de trente témoins déclarent avoir vu d'étranges lumières clignotantes dans le... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213054000 +0100" stop="20151213060500 +0100">
+    <length units="minutes">25</length>
+    <title>Vrai ou faux ?</title>
+    <category>Documentaire</category>
+    <desc>Le hobbit de Sumatra Une équipe de scientifiques part étudier les restes d'une nouvelle espèce de très petite taille, qui ont été retrouvés sur une île d'Indonésie.... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213060500 +0100" stop="20151213070000 +0100">
+    <length units="minutes">55</length>
+    <title>Les châteaux de la Loire</title>
+    <category>Documentaire</category>
+    <desc>Une escapade au coeur de la Touraine pour découvrir le château d'Azay-le-Rideau, bâti sur une île au milieu de l'Indre. Ce joyau de la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Olivier Hennegrave</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213070000 +0100" stop="20151213075000 +0100">
+    <length units="minutes">50</length>
+    <title>L'Afrique en train avec Griff Rhys Jones</title>
+    <category>Documentaire</category>
+    <desc>Griff Rhys embarque pour une grande aventure ferroviaire à la découverte de l'Afrique, de sa faune étonnante, de ses grands fleuves, de ses... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Ben Duncan</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213075000 +0100" stop="20151213082000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212122000 +0100" stop="20151212125000 +0100">
+  <programme channel="burger" start="20151213082000 +0100" stop="20151213085000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212125000 +0100" stop="20151212132000 +0100">
+  <programme channel="burger" start="20151213085000 +0100" stop="20151213092000 +0100">
     <length units="minutes">30</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212132000 +0100" stop="20151212135500 +0100">
+  <programme channel="burger" start="20151213092000 +0100" stop="20151213095500 +0100">
     <length units="minutes">35</length>
     <title>Les boutiques du monde</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212135500 +0100" stop="20151212144500 +0100">
+  <programme channel="burger" start="20151213095500 +0100" stop="20151213104500 +0100">
     <length units="minutes">50</length>
     <title>L'Afrique en train avec Griff Rhys Jones</title>
     <category>Documentaire</category>
     <desc>Griff Rhys embarque pour une grande aventure ferroviaire à la découverte de l'Afrique, de sa faune étonnante, de ses grands fleuves, de ses... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Rosalind Bain</name>
+      <name function="director">Michael Massey</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212144500 +0100" stop="20151212154000 +0100">
+  <programme channel="burger" start="20151213104500 +0100" stop="20151213114000 +0100">
     <length units="minutes">55</length>
-    <title>Chasseurs de volcans</title>
+    <title>Vacances d'enfer</title>
     <category>Documentaire</category>
-    <desc>Vincent et Bertrand, cousins originaires de Clermont-Ferrand en Auvergne, haut lieu du volcanisme Européen, entament l'ascension des volcans au... (Lire la suite).(n)</desc>
+    <desc>Deux amis sont considérés comme des espions en traversant l'Iran et le Pakistan, tandis qu'une touriste québécoise a des problèmes avec son guide... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Bertrand Homassel</name>
+      <name function="director">Julien Bernard</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212154000 +0100" stop="20151212163500 +0100">
+  <programme channel="burger" start="20151213114000 +0100" stop="20151213123500 +0100">
     <length units="minutes">55</length>
-    <title>J'irai dormir chez vous</title>
+    <title>Vacances d'enfer</title>
     <category>Documentaire</category>
-    <desc>La Californie est sans nul doute un des Etats les plus ouverts des Etats-Unis, comme va le vérifier Antoine de Maximy, qui commence son voyage à... (Lire la suite).(n)</desc>
+    <desc>Pour faire le tour de l'Australie, un jeune couple loue un van avec chauffeur. Mais celui-ci casse le véhicule et les abandonne au milieu du... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Antoine de Maximy</name>
+      <name function="director">Julien Bernard</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212163500 +0100" stop="20151212173000 +0100">
+  <programme channel="burger" start="20151213123500 +0100" stop="20151213133000 +0100">
     <length units="minutes">55</length>
-    <title>Chasseurs de volcans</title>
+    <title>Vacances d'enfer</title>
     <category>Documentaire</category>
-    <desc>Vincent et Bertrand dépoussièrent la vulcanologie et entreprennent l'ascension d'édifices naturels aux humeurs indomptables. Ils parcourent les... (Lire la suite).(n)</desc>
+    <desc>Deux amis s'embarquent pour une traversée de quatre mois jusqu'au Cap Horn, un couple se marie en Grèce, et un groupe d'amis se lance à la... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Bertrand Homassel</name>
+      <name function="director">Julien Bernard</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212173000 +0100" stop="20151212175500 +0100">
+  <programme channel="burger" start="20151213133000 +0100" stop="20151213135500 +0100">
     <length units="minutes">25</length>
     <title>Epicerie fine</title>
     <category>Magazine</category>
-    <desc>La grande famille des courges présente des couleurs, des formes, des textures et des notes aromatiques variées, qui inspirent le chef étoilé Guy... (Lire la suite).(n)</desc>
+    <desc>Le chef étoilé Guy Martin part au coeur d'une région de France et met en lumière un produit d'exception. Il va à la rencontre de ceux qui... (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Guy Martin</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212175500 +0100" stop="20151212182500 +0100">
+  <programme channel="burger" start="20151213135500 +0100" stop="20151213142500 +0100">
     <length units="minutes">30</length>
     <title>Epicerie fine</title>
     <category>Magazine</category>
-    <desc>Installés sur les terres volcaniques de Martinique, les frères Accamah cultivent des patates douces. Peu consommé en métropole, ce tubercule... (Lire la suite).(n)</desc>
+    <desc>Ile volcanique au relief escarpé, La Réunion recèle de trésors gastronomiques, dont la vanilla planifolia. De la fleur d'orchidée à la gousse... (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Guy Martin</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212182500 +0100" stop="20151212191500 +0100">
+  <programme channel="burger" start="20151213142500 +0100" stop="20151213151500 +0100">
     <length units="minutes">50</length>
     <title>Les bons plans de Jamie Oliver</title>
     <category>Documentaire</category>
@@ -1888,134 +1910,112 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212191500 +0100" stop="20151212201000 +0100">
+  <programme channel="burger" start="20151213151500 +0100" stop="20151213160500 +0100">
+    <length units="minutes">50</length>
+    <title>Petits plats entre amis</title>
+    <category>Documentaire</category>
+    <desc>Méga burger Jamie Oliver présente des plats simples mais délicieux, des recettes qui réconfortent, qui ont une odeur de nostalgie ou un parfum... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213160500 +0100" stop="20151213170000 +0100">
     <length units="minutes">55</length>
-    <title>Le sexe autour du monde</title>
+    <title>Les châteaux de la Loire</title>
     <category>Documentaire</category>
-    <desc>Apollon, Aphrodite, Eros, Sappho, Priape : la Grèce est un véritable temple de la renommée du sexe. Mais les champions du monde de la libido... (Lire la suite).(n)</desc>
+    <desc>Placée sur un éperon rocheux dominant la Vienne, la forteresse de Chinon permettait de s'assurer du contrôle du passage sur cet affluent de la... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Yvonne Defour</name>
+      <name function="director">Delphine Oger</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212201000 +0100" stop="20151212210500 +0100">
+  <programme channel="burger" start="20151213170000 +0100" stop="20151213175500 +0100">
     <length units="minutes">55</length>
-    <title>Le sexe autour du monde</title>
+    <title>Les châteaux de la Loire</title>
     <category>Documentaire</category>
-    <desc>Philippe Desrosiers se rend en Pologne pour tenter d'en savoir un peu plus sur les pratiques sexuelles des habitants. Il rencontre tout d'abord... (Lire la suite).(n)</desc>
+    <desc>A la fois étape stratégique dans la domination de la Loire, le château d'Amboise, qui surplombe la Loire, a notamment permis à Clovis, roi des... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Yvonne Defour</name>
+      <name function="director">Delphine Oger</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212210500 +0100" stop="20151212220000 +0100">
-    <length units="minutes">55</length>
-    <title>Le sexe autour du monde</title>
-    <category>Documentaire</category>
-    <desc>Si Venise demeure la ville romantique par excellence et Vérone celle de Roméo et Juliette, l'Italie, avec ses présentatrices télé potiches et la... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Yvonne Defour</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212220000 +0100" stop="20151212224500 +0100">
-    <length units="minutes">45</length>
-    <title>Cauchemars en vacances</title>
-    <category>Documentaire</category>
-    <desc>Des vacanciers, dont le séjour a priori paradisiaque s'est transformé en cauchemar à cause d'un événement inattendu, témoignent et révèlent leurs... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212224500 +0100" stop="20151212233000 +0100">
-    <length units="minutes">45</length>
-    <title>Cauchemars en vacances</title>
-    <category>Documentaire</category>
-    <desc>Des vacanciers, dont le séjour a priori paradisiaque s'est transformé en cauchemar à cause d'un événement inattendu, témoignent et révèlent leurs... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212233000 +0100" stop="20151213001500 +0100">
-    <length units="minutes">45</length>
-    <title>Cauchemars en vacances</title>
-    <category>Documentaire</category>
-    <desc>Dans le premier épisode de cette série documentaire, un habitant de Los Angeles part en vacances dans la ville de New York. Sa caméra est en... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213001500 +0100" stop="20151213005000 +0100">
-    <length units="minutes">35</length>
-    <title>Mes pires vacances !</title>
-    <category>Documentaire</category>
-    <desc>Des vidéos qui immortalisent les désagréments rencontrés en voyage, d'un effondrement d'aéroport à des autruches en colère, en passant par des... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Douglas Jr Jones</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213005000 +0100" stop="20151213015000 +0100">
+  <programme channel="burger" start="20151213175500 +0100" stop="20151213185500 +0100">
     <length units="minutes">60</length>
-    <title>4 bébés par seconde</title>
+    <title>Les châteaux de la Loire</title>
     <category>Documentaire</category>
-    <desc>Quatre professionnels de la naissance accompagnent quatre mamans et leurs nouveau-nés en partageant avec eux leur savoir-faire en matière de... (Lire la suite).(n)</desc>
+    <desc>Dans le château de Blois, visite de la bâtisse qui était la résidence préférée des rois de France durant la Renaissance et ses appartements... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Agnès Buthion</name>
+      <name function="director">Bernard Germain</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213015000 +0100" stop="20151213024000 +0100">
-    <length units="minutes">50</length>
-    <title>Petits plats entre amis</title>
+  <programme channel="burger" start="20151213185500 +0100" stop="20151213195000 +0100">
+    <length units="minutes">55</length>
+    <title>Chasseurs de volcans</title>
     <category>Documentaire</category>
-    <desc>Souvenirs d'enfance Jamie Oliver présente des plats simples mais délicieux, des recettes qui réconfortent, qui ont une odeur de nostalgie ou un parfum... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213024000 +0100" stop="20151213033000 +0100">
-    <length units="minutes">50</length>
-    <title>Petits plats entre amis</title>
-    <category>Documentaire</category>
-    <desc>Recettes carnivores Jamie Oliver présente des plats simples mais délicieux, des recettes qui réconfortent, qui ont une odeur de nostalgie ou un parfum... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213033000 +0100" stop="20151213042000 +0100">
-    <length units="minutes">50</length>
-    <title>24 heures avec Anthony Bourdain</title>
-    <category>Documentaire</category>
-    <desc>Tony se trouve à Amsterdam. La ville est bien connue pour son quartier rouge, mais Tony veut découvrir les autres richesses de la capitale... (Lire la suite).(n)</desc>
+    <desc>Une ascension d'édifices naturels aux humeurs indomptables, sur fond d'aventure, d'histoire, de science et de croyances... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Tom Vitale</name>
+      <name function="director">Bertrand Homassel</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213042000 +0100" stop="20151213044000 +0100">
-    <length units="minutes">20</length>
-    <title>Man vs Food : chroniques carnivores</title>
+  <programme channel="burger" start="20151213195000 +0100" stop="20151213204500 +0100">
+    <length units="minutes">55</length>
+    <title>Chasseurs de volcans</title>
     <category>Documentaire</category>
-    <desc>Du boeuf et encore du boeuf De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).(n)</desc>
+    <desc>Vincent et Bertrand dépoussièrent la vulcanologie et entreprennent l'ascension d'édifices naturels aux humeurs indomptables. Ils parcourent les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Bertrand Homassel</name>
+    </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213044000 +0100" stop="20151213050500 +0100">
-    <length units="minutes">25</length>
-    <title>Man vs Food : chroniques carnivores</title>
+  <programme channel="burger" start="20151213204500 +0100" stop="20151213214000 +0100">
+    <length units="minutes">55</length>
+    <title>La quête des vents</title>
     <category>Documentaire</category>
-    <desc>Quête carnassière De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).(n)</desc>
+    <desc>Le suroît est un mot qui vient du normand et qui signifie «sud-ouest» ; c'est un vent breton, redouté depuis toujours par les marins, et qui rend... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Eric Capitaine</name>
+    </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213050500 +0100" stop="20151213052500 +0100">
-    <length units="minutes">20</length>
-    <title>Man vs Food : chroniques carnivores</title>
+  <programme channel="burger" start="20151213214000 +0100" stop="20151213224000 +0100">
+    <length units="minutes">60</length>
+    <title>Le monde d'Yvan</title>
     <category>Documentaire</category>
-    <desc>Le menu des grands chefs De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).(n)</desc>
+    <desc>Dans cet épisode, Yvan s'apprête à accomplir un tour du monde sous forme de retour aux sources sur un petit bateau sans cabine, mû par le vent et... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Pierre Guyot</name>
+    </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213052500 +0100" stop="20151213055000 +0100">
-    <length units="minutes">25</length>
-    <title>Man vs Food : chroniques carnivores</title>
+  <programme channel="burger" start="20151213224000 +0100" stop="20151213233500 +0100">
+    <length units="minutes">55</length>
+    <title>Martin autour du monde</title>
     <category>Documentaire</category>
-    <desc>Chère viande, tendre viande De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et aux... (Lire la suite).(n)</desc>
+    <desc>Le Japon Le Japon entretient un lien très particulier avec la nature. La catastrophe de Fukushima et l'une des plus fortes densités de population au monde... (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213055000 +0100" stop="20151213061000 +0100">
-    <length units="minutes">20</length>
-    <title>Man vs Food : chroniques carnivores</title>
+  <programme channel="burger" start="20151213233500 +0100" stop="20151214003000 +0100">
+    <length units="minutes">55</length>
+    <title>La quête des vents</title>
     <category>Documentaire</category>
-    <desc>Au pays du burger De l'Alaska à Hawaii, en passant par le Connecticut et l'Oklahoma, le comédien Adam Richman livre une véritable ode à la viande et à ses... (Lire la suite).(n)</desc>
+    <desc>Arthur de Kersauson part sur les traces du Southwestern de Namibie. Alimenté par l'anticyclone de Sainte-Hélène, ce vent souffle le long de la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Eric Capitaine</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151214003000 +0100" stop="20151214012500 +0100">
+    <length units="minutes">55</length>
+    <title>Les immersions d'Olivia</title>
+    <category>Documentaire</category>
+    <desc>Les gothiques Le gothique s'intéresse à la littérature, aux sciences humaines, à l'ésotérisme, à la philosophie et a souvent le goût du... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151214012500 +0100" stop="20151214022000 +0100">
+    <length units="minutes">55</length>
+    <title>Les immersions d'Olivia</title>
+    <category>Documentaire</category>
+    <desc>Les décroissants Décroissant : individu dont les ressources propres sont suffisantes pour assurer ses besoins essentiels, adepte de la simplicité... (Lire la suite).(n)</desc>
     <image />
   </programme>
 </tv>

@@ -1,304 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Canal+ Cinéma">
-    <display-name>MTV</display-name>
+    <display-name>burger</display-name>
   </channel>
-  <programme channel="MTV" start="20151206060000 +0100" stop="20151206073500 +0100">
-    <length units="minutes">95</length>
-    <title>Papa Was Not a Rolling Stone (?)</title>
-    <category>Film</category>
-    <desc>La Courneuve, les années 1980. Stéphanie est... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Sylvie Ohayon</name>
-      <name function="actor">Sylvie Testud</name>
-      <name function="actor">Marc Lavoine</name>
-      <name function="actor">Claudine Baschet</name>
-      <name function="actor">Aure Atika</name>
-      <name function="actor">Doria Achour</name>
-      <name function="actor">Nathalie Rhéa</name>
-      <name function="actor">Soumaye Bocoum</name>
-      <name function="actor">Azedine Kasri</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206073500 +0100" stop="20151206080000 +0100">
-    <length units="minutes">25</length>
-    <title>L'oeil de Links</title>
-    <category>Magazine</category>
-    <desc>Le webazine de l'activité créative du net :... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206080000 +0100" stop="20151206095000 +0100">
-    <length units="minutes">110</length>
-    <title>Ghost World (?)</title>
-    <category>Film</category>
-    <desc>Enid et Rebecca viennent tout juste de finir... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Terry Zwigoff</name>
-      <name function="actor">Bob Balaban</name>
-      <name function="actor">Steve Buscemi</name>
-      <name function="actor">Thora Birch</name>
-      <name function="actor">Illeana Douglas</name>
-      <name function="actor">Brad Renfro</name>
-      <name function="actor">Scarlett Johansson</name>
-      <name function="actor">Stacey Travis</name>
-      <name function="actor">Charles C Stevenson Jr</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206095000 +0100" stop="20151206130000 +0100">
-    <length units="minutes">190</length>
-    <title>Interruption des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206130000 +0100" stop="20151206135500 +0100">
-    <length units="minutes">55</length>
-    <title>Le cercle</title>
-    <category>Magazine</category>
-    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Frédéric Beigbeder</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206135500 +0100" stop="20151206135800 +0100">
-    <length units="minutes">3</length>
-    <title>Cinéastes</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Dominique Besnehard</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206135800 +0100" stop="20151206152500 +0100">
-    <length units="minutes">87</length>
-    <title>Mon amie Victoria (?)</title>
-    <category>Film</category>
-    <desc>Parce que sa maman ne peut s'occuper d'elle,... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Jean-Paul Civeyrac</name>
-      <name function="actor">Alexis Loret</name>
-      <name function="actor">Pierre Andrau</name>
-      <name function="actor">Tony Harrisson</name>
-      <name function="actor">Nadia Moussa</name>
-      <name function="actor">Guslagie Malanda</name>
-      <name function="actor">Elise Ekaba</name>
-      <name function="actor">Pascal Greggory</name>
-      <name function="actor">Catherine Mouchet</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206152500 +0100" stop="20151206172000 +0100">
-    <length units="minutes">115</length>
-    <title>Samba (?)</title>
-    <category>Film</category>
-    <desc>Samba, un sans-papiers sénégalais, vit en... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Olivier Nakache,</name>
-      <name function="director">Eric Toledano</name>
-      <name function="actor">Christiane Millet</name>
-      <name function="actor">Charlotte Gainsbourg</name>
-      <name function="actor">Hélène Vincent</name>
-      <name function="actor">Omar Sy</name>
-      <name function="actor">Tahar Rahim</name>
-      <name function="actor">Isaka Sawadogo</name>
-      <name function="actor">Izïa Higelin</name>
-      <name function="actor">Youngar Fall</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206172000 +0100" stop="20151206185000 +0100">
-    <length units="minutes">90</length>
-    <title>Toute première fois (?)</title>
-    <category>Film</category>
-    <desc>Mais que fait Jérémie, 34 ans, dans le lit de... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Noémie Saglio,</name>
-      <name function="director">Maxime Govare</name>
-      <name function="actor">Isabelle Candelier</name>
-      <name function="actor">Frédéric Pierrot</name>
-      <name function="actor">Sébastien Castro</name>
-      <name function="actor">Lannick Gautry</name>
-      <name function="actor">Pio Marmaï</name>
-      <name function="actor">Franck Gastambide</name>
-      <name function="actor">Camille Cottin</name>
-      <name function="actor">Adrianna Gradziel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206185000 +0100" stop="20151206191000 +0100">
-    <length units="minutes">20</length>
-    <title>Rencontres de cinéma</title>
-    <category>Magazine</category>
-    <desc>Laurent Weil lève le voile sur les coulisses... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Laurent Weil</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206191000 +0100" stop="20151206200000 +0100">
-    <length units="minutes">50</length>
-    <title>Panthers</title>
-    <category>Série</category>
-    <desc>Le casse sanglant d'une bijouterie de... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Johan Renck</name>
-      <name function="actor">John Hurt</name>
-      <name function="actor">Samantha Morton</name>
-      <name function="actor">Corinne Masiero</name>
-      <name function="actor">Tahar Rahim</name>
-      <name function="actor">Kobna Holdbrook-Smith</name>
-      <name function="actor">Goran Bogdan</name>
-      <name function="actor">Igor Bencina</name>
-      <name function="actor">Peter Alberti</name>
-      <name function="writer">Jack Thorne</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206200000 +0100" stop="20151206205000 +0100">
-    <length units="minutes">50</length>
-    <title>Panthers</title>
-    <category>Série</category>
-    <desc>Au petit matin, les hommes du GIPN effectuent... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Johan Renck</name>
-      <name function="actor">John Hurt</name>
-      <name function="actor">Samantha Morton</name>
-      <name function="actor">Tahar Rahim</name>
-      <name function="actor">Kobna Holdbrook-Smith</name>
-      <name function="actor">Yann Ebongé</name>
-      <name function="actor">Goran Bogdan</name>
-      <name function="actor">Igor Bencina</name>
-      <name function="actor">Peter Alberti</name>
-      <name function="writer">Jack Thorne</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206205000 +0100" stop="20151206222500 +0100">
-    <length units="minutes">95</length>
-    <title>Turks and Caicos</title>
-    <category>Téléfilm</category>
-    <desc>Johnny Worricker séjourne de manière totalement (Lire la suite).</desc>
-    <credits>
-      <name function="director">David Hare</name>
-      <name function="actor">Christopher Walken</name>
-      <name function="actor">Rupert Graves</name>
-      <name function="actor">Ralph Fiennes</name>
-      <name function="actor">Ewen Bremner</name>
-      <name function="actor">Zach Grenier</name>
-      <name function="actor">Bill Nighy</name>
-      <name function="actor">Helena Bonham Carter</name>
-      <name function="actor">Winona Ryder</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151206222500 +0100" stop="20151207000000 +0100">
-    <length units="minutes">95</length>
-    <title>Salting the Battlefield</title>
-    <category>Téléfilm</category>
-    <desc>Johnny Worricker et son ex-petite amie,... (Lire la suite).</desc>
-    <credits>
-      <name function="director">David Hare</name>
-      <name function="actor">Judy Davis</name>
-      <name function="actor">Saskia Reeves</name>
-      <name function="actor">Ralph Fiennes</name>
-      <name function="actor">Ewen Bremner</name>
-      <name function="actor">Bill Nighy</name>
-      <name function="actor">Helena Bonham Carter</name>
-      <name function="actor">Daniel Ryan</name>
-      <name function="actor">Shazad Latif</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207000000 +0100" stop="20151207005000 +0100">
-    <length units="minutes">50</length>
-    <title>Le cercle</title>
-    <category>Magazine</category>
-    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Frédéric Beigbeder</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207005000 +0100" stop="20151207025000 +0100">
-    <length units="minutes">120</length>
-    <title>Un homme très recherché (?)</title>
-    <category>Film</category>
-    <desc>Plus de dix ans après les attentats du 11... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Anton Corbijn</name>
-      <name function="actor">Martin Wuttke</name>
-      <name function="actor">Nina Hoss</name>
-      <name function="actor">Rachel McAdams</name>
-      <name function="actor">Daniel Brühl</name>
-      <name function="actor">Willem Dafoe</name>
-      <name function="actor">Philip Seymour Hoffman</name>
-      <name function="actor">Robin Wright</name>
-      <name function="actor">Grigoriy Dobrygin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207025000 +0100" stop="20151207044000 +0100">
-    <length units="minutes">110</length>
-    <title>Bande de filles (?)</title>
-    <category>Film</category>
-    <desc>Marieme, 16 ans, vit en banlieue. Silhouette... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Céline Sciamma</name>
-      <name function="actor">Cyril Mendy</name>
-      <name function="actor">Rabah Naït Oufella</name>
-      <name function="actor">Diabate Idrissa</name>
-      <name function="actor">Karidja Touré</name>
-      <name function="actor">Assa Sylla</name>
-      <name function="actor">Lindsay Karamoh</name>
-      <name function="actor">Mariétou Touré</name>
-      <name function="actor">Djibril Gueye</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207044000 +0100" stop="20151207050700 +0100">
-    <length units="minutes">27</length>
-    <title>Mickrociné</title>
-    <category>Magazine</category>
-    <desc>Une compilation de courts métrages du monde... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207050700 +0100" stop="20151207051000 +0100">
-    <length units="minutes">3</length>
-    <title>Nouveau genre</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Ivan Guyot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207051000 +0100" stop="20151207070500 +0100">
-    <length units="minutes">115</length>
-    <title>Du sang et des larmes (?)</title>
-    <category>Film</category>
-    <desc>Marcus, Mike, Matt et Danny sont unis par... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Peter Berg</name>
-      <name function="actor">Ben Foster</name>
-      <name function="actor">Mark Wahlberg</name>
-      <name function="actor">Emile Hirsch</name>
-      <name function="actor">Eric Bana</name>
-      <name function="actor">Jerry Ferrara</name>
-      <name function="actor">Taylor Kitsch</name>
-      <name function="actor">Alexander Ludwig</name>
-      <name function="actor">Scott Elrod</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151207070500 +0100" stop="20151207085500 +0100">
+  <programme channel="burger" start="20151207030500 +0100" stop="20151207045500 +0100">
     <length units="minutes">110</length>
     <title>La rançon de la gloire (?)</title>
     <category>Film</category>
-    <desc>A la veille de Noël 1977, dans une petite... (Lire la suite).(r)</desc>
+    <desc>A la veille de Noël 1977, dans une petite... (Lire la suite).</desc>
     <credits>
       <name function="director">Xavier Beauvois</name>
       <name function="actor">Peter Coyote</name>
@@ -311,14 +20,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207085500 +0100" stop="20151207125500 +0100">
+  <programme channel="burger" start="20151207045500 +0100" stop="20151207085500 +0100">
     <length units="minutes">240</length>
     <title>Interruption des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207125500 +0100" stop="20151207131500 +0100">
+  <programme channel="burger" start="20151207085500 +0100" stop="20151207091500 +0100">
     <length units="minutes">20</length>
     <title>Rencontres de cinéma</title>
     <category>Magazine</category>
@@ -328,7 +37,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207131500 +0100" stop="20151207141200 +0100">
+  <programme channel="burger" start="20151207091500 +0100" stop="20151207101200 +0100">
     <length units="minutes">57</length>
     <title>Le cercle</title>
     <category>Magazine</category>
@@ -338,7 +47,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207141200 +0100" stop="20151207141500 +0100">
+  <programme channel="burger" start="20151207101200 +0100" stop="20151207101500 +0100">
     <length units="minutes">3</length>
     <title>Cinéastes</title>
     <category>Magazine</category>
@@ -348,7 +57,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207141500 +0100" stop="20151207161800 +0100">
+  <programme channel="burger" start="20151207101500 +0100" stop="20151207121800 +0100">
     <length units="minutes">123</length>
     <title>Her (?)</title>
     <category>Film</category>
@@ -366,7 +75,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207161800 +0100" stop="20151207161900 +0100">
+  <programme channel="burger" start="20151207121800 +0100" stop="20151207121900 +0100">
     <length units="minutes">1</length>
     <title>La séance de Mouloud Achour</title>
     <category>Magazine</category>
@@ -376,7 +85,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207161900 +0100" stop="20151207175000 +0100">
+  <programme channel="burger" start="20151207121900 +0100" stop="20151207135000 +0100">
     <length units="minutes">91</length>
     <title>The Anomaly (?)</title>
     <category>Film</category>
@@ -394,7 +103,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207175000 +0100" stop="20151207180500 +0100">
+  <programme channel="burger" start="20151207135000 +0100" stop="20151207140500 +0100">
     <length units="minutes">15</length>
     <title>L'hebd'Hollywood</title>
     <category>Magazine</category>
@@ -404,7 +113,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207180500 +0100" stop="20151207200000 +0100">
+  <programme channel="burger" start="20151207140500 +0100" stop="20151207160000 +0100">
     <length units="minutes">115</length>
     <title>Un illustre inconnu (?)</title>
     <category>Film</category>
@@ -422,7 +131,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207200000 +0100" stop="20151207202000 +0100">
+  <programme channel="burger" start="20151207160000 +0100" stop="20151207162000 +0100">
     <length units="minutes">20</length>
     <title>Rencontres de cinéma</title>
     <category>Magazine</category>
@@ -432,7 +141,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207202000 +0100" stop="20151207215500 +0100">
+  <programme channel="burger" start="20151207162000 +0100" stop="20151207175500 +0100">
     <length units="minutes">95</length>
     <title>Sous X (?)</title>
     <category>Film</category>
@@ -450,7 +159,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207215500 +0100" stop="20151207224500 +0100">
+  <programme channel="burger" start="20151207175500 +0100" stop="20151207184500 +0100">
     <length units="minutes">50</length>
     <title>Le cercle</title>
     <category>Magazine</category>
@@ -460,7 +169,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151207224500 +0100" stop="20151208003500 +0100">
+  <programme channel="burger" start="20151207184500 +0100" stop="20151207203500 +0100">
     <length units="minutes">110</length>
     <title>Bande de filles (?)</title>
     <category>Film</category>
@@ -478,7 +187,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208003500 +0100" stop="20151208022500 +0100">
+  <programme channel="burger" start="20151207203500 +0100" stop="20151207222500 +0100">
     <length units="minutes">110</length>
     <title>La rançon de la gloire (?)</title>
     <category>Film</category>
@@ -495,7 +204,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208022500 +0100" stop="20151208025000 +0100">
+  <programme channel="burger" start="20151207222500 +0100" stop="20151207225000 +0100">
     <length units="minutes">25</length>
     <title>Rencontres de cinéma</title>
     <category>Magazine</category>
@@ -505,7 +214,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208025000 +0100" stop="20151208041000 +0100">
+  <programme channel="burger" start="20151207225000 +0100" stop="20151208001000 +0100">
     <length units="minutes">80</length>
     <title>Slow West (?)</title>
     <category>Film</category>
@@ -523,7 +232,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208041000 +0100" stop="20151208054000 +0100">
+  <programme channel="burger" start="20151208001000 +0100" stop="20151208014000 +0100">
     <length units="minutes">90</length>
     <title>Shérif Jackson (?)</title>
     <category>Film</category>
@@ -541,14 +250,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208054000 +0100" stop="20151208055000 +0100">
+  <programme channel="burger" start="20151208014000 +0100" stop="20151208015000 +0100">
     <length units="minutes">10</length>
     <title>Le film en +</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208055000 +0100" stop="20151208055300 +0100">
+  <programme channel="burger" start="20151208015000 +0100" stop="20151208015300 +0100">
     <length units="minutes">3</length>
     <title>Cinéastes</title>
     <category>Magazine</category>
@@ -558,7 +267,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208055300 +0100" stop="20151208081000 +0100">
+  <programme channel="burger" start="20151208015300 +0100" stop="20151208041000 +0100">
     <length units="minutes">137</length>
     <title>Léviathan (?)</title>
     <category>Film</category>
@@ -576,7 +285,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208081000 +0100" stop="20151208083000 +0100">
+  <programme channel="burger" start="20151208041000 +0100" stop="20151208043000 +0100">
     <length units="minutes">20</length>
     <title>Rencontres de cinéma</title>
     <category>Magazine</category>
@@ -586,28 +295,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208083000 +0100" stop="20151208085500 +0100">
+  <programme channel="burger" start="20151208043000 +0100" stop="20151208045500 +0100">
     <length units="minutes">25</length>
     <title>L'oeil de Links</title>
     <category>Magazine</category>
     <desc>Le webazine de l'activité créative du net :... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208085500 +0100" stop="20151208134500 +0100">
+  <programme channel="burger" start="20151208045500 +0100" stop="20151208094500 +0100">
     <length units="minutes">290</length>
     <title>Interruption des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208134500 +0100" stop="20151208141500 +0100">
+  <programme channel="burger" start="20151208094500 +0100" stop="20151208101500 +0100">
     <length units="minutes">30</length>
     <title>Mickrociné</title>
     <category>Magazine</category>
     <desc>Une compilation de courts métrages du monde... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208141500 +0100" stop="20151208153500 +0100">
+  <programme channel="burger" start="20151208101500 +0100" stop="20151208113500 +0100">
     <length units="minutes">80</length>
     <title>Slow West (?)</title>
     <category>Film</category>
@@ -625,7 +334,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208153500 +0100" stop="20151208162500 +0100">
+  <programme channel="burger" start="20151208113500 +0100" stop="20151208122500 +0100">
     <length units="minutes">50</length>
     <title>Western, nouvelles frontières</title>
     <category>Documentaire</category>
@@ -636,7 +345,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208162500 +0100" stop="20151208171900 +0100">
+  <programme channel="burger" start="20151208122500 +0100" stop="20151208131900 +0100">
     <length units="minutes">54</length>
     <title>Le cercle</title>
     <category>Magazine</category>
@@ -646,7 +355,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208171900 +0100" stop="20151208172000 +0100">
+  <programme channel="burger" start="20151208131900 +0100" stop="20151208132000 +0100">
     <length units="minutes">1</length>
     <title>Cinéastes</title>
     <category>Magazine</category>
@@ -656,7 +365,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208172000 +0100" stop="20151208184600 +0100">
+  <programme channel="burger" start="20151208132000 +0100" stop="20151208144600 +0100">
     <length units="minutes">86</length>
     <title>Bébé Tigre (?)</title>
     <category>Film</category>
@@ -674,14 +383,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208184600 +0100" stop="20151208184900 +0100">
+  <programme channel="burger" start="20151208144600 +0100" stop="20151208144900 +0100">
     <length units="minutes">3</length>
     <title>L'oeil de Links</title>
     <category>Magazine</category>
     <desc>Une équipe de chroniqueurs réguliers, formée... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208184900 +0100" stop="20151208185000 +0100">
+  <programme channel="burger" start="20151208144900 +0100" stop="20151208145000 +0100">
     <length units="minutes">1</length>
     <title>Cinéastes</title>
     <category>Magazine</category>
@@ -691,7 +400,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208185000 +0100" stop="20151208202500 +0100">
+  <programme channel="burger" start="20151208145000 +0100" stop="20151208162500 +0100">
     <length units="minutes">95</length>
     <title>Retour à Ithaque (?)</title>
     <category>Film</category>
@@ -709,7 +418,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208202500 +0100" stop="20151208202800 +0100">
+  <programme channel="burger" start="20151208162500 +0100" stop="20151208162800 +0100">
     <length units="minutes">3</length>
     <title>Nouveau genre</title>
     <category>Magazine</category>
@@ -719,7 +428,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208202800 +0100" stop="20151208220500 +0100">
+  <programme channel="burger" start="20151208162800 +0100" stop="20151208180500 +0100">
     <length units="minutes">97</length>
     <title>Young Ones (?)</title>
     <category>Film</category>
@@ -737,14 +446,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208220500 +0100" stop="20151208221100 +0100">
+  <programme channel="burger" start="20151208180500 +0100" stop="20151208181100 +0100">
     <length units="minutes">6</length>
     <title>Le film en +</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208221100 +0100" stop="20151208221200 +0100">
+  <programme channel="burger" start="20151208181100 +0100" stop="20151208181200 +0100">
     <length units="minutes">1</length>
     <title>La séance de Mouloud Achour</title>
     <category>Magazine</category>
@@ -754,7 +463,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151208221200 +0100" stop="20151209005600 +0100">
+  <programme channel="burger" start="20151208181200 +0100" stop="20151208205600 +0100">
     <length units="minutes">164</length>
     <title>Interstellar (?)</title>
     <category>Film</category>
@@ -772,7 +481,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209005600 +0100" stop="20151209010000 +0100">
+  <programme channel="burger" start="20151208205600 +0100" stop="20151208210000 +0100">
     <length units="minutes">4</length>
     <title>Cinéastes</title>
     <category>Magazine</category>
@@ -782,7 +491,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209010000 +0100" stop="20151209023000 +0100">
+  <programme channel="burger" start="20151208210000 +0100" stop="20151208223000 +0100">
     <length units="minutes">90</length>
     <title>Qu'Allah bénisse la France (?)</title>
     <category>Film</category>
@@ -800,7 +509,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209023000 +0100" stop="20151209024800 +0100">
+  <programme channel="burger" start="20151208223000 +0100" stop="20151208224800 +0100">
     <length units="minutes">18</length>
     <title>L'hebd'Hollywood</title>
     <category>Magazine</category>
@@ -810,7 +519,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209024800 +0100" stop="20151209025000 +0100">
+  <programme channel="burger" start="20151208224800 +0100" stop="20151208225000 +0100">
     <length units="minutes">2</length>
     <title>La séance de Mouloud Achour</title>
     <category>Magazine</category>
@@ -820,7 +529,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209025000 +0100" stop="20151209043000 +0100">
+  <programme channel="burger" start="20151208225000 +0100" stop="20151209003000 +0100">
     <length units="minutes">100</length>
     <title>Cops : les forces du désordre (?)</title>
     <category>Film</category>
@@ -838,14 +547,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209043000 +0100" stop="20151209043500 +0100">
+  <programme channel="burger" start="20151209003000 +0100" stop="20151209003500 +0100">
     <length units="minutes">5</length>
     <title>Le film en +</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209043500 +0100" stop="20151209045000 +0100">
+  <programme channel="burger" start="20151209003500 +0100" stop="20151209005000 +0100">
     <length units="minutes">15</length>
     <title>L'hebd'Hollywood</title>
     <category>Magazine</category>
@@ -855,7 +564,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209045000 +0100" stop="20151209045100 +0100">
+  <programme channel="burger" start="20151209005000 +0100" stop="20151209005100 +0100">
     <length units="minutes">1</length>
     <title>La séance de Mouloud Achour</title>
     <category>Magazine</category>
@@ -865,7 +574,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209045100 +0100" stop="20151209062500 +0100">
+  <programme channel="burger" start="20151209005100 +0100" stop="20151209022500 +0100">
     <length units="minutes">94</length>
     <title>The Anomaly (?)</title>
     <category>Film</category>
@@ -883,7 +592,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209062500 +0100" stop="20151209071500 +0100">
+  <programme channel="burger" start="20151209022500 +0100" stop="20151209031500 +0100">
     <length units="minutes">50</length>
     <title>Le cercle</title>
     <category>Magazine</category>
@@ -893,7 +602,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209071500 +0100" stop="20151209101000 +0100">
+  <programme channel="burger" start="20151209031500 +0100" stop="20151209061000 +0100">
     <length units="minutes">175</length>
     <title>National Gallery (?)</title>
     <category>Film</category>
@@ -903,14 +612,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209101000 +0100" stop="20151209132500 +0100">
+  <programme channel="burger" start="20151209061000 +0100" stop="20151209092500 +0100">
     <length units="minutes">195</length>
     <title>Interruption des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209132500 +0100" stop="20151209134500 +0100">
+  <programme channel="burger" start="20151209092500 +0100" stop="20151209094500 +0100">
     <length units="minutes">20</length>
     <title>Rencontres de cinéma</title>
     <category>Magazine</category>
@@ -920,14 +629,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209134500 +0100" stop="20151209141200 +0100">
+  <programme channel="burger" start="20151209094500 +0100" stop="20151209101200 +0100">
     <length units="minutes">27</length>
     <title>L'oeil de Links</title>
     <category>Magazine</category>
     <desc>Le webazine de l'activité créative du net :... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209141200 +0100" stop="20151209141400 +0100">
+  <programme channel="burger" start="20151209101200 +0100" stop="20151209101400 +0100">
     <length units="minutes">2</length>
     <title>La séance de Daphné Bürki</title>
     <category>Magazine</category>
@@ -937,7 +646,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209141400 +0100" stop="20151209160500 +0100">
+  <programme channel="burger" start="20151209101400 +0100" stop="20151209120500 +0100">
     <length units="minutes">111</length>
     <title>Samba (?)</title>
     <category>Film</category>
@@ -956,7 +665,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209160500 +0100" stop="20151209162500 +0100">
+  <programme channel="burger" start="20151209120500 +0100" stop="20151209122500 +0100">
     <length units="minutes">20</length>
     <title>Rencontres de cinéma</title>
     <category>Magazine</category>
@@ -966,7 +675,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209162500 +0100" stop="20151209175500 +0100">
+  <programme channel="burger" start="20151209122500 +0100" stop="20151209135500 +0100">
     <length units="minutes">90</length>
     <title>Toute première fois (?)</title>
     <category>Film</category>
@@ -985,7 +694,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209175500 +0100" stop="20151209185000 +0100">
+  <programme channel="burger" start="20151209135500 +0100" stop="20151209145000 +0100">
     <length units="minutes">55</length>
     <title>Le cercle</title>
     <category>Magazine</category>
@@ -995,7 +704,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209185000 +0100" stop="20151209203200 +0100">
+  <programme channel="burger" start="20151209145000 +0100" stop="20151209163200 +0100">
     <length units="minutes">102</length>
     <title>Elle l'adore (?)</title>
     <category>Film</category>
@@ -1013,7 +722,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209203200 +0100" stop="20151209203400 +0100">
+  <programme channel="burger" start="20151209163200 +0100" stop="20151209163400 +0100">
     <length units="minutes">2</length>
     <title>La séance de Daphné Bürki</title>
     <category>Magazine</category>
@@ -1023,7 +732,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209203400 +0100" stop="20151209221800 +0100">
+  <programme channel="burger" start="20151209163400 +0100" stop="20151209181800 +0100">
     <length units="minutes">104</length>
     <title>Admission (?)</title>
     <category>Film</category>
@@ -1041,7 +750,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209221800 +0100" stop="20151209222000 +0100">
+  <programme channel="burger" start="20151209181800 +0100" stop="20151209182000 +0100">
     <length units="minutes">2</length>
     <title>Nouveau genre</title>
     <category>Magazine</category>
@@ -1051,7 +760,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151209222000 +0100" stop="20151210003500 +0100">
+  <programme channel="burger" start="20151209182000 +0100" stop="20151209203500 +0100">
     <length units="minutes">135</length>
     <title>Divergente (?)</title>
     <category>Film</category>
@@ -1069,7 +778,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210003500 +0100" stop="20151210022000 +0100">
+  <programme channel="burger" start="20151209203500 +0100" stop="20151209222000 +0100">
     <length units="minutes">105</length>
     <title>I Origins (?)</title>
     <category>Film</category>
@@ -1087,14 +796,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210022000 +0100" stop="20151210024700 +0100">
+  <programme channel="burger" start="20151209222000 +0100" stop="20151209224700 +0100">
     <length units="minutes">27</length>
     <title>L'oeil de Links</title>
     <category>Magazine</category>
     <desc>Le webazine de l'activité créative du net :... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210024700 +0100" stop="20151210025000 +0100">
+  <programme channel="burger" start="20151209224700 +0100" stop="20151209225000 +0100">
     <length units="minutes">3</length>
     <title>Nouveau genre</title>
     <category>Magazine</category>
@@ -1104,7 +813,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210025000 +0100" stop="20151210044000 +0100">
+  <programme channel="burger" start="20151209225000 +0100" stop="20151210004000 +0100">
     <length units="minutes">110</length>
     <title>Refroidis (?)</title>
     <category>Film</category>
@@ -1122,7 +831,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210044000 +0100" stop="20151210063000 +0100">
+  <programme channel="burger" start="20151210004000 +0100" stop="20151210023000 +0100">
     <length units="minutes">110</length>
     <title>Edge of Tomorrow (?)</title>
     <category>Film</category>
@@ -1140,7 +849,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210063000 +0100" stop="20151210064700 +0100">
+  <programme channel="burger" start="20151210023000 +0100" stop="20151210024700 +0100">
     <length units="minutes">17</length>
     <title>L'hebd'Hollywood</title>
     <category>Magazine</category>
@@ -1150,7 +859,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210064700 +0100" stop="20151210065000 +0100">
+  <programme channel="burger" start="20151210024700 +0100" stop="20151210025000 +0100">
     <length units="minutes">3</length>
     <title>Nouveau genre</title>
     <category>Magazine</category>
@@ -1160,7 +869,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210065000 +0100" stop="20151210084500 +0100">
+  <programme channel="burger" start="20151210025000 +0100" stop="20151210044500 +0100">
     <length units="minutes">115</length>
     <title>Du sang et des larmes (?)</title>
     <category>Film</category>
@@ -1178,7 +887,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210084500 +0100" stop="20151210101500 +0100">
+  <programme channel="burger" start="20151210044500 +0100" stop="20151210061500 +0100">
     <length units="minutes">90</length>
     <title>Catacombes (?)</title>
     <category>Film</category>
@@ -1196,14 +905,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210101500 +0100" stop="20151210131500 +0100">
+  <programme channel="burger" start="20151210061500 +0100" stop="20151210091500 +0100">
     <length units="minutes">180</length>
     <title>Interruption des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210131500 +0100" stop="20151210141200 +0100">
+  <programme channel="burger" start="20151210091500 +0100" stop="20151210101200 +0100">
     <length units="minutes">57</length>
     <title>Le cercle</title>
     <category>Magazine</category>
@@ -1213,7 +922,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210141200 +0100" stop="20151210141500 +0100">
+  <programme channel="burger" start="20151210101200 +0100" stop="20151210101500 +0100">
     <length units="minutes">3</length>
     <title>La séance de Daphné Bürki</title>
     <category>Magazine</category>
@@ -1223,7 +932,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210141500 +0100" stop="20151210160100 +0100">
+  <programme channel="burger" start="20151210101500 +0100" stop="20151210120100 +0100">
     <length units="minutes">106</length>
     <title>Serena (?)</title>
     <category>Film</category>
@@ -1241,7 +950,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210160100 +0100" stop="20151210160200 +0100">
+  <programme channel="burger" start="20151210120100 +0100" stop="20151210120200 +0100">
     <length units="minutes">1</length>
     <title>La séance de Mouloud Achour</title>
     <category>Magazine</category>
@@ -1251,7 +960,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210160200 +0100" stop="20151210174400 +0100">
+  <programme channel="burger" start="20151210120200 +0100" stop="20151210134400 +0100">
     <length units="minutes">102</length>
     <title>Cops : les forces du désordre (?)</title>
     <category>Film</category>
@@ -1269,14 +978,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210174400 +0100" stop="20151210175000 +0100">
+  <programme channel="burger" start="20151210134400 +0100" stop="20151210135000 +0100">
     <length units="minutes">6</length>
     <title>Le film en +</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210175000 +0100" stop="20151210193300 +0100">
+  <programme channel="burger" start="20151210135000 +0100" stop="20151210153300 +0100">
     <length units="minutes">103</length>
     <title>Quand vient la nuit (?)</title>
     <category>Film</category>
@@ -1294,14 +1003,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210193300 +0100" stop="20151210193500 +0100">
+  <programme channel="burger" start="20151210153300 +0100" stop="20151210153500 +0100">
     <length units="minutes">2</length>
     <title>Les nouvelles frontières : la résurrection du western</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210193500 +0100" stop="20151210214700 +0100">
+  <programme channel="burger" start="20151210153500 +0100" stop="20151210174700 +0100">
     <length units="minutes">132</length>
     <title>Unforgiven (?)</title>
     <category>Film</category>
@@ -1319,7 +1028,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210214700 +0100" stop="20151210215000 +0100">
+  <programme channel="burger" start="20151210174700 +0100" stop="20151210175000 +0100">
     <length units="minutes">3</length>
     <title>Cinéastes</title>
     <category>Magazine</category>
@@ -1329,7 +1038,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210215000 +0100" stop="20151210231500 +0100">
+  <programme channel="burger" start="20151210175000 +0100" stop="20151210191500 +0100">
     <length units="minutes">85</length>
     <title>Bébé Tigre (?)</title>
     <category>Film</category>
@@ -1347,7 +1056,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151210231500 +0100" stop="20151211005600 +0100">
+  <programme channel="burger" start="20151210191500 +0100" stop="20151210205600 +0100">
     <length units="minutes">101</length>
     <title>Elle l'adore (?)</title>
     <category>Film</category>
@@ -1365,14 +1074,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211005600 +0100" stop="20151211005800 +0100">
+  <programme channel="burger" start="20151210205600 +0100" stop="20151210205800 +0100">
     <length units="minutes">2</length>
     <title>Les nouvelles frontières : la résurrection du western</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211005800 +0100" stop="20151211021500 +0100">
+  <programme channel="burger" start="20151210205800 +0100" stop="20151210221500 +0100">
     <length units="minutes">77</length>
     <title>Slow West (?)</title>
     <category>Film</category>
@@ -1390,14 +1099,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211021500 +0100" stop="20151211024700 +0100">
+  <programme channel="burger" start="20151210221500 +0100" stop="20151210224700 +0100">
     <length units="minutes">32</length>
     <title>Mickrociné</title>
     <category>Magazine</category>
     <desc>Une compilation de courts métrages du monde... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211024700 +0100" stop="20151211025000 +0100">
+  <programme channel="burger" start="20151210224700 +0100" stop="20151210225000 +0100">
     <length units="minutes">3</length>
     <title>La séance de Daphné Bürki</title>
     <category>Magazine</category>
@@ -1407,7 +1116,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211025000 +0100" stop="20151211043000 +0100">
+  <programme channel="burger" start="20151210225000 +0100" stop="20151211003000 +0100">
     <length units="minutes">100</length>
     <title>Belle (?)</title>
     <category>Film</category>
@@ -1425,7 +1134,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211043000 +0100" stop="20151211061000 +0100">
+  <programme channel="burger" start="20151211003000 +0100" stop="20151211021000 +0100">
     <length units="minutes">100</length>
     <title>Valentin Valentin (?)</title>
     <category>Film</category>
@@ -1443,14 +1152,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211061000 +0100" stop="20151211064000 +0100">
+  <programme channel="burger" start="20151211021000 +0100" stop="20151211024000 +0100">
     <length units="minutes">30</length>
     <title>L'oeil de Links</title>
     <category>Magazine</category>
     <desc>Le webazine de l'activité créative du net :... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211064000 +0100" stop="20151211085000 +0100">
+  <programme channel="burger" start="20151211024000 +0100" stop="20151211045000 +0100">
     <length units="minutes">130</length>
     <title>The Search (?)</title>
     <category>Film</category>
@@ -1468,7 +1177,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211085000 +0100" stop="20151211094000 +0100">
+  <programme channel="burger" start="20151211045000 +0100" stop="20151211054000 +0100">
     <length units="minutes">50</length>
     <title>Le cercle</title>
     <category>Magazine</category>
@@ -1478,21 +1187,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211094000 +0100" stop="20151211132000 +0100">
+  <programme channel="burger" start="20151211054000 +0100" stop="20151211092000 +0100">
     <length units="minutes">220</length>
     <title>Interruption des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211132000 +0100" stop="20151211135000 +0100">
+  <programme channel="burger" start="20151211092000 +0100" stop="20151211095000 +0100">
     <length units="minutes">30</length>
     <title>Mickrociné</title>
     <category>Magazine</category>
     <desc>Une compilation de courts métrages du monde... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211135000 +0100" stop="20151211141100 +0100">
+  <programme channel="burger" start="20151211095000 +0100" stop="20151211101100 +0100">
     <length units="minutes">21</length>
     <title>Rencontres de cinéma</title>
     <category>Magazine</category>
@@ -1502,7 +1211,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211141100 +0100" stop="20151211141500 +0100">
+  <programme channel="burger" start="20151211101100 +0100" stop="20151211101500 +0100">
     <length units="minutes">4</length>
     <title>Nouveau genre</title>
     <category>Magazine</category>
@@ -1512,7 +1221,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211141500 +0100" stop="20151211162500 +0100">
+  <programme channel="burger" start="20151211101500 +0100" stop="20151211122500 +0100">
     <length units="minutes">130</length>
     <title>Divergente (?)</title>
     <category>Film</category>
@@ -1530,7 +1239,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211162500 +0100" stop="20151211181500 +0100">
+  <programme channel="burger" start="20151211122500 +0100" stop="20151211141500 +0100">
     <length units="minutes">110</length>
     <title>La rançon de la gloire (?)</title>
     <category>Film</category>
@@ -1547,7 +1256,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211181500 +0100" stop="20151211200100 +0100">
+  <programme channel="burger" start="20151211141500 +0100" stop="20151211160100 +0100">
     <length units="minutes">106</length>
     <title>Valentin Valentin (?)</title>
     <category>Film</category>
@@ -1565,14 +1274,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211200100 +0100" stop="20151211200300 +0100">
+  <programme channel="burger" start="20151211160100 +0100" stop="20151211160300 +0100">
     <length units="minutes">2</length>
     <title>Les nouvelles frontières : la résurrection du western</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211200300 +0100" stop="20151211214000 +0100">
+  <programme channel="burger" start="20151211160300 +0100" stop="20151211174000 +0100">
     <length units="minutes">97</length>
     <title>El Ardor (?)</title>
     <category>Film</category>
@@ -1590,7 +1299,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211214000 +0100" stop="20151211214200 +0100">
+  <programme channel="burger" start="20151211174000 +0100" stop="20151211174200 +0100">
     <length units="minutes">2</length>
     <title>La séance de Mouloud Achour</title>
     <category>Magazine</category>
@@ -1600,7 +1309,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211214200 +0100" stop="20151211232000 +0100">
+  <programme channel="burger" start="20151211174200 +0100" stop="20151211192000 +0100">
     <length units="minutes">98</length>
     <title>Cops : les forces du désordre (?)</title>
     <category>Film</category>
@@ -1618,14 +1327,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211232000 +0100" stop="20151211232500 +0100">
+  <programme channel="burger" start="20151211192000 +0100" stop="20151211192500 +0100">
     <length units="minutes">5</length>
     <title>Le film en +</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151211232500 +0100" stop="20151212010000 +0100">
+  <programme channel="burger" start="20151211192500 +0100" stop="20151211210000 +0100">
     <length units="minutes">95</length>
     <title>Repas de famille (?)</title>
     <category>Film</category>
@@ -1643,7 +1352,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212010000 +0100" stop="20151212022500 +0100">
+  <programme channel="burger" start="20151211210000 +0100" stop="20151211222500 +0100">
     <length units="minutes">85</length>
     <title>Astérix : le domaine des dieux (?)</title>
     <category>Film</category>
@@ -1654,7 +1363,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212022500 +0100" stop="20151212024700 +0100">
+  <programme channel="burger" start="20151211222500 +0100" stop="20151211224700 +0100">
     <length units="minutes">22</length>
     <title>Rencontres de cinéma</title>
     <category>Magazine</category>
@@ -1664,7 +1373,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212024700 +0100" stop="20151212025000 +0100">
+  <programme channel="burger" start="20151211224700 +0100" stop="20151211225000 +0100">
     <length units="minutes">3</length>
     <title>Cinéastes</title>
     <category>Magazine</category>
@@ -1674,7 +1383,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212025000 +0100" stop="20151212043500 +0100">
+  <programme channel="burger" start="20151211225000 +0100" stop="20151212003500 +0100">
     <length units="minutes">105</length>
     <title>Le sel de la Terre (?)</title>
     <category>Film</category>
@@ -1685,7 +1394,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212043500 +0100" stop="20151212053000 +0100">
+  <programme channel="burger" start="20151212003500 +0100" stop="20151212013000 +0100">
     <length units="minutes">55</length>
     <title>Le cercle</title>
     <category>Magazine</category>
@@ -1695,7 +1404,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212053000 +0100" stop="20151212053300 +0100">
+  <programme channel="burger" start="20151212013000 +0100" stop="20151212013300 +0100">
     <length units="minutes">3</length>
     <title>Cinéastes</title>
     <category>Magazine</category>
@@ -1705,7 +1414,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212053300 +0100" stop="20151212065500 +0100">
+  <programme channel="burger" start="20151212013300 +0100" stop="20151212025500 +0100">
     <length units="minutes">82</length>
     <title>Bébé Tigre (?)</title>
     <category>Film</category>
@@ -1723,11 +1432,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212065500 +0100" stop="20151212084000 +0100">
+  <programme channel="burger" start="20151212025500 +0100" stop="20151212044000 +0100">
     <length units="minutes">105</length>
     <title>La prochaine fois je viserai le coeur (?)</title>
     <category>Film</category>
-    <desc>Franck est un jeune gendarme timide et effacé... (Lire la suite).(n)</desc>
+    <desc>Franck est un jeune gendarme timide et effacé... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Cédric Anger</name>
       <name function="actor">Jean-Yves Berteloot</name>
@@ -1741,21 +1450,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212084000 +0100" stop="20151212090000 +0100">
+  <programme channel="burger" start="20151212044000 +0100" stop="20151212050000 +0100">
     <length units="minutes">20</length>
     <title>Rencontres de cinéma</title>
     <category>Magazine</category>
-    <desc>Laurent Weil lève le voile sur les coulisses... (Lire la suite).(n)</desc>
+    <desc>Laurent Weil lève le voile sur les coulisses... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Laurent Weil</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212090000 +0100" stop="20151212092700 +0100">
+  <programme channel="burger" start="20151212050000 +0100" stop="20151212052700 +0100">
     <length units="minutes">27</length>
     <title>Aquabike (?)</title>
     <category>Film</category>
-    <desc>Traumatisé par l'attaque d'un poisson alors... (Lire la suite).(n)</desc>
+    <desc>Traumatisé par l'attaque d'un poisson alors... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jean-Baptiste Saurel</name>
       <name function="actor">Charlie Dupont</name>
@@ -1765,11 +1474,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212092700 +0100" stop="20151212093000 +0100">
+  <programme channel="burger" start="20151212052700 +0100" stop="20151212053000 +0100">
     <length units="minutes">3</length>
     <title>Un vague souvenir (?)</title>
     <category>Film</category>
-    <desc>Récit d'un étrange souvenir. (Lire la suite).(n)</desc>
+    <desc>Récit d'un étrange souvenir. (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Romain Quirot</name>
       <name function="actor">Charles Wheeler</name>
@@ -1778,38 +1487,38 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212093000 +0100" stop="20151212134500 +0100">
+  <programme channel="burger" start="20151212053000 +0100" stop="20151212094500 +0100">
     <length units="minutes">255</length>
     <title>Interruption des programmes</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212134500 +0100" stop="20151212140000 +0100">
+  <programme channel="burger" start="20151212094500 +0100" stop="20151212100000 +0100">
     <length units="minutes">15</length>
     <title>L'hebd'Hollywood</title>
     <category>Magazine</category>
-    <desc>Toute l'actualité d'Hollywood, des stars et... (Lire la suite).(n)</desc>
+    <desc>Toute l'actualité d'Hollywood, des stars et... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Didier Allouch</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212140000 +0100" stop="20151212140300 +0100">
+  <programme channel="burger" start="20151212100000 +0100" stop="20151212100300 +0100">
     <length units="minutes">3</length>
     <title>Cinéastes</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Dominique Besnehard</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212140300 +0100" stop="20151212153500 +0100">
+  <programme channel="burger" start="20151212100300 +0100" stop="20151212113500 +0100">
     <length units="minutes">92</length>
     <title>Mon amie Victoria (?)</title>
     <category>Film</category>
-    <desc>Parce que sa maman ne peut s'occuper d'elle,... (Lire la suite).(n)</desc>
+    <desc>Parce que sa maman ne peut s'occuper d'elle,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jean-Paul Civeyrac</name>
       <name function="actor">Alexis Loret</name>
@@ -1823,7 +1532,447 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212153500 +0100" stop="20151212153800 +0100">
+  <programme channel="burger" start="20151212113500 +0100" stop="20151212113800 +0100">
+    <length units="minutes">3</length>
+    <title>Nouveau genre</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Ivan Guyot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212113800 +0100" stop="20151212133000 +0100">
+    <length units="minutes">112</length>
+    <title>Night Call (?)</title>
+    <category>Film</category>
+    <desc>Lou Bloom veut absolument faire carrière dans... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Dan Gilroy</name>
+      <name function="actor">Rene Russo</name>
+      <name function="actor">Bill Paxton</name>
+      <name function="actor">Ann Cusack</name>
+      <name function="actor">Jake Gyllenhaal</name>
+      <name function="actor">Kevin Rahm</name>
+      <name function="actor">Eric Lange</name>
+      <name function="actor">Riz Ahmed</name>
+      <name function="actor">Anne McDaniels</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212133000 +0100" stop="20151212150000 +0100">
+    <length units="minutes">90</length>
+    <title>The Salvation (?)</title>
+    <category>Film</category>
+    <desc>L'Ouest américain en 1870, Jon, un pionnier... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Kristian Levring</name>
+      <name function="actor">Eric Cantona</name>
+      <name function="actor">Jonathan Pryce</name>
+      <name function="actor">Jeffrey Dean Morgan</name>
+      <name function="actor">Douglas Henshall</name>
+      <name function="actor">Mikael Persbrandt</name>
+      <name function="actor">Mads Mikkelsen</name>
+      <name function="actor">Eva Green</name>
+      <name function="actor">Michael Raymond-James</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212150000 +0100" stop="20151212155400 +0100">
+    <length units="minutes">54</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212155400 +0100" stop="20151212155500 +0100">
+    <length units="minutes">1</length>
+    <title>La séance de Mouloud Achour</title>
+    <category>Magazine</category>
+    <desc>Mouloud propose un nouveau rendez-vous... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Mouloud</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212155500 +0100" stop="20151212175000 +0100">
+    <length units="minutes">115</length>
+    <title>Hunger Games : la révolte, 1ère partie (?)</title>
+    <category>Film</category>
+    <desc>Après avoir réduit en poussière l'arène des... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Francis Lawrence</name>
+      <name function="actor">Jeffrey Wright</name>
+      <name function="actor">Philip Seymour Hoffman</name>
+      <name function="actor">Elizabeth Banks</name>
+      <name function="actor">Josh Hutcherson</name>
+      <name function="actor">Woody Harrelson</name>
+      <name function="actor">Julianne Moore</name>
+      <name function="actor">Jennifer Lawrence</name>
+      <name function="actor">Liam Hemsworth</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212175000 +0100" stop="20151212181000 +0100">
+    <length units="minutes">20</length>
+    <title>L'hebd'Hollywood</title>
+    <category>Magazine</category>
+    <desc>Toute l'actualité d'Hollywood, des stars et... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Didier Allouch</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212181000 +0100" stop="20151212181100 +0100">
+    <length units="minutes">1</length>
+    <title>La séance de Daphné Bürki</title>
+    <category>Magazine</category>
+    <desc>Daphné Bürki évoque le cinéma qui la fait... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Daphné Bürki</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212181100 +0100" stop="20151212195000 +0100">
+    <length units="minutes">99</length>
+    <title>Admission (?)</title>
+    <category>Film</category>
+    <desc>A l'université de Princeton, Portia Nathan a... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Paul Weitz</name>
+      <name function="actor">Gloria Reuben</name>
+      <name function="actor">Wallace Shawn</name>
+      <name function="actor">Paul Rudd</name>
+      <name function="actor">Ann Harada</name>
+      <name function="actor">Tina Fey</name>
+      <name function="actor">Christopher Evan Welch</name>
+      <name function="actor">Dan Levy</name>
+      <name function="actor">Ben Levin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212195000 +0100" stop="20151212200000 +0100">
+    <length units="minutes">10</length>
+    <title>L'oeil de Links</title>
+    <category>Magazine</category>
+    <desc>Une équipe de chroniqueurs réguliers, formée... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212200000 +0100" stop="20151212200300 +0100">
+    <length units="minutes">3</length>
+    <title>Nouveau genre</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Ivan Guyot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212200300 +0100" stop="20151212215500 +0100">
+    <length units="minutes">112</length>
+    <title>Refroidis (?)</title>
+    <category>Film</category>
+    <desc>Dans une petite ville de Norvège perdue dans... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Hans Petter Moland</name>
+      <name function="actor">Bruno Ganz</name>
+      <name function="actor">Sergej Trifunovic</name>
+      <name function="actor">Stellan Skarsgard</name>
+      <name function="actor">Birgitte Hjort Sorensen</name>
+      <name function="actor">Tobias Santelmann</name>
+      <name function="actor">Jakob Oftebro</name>
+      <name function="actor">Pal Sverre Hagen</name>
+      <name function="actor">Kristofer Hivju</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212215500 +0100" stop="20151212225000 +0100">
+    <length units="minutes">55</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151212225000 +0100" stop="20151213002000 +0100">
+    <length units="minutes">90</length>
+    <title>The Anomaly (?)</title>
+    <category>Film</category>
+    <desc>Dans le futur, un homme se réveille à... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Noel Clarke</name>
+      <name function="actor">Brian Cox</name>
+      <name function="actor">Ian Somerhalder</name>
+      <name function="actor">Noel Clarke</name>
+      <name function="actor">Michael Bisping</name>
+      <name function="actor">Alexis Knapp</name>
+      <name function="actor">Art Parkinson</name>
+      <name function="actor">Niall Greig Fulton</name>
+      <name function="actor">Luke Hemsworth</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213002000 +0100" stop="20151213023400 +0100">
+    <length units="minutes">134</length>
+    <title>The Search (?)</title>
+    <category>Film</category>
+    <desc>Pendant la seconde guerre de Tchétchénie, en... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Michel Hazanavicius</name>
+      <name function="actor">Annette Bening</name>
+      <name function="actor">Bérénice Bejo</name>
+      <name function="actor">Youris Tsourilo</name>
+      <name function="actor">Maksim Emelyanov</name>
+      <name function="actor">Abdul Khalim Mamutsiev</name>
+      <name function="actor">Zukhra Duishvili</name>
+      <name function="actor">Lela Bagakashvili</name>
+      <name function="actor">Anton Dolgov</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213023400 +0100" stop="20151213023500 +0100">
+    <length units="minutes">1</length>
+    <title>Cinéastes</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Dominique Besnehard</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213023500 +0100" stop="20151213042500 +0100">
+    <length units="minutes">110</length>
+    <title>Bande de filles (?)</title>
+    <category>Film</category>
+    <desc>Marieme, 16 ans, vit en banlieue. Silhouette... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Céline Sciamma</name>
+      <name function="actor">Cyril Mendy</name>
+      <name function="actor">Rabah Naït Oufella</name>
+      <name function="actor">Diabate Idrissa</name>
+      <name function="actor">Karidja Touré</name>
+      <name function="actor">Assa Sylla</name>
+      <name function="actor">Lindsay Karamoh</name>
+      <name function="actor">Mariétou Touré</name>
+      <name function="actor">Djibril Gueye</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213042500 +0100" stop="20151213045000 +0100">
+    <length units="minutes">25</length>
+    <title>L'oeil de Links</title>
+    <category>Magazine</category>
+    <desc>Le webazine de l'activité créative du net :... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213045000 +0100" stop="20151213063000 +0100">
+    <length units="minutes">100</length>
+    <title>Under the Skin (?)</title>
+    <category>Film</category>
+    <desc>Sans nom, sans lieu, une jeune femme déambule, (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jonathan Glazer</name>
+      <name function="actor">Scarlett Johansson</name>
+      <name function="actor">Michael Moreland</name>
+      <name function="actor">Joe Szula</name>
+      <name function="actor">Lynsey Taylor Mackay</name>
+      <name function="actor">Jeremy McWilliams</name>
+      <name function="actor">Dougie McConnell</name>
+      <name function="actor">Kevin McAlinden</name>
+      <name function="actor">Andrew Gorman</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213063000 +0100" stop="20151213090500 +0100">
+    <length units="minutes">155</length>
+    <title>Interruption des programmes</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213090500 +0100" stop="20151213095500 +0100">
+    <length units="minutes">50</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213095500 +0100" stop="20151213113400 +0100">
+    <length units="minutes">99</length>
+    <title>Sous X (?)</title>
+    <category>Film</category>
+    <desc>Après neuf ans passés derrière les barreaux... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jean-Michel Correia</name>
+      <name function="actor">Pierre Douglas</name>
+      <name function="actor">David Saracino</name>
+      <name function="actor">Lisa Livane</name>
+      <name function="actor">Karim Leklou</name>
+      <name function="actor">Mariama Gueye</name>
+      <name function="actor">Jean-Michel Correia</name>
+      <name function="actor">Anissa Allali</name>
+      <name function="actor">Nizar Saïdi</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213113400 +0100" stop="20151213113500 +0100">
+    <length units="minutes">1</length>
+    <title>La séance de Mouloud Achour</title>
+    <category>Magazine</category>
+    <desc>Mouloud propose un nouveau rendez-vous... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Mouloud</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213113500 +0100" stop="20151213131500 +0100">
+    <length units="minutes">100</length>
+    <title>Cops : les forces du désordre (?)</title>
+    <category>Film</category>
+    <desc>Ryan est un comédien raté, qui se contente de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Luke Greenfield</name>
+      <name function="actor">Damon Wayans Jr</name>
+      <name function="actor">James d'Arcy</name>
+      <name function="actor">Nina Dobrev</name>
+      <name function="actor">Jake Johnson</name>
+      <name function="actor">Rob Riggle</name>
+      <name function="actor">Keegan Michael Key</name>
+      <name function="actor">Jonathan Lajoie</name>
+      <name function="actor">Andy Garcia</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213131500 +0100" stop="20151213150000 +0100">
+    <length units="minutes">105</length>
+    <title>Quand vient la nuit (?)</title>
+    <category>Film</category>
+    <desc>Bob Saginowski, barman solitaire dans un... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Michaël R Roskam</name>
+      <name function="actor">John Ortiz</name>
+      <name function="actor">Tom Hardy</name>
+      <name function="actor">Matthias Schoenaerts</name>
+      <name function="actor">Michael Aronov</name>
+      <name function="actor">James Gandolfini</name>
+      <name function="actor">Elizabeth Rodriguez</name>
+      <name function="actor">Noomi Rapace</name>
+      <name function="actor">Morgan Spector</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213150000 +0100" stop="20151213152000 +0100">
+    <length units="minutes">20</length>
+    <title>Rencontres de cinéma</title>
+    <category>Magazine</category>
+    <desc>Laurent Weil présente «Le Nouveau», un long... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Laurent Weil</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213152000 +0100" stop="20151213161000 +0100">
+    <length units="minutes">50</length>
+    <title>Panthers</title>
+    <category>Série</category>
+    <desc>A Londres, Naomi découvre que Michael... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Johan Renck</name>
+      <name function="actor">John Hurt</name>
+      <name function="actor">Samantha Morton</name>
+      <name function="actor">Joseph Mawle</name>
+      <name function="actor">Tahar Rahim</name>
+      <name function="actor">Goran Bogdan</name>
+      <name function="actor">Igor Bencina</name>
+      <name function="writer">Jack Thorne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213161000 +0100" stop="20151213170000 +0100">
+    <length units="minutes">50</length>
+    <title>Panthers</title>
+    <category>Série</category>
+    <desc>Milan et Dragan tentent de retourner clandestineme (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Johan Renck</name>
+      <name function="actor">John Hurt</name>
+      <name function="actor">Samantha Morton</name>
+      <name function="actor">Tahar Rahim</name>
+      <name function="actor">Goran Bogdan</name>
+      <name function="actor">Igor Bencina</name>
+      <name function="writer">Jack Thorne</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213170000 +0100" stop="20151213181000 +0100">
+    <length units="minutes">70</length>
+    <title>Tueur sur ordonnance</title>
+    <category>Téléfilm</category>
+    <desc>Thomas Miller, modeste employé de bureau,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Joe Johnston</name>
+      <name function="actor">Christian Clemenson</name>
+      <name function="actor">Molly Hagan</name>
+      <name function="actor">Tom Gallop</name>
+      <name function="actor">Frankie Jay Allison</name>
+      <name function="actor">Brandon Keener</name>
+      <name function="actor">Alejandro Patino</name>
+      <name function="actor">Max Minghella</name>
+      <name function="actor">Eloise Mumford</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213181000 +0100" stop="20151213195000 +0100">
+    <length units="minutes">100</length>
+    <title>Clear History</title>
+    <category>Téléfilm</category>
+    <desc>L'original et grognon Nathan Flomm revend sur... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Greg Mottola</name>
+      <name function="actor">Kate Hudson</name>
+      <name function="actor">Eva Mendes</name>
+      <name function="actor">Jon Hamm</name>
+      <name function="actor">Danny McBride</name>
+      <name function="actor">Larry David</name>
+      <name function="actor">Bill Hader</name>
+      <name function="actor">Amy Ryan</name>
+      <name function="actor">Michael Keaton</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213195000 +0100" stop="20151213195500 +0100">
+    <length units="minutes">5</length>
+    <title>Le film en +</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213195500 +0100" stop="20151213195900 +0100">
+    <length units="minutes">4</length>
+    <title>L'oeil de Links</title>
+    <category>Magazine</category>
+    <desc>Une équipe de chroniqueurs réguliers, formée... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213195900 +0100" stop="20151213205200 +0100">
+    <length units="minutes">53</length>
+    <title>Le cercle</title>
+    <category>Magazine</category>
+    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Frédéric Beigbeder</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="burger" start="20151213205200 +0100" stop="20151213205500 +0100">
     <length units="minutes">3</length>
     <title>Nouveau genre</title>
     <category>Magazine</category>
@@ -1833,8 +1982,8 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212153800 +0100" stop="20151212173000 +0100">
-    <length units="minutes">112</length>
+  <programme channel="burger" start="20151213205500 +0100" stop="20151213225000 +0100">
+    <length units="minutes">115</length>
     <title>Night Call (?)</title>
     <category>Film</category>
     <desc>Lou Bloom veut absolument faire carrière dans... (Lire la suite).(n)</desc>
@@ -1851,109 +2000,34 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212173000 +0100" stop="20151212190000 +0100">
-    <length units="minutes">90</length>
-    <title>The Salvation (?)</title>
+  <programme channel="burger" start="20151213225000 +0100" stop="20151214001500 +0100">
+    <length units="minutes">85</length>
+    <title>Toute première fois (?)</title>
     <category>Film</category>
-    <desc>L'Ouest américain en 1870, Jon, un pionnier... (Lire la suite).(n)</desc>
+    <desc>Mais que fait Jérémie, 34 ans, dans le lit de... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Kristian Levring</name>
-      <name function="actor">Eric Cantona</name>
-      <name function="actor">Jonathan Pryce</name>
-      <name function="actor">Jeffrey Dean Morgan</name>
-      <name function="actor">Douglas Henshall</name>
-      <name function="actor">Mikael Persbrandt</name>
-      <name function="actor">Mads Mikkelsen</name>
-      <name function="actor">Eva Green</name>
-      <name function="actor">Michael Raymond-James</name>
+      <name function="director">Noémie Saglio,</name>
+      <name function="director">Maxime Govare</name>
+      <name function="actor">Isabelle Candelier</name>
+      <name function="actor">Frédéric Pierrot</name>
+      <name function="actor">Sébastien Castro</name>
+      <name function="actor">Lannick Gautry</name>
+      <name function="actor">Pio Marmaï</name>
+      <name function="actor">Franck Gastambide</name>
+      <name function="actor">Camille Cottin</name>
+      <name function="actor">Adrianna Gradziel</name>
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212190000 +0100" stop="20151212195400 +0100">
-    <length units="minutes">54</length>
-    <title>Le cercle</title>
+  <programme channel="burger" start="20151214001500 +0100" stop="20151214004900 +0100">
+    <length units="minutes">34</length>
+    <title>Mickrociné</title>
     <category>Magazine</category>
-    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Frédéric Beigbeder</name>
-    </credits>
+    <desc>Une compilation de courts métrages du monde... (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="MTV" start="20151212195400 +0100" stop="20151212195500 +0100">
+  <programme channel="burger" start="20151214004900 +0100" stop="20151214005000 +0100">
     <length units="minutes">1</length>
-    <title>La séance de Mouloud Achour</title>
-    <category>Magazine</category>
-    <desc>Mouloud propose un nouveau rendez-vous... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Mouloud</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212195500 +0100" stop="20151212215000 +0100">
-    <length units="minutes">115</length>
-    <title>Hunger Games : la révolte, 1ère partie (?)</title>
-    <category>Film</category>
-    <desc>Après avoir réduit en poussière l'arène des... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Francis Lawrence</name>
-      <name function="actor">Jeffrey Wright</name>
-      <name function="actor">Philip Seymour Hoffman</name>
-      <name function="actor">Elizabeth Banks</name>
-      <name function="actor">Josh Hutcherson</name>
-      <name function="actor">Woody Harrelson</name>
-      <name function="actor">Julianne Moore</name>
-      <name function="actor">Jennifer Lawrence</name>
-      <name function="actor">Liam Hemsworth</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212215000 +0100" stop="20151212221000 +0100">
-    <length units="minutes">20</length>
-    <title>L'hebd'Hollywood</title>
-    <category>Magazine</category>
-    <desc>Toute l'actualité d'Hollywood, des stars et... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Didier Allouch</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212221000 +0100" stop="20151212221100 +0100">
-    <length units="minutes">1</length>
-    <title>La séance de Daphné Bürki</title>
-    <category>Magazine</category>
-    <desc>Daphné Bürki évoque le cinéma qui la fait... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Daphné Bürki</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212221100 +0100" stop="20151212235000 +0100">
-    <length units="minutes">99</length>
-    <title>Admission (?)</title>
-    <category>Film</category>
-    <desc>A l'université de Princeton, Portia Nathan a... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Paul Weitz</name>
-      <name function="actor">Gloria Reuben</name>
-      <name function="actor">Wallace Shawn</name>
-      <name function="actor">Paul Rudd</name>
-      <name function="actor">Ann Harada</name>
-      <name function="actor">Tina Fey</name>
-      <name function="actor">Christopher Evan Welch</name>
-      <name function="actor">Dan Levy</name>
-      <name function="actor">Ben Levin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151212235000 +0100" stop="20151213000000 +0100">
-    <length units="minutes">10</length>
-    <title>L'oeil de Links</title>
-    <category>Magazine</category>
-    <desc>Une équipe de chroniqueurs réguliers, formée... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213000000 +0100" stop="20151213000300 +0100">
-    <length units="minutes">3</length>
     <title>Nouveau genre</title>
     <category>Magazine</category>
     <desc>(Lire la suite).(n)</desc>
@@ -1962,67 +2036,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="MTV" start="20151213000300 +0100" stop="20151213015500 +0100">
-    <length units="minutes">112</length>
-    <title>Refroidis (?)</title>
+  <programme channel="burger" start="20151214005000 +0100" stop="20151214030700 +0100">
+    <length units="minutes">137</length>
+    <title>Divergente (?)</title>
     <category>Film</category>
-    <desc>Dans une petite ville de Norvège perdue dans... (Lire la suite).(n)</desc>
+    <desc>Dans un Chicago post-apocalyptique, la... (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Hans Petter Moland</name>
-      <name function="actor">Bruno Ganz</name>
-      <name function="actor">Sergej Trifunovic</name>
-      <name function="actor">Stellan Skarsgard</name>
-      <name function="actor">Birgitte Hjort Sorensen</name>
-      <name function="actor">Tobias Santelmann</name>
-      <name function="actor">Jakob Oftebro</name>
-      <name function="actor">Pal Sverre Hagen</name>
-      <name function="actor">Kristofer Hivju</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213015500 +0100" stop="20151213025000 +0100">
-    <length units="minutes">55</length>
-    <title>Le cercle</title>
-    <category>Magazine</category>
-    <desc>Frédéric Beigbeder et son équipe de critiques... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Frédéric Beigbeder</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213025000 +0100" stop="20151213042000 +0100">
-    <length units="minutes">90</length>
-    <title>The Anomaly (?)</title>
-    <category>Film</category>
-    <desc>Dans le futur, un homme se réveille à... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Noel Clarke</name>
-      <name function="actor">Brian Cox</name>
-      <name function="actor">Ian Somerhalder</name>
-      <name function="actor">Noel Clarke</name>
-      <name function="actor">Michael Bisping</name>
-      <name function="actor">Alexis Knapp</name>
-      <name function="actor">Art Parkinson</name>
-      <name function="actor">Niall Greig Fulton</name>
-      <name function="actor">Luke Hemsworth</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="MTV" start="20151213042000 +0100" stop="20151213063400 +0100">
-    <length units="minutes">134</length>
-    <title>The Search (?)</title>
-    <category>Film</category>
-    <desc>Pendant la seconde guerre de Tchétchénie, en... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Michel Hazanavicius</name>
-      <name function="actor">Annette Bening</name>
-      <name function="actor">Bérénice Bejo</name>
-      <name function="actor">Youris Tsourilo</name>
-      <name function="actor">Maksim Emelyanov</name>
-      <name function="actor">Abdul Khalim Mamutsiev</name>
-      <name function="actor">Zukhra Duishvili</name>
-      <name function="actor">Lela Bagakashvili</name>
-      <name function="actor">Anton Dolgov</name>
+      <name function="director">Neil Burger</name>
+      <name function="actor">Ray Stevenson</name>
+      <name function="actor">Kate Winslet</name>
+      <name function="actor">Shailene Woodley</name>
+      <name function="actor">Zoë Kravitz</name>
+      <name function="actor">Theo James</name>
+      <name function="actor">Jai Courtney</name>
+      <name function="actor">Miles Teller</name>
+      <name function="actor">Ansel Elgort</name>
     </credits>
     <image />
   </programme>

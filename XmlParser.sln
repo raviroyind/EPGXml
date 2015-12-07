@@ -18,6 +18,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlParser.Core", "XmlParser.Core\XmlParser.Core.csproj", "{BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlGeneration.CronApp", "XmlParser.CronApp\XmlGeneration.CronApp.csproj", "{6A53720E-A4C4-470F-8965-CB8077856345}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3} = {BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
