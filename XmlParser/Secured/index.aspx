@@ -220,7 +220,7 @@
                                                                                 </tr>
                                                                             </table>
                                                                              
-                                                                            <div style="width: 50%;">
+                                                                            <div style="width:70%;">
                                                                                 <hr />
                                                                                 <strong><span class="alert-info">Select one or more URLs below & Click on 'Generate Output' to process.</span></strong>
                                                                                 <hr />
@@ -287,7 +287,7 @@
                                                                                             CancelImageUrl="../CSS/cancel.png" CancelText="Cancel"
                                                                                             UpdateImageUrl="../CSS/Save.png" ValidationGroup="grid"
                                                                                             CausesValidation="True" UpdateText="Save"
-                                                                                            ShowDeleteButton="true" ItemStyle-Width="100">
+                                                                                            ShowDeleteButton="true" ItemStyle-Width="140">
                                                                                             <ItemStyle HorizontalAlign="Right" />
 
                                                                                         </asp:CommandField>
