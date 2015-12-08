@@ -150,7 +150,7 @@ namespace XmlParser.Core.Core
                }
 
                outputFileName = GetSafeFilename(outputFileName);
-
+               queryChannelName = outputFileName;
                //Check if current channe is active.
                using (var dataContext = new EPGDataModel())
                {
