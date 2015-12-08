@@ -1,1518 +1,850 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
-  <channel id="C15.telerama.fr">
-    <display-name>testchannelname01</display-name>
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
+  <channel id="BFM TV">
+    <display-name>test</display-name>
   </channel>
-  <programme channel="testchannelname01" start="20151207020000 +0100" stop="20151207053000 +0100">
-    <length units="minutes">210</length>
-    <title>Le journal de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale.</desc>
-    <credits>
-      <name function="presenter">Lucie Nuttin</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_15_01:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207053000 +0100" stop="20151207070000 +0100">
-    <length units="minutes">90</length>
-    <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Céline Moncel</name>
-      <name function="presenter">Dominique Mari</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_15_04:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207070000 +0100" stop="20151207093500 +0100">
-    <length units="minutes">155</length>
-    <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Pascale de La Tour du Pin</name>
-      <name function="presenter">Christophe Delay</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_15_06:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207093500 +0100" stop="20151207100000 +0100">
-    <length units="minutes">25</length>
-    <title>Bourdin direct</title>
-    <category>magazine</category>
-    <desc>Un face à face percutant avec une personnalité qui fait l'actualité.</desc>
-    <credits>
-      <name function="presenter">Jean-Jacques Bourdin</name>
-      <name function="guest">Julien Dray (tête de liste PS en Val-de-Marne et vice-président du Conseil régional d'Ile-de-France)</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_15_08:35.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207100000 +0100" stop="20151207130000 +0100">
-    <length units="minutes">180</length>
-    <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
-    <credits>
-      <name function="presenter">Roselyne Dubois</name>
-      <name function="presenter">Damien Gourlet</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_15_09:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207130000 +0100" stop="20151207160000 +0100">
-    <length units="minutes">180</length>
-    <title>Midi-15h</title>
-    <category>journal</category>
-    <desc>Le cocktail d'infos de la mi-journée. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Karine de Ménonville</name>
-      <name function="presenter">Ronald Guintrange</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_15_12:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207160000 +0100" stop="20151207190000 +0100">
-    <length units="minutes">180</length>
-    <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
-    <credits>
-      <name function="presenter">Florence Duprat</name>
-      <name function="presenter">Gilane Barret</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_15_15:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207190000 +0100" stop="20151207200000 +0100">
-    <length units="minutes">60</length>
-    <title>BFM Story</title>
-    <category>magazine</category>
-    <desc>Retour sur le fait marquant du jour.</desc>
-    <credits>
-      <name function="presenter">Olivier Truchot</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_15_18:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207200000 +0100" stop="20151207210000 +0100">
-    <length units="minutes">60</length>
-    <title>19h Ruth Elkrief</title>
-    <category>journal</category>
-    <desc>En compagnie d'invités, Ruth Elkrief revient sur l'actualité politique du jour.</desc>
-    <credits>
-      <name function="presenter">Ruth Elkrief</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_15_19:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207210000 +0100" stop="20151207213000 +0100">
-    <length units="minutes">30</length>
-    <title>20h politique</title>
-    <category>magazine</category>
-    <desc>Alain Marschall revisite et décrypte l'actualité politique du jour.</desc>
-    <credits>
-      <name function="presenter">Alain Marschall</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_15_20:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207213000 +0100" stop="20151207220000 +0100">
-    <length units="minutes">30</length>
-    <title>20h30 Live</title>
-    <category>journal</category>
-    <desc>En compagnie des spécialistes de la chaîne, Alain Marschall dresse un tour d'horizon de l'actualité du jour.</desc>
-    <credits>
-      <name function="presenter">Alain Marschall</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_15_20:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207220000 +0100" stop="20151207230000 +0100">
-    <length units="minutes">60</length>
-    <title>News et compagnie</title>
-    <category>magazine</category>
-    <desc>Nathalie Levy accueille un invité pendant une heure. Ensemble, ils se penchent sur son actualité et abordent les infos du jour.</desc>
-    <credits>
-      <name function="presenter">Nathalie Lévy</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_15_21:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207230000 +0100" stop="20151208010000 +0100">
-    <length units="minutes">120</length>
-    <title>Grand angle</title>
-    <category>magazine</category>
-    <desc>Jean-Baptiste Boursier pilote cette émission de décryptage de l'actualité qui repose sur deux piliers : le reportage et le débat.</desc>
-    <credits>
-      <name function="presenter">Jean-Baptiste Boursier</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_15_22:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151208010000 +0100" stop="20151208053000 +0100">
+  <programme channel="test" start="20151208000000 +0100" stop="20151208043000 +0100">
     <length units="minutes">270</length>
     <title>Le journal de la nuit</title>
-    <category>journal</category>
-    <desc />
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Rachid M'Barki</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_15_00:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208053000 +0100" stop="20151208070000 +0100">
+  <programme channel="test" start="20151208043000 +0100" stop="20151208060000 +0100">
     <length units="minutes">90</length>
     <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Tout voir, tout savoir avant d'aller travailler. (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Dominique Mari,</name>
       <name function="presenter">Céline Moncel</name>
-      <name function="presenter">Dominique Mari</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_15_04:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208070000 +0100" stop="20151208093500 +0100">
+  <programme channel="test" start="20151208060000 +0100" stop="20151208083500 +0100">
     <length units="minutes">155</length>
     <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Tout voir, tout savoir avant d'aller travailler. (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Christophe Delay,</name>
       <name function="presenter">Pascale de La Tour du Pin</name>
-      <name function="presenter">Christophe Delay</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_15_06:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208093500 +0100" stop="20151208100000 +0100">
+  <programme channel="test" start="20151208083500 +0100" stop="20151208090000 +0100">
     <length units="minutes">25</length>
     <title>Bourdin direct</title>
-    <category>magazine</category>
-    <desc>Un face à face percutant avec une personnalité qui fait l'actualité.</desc>
+    <category>Magazine</category>
+    <desc>Un face à face percutant avec une personnalité (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Jacques Bourdin</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_15_08:35.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208100000 +0100" stop="20151208130000 +0100">
+  <programme channel="test" start="20151208090000 +0100" stop="20151208120000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Roselyne Dubois</name>
+      <name function="presenter">Roselyne Dubois,</name>
       <name function="presenter">Damien Gourlet</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_15_09:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208130000 +0100" stop="20151208160000 +0100">
+  <programme channel="test" start="20151208120000 +0100" stop="20151208150000 +0100">
     <length units="minutes">180</length>
     <title>Midi-15h</title>
-    <category>journal</category>
-    <desc>Le cocktail d'infos de la mi-journée. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Le cocktail d'infos de la mi-journée. Au... (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Ronald Guintrange,</name>
       <name function="presenter">Karine de Ménonville</name>
-      <name function="presenter">Ronald Guintrange</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_15_12:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208160000 +0100" stop="20151208190000 +0100">
+  <programme channel="test" start="20151208150000 +0100" stop="20151208180000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Florence Duprat</name>
+      <name function="presenter">Florence Duprat,</name>
       <name function="presenter">Gilane Barret</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_15_15:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208190000 +0100" stop="20151208200000 +0100">
+  <programme channel="test" start="20151208180000 +0100" stop="20151208190000 +0100">
     <length units="minutes">60</length>
     <title>BFM Story</title>
-    <category>magazine</category>
-    <desc>Retour sur le fait marquant du jour.</desc>
+    <category>Magazine</category>
+    <desc>Retour sur le fait marquant du jour. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Olivier Truchot</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_15_18:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208200000 +0100" stop="20151208210000 +0100">
+  <programme channel="test" start="20151208190000 +0100" stop="20151208200000 +0100">
     <length units="minutes">60</length>
     <title>19h Ruth Elkrief</title>
-    <category>journal</category>
-    <desc>En compagnie d'invités, Ruth Elkrief revient sur l'actualité politique du jour.</desc>
+    <category>Journal</category>
+    <desc>En compagnie d'invités, Ruth Elkrief revient... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Ruth Elkrief</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_15_19:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208210000 +0100" stop="20151208213000 +0100">
+  <programme channel="test" start="20151208200000 +0100" stop="20151208203000 +0100">
     <length units="minutes">30</length>
     <title>20h politique</title>
-    <category>magazine</category>
-    <desc>Alain Marschall revisite et décrypte l'actualité politique du jour.</desc>
+    <category>Magazine</category>
+    <desc>Alain Marschall revisite et décrypte l'actualité (Lire la suite).</desc>
     <credits>
       <name function="presenter">Alain Marschall</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_15_20:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208213000 +0100" stop="20151208220000 +0100">
+  <programme channel="test" start="20151208203000 +0100" stop="20151208210000 +0100">
     <length units="minutes">30</length>
     <title>20h30 Live</title>
-    <category>journal</category>
-    <desc>En compagnie des spécialistes de la chaîne, Alain Marschall dresse un tour d'horizon de l'actualité du jour.</desc>
+    <category>Journal</category>
+    <desc>En compagnie des spécialistes de la chaîne,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Alain Marschall</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_15_20:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208220000 +0100" stop="20151208230000 +0100">
+  <programme channel="test" start="20151208210000 +0100" stop="20151208220000 +0100">
     <length units="minutes">60</length>
     <title>News et compagnie</title>
-    <category>magazine</category>
-    <desc>Nathalie Levy accueille un invité pendant une heure. Ensemble, ils se penchent sur son actualité et abordent les infos du jour.</desc>
+    <category>Magazine</category>
+    <desc>Nathalie Levy accueille un invité pendant une... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Nathalie Lévy</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_15_21:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208230000 +0100" stop="20151209010000 +0100">
+  <programme channel="test" start="20151208220000 +0100" stop="20151209000000 +0100">
     <length units="minutes">120</length>
     <title>Grand angle</title>
-    <category>magazine</category>
-    <desc>Jean-Baptiste Boursier pilote cette émission de décryptage de l'actualité qui repose sur deux piliers : le reportage et le débat.</desc>
+    <category>Magazine</category>
+    <desc>Jean-Baptiste Boursier pilote cette émission... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Baptiste Boursier</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_15_22:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209010000 +0100" stop="20151209053000 +0100">
+  <programme channel="test" start="20151209000000 +0100" stop="20151209043000 +0100">
     <length units="minutes">270</length>
     <title>Le journal de la nuit</title>
-    <category>journal</category>
-    <desc />
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Rachid M'Barki</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_15_00:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209053000 +0100" stop="20151209070000 +0100">
+  <programme channel="test" start="20151209043000 +0100" stop="20151209060000 +0100">
     <length units="minutes">90</length>
     <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Tout voir, tout savoir avant d'aller travailler. (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Dominique Mari,</name>
       <name function="presenter">Céline Moncel</name>
-      <name function="presenter">Dominique Mari</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_15_04:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209070000 +0100" stop="20151209093500 +0100">
+  <programme channel="test" start="20151209060000 +0100" stop="20151209083500 +0100">
     <length units="minutes">155</length>
     <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Tout voir, tout savoir avant d'aller travailler. (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Christophe Delay,</name>
       <name function="presenter">Pascale de La Tour du Pin</name>
-      <name function="presenter">Christophe Delay</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_15_06:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209093500 +0100" stop="20151209100000 +0100">
+  <programme channel="test" start="20151209083500 +0100" stop="20151209090000 +0100">
     <length units="minutes">25</length>
     <title>Bourdin direct</title>
-    <category>magazine</category>
-    <desc>Un face à face percutant avec une personnalité qui fait l'actualité.</desc>
+    <category>Magazine</category>
+    <desc>Un face à face percutant avec une personnalité (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Jacques Bourdin</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_15_08:35.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209100000 +0100" stop="20151209130000 +0100">
+  <programme channel="test" start="20151209090000 +0100" stop="20151209120000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Roselyne Dubois</name>
+      <name function="presenter">Roselyne Dubois,</name>
       <name function="presenter">Damien Gourlet</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_15_09:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209130000 +0100" stop="20151209160000 +0100">
+  <programme channel="test" start="20151209120000 +0100" stop="20151209150000 +0100">
     <length units="minutes">180</length>
     <title>Midi-15h</title>
-    <category>journal</category>
-    <desc>Le cocktail d'infos de la mi-journée. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Le cocktail d'infos de la mi-journée. Au... (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Ronald Guintrange,</name>
       <name function="presenter">Karine de Ménonville</name>
-      <name function="presenter">Ronald Guintrange</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_15_12:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209160000 +0100" stop="20151209190000 +0100">
+  <programme channel="test" start="20151209150000 +0100" stop="20151209180000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Florence Duprat</name>
+      <name function="presenter">Florence Duprat,</name>
       <name function="presenter">Gilane Barret</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_15_15:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209190000 +0100" stop="20151209200000 +0100">
+  <programme channel="test" start="20151209180000 +0100" stop="20151209190000 +0100">
     <length units="minutes">60</length>
     <title>BFM Story</title>
-    <category>magazine</category>
-    <desc>Retour sur le fait marquant du jour.</desc>
+    <category>Magazine</category>
+    <desc>Retour sur le fait marquant du jour. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Olivier Truchot</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_15_18:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209200000 +0100" stop="20151209210000 +0100">
+  <programme channel="test" start="20151209190000 +0100" stop="20151209200000 +0100">
     <length units="minutes">60</length>
     <title>19h Ruth Elkrief</title>
-    <category>journal</category>
-    <desc>En compagnie d'invités, Ruth Elkrief revient sur l'actualité politique du jour.</desc>
+    <category>Journal</category>
+    <desc>En compagnie d'invités, Ruth Elkrief revient... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Ruth Elkrief</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_15_19:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209210000 +0100" stop="20151209213000 +0100">
+  <programme channel="test" start="20151209200000 +0100" stop="20151209203000 +0100">
     <length units="minutes">30</length>
     <title>20h politique</title>
-    <category>magazine</category>
-    <desc>Alain Marschall revisite et décrypte l'actualité politique du jour.</desc>
+    <category>Magazine</category>
+    <desc>Alain Marschall revisite et décrypte l'actualité (Lire la suite).</desc>
     <credits>
       <name function="presenter">Alain Marschall</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_15_20:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209213000 +0100" stop="20151209220000 +0100">
+  <programme channel="test" start="20151209203000 +0100" stop="20151209210000 +0100">
     <length units="minutes">30</length>
     <title>20h30 Live</title>
-    <category>journal</category>
-    <desc>En compagnie des spécialistes de la chaîne, Alain Marschall dresse un tour d'horizon de l'actualité du jour.</desc>
+    <category>Journal</category>
+    <desc>En compagnie des spécialistes de la chaîne,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Alain Marschall</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_15_20:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209220000 +0100" stop="20151209230000 +0100">
+  <programme channel="test" start="20151209210000 +0100" stop="20151209220000 +0100">
     <length units="minutes">60</length>
     <title>News et compagnie</title>
-    <category>magazine</category>
-    <desc>Nathalie Levy accueille un invité pendant une heure. Ensemble, ils se penchent sur son actualité et abordent les infos du jour.</desc>
+    <category>Magazine</category>
+    <desc>Nathalie Levy accueille un invité pendant une... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Nathalie Lévy</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_15_21:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209230000 +0100" stop="20151210010000 +0100">
+  <programme channel="test" start="20151209220000 +0100" stop="20151210000000 +0100">
     <length units="minutes">120</length>
     <title>Grand angle</title>
-    <category>magazine</category>
-    <desc>Jean-Baptiste Boursier pilote cette émission de décryptage de l'actualité qui repose sur deux piliers : le reportage et le débat.</desc>
+    <category>Magazine</category>
+    <desc>Jean-Baptiste Boursier pilote cette émission... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Baptiste Boursier</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_15_22:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210010000 +0100" stop="20151210053000 +0100">
+  <programme channel="test" start="20151210000000 +0100" stop="20151210043000 +0100">
     <length units="minutes">270</length>
     <title>Le journal de la nuit</title>
-    <category>journal</category>
-    <desc />
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Rachid M'Barki</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_15_00:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210053000 +0100" stop="20151210070000 +0100">
+  <programme channel="test" start="20151210043000 +0100" stop="20151210060000 +0100">
     <length units="minutes">90</length>
     <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Tout voir, tout savoir avant d'aller travailler. (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Dominique Mari,</name>
       <name function="presenter">Céline Moncel</name>
-      <name function="presenter">Dominique Mari</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_15_04:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210070000 +0100" stop="20151210093500 +0100">
+  <programme channel="test" start="20151210060000 +0100" stop="20151210083500 +0100">
     <length units="minutes">155</length>
     <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Tout voir, tout savoir avant d'aller travailler. (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Christophe Delay,</name>
       <name function="presenter">Pascale de La Tour du Pin</name>
-      <name function="presenter">Christophe Delay</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_15_06:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210093500 +0100" stop="20151210100000 +0100">
+  <programme channel="test" start="20151210083500 +0100" stop="20151210090000 +0100">
     <length units="minutes">25</length>
     <title>Bourdin direct</title>
-    <category>magazine</category>
-    <desc>Un face à face percutant avec une personnalité qui fait l'actualité.</desc>
+    <category>Magazine</category>
+    <desc>Un face à face percutant avec une personnalité (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Jacques Bourdin</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_15_08:35.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210100000 +0100" stop="20151210130000 +0100">
+  <programme channel="test" start="20151210090000 +0100" stop="20151210120000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Roselyne Dubois</name>
+      <name function="presenter">Roselyne Dubois,</name>
       <name function="presenter">Damien Gourlet</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_15_09:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210130000 +0100" stop="20151210160000 +0100">
+  <programme channel="test" start="20151210120000 +0100" stop="20151210150000 +0100">
     <length units="minutes">180</length>
     <title>Midi-15h</title>
-    <category>journal</category>
-    <desc>Le cocktail d'infos de la mi-journée. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Le cocktail d'infos de la mi-journée. Au... (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Ronald Guintrange,</name>
       <name function="presenter">Karine de Ménonville</name>
-      <name function="presenter">Ronald Guintrange</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_15_12:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210160000 +0100" stop="20151210190000 +0100">
+  <programme channel="test" start="20151210150000 +0100" stop="20151210180000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Florence Duprat</name>
+      <name function="presenter">Florence Duprat,</name>
       <name function="presenter">Gilane Barret</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_15_15:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210190000 +0100" stop="20151210200000 +0100">
+  <programme channel="test" start="20151210180000 +0100" stop="20151210190000 +0100">
     <length units="minutes">60</length>
     <title>BFM Story</title>
-    <category>magazine</category>
-    <desc>Retour sur le fait marquant du jour.</desc>
+    <category>Magazine</category>
+    <desc>Retour sur le fait marquant du jour. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Olivier Truchot</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_15_18:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210200000 +0100" stop="20151210210000 +0100">
+  <programme channel="test" start="20151210190000 +0100" stop="20151210200000 +0100">
     <length units="minutes">60</length>
     <title>19h Ruth Elkrief</title>
-    <category>journal</category>
-    <desc>En compagnie d'invités, Ruth Elkrief revient sur l'actualité politique du jour.</desc>
+    <category>Journal</category>
+    <desc>En compagnie d'invités, Ruth Elkrief revient... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Ruth Elkrief</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_15_19:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210210000 +0100" stop="20151210213000 +0100">
+  <programme channel="test" start="20151210200000 +0100" stop="20151210203000 +0100">
     <length units="minutes">30</length>
     <title>20h politique</title>
-    <category>magazine</category>
-    <desc>Alain Marschall revisite et décrypte l'actualité politique du jour.</desc>
+    <category>Magazine</category>
+    <desc>Alain Marschall revisite et décrypte l'actualité (Lire la suite).</desc>
     <credits>
       <name function="presenter">Alain Marschall</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_15_20:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210213000 +0100" stop="20151210220000 +0100">
+  <programme channel="test" start="20151210203000 +0100" stop="20151210210000 +0100">
     <length units="minutes">30</length>
     <title>20h30 Live</title>
-    <category>journal</category>
-    <desc>En compagnie des spécialistes de la chaîne, Alain Marschall dresse un tour d'horizon de l'actualité du jour.</desc>
+    <category>Journal</category>
+    <desc>En compagnie des spécialistes de la chaîne,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Alain Marschall</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_15_20:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210220000 +0100" stop="20151210230000 +0100">
+  <programme channel="test" start="20151210210000 +0100" stop="20151210220000 +0100">
     <length units="minutes">60</length>
     <title>News et compagnie</title>
-    <category>magazine</category>
-    <desc>Nathalie Levy accueille un invité pendant une heure. Ensemble, ils se penchent sur son actualité et abordent les infos du jour.</desc>
+    <category>Magazine</category>
+    <desc>Nathalie Levy accueille un invité pendant une... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Nathalie Lévy</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_15_21:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210230000 +0100" stop="20151211010000 +0100">
+  <programme channel="test" start="20151210220000 +0100" stop="20151211000000 +0100">
     <length units="minutes">120</length>
     <title>Grand angle</title>
-    <category>magazine</category>
-    <desc>Jean-Baptiste Boursier pilote cette émission de décryptage de l'actualité qui repose sur deux piliers : le reportage et le débat.</desc>
+    <category>Magazine</category>
+    <desc>Jean-Baptiste Boursier pilote cette émission... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Baptiste Boursier</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_15_22:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211010000 +0100" stop="20151211053000 +0100">
+  <programme channel="test" start="20151211000000 +0100" stop="20151211043000 +0100">
     <length units="minutes">270</length>
     <title>Le journal de la nuit</title>
-    <category>journal</category>
-    <desc />
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Rachid M'Barki</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_15_00:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211053000 +0100" stop="20151211070000 +0100">
+  <programme channel="test" start="20151211043000 +0100" stop="20151211060000 +0100">
     <length units="minutes">90</length>
     <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Tout voir, tout savoir avant d'aller travailler. (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Dominique Mari,</name>
       <name function="presenter">Céline Moncel</name>
-      <name function="presenter">Dominique Mari</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_15_04:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211070000 +0100" stop="20151211093500 +0100">
+  <programme channel="test" start="20151211060000 +0100" stop="20151211083500 +0100">
     <length units="minutes">155</length>
     <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Tout voir, tout savoir avant d'aller travailler. (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Christophe Delay,</name>
       <name function="presenter">Pascale de La Tour du Pin</name>
-      <name function="presenter">Christophe Delay</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_15_06:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211093500 +0100" stop="20151211100000 +0100">
+  <programme channel="test" start="20151211083500 +0100" stop="20151211090000 +0100">
     <length units="minutes">25</length>
     <title>Bourdin direct</title>
-    <category>magazine</category>
-    <desc>Un face à face percutant avec une personnalité qui fait l'actualité.</desc>
+    <category>Magazine</category>
+    <desc>Un face à face percutant avec une personnalité (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Jacques Bourdin</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_15_08:35.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211100000 +0100" stop="20151211130000 +0100">
+  <programme channel="test" start="20151211090000 +0100" stop="20151211120000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Roselyne Dubois</name>
+      <name function="presenter">Roselyne Dubois,</name>
       <name function="presenter">Damien Gourlet</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_15_09:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211130000 +0100" stop="20151211160000 +0100">
+  <programme channel="test" start="20151211120000 +0100" stop="20151211150000 +0100">
     <length units="minutes">180</length>
     <title>Midi-15h</title>
-    <category>journal</category>
-    <desc>Le cocktail d'infos de la mi-journée. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Le cocktail d'infos de la mi-journée. Au... (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Ronald Guintrange,</name>
       <name function="presenter">Karine de Ménonville</name>
-      <name function="presenter">Ronald Guintrange</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_15_12:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211160000 +0100" stop="20151211190000 +0100">
+  <programme channel="test" start="20151211150000 +0100" stop="20151211180000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Florence Duprat</name>
+      <name function="presenter">Florence Duprat,</name>
       <name function="presenter">Gilane Barret</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_15_15:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211190000 +0100" stop="20151211200000 +0100">
+  <programme channel="test" start="20151211180000 +0100" stop="20151211190000 +0100">
     <length units="minutes">60</length>
     <title>BFM Story</title>
-    <category>magazine</category>
-    <desc>Retour sur le fait marquant du jour.</desc>
+    <category>Magazine</category>
+    <desc>Retour sur le fait marquant du jour. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Olivier Truchot</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_15_18:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211200000 +0100" stop="20151211210000 +0100">
+  <programme channel="test" start="20151211190000 +0100" stop="20151211200000 +0100">
     <length units="minutes">60</length>
     <title>19h Ruth Elkrief</title>
-    <category>journal</category>
-    <desc>En compagnie d'invités, Ruth Elkrief revient sur l'actualité politique du jour.</desc>
+    <category>Journal</category>
+    <desc>En compagnie d'invités, Ruth Elkrief revient... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Ruth Elkrief</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_15_19:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211210000 +0100" stop="20151211220000 +0100">
+  <programme channel="test" start="20151211200000 +0100" stop="20151211210000 +0100">
     <length units="minutes">60</length>
     <title>Le 20h</title>
-    <category>journal</category>
-    <desc>Retour sur l'actualité nationale et internationale du jour.</desc>
+    <category>Journal</category>
+    <desc>Retour sur l'actualité nationale et internationale (Lire la suite).</desc>
     <credits>
       <name function="presenter">Lucie Nuttin</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_15_20:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211220000 +0100" stop="20151211230000 +0100">
+  <programme channel="test" start="20151211210000 +0100" stop="20151211220000 +0100">
     <length units="minutes">60</length>
     <title>L'histoire en direct</title>
-    <category>magazine</category>
-    <desc>Pascale de la Tour du Pin, Fabrice d'Almeida, spécialiste en Histoire, et Hervé Gattegno, éditorialiste politique, revisitent l'actualité de la semaine en remontant le temps.</desc>
+    <category>Magazine</category>
+    <desc>Pascale de la Tour du Pin, Fabrice d'Almeida,... (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Hervé Gattegno,</name>
+      <name function="presenter">Fabrice d'Almeida,</name>
       <name function="presenter">Pascale de La Tour du Pin</name>
-      <name function="presenter">Fabrice d'Almeida</name>
-      <name function="presenter">Hervé Gattegno</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_15_21:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211230000 +0100" stop="20151212010000 +0100">
+  <programme channel="test" start="20151211220000 +0100" stop="20151212000000 +0100">
     <length units="minutes">120</length>
     <title>Week-end direct</title>
-    <category>journal</category>
-    <desc>Le tour complet des infos du jour, sur l'ensemble de la planète : un panorama à 360 degrés qui couvre tous les angles de l'actualité internationale.</desc>
+    <category>Journal</category>
+    <desc>Le tour complet des infos du jour, sur... (Lire la suite).</desc>
     <credits>
       <name function="presenter">François Gapihan</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_15_22:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212010000 +0100" stop="20151212070000 +0100">
+  <programme channel="test" start="20151212000000 +0100" stop="20151212060000 +0100">
     <length units="minutes">360</length>
     <title>Le journal de la nuit</title>
-    <category>journal</category>
-    <desc />
+    <category>Journal</category>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Lucie Nuttin</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_15_00:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212070000 +0100" stop="20151212110000 +0100">
+  <programme channel="test" start="20151212060000 +0100" stop="20151212100000 +0100">
     <length units="minutes">240</length>
     <title>Week-end première</title>
-    <category>journal</category>
-    <desc>Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Au sommaire : (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Sandra Gandoin</name>
+      <name function="presenter">Sandra Gandoin,</name>
       <name function="presenter">Benjamin Dubois</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_15_06:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212110000 +0100" stop="20151212120000 +0100">
+  <programme channel="test" start="20151212100000 +0100" stop="20151212110000 +0100">
     <length units="minutes">60</length>
     <title>L'histoire en direct</title>
-    <category>magazine</category>
-    <desc>Pascale de la Tour du Pin, Fabrice d'Almeida, spécialiste en Histoire, et Hervé Gattegno, éditorialiste politique, revisitent l'actualité de la semaine en remontant le temps.</desc>
+    <category>Magazine</category>
+    <desc>Pascale de la Tour du Pin, Fabrice d'Almeida,... (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Hervé Gattegno,</name>
+      <name function="presenter">Fabrice d'Almeida,</name>
       <name function="presenter">Pascale de La Tour du Pin</name>
-      <name function="presenter">Fabrice d'Almeida</name>
-      <name function="presenter">Hervé Gattegno</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_15_10:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212120000 +0100" stop="20151212140000 +0100">
+  <programme channel="test" start="20151212110000 +0100" stop="20151212130000 +0100">
     <length units="minutes">120</length>
     <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Philippe Gaudin,</name>
       <name function="presenter">Stéphanie de Muru</name>
-      <name function="presenter">Philippe Gaudin</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_15_11:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212140000 +0100" stop="20151212160000 +0100">
+  <programme channel="test" start="20151212130000 +0100" stop="20151212150000 +0100">
     <length units="minutes">120</length>
     <title>7 jours BFM</title>
-    <category>magazine</category>
-    <desc>En compagnie d'invités qui font l'actualité, Thomas Misrachi revient sur les grands événements de la semaine écoulée.</desc>
+    <category>Magazine</category>
+    <desc>En compagnie d'invités qui font l'actualité,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Thomas Misrachi</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_15_13:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212160000 +0100" stop="20151212180000 +0100">
+  <programme channel="test" start="20151212150000 +0100" stop="20151212170000 +0100">
     <length units="minutes">120</length>
     <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Céline Pitelet</name>
+      <name function="presenter">Céline Pitelet,</name>
       <name function="presenter">Igor Sahiri</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_15_15:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212180000 +0100" stop="20151212190000 +0100">
+  <programme channel="test" start="20151212170000 +0100" stop="20151212180000 +0100">
     <length units="minutes">60</length>
     <title>L'histoire en direct</title>
-    <category>magazine</category>
-    <desc>Pascale de la Tour du Pin, Fabrice d'Almeida, spécialiste en Histoire, et Hervé Gattegno, éditorialiste politique, revisitent l'actualité de la semaine en remontant le temps.</desc>
+    <category>Magazine</category>
+    <desc>Pascale de la Tour du Pin, Fabrice d'Almeida,... (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Hervé Gattegno,</name>
+      <name function="presenter">Fabrice d'Almeida,</name>
       <name function="presenter">Pascale de La Tour du Pin</name>
-      <name function="presenter">Fabrice d'Almeida</name>
-      <name function="presenter">Hervé Gattegno</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_15_17:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212190000 +0100" stop="20151212210000 +0100">
+  <programme channel="test" start="20151212180000 +0100" stop="20151212200000 +0100">
     <length units="minutes">120</length>
     <title>7 jours BFM</title>
-    <category>magazine</category>
-    <desc>En compagnie d'invités qui font l'actualité, Thomas Misrachi revient sur les grands événements de la semaine écoulée.</desc>
+    <category>Magazine</category>
+    <desc>En compagnie d'invités qui font l'actualité,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Thomas Misrachi</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_15_18:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212210000 +0100" stop="20151212220000 +0100">
+  <programme channel="test" start="20151212200000 +0100" stop="20151212210000 +0100">
     <length units="minutes">60</length>
     <title>Le 20h</title>
-    <category>journal</category>
-    <desc>Retour sur l'actualité nationale et internationale du jour.</desc>
+    <category>Journal</category>
+    <desc>Retour sur l'actualité nationale et internationale (Lire la suite).</desc>
     <credits>
       <name function="presenter">Lucie Nuttin</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_15_20:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212220000 +0100" stop="20151212233000 +0100">
+  <programme channel="test" start="20151212210000 +0100" stop="20151212223000 +0100">
     <length units="minutes">90</length>
     <title>7 jours BFM</title>
-    <category>magazine</category>
-    <desc>En compagnie d'invités qui font l'actualité, Thomas Misrachi revient sur les grands événements de la semaine écoulée.</desc>
+    <category>Magazine</category>
+    <desc>En compagnie d'invités qui font l'actualité,... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Thomas Misrachi</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_15_21:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212233000 +0100" stop="20151213010000 +0100">
+  <programme channel="test" start="20151212223000 +0100" stop="20151213000000 +0100">
     <length units="minutes">90</length>
     <title>Week-end direct</title>
-    <category>journal</category>
-    <desc>Le tour complet des infos du jour, sur l'ensemble de la planète : un panorama à 360 degrés qui couvre tous les angles de l'actualité internationale.</desc>
+    <category>Journal</category>
+    <desc>Le tour complet des infos du jour, sur... (Lire la suite).</desc>
     <credits>
       <name function="presenter">François Gapihan</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_15_22:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213010000 +0100" stop="20151213070000 +0100">
+  <programme channel="test" start="20151213000000 +0100" stop="20151213060000 +0100">
     <length units="minutes">360</length>
     <title>Le journal de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale.</desc>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Lucie Nuttin</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_15_00:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213070000 +0100" stop="20151213110000 +0100">
+  <programme channel="test" start="20151213060000 +0100" stop="20151213100000 +0100">
     <length units="minutes">240</length>
     <title>Week-end première</title>
-    <category>journal</category>
-    <desc>Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Au sommaire : (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Sandra Gandoin</name>
+      <name function="presenter">Sandra Gandoin,</name>
       <name function="presenter">Benjamin Dubois</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_15_06:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213110000 +0100" stop="20151213150000 +0100">
+  <programme channel="test" start="20151213100000 +0100" stop="20151213140000 +0100">
     <length units="minutes">240</length>
     <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Philippe Gaudin,</name>
       <name function="presenter">Stéphanie de Muru</name>
-      <name function="presenter">Philippe Gaudin</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_15_10:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213150000 +0100" stop="20151213190000 +0100">
+  <programme channel="test" start="20151213140000 +0100" stop="20151213180000 +0100">
     <length units="minutes">240</length>
     <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Céline Pitelet</name>
+      <name function="presenter">Céline Pitelet,</name>
       <name function="presenter">Igor Sahiri</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_15_14:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213190000 +0100" stop="20151214000000 +0100">
+  <programme channel="test" start="20151213180000 +0100" stop="20151213230000 +0100">
     <length units="minutes">300</length>
     <title>Elections régionales 2015</title>
-    <category>politique</category>
-    <desc>En compagnie d'invités, les journalistes de BFM TV analysent et commentent le taux de participation et les derniers moments de vote. A partir de vingt heures, ils dévoilent les premières estimations des résultats des élections régionales.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_15_18:00.jpg</image>
+    <category />
+    <desc>Second tour En compagnie d'invités, les journalistes de... (Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214000000 +0100" stop="20151214010000 +0100">
+  <programme channel="test" start="20151213230000 +0100" stop="20151214000000 +0100">
     <length units="minutes">60</length>
     <title>Week-end direct</title>
-    <category>journal</category>
-    <desc>Le tour complet des infos du jour, sur l'ensemble de la planète : un panorama à 360 degrés qui couvre tous les angles de l'actualité internationale.</desc>
+    <category>Journal</category>
+    <desc>Le tour complet des infos du jour, sur... (Lire la suite).</desc>
     <credits>
       <name function="presenter">François Gapihan</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_15_23:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214010000 +0100" stop="20151214053000 +0100">
+  <programme channel="test" start="20151214000000 +0100" stop="20151214043000 +0100">
     <length units="minutes">270</length>
     <title>Le journal de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale.</desc>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale... (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Lucie Nuttin</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_15_00:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214053000 +0100" stop="20151214070000 +0100">
+  <programme channel="test" start="20151214043000 +0100" stop="20151214060000 +0100">
     <length units="minutes">90</length>
     <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Tout voir, tout savoir avant d'aller travailler. (Lire la suite).(n)</desc>
     <credits>
+      <name function="presenter">Dominique Mari,</name>
       <name function="presenter">Céline Moncel</name>
-      <name function="presenter">Dominique Mari</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_15_04:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214070000 +0100" stop="20151214093500 +0100">
+  <programme channel="test" start="20151214060000 +0100" stop="20151214083500 +0100">
     <length units="minutes">155</length>
     <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Tout voir, tout savoir avant d'aller travailler. (Lire la suite).(n)</desc>
     <credits>
+      <name function="presenter">Christophe Delay,</name>
       <name function="presenter">Pascale de La Tour du Pin</name>
-      <name function="presenter">Christophe Delay</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_15_06:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214093500 +0100" stop="20151214100000 +0100">
+  <programme channel="test" start="20151214083500 +0100" stop="20151214090000 +0100">
     <length units="minutes">25</length>
     <title>Bourdin direct</title>
-    <category>magazine</category>
-    <desc>Un face à face percutant avec une personnalité qui fait l'actualité.</desc>
+    <category>Magazine</category>
+    <desc>Un face à face percutant avec une personnalité (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Jean-Jacques Bourdin</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_15_08:35.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214100000 +0100" stop="20151214130000 +0100">
+  <programme channel="test" start="20151214090000 +0100" stop="20151214120000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Roselyne Dubois</name>
+      <name function="presenter">Roselyne Dubois,</name>
       <name function="presenter">Damien Gourlet</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_15_09:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214130000 +0100" stop="20151214160000 +0100">
+  <programme channel="test" start="20151214120000 +0100" stop="20151214150000 +0100">
     <length units="minutes">180</length>
     <title>Midi-15h</title>
-    <category>journal</category>
-    <desc>Le cocktail d'infos de la mi-journée. Au sommaire :</desc>
+    <category>Journal</category>
+    <desc>Le cocktail d'infos de la mi-journée. Au... (Lire la suite).(n)</desc>
     <credits>
+      <name function="presenter">Ronald Guintrange,</name>
       <name function="presenter">Karine de Ménonville</name>
-      <name function="presenter">Ronald Guintrange</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_15_12:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214160000 +0100" stop="20151214190000 +0100">
+  <programme channel="test" start="20151214150000 +0100" stop="20151214180000 +0100">
     <length units="minutes">180</length>
     <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
+    <category>Journal</category>
+    <desc>Toute l'info constamment mise à jour, avec un... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Florence Duprat</name>
+      <name function="presenter">Florence Duprat,</name>
       <name function="presenter">Gilane Barret</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_15_15:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214190000 +0100" stop="20151214200000 +0100">
+  <programme channel="test" start="20151214180000 +0100" stop="20151214190000 +0100">
     <length units="minutes">60</length>
     <title>BFM Story</title>
-    <category>magazine</category>
-    <desc>Retour sur le fait marquant du jour.</desc>
+    <category>Magazine</category>
+    <desc>Retour sur le fait marquant du jour. (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Olivier Truchot</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_15_18:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214200000 +0100" stop="20151214210000 +0100">
+  <programme channel="test" start="20151214190000 +0100" stop="20151214200000 +0100">
     <length units="minutes">60</length>
     <title>19h Ruth Elkrief</title>
-    <category>journal</category>
-    <desc>En compagnie d'invités, Ruth Elkrief revient sur l'actualité politique du jour.</desc>
+    <category>Journal</category>
+    <desc>En compagnie d'invités, Ruth Elkrief revient... (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Ruth Elkrief</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_15_19:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214210000 +0100" stop="20151214213000 +0100">
+  <programme channel="test" start="20151214200000 +0100" stop="20151214203000 +0100">
     <length units="minutes">30</length>
     <title>20h politique</title>
-    <category>magazine</category>
-    <desc>Alain Marschall revisite et décrypte l'actualité politique du jour.</desc>
+    <category>Magazine</category>
+    <desc>Alain Marschall revisite et décrypte l'actualité (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Alain Marschall</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_15_20:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214213000 +0100" stop="20151214220000 +0100">
+  <programme channel="test" start="20151214203000 +0100" stop="20151214210000 +0100">
     <length units="minutes">30</length>
     <title>20h30 Live</title>
-    <category>journal</category>
-    <desc>En compagnie des spécialistes de la chaîne, Alain Marschall dresse un tour d'horizon de l'actualité du jour.</desc>
+    <category>Journal</category>
+    <desc>En compagnie des spécialistes de la chaîne,... (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Alain Marschall</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_15_20:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214220000 +0100" stop="20151214230000 +0100">
+  <programme channel="test" start="20151214210000 +0100" stop="20151214220000 +0100">
     <length units="minutes">60</length>
     <title>News et compagnie</title>
-    <category>magazine</category>
-    <desc>Nathalie Levy accueille un invité pendant une heure. Ensemble, ils se penchent sur son actualité et abordent les infos du jour.</desc>
+    <category>Magazine</category>
+    <desc>Nathalie Levy accueille un invité pendant une... (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Nathalie Lévy</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_15_21:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214230000 +0100" stop="20151215010000 +0100">
+  <programme channel="test" start="20151214220000 +0100" stop="20151215000000 +0100">
     <length units="minutes">120</length>
     <title>Grand angle</title>
-    <category>magazine</category>
-    <desc>Jean-Baptiste Boursier pilote cette émission de décryptage de l'actualité qui repose sur deux piliers : le reportage et le débat.</desc>
+    <category>Magazine</category>
+    <desc>Jean-Baptiste Boursier pilote cette émission... (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Jean-Baptiste Boursier</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_15_22:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215010000 +0100" stop="20151215053000 +0100">
-    <length units="minutes">270</length>
-    <title>Le journal de la nuit</title>
-    <category>journal</category>
-    <desc />
-    <credits>
-      <name function="presenter">Rachid M'Barki</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_15_00:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215053000 +0100" stop="20151215070000 +0100">
-    <length units="minutes">90</length>
-    <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Céline Moncel</name>
-      <name function="presenter">Dominique Mari</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_15_04:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215070000 +0100" stop="20151215093500 +0100">
-    <length units="minutes">155</length>
-    <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Pascale de La Tour du Pin</name>
-      <name function="presenter">Christophe Delay</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_15_06:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215093500 +0100" stop="20151215100000 +0100">
-    <length units="minutes">25</length>
-    <title>Bourdin direct</title>
-    <category>magazine</category>
-    <desc>Un face à face percutant avec une personnalité qui fait l'actualité.</desc>
-    <credits>
-      <name function="presenter">Jean-Jacques Bourdin</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_15_08:35.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215100000 +0100" stop="20151215130000 +0100">
-    <length units="minutes">180</length>
-    <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
-    <credits>
-      <name function="presenter">Roselyne Dubois</name>
-      <name function="presenter">Damien Gourlet</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_15_09:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215130000 +0100" stop="20151215160000 +0100">
-    <length units="minutes">180</length>
-    <title>Midi-15h</title>
-    <category>journal</category>
-    <desc>Le cocktail d'infos de la mi-journée. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Karine de Ménonville</name>
-      <name function="presenter">Ronald Guintrange</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_15_12:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215160000 +0100" stop="20151215190000 +0100">
-    <length units="minutes">180</length>
-    <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
-    <credits>
-      <name function="presenter">Florence Duprat</name>
-      <name function="presenter">Gilane Barret</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_15_15:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215190000 +0100" stop="20151215200000 +0100">
-    <length units="minutes">60</length>
-    <title>BFM Story</title>
-    <category>magazine</category>
-    <desc>Retour sur le fait marquant du jour.</desc>
-    <credits>
-      <name function="presenter">Olivier Truchot</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_15_18:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215200000 +0100" stop="20151215210000 +0100">
-    <length units="minutes">60</length>
-    <title>19h Ruth Elkrief</title>
-    <category>journal</category>
-    <desc>En compagnie d'invités, Ruth Elkrief revient sur l'actualité politique du jour.</desc>
-    <credits>
-      <name function="presenter">Ruth Elkrief</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_15_19:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215210000 +0100" stop="20151215213000 +0100">
-    <length units="minutes">30</length>
-    <title>20h politique</title>
-    <category>magazine</category>
-    <desc>Alain Marschall revisite et décrypte l'actualité politique du jour.</desc>
-    <credits>
-      <name function="presenter">Alain Marschall</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_15_20:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215213000 +0100" stop="20151215220000 +0100">
-    <length units="minutes">30</length>
-    <title>20h30 Live</title>
-    <category>journal</category>
-    <desc>En compagnie des spécialistes de la chaîne, Alain Marschall dresse un tour d'horizon de l'actualité du jour.</desc>
-    <credits>
-      <name function="presenter">Alain Marschall</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_15_20:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215220000 +0100" stop="20151215230000 +0100">
-    <length units="minutes">60</length>
-    <title>News et compagnie</title>
-    <category>magazine</category>
-    <desc>Nathalie Levy accueille un invité pendant une heure. Ensemble, ils se penchent sur son actualité et abordent les infos du jour.</desc>
-    <credits>
-      <name function="presenter">Nathalie Lévy</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_15_21:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215230000 +0100" stop="20151216010000 +0100">
-    <length units="minutes">120</length>
-    <title>Grand angle</title>
-    <category>magazine</category>
-    <desc>Jean-Baptiste Boursier pilote cette émission de décryptage de l'actualité qui repose sur deux piliers : le reportage et le débat.</desc>
-    <credits>
-      <name function="presenter">Jean-Baptiste Boursier</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_15_22:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216010000 +0100" stop="20151216053000 +0100">
-    <length units="minutes">270</length>
-    <title>Le journal de la nuit</title>
-    <category>journal</category>
-    <desc />
-    <credits>
-      <name function="presenter">Rachid M'Barki</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_15_00:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216053000 +0100" stop="20151216070000 +0100">
-    <length units="minutes">90</length>
-    <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Céline Moncel</name>
-      <name function="presenter">Dominique Mari</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_15_04:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216070000 +0100" stop="20151216093500 +0100">
-    <length units="minutes">155</length>
-    <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Pascale de La Tour du Pin</name>
-      <name function="presenter">Christophe Delay</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_15_06:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216093500 +0100" stop="20151216100000 +0100">
-    <length units="minutes">25</length>
-    <title>Bourdin direct</title>
-    <category>magazine</category>
-    <desc>Un face à face percutant avec une personnalité qui fait l'actualité.</desc>
-    <credits>
-      <name function="presenter">Jean-Jacques Bourdin</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_15_08:35.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216100000 +0100" stop="20151216130000 +0100">
-    <length units="minutes">180</length>
-    <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
-    <credits>
-      <name function="presenter">Roselyne Dubois</name>
-      <name function="presenter">Damien Gourlet</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_15_09:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216130000 +0100" stop="20151216160000 +0100">
-    <length units="minutes">180</length>
-    <title>Midi-15h</title>
-    <category>journal</category>
-    <desc>Le cocktail d'infos de la mi-journée. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Karine de Ménonville</name>
-      <name function="presenter">Ronald Guintrange</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_15_12:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216160000 +0100" stop="20151216190000 +0100">
-    <length units="minutes">180</length>
-    <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
-    <credits>
-      <name function="presenter">Florence Duprat</name>
-      <name function="presenter">Gilane Barret</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_15_15:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216190000 +0100" stop="20151216200000 +0100">
-    <length units="minutes">60</length>
-    <title>BFM Story</title>
-    <category>magazine</category>
-    <desc>Retour sur le fait marquant du jour.</desc>
-    <credits>
-      <name function="presenter">Olivier Truchot</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_15_18:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216200000 +0100" stop="20151216210000 +0100">
-    <length units="minutes">60</length>
-    <title>19h Ruth Elkrief</title>
-    <category>journal</category>
-    <desc>En compagnie d'invités, Ruth Elkrief revient sur l'actualité politique du jour.</desc>
-    <credits>
-      <name function="presenter">Ruth Elkrief</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_15_19:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216210000 +0100" stop="20151216213000 +0100">
-    <length units="minutes">30</length>
-    <title>20h politique</title>
-    <category>magazine</category>
-    <desc>Alain Marschall revisite et décrypte l'actualité politique du jour.</desc>
-    <credits>
-      <name function="presenter">Alain Marschall</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_15_20:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216213000 +0100" stop="20151216220000 +0100">
-    <length units="minutes">30</length>
-    <title>20h30 Live</title>
-    <category>journal</category>
-    <desc>En compagnie des spécialistes de la chaîne, Alain Marschall dresse un tour d'horizon de l'actualité du jour.</desc>
-    <credits>
-      <name function="presenter">Alain Marschall</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_15_20:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216220000 +0100" stop="20151216230000 +0100">
-    <length units="minutes">60</length>
-    <title>News et compagnie</title>
-    <category>magazine</category>
-    <desc>Nathalie Levy accueille un invité pendant une heure. Ensemble, ils se penchent sur son actualité et abordent les infos du jour.</desc>
-    <credits>
-      <name function="presenter">Nathalie Lévy</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_15_21:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216230000 +0100" stop="20151217010000 +0100">
-    <length units="minutes">120</length>
-    <title>Grand angle</title>
-    <category>magazine</category>
-    <desc>Jean-Baptiste Boursier pilote cette émission de décryptage de l'actualité qui repose sur deux piliers : le reportage et le débat.</desc>
-    <credits>
-      <name function="presenter">Jean-Baptiste Boursier</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_15_22:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217010000 +0100" stop="20151217053000 +0100">
-    <length units="minutes">270</length>
-    <title>Le journal de la nuit</title>
-    <category>journal</category>
-    <desc />
-    <credits>
-      <name function="presenter">Rachid M'Barki</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_15_00:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217053000 +0100" stop="20151217070000 +0100">
-    <length units="minutes">90</length>
-    <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Céline Moncel</name>
-      <name function="presenter">Dominique Mari</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_15_04:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217070000 +0100" stop="20151217093500 +0100">
-    <length units="minutes">155</length>
-    <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Pascale de La Tour du Pin</name>
-      <name function="presenter">Christophe Delay</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_15_06:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217093500 +0100" stop="20151217100000 +0100">
-    <length units="minutes">25</length>
-    <title>Bourdin direct</title>
-    <category>magazine</category>
-    <desc>Un face à face percutant avec une personnalité qui fait l'actualité.</desc>
-    <credits>
-      <name function="presenter">Jean-Jacques Bourdin</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_15_08:35.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217100000 +0100" stop="20151217130000 +0100">
-    <length units="minutes">180</length>
-    <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
-    <credits>
-      <name function="presenter">Roselyne Dubois</name>
-      <name function="presenter">Damien Gourlet</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_15_09:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217130000 +0100" stop="20151217160000 +0100">
-    <length units="minutes">180</length>
-    <title>Midi-15h</title>
-    <category>journal</category>
-    <desc>Le cocktail d'infos de la mi-journée. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Karine de Ménonville</name>
-      <name function="presenter">Ronald Guintrange</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_15_12:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217160000 +0100" stop="20151217190000 +0100">
-    <length units="minutes">180</length>
-    <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
-    <credits>
-      <name function="presenter">Florence Duprat</name>
-      <name function="presenter">Gilane Barret</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_15_15:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217190000 +0100" stop="20151217200000 +0100">
-    <length units="minutes">60</length>
-    <title>BFM Story</title>
-    <category>magazine</category>
-    <desc>Retour sur le fait marquant du jour.</desc>
-    <credits>
-      <name function="presenter">Olivier Truchot</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_15_18:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217200000 +0100" stop="20151217210000 +0100">
-    <length units="minutes">60</length>
-    <title>19h Ruth Elkrief</title>
-    <category>journal</category>
-    <desc>En compagnie d'invités, Ruth Elkrief revient sur l'actualité politique du jour.</desc>
-    <credits>
-      <name function="presenter">Ruth Elkrief</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_15_19:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217210000 +0100" stop="20151217213000 +0100">
-    <length units="minutes">30</length>
-    <title>20h politique</title>
-    <category>magazine</category>
-    <desc>Alain Marschall revisite et décrypte l'actualité politique du jour.</desc>
-    <credits>
-      <name function="presenter">Alain Marschall</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_15_20:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217213000 +0100" stop="20151217220000 +0100">
-    <length units="minutes">30</length>
-    <title>20h30 Live</title>
-    <category>journal</category>
-    <desc>En compagnie des spécialistes de la chaîne, Alain Marschall dresse un tour d'horizon de l'actualité du jour.</desc>
-    <credits>
-      <name function="presenter">Alain Marschall</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_15_20:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217220000 +0100" stop="20151217230000 +0100">
-    <length units="minutes">60</length>
-    <title>News et compagnie</title>
-    <category>magazine</category>
-    <desc>Nathalie Levy accueille un invité pendant une heure. Ensemble, ils se penchent sur son actualité et abordent les infos du jour.</desc>
-    <credits>
-      <name function="presenter">Nathalie Lévy</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_15_21:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217230000 +0100" stop="20151218010000 +0100">
-    <length units="minutes">120</length>
-    <title>Grand angle</title>
-    <category>magazine</category>
-    <desc>Jean-Baptiste Boursier pilote cette émission de décryptage de l'actualité qui repose sur deux piliers : le reportage et le débat.</desc>
-    <credits>
-      <name function="presenter">Jean-Baptiste Boursier</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_15_22:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218010000 +0100" stop="20151218053000 +0100">
-    <length units="minutes">270</length>
-    <title>Le journal de la nuit</title>
-    <category>journal</category>
-    <desc />
-    <credits>
-      <name function="presenter">Rachid M'Barki</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_15_00:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218053000 +0100" stop="20151218070000 +0100">
-    <length units="minutes">90</length>
-    <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Céline Moncel</name>
-      <name function="presenter">Dominique Mari</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_15_04:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218070000 +0100" stop="20151218093500 +0100">
-    <length units="minutes">155</length>
-    <title>Première édition</title>
-    <category>journal</category>
-    <desc>Tout voir, tout savoir avant d'aller travailler. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Pascale de La Tour du Pin</name>
-      <name function="presenter">Christophe Delay</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_15_06:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218093500 +0100" stop="20151218100000 +0100">
-    <length units="minutes">25</length>
-    <title>Bourdin direct</title>
-    <category>magazine</category>
-    <desc>Un face à face percutant avec une personnalité qui fait l'actualité.</desc>
-    <credits>
-      <name function="presenter">Jean-Jacques Bourdin</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_15_08:35.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218100000 +0100" stop="20151218130000 +0100">
-    <length units="minutes">180</length>
-    <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
-    <credits>
-      <name function="presenter">Roselyne Dubois</name>
-      <name function="presenter">Damien Gourlet</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_15_09:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218130000 +0100" stop="20151218160000 +0100">
-    <length units="minutes">180</length>
-    <title>Midi-15h</title>
-    <category>journal</category>
-    <desc>Le cocktail d'infos de la mi-journée. Au sommaire :</desc>
-    <credits>
-      <name function="presenter">Karine de Ménonville</name>
-      <name function="presenter">Ronald Guintrange</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_15_12:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218160000 +0100" stop="20151218190000 +0100">
-    <length units="minutes">180</length>
-    <title>Non Stop</title>
-    <category>journal</category>
-    <desc>Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
-    <credits>
-      <name function="presenter">Florence Duprat</name>
-      <name function="presenter">Gilane Barret</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_15_15:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218190000 +0100" stop="20151218200000 +0100">
-    <length units="minutes">60</length>
-    <title>BFM Story</title>
-    <category>magazine</category>
-    <desc>Retour sur le fait marquant du jour.</desc>
-    <credits>
-      <name function="presenter">Olivier Truchot</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_15_18:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218200000 +0100" stop="20151218210000 +0100">
-    <length units="minutes">60</length>
-    <title>19h Ruth Elkrief</title>
-    <category>journal</category>
-    <desc>En compagnie d'invités, Ruth Elkrief revient sur l'actualité politique du jour.</desc>
-    <credits>
-      <name function="presenter">Ruth Elkrief</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_15_19:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218210000 +0100" stop="20151218220000 +0100">
-    <length units="minutes">60</length>
-    <title>Le 20h</title>
-    <category>journal</category>
-    <desc>Retour sur l'actualité nationale et internationale du jour.</desc>
-    <credits>
-      <name function="presenter">Lucie Nuttin</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_15_20:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218220000 +0100" stop="20151218230000 +0100">
-    <length units="minutes">60</length>
-    <title>L'histoire en direct</title>
-    <category>magazine</category>
-    <desc>Pascale de la Tour du Pin, Fabrice d'Almeida, spécialiste en Histoire, et Hervé Gattegno, éditorialiste politique, revisitent l'actualité de la semaine en remontant le temps.</desc>
-    <credits>
-      <name function="presenter">Pascale de La Tour du Pin</name>
-      <name function="presenter">Fabrice d'Almeida</name>
-      <name function="presenter">Hervé Gattegno</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_15_21:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218230000 +0100" stop="20151219010000 +0100">
-    <length units="minutes">120</length>
-    <title>Week-end direct</title>
-    <category>journal</category>
-    <desc>Le tour complet des infos du jour, sur l'ensemble de la planète : un panorama à 360 degrés qui couvre tous les angles de l'actualité internationale.</desc>
-    <credits>
-      <name function="presenter">François Gapihan</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_15_22:00.jpg</image>
+    <image />
   </programme>
 </tv>

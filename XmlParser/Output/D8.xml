@@ -1,252 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="D8">
-    <display-name>burger</display-name>
+    <display-name>test</display-name>
   </channel>
-  <programme channel="burger" start="20151207022500 +0100" stop="20151207084500 +0100">
-    <length units="minutes">380</length>
-    <title>Programmes de la nuit</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207084500 +0100" stop="20151207100000 +0100">
-    <length units="minutes">75</length>
-    <title>Gym direct</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Mohamed,</name>
-      <name function="presenter">Emma,</name>
-      <name function="presenter">Kevin,</name>
-      <name function="presenter">Marion,</name>
-      <name function="presenter">Sandrine Arcizet,</name>
-      <name function="presenter">Constant</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207100000 +0100" stop="20151207103500 +0100">
-    <length units="minutes">35</length>
-    <title>Télé-achat</title>
-    <category>Magazine</category>
-    <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207103500 +0100" stop="20151207124500 +0100">
-    <length units="minutes">130</length>
-    <title>Touche pas à mon poste !</title>
-    <category>Divertissement</category>
-    <desc>Débats enflammés et chroniques décalées sont... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Gérard Louvin,</name>
-      <name function="presenter">Elie Semoun,</name>
-      <name function="presenter">Angela Lorente,</name>
-      <name function="presenter">Christophe Carrière,</name>
-      <name function="presenter">Jean-Luc Lemoine,</name>
-      <name function="presenter">Valérie Benaïm,</name>
-      <name function="presenter">Julien Courbet,</name>
-      <name function="presenter">Thierry Moreau,</name>
-      <name function="presenter">Cyril Hanouna,</name>
-      <name function="presenter">Isabelle Morini-Bosc,</name>
-      <name function="presenter">Nadège Beausson-Diagne,</name>
-      <name function="presenter">Gilles Verdez,</name>
-      <name function="presenter">Caroline Ithurbide,</name>
-      <name function="presenter">Eric Dussart,</name>
-      <name function="presenter">Matthieu Delormeau,</name>
-      <name function="presenter">Camille Combal,</name>
-      <name function="presenter">Erika Moulet,</name>
-      <name function="presenter">Jean-Michel Maire,</name>
-      <name function="presenter">Issa Doumbia,</name>
-      <name function="presenter">Enora Malagré,</name>
-      <name function="presenter">Bertrand Chameroy,</name>
-      <name function="presenter">Emilie Lopez</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207124500 +0100" stop="20151207140000 +0100">
-    <length units="minutes">75</length>
-    <title>Le grand 8</title>
-    <category>Talk show</category>
-    <desc>Cinq femmes reviennent sur l'actualité du... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Roselyne Bachelot,</name>
-      <name function="presenter">Laurence Ferrari,</name>
-      <name function="presenter">Elisabeth Bost,</name>
-      <name function="presenter">Aïda Touihri,</name>
-      <name function="presenter">Hapsatou Sy</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207140000 +0100" stop="20151207141000 +0100">
-    <length units="minutes">10</length>
-    <title>D8 le JT</title>
-    <category>Journal</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Adrienne de Malleray</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207141000 +0100" stop="20151207143500 +0100">
-    <length units="minutes">25</length>
-    <title>Pawn Stars, les rois des enchères</title>
-    <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207143500 +0100" stop="20151207150000 +0100">
-    <length units="minutes">25</length>
-    <title>Pawn Stars, les rois des enchères</title>
-    <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207150000 +0100" stop="20151207153000 +0100">
-    <length units="minutes">30</length>
-    <title>Pawn Stars, les rois des enchères</title>
-    <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207153000 +0100" stop="20151207171500 +0100">
-    <length units="minutes">105</length>
-    <title>Inspecteur Barnaby</title>
-    <category>Téléfilm</category>
-    <desc>Dans le village de Ferne Basset, un vieil... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Jeremy Silberston</name>
-      <name function="actor">John Nettles</name>
-      <name function="actor">Denise Alexander</name>
-      <name function="actor">Janine Duvitski</name>
-      <name function="actor">Ian Fitzgibbon</name>
-      <name function="actor">Daniel Casey</name>
-      <name function="actor">Jane Wymark</name>
-      <name function="actor">Laura Howard</name>
-      <name function="actor">Barry Jackson</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207171500 +0100" stop="20151207191500 +0100">
-    <length units="minutes">120</length>
-    <title>Inspecteur Barnaby</title>
-    <category>Téléfilm</category>
-    <desc>Menant une paisible existence, Caroline et... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Peter Smith</name>
-      <name function="actor">John Nettles</name>
-      <name function="actor">George Baker</name>
-      <name function="actor">Ruth Gemmell</name>
-      <name function="actor">Jane Wymark</name>
-      <name function="actor">Barry Jackson</name>
-      <name function="actor">Jason Hughes</name>
-      <name function="actor">Caroline Faber</name>
-      <name function="actor">Katy Brittain</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207191500 +0100" stop="20151207195000 +0100">
-    <length units="minutes">35</length>
-    <title>Pawn Stars, les rois des enchères</title>
-    <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207195000 +0100" stop="20151207205000 +0100">
-    <length units="minutes">60</length>
-    <title>Touche pas à mon sport !</title>
-    <category>Magazine</category>
-    <desc>Empoignades, mauvaise foi, bonne humeur,... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Dominique Grimault,</name>
-      <name function="presenter">Henri Leconte,</name>
-      <name function="presenter">Jérôme Bureau,</name>
-      <name function="presenter">Lionel Charbonnier,</name>
-      <name function="presenter">Laurent Sciarra,</name>
-      <name function="presenter">Estelle Denis,</name>
-      <name function="presenter">Raymond Domenech,</name>
-      <name function="presenter">Aïda Touihri,</name>
-      <name function="presenter">Daniel Riolo,</name>
-      <name function="presenter">Francesca Antoniotti,</name>
-      <name function="presenter">Marie Portolano,</name>
-      <name function="presenter">Philippe Carayon</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207205000 +0100" stop="20151207225500 +0100">
-    <length units="minutes">125</length>
-    <title>Touche pas à mon poste !</title>
-    <category>Divertissement</category>
-    <desc>Débats enflammés et chroniques décalées sont... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Gérard Louvin,</name>
-      <name function="presenter">Elie Semoun,</name>
-      <name function="presenter">Angela Lorente,</name>
-      <name function="presenter">Christophe Carrière,</name>
-      <name function="presenter">Jean-Luc Lemoine,</name>
-      <name function="presenter">Valérie Benaïm,</name>
-      <name function="presenter">Julien Courbet,</name>
-      <name function="presenter">Thierry Moreau,</name>
-      <name function="presenter">Cyril Hanouna,</name>
-      <name function="presenter">Isabelle Morini-Bosc,</name>
-      <name function="presenter">Nadège Beausson-Diagne,</name>
-      <name function="presenter">Gilles Verdez,</name>
-      <name function="presenter">Caroline Ithurbide,</name>
-      <name function="presenter">Eric Dussart,</name>
-      <name function="presenter">Matthieu Delormeau,</name>
-      <name function="presenter">Camille Combal,</name>
-      <name function="presenter">Erika Moulet,</name>
-      <name function="presenter">Jean-Michel Maire,</name>
-      <name function="presenter">Issa Doumbia,</name>
-      <name function="presenter">Enora Malagré,</name>
-      <name function="presenter">Bertrand Chameroy,</name>
-      <name function="presenter">Emilie Lopez</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207225500 +0100" stop="20151208005000 +0100">
-    <length units="minutes">115</length>
-    <title>Rambo III (?)</title>
-    <category>Film</category>
-    <desc>John Rambo est de retour de sa dernière... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Peter MacDonald</name>
-      <name function="actor">Marc de Jonge</name>
-      <name function="actor">Richard Crenna</name>
-      <name function="actor">Kurtwood Smith</name>
-      <name function="actor">Sylvester Stallone</name>
-      <name function="actor">Sasson Gabai</name>
-      <name function="actor">Doudi Shoua</name>
-      <name function="actor">Spiros Focás</name>
-      <name function="actor">Randy Raney</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208005000 +0100" stop="20151208023000 +0100">
-    <length units="minutes">100</length>
-    <title>Rambo II : la mission (?)</title>
-    <category>Film</category>
-    <desc>Ex-combattant du Viêtnam, John Rambo purge... (Lire la suite).</desc>
-    <credits>
-      <name function="director">George P Cosmatos</name>
-      <name function="actor">Charles Napier</name>
-      <name function="actor">Richard Crenna</name>
-      <name function="actor">Sylvester Stallone</name>
-      <name function="actor">Steven Berkoff</name>
-      <name function="actor">Martin Kove</name>
-      <name function="actor">Julia Nickson</name>
-      <name function="actor">Andy Wood</name>
-      <name function="actor">George Cheung</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208023000 +0100" stop="20151208084500 +0100">
+  <programme channel="test" start="20151208003000 +0100" stop="20151208064500 +0100">
     <length units="minutes">375</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208084500 +0100" stop="20151208100000 +0100">
+  <programme channel="test" start="20151208064500 +0100" stop="20151208080000 +0100">
     <length units="minutes">75</length>
     <title>Gym direct</title>
     <category />
@@ -261,14 +25,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208100000 +0100" stop="20151208103500 +0100">
+  <programme channel="test" start="20151208080000 +0100" stop="20151208083500 +0100">
     <length units="minutes">35</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208103500 +0100" stop="20151208124500 +0100">
+  <programme channel="test" start="20151208083500 +0100" stop="20151208104500 +0100">
     <length units="minutes">130</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -299,7 +63,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208124500 +0100" stop="20151208140000 +0100">
+  <programme channel="test" start="20151208104500 +0100" stop="20151208120000 +0100">
     <length units="minutes">75</length>
     <title>Le grand 8</title>
     <category>Talk show</category>
@@ -313,7 +77,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208140000 +0100" stop="20151208141000 +0100">
+  <programme channel="test" start="20151208120000 +0100" stop="20151208121000 +0100">
     <length units="minutes">10</length>
     <title>D8 le JT</title>
     <category>Journal</category>
@@ -323,28 +87,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208141000 +0100" stop="20151208143500 +0100">
+  <programme channel="test" start="20151208121000 +0100" stop="20151208123500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208143500 +0100" stop="20151208150000 +0100">
+  <programme channel="test" start="20151208123500 +0100" stop="20151208130000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208150000 +0100" stop="20151208153000 +0100">
+  <programme channel="test" start="20151208130000 +0100" stop="20151208133000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208153000 +0100" stop="20151208171500 +0100">
+  <programme channel="test" start="20151208133000 +0100" stop="20151208151500 +0100">
     <length units="minutes">105</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -362,7 +126,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208171500 +0100" stop="20151208191500 +0100">
+  <programme channel="test" start="20151208151500 +0100" stop="20151208171500 +0100">
     <length units="minutes">120</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -380,14 +144,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208191500 +0100" stop="20151208195000 +0100">
+  <programme channel="test" start="20151208171500 +0100" stop="20151208175000 +0100">
     <length units="minutes">35</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208195000 +0100" stop="20151208205000 +0100">
+  <programme channel="test" start="20151208175000 +0100" stop="20151208185000 +0100">
     <length units="minutes">60</length>
     <title>Touche pas à mon sport !</title>
     <category>Magazine</category>
@@ -408,7 +172,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208205000 +0100" stop="20151208225500 +0100">
+  <programme channel="test" start="20151208185000 +0100" stop="20151208205500 +0100">
     <length units="minutes">125</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -439,21 +203,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208225500 +0100" stop="20151209004500 +0100">
+  <programme channel="test" start="20151208205500 +0100" stop="20151208224500 +0100">
     <length units="minutes">110</length>
     <title>Au coeur du Puy du Fou, le meilleur parc au monde</title>
     <category>Documentaire</category>
     <desc>Avec plus de deux millions de visiteurs en 2015, Le Puy du Fou est le deuxième parc à thèmes le plus visité en France. Des spectacles variés,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209004500 +0100" stop="20151209014500 +0100">
+  <programme channel="test" start="20151208224500 +0100" stop="20151208234500 +0100">
     <length units="minutes">60</length>
     <title>Le Puy du Fou : la saga</title>
     <category>Documentaire</category>
     <desc>A l'origine, c'est un pari complètement fou : implanter en Vendée un spectacle historique relatant l'histoire de la région et celle de la France,... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209014500 +0100" stop="20151209033000 +0100">
+  <programme channel="test" start="20151208234500 +0100" stop="20151209013000 +0100">
     <length units="minutes">105</length>
     <title>En quête d'actualité</title>
     <category>Magazine</category>
@@ -463,14 +227,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209033000 +0100" stop="20151209084500 +0100">
+  <programme channel="test" start="20151209013000 +0100" stop="20151209064500 +0100">
     <length units="minutes">315</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209084500 +0100" stop="20151209100000 +0100">
+  <programme channel="test" start="20151209064500 +0100" stop="20151209080000 +0100">
     <length units="minutes">75</length>
     <title>Gym direct</title>
     <category />
@@ -485,14 +249,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209100000 +0100" stop="20151209103500 +0100">
+  <programme channel="test" start="20151209080000 +0100" stop="20151209083500 +0100">
     <length units="minutes">35</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209103500 +0100" stop="20151209124500 +0100">
+  <programme channel="test" start="20151209083500 +0100" stop="20151209104500 +0100">
     <length units="minutes">130</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -523,7 +287,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209124500 +0100" stop="20151209140000 +0100">
+  <programme channel="test" start="20151209104500 +0100" stop="20151209120000 +0100">
     <length units="minutes">75</length>
     <title>Le grand 8</title>
     <category>Talk show</category>
@@ -537,7 +301,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209140000 +0100" stop="20151209141000 +0100">
+  <programme channel="test" start="20151209120000 +0100" stop="20151209121000 +0100">
     <length units="minutes">10</length>
     <title>D8 le JT</title>
     <category>Journal</category>
@@ -547,28 +311,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209141000 +0100" stop="20151209143500 +0100">
+  <programme channel="test" start="20151209121000 +0100" stop="20151209123500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209143500 +0100" stop="20151209150000 +0100">
+  <programme channel="test" start="20151209123500 +0100" stop="20151209130000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209150000 +0100" stop="20151209153000 +0100">
+  <programme channel="test" start="20151209130000 +0100" stop="20151209133000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209153000 +0100" stop="20151209171500 +0100">
+  <programme channel="test" start="20151209133000 +0100" stop="20151209151500 +0100">
     <length units="minutes">105</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -586,7 +350,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209171500 +0100" stop="20151209191500 +0100">
+  <programme channel="test" start="20151209151500 +0100" stop="20151209171500 +0100">
     <length units="minutes">120</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -604,14 +368,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209191500 +0100" stop="20151209195000 +0100">
+  <programme channel="test" start="20151209171500 +0100" stop="20151209175000 +0100">
     <length units="minutes">35</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209195000 +0100" stop="20151209205000 +0100">
+  <programme channel="test" start="20151209175000 +0100" stop="20151209185000 +0100">
     <length units="minutes">60</length>
     <title>Touche pas à mon sport !</title>
     <category>Magazine</category>
@@ -632,7 +396,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209205000 +0100" stop="20151209225500 +0100">
+  <programme channel="test" start="20151209185000 +0100" stop="20151209205500 +0100">
     <length units="minutes">125</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -663,7 +427,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209225500 +0100" stop="20151210010500 +0100">
+  <programme channel="test" start="20151209205500 +0100" stop="20151209230500 +0100">
     <length units="minutes">130</length>
     <title>CQFD ! Ce qu'il fallait détourner !</title>
     <category>Divertissement</category>
@@ -681,7 +445,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210010500 +0100" stop="20151210023000 +0100">
+  <programme channel="test" start="20151209230500 +0100" stop="20151210003000 +0100">
     <length units="minutes">85</length>
     <title>Génération Canal</title>
     <category>Divertissement</category>
@@ -692,7 +456,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210023000 +0100" stop="20151210031000 +0100">
+  <programme channel="test" start="20151210003000 +0100" stop="20151210011000 +0100">
     <length units="minutes">40</length>
     <title>Langue de bois s'abstenir</title>
     <category>Magazine</category>
@@ -702,21 +466,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210031000 +0100" stop="20151210051000 +0100">
+  <programme channel="test" start="20151210011000 +0100" stop="20151210031000 +0100">
     <length units="minutes">120</length>
     <title>Football (Valence (Esp) / Lyon (Fra))</title>
     <category>Sport</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210051000 +0100" stop="20151210084500 +0100">
+  <programme channel="test" start="20151210031000 +0100" stop="20151210064500 +0100">
     <length units="minutes">215</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210084500 +0100" stop="20151210100000 +0100">
+  <programme channel="test" start="20151210064500 +0100" stop="20151210080000 +0100">
     <length units="minutes">75</length>
     <title>Gym direct</title>
     <category />
@@ -731,14 +495,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210100000 +0100" stop="20151210103500 +0100">
+  <programme channel="test" start="20151210080000 +0100" stop="20151210083500 +0100">
     <length units="minutes">35</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210103500 +0100" stop="20151210124500 +0100">
+  <programme channel="test" start="20151210083500 +0100" stop="20151210104500 +0100">
     <length units="minutes">130</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -769,7 +533,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210124500 +0100" stop="20151210140000 +0100">
+  <programme channel="test" start="20151210104500 +0100" stop="20151210120000 +0100">
     <length units="minutes">75</length>
     <title>Le grand 8</title>
     <category>Talk show</category>
@@ -783,7 +547,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210140000 +0100" stop="20151210141000 +0100">
+  <programme channel="test" start="20151210120000 +0100" stop="20151210121000 +0100">
     <length units="minutes">10</length>
     <title>D8 le JT</title>
     <category>Journal</category>
@@ -793,28 +557,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210141000 +0100" stop="20151210143500 +0100">
+  <programme channel="test" start="20151210121000 +0100" stop="20151210123500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210143500 +0100" stop="20151210150000 +0100">
+  <programme channel="test" start="20151210123500 +0100" stop="20151210130000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210150000 +0100" stop="20151210153000 +0100">
+  <programme channel="test" start="20151210130000 +0100" stop="20151210133000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210153000 +0100" stop="20151210171500 +0100">
+  <programme channel="test" start="20151210133000 +0100" stop="20151210151500 +0100">
     <length units="minutes">105</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -832,7 +596,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210171500 +0100" stop="20151210191500 +0100">
+  <programme channel="test" start="20151210151500 +0100" stop="20151210171500 +0100">
     <length units="minutes">120</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -850,14 +614,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210191500 +0100" stop="20151210195000 +0100">
+  <programme channel="test" start="20151210171500 +0100" stop="20151210175000 +0100">
     <length units="minutes">35</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210195000 +0100" stop="20151210205000 +0100">
+  <programme channel="test" start="20151210175000 +0100" stop="20151210185000 +0100">
     <length units="minutes">60</length>
     <title>Touche pas à mon sport !</title>
     <category>Magazine</category>
@@ -878,7 +642,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210205000 +0100" stop="20151210225500 +0100">
+  <programme channel="test" start="20151210185000 +0100" stop="20151210205500 +0100">
     <length units="minutes">125</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -909,11 +673,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210225500 +0100" stop="20151211011500 +0100">
+  <programme channel="test" start="20151210205500 +0100" stop="20151210231500 +0100">
     <length units="minutes">140</length>
     <title>Family Man (?)</title>
     <category>Film</category>
-    <desc>Jack Campbell et Kate Reynolds sont très... (Lire la suite).(r)</desc>
+    <desc>Jack Campbell et Kate Reynolds sont très amoureux. Pourtant, un beau jour, Jack la quitte pour aller gagner ses galons de courtier. Treize ans... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Brett Ratner</name>
       <name function="actor">Nicolas Cage</name>
@@ -927,7 +691,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211011500 +0100" stop="20151211024500 +0100">
+  <programme channel="test" start="20151210231500 +0100" stop="20151211004500 +0100">
     <length units="minutes">90</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -958,14 +722,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211024500 +0100" stop="20151211084500 +0100">
+  <programme channel="test" start="20151211004500 +0100" stop="20151211064500 +0100">
     <length units="minutes">360</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211084500 +0100" stop="20151211100000 +0100">
+  <programme channel="test" start="20151211064500 +0100" stop="20151211080000 +0100">
     <length units="minutes">75</length>
     <title>Gym direct</title>
     <category />
@@ -980,14 +744,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211100000 +0100" stop="20151211103500 +0100">
+  <programme channel="test" start="20151211080000 +0100" stop="20151211083500 +0100">
     <length units="minutes">35</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211103500 +0100" stop="20151211124500 +0100">
+  <programme channel="test" start="20151211083500 +0100" stop="20151211104500 +0100">
     <length units="minutes">130</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -1018,7 +782,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211124500 +0100" stop="20151211140000 +0100">
+  <programme channel="test" start="20151211104500 +0100" stop="20151211120000 +0100">
     <length units="minutes">75</length>
     <title>Le grand 8</title>
     <category>Talk show</category>
@@ -1032,7 +796,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211140000 +0100" stop="20151211141000 +0100">
+  <programme channel="test" start="20151211120000 +0100" stop="20151211121000 +0100">
     <length units="minutes">10</length>
     <title>D8 le JT</title>
     <category>Journal</category>
@@ -1042,28 +806,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211141000 +0100" stop="20151211143500 +0100">
+  <programme channel="test" start="20151211121000 +0100" stop="20151211123500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211143500 +0100" stop="20151211150000 +0100">
+  <programme channel="test" start="20151211123500 +0100" stop="20151211130000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211150000 +0100" stop="20151211153000 +0100">
+  <programme channel="test" start="20151211130000 +0100" stop="20151211133000 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211153000 +0100" stop="20151211171500 +0100">
+  <programme channel="test" start="20151211133000 +0100" stop="20151211151500 +0100">
     <length units="minutes">105</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -1081,7 +845,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211171500 +0100" stop="20151211191500 +0100">
+  <programme channel="test" start="20151211151500 +0100" stop="20151211171500 +0100">
     <length units="minutes">120</length>
     <title>Inspecteur Barnaby</title>
     <category>Téléfilm</category>
@@ -1099,14 +863,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211191500 +0100" stop="20151211195000 +0100">
+  <programme channel="test" start="20151211171500 +0100" stop="20151211175000 +0100">
     <length units="minutes">35</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
     <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211195000 +0100" stop="20151211205000 +0100">
+  <programme channel="test" start="20151211175000 +0100" stop="20151211185000 +0100">
     <length units="minutes">60</length>
     <title>Touche pas à mon sport !</title>
     <category>Magazine</category>
@@ -1127,7 +891,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211205000 +0100" stop="20151211225500 +0100">
+  <programme channel="test" start="20151211185000 +0100" stop="20151211205500 +0100">
     <length units="minutes">125</length>
     <title>Touche pas à mon poste !</title>
     <category>Divertissement</category>
@@ -1158,14 +922,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211225500 +0100" stop="20151212010500 +0100">
+  <programme channel="test" start="20151211205500 +0100" stop="20151211230500 +0100">
     <length units="minutes">130</length>
     <title>Les Chevaliers du fiel</title>
     <category>Spectacle</category>
     <desc>Après avoir raconté les tribulations en mer de monsieur et madame Lambert dans «Croisière d'enfer», les Chevaliers du fiel endossent une nouvelle... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212010500 +0100" stop="20151212024500 +0100">
+  <programme channel="test" start="20151211230500 +0100" stop="20151212004500 +0100">
     <length units="minutes">100</length>
     <title>La folle histoire des Chevaliers du fiel !</title>
     <category>Documentaire</category>
@@ -1175,28 +939,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212024500 +0100" stop="20151212083000 +0100">
+  <programme channel="test" start="20151212004500 +0100" stop="20151212063000 +0100">
     <length units="minutes">345</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212083000 +0100" stop="20151212110000 +0100">
+  <programme channel="test" start="20151212063000 +0100" stop="20151212090000 +0100">
     <length units="minutes">150</length>
     <title>Télé-achat</title>
     <category>Magazine</category>
     <desc>Pour faire les boutiques sans sortir de chez... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212110000 +0100" stop="20151212152500 +0100">
+  <programme channel="test" start="20151212090000 +0100" stop="20151212132500 +0100">
     <length units="minutes">265</length>
     <title>Le zap</title>
     <category>Divertissement</category>
     <desc>Une suite de séquences enregistrées sur les... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212152500 +0100" stop="20151212154000 +0100">
+  <programme channel="test" start="20151212132500 +0100" stop="20151212134000 +0100">
     <length units="minutes">15</length>
     <title>D8 le JT</title>
     <category>Journal</category>
@@ -1206,7 +970,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212154000 +0100" stop="20151212172000 +0100">
+  <programme channel="test" start="20151212134000 +0100" stop="20151212152000 +0100">
     <length units="minutes">100</length>
     <title>Jeunesse volée</title>
     <category>Téléfilm</category>
@@ -1224,7 +988,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212172000 +0100" stop="20151212190000 +0100">
+  <programme channel="test" start="20151212152000 +0100" stop="20151212170000 +0100">
     <length units="minutes">100</length>
     <title>Beauté criminelle</title>
     <category>Téléfilm</category>
@@ -1242,7 +1006,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212190000 +0100" stop="20151212205000 +0100">
+  <programme channel="test" start="20151212170000 +0100" stop="20151212185000 +0100">
     <length units="minutes">110</length>
     <title>Passion fatale</title>
     <category>Téléfilm</category>
@@ -1260,7 +1024,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212205000 +0100" stop="20151212225500 +0100">
+  <programme channel="test" start="20151212185000 +0100" stop="20151212205500 +0100">
     <length units="minutes">125</length>
     <title>Direct Auto</title>
     <category>Magazine</category>
@@ -1270,7 +1034,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212225500 +0100" stop="20151213004500 +0100">
+  <programme channel="test" start="20151212205500 +0100" stop="20151212224500 +0100">
     <length units="minutes">110</length>
     <title>Les animaux de Noël</title>
     <category>Magazine</category>
@@ -1281,7 +1045,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213004500 +0100" stop="20151213015500 +0100">
+  <programme channel="test" start="20151212224500 +0100" stop="20151212235500 +0100">
     <length units="minutes">70</length>
     <title>Le bêtisier des «Animaux de la 8»</title>
     <category>Magazine</category>
@@ -1292,7 +1056,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213015500 +0100" stop="20151213040500 +0100">
+  <programme channel="test" start="20151212235500 +0100" stop="20151213020500 +0100">
     <length units="minutes">130</length>
     <title>Les animaux de l'hiver</title>
     <category>Magazine</category>
@@ -1303,64 +1067,64 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213040500 +0100" stop="20151213090000 +0100">
+  <programme channel="test" start="20151213020500 +0100" stop="20151213070000 +0100">
     <length units="minutes">295</length>
     <title>Programmes de la nuit</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213090000 +0100" stop="20151213110000 +0100">
+  <programme channel="test" start="20151213070000 +0100" stop="20151213090000 +0100">
     <length units="minutes">120</length>
     <title>Le zap</title>
     <category>Divertissement</category>
-    <desc>Une suite de séquences enregistrées sur les... (Lire la suite).(n)</desc>
+    <desc>Une suite de séquences enregistrées sur les... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213110000 +0100" stop="20151213120000 +0100">
+  <programme channel="test" start="20151213090000 +0100" stop="20151213100000 +0100">
     <length units="minutes">60</length>
     <title>A vos régions</title>
     <category>Magazine</category>
-    <desc>Sans fard, sans paillettes, le cap Corse... (Lire la suite).(n)</desc>
+    <desc>Sans fard, sans paillettes, le cap Corse... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Grégory Galiffi</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213120000 +0100" stop="20151213122500 +0100">
+  <programme channel="test" start="20151213100000 +0100" stop="20151213102500 +0100">
     <length units="minutes">25</length>
     <title>Les animaux de la 8</title>
     <category>Magazine</category>
-    <desc>En Laponie, Sandrine Arcizet et Elodie... (Lire la suite).(n)</desc>
+    <desc>En Laponie, Sandrine Arcizet et Elodie... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Sandrine Arcizet,</name>
       <name function="presenter">Elodie Ageron</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213122500 +0100" stop="20151213125500 +0100">
+  <programme channel="test" start="20151213102500 +0100" stop="20151213105500 +0100">
     <length units="minutes">30</length>
     <title>Les animaux de la 8</title>
     <category>Magazine</category>
-    <desc>Chien de traîneau, mouton, aigle... en piste pour la Haute-Savoie ! En Haute-Savoie, Sandrine Arcizet explore les... (Lire la suite).(n)</desc>
+    <desc>Chien de traîneau, mouton, aigle... en piste pour la Haute-Savoie ! En Haute-Savoie, Sandrine Arcizet explore les... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213125500 +0100" stop="20151213133000 +0100">
+  <programme channel="test" start="20151213105500 +0100" stop="20151213113000 +0100">
     <length units="minutes">35</length>
     <title>Les animaux de la 8</title>
     <category>Magazine</category>
-    <desc>Dans le Haut-Jura, Elodie Ageron fait la... (Lire la suite).(n)</desc>
+    <desc>Dans le Haut-Jura, Elodie Ageron fait la... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Sandrine Arcizet,</name>
       <name function="presenter">Elodie Ageron</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213133000 +0100" stop="20151213140500 +0100">
+  <programme channel="test" start="20151213113000 +0100" stop="20151213120500 +0100">
     <length units="minutes">35</length>
     <title>Les animaux de la 8</title>
     <category>Magazine</category>
-    <desc>Escapade animalière en Haute-Provence et dans... (Lire la suite).(n)</desc>
+    <desc>Escapade animalière en Haute-Provence et dans... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Sandrine Arcizet,</name>
       <name function="presenter">Elodie Ageron,</name>
@@ -1368,43 +1132,43 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213140500 +0100" stop="20151213144000 +0100">
+  <programme channel="test" start="20151213120500 +0100" stop="20151213124000 +0100">
     <length units="minutes">35</length>
     <title>Les animaux de la 8</title>
     <category>Magazine</category>
-    <desc>Dans les Vosges, Sandrine Arcizet et Elodie... (Lire la suite).(n)</desc>
+    <desc>Dans les Vosges, Sandrine Arcizet et Elodie... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Sandrine Arcizet,</name>
       <name function="presenter">Elodie Ageron</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213144000 +0100" stop="20151213152500 +0100">
+  <programme channel="test" start="20151213124000 +0100" stop="20151213132500 +0100">
     <length units="minutes">45</length>
     <title>Les animaux de la 8</title>
     <category>Magazine</category>
-    <desc>Au Pays basque, Elodie Ageron a rencontré... (Lire la suite).(n)</desc>
+    <desc>Au Pays basque, Elodie Ageron a rencontré... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Sandrine Arcizet,</name>
       <name function="presenter">Elodie Ageron</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213152500 +0100" stop="20151213153000 +0100">
+  <programme channel="test" start="20151213132500 +0100" stop="20151213133000 +0100">
     <length units="minutes">5</length>
     <title>D8 le JT</title>
     <category>Journal</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Elé Asu</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213153000 +0100" stop="20151213171500 +0100">
+  <programme channel="test" start="20151213133000 +0100" stop="20151213151500 +0100">
     <length units="minutes">105</length>
     <title>Sous les yeux d'un intrus</title>
     <category>Téléfilm</category>
-    <desc>David Summer, accusé de viol par Jessica... (Lire la suite).(n)</desc>
+    <desc>David Summer, accusé de viol par Jessica... (Lire la suite).</desc>
     <credits>
       <name function="director">Douglas Campbell</name>
       <name function="actor">Todd McKee</name>
@@ -1418,11 +1182,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213171500 +0100" stop="20151213190000 +0100">
+  <programme channel="test" start="20151213151500 +0100" stop="20151213170000 +0100">
     <length units="minutes">105</length>
     <title>Photos interdites</title>
     <category>Téléfilm</category>
-    <desc>Gage Sullivan, une photographe, travaille... (Lire la suite).(n)</desc>
+    <desc>Gage Sullivan, une photographe, travaille... (Lire la suite).</desc>
     <credits>
       <name function="director">Gail Harvey</name>
       <name function="actor">Colm Feore</name>
@@ -1436,74 +1200,74 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213190000 +0100" stop="20151213192500 +0100">
+  <programme channel="test" start="20151213170000 +0100" stop="20151213172500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).(n)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213192500 +0100" stop="20151213195000 +0100">
+  <programme channel="test" start="20151213172500 +0100" stop="20151213175000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).(n)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213195000 +0100" stop="20151213201500 +0100">
+  <programme channel="test" start="20151213175000 +0100" stop="20151213181500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).(n)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213201500 +0100" stop="20151213204000 +0100">
+  <programme channel="test" start="20151213181500 +0100" stop="20151213184000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).(n)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213204000 +0100" stop="20151213210500 +0100">
+  <programme channel="test" start="20151213184000 +0100" stop="20151213190500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).(n)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213210500 +0100" stop="20151213213000 +0100">
+  <programme channel="test" start="20151213190500 +0100" stop="20151213193000 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).(n)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213213000 +0100" stop="20151213215500 +0100">
+  <programme channel="test" start="20151213193000 +0100" stop="20151213195500 +0100">
     <length units="minutes">25</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).(n)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213215500 +0100" stop="20151213222500 +0100">
+  <programme channel="test" start="20151213195500 +0100" stop="20151213202500 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).(n)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213222500 +0100" stop="20151213225500 +0100">
+  <programme channel="test" start="20151213202500 +0100" stop="20151213205500 +0100">
     <length units="minutes">30</length>
     <title>Pawn Stars, les rois des enchères</title>
     <category>Documentaire</category>
-    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).(n)</desc>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213225500 +0100" stop="20151214004500 +0100">
+  <programme channel="test" start="20151213205500 +0100" stop="20151213224500 +0100">
     <length units="minutes">110</length>
     <title>Le diable par la queue (?)</title>
     <category>Film</category>
-    <desc>La marquise, la comtesse Diane et la baronne... (Lire la suite).(n)</desc>
+    <desc>La marquise, la comtesse Diane et la baronne Amélie ont beau représenter trois générations de femmes d'une même famille aristocratique, leur... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Philippe de Broca</name>
       <name function="actor">Yves Montand</name>
@@ -1517,13 +1281,250 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151214004500 +0100" stop="20151214023000 +0100">
+  <programme channel="test" start="20151213224500 +0100" stop="20151214003000 +0100">
     <length units="minutes">105</length>
     <title>En quête d'actualité</title>
     <category>Magazine</category>
-    <desc>Une émission d'actualité présentée par Guy... (Lire la suite).(n)</desc>
+    <desc>Une émission d'actualité présentée par Guy... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Guy Lagache</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214003000 +0100" stop="20151214064500 +0100">
+    <length units="minutes">375</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214064500 +0100" stop="20151214080000 +0100">
+    <length units="minutes">75</length>
+    <title>Gym direct</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Mohamed,</name>
+      <name function="presenter">Emma,</name>
+      <name function="presenter">Kevin,</name>
+      <name function="presenter">Marion,</name>
+      <name function="presenter">Sandrine Arcizet,</name>
+      <name function="presenter">Constant</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214080000 +0100" stop="20151214083500 +0100">
+    <length units="minutes">35</length>
+    <title>Télé-achat</title>
+    <category>Magazine</category>
+    <desc>Pour faire les boutiques sans sortir de chez soi. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214083500 +0100" stop="20151214104500 +0100">
+    <length units="minutes">130</length>
+    <title>Touche pas à mon poste !</title>
+    <category>Divertissement</category>
+    <desc>Débats enflammés et chroniques décalées sont au programme de cette émission pleine d'humour consacrée à la télévision animée par des amateurs du... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Gérard Louvin,</name>
+      <name function="presenter">Elie Semoun,</name>
+      <name function="presenter">Angela Lorente,</name>
+      <name function="presenter">Christophe Carrière,</name>
+      <name function="presenter">Jean-Luc Lemoine,</name>
+      <name function="presenter">Valérie Benaïm,</name>
+      <name function="presenter">Julien Courbet,</name>
+      <name function="presenter">Thierry Moreau,</name>
+      <name function="presenter">Cyril Hanouna,</name>
+      <name function="presenter">Isabelle Morini-Bosc,</name>
+      <name function="presenter">Nadège Beausson-Diagne,</name>
+      <name function="presenter">Gilles Verdez,</name>
+      <name function="presenter">Caroline Ithurbide,</name>
+      <name function="presenter">Eric Dussart,</name>
+      <name function="presenter">Matthieu Delormeau,</name>
+      <name function="presenter">Camille Combal,</name>
+      <name function="presenter">Erika Moulet,</name>
+      <name function="presenter">Jean-Michel Maire,</name>
+      <name function="presenter">Issa Doumbia,</name>
+      <name function="presenter">Enora Malagré,</name>
+      <name function="presenter">Bertrand Chameroy,</name>
+      <name function="presenter">Emilie Lopez</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214104500 +0100" stop="20151214120000 +0100">
+    <length units="minutes">75</length>
+    <title>Le grand 8</title>
+    <category>Talk show</category>
+    <desc>Cinq femmes reviennent sur l'actualité du moment, qu'il s'agisse de politique, de faits de société, de culture ou d'économie. Leurs propos sont... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Roselyne Bachelot,</name>
+      <name function="presenter">Laurence Ferrari,</name>
+      <name function="presenter">Elisabeth Bost,</name>
+      <name function="presenter">Aïda Touihri,</name>
+      <name function="presenter">Hapsatou Sy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214120000 +0100" stop="20151214121000 +0100">
+    <length units="minutes">10</length>
+    <title>D8 le JT</title>
+    <category>Journal</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Adrienne de Malleray</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214121000 +0100" stop="20151214123500 +0100">
+    <length units="minutes">25</length>
+    <title>Pawn Stars, les rois des enchères</title>
+    <category>Documentaire</category>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214123500 +0100" stop="20151214130000 +0100">
+    <length units="minutes">25</length>
+    <title>Pawn Stars, les rois des enchères</title>
+    <category>Documentaire</category>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214130000 +0100" stop="20151214133000 +0100">
+    <length units="minutes">30</length>
+    <title>Pawn Stars, les rois des enchères</title>
+    <category>Documentaire</category>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214133000 +0100" stop="20151214151500 +0100">
+    <length units="minutes">105</length>
+    <title>Inspecteur Barnaby</title>
+    <category>Téléfilm</category>
+    <desc>Lawrence Haggard a l'intention de moderniser certaines infrastructures de sa région. Son associé dans ce projet est Stephen Bannerman,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Richard Holthouse</name>
+      <name function="actor">John Hopkins</name>
+      <name function="actor">Jane Wymark</name>
+      <name function="actor">Laura Howard</name>
+      <name function="actor">Leon Ockenden</name>
+      <name function="actor">Sophie Hunter</name>
+      <name function="actor">Raymond Coulthard</name>
+      <name function="actor">John Nettles</name>
+      <name function="actor">William Gaunt</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214151500 +0100" stop="20151214171500 +0100">
+    <length units="minutes">120</length>
+    <title>Inspecteur Barnaby</title>
+    <category>Téléfilm</category>
+    <desc>Le vieux sir Freddy Butler a invité ses deux ex-épouses, Annabel et Lucinda, à vivre avec lui et sa nouvelle femme Tara. Lorsqu'il succombe... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Peter Smith</name>
+      <name function="actor">Siân Phillips</name>
+      <name function="actor">Joss Ackland</name>
+      <name function="actor">Jane Wymark</name>
+      <name function="actor">Jason Hughes</name>
+      <name function="actor">Sheila Ruskin</name>
+      <name function="actor">Annabel Mullion</name>
+      <name function="actor">Joanna Riding</name>
+      <name function="actor">John Nettles</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214171500 +0100" stop="20151214175000 +0100">
+    <length units="minutes">35</length>
+    <title>Pawn Stars, les rois des enchères</title>
+    <category>Documentaire</category>
+    <desc>A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214175000 +0100" stop="20151214185000 +0100">
+    <length units="minutes">60</length>
+    <title>Touche pas à mon sport !</title>
+    <category>Magazine</category>
+    <desc>Empoignades, mauvaise foi, bonne humeur, images, tacles et polémiques sont au programme de ce magazine multisports. Chaque jour, Estelle Denis,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Dominique Grimault,</name>
+      <name function="presenter">Henri Leconte,</name>
+      <name function="presenter">Jérôme Bureau,</name>
+      <name function="presenter">Lionel Charbonnier,</name>
+      <name function="presenter">Laurent Sciarra,</name>
+      <name function="presenter">Estelle Denis,</name>
+      <name function="presenter">Raymond Domenech,</name>
+      <name function="presenter">Aïda Touihri,</name>
+      <name function="presenter">Daniel Riolo,</name>
+      <name function="presenter">Francesca Antoniotti,</name>
+      <name function="presenter">Marie Portolano,</name>
+      <name function="presenter">Philippe Carayon</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214185000 +0100" stop="20151214205500 +0100">
+    <length units="minutes">125</length>
+    <title>Touche pas à mon poste !</title>
+    <category>Divertissement</category>
+    <desc>Débats enflammés et chroniques décalées sont au programme de cette émission pleine d'humour consacrée à la télévision animée par des amateurs du... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Gérard Louvin,</name>
+      <name function="presenter">Elie Semoun,</name>
+      <name function="presenter">Angela Lorente,</name>
+      <name function="presenter">Christophe Carrière,</name>
+      <name function="presenter">Jean-Luc Lemoine,</name>
+      <name function="presenter">Valérie Benaïm,</name>
+      <name function="presenter">Julien Courbet,</name>
+      <name function="presenter">Thierry Moreau,</name>
+      <name function="presenter">Cyril Hanouna,</name>
+      <name function="presenter">Isabelle Morini-Bosc,</name>
+      <name function="presenter">Nadège Beausson-Diagne,</name>
+      <name function="presenter">Gilles Verdez,</name>
+      <name function="presenter">Caroline Ithurbide,</name>
+      <name function="presenter">Eric Dussart,</name>
+      <name function="presenter">Matthieu Delormeau,</name>
+      <name function="presenter">Camille Combal,</name>
+      <name function="presenter">Erika Moulet,</name>
+      <name function="presenter">Jean-Michel Maire,</name>
+      <name function="presenter">Issa Doumbia,</name>
+      <name function="presenter">Enora Malagré,</name>
+      <name function="presenter">Bertrand Chameroy,</name>
+      <name function="presenter">Emilie Lopez</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214205500 +0100" stop="20151214224500 +0100">
+    <length units="minutes">110</length>
+    <title>Lock Out (?)</title>
+    <category>Film</category>
+    <desc>Emilie Warnock, la fille du président des Etats-Unis, arrive à bord d'une prison spatiale expérimentale. Dans cet endroit, 500 criminels... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Stephen St Leger,</name>
+      <name function="director">James Mather</name>
+      <name function="actor">Peter Stormare</name>
+      <name function="actor">Lennie James</name>
+      <name function="actor">Vincent Regan</name>
+      <name function="actor">Guy Pearce</name>
+      <name function="actor">Maggie Grace</name>
+      <name function="actor">Jacky Ido</name>
+      <name function="actor">Tim Plester</name>
+      <name function="actor">Joseph Gilgun</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214224500 +0100" stop="20151215004500 +0100">
+    <length units="minutes">120</length>
+    <title>L'aigle de la Neuvième Légion (?)</title>
+    <category>Film</category>
+    <desc>En l'an 140, l'Empire romain s'étend jusqu'à l'actuelle Angleterre. Marcus Aquila, un jeune centurion, est rongé par la perte de son père vingt... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Kevin MacDonald</name>
+      <name function="actor">Jamie Bell</name>
+      <name function="actor">Denis O'Hare</name>
+      <name function="actor">Channing Tatum</name>
+      <name function="actor">Paul Ritter</name>
+      <name function="actor">Tahar Rahim</name>
+      <name function="actor">Julian Lewis Jones</name>
+      <name function="actor">Donald Sutherland</name>
+      <name function="actor">Aladár Laklóth</name>
     </credits>
     <image />
   </programme>

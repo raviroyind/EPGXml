@@ -1,1381 +1,830 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
-  <channel id="C16.telerama.fr">
-    <display-name>testchannelname01</display-name>
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
+  <channel id="iTélé">
+    <display-name>test</display-name>
   </channel>
-  <programme channel="testchannelname01" start="20151207020000 +0100" stop="20151207060000 +0100">
-    <length units="minutes">240</length>
-    <title>L'édition de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_16_01:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207060000 +0100" stop="20151207080000 +0100">
-    <length units="minutes">120</length>
-    <title>Dès 5h, Laurent Bazin</title>
-    <category>magazine</category>
-    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit. Au programme, des revues de presse, des reportages et des décryptages.</desc>
-    <credits>
-      <name function="presenter">Laurent Bazin</name>
-      <name function="presenter">Isabelle Moreau</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_16_05:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207080000 +0100" stop="20151207110000 +0100">
-    <length units="minutes">180</length>
-    <title>Team Toussaint, la matinale info</title>
-    <category>magazine</category>
-    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité : faits d'actualité, économie, événements sportifs, culture et politique sont analysés en détail.</desc>
-    <credits>
-      <name function="presenter">Bruce Toussaint</name>
-      <name function="presenter">Stefan Etcheverry</name>
-      <name function="presenter">Christophe Barbier</name>
-      <name function="presenter">Alice Darfeuille</name>
-      <name function="presenter">Marie Colmant</name>
-      <name function="presenter">Thierry Fréret</name>
-      <name function="presenter">Claire Fournier</name>
-      <name function="guest">Florian Philippot (tête de liste FN aux régionales en ACAL et vice-président du FN)</name>
-      <name function="guest">Eric Woerth (ancien ministre du Travail</name>
-      <name function="guest">député de l'Oise et délégué général du projet pour «Les Républicains»)</name>
-      <name function="guest">Thierry Mandon (secrétaire d'Etat en charge de l'Enseignement supérieur et de la Recherche et député PS de l'Essonne)</name>
-      <name function="guest">Emmanuelle Cosse (secrétaire nationale d'EELV et tête de liste aux régionales en Ile-de-France)</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_16_07:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207110000 +0100" stop="20151207140000 +0100">
-    <length units="minutes">180</length>
-    <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne.</desc>
-    <credits>
-      <name function="presenter">Sonia Chironi</name>
-      <name function="presenter">Adrien Borne</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_16_10:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207140000 +0100" stop="20151207190000 +0100">
-    <length units="minutes">300</length>
-    <title>La Newsroom</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la journée.</desc>
-    <credits>
-      <name function="presenter">Romain Desarbres</name>
-      <name function="presenter">Caroline Delage</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_16_13:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207190000 +0100" stop="20151207203000 +0100">
-    <length units="minutes">90</length>
-    <title>Tirs croisés Ferrari</title>
-    <category>magazine</category>
-    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une interview et un débat.</desc>
-    <credits>
-      <name function="presenter">Laurence Ferrari</name>
-      <name function="presenter">Romain Desarbres</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_16_18:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207203000 +0100" stop="20151207213000 +0100">
-    <length units="minutes">60</length>
-    <title>20h Foot</title>
-    <category>magazine</category>
-    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou un match. Des invités, des duplex et des reportages enrichissent le grand rendez-vous football de la chaîne.</desc>
-    <credits>
-      <name function="presenter">Pascal Praud</name>
-      <name function="presenter">François Pinet</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_16_19:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207213000 +0100" stop="20151207220000 +0100">
-    <length units="minutes">30</length>
-    <title>Le grand JT d'Audrey Pulvar</title>
-    <category>journal</category>
-    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses invités.</desc>
-    <credits>
-      <name function="presenter">Audrey Pulvar</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_16_20:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207220000 +0100" stop="20151207230000 +0100">
-    <length units="minutes">60</length>
-    <title>On ne va pas se mentir</title>
-    <category>magazine</category>
-    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité.</desc>
-    <credits>
-      <name function="presenter">Audrey Pulvar</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_16_21:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207230000 +0100" stop="20151208013000 +0100">
-    <length units="minutes">150</length>
-    <title>Galzi jusqu'à minuit</title>
-    <category>magazine</category>
-    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde en constante évolution.</desc>
-    <credits>
-      <name function="presenter">Olivier Galzi</name>
-      <name function="presenter">Soizic Boisard</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_16_22:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151208013000 +0100" stop="20151208060000 +0100">
+  <programme channel="test" start="20151208003000 +0100" stop="20151208050000 +0100">
     <length units="minutes">270</length>
     <title>L'édition de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_16_00:30.jpg</image>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208060000 +0100" stop="20151208080000 +0100">
+  <programme channel="test" start="20151208050000 +0100" stop="20151208070000 +0100">
     <length units="minutes">120</length>
     <title>Dès 5h, Laurent Bazin</title>
-    <category>magazine</category>
-    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit. Au programme, des revues de presse, des reportages et des décryptages.</desc>
+    <category>Magazine</category>
+    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit.... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Laurent Bazin</name>
+      <name function="presenter">Laurent Bazin,</name>
       <name function="presenter">Isabelle Moreau</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_16_05:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208080000 +0100" stop="20151208110000 +0100">
+  <programme channel="test" start="20151208070000 +0100" stop="20151208100000 +0100">
     <length units="minutes">180</length>
     <title>Team Toussaint, la matinale info</title>
-    <category>magazine</category>
-    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité : faits d'actualité, économie, événements sportifs, culture et politique sont analysés en détail.</desc>
+    <category>Magazine</category>
+    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité :... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Bruce Toussaint</name>
-      <name function="presenter">Stefan Etcheverry</name>
-      <name function="presenter">Christophe Barbier</name>
-      <name function="presenter">Alice Darfeuille</name>
-      <name function="presenter">Marie Colmant</name>
+      <name function="presenter">Christophe Barbier,</name>
+      <name function="presenter">Stefan Etcheverry,</name>
+      <name function="presenter">Bruce Toussaint,</name>
+      <name function="presenter">Marie Colmant,</name>
+      <name function="presenter">Claire Fournier,</name>
+      <name function="presenter">Alice Darfeuille,</name>
       <name function="presenter">Thierry Fréret</name>
-      <name function="presenter">Claire Fournier</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_16_07:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208110000 +0100" stop="20151208140000 +0100">
+  <programme channel="test" start="20151208100000 +0100" stop="20151208130000 +0100">
     <length units="minutes">180</length>
     <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne. (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Sonia Chironi</name>
+      <name function="presenter">Sonia Chironi,</name>
       <name function="presenter">Adrien Borne</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_16_10:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208140000 +0100" stop="20151208190000 +0100">
+  <programme channel="test" start="20151208130000 +0100" stop="20151208180000 +0100">
     <length units="minutes">300</length>
     <title>La Newsroom</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la journée.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la... (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Caroline Delage,</name>
       <name function="presenter">Romain Desarbres</name>
-      <name function="presenter">Caroline Delage</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_16_13:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208190000 +0100" stop="20151208203000 +0100">
+  <programme channel="test" start="20151208180000 +0100" stop="20151208193000 +0100">
     <length units="minutes">90</length>
     <title>Tirs croisés Ferrari</title>
-    <category>magazine</category>
-    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une interview et un débat.</desc>
+    <category>Magazine</category>
+    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Laurence Ferrari</name>
+      <name function="presenter">Laurence Ferrari,</name>
       <name function="presenter">Romain Desarbres</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_16_18:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208203000 +0100" stop="20151208213000 +0100">
+  <programme channel="test" start="20151208193000 +0100" stop="20151208203000 +0100">
     <length units="minutes">60</length>
     <title>20h Foot</title>
-    <category>magazine</category>
-    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou un match. Des invités, des duplex et des reportages enrichissent le grand rendez-vous football de la chaîne.</desc>
+    <category>Magazine</category>
+    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Pascal Praud</name>
+      <name function="presenter">Pascal Praud,</name>
       <name function="presenter">François Pinet</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_16_19:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208213000 +0100" stop="20151208220000 +0100">
+  <programme channel="test" start="20151208203000 +0100" stop="20151208210000 +0100">
     <length units="minutes">30</length>
     <title>Le grand JT d'Audrey Pulvar</title>
-    <category>journal</category>
-    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses invités.</desc>
+    <category>Journal</category>
+    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses (Lire la suite).</desc>
     <credits>
       <name function="presenter">Audrey Pulvar</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_16_20:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208220000 +0100" stop="20151208230000 +0100">
+  <programme channel="test" start="20151208210000 +0100" stop="20151208220000 +0100">
     <length units="minutes">60</length>
     <title>On ne va pas se mentir</title>
-    <category>magazine</category>
-    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité.</desc>
+    <category>Magazine</category>
+    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Audrey Pulvar</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_16_21:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208230000 +0100" stop="20151209013000 +0100">
+  <programme channel="test" start="20151208220000 +0100" stop="20151209003000 +0100">
     <length units="minutes">150</length>
     <title>Galzi jusqu'à minuit</title>
-    <category>magazine</category>
-    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde en constante évolution.</desc>
+    <category>Magazine</category>
+    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Olivier Galzi</name>
+      <name function="presenter">Olivier Galzi,</name>
       <name function="presenter">Soizic Boisard</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_16_22:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209013000 +0100" stop="20151209060000 +0100">
+  <programme channel="test" start="20151209003000 +0100" stop="20151209050000 +0100">
     <length units="minutes">270</length>
     <title>L'édition de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_16_00:30.jpg</image>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209060000 +0100" stop="20151209080000 +0100">
+  <programme channel="test" start="20151209050000 +0100" stop="20151209070000 +0100">
     <length units="minutes">120</length>
     <title>Dès 5h, Laurent Bazin</title>
-    <category>magazine</category>
-    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit. Au programme, des revues de presse, des reportages et des décryptages.</desc>
+    <category>Magazine</category>
+    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit.... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Laurent Bazin</name>
+      <name function="presenter">Laurent Bazin,</name>
       <name function="presenter">Isabelle Moreau</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_16_05:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209080000 +0100" stop="20151209110000 +0100">
+  <programme channel="test" start="20151209070000 +0100" stop="20151209100000 +0100">
     <length units="minutes">180</length>
     <title>Team Toussaint, la matinale info</title>
-    <category>magazine</category>
-    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité : faits d'actualité, économie, événements sportifs, culture et politique sont analysés en détail.</desc>
+    <category>Magazine</category>
+    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité :... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Bruce Toussaint</name>
-      <name function="presenter">Stefan Etcheverry</name>
-      <name function="presenter">Christophe Barbier</name>
-      <name function="presenter">Alice Darfeuille</name>
-      <name function="presenter">Marie Colmant</name>
+      <name function="presenter">Christophe Barbier,</name>
+      <name function="presenter">Stefan Etcheverry,</name>
+      <name function="presenter">Bruce Toussaint,</name>
+      <name function="presenter">Marie Colmant,</name>
+      <name function="presenter">Claire Fournier,</name>
+      <name function="presenter">Alice Darfeuille,</name>
       <name function="presenter">Thierry Fréret</name>
-      <name function="presenter">Claire Fournier</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_16_07:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209110000 +0100" stop="20151209140000 +0100">
+  <programme channel="test" start="20151209100000 +0100" stop="20151209130000 +0100">
     <length units="minutes">180</length>
     <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne. (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Sonia Chironi</name>
+      <name function="presenter">Sonia Chironi,</name>
       <name function="presenter">Adrien Borne</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_16_10:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209140000 +0100" stop="20151209190000 +0100">
+  <programme channel="test" start="20151209130000 +0100" stop="20151209180000 +0100">
     <length units="minutes">300</length>
     <title>La Newsroom</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la journée.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la... (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Caroline Delage,</name>
       <name function="presenter">Romain Desarbres</name>
-      <name function="presenter">Caroline Delage</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_16_13:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209190000 +0100" stop="20151209203000 +0100">
+  <programme channel="test" start="20151209180000 +0100" stop="20151209193000 +0100">
     <length units="minutes">90</length>
     <title>Tirs croisés Ferrari</title>
-    <category>magazine</category>
-    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une interview et un débat.</desc>
+    <category>Magazine</category>
+    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Laurence Ferrari</name>
+      <name function="presenter">Laurence Ferrari,</name>
       <name function="presenter">Romain Desarbres</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_16_18:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209203000 +0100" stop="20151209213000 +0100">
+  <programme channel="test" start="20151209193000 +0100" stop="20151209203000 +0100">
     <length units="minutes">60</length>
     <title>20h Foot</title>
-    <category>magazine</category>
-    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou un match. Des invités, des duplex et des reportages enrichissent le grand rendez-vous football de la chaîne.</desc>
+    <category>Magazine</category>
+    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Pascal Praud</name>
+      <name function="presenter">Pascal Praud,</name>
       <name function="presenter">François Pinet</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_16_19:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209213000 +0100" stop="20151209220000 +0100">
+  <programme channel="test" start="20151209203000 +0100" stop="20151209210000 +0100">
     <length units="minutes">30</length>
     <title>Le grand JT d'Audrey Pulvar</title>
-    <category>journal</category>
-    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses invités.</desc>
+    <category>Journal</category>
+    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses (Lire la suite).</desc>
     <credits>
       <name function="presenter">Audrey Pulvar</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_16_20:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209220000 +0100" stop="20151209230000 +0100">
+  <programme channel="test" start="20151209210000 +0100" stop="20151209220000 +0100">
     <length units="minutes">60</length>
     <title>On ne va pas se mentir</title>
-    <category>magazine</category>
-    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité.</desc>
+    <category>Magazine</category>
+    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Audrey Pulvar</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_16_21:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209230000 +0100" stop="20151210013000 +0100">
+  <programme channel="test" start="20151209220000 +0100" stop="20151210003000 +0100">
     <length units="minutes">150</length>
     <title>Galzi jusqu'à minuit</title>
-    <category>magazine</category>
-    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde en constante évolution.</desc>
+    <category>Magazine</category>
+    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Olivier Galzi</name>
+      <name function="presenter">Olivier Galzi,</name>
       <name function="presenter">Soizic Boisard</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_16_22:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210013000 +0100" stop="20151210060000 +0100">
+  <programme channel="test" start="20151210003000 +0100" stop="20151210050000 +0100">
     <length units="minutes">270</length>
     <title>L'édition de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_16_00:30.jpg</image>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210060000 +0100" stop="20151210080000 +0100">
+  <programme channel="test" start="20151210050000 +0100" stop="20151210070000 +0100">
     <length units="minutes">120</length>
     <title>Dès 5h, Laurent Bazin</title>
-    <category>magazine</category>
-    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit. Au programme, des revues de presse, des reportages et des décryptages.</desc>
+    <category>Magazine</category>
+    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit.... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Laurent Bazin</name>
+      <name function="presenter">Laurent Bazin,</name>
       <name function="presenter">Isabelle Moreau</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_16_05:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210080000 +0100" stop="20151210110000 +0100">
+  <programme channel="test" start="20151210070000 +0100" stop="20151210100000 +0100">
     <length units="minutes">180</length>
     <title>Team Toussaint, la matinale info</title>
-    <category>magazine</category>
-    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité : faits d'actualité, économie, événements sportifs, culture et politique sont analysés en détail.</desc>
+    <category>Magazine</category>
+    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité :... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Bruce Toussaint</name>
-      <name function="presenter">Stefan Etcheverry</name>
-      <name function="presenter">Christophe Barbier</name>
-      <name function="presenter">Alice Darfeuille</name>
-      <name function="presenter">Marie Colmant</name>
+      <name function="presenter">Christophe Barbier,</name>
+      <name function="presenter">Stefan Etcheverry,</name>
+      <name function="presenter">Bruce Toussaint,</name>
+      <name function="presenter">Marie Colmant,</name>
+      <name function="presenter">Claire Fournier,</name>
+      <name function="presenter">Alice Darfeuille,</name>
       <name function="presenter">Thierry Fréret</name>
-      <name function="presenter">Claire Fournier</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_16_07:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210110000 +0100" stop="20151210140000 +0100">
+  <programme channel="test" start="20151210100000 +0100" stop="20151210130000 +0100">
     <length units="minutes">180</length>
     <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne. (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Sonia Chironi</name>
+      <name function="presenter">Sonia Chironi,</name>
       <name function="presenter">Adrien Borne</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_16_10:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210140000 +0100" stop="20151210190000 +0100">
+  <programme channel="test" start="20151210130000 +0100" stop="20151210180000 +0100">
     <length units="minutes">300</length>
     <title>La Newsroom</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la journée.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la... (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Caroline Delage,</name>
       <name function="presenter">Romain Desarbres</name>
-      <name function="presenter">Caroline Delage</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_16_13:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210190000 +0100" stop="20151210203000 +0100">
+  <programme channel="test" start="20151210180000 +0100" stop="20151210193000 +0100">
     <length units="minutes">90</length>
     <title>Tirs croisés Ferrari</title>
-    <category>magazine</category>
-    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une interview et un débat.</desc>
+    <category>Magazine</category>
+    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Laurence Ferrari</name>
+      <name function="presenter">Laurence Ferrari,</name>
       <name function="presenter">Romain Desarbres</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_16_18:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210203000 +0100" stop="20151210213000 +0100">
+  <programme channel="test" start="20151210193000 +0100" stop="20151210203000 +0100">
     <length units="minutes">60</length>
     <title>20h Foot</title>
-    <category>magazine</category>
-    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou un match. Des invités, des duplex et des reportages enrichissent le grand rendez-vous football de la chaîne.</desc>
+    <category>Magazine</category>
+    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Pascal Praud</name>
+      <name function="presenter">Pascal Praud,</name>
       <name function="presenter">François Pinet</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_16_19:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210213000 +0100" stop="20151210220000 +0100">
+  <programme channel="test" start="20151210203000 +0100" stop="20151210210000 +0100">
     <length units="minutes">30</length>
     <title>Le grand JT d'Audrey Pulvar</title>
-    <category>journal</category>
-    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses invités.</desc>
+    <category>Journal</category>
+    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses (Lire la suite).</desc>
     <credits>
       <name function="presenter">Audrey Pulvar</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_16_20:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210220000 +0100" stop="20151210230000 +0100">
+  <programme channel="test" start="20151210210000 +0100" stop="20151210220000 +0100">
     <length units="minutes">60</length>
     <title>On ne va pas se mentir</title>
-    <category>magazine</category>
-    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité.</desc>
+    <category>Magazine</category>
+    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Audrey Pulvar</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_16_21:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210230000 +0100" stop="20151211013000 +0100">
+  <programme channel="test" start="20151210220000 +0100" stop="20151211003000 +0100">
     <length units="minutes">150</length>
     <title>Galzi jusqu'à minuit</title>
-    <category>magazine</category>
-    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde en constante évolution.</desc>
+    <category>Magazine</category>
+    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Olivier Galzi</name>
+      <name function="presenter">Olivier Galzi,</name>
       <name function="presenter">Soizic Boisard</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_16_22:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211013000 +0100" stop="20151211060000 +0100">
+  <programme channel="test" start="20151211003000 +0100" stop="20151211050000 +0100">
     <length units="minutes">270</length>
     <title>L'édition de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_16_00:30.jpg</image>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211060000 +0100" stop="20151211080000 +0100">
+  <programme channel="test" start="20151211050000 +0100" stop="20151211070000 +0100">
     <length units="minutes">120</length>
     <title>Dès 5h, Laurent Bazin</title>
-    <category>magazine</category>
-    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit. Au programme, des revues de presse, des reportages et des décryptages.</desc>
+    <category>Magazine</category>
+    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit.... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Laurent Bazin</name>
+      <name function="presenter">Laurent Bazin,</name>
       <name function="presenter">Isabelle Moreau</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_16_05:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211080000 +0100" stop="20151211110000 +0100">
+  <programme channel="test" start="20151211070000 +0100" stop="20151211100000 +0100">
     <length units="minutes">180</length>
     <title>Team Toussaint, la matinale info</title>
-    <category>magazine</category>
-    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité : faits d'actualité, économie, événements sportifs, culture et politique sont analysés en détail.</desc>
+    <category>Magazine</category>
+    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité :... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Bruce Toussaint</name>
-      <name function="presenter">Stefan Etcheverry</name>
-      <name function="presenter">Christophe Barbier</name>
-      <name function="presenter">Alice Darfeuille</name>
-      <name function="presenter">Marie Colmant</name>
+      <name function="presenter">Christophe Barbier,</name>
+      <name function="presenter">Stefan Etcheverry,</name>
+      <name function="presenter">Bruce Toussaint,</name>
+      <name function="presenter">Marie Colmant,</name>
+      <name function="presenter">Claire Fournier,</name>
+      <name function="presenter">Alice Darfeuille,</name>
       <name function="presenter">Thierry Fréret</name>
-      <name function="presenter">Claire Fournier</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_16_07:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211110000 +0100" stop="20151211140000 +0100">
+  <programme channel="test" start="20151211100000 +0100" stop="20151211130000 +0100">
     <length units="minutes">180</length>
     <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne. (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Sonia Chironi</name>
+      <name function="presenter">Sonia Chironi,</name>
       <name function="presenter">Adrien Borne</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_16_10:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211140000 +0100" stop="20151211190000 +0100">
+  <programme channel="test" start="20151211130000 +0100" stop="20151211180000 +0100">
     <length units="minutes">300</length>
     <title>La Newsroom</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la journée.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la... (Lire la suite).</desc>
     <credits>
+      <name function="presenter">Caroline Delage,</name>
       <name function="presenter">Romain Desarbres</name>
-      <name function="presenter">Caroline Delage</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_16_13:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211190000 +0100" stop="20151211203000 +0100">
+  <programme channel="test" start="20151211180000 +0100" stop="20151211193000 +0100">
     <length units="minutes">90</length>
     <title>Intégrale week-end</title>
-    <category>magazine</category>
-    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la culture.</desc>
+    <category>Magazine</category>
+    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Antoine Genton</name>
+      <name function="presenter">Antoine Genton,</name>
       <name function="presenter">Aurélie Casse</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_16_18:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211203000 +0100" stop="20151211213000 +0100">
+  <programme channel="test" start="20151211193000 +0100" stop="20151211203000 +0100">
     <length units="minutes">60</length>
     <title>20h Foot</title>
-    <category>magazine</category>
-    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou un match. Des invités, des duplex et des reportages enrichissent le grand rendez-vous football de la chaîne.</desc>
+    <category>Magazine</category>
+    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Pascal Praud</name>
+      <name function="presenter">Pascal Praud,</name>
       <name function="presenter">François Pinet</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_16_19:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211213000 +0100" stop="20151211220000 +0100">
+  <programme channel="test" start="20151211203000 +0100" stop="20151211210000 +0100">
     <length units="minutes">30</length>
     <title>Le grand JT</title>
-    <category>journal</category>
-    <desc>Le grand journal du soir, qui décrypte et analyse l'actualité autour de nombreux invités.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_16_20:30.jpg</image>
+    <category>Journal</category>
+    <desc>Le grand journal du soir, qui décrypte et analyse l'actualité autour de nombreux invités. (Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211220000 +0100" stop="20151211230000 +0100">
+  <programme channel="test" start="20151211210000 +0100" stop="20151211220000 +0100">
     <length units="minutes">60</length>
     <title>CQFD</title>
-    <category>magazine</category>
-    <desc>Florent Peiffer et ses quatre intervenants proposent de décrypter l'actualité politique : réseaux sociaux, sondages et communication sont disséqués et commentés.</desc>
+    <category>Magazine</category>
+    <desc>Florent Peiffer et ses quatre intervenants proposent de décrypter l'actualité politique : réseaux sociaux, sondages et communication sont... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Florent Peiffer</name>
-      <name function="presenter">Bruno Jeudy</name>
-      <name function="presenter">Céline Bracq</name>
+      <name function="presenter">Bruno Jeudy,</name>
+      <name function="presenter">Céline Bracq,</name>
+      <name function="presenter">Régis Lefebvre,</name>
+      <name function="presenter">Florent Peiffer,</name>
       <name function="presenter">Véronique Reille-Soult</name>
-      <name function="presenter">Régis Lefebvre</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_16_21:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211230000 +0100" stop="20151212013000 +0100">
+  <programme channel="test" start="20151211220000 +0100" stop="20151212003000 +0100">
     <length units="minutes">150</length>
     <title>Intégrale week-end</title>
-    <category>magazine</category>
-    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la culture.</desc>
+    <category>Magazine</category>
+    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Antoine Genton</name>
+      <name function="presenter">Antoine Genton,</name>
       <name function="presenter">Aurélie Casse</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_16_22:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212013000 +0100" stop="20151212080000 +0100">
+  <programme channel="test" start="20151212003000 +0100" stop="20151212070000 +0100">
     <length units="minutes">390</length>
     <title>L'édition de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_16_00:30.jpg</image>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212080000 +0100" stop="20151212110000 +0100">
+  <programme channel="test" start="20151212070000 +0100" stop="20151212100000 +0100">
     <length units="minutes">180</length>
     <title>La matinale week-end</title>
-    <category>magazine</category>
-    <desc>L'essentiel de l'actualité avec des reportages, des analyses politiques, les résultats sportifs et la météo.</desc>
+    <category>Magazine</category>
+    <desc>L'essentiel de l'actualité avec des reportages, des analyses politiques, les résultats sportifs et la météo. (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Florent Peiffer</name>
+      <name function="presenter">Claude Askolovitch,</name>
+      <name function="presenter">Frédéric Plisson,</name>
+      <name function="presenter">Florent Peiffer,</name>
+      <name function="presenter">Eléonore Boccara,</name>
       <name function="presenter">Alice Rougerie</name>
-      <name function="presenter">Claude Askolovitch</name>
-      <name function="presenter">Frédéric Plisson</name>
-      <name function="presenter">Eléonore Boccara</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_16_07:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212110000 +0100" stop="20151212111500 +0100">
+  <programme channel="test" start="20151212100000 +0100" stop="20151212101500 +0100">
     <length units="minutes">15</length>
     <title>La Newsroom week-end</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la journée.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Claire-Elisabeth Beaufort</name>
-      <name function="presenter">Thomas Lequertier</name>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
       <name function="presenter">Clément Méric (en alternance)</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_16_10:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212111500 +0100" stop="20151212120000 +0100">
+  <programme channel="test" start="20151212101500 +0100" stop="20151212110000 +0100">
     <length units="minutes">45</length>
     <title>CQFD</title>
-    <category>magazine</category>
-    <desc>Florent Peiffer et ses quatre intervenants proposent de décrypter l'actualité politique : réseaux sociaux, sondages et communication sont disséqués et commentés.</desc>
+    <category>Magazine</category>
+    <desc>Florent Peiffer et ses quatre intervenants proposent de décrypter l'actualité politique : réseaux sociaux, sondages et communication sont... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Florent Peiffer</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_16_10:15.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212120000 +0100" stop="20151212140000 +0100">
+  <programme channel="test" start="20151212110000 +0100" stop="20151212130000 +0100">
     <length units="minutes">120</length>
     <title>La Newsroom week-end</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la journée.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Claire-Elisabeth Beaufort</name>
-      <name function="presenter">Thomas Lequertier</name>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
       <name function="presenter">Clément Méric (en alternance)</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_16_11:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212140000 +0100" stop="20151212150000 +0100">
+  <programme channel="test" start="20151212130000 +0100" stop="20151212140000 +0100">
     <length units="minutes">60</length>
     <title>13h Foot</title>
-    <category>magazine</category>
-    <desc>Le rendez-vous foot de la mi-journée. A travers des analyses et des reportages, Pascal Praud et Julien Pasquet présentent les enjeux des rencontres du jour et reviennent sur les événements marquants de la veille.</desc>
+    <category>Magazine</category>
+    <desc>Le rendez-vous foot de la mi-journée. A travers des analyses et des reportages, Pascal Praud et Julien Pasquet présentent les enjeux des... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Pascal Praud</name>
+      <name function="presenter">Pascal Praud,</name>
       <name function="presenter">Julien Pasquet</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_16_13:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212150000 +0100" stop="20151212190000 +0100">
+  <programme channel="test" start="20151212140000 +0100" stop="20151212180000 +0100">
     <length units="minutes">240</length>
     <title>La Newsroom week-end</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la journée.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Claire-Elisabeth Beaufort</name>
-      <name function="presenter">Thomas Lequertier</name>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
       <name function="presenter">Clément Méric (en alternance)</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_16_14:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212190000 +0100" stop="20151212210000 +0100">
+  <programme channel="test" start="20151212180000 +0100" stop="20151212200000 +0100">
     <length units="minutes">120</length>
     <title>Intégrale week-end</title>
-    <category>magazine</category>
-    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la culture.</desc>
+    <category>Magazine</category>
+    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Antoine Genton</name>
+      <name function="presenter">Antoine Genton,</name>
       <name function="presenter">Aurélie Casse</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_16_18:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212210000 +0100" stop="20151212230000 +0100">
+  <programme channel="test" start="20151212200000 +0100" stop="20151212220000 +0100">
     <length units="minutes">120</length>
     <title>Intégrale week-end</title>
-    <category>magazine</category>
-    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la culture.</desc>
+    <category>Magazine</category>
+    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Antoine Genton</name>
+      <name function="presenter">Antoine Genton,</name>
       <name function="presenter">Aurélie Casse</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_16_20:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212230000 +0100" stop="20151213010000 +0100">
+  <programme channel="test" start="20151212220000 +0100" stop="20151213000000 +0100">
     <length units="minutes">120</length>
     <title>Intégrale week-end</title>
-    <category>magazine</category>
-    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la culture.</desc>
+    <category>Magazine</category>
+    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Antoine Genton</name>
+      <name function="presenter">Antoine Genton,</name>
       <name function="presenter">Aurélie Casse</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_16_22:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213010000 +0100" stop="20151213080000 +0100">
+  <programme channel="test" start="20151213000000 +0100" stop="20151213070000 +0100">
     <length units="minutes">420</length>
     <title>L'édition de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_00:00.jpg</image>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213080000 +0100" stop="20151213110000 +0100">
+  <programme channel="test" start="20151213070000 +0100" stop="20151213100000 +0100">
     <length units="minutes">180</length>
     <title>La matinale week-end</title>
-    <category>magazine</category>
-    <desc>L'essentiel de l'actualité avec des reportages, des analyses politiques, les résultats sportifs et la météo.</desc>
+    <category>Magazine</category>
+    <desc>L'essentiel de l'actualité avec des reportages, des analyses politiques, les résultats sportifs et la météo. (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Florent Peiffer</name>
+      <name function="presenter">Claude Askolovitch,</name>
+      <name function="presenter">Frédéric Plisson,</name>
+      <name function="presenter">Florent Peiffer,</name>
+      <name function="presenter">Eléonore Boccara,</name>
       <name function="presenter">Alice Rougerie</name>
-      <name function="presenter">Claude Askolovitch</name>
-      <name function="presenter">Frédéric Plisson</name>
-      <name function="presenter">Eléonore Boccara</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_07:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213110000 +0100" stop="20151213110500 +0100">
+  <programme channel="test" start="20151213100000 +0100" stop="20151213100500 +0100">
     <length units="minutes">5</length>
     <title>La Newsroom week-end</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la journée.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Claire-Elisabeth Beaufort</name>
-      <name function="presenter">Thomas Lequertier</name>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
       <name function="presenter">Clément Méric (en alternance)</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_10:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213110500 +0100" stop="20151213120000 +0100">
+  <programme channel="test" start="20151213100500 +0100" stop="20151213110000 +0100">
     <length units="minutes">55</length>
     <title>Le grand rendez-vous</title>
-    <category>magazine</category>
-    <desc>Le Monde, Europe 1 et i&gt;TELE s'associent pour couvrir l'actualité. Chaque dimanche, un acteur du monde économique, politique ou intellectuel répond aux questions de trois journalistes qui se font l'écho des préoccupations des Français.</desc>
+    <category>Magazine</category>
+    <desc>Le Monde, Europe 1 et i&gt;TELE s'associent pour couvrir l'actualité. Chaque dimanche, un acteur du monde économique, politique ou intellectuel... &lt;a ref="nofollow" href="javascript:;" onclick="setCurrentTraTvDiffusion('132333041'); document.location='/tele/programmes-tv/le-grand-rendez-vous,99443189.php';"&gt;(Lire la suite)&lt;/a&gt; &lt;/p&gt;.</desc>
     <credits>
+      <name function="presenter">Jean-Pierre Elkabbach,</name>
+      <name function="presenter">Arnaud Leparmentier,</name>
       <name function="presenter">Michaël Darmon</name>
-      <name function="presenter">Jean-Pierre Elkabbach</name>
-      <name function="presenter">Arnaud Leparmentier</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_10:05.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213120000 +0100" stop="20151213120500 +0100">
+  <programme channel="test" start="20151213110000 +0100" stop="20151213110500 +0100">
     <length units="minutes">5</length>
     <title>La Newsroom week-end</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la journée.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Claire-Elisabeth Beaufort</name>
-      <name function="presenter">Thomas Lequertier</name>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
       <name function="presenter">Clément Méric (en alternance)</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_11:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213120500 +0100" stop="20151213130000 +0100">
+  <programme channel="test" start="20151213110500 +0100" stop="20151213120000 +0100">
     <length units="minutes">55</length>
     <title>D'un monde à l'autre</title>
-    <category>magazine</category>
-    <desc>Des correspondants de la presse étrangère basés en France commentent, analysent et décryptent l'actualité française de la semaine.</desc>
+    <category>Magazine</category>
+    <desc>Des correspondants de la presse étrangère basés en France commentent, analysent et décryptent l'actualité française de la... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Florent Peiffer</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_11:05.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213130000 +0100" stop="20151213134500 +0100">
+  <programme channel="test" start="20151213120000 +0100" stop="20151213124500 +0100">
     <length units="minutes">45</length>
     <title>La Newsroom week-end</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la journée.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Claire-Elisabeth Beaufort</name>
-      <name function="presenter">Thomas Lequertier</name>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
       <name function="presenter">Clément Méric (en alternance)</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_12:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213134500 +0100" stop="20151213140000 +0100">
+  <programme channel="test" start="20151213124500 +0100" stop="20151213130000 +0100">
     <length units="minutes">15</length>
     <title>L'hebdo de l'éco</title>
-    <category>magazine</category>
-    <desc>Economistes ou chefs d'entreprises viennent débattre des grands thèmes de la semaine et analyser les mouvements de l'économie.</desc>
+    <category>Magazine</category>
+    <desc>Economistes ou chefs d'entreprises viennent débattre des grands thèmes de la semaine et analyser les mouvements de... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Jérôme Libeskind</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_12:45.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213140000 +0100" stop="20151213150000 +0100">
+  <programme channel="test" start="20151213130000 +0100" stop="20151213140000 +0100">
     <length units="minutes">60</length>
     <title>13h Foot</title>
-    <category>magazine</category>
-    <desc>Le rendez-vous foot de la mi-journée. A travers des analyses et des reportages, Pascal Praud et Julien Pasquet présentent les enjeux des rencontres du jour et reviennent sur les événements marquants de la veille.</desc>
+    <category>Magazine</category>
+    <desc>Le rendez-vous foot de la mi-journée. A travers des analyses et des reportages, Pascal Praud et Julien Pasquet présentent les enjeux des... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Pascal Praud</name>
+      <name function="presenter">Pascal Praud,</name>
       <name function="presenter">Julien Pasquet</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_13:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213150000 +0100" stop="20151213180500 +0100">
+  <programme channel="test" start="20151213140000 +0100" stop="20151213170500 +0100">
     <length units="minutes">185</length>
     <title>La Newsroom week-end</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la journée.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à décrypter et à approfondir chaque sujet au cours de la... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Claire-Elisabeth Beaufort</name>
-      <name function="presenter">Thomas Lequertier</name>
+      <name function="presenter">Claire-Elisabeth Beaufort,</name>
+      <name function="presenter">Thomas Lequertier,</name>
       <name function="presenter">Clément Méric (en alternance)</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_14:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213180500 +0100" stop="20151213190000 +0100">
+  <programme channel="test" start="20151213170500 +0100" stop="20151213180000 +0100">
     <length units="minutes">55</length>
     <title>Le grand rendez-vous</title>
-    <category>magazine</category>
-    <desc>Le Monde, Europe 1 et i&gt;TELE s'associent pour couvrir l'actualité. Chaque dimanche, un acteur du monde économique, politique ou intellectuel répond aux questions de trois journalistes qui se font l'écho des préoccupations des Français.</desc>
+    <category>Magazine</category>
+    <desc>Le Monde, Europe 1 et i&gt;TELE s'associent pour couvrir l'actualité. Chaque dimanche, un acteur du monde économique, politique ou intellectuel... &lt;a ref="nofollow" href="javascript:;" onclick="setCurrentTraTvDiffusion('132333048'); document.location='/tele/programmes-tv/le-grand-rendez-vous,99443196.php';"&gt;(Lire la suite)&lt;/a&gt; &lt;/p&gt;.</desc>
     <credits>
+      <name function="presenter">Jean-Pierre Elkabbach,</name>
+      <name function="presenter">Arnaud Leparmentier,</name>
       <name function="presenter">Michaël Darmon</name>
-      <name function="presenter">Jean-Pierre Elkabbach</name>
-      <name function="presenter">Arnaud Leparmentier</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_17:05.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213190000 +0100" stop="20151213210000 +0100">
+  <programme channel="test" start="20151213180000 +0100" stop="20151213200000 +0100">
     <length units="minutes">120</length>
     <title>Elections régionales 2015</title>
-    <category>politique</category>
-    <desc>Analyse du taux de participation au second tour des élections régionales, décryptage avec des invités et des experts des premières estimations et des enjeux de ce scrutin.</desc>
+    <category />
+    <desc>Analyse du taux de participation au second tour des élections régionales, décryptage avec des invités et des experts des premières estimations et... (Lire la suite).</desc>
     <credits>
       <name function="presenter">Audrey Pulvar</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_18:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213210000 +0100" stop="20151213233000 +0100">
+  <programme channel="test" start="20151213200000 +0100" stop="20151213223000 +0100">
     <length units="minutes">150</length>
     <title>Elections régionales 2015</title>
-    <category>politique</category>
-    <desc>Analyse du taux de participation au second tour des élections régionales, décryptage avec des invités et des experts des premières estimations et des enjeux de ce scrutin.</desc>
+    <category />
+    <desc>Analyse du taux de participation au second tour des élections régionales, décryptage avec des invités et des experts des premières estimations et... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Laurence Ferrari</name>
+      <name function="presenter">Laurence Ferrari,</name>
       <name function="presenter">Bruce Toussaint</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_20:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213233000 +0100" stop="20151214000000 +0100">
+  <programme channel="test" start="20151213223000 +0100" stop="20151213230000 +0100">
     <length units="minutes">30</length>
     <title>Elections régionales 2015</title>
-    <category>politique</category>
-    <desc>Analyse du taux de participation au second tour des élections régionales, décryptage avec des invités et des experts des premières estimations et des enjeux de ce scrutin.</desc>
+    <category />
+    <desc>Analyse du taux de participation au second tour des élections régionales, décryptage avec des invités et des experts des premières estimations et... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Olivier Galzi</name>
+      <name function="presenter">Olivier Galzi,</name>
       <name function="presenter">Soizic Boisard</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_22:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214000000 +0100" stop="20151214020000 +0100">
+  <programme channel="test" start="20151213230000 +0100" stop="20151214010000 +0100">
     <length units="minutes">120</length>
     <title>Elections régionales 2015</title>
-    <category>politique</category>
-    <desc>Analyse du taux de participation au second tour des élections régionales, décryptage avec des invités et des experts des premières estimations et des enjeux de ce scrutin.</desc>
+    <category />
+    <desc>Analyse du taux de participation au second tour des élections régionales, décryptage avec des invités et des experts des premières estimations et... (Lire la suite).</desc>
     <credits>
-      <name function="presenter">Olivier Galzi</name>
+      <name function="presenter">Olivier Galzi,</name>
       <name function="presenter">Soizic Boisard</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_16_23:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214020000 +0100" stop="20151214060000 +0100">
+  <programme channel="test" start="20151214010000 +0100" stop="20151214050000 +0100">
     <length units="minutes">240</length>
     <title>L'édition de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_16_01:00.jpg</image>
+    <category>Journal</category>
+    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo. (Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214060000 +0100" stop="20151214080000 +0100">
+  <programme channel="test" start="20151214050000 +0100" stop="20151214070000 +0100">
     <length units="minutes">120</length>
     <title>Dès 5h, Laurent Bazin</title>
-    <category>magazine</category>
-    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit. Au programme, des revues de presse, des reportages et des décryptages.</desc>
+    <category>Magazine</category>
+    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit.... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Laurent Bazin</name>
+      <name function="presenter">Laurent Bazin,</name>
       <name function="presenter">Isabelle Moreau</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_16_05:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214080000 +0100" stop="20151214110000 +0100">
+  <programme channel="test" start="20151214070000 +0100" stop="20151214100000 +0100">
     <length units="minutes">180</length>
     <title>Team Toussaint, la matinale info</title>
-    <category>magazine</category>
-    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité : faits d'actualité, économie, événements sportifs, culture et politique sont analysés en détail.</desc>
+    <category>Magazine</category>
+    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité :... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Bruce Toussaint</name>
-      <name function="presenter">Stefan Etcheverry</name>
-      <name function="presenter">Christophe Barbier</name>
-      <name function="presenter">Alice Darfeuille</name>
-      <name function="presenter">Marie Colmant</name>
+      <name function="presenter">Christophe Barbier,</name>
+      <name function="presenter">Stefan Etcheverry,</name>
+      <name function="presenter">Bruce Toussaint,</name>
+      <name function="presenter">Marie Colmant,</name>
+      <name function="presenter">Claire Fournier,</name>
+      <name function="presenter">Alice Darfeuille,</name>
       <name function="presenter">Thierry Fréret</name>
-      <name function="presenter">Claire Fournier</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_16_07:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214110000 +0100" stop="20151214140000 +0100">
+  <programme channel="test" start="20151214100000 +0100" stop="20151214130000 +0100">
     <length units="minutes">180</length>
     <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne. (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Sonia Chironi</name>
+      <name function="presenter">Sonia Chironi,</name>
       <name function="presenter">Adrien Borne</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_16_10:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214140000 +0100" stop="20151214190000 +0100">
+  <programme channel="test" start="20151214130000 +0100" stop="20151214180000 +0100">
     <length units="minutes">300</length>
     <title>La Newsroom</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la journée.</desc>
+    <category>Magazine</category>
+    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la... (Lire la suite).(n)</desc>
     <credits>
+      <name function="presenter">Caroline Delage,</name>
       <name function="presenter">Romain Desarbres</name>
-      <name function="presenter">Caroline Delage</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_16_13:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214190000 +0100" stop="20151214203000 +0100">
+  <programme channel="test" start="20151214180000 +0100" stop="20151214193000 +0100">
     <length units="minutes">90</length>
     <title>Tirs croisés Ferrari</title>
-    <category>magazine</category>
-    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une interview et un débat.</desc>
+    <category>Magazine</category>
+    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Laurence Ferrari</name>
+      <name function="presenter">Laurence Ferrari,</name>
       <name function="presenter">Romain Desarbres</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_16_18:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214203000 +0100" stop="20151214213000 +0100">
+  <programme channel="test" start="20151214193000 +0100" stop="20151214203000 +0100">
     <length units="minutes">60</length>
     <title>20h Foot</title>
-    <category>magazine</category>
-    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou un match. Des invités, des duplex et des reportages enrichissent le grand rendez-vous football de la chaîne.</desc>
+    <category>Magazine</category>
+    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Pascal Praud</name>
+      <name function="presenter">Pascal Praud,</name>
       <name function="presenter">François Pinet</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_16_19:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214213000 +0100" stop="20151214220000 +0100">
+  <programme channel="test" start="20151214203000 +0100" stop="20151214210000 +0100">
     <length units="minutes">30</length>
     <title>Le grand JT d'Audrey Pulvar</title>
-    <category>journal</category>
-    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses invités.</desc>
+    <category>Journal</category>
+    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Audrey Pulvar</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_16_20:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214220000 +0100" stop="20151214230000 +0100">
+  <programme channel="test" start="20151214210000 +0100" stop="20151214220000 +0100">
     <length units="minutes">60</length>
     <title>On ne va pas se mentir</title>
-    <category>magazine</category>
-    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité.</desc>
+    <category>Magazine</category>
+    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité. (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Audrey Pulvar</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_16_21:00.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214230000 +0100" stop="20151215013000 +0100">
+  <programme channel="test" start="20151214220000 +0100" stop="20151215003000 +0100">
     <length units="minutes">150</length>
     <title>Galzi jusqu'à minuit</title>
-    <category>magazine</category>
-    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde en constante évolution.</desc>
+    <category>Magazine</category>
+    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Olivier Galzi</name>
+      <name function="presenter">Olivier Galzi,</name>
       <name function="presenter">Soizic Boisard</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_16_22:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215013000 +0100" stop="20151215060000 +0100">
-    <length units="minutes">270</length>
-    <title>L'édition de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_16_00:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215060000 +0100" stop="20151215080000 +0100">
-    <length units="minutes">120</length>
-    <title>Dès 5h, Laurent Bazin</title>
-    <category>magazine</category>
-    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit. Au programme, des revues de presse, des reportages et des décryptages.</desc>
-    <credits>
-      <name function="presenter">Laurent Bazin</name>
-      <name function="presenter">Isabelle Moreau</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_16_05:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215080000 +0100" stop="20151215110000 +0100">
-    <length units="minutes">180</length>
-    <title>Team Toussaint, la matinale info</title>
-    <category>magazine</category>
-    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité : faits d'actualité, économie, événements sportifs, culture et politique sont analysés en détail.</desc>
-    <credits>
-      <name function="presenter">Bruce Toussaint</name>
-      <name function="presenter">Stefan Etcheverry</name>
-      <name function="presenter">Christophe Barbier</name>
-      <name function="presenter">Alice Darfeuille</name>
-      <name function="presenter">Marie Colmant</name>
-      <name function="presenter">Thierry Fréret</name>
-      <name function="presenter">Claire Fournier</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_16_07:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215110000 +0100" stop="20151215140000 +0100">
-    <length units="minutes">180</length>
-    <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne.</desc>
-    <credits>
-      <name function="presenter">Sonia Chironi</name>
-      <name function="presenter">Adrien Borne</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_16_10:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215140000 +0100" stop="20151215190000 +0100">
-    <length units="minutes">300</length>
-    <title>La Newsroom</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la journée.</desc>
-    <credits>
-      <name function="presenter">Romain Desarbres</name>
-      <name function="presenter">Caroline Delage</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_16_13:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215190000 +0100" stop="20151215203000 +0100">
-    <length units="minutes">90</length>
-    <title>Tirs croisés Ferrari</title>
-    <category>magazine</category>
-    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une interview et un débat.</desc>
-    <credits>
-      <name function="presenter">Laurence Ferrari</name>
-      <name function="presenter">Romain Desarbres</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_16_18:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215203000 +0100" stop="20151215213000 +0100">
-    <length units="minutes">60</length>
-    <title>20h Foot</title>
-    <category>magazine</category>
-    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou un match. Des invités, des duplex et des reportages enrichissent le grand rendez-vous football de la chaîne.</desc>
-    <credits>
-      <name function="presenter">Pascal Praud</name>
-      <name function="presenter">François Pinet</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_16_19:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215213000 +0100" stop="20151215220000 +0100">
-    <length units="minutes">30</length>
-    <title>Le grand JT d'Audrey Pulvar</title>
-    <category>journal</category>
-    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses invités.</desc>
-    <credits>
-      <name function="presenter">Audrey Pulvar</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_16_20:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215220000 +0100" stop="20151215230000 +0100">
-    <length units="minutes">60</length>
-    <title>On ne va pas se mentir</title>
-    <category>magazine</category>
-    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité.</desc>
-    <credits>
-      <name function="presenter">Audrey Pulvar</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_16_21:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215230000 +0100" stop="20151216013000 +0100">
-    <length units="minutes">150</length>
-    <title>Galzi jusqu'à minuit</title>
-    <category>magazine</category>
-    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde en constante évolution.</desc>
-    <credits>
-      <name function="presenter">Olivier Galzi</name>
-      <name function="presenter">Soizic Boisard</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_16_22:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216013000 +0100" stop="20151216060000 +0100">
-    <length units="minutes">270</length>
-    <title>L'édition de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_16_00:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216060000 +0100" stop="20151216080000 +0100">
-    <length units="minutes">120</length>
-    <title>Dès 5h, Laurent Bazin</title>
-    <category>magazine</category>
-    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit. Au programme, des revues de presse, des reportages et des décryptages.</desc>
-    <credits>
-      <name function="presenter">Laurent Bazin</name>
-      <name function="presenter">Isabelle Moreau</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_16_05:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216080000 +0100" stop="20151216110000 +0100">
-    <length units="minutes">180</length>
-    <title>Team Toussaint, la matinale info</title>
-    <category>magazine</category>
-    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité : faits d'actualité, économie, événements sportifs, culture et politique sont analysés en détail.</desc>
-    <credits>
-      <name function="presenter">Bruce Toussaint</name>
-      <name function="presenter">Stefan Etcheverry</name>
-      <name function="presenter">Christophe Barbier</name>
-      <name function="presenter">Alice Darfeuille</name>
-      <name function="presenter">Marie Colmant</name>
-      <name function="presenter">Thierry Fréret</name>
-      <name function="presenter">Claire Fournier</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_16_07:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216110000 +0100" stop="20151216140000 +0100">
-    <length units="minutes">180</length>
-    <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne.</desc>
-    <credits>
-      <name function="presenter">Sonia Chironi</name>
-      <name function="presenter">Adrien Borne</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_16_10:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216140000 +0100" stop="20151216190000 +0100">
-    <length units="minutes">300</length>
-    <title>La Newsroom</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la journée.</desc>
-    <credits>
-      <name function="presenter">Romain Desarbres</name>
-      <name function="presenter">Caroline Delage</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_16_13:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216190000 +0100" stop="20151216203000 +0100">
-    <length units="minutes">90</length>
-    <title>Tirs croisés Ferrari</title>
-    <category>magazine</category>
-    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une interview et un débat.</desc>
-    <credits>
-      <name function="presenter">Laurence Ferrari</name>
-      <name function="presenter">Romain Desarbres</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_16_18:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216203000 +0100" stop="20151216213000 +0100">
-    <length units="minutes">60</length>
-    <title>20h Foot</title>
-    <category>magazine</category>
-    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou un match. Des invités, des duplex et des reportages enrichissent le grand rendez-vous football de la chaîne.</desc>
-    <credits>
-      <name function="presenter">Pascal Praud</name>
-      <name function="presenter">François Pinet</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_16_19:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216213000 +0100" stop="20151216220000 +0100">
-    <length units="minutes">30</length>
-    <title>Le grand JT d'Audrey Pulvar</title>
-    <category>journal</category>
-    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses invités.</desc>
-    <credits>
-      <name function="presenter">Audrey Pulvar</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_16_20:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216220000 +0100" stop="20151216230000 +0100">
-    <length units="minutes">60</length>
-    <title>On ne va pas se mentir</title>
-    <category>magazine</category>
-    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité.</desc>
-    <credits>
-      <name function="presenter">Audrey Pulvar</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_16_21:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216230000 +0100" stop="20151217013000 +0100">
-    <length units="minutes">150</length>
-    <title>Galzi jusqu'à minuit</title>
-    <category>magazine</category>
-    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde en constante évolution.</desc>
-    <credits>
-      <name function="presenter">Olivier Galzi</name>
-      <name function="presenter">Soizic Boisard</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_16_22:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217013000 +0100" stop="20151217060000 +0100">
-    <length units="minutes">270</length>
-    <title>L'édition de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_16_00:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217060000 +0100" stop="20151217080000 +0100">
-    <length units="minutes">120</length>
-    <title>Dès 5h, Laurent Bazin</title>
-    <category>magazine</category>
-    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit. Au programme, des revues de presse, des reportages et des décryptages.</desc>
-    <credits>
-      <name function="presenter">Laurent Bazin</name>
-      <name function="presenter">Isabelle Moreau</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_16_05:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217080000 +0100" stop="20151217110000 +0100">
-    <length units="minutes">180</length>
-    <title>Team Toussaint, la matinale info</title>
-    <category>magazine</category>
-    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité : faits d'actualité, économie, événements sportifs, culture et politique sont analysés en détail.</desc>
-    <credits>
-      <name function="presenter">Bruce Toussaint</name>
-      <name function="presenter">Stefan Etcheverry</name>
-      <name function="presenter">Christophe Barbier</name>
-      <name function="presenter">Alice Darfeuille</name>
-      <name function="presenter">Marie Colmant</name>
-      <name function="presenter">Thierry Fréret</name>
-      <name function="presenter">Claire Fournier</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_16_07:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217110000 +0100" stop="20151217140000 +0100">
-    <length units="minutes">180</length>
-    <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne.</desc>
-    <credits>
-      <name function="presenter">Sonia Chironi</name>
-      <name function="presenter">Adrien Borne</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_16_10:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217140000 +0100" stop="20151217190000 +0100">
-    <length units="minutes">300</length>
-    <title>La Newsroom</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la journée.</desc>
-    <credits>
-      <name function="presenter">Romain Desarbres</name>
-      <name function="presenter">Caroline Delage</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_16_13:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217190000 +0100" stop="20151217203000 +0100">
-    <length units="minutes">90</length>
-    <title>Tirs croisés Ferrari</title>
-    <category>magazine</category>
-    <desc>L'actualité politique passée au crible par Laurence Ferrari, qui reçoit les hommes et les femmes qui font l'événement du moment, pour une interview et un débat.</desc>
-    <credits>
-      <name function="presenter">Laurence Ferrari</name>
-      <name function="presenter">Romain Desarbres</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_16_18:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217203000 +0100" stop="20151217213000 +0100">
-    <length units="minutes">60</length>
-    <title>20h Foot</title>
-    <category>magazine</category>
-    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou un match. Des invités, des duplex et des reportages enrichissent le grand rendez-vous football de la chaîne.</desc>
-    <credits>
-      <name function="presenter">Pascal Praud</name>
-      <name function="presenter">François Pinet</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_16_19:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217213000 +0100" stop="20151217220000 +0100">
-    <length units="minutes">30</length>
-    <title>Le grand JT d'Audrey Pulvar</title>
-    <category>journal</category>
-    <desc>Le grand journal du soir, orchestré par Auldrey Pulvar, qui décrypte et analyse l'actualité en compagnie de ses invités.</desc>
-    <credits>
-      <name function="presenter">Audrey Pulvar</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_16_20:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217220000 +0100" stop="20151217230000 +0100">
-    <length units="minutes">60</length>
-    <title>On ne va pas se mentir</title>
-    <category>magazine</category>
-    <desc>Audrey Pulvar reçoit quatre invités aux parcours et points de vue différents. Ensemble, ils débattent de l'actualité.</desc>
-    <credits>
-      <name function="presenter">Audrey Pulvar</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_16_21:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217230000 +0100" stop="20151218013000 +0100">
-    <length units="minutes">150</length>
-    <title>Galzi jusqu'à minuit</title>
-    <category>magazine</category>
-    <desc>Pour clore la soirée, Olivier Galzi revisite toute l'actualité du jour, avec expertise et recul, afin de la mettre en perspective dans un monde en constante évolution.</desc>
-    <credits>
-      <name function="presenter">Olivier Galzi</name>
-      <name function="presenter">Soizic Boisard</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_16_22:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218013000 +0100" stop="20151218060000 +0100">
-    <length units="minutes">270</length>
-    <title>L'édition de la nuit</title>
-    <category>journal</category>
-    <desc>Un journal complet de l'actualité nationale et internationale, suivi de la méteo.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_16_00:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218060000 +0100" stop="20151218080000 +0100">
-    <length units="minutes">120</length>
-    <title>Dès 5h, Laurent Bazin</title>
-    <category>magazine</category>
-    <desc>Dès 5h00, Laurent Bazin et Isabelle Moreau livrent les informations les plus fraîches et proposent un tour d'horizon des événements de la nuit. Au programme, des revues de presse, des reportages et des décryptages.</desc>
-    <credits>
-      <name function="presenter">Laurent Bazin</name>
-      <name function="presenter">Isabelle Moreau</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_16_05:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218080000 +0100" stop="20151218110000 +0100">
-    <length units="minutes">180</length>
-    <title>Team Toussaint, la matinale info</title>
-    <category>magazine</category>
-    <desc>Entouré de son équipe de spécialistes, Bruce Toussaint prend les rênes de la matinale et propose de décrypter l'information dans sa globalité : faits d'actualité, économie, événements sportifs, culture et politique sont analysés en détail.</desc>
-    <credits>
-      <name function="presenter">Bruce Toussaint</name>
-      <name function="presenter">Stefan Etcheverry</name>
-      <name function="presenter">Christophe Barbier</name>
-      <name function="presenter">Alice Darfeuille</name>
-      <name function="presenter">Marie Colmant</name>
-      <name function="presenter">Thierry Fréret</name>
-      <name function="presenter">Claire Fournier</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_16_07:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218110000 +0100" stop="20151218140000 +0100">
-    <length units="minutes">180</length>
-    <title>Sonia Chironi, Adrien Borne, le duo de l'info</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par le duo de journalistes formé par Sonia Chironi et Adrien Borne.</desc>
-    <credits>
-      <name function="presenter">Sonia Chironi</name>
-      <name function="presenter">Adrien Borne</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_16_10:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218140000 +0100" stop="20151218190000 +0100">
-    <length units="minutes">300</length>
-    <title>La Newsroom</title>
-    <category>magazine</category>
-    <desc>Toutes les actualités délivrées en temps réel par l'équipe de la Newsroom, prête à approfondir chaque sujet tout au long de la journée.</desc>
-    <credits>
-      <name function="presenter">Romain Desarbres</name>
-      <name function="presenter">Caroline Delage</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_16_13:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218190000 +0100" stop="20151218203000 +0100">
-    <length units="minutes">90</length>
-    <title>Intégrale week-end</title>
-    <category>magazine</category>
-    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la culture.</desc>
-    <credits>
-      <name function="presenter">Antoine Genton</name>
-      <name function="presenter">Aurélie Casse</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_16_18:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218203000 +0100" stop="20151218213000 +0100">
-    <length units="minutes">60</length>
-    <title>20h Foot</title>
-    <category>magazine</category>
-    <desc>Une édition entièrement consacrée au foot, avec un journal exhaustif de l'actualité du ballon rond, suivi d'un focus sur une équipe, un joueur ou un match. Des invités, des duplex et des reportages enrichissent le grand rendez-vous football de la chaîne.</desc>
-    <credits>
-      <name function="presenter">Pascal Praud</name>
-      <name function="presenter">François Pinet</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_16_19:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218213000 +0100" stop="20151218220000 +0100">
-    <length units="minutes">30</length>
-    <title>Le grand JT</title>
-    <category>journal</category>
-    <desc>Le grand journal du soir, qui décrypte et analyse l'actualité autour de nombreux invités.</desc>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_16_20:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218220000 +0100" stop="20151218230000 +0100">
-    <length units="minutes">60</length>
-    <title>CQFD</title>
-    <category>magazine</category>
-    <desc>Florent Peiffer et ses quatre intervenants proposent de décrypter l'actualité politique : réseaux sociaux, sondages et communication sont disséqués et commentés.</desc>
-    <credits>
-      <name function="presenter">Florent Peiffer</name>
-      <name function="presenter">Bruno Jeudy</name>
-      <name function="presenter">Céline Bracq</name>
-      <name function="presenter">Véronique Reille-Soult</name>
-      <name function="presenter">Régis Lefebvre</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_16_21:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218230000 +0100" stop="20151219013000 +0100">
-    <length units="minutes">150</length>
-    <title>Intégrale week-end</title>
-    <category>magazine</category>
-    <desc>Le grand debriefing du week-end, avec des invités et des spécialistes passant en revue l'information, le sport, la politique, l'économie et la culture.</desc>
-    <credits>
-      <name function="presenter">Antoine Genton</name>
-      <name function="presenter">Aurélie Casse</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_16_22:00.jpg</image>
+    <image />
   </programme>
 </tv>

@@ -1,264 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Ciné+ Club">
-    <display-name>burger</display-name>
+    <display-name>test</display-name>
   </channel>
-  <programme channel="burger" start="20151207024500 +0100" stop="20151207042000 +0100">
-    <length units="minutes">95</length>
-    <title>Mange tes morts (?)</title>
-    <category>Film</category>
-    <desc>Jason Dorkel a 18 ans et fait partie des gens... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Jean-Charles Hue</name>
-      <name function="actor">Michaël Dauber</name>
-      <name function="actor">Moïse Dorkel</name>
-      <name function="actor">Violette Dorkel</name>
-      <name function="actor">Jason François</name>
-      <name function="actor">Frédéric Dorkel</name>
-      <name function="actor">Max Horne</name>
-      <name function="actor">Philippe Martin</name>
-      <name function="actor">Sagamore Stévenin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207042000 +0100" stop="20151207055500 +0100">
-    <length units="minutes">95</length>
-    <title>Créatures célestes (?)</title>
-    <category>Film</category>
-    <desc>Christchurch, une petite ville de Nouvelle-Zélande (Lire la suite).</desc>
-    <credits>
-      <name function="director">Peter Jackson</name>
-      <name function="actor">Kate Winslet</name>
-      <name function="actor">Sarah Peirse</name>
-      <name function="actor">Diana Kent</name>
-      <name function="actor">Clive Merrison</name>
-      <name function="actor">Simon O'Connor</name>
-      <name function="actor">Jed Brophy</name>
-      <name function="actor">Peter Elliott</name>
-      <name function="actor">Melanie Lynskey</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207055500 +0100" stop="20151207071500 +0100">
-    <length units="minutes">80</length>
-    <title>Polyester (?)</title>
-    <category>Film</category>
-    <desc>Francine Fishpaw voit l'avenir en noir. Non... (Lire la suite).</desc>
-    <credits>
-      <name function="director">John Waters</name>
-      <name function="actor">Edith Massey</name>
-      <name function="actor">Mink Stole</name>
-      <name function="actor">David Samson</name>
-      <name function="actor">Divine</name>
-      <name function="actor">Mary Garlington</name>
-      <name function="actor">Ken King</name>
-      <name function="actor">Joni Ruth White</name>
-      <name function="actor">Tab Hunter</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207071500 +0100" stop="20151207084000 +0100">
-    <length units="minutes">85</length>
-    <title>Fin des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207084000 +0100" stop="20151207103000 +0100">
-    <length units="minutes">110</length>
-    <title>Le vertige des possibles (?)</title>
-    <category>Film</category>
-    <desc>Anne est un écrivain en manque d'inspiration.... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Vivianne Perelmuter</name>
-      <name function="actor">Marie Payen</name>
-      <name function="actor">Maxime Desmons</name>
-      <name function="actor">Vincent Dieutre</name>
-      <name function="actor">Christine Dory</name>
-      <name function="actor">Bojena Horackova</name>
-      <name function="actor">François Barat</name>
-      <name function="actor">Olivier Costomale</name>
-      <name function="actor">Liao Yi Lin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207103000 +0100" stop="20151207123000 +0100">
-    <length units="minutes">120</length>
-    <title>Michael Kohlhaas (?)</title>
-    <category>Film</category>
-    <desc>Les Cévennes, au XVIe siècle. Alors qu'il... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Arnaud des Pallières</name>
-      <name function="actor">Bruno Ganz</name>
-      <name function="actor">David Bennent</name>
-      <name function="actor">Delphine Chuillot</name>
-      <name function="actor">David Kross</name>
-      <name function="actor">Mélusine Mayance</name>
-      <name function="actor">Roxane Duran</name>
-      <name function="actor">Paul Bartel</name>
-      <name function="actor">Mads Mikkelsen</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207123000 +0100" stop="20151207142500 +0100">
-    <length units="minutes">115</length>
-    <title>Trois enterrements (?)</title>
-    <category>Film</category>
-    <desc>Au Texas, à proximité de la frontière... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Tommy Lee Jones</name>
-      <name function="actor">Melissa Leo</name>
-      <name function="actor">Tommy Lee Jones</name>
-      <name function="actor">Barry Pepper</name>
-      <name function="actor">Vanessa Bauche</name>
-      <name function="actor">Dwight Yoakam</name>
-      <name function="actor">January Jones</name>
-      <name function="actor">Mel Rodriguez</name>
-      <name function="actor">Julio César Cedillo</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207142500 +0100" stop="20151207153000 +0100">
-    <length units="minutes">65</length>
-    <title>This is Comedy</title>
-    <category>Documentaire</category>
-    <desc>Producteur, scénariste, dénicheur de nouveaux... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Jacky Goldberg</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207153000 +0100" stop="20151207171000 +0100">
-    <length units="minutes">100</length>
-    <title>Un château en Italie (?)</title>
-    <category>Film</category>
-    <desc>Louise a 43 ans, pas de mari, pas d'enfants... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Valeria Bruni Tedeschi</name>
-      <name function="actor">André Wilms</name>
-      <name function="actor">Xavier Beauvois</name>
-      <name function="actor">Filippo Timi</name>
-      <name function="actor">Louis Garrel</name>
-      <name function="actor">Valeria Bruni Tedeschi</name>
-      <name function="actor">Pippo Delbono</name>
-      <name function="actor">Céline Sallette</name>
-      <name function="actor">Marisa Bruni Tedeschi</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207171000 +0100" stop="20151207185000 +0100">
-    <length units="minutes">100</length>
-    <title>Les années sandwiches (?)</title>
-    <category>Film</category>
-    <desc>A Paris, en juillet 1947. Victor et Félix ont... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Pierre Boutron</name>
-      <name function="actor">Thomas Langmann</name>
-      <name function="actor">Nicolas Giraudi</name>
-      <name function="actor">Michel Aumont</name>
-      <name function="actor">Clovis Cornillac</name>
-      <name function="actor">François Perrot</name>
-      <name function="actor">Patrick Chesnais</name>
-      <name function="actor">Philippe Khorsand</name>
-      <name function="actor">Wojciech Pszoniak</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207185000 +0100" stop="20151207205500 +0100">
-    <length units="minutes">125</length>
-    <title>Les bruits de Récife (?)</title>
-    <category>Film</category>
-    <desc>A Recife, sur la côte brésilienne, les... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Kleber Mendonça Filho</name>
-      <name function="actor">Maeve Jinkings</name>
-      <name function="actor">Gustavo Jahn</name>
-      <name function="actor">Irma Brown</name>
-      <name function="actor">Waldemar José Solha</name>
-      <name function="actor">Lula Terra</name>
-      <name function="actor">Yuri Holanda</name>
-      <name function="actor">Clébia Souza</name>
-      <name function="actor">Irandhir Santos</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207205500 +0100" stop="20151207224500 +0100">
-    <length units="minutes">110</length>
-    <title>Hope and Glory (?)</title>
-    <category>Film</category>
-    <desc>Le 3 septembre 1939, une famille londonienne,... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">John Boorman</name>
-      <name function="actor">David Hayman</name>
-      <name function="actor">Sarah Miles</name>
-      <name function="actor">Sammi Davis</name>
-      <name function="actor">Susan Woolridge</name>
-      <name function="actor">David O'Connor</name>
-      <name function="actor">Jean-Marc Barr</name>
-      <name function="actor">Geraldine Muir</name>
-      <name function="actor">Sebastian Rice-Edwards</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207224500 +0100" stop="20151208000500 +0100">
-    <length units="minutes">80</length>
-    <title>9 mois ferme (?)</title>
-    <category>Film</category>
-    <desc>Ariane Felder, 40 ans, adore son métier de... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Albert Dupontel</name>
-      <name function="actor">Gilles Gaston-Dreyfus</name>
-      <name function="actor">Christian Hecq</name>
-      <name function="actor">Philippe Duquesne</name>
-      <name function="actor">Philippe Uchan</name>
-      <name function="actor">Bouli Lanners</name>
-      <name function="actor">Sandrine Kiberlain</name>
-      <name function="actor">Albert Dupontel</name>
-      <name function="actor">Nicolas Marié</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208000500 +0100" stop="20151208012500 +0100">
-    <length units="minutes">80</length>
-    <title>Wrong Cops (?)</title>
-    <category>Film</category>
-    <desc>Los Angeles, 2014. Duke, un flic corrompu et... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Quentin Dupieux</name>
-      <name function="actor">Grace Zabriskie</name>
-      <name function="actor">Eric Judor</name>
-      <name function="actor">Arden Myrin</name>
-      <name function="actor">Marilyn Manson</name>
-      <name function="actor">Mark Burnham</name>
-      <name function="actor">Steve Little</name>
-      <name function="actor">Eric Wareheim</name>
-      <name function="actor">Isabella Palmieri</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208012500 +0100" stop="20151208023500 +0100">
-    <length units="minutes">70</length>
-    <title>Les contes de Grimm pour grandes personnes (?)</title>
-    <category>Film</category>
-    <desc>Blanche Neige attise les pulsions sexuelles... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Rolf Thiele</name>
-      <name function="actor">Gaby Fuchs</name>
-      <name function="actor">Marie Liljedahl</name>
-      <name function="actor">Peter Hohberger</name>
-      <name function="actor">Eva Reuber-Staier</name>
-      <name function="actor">Kino Kitty</name>
-      <name function="actor">Evelyn Dutree</name>
-      <name function="actor">Milos Gvozdich</name>
-      <name function="actor">Ingrid Van Bergen</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208023500 +0100" stop="20151208045000 +0100">
+  <programme channel="test" start="20151208003500 +0100" stop="20151208025000 +0100">
     <length units="minutes">135</length>
     <title>Les chiens errants (?)</title>
     <category>Film</category>
-    <desc>A Taipei, un homme passe sa journée à tenir... (Lire la suite).(r)</desc>
+    <desc>A Taipei, un homme passe sa journée à tenir... (Lire la suite).</desc>
     <credits>
       <name function="director">Tsai Ming-liang</name>
       <name function="actor">Lee Kang-Sheng</name>
@@ -269,11 +18,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208045000 +0100" stop="20151208063500 +0100">
+  <programme channel="test" start="20151208025000 +0100" stop="20151208043500 +0100">
     <length units="minutes">105</length>
     <title>Allonsanfan (?)</title>
     <category>Film</category>
-    <desc>1816, en Italie. Fulvio, membre d'une société... (Lire la suite).(r)</desc>
+    <desc>1816, en Italie. Fulvio, membre d'une société... (Lire la suite).</desc>
     <credits>
       <name function="director">Vittorio Taviani,</name>
       <name function="director">Paolo Taviani</name>
@@ -288,11 +37,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208063500 +0100" stop="20151208080500 +0100">
+  <programme channel="test" start="20151208043500 +0100" stop="20151208060500 +0100">
     <length units="minutes">90</length>
     <title>Hairspray (?)</title>
     <category>Film</category>
-    <desc>Baltimore, 1962. Le «Corny Collins Show», une... (Lire la suite).(r)</desc>
+    <desc>Baltimore, 1962. Le «Corny Collins Show», une... (Lire la suite).</desc>
     <credits>
       <name function="director">John Waters</name>
       <name function="actor">Sonny Bono</name>
@@ -306,18 +55,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208080500 +0100" stop="20151208085000 +0100">
+  <programme channel="test" start="20151208060500 +0100" stop="20151208065000 +0100">
     <length units="minutes">45</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208085000 +0100" stop="20151208103000 +0100">
+  <programme channel="test" start="20151208065000 +0100" stop="20151208083000 +0100">
     <length units="minutes">100</length>
     <title>Camouflage (?)</title>
     <category>Film</category>
-    <desc>Un groupe d'étudiants en linguistique prend... (Lire la suite).(r)</desc>
+    <desc>Un groupe d'étudiants en linguistique prend part à une université d'été organisée dans le cadre idyllique d'une demeure aristocratique. Tous... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Krzysztof Zanussi</name>
       <name function="actor">Mariusz Dmochowski</name>
@@ -331,11 +80,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208103000 +0100" stop="20151208120500 +0100">
+  <programme channel="test" start="20151208083000 +0100" stop="20151208100500 +0100">
     <length units="minutes">95</length>
     <title>Away We Go (?)</title>
     <category>Film</category>
-    <desc>Burt et Verona, jeunes trentenaires, attendent la (Lire la suite).(r)</desc>
+    <desc>Burt et Verona, jeunes trentenaires, attendent la naissance de leur premier enfant. Les parents de Verona sont morts et ceux de Burt décident... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Sam Mendes</name>
       <name function="actor">Jeff Daniels</name>
@@ -349,11 +98,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208120500 +0100" stop="20151208135500 +0100">
+  <programme channel="test" start="20151208100500 +0100" stop="20151208115500 +0100">
     <length units="minutes">110</length>
     <title>Adieu Bonaparte (?)</title>
     <category>Film</category>
-    <desc>1798. Les troupes françaises, guidées par... (Lire la suite).(r)</desc>
+    <desc>1798. Les troupes françaises, guidées par Bonaparte, débarquent en Egypte. Parmi l'aréopage de savants et de chercheurs dont s'est entouré le... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Youssef Chahine</name>
       <name function="actor">Michel Piccoli</name>
@@ -367,11 +116,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208135500 +0100" stop="20151208140500 +0100">
+  <programme channel="test" start="20151208115500 +0100" stop="20151208120500 +0100">
     <length units="minutes">10</length>
     <title>Suzanne (?)</title>
     <category>Film</category>
-    <desc>Alors que la vie de Suzanne s'apprête à... (Lire la suite).(r)</desc>
+    <desc>Alors que la vie de Suzanne s'apprête à basculer à tout jamais, personne dans sa famille ne semble s'en rendre compte... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Wilfried Méance</name>
       <name function="actor">Dominique Pinon</name>
@@ -382,11 +131,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208140500 +0100" stop="20151208153000 +0100">
+  <programme channel="test" start="20151208120500 +0100" stop="20151208133000 +0100">
     <length units="minutes">85</length>
     <title>Polyester (?)</title>
     <category>Film</category>
-    <desc>Francine Fishpaw voit l'avenir en noir. Non... (Lire la suite).(r)</desc>
+    <desc>Francine Fishpaw voit l'avenir en noir. Non seulement elle est obèse, mais sa famille part à vau-l'eau. Les habitants de sa banlieue de Baltimore... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">John Waters</name>
       <name function="actor">Edith Massey</name>
@@ -400,11 +149,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208153000 +0100" stop="20151208180500 +0100">
+  <programme channel="test" start="20151208133000 +0100" stop="20151208160500 +0100">
     <length units="minutes">155</length>
     <title>There Will Be Blood (?)</title>
     <category>Film</category>
-    <desc>Alors que la voiture commence à peine à se... (Lire la suite).(r)</desc>
+    <desc>Alors que la voiture commence à peine à se développer en Amérique, Daniel Plainview tente de faire fortune en installant des puits de pétrole à... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Paul Thomas Anderson</name>
       <name function="actor">Randall Carver</name>
@@ -418,11 +167,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208180500 +0100" stop="20151208200000 +0100">
+  <programme channel="test" start="20151208160500 +0100" stop="20151208180000 +0100">
     <length units="minutes">115</length>
     <title>Les démons de Jésus (?)</title>
     <category>Film</category>
-    <desc>A la veille de mai 68, Jo Jacob, un ancien... (Lire la suite).(r)</desc>
+    <desc>A la veille de mai 68, Jo Jacob, un ancien forain, vit avec ses quatre fils et sa fille dans la maison qu'il a gagnée au poker contre Raymond... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Bernie Bonvoisin</name>
       <name function="actor">Martin Lamotte</name>
@@ -436,21 +185,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208200000 +0100" stop="20151208202500 +0100">
+  <programme channel="test" start="20151208180000 +0100" stop="20151208182500 +0100">
     <length units="minutes">25</length>
     <title>Le temps des lucioles (?)</title>
     <category>Film</category>
-    <desc>Pendant plus de 20 ans, un homme a photographié (Lire la suite).(r)</desc>
+    <desc>Pendant plus de 20 ans, un homme a photographié de nombreuses actrices de cinéma. Aujourd'hui, son travail est au point mort. Quelle culpabilité... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jean-Pierre Larcher</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208202500 +0100" stop="20151208223000 +0100">
+  <programme channel="test" start="20151208182500 +0100" stop="20151208203000 +0100">
     <length units="minutes">125</length>
     <title>La grande bouffe (?)</title>
     <category>Film</category>
-    <desc>Quatre amis font retraite dans un hôtel... (Lire la suite).(r)</desc>
+    <desc>Quatre amis font retraite dans un hôtel particulier, à Paris, où ils ont entreposé des cargaisons de vivres en vue d'un «séminaire... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Marco Ferreri</name>
       <name function="actor">Michel Piccoli</name>
@@ -464,11 +213,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208223000 +0100" stop="20151208224500 +0100">
+  <programme channel="test" start="20151208203000 +0100" stop="20151208204500 +0100">
     <length units="minutes">15</length>
     <title>Illusion (?)</title>
     <category>Film</category>
-    <desc>Deux filles accros aux réseaux sociaux se... (Lire la suite).(r)</desc>
+    <desc>Deux filles accros aux réseaux sociaux se laissent entraîner dans une spirale de voyeurisme et d'exhibitionnisme qui les... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Alexandra Jousset,</name>
       <name function="director">Téodora Berglund</name>
@@ -478,11 +227,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208224500 +0100" stop="20151209013500 +0100">
+  <programme channel="test" start="20151208204500 +0100" stop="20151208233500 +0100">
     <length units="minutes">170</length>
     <title>Casino (?)</title>
     <category>Film</category>
-    <desc>Dans les années 1970, sa chance insolente et... (Lire la suite).(r)</desc>
+    <desc>Dans les années 1970, sa chance insolente et son flair infaillible valent à Sam «Ace» Rothstein l'honneur d'être catapulté à la tête d'un luxueux... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Martin Scorsese</name>
       <name function="actor">Robert De Niro</name>
@@ -496,11 +245,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209013500 +0100" stop="20151209033000 +0100">
+  <programme channel="test" start="20151208233500 +0100" stop="20151209013000 +0100">
     <length units="minutes">115</length>
     <title>Still Walking (?)</title>
     <category>Film</category>
-    <desc>Pour le jour du souvenir, Ryota vient rendre... (Lire la suite).(r)</desc>
+    <desc>Pour le jour du souvenir, Ryota vient rendre visite à ses parents avec sa femme, Yukari, et le fils de celle-ci qu'il a adopté, Atsushi. Sa mère... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Hirokazu Kore-Eda</name>
       <name function="actor">Hiroshi Abe</name>
@@ -514,7 +263,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209033000 +0100" stop="20151209041500 +0100">
+  <programme channel="test" start="20151209013000 +0100" stop="20151209021500 +0100">
     <length units="minutes">45</length>
     <title>Cucumber</title>
     <category>Série</category>
@@ -533,7 +282,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209041500 +0100" stop="20151209044000 +0100">
+  <programme channel="test" start="20151209021500 +0100" stop="20151209024000 +0100">
     <length units="minutes">25</length>
     <title>Banana</title>
     <category>Série</category>
@@ -550,11 +299,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209044000 +0100" stop="20151209062000 +0100">
+  <programme channel="test" start="20151209024000 +0100" stop="20151209042000 +0100">
     <length units="minutes">100</length>
     <title>L'empire des sens (?)</title>
     <category>Film</category>
-    <desc>Tokyo, 1936. Kichizo, propriétaire d'une... (Lire la suite).(r)</desc>
+    <desc>Tokyo, 1936. Kichizo, propriétaire d'une maison close, est intrigué par une de ses jeunes servantes, Sada Abe. Il éprouve pour elle un désir... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Nagisa Oshima</name>
       <name function="actor">Tatsuya Fuji</name>
@@ -568,7 +317,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209062000 +0100" stop="20151209075500 +0100">
+  <programme channel="test" start="20151209042000 +0100" stop="20151209055500 +0100">
     <length units="minutes">95</length>
     <title>Vincent Dieutre, la chambre et le monde</title>
     <category>Documentaire</category>
@@ -578,7 +327,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209075500 +0100" stop="20151209084000 +0100">
+  <programme channel="test" start="20151209055500 +0100" stop="20151209064000 +0100">
     <length units="minutes">45</length>
     <title>Tous cinéma</title>
     <category>Magazine</category>
@@ -588,11 +337,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209084000 +0100" stop="20151209103000 +0100">
+  <programme channel="test" start="20151209064000 +0100" stop="20151209083000 +0100">
     <length units="minutes">110</length>
     <title>Hope and Glory (?)</title>
     <category>Film</category>
-    <desc>Le 3 septembre 1939, une famille londonienne,... (Lire la suite).(r)</desc>
+    <desc>Le 3 septembre 1939, une famille londonienne, les Rohan, apprend par la radio que l'Angleterre a déclaré la guerre à l'Allemagne. Si le père se... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">John Boorman</name>
       <name function="actor">David Hayman</name>
@@ -606,11 +355,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209103000 +0100" stop="20151209122000 +0100">
+  <programme channel="test" start="20151209083000 +0100" stop="20151209102000 +0100">
     <length units="minutes">110</length>
     <title>Still Walking (?)</title>
     <category>Film</category>
-    <desc>Pour le jour du souvenir, Ryota vient rendre... (Lire la suite).(r)</desc>
+    <desc>Pour le jour du souvenir, Ryota vient rendre visite à ses parents avec sa femme, Yukari, et le fils de celle-ci qu'il a adopté, Atsushi. Sa mère... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Hirokazu Kore-Eda</name>
       <name function="actor">Hiroshi Abe</name>
@@ -624,11 +373,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209122000 +0100" stop="20151209142000 +0100">
+  <programme channel="test" start="20151209102000 +0100" stop="20151209122000 +0100">
     <length units="minutes">120</length>
     <title>Une vie simple (?)</title>
     <category>Film</category>
-    <desc>Ah Tao s'est silencieusement usé au service... (Lire la suite).(r)</desc>
+    <desc>Ah Tao s'est silencieusement usé au service d'une même famille depuis quatre générations. Devenue une vieille dame, elle continue de veiller sur... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Ann Hui</name>
       <name function="actor">Andy Lau</name>
@@ -642,7 +391,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209142000 +0100" stop="20151209153000 +0100">
+  <programme channel="test" start="20151209122000 +0100" stop="20151209133000 +0100">
     <length units="minutes">70</length>
     <title>Mémoire cubaine</title>
     <category>Documentaire</category>
@@ -652,11 +401,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209153000 +0100" stop="20151209173000 +0100">
+  <programme channel="test" start="20151209133000 +0100" stop="20151209153000 +0100">
     <length units="minutes">120</length>
     <title>Trois enterrements (?)</title>
     <category>Film</category>
-    <desc>Au Texas, à proximité de la frontière... (Lire la suite).(r)</desc>
+    <desc>Au Texas, à proximité de la frontière mexicaine, des policiers découvrent le cadavre de Melquiades Estrada, un travailleur clandestin mexicain,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Tommy Lee Jones</name>
       <name function="actor">Melissa Leo</name>
@@ -670,11 +419,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209173000 +0100" stop="20151209190000 +0100">
+  <programme channel="test" start="20151209153000 +0100" stop="20151209170000 +0100">
     <length units="minutes">90</length>
     <title>Grand Central (?)</title>
     <category>Film</category>
-    <desc>Jusqu'ici, Gary a navigué à vue dans sa vie... (Lire la suite).(r)</desc>
+    <desc>Jusqu'ici, Gary a navigué à vue dans sa vie professionnelle. Rejeté par sa famille, il enchaîne les petits boulots sans réelle perspective... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Rebecca Zlotowski</name>
       <name function="actor">Denis Ménochet</name>
@@ -688,27 +437,27 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209190000 +0100" stop="20151209210000 +0100">
+  <programme channel="test" start="20151209170000 +0100" stop="20151209190000 +0100">
     <length units="minutes">120</length>
     <title>Let's Get Lost (?)</title>
     <category>Film</category>
-    <desc>Chet Baker, décédé en 1988 à Amsterdam, était... (Lire la suite).(r)</desc>
+    <desc>Chet Baker, décédé en 1988 à Amsterdam, était l'un des géants du jazz. Sa vie était jalonnée de hasards et de drames. Son père, banjoïste... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Bruce Weber</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209210000 +0100" stop="20151209224500 +0100">
+  <programme channel="test" start="20151209190000 +0100" stop="20151209204500 +0100">
     <length units="minutes">105</length>
     <title>Moonwalk One (?)</title>
     <category>Film</category>
-    <desc>Entre 1969 et 1970, Theo Kamecke tourne un... (Lire la suite).(r)</desc>
+    <desc>Entre 1969 et 1970, Theo Kamecke tourne un documentaire consacré à la première tentative de l'Homme de marcher sur la Lune. Le réalisateur a... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Theo Kamecke</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209224500 +0100" stop="20151209233500 +0100">
+  <programme channel="test" start="20151209204500 +0100" stop="20151209213500 +0100">
     <length units="minutes">50</length>
     <title>Cucumber</title>
     <category>Série</category>
@@ -727,7 +476,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209233500 +0100" stop="20151210000000 +0100">
+  <programme channel="test" start="20151209213500 +0100" stop="20151209220000 +0100">
     <length units="minutes">25</length>
     <title>Banana</title>
     <category>Série</category>
@@ -746,11 +495,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210000000 +0100" stop="20151210013000 +0100">
+  <programme channel="test" start="20151209220000 +0100" stop="20151209233000 +0100">
     <length units="minutes">90</length>
     <title>Jeune &amp; jolie (?)</title>
     <category>Film</category>
-    <desc>Jeune fille de bonne famille, Isabelle est... (Lire la suite).(r)</desc>
+    <desc>Jeune fille de bonne famille, Isabelle est impatiente de vivre sa première expérience sexuelle. Un soir, lors de vacances en famille sur la Côte... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">François Ozon</name>
       <name function="actor">Charlotte Rampling</name>
@@ -764,11 +513,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210013000 +0100" stop="20151210030000 +0100">
+  <programme channel="test" start="20151209233000 +0100" stop="20151210010000 +0100">
     <length units="minutes">90</length>
     <title>Trainspotting (?)</title>
     <category>Film</category>
-    <desc>Edimbourg, dans les années 90. Mark Renton et... (Lire la suite).(r)</desc>
+    <desc>Edimbourg, dans les années 90. Mark Renton et ses amis Spud et Sick Boy se droguent à l'héroïne. Quoique fort sensible au plaisir qu'il éprouve... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Danny Boyle</name>
       <name function="actor">Ewan McGregor</name>
@@ -782,7 +531,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210030000 +0100" stop="20151210041500 +0100">
+  <programme channel="test" start="20151210010000 +0100" stop="20151210021500 +0100">
     <length units="minutes">75</length>
     <title>Le retour de Marilyn</title>
     <category>Téléfilm</category>
@@ -800,11 +549,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210041500 +0100" stop="20151210060000 +0100">
+  <programme channel="test" start="20151210021500 +0100" stop="20151210040000 +0100">
     <length units="minutes">105</length>
     <title>La vallée (?)</title>
     <category>Film</category>
-    <desc>Viviane, la femme du consul de France à... (Lire la suite).(r)</desc>
+    <desc>Viviane, la femme du consul de France à Melbourne, séjourne en Nouvelle-Guinée afin d'y trouver le repos. Dans le but de rompre avec sa vie... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Barbet Schroeder</name>
       <name function="actor">Jean-Pierre Kalfon</name>
@@ -816,11 +565,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210060000 +0100" stop="20151210074500 +0100">
+  <programme channel="test" start="20151210040000 +0100" stop="20151210054500 +0100">
     <length units="minutes">105</length>
     <title>La cinquième saison (?)</title>
     <category>Film</category>
-    <desc>C'est la fin de l'hiver dans un petit village... (Lire la suite).(r)</desc>
+    <desc>C'est la fin de l'hiver dans un petit village agricole perdu au coeur des Ardennes. Pour fêter l'arrivée du printemps, les habitants construisent... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jessica Woodworth,</name>
       <name function="director">Peter Brosens</name>
@@ -835,7 +584,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210074500 +0100" stop="20151210091500 +0100">
+  <programme channel="test" start="20151210054500 +0100" stop="20151210071500 +0100">
     <length units="minutes">90</length>
     <title>Vincent Dieutre, la chambre et le monde</title>
     <category>Documentaire</category>
@@ -845,7 +594,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210091500 +0100" stop="20151210100500 +0100">
+  <programme channel="test" start="20151210071500 +0100" stop="20151210080500 +0100">
     <length units="minutes">50</length>
     <title>Cucumber</title>
     <category>Série</category>
@@ -864,7 +613,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210100500 +0100" stop="20151210103000 +0100">
+  <programme channel="test" start="20151210080500 +0100" stop="20151210083000 +0100">
     <length units="minutes">25</length>
     <title>Banana</title>
     <category>Série</category>
@@ -883,11 +632,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210103000 +0100" stop="20151210130500 +0100">
+  <programme channel="test" start="20151210083000 +0100" stop="20151210110500 +0100">
     <length units="minutes">155</length>
     <title>There Will Be Blood (?)</title>
     <category>Film</category>
-    <desc>Alors que la voiture commence à peine à se... (Lire la suite).(r)</desc>
+    <desc>Alors que la voiture commence à peine à se développer en Amérique, Daniel Plainview tente de faire fortune en installant des puits de pétrole à... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Paul Thomas Anderson</name>
       <name function="actor">Randall Carver</name>
@@ -901,11 +650,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210130500 +0100" stop="20151210151500 +0100">
+  <programme channel="test" start="20151210110500 +0100" stop="20151210131500 +0100">
     <length units="minutes">130</length>
     <title>Les chiens errants (?)</title>
     <category>Film</category>
-    <desc>A Taipei, un homme passe sa journée à tenir... (Lire la suite).(r)</desc>
+    <desc>A Taipei, un homme passe sa journée à tenir une pancarte. Posté à un carrefour, sous un ciré jaune, il tient sa pancarte. Le panneau vante les... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Tsai Ming-liang</name>
       <name function="actor">Lee Kang-Sheng</name>
@@ -916,11 +665,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210151500 +0100" stop="20151210153000 +0100">
+  <programme channel="test" start="20151210131500 +0100" stop="20151210133000 +0100">
     <length units="minutes">15</length>
     <title>La mystérieuse disparition de Robert Ebb (?)</title>
     <category>Film</category>
-    <desc>Comment une blague anodine tourne à la... (Lire la suite).(r)</desc>
+    <desc>Comment une blague anodine tourne à la catastrophe... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">François-Xavier Goby,</name>
       <name function="director">Matthieu Landour,</name>
@@ -932,11 +681,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210153000 +0100" stop="20151210165000 +0100">
+  <programme channel="test" start="20151210133000 +0100" stop="20151210145000 +0100">
     <length units="minutes">80</length>
     <title>9 mois ferme (?)</title>
     <category>Film</category>
-    <desc>Ariane Felder, 40 ans, adore son métier de... (Lire la suite).(r)</desc>
+    <desc>Ariane Felder, 40 ans, adore son métier de juge d'instruction et y consacre sa vie. Elle est d'autant plus surprise quand elle apprend qu'elle... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Albert Dupontel</name>
       <name function="actor">Gilles Gaston-Dreyfus</name>
@@ -950,11 +699,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210165000 +0100" stop="20151210182000 +0100">
+  <programme channel="test" start="20151210145000 +0100" stop="20151210162000 +0100">
     <length units="minutes">90</length>
     <title>Lulu, femme nue (?)</title>
     <category>Film</category>
-    <desc>Parce qu'elle a manqué d'assurance au cours... (Lire la suite).(r)</desc>
+    <desc>Parce qu'elle a manqué d'assurance au cours d'un entretien d'embauche, Lulu, mariée et mère de trois enfants, n'obtient pas le poste de... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Sólveig Anspach</name>
       <name function="actor">Karin Viard</name>
@@ -968,11 +717,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210182000 +0100" stop="20151210193500 +0100">
+  <programme channel="test" start="20151210162000 +0100" stop="20151210173500 +0100">
     <length units="minutes">75</length>
     <title>Gerontophilia (?)</title>
     <category>Film</category>
-    <desc>Lake, un garçon de 18 ans à priori comme les... (Lire la suite).(r)</desc>
+    <desc>Lake, un garçon de 18 ans à priori comme les autres, entretient une relation amoureuse avec une fille de son âge. Alors qu'il semble heureux avec... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Bruce LaBruce</name>
       <name function="actor">Katie Boland</name>
@@ -986,11 +735,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210193500 +0100" stop="20151210210000 +0100">
+  <programme channel="test" start="20151210173500 +0100" stop="20151210190000 +0100">
     <length units="minutes">85</length>
     <title>Wrong Cops (?)</title>
     <category>Film</category>
-    <desc>Los Angeles, 2014. Duke, un flic corrompu et... (Lire la suite).(r)</desc>
+    <desc>Los Angeles, 2014. Duke, un flic corrompu et mélomane, vend de l'herbe et terrorise les passants. Duke rencontre David Dolores Frank, un... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Quentin Dupieux</name>
       <name function="actor">Grace Zabriskie</name>
@@ -1004,11 +753,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210210000 +0100" stop="20151210222500 +0100">
+  <programme channel="test" start="20151210190000 +0100" stop="20151210202500 +0100">
     <length units="minutes">85</length>
     <title>Pecker (?)</title>
     <category>Film</category>
-    <desc>Pecker habite un quartier défavorisé de... (Lire la suite).(r)</desc>
+    <desc>Pecker habite un quartier défavorisé de Baltimore, dans le Maryland. Son père, propriétaire d'un bar minable, souffre de la concurrence de la... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">John Waters</name>
       <name function="actor">Martha Plimpton</name>
@@ -1022,18 +771,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210222500 +0100" stop="20151210224500 +0100">
+  <programme channel="test" start="20151210202500 +0100" stop="20151210204500 +0100">
     <length units="minutes">20</length>
     <title>Viva cinéma</title>
     <category>Magazine</category>
     <desc>Episode 12 Ce magazine propose chaque semaine de faire... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210224500 +0100" stop="20151211001500 +0100">
+  <programme channel="test" start="20151210204500 +0100" stop="20151210221500 +0100">
     <length units="minutes">90</length>
     <title>Suzanne (?)</title>
     <category>Film</category>
-    <desc>Enfant, Suzanne danse sur scène parmi... (Lire la suite).(r)</desc>
+    <desc>Enfant, Suzanne danse sur scène parmi d'autres fillettes et rayonne de fierté sous le regard de son père, Nicolas, et sa jeune soeur, Maria.... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Katell Quillévéré</name>
       <name function="actor">Anne Le Ny</name>
@@ -1047,11 +796,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211001500 +0100" stop="20151211014500 +0100">
+  <programme channel="test" start="20151210221500 +0100" stop="20151210234500 +0100">
     <length units="minutes">90</length>
     <title>Une femme fidèle (?)</title>
     <category>Film</category>
-    <desc>Dans les années 1830, époque où les transactions (Lire la suite).(r)</desc>
+    <desc>Dans les années 1830, époque où les transactions financières n'étaient pas encore très développées, Charles, un aristocratique français, a bâti... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Roger Vadim</name>
       <name function="actor">Serge Marquand</name>
@@ -1065,11 +814,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211014500 +0100" stop="20151211032000 +0100">
+  <programme channel="test" start="20151210234500 +0100" stop="20151211012000 +0100">
     <length units="minutes">95</length>
     <title>Grand Central (?)</title>
     <category>Film</category>
-    <desc>Jusqu'ici, Gary a navigué à vue dans sa vie... (Lire la suite).(r)</desc>
+    <desc>Jusqu'ici, Gary a navigué à vue dans sa vie professionnelle. Rejeté par sa famille, il enchaîne les petits boulots sans réelle perspective... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Rebecca Zlotowski</name>
       <name function="actor">Denis Ménochet</name>
@@ -1083,11 +832,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211032000 +0100" stop="20151211051500 +0100">
+  <programme channel="test" start="20151211012000 +0100" stop="20151211031500 +0100">
     <length units="minutes">115</length>
     <title>Michael Kohlhaas (?)</title>
     <category>Film</category>
-    <desc>Les Cévennes, au XVIe siècle. Alors qu'il... (Lire la suite).(r)</desc>
+    <desc>Les Cévennes, au XVIe siècle. Alors qu'il rentre chez lui, Michael Kohlhaas, marchand réformé d'origine allemande, se heurte à un baron, qui a... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Arnaud des Pallières</name>
       <name function="actor">Bruno Ganz</name>
@@ -1101,11 +850,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211051500 +0100" stop="20151211065500 +0100">
+  <programme channel="test" start="20151211031500 +0100" stop="20151211045500 +0100">
     <length units="minutes">100</length>
     <title>Les années sandwiches (?)</title>
     <category>Film</category>
-    <desc>A Paris, en juillet 1947. Victor et Félix ont... (Lire la suite).(r)</desc>
+    <desc>A Paris, en juillet 1947. Victor et Félix ont 15 ans. Victor est juif. Il arrive de la campagne, où il avait trouvé refuge après la disparition... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Pierre Boutron</name>
       <name function="actor">Thomas Langmann</name>
@@ -1119,14 +868,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211065500 +0100" stop="20151211074500 +0100">
+  <programme channel="test" start="20151211045500 +0100" stop="20151211054500 +0100">
     <length units="minutes">50</length>
     <title>Fin des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211074500 +0100" stop="20151211083500 +0100">
+  <programme channel="test" start="20151211054500 +0100" stop="20151211063500 +0100">
     <length units="minutes">50</length>
     <title>Le dernier film de Jess Franco</title>
     <category>Documentaire</category>
@@ -1136,11 +885,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211083500 +0100" stop="20151211103000 +0100">
+  <programme channel="test" start="20151211063500 +0100" stop="20151211083000 +0100">
     <length units="minutes">115</length>
     <title>Une vie simple (?)</title>
     <category>Film</category>
-    <desc>Ah Tao s'est silencieusement usé au service... (Lire la suite).(r)</desc>
+    <desc>Ah Tao s'est silencieusement usé au service d'une même famille depuis quatre générations. Devenue une vieille dame, elle continue de veiller sur... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Ann Hui</name>
       <name function="actor">Andy Lau</name>
@@ -1154,11 +903,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211103000 +0100" stop="20151211121000 +0100">
+  <programme channel="test" start="20151211083000 +0100" stop="20151211101000 +0100">
     <length units="minutes">100</length>
     <title>Les nuits de la pleine lune (?)</title>
     <category>Film</category>
-    <desc>Louise, stagiaire dans une agence de décoration, (Lire la suite).(r)</desc>
+    <desc>Louise, stagiaire dans une agence de décoration, et Rémi, son ami architecte, s'aiment et vivent ensemble dans un appartement moderne de... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Eric Rohmer</name>
       <name function="actor">Pascale Ogier</name>
@@ -1172,11 +921,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211121000 +0100" stop="20151211134000 +0100">
+  <programme channel="test" start="20151211101000 +0100" stop="20151211114000 +0100">
     <length units="minutes">90</length>
     <title>Grand Central (?)</title>
     <category>Film</category>
-    <desc>Jusqu'ici, Gary a navigué à vue dans sa vie... (Lire la suite).(r)</desc>
+    <desc>Jusqu'ici, Gary a navigué à vue dans sa vie professionnelle. Rejeté par sa famille, il enchaîne les petits boulots sans réelle perspective... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Rebecca Zlotowski</name>
       <name function="actor">Denis Ménochet</name>
@@ -1190,11 +939,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211134000 +0100" stop="20151211135000 +0100">
+  <programme channel="test" start="20151211114000 +0100" stop="20151211115000 +0100">
     <length units="minutes">10</length>
     <title>Journal d'un frigo (?)</title>
     <category>Film</category>
-    <desc>En 1971, un jeune couple achète un vieux... (Lire la suite).(r)</desc>
+    <desc>En 1971, un jeune couple achète un vieux frigo des années 50 et le place dans sa cuisine, où l'engin va devenir le témoin de leur vie... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Joséphine Derobe</name>
       <name function="actor">Clément Sibony</name>
@@ -1202,21 +951,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211135000 +0100" stop="20151211153000 +0100">
+  <programme channel="test" start="20151211115000 +0100" stop="20151211133000 +0100">
     <length units="minutes">100</length>
     <title>Salvador Allende (?)</title>
     <category>Film</category>
-    <desc>Effectuant un patient travail de croisement... (Lire la suite).(r)</desc>
+    <desc>Effectuant un patient travail de croisement des archives de l'époque, le documentariste Patricio Guzmán tente de comprendre comment le Chili... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Patricio Guzmán</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211153000 +0100" stop="20151211172500 +0100">
+  <programme channel="test" start="20151211133000 +0100" stop="20151211152500 +0100">
     <length units="minutes">115</length>
     <title>Jimmy P. (Psychothérapie d'un indien des plaines) (?)</title>
     <category>Film</category>
-    <desc>Alors que la Seconde Guerre mondiale vient de... (Lire la suite).(r)</desc>
+    <desc>Alors que la Seconde Guerre mondiale vient de s'achever, Jimmy Picard, Indien Blackfoot qui a combattu en France, entre à l'hôpital militaire de... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Arnaud Desplechin</name>
       <name function="actor">Gary Farmer</name>
@@ -1230,11 +979,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211172500 +0100" stop="20151211192500 +0100">
+  <programme channel="test" start="20151211152500 +0100" stop="20151211172500 +0100">
     <length units="minutes">120</length>
     <title>Mon âme par toi guérie (?)</title>
     <category>Film</category>
-    <desc>Frédi a reçu un don en héritage. Comme sa... (Lire la suite).(r)</desc>
+    <desc>Frédi a reçu un don en héritage. Comme sa défunte mère, il a le pouvoir de guérir, juste en posant les mains sur un malade. Une faculté qui... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">François Dupeyron</name>
       <name function="actor">Agathe Dronne</name>
@@ -1248,11 +997,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211192500 +0100" stop="20151211212500 +0100">
+  <programme channel="test" start="20151211172500 +0100" stop="20151211192500 +0100">
     <length units="minutes">120</length>
     <title>Michael Kohlhaas (?)</title>
     <category>Film</category>
-    <desc>Les Cévennes, au XVIe siècle. Alors qu'il... (Lire la suite).(r)</desc>
+    <desc>Les Cévennes, au XVIe siècle. Alors qu'il rentre chez lui, Michael Kohlhaas, marchand réformé d'origine allemande, se heurte à un baron, qui a... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Arnaud des Pallières</name>
       <name function="actor">Bruno Ganz</name>
@@ -1266,7 +1015,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211212500 +0100" stop="20151211222500 +0100">
+  <programme channel="test" start="20151211192500 +0100" stop="20151211202500 +0100">
     <length units="minutes">60</length>
     <title>This is Comedy</title>
     <category>Documentaire</category>
@@ -1276,18 +1025,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211222500 +0100" stop="20151211224500 +0100">
+  <programme channel="test" start="20151211202500 +0100" stop="20151211204500 +0100">
     <length units="minutes">20</length>
     <title>Par ici les sorties</title>
     <category>Magazine</category>
     <desc>Episode 15 Le point sur les sorties de la semaine. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211224500 +0100" stop="20151212002000 +0100">
+  <programme channel="test" start="20151211204500 +0100" stop="20151211222000 +0100">
     <length units="minutes">95</length>
     <title>No Man's Land (?)</title>
     <category>Film</category>
-    <desc>En 1993. La guerre de Bosnie fait rage.... (Lire la suite).(r)</desc>
+    <desc>En 1993. La guerre de Bosnie fait rage. Quelque part sur le front, par une nuit brumeuse, une patrouille bosniaque tente de regagner sa tranchée,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Danis Tanovic</name>
       <name function="actor">Simon Callow</name>
@@ -1301,11 +1050,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212002000 +0100" stop="20151212015500 +0100">
+  <programme channel="test" start="20151211222000 +0100" stop="20151211235500 +0100">
     <length units="minutes">95</length>
     <title>La belle vie (?)</title>
     <category>Film</category>
-    <desc>Un père vit avec ses deux fils adolescents... (Lire la suite).(r)</desc>
+    <desc>Un père vit avec ses deux fils adolescents dans la clandestinité car dix ans plus tôt, il les a enlevés à leur mère suite à une décision de... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jean Denizot</name>
       <name function="actor">Jean-Philippe Ecoffey</name>
@@ -1319,11 +1068,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212015500 +0100" stop="20151212040000 +0100">
+  <programme channel="test" start="20151211235500 +0100" stop="20151212020000 +0100">
     <length units="minutes">125</length>
     <title>Le journal érotique d'un bûcheron (?)</title>
     <category>Film</category>
-    <desc>Sur le point de recevoir le prix Nobel, le... (Lire la suite).(r)</desc>
+    <desc>Sur le point de recevoir le prix Nobel, le professeur Muller se retire à la campagne pour fuir les mondanités. Dans la forêt, il observe le... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jean-Marie Pallardy</name>
       <name function="actor">Willeke Van Ammelrooy</name>
@@ -1337,11 +1086,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212040000 +0100" stop="20151212060000 +0100">
+  <programme channel="test" start="20151212020000 +0100" stop="20151212040000 +0100">
     <length units="minutes">120</length>
     <title>L'esquive (?)</title>
     <category>Film</category>
-    <desc>A 15 ans, Abdelkrim, dit Krimo, vit dans une... (Lire la suite).(r)</desc>
+    <desc>A 15 ans, Abdelkrim, dit Krimo, vit dans une HLM de la banlieue parisienne. Entre sa mère vendeuse et son père incarcéré, il rêve de partir au... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Abdellatif Kechiche</name>
       <name function="actor">Osman Elkharraz</name>
@@ -1355,11 +1104,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212060000 +0100" stop="20151212074000 +0100">
+  <programme channel="test" start="20151212040000 +0100" stop="20151212054000 +0100">
     <length units="minutes">100</length>
     <title>L'empire des sens (?)</title>
     <category>Film</category>
-    <desc>Tokyo, 1936. Kichizo, propriétaire d'une... (Lire la suite).(r)</desc>
+    <desc>Tokyo, 1936. Kichizo, propriétaire d'une maison close, est intrigué par une de ses jeunes servantes, Sada Abe. Il éprouve pour elle un désir... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Nagisa Oshima</name>
       <name function="actor">Tatsuya Fuji</name>
@@ -1373,11 +1122,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212074000 +0100" stop="20151212093500 +0100">
+  <programme channel="test" start="20151212054000 +0100" stop="20151212073500 +0100">
     <length units="minutes">115</length>
     <title>Les démons de Jésus (?)</title>
     <category>Film</category>
-    <desc>A la veille de mai 68, Jo Jacob, un ancien... (Lire la suite).(r)</desc>
+    <desc>A la veille de mai 68, Jo Jacob, un ancien forain, vit avec ses quatre fils et sa fille dans la maison qu'il a gagnée au poker contre Raymond... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Bernie Bonvoisin</name>
       <name function="actor">Martin Lamotte</name>
@@ -1391,11 +1140,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212093500 +0100" stop="20151212111000 +0100">
+  <programme channel="test" start="20151212073500 +0100" stop="20151212091000 +0100">
     <length units="minutes">95</length>
     <title>La cinquième saison (?)</title>
     <category>Film</category>
-    <desc>C'est la fin de l'hiver dans un petit village... (Lire la suite).(r)</desc>
+    <desc>C'est la fin de l'hiver dans un petit village agricole perdu au coeur des Ardennes. Pour fêter l'arrivée du printemps, les habitants construisent... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jessica Woodworth,</name>
       <name function="director">Peter Brosens</name>
@@ -1410,11 +1159,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212111000 +0100" stop="20151212124000 +0100">
+  <programme channel="test" start="20151212091000 +0100" stop="20151212104000 +0100">
     <length units="minutes">90</length>
     <title>Jeune &amp; jolie (?)</title>
     <category>Film</category>
-    <desc>Jeune fille de bonne famille, Isabelle est... (Lire la suite).(r)</desc>
+    <desc>Jeune fille de bonne famille, Isabelle est impatiente de vivre sa première expérience sexuelle. Un soir, lors de vacances en famille sur la Côte... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">François Ozon</name>
       <name function="actor">Charlotte Rampling</name>
@@ -1428,11 +1177,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212124000 +0100" stop="20151212143000 +0100">
+  <programme channel="test" start="20151212104000 +0100" stop="20151212123000 +0100">
     <length units="minutes">110</length>
     <title>Still Walking (?)</title>
     <category>Film</category>
-    <desc>Pour le jour du souvenir, Ryota vient rendre... (Lire la suite).(r)</desc>
+    <desc>Pour le jour du souvenir, Ryota vient rendre visite à ses parents avec sa femme, Yukari, et le fils de celle-ci qu'il a adopté, Atsushi. Sa mère... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Hirokazu Kore-Eda</name>
       <name function="actor">Hiroshi Abe</name>
@@ -1446,21 +1195,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212143000 +0100" stop="20151212163000 +0100">
+  <programme channel="test" start="20151212123000 +0100" stop="20151212143000 +0100">
     <length units="minutes">120</length>
     <title>Let's Get Lost (?)</title>
     <category>Film</category>
-    <desc>Chet Baker, décédé en 1988 à Amsterdam, était... (Lire la suite).(r)</desc>
+    <desc>Chet Baker, décédé en 1988 à Amsterdam, était l'un des géants du jazz. Sa vie était jalonnée de hasards et de drames. Son père, banjoïste... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Bruce Weber</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212163000 +0100" stop="20151212182500 +0100">
+  <programme channel="test" start="20151212143000 +0100" stop="20151212162500 +0100">
     <length units="minutes">115</length>
     <title>Une vie simple (?)</title>
     <category>Film</category>
-    <desc>Ah Tao s'est silencieusement usé au service... (Lire la suite).(r)</desc>
+    <desc>Ah Tao s'est silencieusement usé au service d'une même famille depuis quatre générations. Devenue une vieille dame, elle continue de veiller sur... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Ann Hui</name>
       <name function="actor">Andy Lau</name>
@@ -1474,11 +1223,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212182500 +0100" stop="20151212194500 +0100">
+  <programme channel="test" start="20151212162500 +0100" stop="20151212174500 +0100">
     <length units="minutes">80</length>
     <title>9 mois ferme (?)</title>
     <category>Film</category>
-    <desc>Ariane Felder, 40 ans, adore son métier de... (Lire la suite).(r)</desc>
+    <desc>Ariane Felder, 40 ans, adore son métier de juge d'instruction et y consacre sa vie. Elle est d'autant plus surprise quand elle apprend qu'elle... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Albert Dupontel</name>
       <name function="actor">Gilles Gaston-Dreyfus</name>
@@ -1492,11 +1241,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212194500 +0100" stop="20151212213000 +0100">
+  <programme channel="test" start="20151212174500 +0100" stop="20151212193000 +0100">
     <length units="minutes">105</length>
     <title>Hope and Glory (?)</title>
     <category>Film</category>
-    <desc>Le 3 septembre 1939, une famille londonienne,... (Lire la suite).(r)</desc>
+    <desc>Le 3 septembre 1939, une famille londonienne, les Rohan, apprend par la radio que l'Angleterre a déclaré la guerre à l'Allemagne. Si le père se... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">John Boorman</name>
       <name function="actor">David Hayman</name>
@@ -1510,7 +1259,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212213000 +0100" stop="20151212222000 +0100">
+  <programme channel="test" start="20151212193000 +0100" stop="20151212202000 +0100">
     <length units="minutes">50</length>
     <title>Cucumber</title>
     <category>Série</category>
@@ -1529,7 +1278,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212222000 +0100" stop="20151212224500 +0100">
+  <programme channel="test" start="20151212202000 +0100" stop="20151212204500 +0100">
     <length units="minutes">25</length>
     <title>Banana</title>
     <category>Série</category>
@@ -1548,11 +1297,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212224500 +0100" stop="20151213005000 +0100">
+  <programme channel="test" start="20151212204500 +0100" stop="20151212225000 +0100">
     <length units="minutes">125</length>
     <title>Lautrec (?)</title>
     <category>Film</category>
-    <desc>Une nuit de novembre 1864, à Albi, naît le... (Lire la suite).(r)</desc>
+    <desc>Une nuit de novembre 1864, à Albi, naît le fils d'Alphonse et Adèle de Toulouse-Lautrec, Henri, un enfant atteint d'une malformation des os.... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Roger Planchon</name>
       <name function="actor">Jean-Marie Bigard</name>
@@ -1566,11 +1315,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213005000 +0100" stop="20151213024500 +0100">
+  <programme channel="test" start="20151212225000 +0100" stop="20151213004500 +0100">
     <length units="minutes">115</length>
     <title>Trois enterrements (?)</title>
     <category>Film</category>
-    <desc>Au Texas, à proximité de la frontière... (Lire la suite).(r)</desc>
+    <desc>Au Texas, à proximité de la frontière mexicaine, des policiers découvrent le cadavre de Melquiades Estrada, un travailleur clandestin mexicain,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Tommy Lee Jones</name>
       <name function="actor">Melissa Leo</name>
@@ -1584,11 +1333,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213024500 +0100" stop="20151213042000 +0100">
+  <programme channel="test" start="20151213004500 +0100" stop="20151213022000 +0100">
     <length units="minutes">95</length>
     <title>Une femme fidèle (?)</title>
     <category>Film</category>
-    <desc>Dans les années 1830, époque où les transactions (Lire la suite).(n)</desc>
+    <desc>Dans les années 1830, époque où les transactions financières n'étaient pas encore très développées, Charles, un aristocratique français, a bâti... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Roger Vadim</name>
       <name function="actor">Serge Marquand</name>
@@ -1602,11 +1351,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213042000 +0100" stop="20151213053000 +0100">
+  <programme channel="test" start="20151213022000 +0100" stop="20151213033000 +0100">
     <length units="minutes">70</length>
     <title>Les contes de Grimm pour grandes personnes (?)</title>
     <category>Film</category>
-    <desc>Blanche Neige attise les pulsions sexuelles... (Lire la suite).(n)</desc>
+    <desc>Blanche Neige attise les pulsions sexuelles des animaux de la forêt. Poursuivie par un ours libidineux, elle se réfugie chez les Sept Nains, dont... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Rolf Thiele</name>
       <name function="actor">Gaby Fuchs</name>
@@ -1620,11 +1369,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213053000 +0100" stop="20151213071000 +0100">
+  <programme channel="test" start="20151213033000 +0100" stop="20151213051000 +0100">
     <length units="minutes">100</length>
     <title>Pecker (?)</title>
     <category>Film</category>
-    <desc>Pecker habite un quartier défavorisé de... (Lire la suite).(n)</desc>
+    <desc>Pecker habite un quartier défavorisé de Baltimore, dans le Maryland. Son père, propriétaire d'un bar minable, souffre de la concurrence de la... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">John Waters</name>
       <name function="actor">Martha Plimpton</name>
@@ -1638,11 +1387,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213071000 +0100" stop="20151213083500 +0100">
+  <programme channel="test" start="20151213051000 +0100" stop="20151213063500 +0100">
     <length units="minutes">85</length>
     <title>Polyester (?)</title>
     <category>Film</category>
-    <desc>Francine Fishpaw voit l'avenir en noir. Non... (Lire la suite).(n)</desc>
+    <desc>Francine Fishpaw voit l'avenir en noir. Non seulement elle est obèse, mais sa famille part à vau-l'eau. Les habitants de sa banlieue de Baltimore... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">John Waters</name>
       <name function="actor">Edith Massey</name>
@@ -1656,11 +1405,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213083500 +0100" stop="20151213100500 +0100">
+  <programme channel="test" start="20151213063500 +0100" stop="20151213080500 +0100">
     <length units="minutes">90</length>
     <title>Lulu, femme nue (?)</title>
     <category>Film</category>
-    <desc>Parce qu'elle a manqué d'assurance au cours... (Lire la suite).(n)</desc>
+    <desc>Parce qu'elle a manqué d'assurance au cours d'un entretien d'embauche, Lulu, mariée et mère de trois enfants, n'obtient pas le poste de... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Sólveig Anspach</name>
       <name function="actor">Karin Viard</name>
@@ -1674,11 +1423,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213100500 +0100" stop="20151213114000 +0100">
+  <programme channel="test" start="20151213080500 +0100" stop="20151213094000 +0100">
     <length units="minutes">95</length>
     <title>Away We Go (?)</title>
     <category>Film</category>
-    <desc>Burt et Verona, jeunes trentenaires, attendent la (Lire la suite).(n)</desc>
+    <desc>Burt et Verona, jeunes trentenaires, attendent la naissance de leur premier enfant. Les parents de Verona sont morts et ceux de Burt décident... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Sam Mendes</name>
       <name function="actor">Jeff Daniels</name>
@@ -1692,11 +1441,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213114000 +0100" stop="20151213132500 +0100">
+  <programme channel="test" start="20151213094000 +0100" stop="20151213112500 +0100">
     <length units="minutes">105</length>
     <title>Charlie's Country (?)</title>
     <category>Film</category>
-    <desc>Blackfella Charlie, un ancien guerrier... (Lire la suite).(n)</desc>
+    <desc>Blackfella Charlie, un ancien guerrier aborigène, n'est pas content. L'intervention du gouvernement rend la vie plus difficile dans sa communauté... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Rolf de Heer</name>
       <name function="actor">David Gulpilil</name>
@@ -1709,11 +1458,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213132500 +0100" stop="20151213150000 +0100">
+  <programme channel="test" start="20151213112500 +0100" stop="20151213130000 +0100">
     <length units="minutes">95</length>
     <title>Mange tes morts (?)</title>
     <category>Film</category>
-    <desc>Jason Dorkel a 18 ans et fait partie des gens... (Lire la suite).(n)</desc>
+    <desc>Jason Dorkel a 18 ans et fait partie des gens du voyage. Alors qu'il s'apprête à célébrer son baptême chrétien, il est heureux de retrouver Fred,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jean-Charles Hue</name>
       <name function="actor">Michaël Dauber</name>
@@ -1727,18 +1476,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213150000 +0100" stop="20151213152000 +0100">
+  <programme channel="test" start="20151213130000 +0100" stop="20151213132000 +0100">
     <length units="minutes">20</length>
     <title>Viva cinéma</title>
     <category>Magazine</category>
-    <desc>Episode 12 Ce magazine propose chaque semaine de faire... (Lire la suite).(n)</desc>
+    <desc>Episode 12 Ce magazine propose chaque semaine de faire... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213152000 +0100" stop="20151213161000 +0100">
+  <programme channel="test" start="20151213132000 +0100" stop="20151213141000 +0100">
     <length units="minutes">50</length>
     <title>Cucumber</title>
     <category>Série</category>
-    <desc>Après la mort tragique de Lance, les garçons... (Lire la suite).(n)</desc>
+    <desc>Après la mort tragique de Lance, les garçons... (Lire la suite).</desc>
     <credits>
       <name function="director">Euros Lyn</name>
       <name function="actor">Julie Hesmondhalgh</name>
@@ -1753,11 +1502,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213161000 +0100" stop="20151213163500 +0100">
+  <programme channel="test" start="20151213141000 +0100" stop="20151213143500 +0100">
     <length units="minutes">25</length>
     <title>Banana</title>
     <category>Série</category>
-    <desc>Aiden, un jeue homme séduisant, rencontre... (Lire la suite).(n)</desc>
+    <desc>Aiden, un jeue homme séduisant, rencontre... (Lire la suite).</desc>
     <credits>
       <name function="director">Luke Snellin</name>
       <name function="actor">Vincent Franklin</name>
@@ -1772,51 +1521,51 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213163500 +0100" stop="20151213172500 +0100">
+  <programme channel="test" start="20151213143500 +0100" stop="20151213152500 +0100">
     <length units="minutes">50</length>
     <title>Le dernier film de Jess Franco</title>
     <category>Documentaire</category>
-    <desc>Des acteurs, des réalisateurs et des amis... (Lire la suite).(n)</desc>
+    <desc>Des acteurs, des réalisateurs et des amis... (Lire la suite).</desc>
     <credits>
       <name function="director">Daniel Lesoeur</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213172500 +0100" stop="20151213183000 +0100">
+  <programme channel="test" start="20151213152500 +0100" stop="20151213163000 +0100">
     <length units="minutes">65</length>
     <title>Hanna Schygulla, quel que soit le songe</title>
     <category>Documentaire</category>
-    <desc>Rainer Werner Fassbinder, Marco Ferreri,... (Lire la suite).(n)</desc>
+    <desc>Rainer Werner Fassbinder, Marco Ferreri,... (Lire la suite).</desc>
     <credits>
       <name function="director">Anne Imbert</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213183000 +0100" stop="20151213190000 +0100">
+  <programme channel="test" start="20151213163000 +0100" stop="20151213170000 +0100">
     <length units="minutes">30</length>
     <title>Les rues de Kaboul</title>
     <category>Documentaire</category>
-    <desc>Le facteur Khan Agha demande aux passants de... (Lire la suite).(n)</desc>
+    <desc>Le facteur Khan Agha demande aux passants de... (Lire la suite).</desc>
     <credits>
       <name function="director">Wahid Nazir</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213190000 +0100" stop="20151213200000 +0100">
+  <programme channel="test" start="20151213170000 +0100" stop="20151213180000 +0100">
     <length units="minutes">60</length>
     <title>Olivier Gourmet, exercice de style</title>
     <category>Documentaire</category>
-    <desc>Pour jouer le rôle du violent Roger dans «La... (Lire la suite).(n)</desc>
+    <desc>Pour jouer le rôle du violent Roger dans «La... (Lire la suite).</desc>
     <credits>
       <name function="director">Yves Montmayeur</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213200000 +0100" stop="20151213214000 +0100">
+  <programme channel="test" start="20151213180000 +0100" stop="20151213194000 +0100">
     <length units="minutes">100</length>
     <title>Les nuits de la pleine lune (?)</title>
     <category>Film</category>
-    <desc>Louise, stagiaire dans une agence de décoration, (Lire la suite).(n)</desc>
+    <desc>Louise, stagiaire dans une agence de décoration, et Rémi, son ami architecte, s'aiment et vivent ensemble dans un appartement moderne de... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Eric Rohmer</name>
       <name function="actor">Pascale Ogier</name>
@@ -1830,21 +1579,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213214000 +0100" stop="20151213224500 +0100">
+  <programme channel="test" start="20151213194000 +0100" stop="20151213204500 +0100">
     <length units="minutes">65</length>
     <title>The 1000 Eyes of Dr Maddin</title>
     <category>Documentaire</category>
-    <desc>Le cinéaste canadien d'avant-garde Guy... (Lire la suite).(n)</desc>
+    <desc>Le cinéaste canadien d'avant-garde Guy... (Lire la suite).</desc>
     <credits>
       <name function="director">Yves Montmayeur</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213224500 +0100" stop="20151214003000 +0100">
+  <programme channel="test" start="20151213204500 +0100" stop="20151213223000 +0100">
     <length units="minutes">105</length>
     <title>L'épreuve de force (?)</title>
     <category>Film</category>
-    <desc>L'inspecteur Ben Shockley a reçu pour mission... (Lire la suite).(n)</desc>
+    <desc>L'inspecteur Ben Shockley a reçu pour mission d'escorter de Las Vegas à Phoenix une certaine Gus Mally, appelée à témoigner dans un important... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Clint Eastwood</name>
       <name function="actor">Pat Hingle</name>
@@ -1858,11 +1607,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151214003000 +0100" stop="20151214021000 +0100">
+  <programme channel="test" start="20151213223000 +0100" stop="20151214001000 +0100">
     <length units="minutes">100</length>
     <title>Hijacking (?)</title>
     <category>Film</category>
-    <desc>Au beau milieu de l'océan Indien, alors... (Lire la suite).(n)</desc>
+    <desc>Au beau milieu de l'océan Indien, alors qu'ils font route vers le port après de longues semaines passées en mer, les membres d'équipage du cargo... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Tobias Lindholm</name>
       <name function="actor">Linda Laursen</name>
@@ -1873,6 +1622,252 @@
       <name function="actor">Amalie Ihle Alstrup</name>
       <name function="actor">Amalie Vulff Andersen</name>
       <name function="actor">Roland Moller</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214001000 +0100" stop="20151214022000 +0100">
+    <length units="minutes">130</length>
+    <title>Les bruits de Récife (?)</title>
+    <category>Film</category>
+    <desc>A Recife, sur la côte brésilienne, les habitants de Setúbal suivent le cours d'une vie calme, entre légers désagréments et insouciance. Issus de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Kleber Mendonça Filho</name>
+      <name function="actor">Maeve Jinkings</name>
+      <name function="actor">Gustavo Jahn</name>
+      <name function="actor">Irma Brown</name>
+      <name function="actor">Waldemar José Solha</name>
+      <name function="actor">Lula Terra</name>
+      <name function="actor">Yuri Holanda</name>
+      <name function="actor">Clébia Souza</name>
+      <name function="actor">Irandhir Santos</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214022000 +0100" stop="20151214040000 +0100">
+    <length units="minutes">100</length>
+    <title>Le journal érotique d'un bûcheron (?)</title>
+    <category>Film</category>
+    <desc>Sur le point de recevoir le prix Nobel, le professeur Muller se retire à la campagne pour fuir les mondanités. Dans la forêt, il observe le... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jean-Marie Pallardy</name>
+      <name function="actor">Willeke Van Ammelrooy</name>
+      <name function="actor">Jacques Insermini</name>
+      <name function="actor">Joëlle Coeur</name>
+      <name function="actor">John Holmes</name>
+      <name function="actor">Jerry Brouer</name>
+      <name function="actor">Jean-Marie Pallardy</name>
+      <name function="actor">Chantal Arondel</name>
+      <name function="actor">Georges Guéret</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214040000 +0100" stop="20151214045500 +0100">
+    <length units="minutes">55</length>
+    <title>Profession affichiste : signé Landi</title>
+    <category>Documentaire</category>
+    <desc>Résumer un film en une image : telle est la tâche des affichistes, dont le métier contribue souvent au succès d'une oeuvre ; explications avec... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jean-Pierre Mattei</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214045500 +0100" stop="20151214052000 +0100">
+    <length units="minutes">25</length>
+    <title>Fin des programmes</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214052000 +0100" stop="20151214065000 +0100">
+    <length units="minutes">90</length>
+    <title>Hairspray (?)</title>
+    <category>Film</category>
+    <desc>Baltimore, 1962. Le «Corny Collins Show», une émission de télévision très populaire, enseigne aux adolescents les dernières danses à la mode.... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">John Waters</name>
+      <name function="actor">Sonny Bono</name>
+      <name function="actor">Deborah Harry</name>
+      <name function="actor">Ricki Lake</name>
+      <name function="actor">Jerry Stiller</name>
+      <name function="actor">Colleen Fitzpatrick</name>
+      <name function="actor">Ruth Brown</name>
+      <name function="actor">Divine</name>
+      <name function="actor">Leslie Ann Powers</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214065000 +0100" stop="20151214083000 +0100">
+    <length units="minutes">100</length>
+    <title>Camouflage (?)</title>
+    <category>Film</category>
+    <desc>Un groupe d'étudiants en linguistique prend part à une université d'été organisée dans le cadre idyllique d'une demeure aristocratique. Tous... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Krzysztof Zanussi</name>
+      <name function="actor">Mariusz Dmochowski</name>
+      <name function="actor">Zbigniew Zapasiewicz</name>
+      <name function="actor">Wojciech Alaborski</name>
+      <name function="actor">Piotr Garlicki</name>
+      <name function="actor">Christine Paul-Podlasky</name>
+      <name function="actor">Mieczyslaw Banasik</name>
+      <name function="actor">Krystyna Bigelmajer</name>
+      <name function="actor">Jadwiga Colonna-Walewska</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214083000 +0100" stop="20151214101500 +0100">
+    <length units="minutes">105</length>
+    <title>L'épreuve de force (?)</title>
+    <category>Film</category>
+    <desc>L'inspecteur Ben Shockley a reçu pour mission d'escorter de Las Vegas à Phoenix une certaine Gus Mally, appelée à témoigner dans un important... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Clint Eastwood</name>
+      <name function="actor">Pat Hingle</name>
+      <name function="actor">William Prince</name>
+      <name function="actor">Michael Cavanaugh</name>
+      <name function="actor">Clint Eastwood</name>
+      <name function="actor">Sondra Locke</name>
+      <name function="actor">Bill McKinney</name>
+      <name function="actor">Mara Corday</name>
+      <name function="actor">Carole Cook</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214101500 +0100" stop="20151214133000 +0100">
+    <length units="minutes">195</length>
+    <title>Casino (?)</title>
+    <category>Film</category>
+    <desc>Dans les années 1970, sa chance insolente et son flair infaillible valent à Sam «Ace» Rothstein l'honneur d'être catapulté à la tête d'un luxueux... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Martin Scorsese</name>
+      <name function="actor">Robert De Niro</name>
+      <name function="actor">Joe Pesci</name>
+      <name function="actor">Sharon Stone</name>
+      <name function="actor">James Woods</name>
+      <name function="actor">Don Rickles</name>
+      <name function="actor">Kevin Pollak</name>
+      <name function="actor">Frank Vincent</name>
+      <name function="actor">Pasquale Cajano</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214133000 +0100" stop="20151214150500 +0100">
+    <length units="minutes">95</length>
+    <title>No Man's Land (?)</title>
+    <category>Film</category>
+    <desc>En 1993. La guerre de Bosnie fait rage. Quelque part sur le front, par une nuit brumeuse, une patrouille bosniaque tente de regagner sa tranchée,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Danis Tanovic</name>
+      <name function="actor">Simon Callow</name>
+      <name function="actor">Katrin Cartlidge</name>
+      <name function="actor">Mustafa Nadarevic</name>
+      <name function="actor">Alain Eloy</name>
+      <name function="actor">Branko Djuric</name>
+      <name function="actor">Rene Bitorajac</name>
+      <name function="actor">Filip Sovagovic</name>
+      <name function="actor">Sacha Kremer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214150500 +0100" stop="20151214164500 +0100">
+    <length units="minutes">100</length>
+    <title>La vallée (?)</title>
+    <category>Film</category>
+    <desc>Viviane, la femme du consul de France à Melbourne, séjourne en Nouvelle-Guinée afin d'y trouver le repos. Dans le but de rompre avec sa vie... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Barbet Schroeder</name>
+      <name function="actor">Jean-Pierre Kalfon</name>
+      <name function="actor">Valérie Lagrange</name>
+      <name function="actor">Bulle Ogier</name>
+      <name function="actor">Michael Gothard</name>
+      <name function="actor">Jérôme Beauvarlet</name>
+      <name function="actor">Monique Giraudy</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214164500 +0100" stop="20151214183000 +0100">
+    <length units="minutes">105</length>
+    <title>Créatures célestes (?)</title>
+    <category>Film</category>
+    <desc>Christchurch, une petite ville de Nouvelle-Zélande, en 1952. Pauline Parker grandit paisiblement entre des parents sans histoire et des études... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Peter Jackson</name>
+      <name function="actor">Kate Winslet</name>
+      <name function="actor">Sarah Peirse</name>
+      <name function="actor">Diana Kent</name>
+      <name function="actor">Clive Merrison</name>
+      <name function="actor">Simon O'Connor</name>
+      <name function="actor">Jed Brophy</name>
+      <name function="actor">Peter Elliott</name>
+      <name function="actor">Melanie Lynskey</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214183000 +0100" stop="20151214204500 +0100">
+    <length units="minutes">135</length>
+    <title>Les chiens errants (?)</title>
+    <category>Film</category>
+    <desc>A Taipei, un homme passe sa journée à tenir une pancarte. Posté à un carrefour, sous un ciré jaune, il tient sa pancarte. Le panneau vante les... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Tsai Ming-liang</name>
+      <name function="actor">Lee Kang-Sheng</name>
+      <name function="actor">Lu Yi-Ching</name>
+      <name function="actor">Chen Shiang-chyi</name>
+      <name function="actor">Lee Yi Cheng</name>
+      <name function="actor">Lee Yi Chieh</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214204500 +0100" stop="20151214220500 +0100">
+    <length units="minutes">80</length>
+    <title>Ida (?)</title>
+    <category>Film</category>
+    <desc>Dans la Pologne des années 60, quatre jours avant de prononcer ses voeux, Anna, jeune orpheline élevée au couvent, est envoyée par la mère... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Pawel Pawlikowski</name>
+      <name function="actor">Agata Kulesza</name>
+      <name function="actor">Jerzy Trela</name>
+      <name function="actor">Marek Kasprzyk</name>
+      <name function="actor">Joanna Kulig</name>
+      <name function="actor">Dawid Ogrodnik</name>
+      <name function="actor">Agata Trzebuchowska</name>
+      <name function="actor">Adam Szyszkowski</name>
+      <name function="actor">Halina Skoczynska</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214220500 +0100" stop="20151214235000 +0100">
+    <length units="minutes">105</length>
+    <title>Cours sans te retourner (?)</title>
+    <category>Film</category>
+    <desc>1942. La situation des juifs est devenue critique dans le ghetto de Varsovie. Le père de Srulik dit à son fils de partir, de fuir loin, afin de... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Pepe Danquart</name>
+      <name function="actor">Jeanette Hain</name>
+      <name function="actor">Zbigniew Zamachowski</name>
+      <name function="actor">Grazyna Szapolowska</name>
+      <name function="actor">Itay Tiran</name>
+      <name function="actor">Elisabeth Duda</name>
+      <name function="actor">Jochen Hägele</name>
+      <name function="actor">Kamil Tkacz</name>
+      <name function="actor">Andrzej Tkacz</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214235000 +0100" stop="20151215013500 +0100">
+    <length units="minutes">105</length>
+    <title>L'étoile de Robinson (?)</title>
+    <category>Film</category>
+    <desc>Alex est un gamin de onze ans qui vit dans le ghetto juif de Varsovie, durant la Seconde Guerre mondiale, avec son père et son grand-oncle. Il a... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Soeren Kragh-Jacobsen</name>
+      <name function="actor">Lee Ross</name>
+      <name function="actor">Jack Warden</name>
+      <name function="actor">Patrick Bergin</name>
+      <name function="actor">Michael Byrne</name>
+      <name function="actor">James Bolam</name>
+      <name function="actor">Simon Gregor</name>
+      <name function="actor">Jacob Rasmussen</name>
+      <name function="actor">Jordan Kiziuk</name>
     </credits>
     <image />
   </programme>

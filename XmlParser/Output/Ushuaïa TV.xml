@@ -1,334 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Ushuaïa TV">
-    <display-name>burger</display-name>
+    <display-name>test</display-name>
   </channel>
-  <programme channel="burger" start="20151207023500 +0100" stop="20151207042500 +0100">
-    <length units="minutes">110</length>
-    <title>Ushuaïa nature</title>
-    <category>Magazine</category>
-    <desc>Au coeur d'un désert glacé, Nicolas Hulot part à la découverte d'une contrée oubliée des hommes. En compagnie de spécialistes des tournages... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Nicolas Hulot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207042500 +0100" stop="20151207052000 +0100">
-    <length units="minutes">55</length>
-    <title>Quand la nature annonce la couleur</title>
-    <category>Documentaire</category>
-    <desc>En France, scientifiques, naturalistes et professionnels de la mer tentent d'évaluer l'impact réel des activités humaines sur les espèces... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Jean-Roch Meslin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207052000 +0100" stop="20151207053500 +0100">
-    <length units="minutes">15</length>
-    <title>#CopConnection</title>
-    <category>Magazine</category>
-    <desc>Christine Oberdorff est aux commandes de ce magazine quotidien qui pénètre dans les coulisses de Paris Climat 2015. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Christine Oberdorff</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207053500 +0100" stop="20151207080000 +0100">
-    <length units="minutes">145</length>
-    <title>L'esprit d'un chef</title>
-    <category>Documentaire</category>
-    <desc>Londres (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207080000 +0100" stop="20151207082500 +0100">
-    <length units="minutes">25</length>
-    <title>Eloa</title>
-    <category>Magazine</category>
-    <desc>Depuis 40 ans, Jean-Michel Cousteau sillonne les mers du globe pour attirer l'attention sur la fragilité du monde marin. En compagnie d'un... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Michel Cousteau</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207082500 +0100" stop="20151207083000 +0100">
+  <programme channel="test" start="20151208002500 +0100" stop="20151208003000 +0100">
     <length units="minutes">5</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151207083000 +0100" stop="20151207092000 +0100">
-    <length units="minutes">50</length>
-    <title>Régalec, premiers contacts avec le poisson roi</title>
-    <category>Documentaire</category>
-    <desc>Avec ses dimensions extraordinaires et sa forme de ruban argenté, le régalec a inspiré le mythe du serpent de mer. Jusqu'à récemment, les... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Bertrand Loyer</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207092000 +0100" stop="20151207092500 +0100">
-    <length units="minutes">5</length>
-    <title>Grand angle</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207092500 +0100" stop="20151207102500 +0100">
-    <length units="minutes">60</length>
-    <title>Géants des profondeurs</title>
-    <category>Documentaire</category>
-    <desc>La vie fascinante des baleines à bosse, des combats que se livrent les mâles pour conquérir les femelles jusqu'à la naissance des... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Ralf Kiefner,</name>
-      <name function="director">Peter Spielmann</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207102500 +0100" stop="20151207103000 +0100">
-    <length units="minutes">5</length>
-    <title>Grand angle</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207103000 +0100" stop="20151207112000 +0100">
-    <length units="minutes">50</length>
-    <title>Grand requin blanc : les origines</title>
-    <category>Documentaire</category>
-    <desc>Le grand requin blanc est le prédateur le plus féroce de l'océan mais aussi le plus mystérieux de son espèce. Personne ne sait où il donne... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Luke Wiles</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207112000 +0100" stop="20151207130000 +0100">
-    <length units="minutes">100</length>
-    <title>Ushuaïa nature</title>
-    <category>Magazine</category>
-    <desc>Nicolas Hulot navigue dans le delta du Gange, le plus grand du monde. Il rejoint des pêcheurs qui attrapent le poisson grâce à des loutres... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Nicolas Hulot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207130000 +0100" stop="20151207135500 +0100">
-    <length units="minutes">55</length>
-    <title>Jungwa, l'équilibre rompu</title>
-    <category>Documentaire</category>
-    <desc>Dans la petite région du Ladakh, en Inde, portrait d'un peuple qui a toujours vécu en équilibre avec son environnement mais qui se trouve frappé... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Christiane Mordelet,</name>
-      <name function="director">Stanzin Dorjai Gay</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207135500 +0100" stop="20151207142500 +0100">
-    <length units="minutes">30</length>
-    <title>Echo-logis</title>
-    <category>Documentaire</category>
-    <desc>Sur l'île Fogo, au large du Canada, des ateliers face à la mer accueillent des artistes qui viennent ici trouver l'inspiration dans un endroit... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Frédéric Planchenault</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207142500 +0100" stop="20151207145500 +0100">
-    <length units="minutes">30</length>
-    <title>Ushuaïa, le mag</title>
-    <category>Magazine</category>
-    <desc>Entouré de chroniqueurs et d'experts, Arnaud Ardoin fait le tour du monde pour ouvrir de nouveaux horizons. Au programme, notamment, une enquête... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Arnaud Ardoin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207145500 +0100" stop="20151207151000 +0100">
-    <length units="minutes">15</length>
-    <title>Bougez vert</title>
-    <category>Magazine</category>
-    <desc>Expos, cinés, musées : dans son agenda de la semaine, Gérald Ariano partage ses bons plans pour bouger de manière écolo. Il visite les régions et... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Gérald Ariano</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207151000 +0100" stop="20151207154000 +0100">
-    <length units="minutes">30</length>
-    <title>Sur les routes d'Ushuaïa</title>
-    <category>Magazine</category>
-    <desc>Le monastère de Lamayuru Les plus belles images, sélectionnées dans les reportages d'«Ushuaïa nature» et «Opération Okavango». (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207154000 +0100" stop="20151207171000 +0100">
-    <length units="minutes">90</length>
-    <title>Ushuaïa nature</title>
-    <category>Magazine</category>
-    <desc>S'ouvrant sur les eaux du canal qui sépare le Mozambique de l'île de Madagascar, ce volet invite à partir à la découverte des richesses de la... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Nicolas Hulot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207171000 +0100" stop="20151207175500 +0100">
-    <length units="minutes">45</length>
-    <title>Alaska : terre des extrêmes</title>
-    <category>Documentaire</category>
-    <desc>Du bois pour l'hiver La colonie se concentre sur le bois de chauffage qui servira jusqu'au mois de mars ; avant que la neige arrive, il faut recouvrir toutes les... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207175500 +0100" stop="20151207185000 +0100">
-    <length units="minutes">55</length>
-    <title>Nouvelle-Zélande, terre d'aventures</title>
-    <category>Documentaire</category>
-    <desc>A la frontière entre les plaques tectoniques pacifique et australienne, la Nouvelle-Zélande est secouée par de fréquents séismes, ce qui en fait... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207185000 +0100" stop="20151207194500 +0100">
-    <length units="minutes">55</length>
-    <title>Le tigre et le moine</title>
-    <category>Documentaire</category>
-    <desc>Le monastère bouddhiste de Wat Paest, à 200 kilomètres de Bangkok, est très connu des Thaïlandais car les moines y effectuent une promenade avec... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207194500 +0100" stop="20151207203500 +0100">
-    <length units="minutes">50</length>
-    <title>L'Australie et ses parcs nationaux</title>
-    <category>Documentaire</category>
-    <desc>Classés parc national en 1992, les West MacDonnell Ranges, au centre de l'Australie, abritent deux lieux sacrés pour les Aranda, premiers... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Peter Moers</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207203500 +0100" stop="20151207212000 +0100">
-    <length units="minutes">45</length>
-    <title>L'Australie et ses parcs nationaux</title>
-    <category>Documentaire</category>
-    <desc>Entre mars et juin, sur la côte occidentale de l'Australie, les plus gros poissons du monde, les requins-baleines, se nourrissent dans les eaux... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Peter Moers</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207212000 +0100" stop="20151207213000 +0100">
-    <length units="minutes">10</length>
-    <title>#CopConnection</title>
-    <category>Magazine</category>
-    <desc>Christine Oberdorff est aux commandes de ce magazine quotidien qui pénètre dans les coulisses de Paris Climat 2015. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Christine Oberdorff</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207213000 +0100" stop="20151207215500 +0100">
-    <length units="minutes">25</length>
-    <title>Journal d'une réserve africaine</title>
-    <category>Documentaire</category>
-    <desc>Pour préserver l'équilibre entre les espèces, le personnel doit procéder au recensement des animaux ; pour la première fois la réserve compte... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Michael Dalton-Smith</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207215500 +0100" stop="20151207222500 +0100">
-    <length units="minutes">30</length>
-    <title>Une vie de bêtes</title>
-    <category>Magazine</category>
-    <desc>Au zoo de Beauval, Gérald Ariano se retrouve en immersion dans le quotidien des soigneurs animaliers. Il va découvrir un univers très éloigné de... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Gérald Ariano</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207222500 +0100" stop="20151207223500 +0100">
-    <length units="minutes">10</length>
-    <title>Bougez vert</title>
-    <category>Magazine</category>
-    <desc>Expos, cinés, musées : dans son agenda de la semaine, Gérald Ariano partage ses bons plans pour bouger de manière écolo. Il visite les régions et... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Gérald Ariano</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207223500 +0100" stop="20151207224000 +0100">
-    <length units="minutes">5</length>
-    <title>Solutions pour le climat</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207224000 +0100" stop="20151207232500 +0100">
-    <length units="minutes">45</length>
-    <title>Alaska : terre des extrêmes</title>
-    <category>Documentaire</category>
-    <desc>La chasse à l'ours Pour la première fois en huit mois, la famille va pouvoir manger autre chose que du poisson ; le printemps est en effet l'occasion de tuer du... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207232500 +0100" stop="20151208001000 +0100">
-    <length units="minutes">45</length>
-    <title>Alaska : terre des extrêmes</title>
-    <category>Documentaire</category>
-    <desc>Migration estivale L'heure de la transhumance a sonné pour le bétail ; mais les prédateurs rôdent et une course contre les marées s'engage pour atteindre les... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208001000 +0100" stop="20151208005000 +0100">
-    <length units="minutes">40</length>
-    <title>1000 jours pour la planète</title>
-    <category>Documentaire</category>
-    <desc>Les victimes de l'huile de palme Jean Lemire et l'équipage du Sedna IV observent le phénomène de la déforestation débridée qui a cours sur l'île de Sumatra, en Idonésie, au... (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208005000 +0100" stop="20151208005500 +0100">
-    <length units="minutes">5</length>
-    <title>Solutions pour le climat</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208005500 +0100" stop="20151208010500 +0100">
-    <length units="minutes">10</length>
-    <title>#CopConnection</title>
-    <category>Magazine</category>
-    <desc>Christine Oberdorff est aux commandes de ce magazine quotidien qui pénètre dans les coulisses de Paris Climat 2015. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Christine Oberdorff</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208010500 +0100" stop="20151208022500 +0100">
-    <length units="minutes">80</length>
-    <title>Voyage sous les mers (?)</title>
-    <category>Film</category>
-    <desc>Une tortue sous-marine évolue dans l'eau bleue d'un océan. Elle glisse majestueusement, profitant des courants. De la Grande Barrière de corail... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Jean-Jacques Mantello,</name>
-      <name function="director">François Mantello</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208022500 +0100" stop="20151208023000 +0100">
-    <length units="minutes">5</length>
-    <title>Grand angle</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208023000 +0100" stop="20151208032000 +0100">
+  <programme channel="test" start="20151208003000 +0100" stop="20151208012000 +0100">
     <length units="minutes">50</length>
     <title>La Méditerranée, un monde entre deux eaux</title>
     <category>Documentaire</category>
     <desc>Du plus haut sommet du glacier du Rhône aux stations de dessalement du littoral tunisien, une analyse de la situation de l'eau du bassin... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208032000 +0100" stop="20151208032500 +0100">
+  <programme channel="test" start="20151208012000 +0100" stop="20151208012500 +0100">
     <length units="minutes">5</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208032500 +0100" stop="20151208041500 +0100">
+  <programme channel="test" start="20151208012500 +0100" stop="20151208021500 +0100">
     <length units="minutes">50</length>
     <title>Menace sur la Méditerranée</title>
     <category>Documentaire</category>
@@ -338,14 +34,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208041500 +0100" stop="20151208042000 +0100">
+  <programme channel="test" start="20151208021500 +0100" stop="20151208022000 +0100">
     <length units="minutes">5</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208042000 +0100" stop="20151208051500 +0100">
+  <programme channel="test" start="20151208022000 +0100" stop="20151208031500 +0100">
     <length units="minutes">55</length>
     <title>La France sauvage</title>
     <category>Documentaire</category>
@@ -356,7 +52,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208051500 +0100" stop="20151208053000 +0100">
+  <programme channel="test" start="20151208031500 +0100" stop="20151208033000 +0100">
     <length units="minutes">15</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -366,7 +62,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208053000 +0100" stop="20151208080000 +0100">
+  <programme channel="test" start="20151208033000 +0100" stop="20151208060000 +0100">
     <length units="minutes">150</length>
     <title>Shaa Tléin, la grande montagne</title>
     <category>Documentaire</category>
@@ -378,7 +74,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208080000 +0100" stop="20151208081000 +0100">
+  <programme channel="test" start="20151208060000 +0100" stop="20151208061000 +0100">
     <length units="minutes">10</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -388,7 +84,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208081000 +0100" stop="20151208100000 +0100">
+  <programme channel="test" start="20151208061000 +0100" stop="20151208080000 +0100">
     <length units="minutes">110</length>
     <title>Paul Watson : la voie d'un éco-pirate</title>
     <category>Documentaire</category>
@@ -398,7 +94,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208100000 +0100" stop="20151208105500 +0100">
+  <programme channel="test" start="20151208080000 +0100" stop="20151208085500 +0100">
     <length units="minutes">55</length>
     <title>Sur la piste des licornes de mer</title>
     <category>Documentaire</category>
@@ -408,7 +104,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208105500 +0100" stop="20151208123500 +0100">
+  <programme channel="test" start="20151208085500 +0100" stop="20151208103500 +0100">
     <length units="minutes">100</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
@@ -418,7 +114,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208123500 +0100" stop="20151208133500 +0100">
+  <programme channel="test" start="20151208103500 +0100" stop="20151208113500 +0100">
     <length units="minutes">60</length>
     <title>Devenir femme au Zanskar</title>
     <category>Documentaire</category>
@@ -429,14 +125,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208133500 +0100" stop="20151208140000 +0100">
+  <programme channel="test" start="20151208113500 +0100" stop="20151208120000 +0100">
     <length units="minutes">25</length>
     <title>Les jardins d'Olivia</title>
     <category>Magazine</category>
     <desc>Episode 10 Animatrice à la main verte, Olivia Adriaco emmène les téléspectateurs de Montréal à Stockholm, de Paris à New York, à la découverte des plus... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208140000 +0100" stop="20151208151000 +0100">
+  <programme channel="test" start="20151208120000 +0100" stop="20151208131000 +0100">
     <length units="minutes">70</length>
     <title>Ushuaïa, le mag</title>
     <category>Magazine</category>
@@ -446,14 +142,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208151000 +0100" stop="20151208154000 +0100">
+  <programme channel="test" start="20151208131000 +0100" stop="20151208134000 +0100">
     <length units="minutes">30</length>
     <title>Sur les routes d'Ushuaïa</title>
     <category>Magazine</category>
     <desc>Devenir adulte chez les Hamer Les plus belles images, sélectionnées dans les reportages d'«Ushuaïa nature» et «Opération Okavango». (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208154000 +0100" stop="20151208171500 +0100">
+  <programme channel="test" start="20151208134000 +0100" stop="20151208151500 +0100">
     <length units="minutes">95</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
@@ -463,21 +159,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208171500 +0100" stop="20151208180000 +0100">
+  <programme channel="test" start="20151208151500 +0100" stop="20151208160000 +0100">
     <length units="minutes">45</length>
     <title>1000 jours pour la planète</title>
     <category>Documentaire</category>
     <desc>Les dragons de Komodo Rescapé de l'époque jurassique, le dragon de Komodo est aujourd'hui grandement vulnérabilisé par la perte de son habitat et par le... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208180000 +0100" stop="20151208184500 +0100">
+  <programme channel="test" start="20151208160000 +0100" stop="20151208164500 +0100">
     <length units="minutes">45</length>
     <title>1000 jours pour la planète</title>
     <category>Documentaire</category>
     <desc>La chasse aux cachalots A Lamalera, en Indonésie, les habitants pratiquent encore la chasse à la baleine au harpon ; l'équipage du Sedna IV s'intéresse à cette chasse... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208184500 +0100" stop="20151208194000 +0100">
+  <programme channel="test" start="20151208164500 +0100" stop="20151208174000 +0100">
     <length units="minutes">55</length>
     <title>Sentinelles de la nature</title>
     <category>Documentaire</category>
@@ -487,21 +183,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208194000 +0100" stop="20151208203000 +0100">
+  <programme channel="test" start="20151208174000 +0100" stop="20151208183000 +0100">
     <length units="minutes">50</length>
     <title>Life Stories</title>
     <category>Documentaire</category>
     <desc>L'art du mensonge Des espèces ont développé des techniques de leurre très performantes pour tromper leur ennemi, prédateur ou proie. Ce sont de véritables pièges... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208203000 +0100" stop="20151208212500 +0100">
+  <programme channel="test" start="20151208183000 +0100" stop="20151208192500 +0100">
     <length units="minutes">55</length>
     <title>Life Stories</title>
     <category>Documentaire</category>
     <desc>Amis pour la vie Dans la nature, les animaux sont parfois amenés à collaborer entre eux. Par opportunisme, pour assurer leur propre sécurité, comme les zèbres qui... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208212500 +0100" stop="20151208213000 +0100">
+  <programme channel="test" start="20151208192500 +0100" stop="20151208193000 +0100">
     <length units="minutes">5</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -511,7 +207,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208213000 +0100" stop="20151208215500 +0100">
+  <programme channel="test" start="20151208193000 +0100" stop="20151208195500 +0100">
     <length units="minutes">25</length>
     <title>Journal d'une réserve africaine</title>
     <category>Documentaire</category>
@@ -521,7 +217,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208215500 +0100" stop="20151208221000 +0100">
+  <programme channel="test" start="20151208195500 +0100" stop="20151208201000 +0100">
     <length units="minutes">15</length>
     <title>Bougez vert</title>
     <category>Magazine</category>
@@ -531,7 +227,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208221000 +0100" stop="20151208224000 +0100">
+  <programme channel="test" start="20151208201000 +0100" stop="20151208204000 +0100">
     <length units="minutes">30</length>
     <title>Ushuaïa, le mag</title>
     <category>Magazine</category>
@@ -541,14 +237,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208224000 +0100" stop="20151208224500 +0100">
+  <programme channel="test" start="20151208204000 +0100" stop="20151208204500 +0100">
     <length units="minutes">5</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208224500 +0100" stop="20151208234500 +0100">
+  <programme channel="test" start="20151208204500 +0100" stop="20151208214500 +0100">
     <length units="minutes">60</length>
     <title>En attendant le déluge</title>
     <category>Documentaire</category>
@@ -558,21 +254,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208234500 +0100" stop="20151209003500 +0100">
+  <programme channel="test" start="20151208214500 +0100" stop="20151208223500 +0100">
     <length units="minutes">50</length>
     <title>Arctique terre promise</title>
     <category>Documentaire</category>
     <desc>En 2040, la glace de l'Arctique aura fondu ; si les dangers sont aujourd'hui connus, quelles seront les opportunités et qui les saisira... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209003500 +0100" stop="20151209012000 +0100">
+  <programme channel="test" start="20151208223500 +0100" stop="20151208232000 +0100">
     <length units="minutes">45</length>
     <title>Mégalopoles sous tension</title>
     <category>Documentaire</category>
     <desc>Dhaka Dhaka, capitale du Bangladesh, compte plus de 13 millions d'habitants, un chiffre qui pourrait doubler au cours de la prochaine... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209012000 +0100" stop="20151209013000 +0100">
+  <programme channel="test" start="20151208232000 +0100" stop="20151208233000 +0100">
     <length units="minutes">10</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -582,7 +278,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209013000 +0100" stop="20151209031000 +0100">
+  <programme channel="test" start="20151208233000 +0100" stop="20151209011000 +0100">
     <length units="minutes">100</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
@@ -592,28 +288,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209031000 +0100" stop="20151209035500 +0100">
+  <programme channel="test" start="20151209011000 +0100" stop="20151209015500 +0100">
     <length units="minutes">45</length>
     <title>1000 jours pour la planète</title>
     <category>Documentaire</category>
     <desc>Le sauvetage des gibbons Les besoins sans cesse croissants de l'humanité exercent une pression insoutenable sur de nombreux écosystèmes ; Jean Lemire fait un état des... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209035500 +0100" stop="20151209044000 +0100">
+  <programme channel="test" start="20151209015500 +0100" stop="20151209024000 +0100">
     <length units="minutes">45</length>
     <title>Alaska : terre des extrêmes</title>
     <category>Documentaire</category>
     <desc>Dans le froid et la pénombre La famille Kilcher doit affronter les huit longs mois de l'hiver et ses nuits interminables en vivant de l'élevage, la pêche et la... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209044000 +0100" stop="20151209052500 +0100">
+  <programme channel="test" start="20151209024000 +0100" stop="20151209032500 +0100">
     <length units="minutes">45</length>
     <title>Alaska : terre des extrêmes</title>
     <category>Documentaire</category>
     <desc>Au coeur de l'hiver Au coeur de l'hiver, deux membres d'une famille affrontent le blizzard pour rejoindre un lac gelé afin d'y pêcher des truites car ils n'ont plus... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209052500 +0100" stop="20151209053500 +0100">
+  <programme channel="test" start="20151209032500 +0100" stop="20151209033500 +0100">
     <length units="minutes">10</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -623,14 +319,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209053500 +0100" stop="20151209080000 +0100">
+  <programme channel="test" start="20151209033500 +0100" stop="20151209060000 +0100">
     <length units="minutes">145</length>
     <title>L'esprit d'un chef</title>
     <category>Documentaire</category>
     <desc>Classiques à l'anglaise (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209080000 +0100" stop="20151209082500 +0100">
+  <programme channel="test" start="20151209060000 +0100" stop="20151209062500 +0100">
     <length units="minutes">25</length>
     <title>Journal d'une réserve africaine</title>
     <category>Documentaire</category>
@@ -640,7 +336,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209082500 +0100" stop="20151209092000 +0100">
+  <programme channel="test" start="20151209062500 +0100" stop="20151209072000 +0100">
     <length units="minutes">55</length>
     <title>Quand la nature annonce la couleur</title>
     <category>Documentaire</category>
@@ -650,14 +346,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209092000 +0100" stop="20151209101500 +0100">
+  <programme channel="test" start="20151209072000 +0100" stop="20151209081500 +0100">
     <length units="minutes">55</length>
     <title>L'éveil de la Chine verte</title>
     <category>Documentaire</category>
     <desc>En Chine, une nouvelle génération d'écologistes composée de militants, journalistes, cinéastes et anciens politiciens s'efforce de préserver les... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209101500 +0100" stop="20151209111000 +0100">
+  <programme channel="test" start="20151209081500 +0100" stop="20151209091000 +0100">
     <length units="minutes">55</length>
     <title>Requins non tueurs</title>
     <category>Documentaire</category>
@@ -667,7 +363,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209111000 +0100" stop="20151209125500 +0100">
+  <programme channel="test" start="20151209091000 +0100" stop="20151209105500 +0100">
     <length units="minutes">105</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
@@ -677,7 +373,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209125500 +0100" stop="20151209135500 +0100">
+  <programme channel="test" start="20151209105500 +0100" stop="20151209115500 +0100">
     <length units="minutes">60</length>
     <title>Traits d'union</title>
     <category>Documentaire</category>
@@ -687,7 +383,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209135500 +0100" stop="20151209142500 +0100">
+  <programme channel="test" start="20151209115500 +0100" stop="20151209122500 +0100">
     <length units="minutes">30</length>
     <title>Une vie de bêtes</title>
     <category>Magazine</category>
@@ -697,7 +393,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209142500 +0100" stop="20151209150000 +0100">
+  <programme channel="test" start="20151209122500 +0100" stop="20151209130000 +0100">
     <length units="minutes">35</length>
     <title>Ushuaïa, le mag</title>
     <category>Magazine</category>
@@ -707,7 +403,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209150000 +0100" stop="20151209151000 +0100">
+  <programme channel="test" start="20151209130000 +0100" stop="20151209131000 +0100">
     <length units="minutes">10</length>
     <title>Bougez vert</title>
     <category>Magazine</category>
@@ -717,14 +413,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209151000 +0100" stop="20151209154000 +0100">
+  <programme channel="test" start="20151209131000 +0100" stop="20151209134000 +0100">
     <length units="minutes">30</length>
     <title>Sur les routes d'Ushuaïa</title>
     <category>Magazine</category>
     <desc>L'amchi Les plus belles images, sélectionnées dans les reportages d'«Ushuaïa nature» et «Opération Okavango». (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209154000 +0100" stop="20151209171000 +0100">
+  <programme channel="test" start="20151209134000 +0100" stop="20151209151000 +0100">
     <length units="minutes">90</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
@@ -734,7 +430,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209171000 +0100" stop="20151209183000 +0100">
+  <programme channel="test" start="20151209151000 +0100" stop="20151209163000 +0100">
     <length units="minutes">80</length>
     <title>La planète blanche (?)</title>
     <category>Film</category>
@@ -746,7 +442,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209183000 +0100" stop="20151209185000 +0100">
+  <programme channel="test" start="20151209163000 +0100" stop="20151209165000 +0100">
     <length units="minutes">20</length>
     <title>La légende de One Eye</title>
     <category>Documentaire</category>
@@ -756,7 +452,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209185000 +0100" stop="20151209194500 +0100">
+  <programme channel="test" start="20151209165000 +0100" stop="20151209174500 +0100">
     <length units="minutes">55</length>
     <title>Sentinelles de la nature</title>
     <category>Documentaire</category>
@@ -766,7 +462,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209194500 +0100" stop="20151209204000 +0100">
+  <programme channel="test" start="20151209174500 +0100" stop="20151209184000 +0100">
     <length units="minutes">55</length>
     <title>Combattre pour vivre</title>
     <category>Documentaire</category>
@@ -776,7 +472,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209204000 +0100" stop="20151209213000 +0100">
+  <programme channel="test" start="20151209184000 +0100" stop="20151209193000 +0100">
     <length units="minutes">50</length>
     <title>Parés pour la vie</title>
     <category>Documentaire</category>
@@ -786,7 +482,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209213000 +0100" stop="20151209214000 +0100">
+  <programme channel="test" start="20151209193000 +0100" stop="20151209194000 +0100">
     <length units="minutes">10</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -796,7 +492,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209214000 +0100" stop="20151209220500 +0100">
+  <programme channel="test" start="20151209194000 +0100" stop="20151209200500 +0100">
     <length units="minutes">25</length>
     <title>Journal d'une réserve africaine</title>
     <category>Documentaire</category>
@@ -806,7 +502,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209220500 +0100" stop="20151209224000 +0100">
+  <programme channel="test" start="20151209200500 +0100" stop="20151209204000 +0100">
     <length units="minutes">35</length>
     <title>Les Urbainculteurs</title>
     <category>Magazine</category>
@@ -816,7 +512,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209224000 +0100" stop="20151209233500 +0100">
+  <programme channel="test" start="20151209204000 +0100" stop="20151209213500 +0100">
     <length units="minutes">55</length>
     <title>La jeune fille et les typhons</title>
     <category>Documentaire</category>
@@ -826,7 +522,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209233500 +0100" stop="20151210003000 +0100">
+  <programme channel="test" start="20151209213500 +0100" stop="20151209223000 +0100">
     <length units="minutes">55</length>
     <title>Les deux mondes des Pygmées</title>
     <category>Documentaire</category>
@@ -836,7 +532,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210003000 +0100" stop="20151210012500 +0100">
+  <programme channel="test" start="20151209223000 +0100" stop="20151209232500 +0100">
     <length units="minutes">55</length>
     <title>Mlabri, à l'ombre de la canopée</title>
     <category>Documentaire</category>
@@ -846,7 +542,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210012500 +0100" stop="20151210013500 +0100">
+  <programme channel="test" start="20151209232500 +0100" stop="20151209233500 +0100">
     <length units="minutes">10</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -856,7 +552,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210013500 +0100" stop="20151210030500 +0100">
+  <programme channel="test" start="20151209233500 +0100" stop="20151210010500 +0100">
     <length units="minutes">90</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
@@ -866,14 +562,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210030500 +0100" stop="20151210030900 +0100">
+  <programme channel="test" start="20151210010500 +0100" stop="20151210010900 +0100">
     <length units="minutes">4</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210030900 +0100" stop="20151210040500 +0100">
+  <programme channel="test" start="20151210010900 +0100" stop="20151210020500 +0100">
     <length units="minutes">56</length>
     <title>La ville durable made in France</title>
     <category>Documentaire</category>
@@ -883,35 +579,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210040500 +0100" stop="20151210040800 +0100">
+  <programme channel="test" start="20151210020500 +0100" stop="20151210020800 +0100">
     <length units="minutes">3</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210040800 +0100" stop="20151210050000 +0100">
+  <programme channel="test" start="20151210020800 +0100" stop="20151210030000 +0100">
     <length units="minutes">52</length>
     <title>Architecture : pour vivre heureux, vivons petit</title>
     <category>Documentaire</category>
     <desc>Pour la plupart, un logement est synonyme de stabilité, structure et permanence. Pourtant, les demandes d'habitations mobiles sont de plus en... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210050000 +0100" stop="20151210050300 +0100">
+  <programme channel="test" start="20151210030000 +0100" stop="20151210030300 +0100">
     <length units="minutes">3</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210050300 +0100" stop="20151210080000 +0100">
+  <programme channel="test" start="20151210030300 +0100" stop="20151210060000 +0100">
     <length units="minutes">177</length>
     <title>Des villes à taille humaine</title>
     <category>Documentaire</category>
     <desc>La moitié de la population mondiale vit dans un environnement urbain ; l'architecte Jan Gehl tente de développer le concept d'une ville à échelle... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210080000 +0100" stop="20151210081000 +0100">
+  <programme channel="test" start="20151210060000 +0100" stop="20151210061000 +0100">
     <length units="minutes">10</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -921,7 +617,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210081000 +0100" stop="20151210094000 +0100">
+  <programme channel="test" start="20151210061000 +0100" stop="20151210074000 +0100">
     <length units="minutes">90</length>
     <title>Nature, le nouvel eldorado de la finance</title>
     <category>Documentaire</category>
@@ -932,7 +628,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210094000 +0100" stop="20151210104500 +0100">
+  <programme channel="test" start="20151210074000 +0100" stop="20151210084500 +0100">
     <length units="minutes">65</length>
     <title>Ushuaïa, le mag</title>
     <category>Magazine</category>
@@ -942,7 +638,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210104500 +0100" stop="20151210105500 +0100">
+  <programme channel="test" start="20151210084500 +0100" stop="20151210085500 +0100">
     <length units="minutes">10</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -952,7 +648,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210105500 +0100" stop="20151210112500 +0100">
+  <programme channel="test" start="20151210085500 +0100" stop="20151210092500 +0100">
     <length units="minutes">30</length>
     <title>Journal d'une réserve africaine</title>
     <category>Documentaire</category>
@@ -962,7 +658,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210112500 +0100" stop="20151210130500 +0100">
+  <programme channel="test" start="20151210092500 +0100" stop="20151210110500 +0100">
     <length units="minutes">100</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
@@ -972,7 +668,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210130500 +0100" stop="20151210140000 +0100">
+  <programme channel="test" start="20151210110500 +0100" stop="20151210120000 +0100">
     <length units="minutes">55</length>
     <title>Devenir un homme en Sibérie</title>
     <category>Documentaire</category>
@@ -984,7 +680,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210140000 +0100" stop="20151210141500 +0100">
+  <programme channel="test" start="20151210120000 +0100" stop="20151210121500 +0100">
     <length units="minutes">15</length>
     <title>Bougez vert</title>
     <category>Magazine</category>
@@ -994,7 +690,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210141500 +0100" stop="20151210144000 +0100">
+  <programme channel="test" start="20151210121500 +0100" stop="20151210124000 +0100">
     <length units="minutes">25</length>
     <title>Echo-logis</title>
     <category>Documentaire</category>
@@ -1004,7 +700,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210144000 +0100" stop="20151210151000 +0100">
+  <programme channel="test" start="20151210124000 +0100" stop="20151210131000 +0100">
     <length units="minutes">30</length>
     <title>Ushuaïa, le mag</title>
     <category>Magazine</category>
@@ -1014,14 +710,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210151000 +0100" stop="20151210154000 +0100">
+  <programme channel="test" start="20151210131000 +0100" stop="20151210134000 +0100">
     <length units="minutes">30</length>
     <title>Sur les routes d'Ushuaïa</title>
     <category>Magazine</category>
     <desc>La mer sur le toit du monde Les plus belles images, sélectionnées dans les reportages d'«Ushuaïa nature» et «Opération Okavango». (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210154000 +0100" stop="20151210171500 +0100">
+  <programme channel="test" start="20151210134000 +0100" stop="20151210151500 +0100">
     <length units="minutes">95</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
@@ -1031,14 +727,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210171500 +0100" stop="20151210180000 +0100">
+  <programme channel="test" start="20151210151500 +0100" stop="20151210160000 +0100">
     <length units="minutes">45</length>
     <title>1000 jours pour la planète</title>
     <category>Documentaire</category>
     <desc>Les derniers orangs-outans de Sumatra Les victimes de la déforestation sont nombreuses et le coût de cette exploitation effrénée des dernières forêts tropicales indonésiennes se... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210180000 +0100" stop="20151210185500 +0100">
+  <programme channel="test" start="20151210160000 +0100" stop="20151210165500 +0100">
     <length units="minutes">55</length>
     <title>Les aventuriers de Shangri-La</title>
     <category>Documentaire</category>
@@ -1048,7 +744,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210185500 +0100" stop="20151210194000 +0100">
+  <programme channel="test" start="20151210165500 +0100" stop="20151210174000 +0100">
     <length units="minutes">45</length>
     <title>Mes amis les grands dauphins</title>
     <category>Documentaire</category>
@@ -1058,7 +754,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210194000 +0100" stop="20151210202500 +0100">
+  <programme channel="test" start="20151210174000 +0100" stop="20151210182500 +0100">
     <length units="minutes">45</length>
     <title>Un jardin d'Eden sous les mers</title>
     <category>Documentaire</category>
@@ -1068,7 +764,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210202500 +0100" stop="20151210212000 +0100">
+  <programme channel="test" start="20151210182500 +0100" stop="20151210192000 +0100">
     <length units="minutes">55</length>
     <title>Caraïbes : alerte au poisson-lion</title>
     <category>Documentaire</category>
@@ -1078,7 +774,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210212000 +0100" stop="20151210213000 +0100">
+  <programme channel="test" start="20151210192000 +0100" stop="20151210193000 +0100">
     <length units="minutes">10</length>
     <title>Bougez vert</title>
     <category>Magazine</category>
@@ -1088,7 +784,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210213000 +0100" stop="20151210214500 +0100">
+  <programme channel="test" start="20151210193000 +0100" stop="20151210194500 +0100">
     <length units="minutes">15</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -1098,7 +794,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210214500 +0100" stop="20151210221000 +0100">
+  <programme channel="test" start="20151210194500 +0100" stop="20151210201000 +0100">
     <length units="minutes">25</length>
     <title>Journal d'une réserve africaine</title>
     <category>Documentaire</category>
@@ -1108,7 +804,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210221000 +0100" stop="20151210224000 +0100">
+  <programme channel="test" start="20151210201000 +0100" stop="20151210204000 +0100">
     <length units="minutes">30</length>
     <title>Une vie de bêtes</title>
     <category>Magazine</category>
@@ -1118,7 +814,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210224000 +0100" stop="20151211000000 +0100">
+  <programme channel="test" start="20151210204000 +0100" stop="20151210220000 +0100">
     <length units="minutes">80</length>
     <title>La famille Suricate (?)</title>
     <category>Film</category>
@@ -1128,7 +824,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211000000 +0100" stop="20151211013500 +0100">
+  <programme channel="test" start="20151210220000 +0100" stop="20151210233500 +0100">
     <length units="minutes">95</length>
     <title>Okavango</title>
     <category>Magazine</category>
@@ -1138,7 +834,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211013500 +0100" stop="20151211014500 +0100">
+  <programme channel="test" start="20151210233500 +0100" stop="20151210234500 +0100">
     <length units="minutes">10</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -1148,7 +844,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211014500 +0100" stop="20151211022000 +0100">
+  <programme channel="test" start="20151210234500 +0100" stop="20151211002000 +0100">
     <length units="minutes">35</length>
     <title>Ushuaïa, le mag</title>
     <category>Magazine</category>
@@ -1158,7 +854,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211022000 +0100" stop="20151211031500 +0100">
+  <programme channel="test" start="20151211002000 +0100" stop="20151211011500 +0100">
     <length units="minutes">55</length>
     <title>La quête d'inspiration</title>
     <category>Documentaire</category>
@@ -1168,7 +864,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211031500 +0100" stop="20151211041000 +0100">
+  <programme channel="test" start="20151211011500 +0100" stop="20151211021000 +0100">
     <length units="minutes">55</length>
     <title>Sentinelles de la nature</title>
     <category>Documentaire</category>
@@ -1178,7 +874,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211041000 +0100" stop="20151211044000 +0100">
+  <programme channel="test" start="20151211021000 +0100" stop="20151211024000 +0100">
     <length units="minutes">30</length>
     <title>Echo-logis</title>
     <category>Documentaire</category>
@@ -1188,7 +884,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211044000 +0100" stop="20151211050500 +0100">
+  <programme channel="test" start="20151211024000 +0100" stop="20151211030500 +0100">
     <length units="minutes">25</length>
     <title>Echo-logis</title>
     <category>Documentaire</category>
@@ -1198,7 +894,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211050500 +0100" stop="20151211051500 +0100">
+  <programme channel="test" start="20151211030500 +0100" stop="20151211031500 +0100">
     <length units="minutes">10</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -1208,14 +904,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211051500 +0100" stop="20151211080000 +0100">
+  <programme channel="test" start="20151211031500 +0100" stop="20151211060000 +0100">
     <length units="minutes">165</length>
     <title>Alaska : terre des extrêmes</title>
     <category>Documentaire</category>
     <desc>Au coeur de l'hiver Au coeur de l'hiver, deux membres d'une famille affrontent le blizzard pour rejoindre un lac gelé afin d'y pêcher des truites car ils n'ont plus... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211080000 +0100" stop="20151211081000 +0100">
+  <programme channel="test" start="20151211060000 +0100" stop="20151211061000 +0100">
     <length units="minutes">10</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -1225,7 +921,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211081000 +0100" stop="20151211090500 +0100">
+  <programme channel="test" start="20151211061000 +0100" stop="20151211070500 +0100">
     <length units="minutes">55</length>
     <title>Arnaque au carbone</title>
     <category>Documentaire</category>
@@ -1235,7 +931,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211090500 +0100" stop="20151211100000 +0100">
+  <programme channel="test" start="20151211070500 +0100" stop="20151211080000 +0100">
     <length units="minutes">55</length>
     <title>La fausse promesse d'une énergie propre</title>
     <category>Documentaire</category>
@@ -1246,7 +942,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211100000 +0100" stop="20151211103000 +0100">
+  <programme channel="test" start="20151211080000 +0100" stop="20151211083000 +0100">
     <length units="minutes">30</length>
     <title>Journal d'une réserve africaine</title>
     <category>Documentaire</category>
@@ -1256,7 +952,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211103000 +0100" stop="20151211112500 +0100">
+  <programme channel="test" start="20151211083000 +0100" stop="20151211092500 +0100">
     <length units="minutes">55</length>
     <title>S.O.S. animaux en danger</title>
     <category>Documentaire</category>
@@ -1266,7 +962,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211112500 +0100" stop="20151211131000 +0100">
+  <programme channel="test" start="20151211092500 +0100" stop="20151211111000 +0100">
     <length units="minutes">105</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
@@ -1276,7 +972,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211131000 +0100" stop="20151211140500 +0100">
+  <programme channel="test" start="20151211111000 +0100" stop="20151211120500 +0100">
     <length units="minutes">55</length>
     <title>Peuples autochtones : notre combat</title>
     <category>Documentaire</category>
@@ -1286,7 +982,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211140500 +0100" stop="20151211143500 +0100">
+  <programme channel="test" start="20151211120500 +0100" stop="20151211123500 +0100">
     <length units="minutes">30</length>
     <title>Ushuaïa, le mag</title>
     <category>Magazine</category>
@@ -1296,7 +992,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211143500 +0100" stop="20151211150500 +0100">
+  <programme channel="test" start="20151211123500 +0100" stop="20151211130500 +0100">
     <length units="minutes">30</length>
     <title>Une vie de bêtes</title>
     <category>Magazine</category>
@@ -1306,7 +1002,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211150500 +0100" stop="20151211151500 +0100">
+  <programme channel="test" start="20151211130500 +0100" stop="20151211131500 +0100">
     <length units="minutes">10</length>
     <title>Bougez vert</title>
     <category>Magazine</category>
@@ -1316,14 +1012,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211151500 +0100" stop="20151211154500 +0100">
+  <programme channel="test" start="20151211131500 +0100" stop="20151211134500 +0100">
     <length units="minutes">30</length>
     <title>Sur les routes d'Ushuaïa</title>
     <category>Magazine</category>
     <desc>Un paradis animalier Les plus belles images, sélectionnées dans les reportages d'«Ushuaïa nature» et «Opération Okavango». (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211154500 +0100" stop="20151211171500 +0100">
+  <programme channel="test" start="20151211134500 +0100" stop="20151211151500 +0100">
     <length units="minutes">90</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
@@ -1333,21 +1029,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211171500 +0100" stop="20151211180000 +0100">
+  <programme channel="test" start="20151211151500 +0100" stop="20151211160000 +0100">
     <length units="minutes">45</length>
     <title>Alaska : terre des extrêmes</title>
     <category>Documentaire</category>
     <desc>Migration estivale L'heure de la transhumance a sonné pour le bétail ; mais les prédateurs rôdent et une course contre les marées s'engage pour atteindre les... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211180000 +0100" stop="20151211180400 +0100">
+  <programme channel="test" start="20151211160000 +0100" stop="20151211160400 +0100">
     <length units="minutes">4</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211180400 +0100" stop="20151211185500 +0100">
+  <programme channel="test" start="20151211160400 +0100" stop="20151211165500 +0100">
     <length units="minutes">51</length>
     <title>L'île aux glaciers de marbre</title>
     <category>Documentaire</category>
@@ -1357,14 +1053,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211185500 +0100" stop="20151211185900 +0100">
+  <programme channel="test" start="20151211165500 +0100" stop="20151211165900 +0100">
     <length units="minutes">4</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211185900 +0100" stop="20151211195000 +0100">
+  <programme channel="test" start="20151211165900 +0100" stop="20151211175000 +0100">
     <length units="minutes">51</length>
     <title>Les gouffres de l'extrême</title>
     <category>Documentaire</category>
@@ -1374,14 +1070,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211195000 +0100" stop="20151211195500 +0100">
+  <programme channel="test" start="20151211175000 +0100" stop="20151211175500 +0100">
     <length units="minutes">5</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211195500 +0100" stop="20151211212500 +0100">
+  <programme channel="test" start="20151211175500 +0100" stop="20151211192500 +0100">
     <length units="minutes">90</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
@@ -1391,7 +1087,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211212500 +0100" stop="20151211213000 +0100">
+  <programme channel="test" start="20151211192500 +0100" stop="20151211193000 +0100">
     <length units="minutes">5</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -1401,7 +1097,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211213000 +0100" stop="20151211215500 +0100">
+  <programme channel="test" start="20151211193000 +0100" stop="20151211195500 +0100">
     <length units="minutes">25</length>
     <title>Journal d'une réserve africaine</title>
     <category>Documentaire</category>
@@ -1411,7 +1107,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211215500 +0100" stop="20151211222000 +0100">
+  <programme channel="test" start="20151211195500 +0100" stop="20151211202000 +0100">
     <length units="minutes">25</length>
     <title>Echo-logis</title>
     <category>Documentaire</category>
@@ -1421,7 +1117,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211222000 +0100" stop="20151211223500 +0100">
+  <programme channel="test" start="20151211202000 +0100" stop="20151211203500 +0100">
     <length units="minutes">15</length>
     <title>Bougez vert</title>
     <category>Magazine</category>
@@ -1431,14 +1127,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211223500 +0100" stop="20151211224000 +0100">
+  <programme channel="test" start="20151211203500 +0100" stop="20151211204000 +0100">
     <length units="minutes">5</length>
     <title>Solutions pour le climat</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211224000 +0100" stop="20151211232500 +0100">
+  <programme channel="test" start="20151211204000 +0100" stop="20151211212500 +0100">
     <length units="minutes">45</length>
     <title>Colombie sauvage</title>
     <category>Documentaire</category>
@@ -1448,7 +1144,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211232500 +0100" stop="20151212001000 +0100">
+  <programme channel="test" start="20151211212500 +0100" stop="20151211221000 +0100">
     <length units="minutes">45</length>
     <title>Colombie sauvage</title>
     <category>Documentaire</category>
@@ -1458,7 +1154,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212001000 +0100" stop="20151212010000 +0100">
+  <programme channel="test" start="20151211221000 +0100" stop="20151211230000 +0100">
     <length units="minutes">50</length>
     <title>Au pays de l'ours blanc</title>
     <category>Documentaire</category>
@@ -1469,7 +1165,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212010000 +0100" stop="20151212011000 +0100">
+  <programme channel="test" start="20151211230000 +0100" stop="20151211231000 +0100">
     <length units="minutes">10</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -1479,14 +1175,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212011000 +0100" stop="20151212011500 +0100">
+  <programme channel="test" start="20151211231000 +0100" stop="20151211231500 +0100">
     <length units="minutes">5</length>
     <title>Solutions pour le climat</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212011500 +0100" stop="20151212024500 +0100">
+  <programme channel="test" start="20151211231500 +0100" stop="20151212004500 +0100">
     <length units="minutes">90</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
@@ -1496,28 +1192,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212024500 +0100" stop="20151212025000 +0100">
+  <programme channel="test" start="20151212004500 +0100" stop="20151212005000 +0100">
     <length units="minutes">5</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212025000 +0100" stop="20151212034000 +0100">
+  <programme channel="test" start="20151212005000 +0100" stop="20151212014000 +0100">
     <length units="minutes">50</length>
     <title>Odisea</title>
     <category>Documentaire</category>
     <desc>L'Alaska au fil de l'eau Mathieu Crépel, champion du monde de snowboard, et Damien Castera, free surfeur, ont décidé de rallier les hauts sommets des glaciers du Golfe... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212034000 +0100" stop="20151212034500 +0100">
+  <programme channel="test" start="20151212014000 +0100" stop="20151212014500 +0100">
     <length units="minutes">5</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212034500 +0100" stop="20151212044000 +0100">
+  <programme channel="test" start="20151212014500 +0100" stop="20151212024000 +0100">
     <length units="minutes">55</length>
     <title>American Loneliness</title>
     <category>Documentaire</category>
@@ -1527,14 +1223,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212044000 +0100" stop="20151212044300 +0100">
+  <programme channel="test" start="20151212024000 +0100" stop="20151212024300 +0100">
     <length units="minutes">3</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212044300 +0100" stop="20151212053000 +0100">
+  <programme channel="test" start="20151212024300 +0100" stop="20151212033000 +0100">
     <length units="minutes">47</length>
     <title>Transpantaneira, la route mythique du Brésil</title>
     <category>Documentaire</category>
@@ -1544,7 +1240,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212053000 +0100" stop="20151212080000 +0100">
+  <programme channel="test" start="20151212033000 +0100" stop="20151212060000 +0100">
     <length units="minutes">150</length>
     <title>Ushuaïa, le mag</title>
     <category>Magazine</category>
@@ -1554,7 +1250,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212080000 +0100" stop="20151212080500 +0100">
+  <programme channel="test" start="20151212060000 +0100" stop="20151212060500 +0100">
     <length units="minutes">5</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -1564,7 +1260,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212080500 +0100" stop="20151212083500 +0100">
+  <programme channel="test" start="20151212060500 +0100" stop="20151212063500 +0100">
     <length units="minutes">30</length>
     <title>Eloa</title>
     <category>Magazine</category>
@@ -1574,7 +1270,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212083500 +0100" stop="20151212090500 +0100">
+  <programme channel="test" start="20151212063500 +0100" stop="20151212070500 +0100">
     <length units="minutes">30</length>
     <title>Eloa</title>
     <category>Magazine</category>
@@ -1584,7 +1280,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212090500 +0100" stop="20151212093500 +0100">
+  <programme channel="test" start="20151212070500 +0100" stop="20151212073500 +0100">
     <length units="minutes">30</length>
     <title>Eloa</title>
     <category>Magazine</category>
@@ -1594,7 +1290,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212093500 +0100" stop="20151212100000 +0100">
+  <programme channel="test" start="20151212073500 +0100" stop="20151212080000 +0100">
     <length units="minutes">25</length>
     <title>Eloa</title>
     <category>Magazine</category>
@@ -1604,14 +1300,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212100000 +0100" stop="20151212100500 +0100">
+  <programme channel="test" start="20151212080000 +0100" stop="20151212080500 +0100">
     <length units="minutes">5</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212100500 +0100" stop="20151212110500 +0100">
+  <programme channel="test" start="20151212080500 +0100" stop="20151212090500 +0100">
     <length units="minutes">60</length>
     <title>En attendant le déluge</title>
     <category>Documentaire</category>
@@ -1621,35 +1317,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212110500 +0100" stop="20151212111000 +0100">
+  <programme channel="test" start="20151212090500 +0100" stop="20151212091000 +0100">
     <length units="minutes">5</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212111000 +0100" stop="20151212120000 +0100">
+  <programme channel="test" start="20151212091000 +0100" stop="20151212100000 +0100">
     <length units="minutes">50</length>
     <title>Arctique terre promise</title>
     <category>Documentaire</category>
     <desc>En 2040, la glace de l'Arctique aura fondu ; si les dangers sont aujourd'hui connus, quelles seront les opportunités et qui les saisira... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212120000 +0100" stop="20151212120500 +0100">
+  <programme channel="test" start="20151212100000 +0100" stop="20151212100500 +0100">
     <length units="minutes">5</length>
     <title>Grand angle</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212120500 +0100" stop="20151212125000 +0100">
+  <programme channel="test" start="20151212100500 +0100" stop="20151212105000 +0100">
     <length units="minutes">45</length>
     <title>Mégalopoles sous tension</title>
     <category>Documentaire</category>
     <desc>Dhaka Dhaka, capitale du Bangladesh, compte plus de 13 millions d'habitants, un chiffre qui pourrait doubler au cours de la prochaine... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212125000 +0100" stop="20151212130000 +0100">
+  <programme channel="test" start="20151212105000 +0100" stop="20151212110000 +0100">
     <length units="minutes">10</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -1659,7 +1355,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212130000 +0100" stop="20151212143000 +0100">
+  <programme channel="test" start="20151212110000 +0100" stop="20151212123000 +0100">
     <length units="minutes">90</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
@@ -1669,7 +1365,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212143000 +0100" stop="20151212144000 +0100">
+  <programme channel="test" start="20151212123000 +0100" stop="20151212124000 +0100">
     <length units="minutes">10</length>
     <title>Bougez vert</title>
     <category>Magazine</category>
@@ -1679,7 +1375,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212144000 +0100" stop="20151212151000 +0100">
+  <programme channel="test" start="20151212124000 +0100" stop="20151212131000 +0100">
     <length units="minutes">30</length>
     <title>Ushuaïa, le mag</title>
     <category>Magazine</category>
@@ -1689,14 +1385,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212151000 +0100" stop="20151212154000 +0100">
+  <programme channel="test" start="20151212131000 +0100" stop="20151212134000 +0100">
     <length units="minutes">30</length>
     <title>Sur les routes d'Ushuaïa</title>
     <category>Magazine</category>
     <desc>Les mondes sous la terre Les plus belles images, sélectionnées dans les reportages d'«Ushuaïa nature» et «Opération Okavango». (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212154000 +0100" stop="20151212171000 +0100">
+  <programme channel="test" start="20151212134000 +0100" stop="20151212151000 +0100">
     <length units="minutes">90</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
@@ -1706,7 +1402,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212171000 +0100" stop="20151212180000 +0100">
+  <programme channel="test" start="20151212151000 +0100" stop="20151212160000 +0100">
     <length units="minutes">50</length>
     <title>Parés pour la vie</title>
     <category>Documentaire</category>
@@ -1716,7 +1412,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212180000 +0100" stop="20151212185500 +0100">
+  <programme channel="test" start="20151212160000 +0100" stop="20151212165500 +0100">
     <length units="minutes">55</length>
     <title>Combattre pour vivre</title>
     <category>Documentaire</category>
@@ -1726,7 +1422,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212185500 +0100" stop="20151212195000 +0100">
+  <programme channel="test" start="20151212165500 +0100" stop="20151212175000 +0100">
     <length units="minutes">55</length>
     <title>Sentinelles de la nature</title>
     <category>Documentaire</category>
@@ -1736,14 +1432,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212195000 +0100" stop="20151212203500 +0100">
+  <programme channel="test" start="20151212175000 +0100" stop="20151212183500 +0100">
     <length units="minutes">45</length>
     <title>Alerte : tornades</title>
     <category>Documentaire</category>
     <desc>Phénomènes inexpliqués Zoom sur les croyances que les tornades engendrent chez les survivants : leurs observations inexpliquées sont-elles le fruit de leur imagination... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212203500 +0100" stop="20151212213000 +0100">
+  <programme channel="test" start="20151212183500 +0100" stop="20151212193000 +0100">
     <length units="minutes">55</length>
     <title>Hawaii, l'archipel de lave</title>
     <category>Documentaire</category>
@@ -1753,7 +1449,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212213000 +0100" stop="20151212214000 +0100">
+  <programme channel="test" start="20151212193000 +0100" stop="20151212194000 +0100">
     <length units="minutes">10</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -1763,7 +1459,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212214000 +0100" stop="20151212221000 +0100">
+  <programme channel="test" start="20151212194000 +0100" stop="20151212201000 +0100">
     <length units="minutes">30</length>
     <title>Echo-logis</title>
     <category>Documentaire</category>
@@ -1773,7 +1469,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212221000 +0100" stop="20151212224000 +0100">
+  <programme channel="test" start="20151212201000 +0100" stop="20151212204000 +0100">
     <length units="minutes">30</length>
     <title>Ushuaïa, le mag</title>
     <category>Magazine</category>
@@ -1783,7 +1479,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212224000 +0100" stop="20151212233500 +0100">
+  <programme channel="test" start="20151212204000 +0100" stop="20151212213500 +0100">
     <length units="minutes">55</length>
     <title>Vers d'autres mondes</title>
     <category>Documentaire</category>
@@ -1793,7 +1489,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212233500 +0100" stop="20151213003000 +0100">
+  <programme channel="test" start="20151212213500 +0100" stop="20151212223000 +0100">
     <length units="minutes">55</length>
     <title>Une petite histoire de la consommation</title>
     <category>Documentaire</category>
@@ -1803,7 +1499,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213003000 +0100" stop="20151213012000 +0100">
+  <programme channel="test" start="20151212223000 +0100" stop="20151212232000 +0100">
     <length units="minutes">50</length>
     <title>Sentinelles de la nature</title>
     <category>Documentaire</category>
@@ -1813,7 +1509,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213012000 +0100" stop="20151213013000 +0100">
+  <programme channel="test" start="20151212232000 +0100" stop="20151212233000 +0100">
     <length units="minutes">10</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
@@ -1823,7 +1519,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213013000 +0100" stop="20151213031500 +0100">
+  <programme channel="test" start="20151212233000 +0100" stop="20151213011500 +0100">
     <length units="minutes">105</length>
     <title>Les mondes d'Ushuaïa</title>
     <category>Magazine</category>
@@ -1833,56 +1529,306 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213031500 +0100" stop="20151213041000 +0100">
+  <programme channel="test" start="20151213011500 +0100" stop="20151213021000 +0100">
     <length units="minutes">55</length>
     <title>Life Stories</title>
     <category>Documentaire</category>
-    <desc>L'art du mensonge Des espèces ont développé des techniques de leurre très performantes pour tromper leur ennemi, prédateur ou proie. Ce sont de véritables pièges... (Lire la suite).(n)</desc>
+    <desc>L'art du mensonge Des espèces ont développé des techniques de leurre très performantes pour tromper leur ennemi, prédateur ou proie. Ce sont de véritables pièges... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213041000 +0100" stop="20151213050500 +0100">
+  <programme channel="test" start="20151213021000 +0100" stop="20151213030500 +0100">
     <length units="minutes">55</length>
     <title>Sentinelles de la nature</title>
     <category>Documentaire</category>
-    <desc>Dans la forêt d'Apalachicola, Ryan et Rebecca ont rapatrié une urodèle rayée qui avait disparue de la Floride ; plus au sud, Amy se passionne... (Lire la suite).(n)</desc>
+    <desc>Dans la forêt d'Apalachicola, Ryan et Rebecca ont rapatrié une urodèle rayée qui avait disparue de la Floride ; plus au sud, Amy se passionne... (Lire la suite).</desc>
     <credits>
       <name function="director">Mélanie Dalsace</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213050500 +0100" stop="20151213051000 +0100">
+  <programme channel="test" start="20151213030500 +0100" stop="20151213031000 +0100">
     <length units="minutes">5</length>
     <title>#CopConnection</title>
     <category>Magazine</category>
-    <desc>Christine Oberdorff est aux commandes de ce magazine quotidien qui pénètre dans les coulisses de Paris Climat 2015. (Lire la suite).(n)</desc>
+    <desc>Christine Oberdorff est aux commandes de ce magazine quotidien qui pénètre dans les coulisses de Paris Climat 2015. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Christine Oberdorff</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213051000 +0100" stop="20151213053500 +0100">
+  <programme channel="test" start="20151213031000 +0100" stop="20151213033500 +0100">
     <length units="minutes">25</length>
     <title>L'esprit d'un chef</title>
     <category>Documentaire</category>
-    <desc>La cuisine italienne (Lire la suite).(n)</desc>
+    <desc>La cuisine italienne (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213053500 +0100" stop="20151213073000 +0100">
+  <programme channel="test" start="20151213033500 +0100" stop="20151213053000 +0100">
     <length units="minutes">115</length>
     <title>L'esprit d'un chef</title>
     <category>Documentaire</category>
-    <desc>Chefs du Sud (Lire la suite).(n)</desc>
+    <desc>Chefs du Sud (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213073000 +0100" stop="20151213083000 +0100">
+  <programme channel="test" start="20151213053000 +0100" stop="20151213063000 +0100">
     <length units="minutes">60</length>
     <title>L'éveil de la Chine verte</title>
     <category>Documentaire</category>
-    <desc>En Chine, une nouvelle génération d'écologistes composée de militants, journalistes, cinéastes et anciens politiciens s'efforce de préserver les... (Lire la suite).(n)</desc>
+    <desc>En Chine, une nouvelle génération d'écologistes composée de militants, journalistes, cinéastes et anciens politiciens s'efforce de préserver les... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213083000 +0100" stop="20151213085500 +0100">
+  <programme channel="test" start="20151213063000 +0100" stop="20151213065500 +0100">
     <length units="minutes">25</length>
+    <title>Eloa</title>
+    <category>Magazine</category>
+    <desc>Depuis 40 ans, Jean-Michel Cousteau sillonne les mers du globe pour attirer l'attention sur la fragilité du monde marin. En compagnie d'un... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Jean-Michel Cousteau</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213065500 +0100" stop="20151213070500 +0100">
+    <length units="minutes">10</length>
+    <title>#CopConnection</title>
+    <category>Magazine</category>
+    <desc>Christine Oberdorff est aux commandes de ce magazine quotidien qui pénètre dans les coulisses de Paris Climat 2015. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Christine Oberdorff</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213070500 +0100" stop="20151213073500 +0100">
+    <length units="minutes">30</length>
+    <title>Ushuaïa, le mag</title>
+    <category>Magazine</category>
+    <desc>Entouré de chroniqueurs et d'experts, Arnaud Ardoin fait le tour du monde pour ouvrir de nouveaux horizons. Au programme, notamment, une enquête... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Arnaud Ardoin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213073500 +0100" stop="20151213080500 +0100">
+    <length units="minutes">30</length>
+    <title>Les Urbainculteurs</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Tatiana Legros</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213080500 +0100" stop="20151213085500 +0100">
+    <length units="minutes">50</length>
+    <title>Life Stories</title>
+    <category>Documentaire</category>
+    <desc>Amis pour la vie Dans la nature, les animaux sont parfois amenés à collaborer entre eux. Par opportunisme, pour assurer leur propre sécurité, comme les zèbres qui... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213085500 +0100" stop="20151213100500 +0100">
+    <length units="minutes">70</length>
+    <title>Ushuaïa, le mag</title>
+    <category>Magazine</category>
+    <desc>Nicolas Hulot fait le tour du monde pour tenter de mobiliser les pays autour de la conférence du climat qui se tiendra à Paris en décembre 2015.... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Arnaud Ardoin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213100500 +0100" stop="20151213120000 +0100">
+    <length units="minutes">115</length>
+    <title>Paul Watson : la voie d'un éco-pirate</title>
+    <category>Documentaire</category>
+    <desc>Portrait de Paul Watson, écologiste canadien, fondateur de l'ONG Sea Shepherd, réputé pour ses coups de force contre les navires de pêcheurs... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Trish Dolman</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213120000 +0100" stop="20151213121000 +0100">
+    <length units="minutes">10</length>
+    <title>Bougez vert</title>
+    <category>Magazine</category>
+    <desc>Expos, cinés, musées : dans son agenda de la semaine, Gérald Ariano partage ses bons plans pour bouger de manière écolo. Il visite les régions et... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Gérald Ariano</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213121000 +0100" stop="20151213124000 +0100">
+    <length units="minutes">30</length>
+    <title>Ushuaïa, le mag</title>
+    <category>Magazine</category>
+    <desc>Entouré de chroniqueurs et d'experts, Arnaud Ardoin fait le tour du monde pour ouvrir de nouveaux horizons. Au programme, notamment, une enquête... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Arnaud Ardoin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213124000 +0100" stop="20151213130500 +0100">
+    <length units="minutes">25</length>
+    <title>Une vie de bêtes</title>
+    <category>Magazine</category>
+    <desc>C'est dans l'univers hippique du Haras de la Cense que Gérald Ariano va passer trois jours d'immersion pour découvrir l'éthologie. Cette science... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Gérald Ariano</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213130500 +0100" stop="20151213133500 +0100">
+    <length units="minutes">30</length>
+    <title>Sur les routes d'Ushuaïa</title>
+    <category>Magazine</category>
+    <desc>Etranges créatures Les plus belles images, sélectionnées dans les reportages d'«Ushuaïa nature» et «Opération Okavango». (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213133500 +0100" stop="20151213133800 +0100">
+    <length units="minutes">3</length>
+    <title>Grand angle</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213133800 +0100" stop="20151213143000 +0100">
+    <length units="minutes">52</length>
+    <title>L'île aux glaciers de marbre</title>
+    <category>Documentaire</category>
+    <desc>Des spéléologues partent en expéditions sur l'île de Diego de Almagro : dans des paysages somptueux, sauvages et austères, ils vont de surprises... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Luc-Henri Fage</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213143000 +0100" stop="20151213143500 +0100">
+    <length units="minutes">5</length>
+    <title>Grand angle</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213143500 +0100" stop="20151213152500 +0100">
+    <length units="minutes">50</length>
+    <title>Les gouffres de l'extrême</title>
+    <category>Documentaire</category>
+    <desc>Portrait de deux passionnés des gouffres de glace, l'explorateur-glacionaute Serge Aviotte et le scientifique-glaciologue Luc... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Thierry Berrod</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213152500 +0100" stop="20151213153000 +0100">
+    <length units="minutes">5</length>
+    <title>Grand angle</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213153000 +0100" stop="20151213170500 +0100">
+    <length units="minutes">95</length>
+    <title>Ushuaïa nature</title>
+    <category>Magazine</category>
+    <desc>Franchissant des portes secrètes, Nicolas Hulot s'immerge dans l'univers des abîmes et des abysses. Des déserts mexicains jusqu'aux très grandes... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Nicolas Hulot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213170500 +0100" stop="20151213180000 +0100">
+    <length units="minutes">55</length>
+    <title>Le mystère des éléphants géants</title>
+    <category>Documentaire</category>
+    <desc>Les sédiments fossiles de 120 000 ans d'âge exhumés sur le site de Neumark-Nord, en Allemagne, sont d'une incroyable richesse : squelettes... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jan N Lorenzen</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213180000 +0100" stop="20151213183000 +0100">
+    <length units="minutes">30</length>
+    <title>Une vie de bêtes</title>
+    <category>Magazine</category>
+    <desc>le refuge de l'Arche accueille, soigne et dorlote des centaines d'animaux blessés ou abandonnés. En compagnie de Sarah, Gérald Ariano va... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Gérald Ariano</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213183000 +0100" stop="20151213200000 +0100">
+    <length units="minutes">90</length>
+    <title>Ushuaïa nature</title>
+    <category>Magazine</category>
+    <desc>Bordées par les océans Indien et Pacifique, l'Indonésie et les Philippines sont une mine d'or biologique. Nicolas Hulot propose d'en découvrir... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Nicolas Hulot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213200000 +0100" stop="20151213203000 +0100">
+    <length units="minutes">30</length>
+    <title>Echo-logis</title>
+    <category>Documentaire</category>
+    <desc>Sur l'île Fogo, au large du Canada, des ateliers face à la mer accueillent des artistes qui viennent ici trouver l'inspiration dans un endroit... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Frédéric Planchenault</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213203000 +0100" stop="20151213204000 +0100">
+    <length units="minutes">10</length>
+    <title>Bougez vert</title>
+    <category>Magazine</category>
+    <desc>Expos, cinés, musées : dans son agenda de la semaine, Gérald Ariano partage ses bons plans pour bouger de manière écolo. Il visite les régions et... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Gérald Ariano</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213204000 +0100" stop="20151213212500 +0100">
+    <length units="minutes">45</length>
+    <title>Alerte : tornades</title>
+    <category>Documentaire</category>
+    <desc>Apocalypse à Washington Extrêmement puissantes, les tornades s'abattent régulièrement sur la planète ; un aperçu des dégâts si une tornade de type F5 venait à frapper... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213212500 +0100" stop="20151213221500 +0100">
+    <length units="minutes">50</length>
+    <title>Astéroïdes : menace ou don du ciel</title>
+    <category>Documentaire</category>
+    <desc>En 2013, une météorite s'abattait sur une large zone à 1500 kilomètres de Moscou, blessant plus d'un millier de personnes. Mais s'ils sont... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213221500 +0100" stop="20151213231500 +0100">
+    <length units="minutes">60</length>
+    <title>Sur les traces des premiers sauriens</title>
+    <category>Documentaire</category>
+    <desc>En 2008, à Bernburg, dans le Land de Saxe-Anhalt, le paléontologue allemand Cajus Diedrich a mis au jour des empreintes de sauriens vieilles de... (Lire la suite).</desc>
+    <credits>
+      <name function="director">Jan Lorenzen</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213231500 +0100" stop="20151214004500 +0100">
+    <length units="minutes">90</length>
+    <title>Ushuaïa nature</title>
+    <category>Magazine</category>
+    <desc>Nicolas Hulot suit l'ancienne route de l'encens, tracée en bordure du désert yéménite. Il s'intéresse à toute une civilisation bâtie autour de... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Nicolas Hulot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214004500 +0100" stop="20151214021500 +0100">
+    <length units="minutes">90</length>
+    <title>Nature, le nouvel eldorado de la finance</title>
+    <category>Documentaire</category>
+    <desc>La course au profit généralisé et le marché global ont largement contribué à la crise écologique. Pourtant, les mondes de l'économie et de la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Sandrine Feydel,</name>
+      <name function="director">Denis Delestrac</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214021500 +0100" stop="20151214024500 +0100">
+    <length units="minutes">30</length>
     <title>Eloa</title>
     <category>Magazine</category>
     <desc>Depuis 40 ans, Jean-Michel Cousteau sillonne les mers du globe pour attirer l'attention sur la fragilité du monde marin. En compagnie d'un... (Lire la suite).(n)</desc>
@@ -1891,17 +1837,110 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213085500 +0100" stop="20151213090500 +0100">
-    <length units="minutes">10</length>
-    <title>#CopConnection</title>
-    <category>Magazine</category>
-    <desc>Christine Oberdorff est aux commandes de ce magazine quotidien qui pénètre dans les coulisses de Paris Climat 2015. (Lire la suite).(n)</desc>
+  <programme channel="test" start="20151214024500 +0100" stop="20151214033500 +0100">
+    <length units="minutes">50</length>
+    <title>Alaska : terre des extrêmes</title>
+    <category>Documentaire</category>
+    <desc>Au coeur de l'hiver Au coeur de l'hiver, deux membres d'une famille affrontent le blizzard pour rejoindre un lac gelé afin d'y pêcher des truites car ils n'ont plus... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214033500 +0100" stop="20151214060000 +0100">
+    <length units="minutes">145</length>
+    <title>L'esprit d'un chef</title>
+    <category>Documentaire</category>
+    <desc>Graines de chef (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214060000 +0100" stop="20151214065000 +0100">
+    <length units="minutes">50</length>
+    <title>Sentinelles de la nature</title>
+    <category>Documentaire</category>
+    <desc>Plus de la moitié du territoire de l'île de Taïwan, située entre les Philippines et le Japon, est composé de montagnes. L'éventail de climats et... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Christine Oberdorff</name>
+      <name function="director">Nadine Kuhn</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213090500 +0100" stop="20151213093500 +0100">
+  <programme channel="test" start="20151214065000 +0100" stop="20151214065500 +0100">
+    <length units="minutes">5</length>
+    <title>Grand angle</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214065500 +0100" stop="20151214074500 +0100">
+    <length units="minutes">50</length>
+    <title>La Méditerranée, un monde entre deux eaux</title>
+    <category>Documentaire</category>
+    <desc>Du plus haut sommet du glacier du Rhône aux stations de dessalement du littoral tunisien, une analyse de la situation de l'eau du bassin... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214074500 +0100" stop="20151214075000 +0100">
+    <length units="minutes">5</length>
+    <title>Grand angle</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214075000 +0100" stop="20151214083500 +0100">
+    <length units="minutes">45</length>
+    <title>Menace sur la Méditerranée</title>
+    <category>Documentaire</category>
+    <desc>La mer Méditerranée se réchauffe cinq fois plus vite que les autres mers et océans du globe en raison des changements... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Eugenio Manghi</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214083500 +0100" stop="20151214084000 +0100">
+    <length units="minutes">5</length>
+    <title>Grand angle</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214084000 +0100" stop="20151214093500 +0100">
+    <length units="minutes">55</length>
+    <title>La France sauvage</title>
+    <category>Documentaire</category>
+    <desc>La Corse est une véritable île aux trésors dont les fonds marins abritent des créatures étranges, parfois uniques au monde, comme certains... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Frédéric Febvre,</name>
+      <name function="director">Augustin Viatte</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214093500 +0100" stop="20151214111500 +0100">
+    <length units="minutes">100</length>
+    <title>Ushuaïa nature</title>
+    <category>Magazine</category>
+    <desc>L'équipe s'est rendue «au pays des hommes-centaures», selon les termes de Nicolas Hulot. Ce voyage débute dans la vallée de l'Orkhon, où plane... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Nicolas Hulot</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214111500 +0100" stop="20151214120500 +0100">
+    <length units="minutes">50</length>
+    <title>Les deux mondes des Pygmées</title>
+    <category>Documentaire</category>
+    <desc>En République du Congo, l'Etat tente de protéger et promouvoir les droits des Pygmées, dont le mode de vie est menacé par l'exploitation... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Philippe Prudent</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214120500 +0100" stop="20151214123500 +0100">
+    <length units="minutes">30</length>
+    <title>Les Urbainculteurs</title>
+    <category>Magazine</category>
+    <desc>Ce numéro spécial de Garden Party livre les dernières tendances vertes en ville à travers la découverte de lieux «green», qui poussent comme des... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Tatiana Legros</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214123500 +0100" stop="20151214130500 +0100">
     <length units="minutes">30</length>
     <title>Ushuaïa, le mag</title>
     <category>Magazine</category>
@@ -1911,44 +1950,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213093500 +0100" stop="20151213100500 +0100">
-    <length units="minutes">30</length>
-    <title>Les Urbainculteurs</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Tatiana Legros</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213100500 +0100" stop="20151213105500 +0100">
-    <length units="minutes">50</length>
-    <title>Life Stories</title>
-    <category>Documentaire</category>
-    <desc>Amis pour la vie Dans la nature, les animaux sont parfois amenés à collaborer entre eux. Par opportunisme, pour assurer leur propre sécurité, comme les zèbres qui... (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213105500 +0100" stop="20151213120500 +0100">
-    <length units="minutes">70</length>
-    <title>Ushuaïa, le mag</title>
-    <category>Magazine</category>
-    <desc>Nicolas Hulot fait le tour du monde pour tenter de mobiliser les pays autour de la conférence du climat qui se tiendra à Paris en décembre 2015.... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Arnaud Ardoin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213120500 +0100" stop="20151213140000 +0100">
-    <length units="minutes">115</length>
-    <title>Paul Watson : la voie d'un éco-pirate</title>
-    <category>Documentaire</category>
-    <desc>Portrait de Paul Watson, écologiste canadien, fondateur de l'ONG Sea Shepherd, réputé pour ses coups de force contre les navires de pêcheurs... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Trish Dolman</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213140000 +0100" stop="20151213141000 +0100">
+  <programme channel="test" start="20151214130500 +0100" stop="20151214131500 +0100">
     <length units="minutes">10</length>
     <title>Bougez vert</title>
     <category>Magazine</category>
@@ -1958,17 +1960,76 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213141000 +0100" stop="20151213144000 +0100">
-    <length units="minutes">30</length>
-    <title>Ushuaïa, le mag</title>
+  <programme channel="test" start="20151214131500 +0100" stop="20151214134000 +0100">
+    <length units="minutes">25</length>
+    <title>Sur les routes d'Ushuaïa</title>
     <category>Magazine</category>
-    <desc>Entouré de chroniqueurs et d'experts, Arnaud Ardoin fait le tour du monde pour ouvrir de nouveaux horizons. Au programme, notamment, une enquête... (Lire la suite).(n)</desc>
+    <desc>Les mystères de Nubie Les plus belles images, sélectionnées dans les reportages d'«Ushuaïa nature» et «Opération Okavango». Les plus belles images, sélectionnées dans... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214134000 +0100" stop="20151214151500 +0100">
+    <length units="minutes">95</length>
+    <title>Des marins pas comme les autres</title>
+    <category>Documentaire</category>
+    <desc>Deux marins, Eric Bellion et Pierre Meisel, ont recruté un équipage d'amateurs qu'en apparence tout oppose : juniors, seniors, handicapés ou... (Lire la suite).(n)</desc>
     <credits>
-      <name function="presenter">Arnaud Ardoin</name>
+      <name function="director">Robert Iseni,</name>
+      <name function="director">Aurélie Saillard</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213144000 +0100" stop="20151213150500 +0100">
+  <programme channel="test" start="20151214151500 +0100" stop="20151214160000 +0100">
+    <length units="minutes">45</length>
+    <title>Mes dindes et moi : portrait de famille</title>
+    <category>Documentaire</category>
+    <desc>Le dindon sauvage, l'un des plus grands oiseaux du territoire américain, est capable de décoller à la verticale et de voler à près de 100... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Nigel Marven</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214160000 +0100" stop="20151214173000 +0100">
+    <length units="minutes">90</length>
+    <title>La planète bleue (?)</title>
+    <category>Film</category>
+    <desc>Les réalisateurs se sont immergés dans l'un des derniers territoires sauvages : l'océan. Partant du principe que seuls deux pour cent des fonds... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Andy Byatt,</name>
+      <name function="director">Alastair Fothergill</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214173000 +0100" stop="20151214182500 +0100">
+    <length units="minutes">55</length>
+    <title>Requins non tueurs</title>
+    <category>Documentaire</category>
+    <desc>Cinq espèces majeures de requins, le grand blanc, le requin marteau, le requin tigre, le requin taureau et le requin baleine vivent non loin des... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Caroline Brett</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214182500 +0100" stop="20151214191500 +0100">
+    <length units="minutes">50</length>
+    <title>Sur la piste des licornes de mer</title>
+    <category>Documentaire</category>
+    <desc>Le narval est une singulière baleine à corne qui traverse chaque année certaines des eaux les plus inhospitalières et dangereuses du... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Bob Daly</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214191500 +0100" stop="20151214201000 +0100">
+    <length units="minutes">55</length>
+    <title>Les secrets d'Ushuaïa</title>
+    <category>Documentaire</category>
+    <desc>Il y a 25 000 ans, Ushuaïa et la Terre de Feu, dont elle est la capitale, étaient occupées par un immense glacier. Dernière région de la planète... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Pierre Meynadier</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214201000 +0100" stop="20151214203500 +0100">
     <length units="minutes">25</length>
     <title>Une vie de bêtes</title>
     <category>Magazine</category>
@@ -1978,143 +2039,46 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213150500 +0100" stop="20151213153500 +0100">
-    <length units="minutes">30</length>
-    <title>Sur les routes d'Ushuaïa</title>
-    <category>Magazine</category>
-    <desc>Etranges créatures Les plus belles images, sélectionnées dans les reportages d'«Ushuaïa nature» et «Opération Okavango». (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213153500 +0100" stop="20151213153800 +0100">
-    <length units="minutes">3</length>
-    <title>Grand angle</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213153800 +0100" stop="20151213163000 +0100">
-    <length units="minutes">52</length>
-    <title>L'île aux glaciers de marbre</title>
-    <category>Documentaire</category>
-    <desc>Des spéléologues partent en expéditions sur l'île de Diego de Almagro : dans des paysages somptueux, sauvages et austères, ils vont de surprises... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Luc-Henri Fage</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213163000 +0100" stop="20151213163500 +0100">
+  <programme channel="test" start="20151214203500 +0100" stop="20151214204000 +0100">
     <length units="minutes">5</length>
-    <title>Grand angle</title>
+    <title>Solutions pour le climat</title>
     <category>Magazine</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213163500 +0100" stop="20151213172500 +0100">
-    <length units="minutes">50</length>
-    <title>Les gouffres de l'extrême</title>
-    <category>Documentaire</category>
-    <desc>Portrait de deux passionnés des gouffres de glace, l'explorateur-glacionaute Serge Aviotte et le scientifique-glaciologue Luc... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Thierry Berrod</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213172500 +0100" stop="20151213173000 +0100">
-    <length units="minutes">5</length>
-    <title>Grand angle</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213173000 +0100" stop="20151213190500 +0100">
-    <length units="minutes">95</length>
-    <title>Ushuaïa nature</title>
-    <category>Magazine</category>
-    <desc>Franchissant des portes secrètes, Nicolas Hulot s'immerge dans l'univers des abîmes et des abysses. Des déserts mexicains jusqu'aux très grandes... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Nicolas Hulot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213190500 +0100" stop="20151213200000 +0100">
-    <length units="minutes">55</length>
-    <title>Le mystère des éléphants géants</title>
-    <category>Documentaire</category>
-    <desc>Les sédiments fossiles de 120 000 ans d'âge exhumés sur le site de Neumark-Nord, en Allemagne, sont d'une incroyable richesse : squelettes... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Jan N Lorenzen</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213200000 +0100" stop="20151213203000 +0100">
-    <length units="minutes">30</length>
-    <title>Une vie de bêtes</title>
-    <category>Magazine</category>
-    <desc>le refuge de l'Arche accueille, soigne et dorlote des centaines d'animaux blessés ou abandonnés. En compagnie de Sarah, Gérald Ariano va... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Gérald Ariano</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213203000 +0100" stop="20151213220000 +0100">
-    <length units="minutes">90</length>
-    <title>Ushuaïa nature</title>
-    <category>Magazine</category>
-    <desc>Bordées par les océans Indien et Pacifique, l'Indonésie et les Philippines sont une mine d'or biologique. Nicolas Hulot propose d'en découvrir... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Nicolas Hulot</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213220000 +0100" stop="20151213223000 +0100">
-    <length units="minutes">30</length>
-    <title>Echo-logis</title>
-    <category>Documentaire</category>
-    <desc>Sur l'île Fogo, au large du Canada, des ateliers face à la mer accueillent des artistes qui viennent ici trouver l'inspiration dans un endroit... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Frédéric Planchenault</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213223000 +0100" stop="20151213224000 +0100">
-    <length units="minutes">10</length>
-    <title>Bougez vert</title>
-    <category>Magazine</category>
-    <desc>Expos, cinés, musées : dans son agenda de la semaine, Gérald Ariano partage ses bons plans pour bouger de manière écolo. Il visite les régions et... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Gérald Ariano</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213224000 +0100" stop="20151213232500 +0100">
+  <programme channel="test" start="20151214204000 +0100" stop="20151214212500 +0100">
     <length units="minutes">45</length>
-    <title>Alerte : tornades</title>
+    <title>Alaska : terre des extrêmes</title>
     <category>Documentaire</category>
-    <desc>Apocalypse à Washington Extrêmement puissantes, les tornades s'abattent régulièrement sur la planète ; un aperçu des dégâts si une tornade de type F5 venait à frapper... (Lire la suite).(n)</desc>
+    <desc>Bétail contre prédateurs D'origine suisse, la famille Kilcher vit sur la côte sud de l'Alaska ; sans électricité ni eau courante, elle vit de l'élevage, la pêche et la... (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213232500 +0100" stop="20151214001500 +0100">
-    <length units="minutes">50</length>
-    <title>Astéroïdes : menace ou don du ciel</title>
+  <programme channel="test" start="20151214212500 +0100" stop="20151214221000 +0100">
+    <length units="minutes">45</length>
+    <title>Alaska : terre des extrêmes</title>
     <category>Documentaire</category>
-    <desc>En 2013, une météorite s'abattait sur une large zone à 1500 kilomètres de Moscou, blessant plus d'un millier de personnes. Mais s'ils sont... (Lire la suite).(n)</desc>
+    <desc>La rivière de tous les dangers D'origine suisse, la famille Kilcher vit sur la côte sud de l'Alaska ; sans électricité ni eau courante, elle vit de l'élevage, de la pêche et de... (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151214001500 +0100" stop="20151214011500 +0100">
-    <length units="minutes">60</length>
-    <title>Sur les traces des premiers sauriens</title>
+  <programme channel="test" start="20151214221000 +0100" stop="20151214225500 +0100">
+    <length units="minutes">45</length>
+    <title>1000 jours pour la planète</title>
     <category>Documentaire</category>
-    <desc>En 2008, à Bernburg, dans le Land de Saxe-Anhalt, le paléontologue allemand Cajus Diedrich a mis au jour des empreintes de sauriens vieilles de... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="director">Jan Lorenzen</name>
-    </credits>
+    <desc>Les dragons de Komodo Rescapé de l'époque jurassique, le dragon de Komodo est aujourd'hui grandement vulnérabilisé par la perte de son habitat et par le... (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151214011500 +0100" stop="20151214024500 +0100">
-    <length units="minutes">90</length>
+  <programme channel="test" start="20151214225500 +0100" stop="20151214225800 +0100">
+    <length units="minutes">3</length>
+    <title>Solutions pour le climat</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214225800 +0100" stop="20151215003000 +0100">
+    <length units="minutes">92</length>
     <title>Ushuaïa nature</title>
     <category>Magazine</category>
-    <desc>Nicolas Hulot suit l'ancienne route de l'encens, tracée en bordure du désert yéménite. Il s'intéresse à toute une civilisation bâtie autour de... (Lire la suite).(n)</desc>
+    <desc>Nicolas Hulot et son équipe parcourent l'Ethiopie, pays de la «Corne de l'Afrique», territoire changeant fait de paysages verdoyants et de terres... (Lire la suite).(n)</desc>
     <credits>
       <name function="presenter">Nicolas Hulot</name>
     </credits>

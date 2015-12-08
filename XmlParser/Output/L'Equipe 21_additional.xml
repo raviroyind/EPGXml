@@ -1,1203 +1,711 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <programme channel="testchannelname01" start="20151207010000 +0100" stop="20151207013000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Le journal</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151207013000 +0100" stop="20151207080000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <programme channel="test" start="20151208000000 +0100" stop="20151208070000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Programmes de la nuit</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151207080000 +0100" stop="20151207090000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208070000 +0100" stop="20151208080000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151207090000 +0100" stop="20151207100000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208080000 +0100" stop="20151208090000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151207100000 +0100" stop="20151207123000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208090000 +0100" stop="20151208103000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151207123000 +0100" stop="20151207130000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Sportbuzz</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151207130000 +0100" stop="20151207143000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Menu sport</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151207143000 +0100" stop="20151207150000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>La course CasaqLigue</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151207150000 +0100" stop="20151207164500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Biathlon (Coupe du monde 2015/2016)</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151207164500 +0100" stop="20151207171500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Le magazine Auto</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151207171500 +0100" stop="20151207184500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Course sur glace (Trophée Andros 2015/2016)</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151207184500 +0100" stop="20151207195700 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe Type</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151207195700 +0100" stop="20151207202300 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>La grande édition</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151207202300 +0100" stop="20151207213500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe Type</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151207213500 +0100" stop="20151207215000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Le journal</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151207215000 +0100" stop="20151207230000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe enquête</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151207230000 +0100" stop="20151207233000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Le journal</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151207233000 +0100" stop="20151208010000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208103000 +0100" stop="20151208120000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du soir</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151208010000 +0100" stop="20151208080000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Programmes de la nuit</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151208080000 +0100" stop="20151208090000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151208090000 +0100" stop="20151208100000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151208100000 +0100" stop="20151208113000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151208113000 +0100" stop="20151208130000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du soir</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151208130000 +0100" stop="20151208143000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208120000 +0100" stop="20151208133000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Menu sport</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151208143000 +0100" stop="20151208150000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208133000 +0100" stop="20151208140000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>La course CasaqLigue</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151208150000 +0100" stop="20151208160000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208140000 +0100" stop="20151208150000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151208160000 +0100" stop="20151208180000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208150000 +0100" stop="20151208170000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Football (Modène / Bari)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151208180000 +0100" stop="20151208181500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208170000 +0100" stop="20151208171500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151208181500 +0100" stop="20151208184500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208171500 +0100" stop="20151208174500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le magazine Auto</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151208184500 +0100" stop="20151208195700 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208174500 +0100" stop="20151208185700 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe Type</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151208195700 +0100" stop="20151208201000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208185700 +0100" stop="20151208191000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151208201000 +0100" stop="20151208212000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208191000 +0100" stop="20151208202000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe Type</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151208212000 +0100" stop="20151208233000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208202000 +0100" stop="20151208223000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Basket-ball (Nanterre (Fra) / Oldenbourg (All))</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151208233000 +0100" stop="20151209010000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151208223000 +0100" stop="20151209000000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du soir</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209010000 +0100" stop="20151209080000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209000000 +0100" stop="20151209070000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Programmes de la nuit</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209080000 +0100" stop="20151209090000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209070000 +0100" stop="20151209080000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209090000 +0100" stop="20151209100000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209080000 +0100" stop="20151209090000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209100000 +0100" stop="20151209113000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209090000 +0100" stop="20151209103000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209113000 +0100" stop="20151209130000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209103000 +0100" stop="20151209120000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du soir</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209130000 +0100" stop="20151209143000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209120000 +0100" stop="20151209133000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Menu sport</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209143000 +0100" stop="20151209150000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209133000 +0100" stop="20151209140000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>La course CasaqLigue</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209150000 +0100" stop="20151209151500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209140000 +0100" stop="20151209141500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209151500 +0100" stop="20151209170000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209141500 +0100" stop="20151209160000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Basket-ball (Nanterre (Fra) / Oldenbourg (All))</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209170000 +0100" stop="20151209171500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209160000 +0100" stop="20151209161500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209171500 +0100" stop="20151209184500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209161500 +0100" stop="20151209174500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe enquête</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209184500 +0100" stop="20151209195700 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209174500 +0100" stop="20151209185700 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe Type</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209195700 +0100" stop="20151209202000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209185700 +0100" stop="20151209192000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>La grande édition</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209202000 +0100" stop="20151209213000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209192000 +0100" stop="20151209203000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209213000 +0100" stop="20151209233000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209203000 +0100" stop="20151209223000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Basket-ball (Gérone (Esp) / Bourges (Fra))</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151209233000 +0100" stop="20151210010000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151209223000 +0100" stop="20151210000000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du soir</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210010000 +0100" stop="20151210080000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210000000 +0100" stop="20151210070000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Programmes de la nuit</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210080000 +0100" stop="20151210090000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210070000 +0100" stop="20151210080000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210090000 +0100" stop="20151210100000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210080000 +0100" stop="20151210090000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210100000 +0100" stop="20151210113000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210090000 +0100" stop="20151210103000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210113000 +0100" stop="20151210130000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210103000 +0100" stop="20151210120000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du soir</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210130000 +0100" stop="20151210143000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210120000 +0100" stop="20151210133000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Menu sport</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210143000 +0100" stop="20151210150000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210133000 +0100" stop="20151210140000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>La course CasaqLigue</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210150000 +0100" stop="20151210151500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210140000 +0100" stop="20151210141500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210151500 +0100" stop="20151210170000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210141500 +0100" stop="20151210160000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Basket-ball (Gérone (Esp) / Bourges (Fra))</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210170000 +0100" stop="20151210171500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210160000 +0100" stop="20151210161500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210171500 +0100" stop="20151210184500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210161500 +0100" stop="20151210174500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Biathlon (Coupe du monde 2015/2016)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210184500 +0100" stop="20151210195700 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210174500 +0100" stop="20151210185700 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe Type</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210195700 +0100" stop="20151210202000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210185700 +0100" stop="20151210192000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>La grande édition</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210202000 +0100" stop="20151210213000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210192000 +0100" stop="20151210203000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe Type</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210213000 +0100" stop="20151210214000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210203000 +0100" stop="20151210204000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210214000 +0100" stop="20151210233000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210204000 +0100" stop="20151210223000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>The Two Escobars</title>
     <subTitle />
-    <desc>Durant les années 1980 et 1990, beaucoup estimaient que les cartels de Medellin et de Cali avaient contribué à financer et construire l'équipe nationale de football colombienne pour en faire l'une des meilleures sélections du monde. Cependant, lors du deuxième match de poule de la Coupe du monde 1994, face aux Etats-Unis, le défenseur colombien Andres Escobar - sans relation avec Pablo Escobar - marque un but contre son camp. Moins de dix jours plus tard, il est tué de douze coups de pistolet devant un bar, dans la banlieue de Medellin. A chaque coup tiré, le meurtrier a crié «but» !</desc>
+    <desc>Durant les années 1980 et 1990, beaucoup estimaient que les cartels de Medellin et de Cali avaient contribué à financer et construire l'équipe... (Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151210233000 +0100" stop="20151211010000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151210223000 +0100" stop="20151211000000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du soir</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211010000 +0100" stop="20151211080000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211000000 +0100" stop="20151211070000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Programmes de la nuit</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211080000 +0100" stop="20151211090000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211070000 +0100" stop="20151211080000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211090000 +0100" stop="20151211100000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211080000 +0100" stop="20151211090000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211100000 +0100" stop="20151211104500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211090000 +0100" stop="20151211094500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211104500 +0100" stop="20151211121500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211094500 +0100" stop="20151211111500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du soir</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211121500 +0100" stop="20151211133000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211111500 +0100" stop="20151211123000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Biathlon (Sprint 7,5 km dames)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211133000 +0100" stop="20151211143000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211123000 +0100" stop="20151211133000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Menu sport</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211143000 +0100" stop="20151211150000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211133000 +0100" stop="20151211140000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>La course CasaqLigue</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211150000 +0100" stop="20151211151500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211140000 +0100" stop="20151211141500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211151500 +0100" stop="20151211170500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211141500 +0100" stop="20151211160500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Biathlon (Sprint 10 km messieurs)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211170500 +0100" stop="20151211181500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211160500 +0100" stop="20151211171500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe enquête</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211181500 +0100" stop="20151211184500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211171500 +0100" stop="20151211174500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Esprit bleu</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211184500 +0100" stop="20151211195700 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211174500 +0100" stop="20151211185700 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe Type</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211195700 +0100" stop="20151211202300 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211185700 +0100" stop="20151211192300 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>La grande édition</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211202300 +0100" stop="20151211213000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211192300 +0100" stop="20151211203000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe Type</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211213000 +0100" stop="20151211215500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211203000 +0100" stop="20151211205500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211215500 +0100" stop="20151211233000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211205500 +0100" stop="20151211223000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Catch (Ring of Honor)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151211233000 +0100" stop="20151212010000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151211223000 +0100" stop="20151212000000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du soir</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212010000 +0100" stop="20151212080000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212000000 +0100" stop="20151212070000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Programmes de la nuit</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212080000 +0100" stop="20151212090000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212070000 +0100" stop="20151212080000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212090000 +0100" stop="20151212100000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212080000 +0100" stop="20151212090000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212100000 +0100" stop="20151212113000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212090000 +0100" stop="20151212103000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212113000 +0100" stop="20151212120000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212103000 +0100" stop="20151212110000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le magazine Auto</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212120000 +0100" stop="20151212123000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212110000 +0100" stop="20151212113000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Sportbuzz</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212123000 +0100" stop="20151212133000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212113000 +0100" stop="20151212123000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Biathlon (Poursuite 10 km dames)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212133000 +0100" stop="20151212140000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212123000 +0100" stop="20151212130000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Esprit bleu</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212140000 +0100" stop="20151212141500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212130000 +0100" stop="20151212131500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212141500 +0100" stop="20151212153000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212131500 +0100" stop="20151212143000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe enquête</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212153000 +0100" stop="20151212163000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212143000 +0100" stop="20151212153000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Biathlon (Poursuite 12,5 km messieurs)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212163000 +0100" stop="20151212190000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212153000 +0100" stop="20151212180000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Volley-ball (Paris / Mulhouse)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212190000 +0100" stop="20151212213000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212180000 +0100" stop="20151212203000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Edition spéciale</title>
-    <subTitle>Tirage au sort de l'Euro 2016</subTitle>
-    <desc />
+    <subTitle />
+    <desc>Tirage au sort de l'Euro 2016 (Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212213000 +0100" stop="20151212214500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212203000 +0100" stop="20151212204500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151212214500 +0100" stop="20151213000000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212204500 +0100" stop="20151212230000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Course sur glace (Trophée Andros 2015/2016)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213000000 +0100" stop="20151213010000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151212230000 +0100" stop="20151213000000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du week-end</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213010000 +0100" stop="20151213013000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213000000 +0100" stop="20151213003000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213013000 +0100" stop="20151213080000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213003000 +0100" stop="20151213070000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Programmes de la nuit</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213080000 +0100" stop="20151213090000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213070000 +0100" stop="20151213080000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213090000 +0100" stop="20151213100000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213080000 +0100" stop="20151213090000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213100000 +0100" stop="20151213120000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213090000 +0100" stop="20151213110000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213120000 +0100" stop="20151213140000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213110000 +0100" stop="20151213130000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Biathlon (Relais 4x6 km dames)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213140000 +0100" stop="20151213143000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213130000 +0100" stop="20151213133000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213143000 +0100" stop="20151213150000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213133000 +0100" stop="20151213140000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Sportbuzz</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213150000 +0100" stop="20151213151500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213140000 +0100" stop="20151213141500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213151500 +0100" stop="20151213171500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213141500 +0100" stop="20151213161500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Biathlon (Relais 4x7,5 km messieurs)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213171500 +0100" stop="20151213173000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213161500 +0100" stop="20151213163000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213173000 +0100" stop="20151213183000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213163000 +0100" stop="20151213173000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Motocross freestyle (X-Fighters)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213183000 +0100" stop="20151213210000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213173000 +0100" stop="20151213200000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Motocross (Supercross de Montpellier 2015)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213210000 +0100" stop="20151213220000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213200000 +0100" stop="20151213210000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213220000 +0100" stop="20151213234500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213210000 +0100" stop="20151213224500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Biathlon (Coupe du monde 2015/2016)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151213234500 +0100" stop="20151214010000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151213224500 +0100" stop="20151214000000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du week-end</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214010000 +0100" stop="20151214013000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214000000 +0100" stop="20151214003000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214013000 +0100" stop="20151214080000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214003000 +0100" stop="20151214070000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Programmes de la nuit</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214080000 +0100" stop="20151214090000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214070000 +0100" stop="20151214080000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214090000 +0100" stop="20151214100000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214080000 +0100" stop="20151214090000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214100000 +0100" stop="20151214130000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214090000 +0100" stop="20151214120000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du matin</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214130000 +0100" stop="20151214140000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214120000 +0100" stop="20151214130000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Edition spéciale</title>
-    <subTitle>Tirage au sort des 8es de finale de la Ligue des champions</subTitle>
-    <desc />
+    <subTitle />
+    <desc>Tirage au sort des 8es de finale de la Ligue des champions (Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214140000 +0100" stop="20151214143000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214130000 +0100" stop="20151214133000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Menu sport</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214143000 +0100" stop="20151214150000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214133000 +0100" stop="20151214140000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>La course CasaqLigue</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214150000 +0100" stop="20151214151500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214140000 +0100" stop="20151214141500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214151500 +0100" stop="20151214170000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214141500 +0100" stop="20151214160000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Biathlon (Coupe du monde 2015/2016)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214170000 +0100" stop="20151214171500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214160000 +0100" stop="20151214161500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214171500 +0100" stop="20151214184500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214161500 +0100" stop="20151214174500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Course sur glace (Trophée Andros 2015/2016)</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214184500 +0100" stop="20151214200000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214174500 +0100" stop="20151214190000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe Type</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214200000 +0100" stop="20151214203000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214190000 +0100" stop="20151214193000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>La grande édition</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214203000 +0100" stop="20151214213000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214193000 +0100" stop="20151214203000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe Type</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214213000 +0100" stop="20151214214500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214203000 +0100" stop="20151214204500 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214214500 +0100" stop="20151214230000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214204500 +0100" stop="20151214220000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe enquête</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214230000 +0100" stop="20151214233000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214220000 +0100" stop="20151214223000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>Le journal</title>
     <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
-  <programme channel="testchannelname01" start="20151214233000 +0100" stop="20151215010000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
+  <programme channel="test" start="20151214223000 +0100" stop="20151215000000 +0100" originid="" reserve="no">
+    <date>2015-12-08</date>
     <title>L'Équipe du soir</title>
     <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215010000 +0100" stop="20151215080000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Programmes de la nuit</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215080000 +0100" stop="20151215090000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215090000 +0100" stop="20151215100000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215100000 +0100" stop="20151215113000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215113000 +0100" stop="20151215130000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du soir</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215130000 +0100" stop="20151215143000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Menu sport</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215143000 +0100" stop="20151215150000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>La course CasaqLigue</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215150000 +0100" stop="20151215151500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Le journal</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215151500 +0100" stop="20151215161500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Motocross freestyle (X-Fighters)</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215161500 +0100" stop="20151215164500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Le magazine Auto</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215164500 +0100" stop="20151215171500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Le journal</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215171500 +0100" stop="20151215184500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Football (Livourne / Cagliari)</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215184500 +0100" stop="20151215200000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe Type</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215200000 +0100" stop="20151215203000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>La grande édition</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215203000 +0100" stop="20151215213000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe Type</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215213000 +0100" stop="20151215215000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Le journal</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215215000 +0100" stop="20151215233000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Grip</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151215233000 +0100" stop="20151216010000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du soir</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216010000 +0100" stop="20151216080000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Programmes de la nuit</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216080000 +0100" stop="20151216090000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216090000 +0100" stop="20151216100000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216100000 +0100" stop="20151216113000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216113000 +0100" stop="20151216130000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du soir</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216130000 +0100" stop="20151216143000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Menu sport</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216143000 +0100" stop="20151216150000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>La course CasaqLigue</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216150000 +0100" stop="20151216151500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Le journal</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216151500 +0100" stop="20151216170000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Motocross (Supercross de Montpellier 2015)</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216170000 +0100" stop="20151216174500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Le magazine Auto</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216174500 +0100" stop="20151216184500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe enquête</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216184500 +0100" stop="20151216200000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe Type</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216200000 +0100" stop="20151216203000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>La grande édition</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216203000 +0100" stop="20151216213000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe Type</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216213000 +0100" stop="20151216233000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Basket-ball (Bonn (All) / Nanterre (Fra))</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151216233000 +0100" stop="20151217010000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du soir</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151217010000 +0100" stop="20151217080000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Programmes de la nuit</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151217080000 +0100" stop="20151217090000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151217090000 +0100" stop="20151217100000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151217100000 +0100" stop="20151217113000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151217113000 +0100" stop="20151217130000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du soir</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151217130000 +0100" stop="20151217143000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Menu sport</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151217143000 +0100" stop="20151217150000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>La course CasaqLigue</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151217150000 +0100" stop="20151217151500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Le journal</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151217151500 +0100" stop="20151217171500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Biathlon (Sprint 10 km messieurs)</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151217171500 +0100" stop="20151217184500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Basket-ball (Bonn (All) / Nanterre (Fra))</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151217184500 +0100" stop="20151217200000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe Type</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151217200000 +0100" stop="20151217203000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>La grande édition</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151217203000 +0100" stop="20151217233000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Boxe (Gala international 2015)</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151217233000 +0100" stop="20151218010000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du soir</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218010000 +0100" stop="20151218080000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Programmes de la nuit</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218080000 +0100" stop="20151218090000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218090000 +0100" stop="20151218100000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218100000 +0100" stop="20151218113000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du matin</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218113000 +0100" stop="20151218133000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du soir</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218133000 +0100" stop="20151218143000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Menu sport</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218143000 +0100" stop="20151218150000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>La course CasaqLigue</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218150000 +0100" stop="20151218151500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Le journal</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218151500 +0100" stop="20151218161500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Biathlon (Sprint 7,5 km dames)</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218161500 +0100" stop="20151218171500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Biathlon (Sprint 10 km messieurs)</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218171500 +0100" stop="20151218183000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe enquête</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218183000 +0100" stop="20151218200000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Esprit bleu</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218200000 +0100" stop="20151218204500 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>La grande édition</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218204500 +0100" stop="20151218213000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe Type</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218213000 +0100" stop="20151218233000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>Boxe (Gala international 2015)</title>
-    <subTitle />
-    <desc />
-  </programme>
-  <programme channel="testchannelname01" start="20151218233000 +0100" stop="20151219010000 +0100" originid="" reserve="no">
-    <date>2015-12-07</date>
-    <title>L'Équipe du soir</title>
-    <subTitle />
-    <desc />
+    <desc>(Lire la suite).(n)</desc>
   </programme>
 </tv>

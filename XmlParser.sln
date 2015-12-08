@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlParser", "XmlParser\XmlParser.csproj", "{2D65C2B6-FA41-406F-B491-D9AEC21FA691}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlParser.WebUI", "XmlParser\XmlParser.WebUI.csproj", "{2D65C2B6-FA41-406F-B491-D9AEC21FA691}"
 	ProjectSection(ProjectDependencies) = postProject
 		{BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3} = {BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3}
 	EndProjectSection

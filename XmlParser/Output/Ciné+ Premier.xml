@@ -1,250 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Ciné+ Premier">
-    <display-name>burger</display-name>
+    <display-name>test</display-name>
   </channel>
-  <programme channel="burger" start="20151207023000 +0100" stop="20151207042500 +0100">
-    <length units="minutes">115</length>
-    <title>Le dahlia noir (?)</title>
-    <category>Film</category>
-    <desc>Los Angeles, 1947, les émeutes font rage.... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Brian De Palma</name>
-      <name function="actor">Mike Starr</name>
-      <name function="actor">Mia Kirshner</name>
-      <name function="actor">Fiona Shaw</name>
-      <name function="actor">Hilary Swank</name>
-      <name function="actor">Aaron Eckhart</name>
-      <name function="actor">Scarlett Johansson</name>
-      <name function="actor">Josh Hartnett</name>
-      <name function="actor">Rachel Miner</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207042500 +0100" stop="20151207060500 +0100">
-    <length units="minutes">100</length>
-    <title>Oldboy (?)</title>
-    <category>Film</category>
-    <desc>Joseph Doucett se réveille un jour dans une... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Spike Lee</name>
-      <name function="actor">Josh Brolin</name>
-      <name function="actor">Max Casella</name>
-      <name function="actor">Michael Imperioli</name>
-      <name function="actor">James Ransone</name>
-      <name function="actor">Pom Klementieff</name>
-      <name function="actor">Sharlto Copley</name>
-      <name function="actor">Elizabeth Olsen</name>
-      <name function="actor">Samuel L Jackson</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207060500 +0100" stop="20151207075000 +0100">
-    <length units="minutes">105</length>
-    <title>Dans la tourmente (?)</title>
-    <category>Film</category>
-    <desc>Franck, ouvrier dans une usine des environs... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Christophe Ruggia</name>
-      <name function="actor">Yvan Attal</name>
-      <name function="actor">Clovis Cornillac</name>
-      <name function="actor">Marc Brunet</name>
-      <name function="actor">Mathilde Seigner</name>
-      <name function="actor">Abel Jafri</name>
-      <name function="actor">Céline Sallette</name>
-      <name function="actor">Jean-Philippe Meyer</name>
-      <name function="actor">Nelly Antignac</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207075000 +0100" stop="20151207084000 +0100">
-    <length units="minutes">50</length>
-    <title>Interruption des programmes</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207084000 +0100" stop="20151207103000 +0100">
-    <length units="minutes">110</length>
-    <title>Le petit lieutenant (?)</title>
-    <category>Film</category>
-    <desc>A sa sortie de l'école de police, Antoine est... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Xavier Beauvois</name>
-      <name function="actor">Jacques Perrin</name>
-      <name function="actor">Nathalie Baye</name>
-      <name function="actor">Roschdy Zem</name>
-      <name function="actor">Bruce Myers</name>
-      <name function="actor">Antoine Chappey</name>
-      <name function="actor">Jean Lespert</name>
-      <name function="actor">Jalil Lespert</name>
-      <name function="actor">Patrick Chauvel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207103000 +0100" stop="20151207120500 +0100">
-    <length units="minutes">95</length>
-    <title>Secret Identity (?)</title>
-    <category>Film</category>
-    <desc>Alors qu'il était agent gouvernemental, Paul... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Michael Brandt</name>
-      <name function="actor">Stephen Moyer</name>
-      <name function="actor">Topher Grace</name>
-      <name function="actor">Chris Marquette</name>
-      <name function="actor">Richard Gere</name>
-      <name function="actor">Martin Sheen</name>
-      <name function="actor">Tamer Hassan</name>
-      <name function="actor">Stana Katic</name>
-      <name function="actor">Odette Annable</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207120500 +0100" stop="20151207134000 +0100">
-    <length units="minutes">95</length>
-    <title>Grand Piano (?)</title>
-    <category>Film</category>
-    <desc>Tom Selznick est considéré comme le pianiste... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Eugenio Mira</name>
-      <name function="actor">John Cusack</name>
-      <name function="actor">Dee Wallace</name>
-      <name function="actor">Elijah Wood</name>
-      <name function="actor">Jack Taylor</name>
-      <name function="actor">Don McManus</name>
-      <name function="actor">Tamsin Egerton</name>
-      <name function="actor">Allen Leech</name>
-      <name function="actor">Kerry Bishé</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207134000 +0100" stop="20151207140000 +0100">
-    <length units="minutes">20</length>
-    <title>Par ici les sorties</title>
-    <category>Magazine</category>
-    <desc>Episode 14 Le point sur les sorties de la semaine. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207140000 +0100" stop="20151207153000 +0100">
-    <length units="minutes">90</length>
-    <title>Soupçons</title>
-    <category>Téléfilm</category>
-    <desc>Allison Brown a tout pour elle. Un petit ami... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Jean-Marc Piché</name>
-      <name function="actor">Alex Carter</name>
-      <name function="actor">Susan Almgren</name>
-      <name function="actor">Maxim Roy</name>
-      <name function="actor">Morena Baccarin</name>
-      <name function="actor">Sadie Leblanc</name>
-      <name function="actor">Paul Christie</name>
-      <name function="actor">Chris William Martin</name>
-      <name function="actor">Susan Bain</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207153000 +0100" stop="20151207171500 +0100">
-    <length units="minutes">105</length>
-    <title>Le dernier pub avant la fin du monde (?)</title>
-    <category>Film</category>
-    <desc>Il y a vingt ans, Gary, Andrew, Oliver,... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Edgar Wright</name>
-      <name function="actor">David Bradley</name>
-      <name function="actor">Mark Heap</name>
-      <name function="actor">Eddie Marsan</name>
-      <name function="actor">Simon Pegg</name>
-      <name function="actor">Martin Freeman</name>
-      <name function="actor">Rosamund Pike</name>
-      <name function="actor">Nick Frost</name>
-      <name function="actor">Paddy Considine</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207171500 +0100" stop="20151207190000 +0100">
-    <length units="minutes">105</length>
-    <title>Zulu (?)</title>
-    <category>Film</category>
-    <desc>Dans une Afrique du Sud qui porte encore les... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Jérôme Salle</name>
-      <name function="actor">Forest Whitaker</name>
-      <name function="actor">Patrick Lyster</name>
-      <name function="actor">Orlando Bloom</name>
-      <name function="actor">Tinarie Van Wyk-Loots</name>
-      <name function="actor">Inge Beckmann</name>
-      <name function="actor">Conrad Kemp</name>
-      <name function="actor">Regardt van den Bergh</name>
-      <name function="actor">Randal Majiet</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207190000 +0100" stop="20151207215000 +0100">
-    <length units="minutes">170</length>
-    <title>Casino (?)</title>
-    <category>Film</category>
-    <desc>Dans les années 1970, sa chance insolente et... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Martin Scorsese</name>
-      <name function="actor">Robert De Niro</name>
-      <name function="actor">Joe Pesci</name>
-      <name function="actor">Sharon Stone</name>
-      <name function="actor">James Woods</name>
-      <name function="actor">Don Rickles</name>
-      <name function="actor">Kevin Pollak</name>
-      <name function="actor">Frank Vincent</name>
-      <name function="actor">Pasquale Cajano</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207215000 +0100" stop="20151207224500 +0100">
-    <length units="minutes">55</length>
-    <title>Robolution</title>
-    <category>Documentaire</category>
-    <desc>Des experts, comme Olivier Sigaud et Bruno... (Lire la suite).</desc>
-    <credits>
-      <name function="director">Xavier Sayanoff,</name>
-      <name function="director">Vincent Gonon</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207224500 +0100" stop="20151208002500 +0100">
-    <length units="minutes">100</length>
-    <title>Crazy Joe (?)</title>
-    <category>Film</category>
-    <desc>Ancien soldat des forces spéciales britanniques (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Steven Knight</name>
-      <name function="actor">Ger Ryan</name>
-      <name function="actor">Agata Buzek</name>
-      <name function="actor">Jason Statham</name>
-      <name function="actor">Vicky McClure</name>
-      <name function="actor">Benedict Wong</name>
-      <name function="actor">Siobhan Hewlett</name>
-      <name function="actor">Youssef Kerkour</name>
-      <name function="actor">Victoria Bewick</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208002500 +0100" stop="20151208024500 +0100">
-    <length units="minutes">140</length>
-    <title>La chute du Faucon noir (?)</title>
-    <category>Film</category>
-    <desc>En 1992, Mohamed Farrah Aidid fait régner la... (Lire la suite).(r)</desc>
-    <credits>
-      <name function="director">Ridley Scott</name>
-      <name function="actor">Sam Shepard</name>
-      <name function="actor">William Fichtner</name>
-      <name function="actor">Tom Sizemore</name>
-      <name function="actor">Ewan McGregor</name>
-      <name function="actor">Jason Isaacs</name>
-      <name function="actor">Ewen Bremner</name>
-      <name function="actor">Josh Hartnett</name>
-      <name function="actor">Eric Bana</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208024500 +0100" stop="20151208033000 +0100">
+  <programme channel="test" start="20151208004500 +0100" stop="20151208013000 +0100">
     <length units="minutes">45</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -263,7 +22,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208033000 +0100" stop="20151208042000 +0100">
+  <programme channel="test" start="20151208013000 +0100" stop="20151208022000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -282,7 +41,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208042000 +0100" stop="20151208051500 +0100">
+  <programme channel="test" start="20151208022000 +0100" stop="20151208031500 +0100">
     <length units="minutes">55</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -301,7 +60,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208051500 +0100" stop="20151208060500 +0100">
+  <programme channel="test" start="20151208031500 +0100" stop="20151208040500 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -320,11 +79,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208060500 +0100" stop="20151208074000 +0100">
+  <programme channel="test" start="20151208040500 +0100" stop="20151208054000 +0100">
     <length units="minutes">95</length>
     <title>La confrérie des larmes (?)</title>
     <category>Film</category>
-    <desc>A Paris, Gabriel, la trentaine, croule sous... (Lire la suite).(r)</desc>
+    <desc>A Paris, Gabriel, la trentaine, croule sous... (Lire la suite).</desc>
     <credits>
       <name function="director">Jean-Baptiste Andrea</name>
       <name function="actor">Antoine Basler</name>
@@ -338,18 +97,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208074000 +0100" stop="20151208085000 +0100">
+  <programme channel="test" start="20151208054000 +0100" stop="20151208065000 +0100">
     <length units="minutes">70</length>
     <title>Interruption des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208085000 +0100" stop="20151208103000 +0100">
+  <programme channel="test" start="20151208065000 +0100" stop="20151208083000 +0100">
     <length units="minutes">100</length>
     <title>Celle que j'aime (?)</title>
     <category>Film</category>
-    <desc>Isabelle, la trentaine, a tout ce qu'il faut... (Lire la suite).(r)</desc>
+    <desc>Isabelle, la trentaine, a tout ce qu'il faut pour être heureuse dans la vie : elle dirige un journal qu'elle a créé avec son partenaire, Brice.... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Elie Chouraqui</name>
       <name function="actor">Barbara Schulz</name>
@@ -363,11 +122,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208103000 +0100" stop="20151208122500 +0100">
+  <programme channel="test" start="20151208083000 +0100" stop="20151208102500 +0100">
     <length units="minutes">115</length>
     <title>Le dahlia noir (?)</title>
     <category>Film</category>
-    <desc>Los Angeles, 1947, les émeutes font rage.... (Lire la suite).(r)</desc>
+    <desc>Los Angeles, 1947, les émeutes font rage. Deux policiers, Bucky et Lee, se rencontrent lors d'une manifestation sévèrement réprimée. L'un et... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Brian De Palma</name>
       <name function="actor">Mike Starr</name>
@@ -381,11 +140,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208122500 +0100" stop="20151208151500 +0100">
+  <programme channel="test" start="20151208102500 +0100" stop="20151208131500 +0100">
     <length units="minutes">170</length>
     <title>Alexandre (?)</title>
     <category>Film</category>
-    <desc>Le IVe siècle avant Jésus-Christ, à Alexandrie. (Lire la suite).(r)</desc>
+    <desc>Le IVe siècle avant Jésus-Christ, à Alexandrie. Ptolémée retrace devant ses auditeurs la vie d'Alexandre, fondateur du pays et conquérant sans... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Oliver Stone</name>
       <name function="actor">Christopher Plummer</name>
@@ -399,11 +158,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208151500 +0100" stop="20151208153000 +0100">
+  <programme channel="test" start="20151208131500 +0100" stop="20151208133000 +0100">
     <length units="minutes">15</length>
     <title>L'aurore boréale (?)</title>
     <category>Film</category>
-    <desc>Louise, 23 ans, passe le week-end en banlieue... (Lire la suite).(r)</desc>
+    <desc>Louise, 23 ans, passe le week-end en banlieue parisienne chez son père, Jacques. Apprenant qu'une aurore boréale va apparaître dans le ciel de... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Keren Ben Rafael</name>
       <name function="actor">Hippolyte Girardot</name>
@@ -413,7 +172,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208153000 +0100" stop="20151208172000 +0100">
+  <programme channel="test" start="20151208133000 +0100" stop="20151208152000 +0100">
     <length units="minutes">110</length>
     <title>Conjuring : les dossiers Warren (?)</title>
     <category>Film</category>
@@ -431,11 +190,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208172000 +0100" stop="20151208185500 +0100">
+  <programme channel="test" start="20151208152000 +0100" stop="20151208165500 +0100">
     <length units="minutes">95</length>
     <title>Whiteout (?)</title>
     <category>Film</category>
-    <desc>La nuit polaire approche et l'agent Carrie... (Lire la suite).(r)</desc>
+    <desc>La nuit polaire approche et l'agent Carrie Stetko se prépare à quitter la station de recherche internationale de l'Antarctique, où elle était en... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Dominic Sena</name>
       <name function="actor">Tom Skerritt</name>
@@ -449,11 +208,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208185500 +0100" stop="20151208203500 +0100">
+  <programme channel="test" start="20151208165500 +0100" stop="20151208183500 +0100">
     <length units="minutes">100</length>
     <title>La confrérie des larmes (?)</title>
     <category>Film</category>
-    <desc>A Paris, Gabriel, la trentaine, croule sous... (Lire la suite).(r)</desc>
+    <desc>A Paris, Gabriel, la trentaine, croule sous les dettes de jeu. Licencié à la suite d'un drame personnel, cet ex-membre de la brigade criminelle... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jean-Baptiste Andrea</name>
       <name function="actor">Antoine Basler</name>
@@ -467,11 +226,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208203500 +0100" stop="20151208204500 +0100">
+  <programme channel="test" start="20151208183500 +0100" stop="20151208184500 +0100">
     <length units="minutes">10</length>
     <title>Bébé à tout prix (?)</title>
     <category>Film</category>
-    <desc>Un jeune père prend le pari de s'occuper de... (Lire la suite).(r)</desc>
+    <desc>Un jeune père prend le pari de s'occuper de son bébé durant toute une nuit. Ce défi entame une longue aventure qui ne semble pas avoir de... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Guillaume Clicquot</name>
       <name function="actor">Marie-Christine Adam</name>
@@ -480,11 +239,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208204500 +0100" stop="20151208221000 +0100">
+  <programme channel="test" start="20151208184500 +0100" stop="20151208201000 +0100">
     <length units="minutes">85</length>
     <title>Le sens de l'humour (?)</title>
     <category>Film</category>
-    <desc>Elise ne parvient pas à se remettre du décès... (Lire la suite).(r)</desc>
+    <desc>Elise ne parvient pas à se remettre du décès de son compagnon. Avec son fils Léo, elle essaie de mener une existence normale. Elise rencontre... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Marilyne Canto</name>
       <name function="actor">Antoine Chappey</name>
@@ -498,25 +257,25 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208221000 +0100" stop="20151208222500 +0100">
+  <programme channel="test" start="20151208201000 +0100" stop="20151208202500 +0100">
     <length units="minutes">15</length>
     <title>Hollywood live</title>
     <category>Magazine</category>
     <desc>Une exploration très personnelle du microcosme hollywoodien, présentée à la sauce de Ramzi : tonus, impertinence et humour décalé sont au... (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208222500 +0100" stop="20151208224500 +0100">
+  <programme channel="test" start="20151208202500 +0100" stop="20151208204500 +0100">
     <length units="minutes">20</length>
     <title>Par ici les sorties</title>
     <category>Magazine</category>
     <desc>Episode 15 Le point sur les sorties de la semaine. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208224500 +0100" stop="20151209002500 +0100">
+  <programme channel="test" start="20151208204500 +0100" stop="20151208222500 +0100">
     <length units="minutes">100</length>
     <title>Kick-Ass 2 (?)</title>
     <category>Film</category>
-    <desc>Adolescent gavé de comics, Dave Lizewski,... (Lire la suite).(r)</desc>
+    <desc>Adolescent gavé de comics, Dave Lizewski, alias Kick-Ass, n'est plus le seul super-héros amateur de la ville. Sa bravoure non réfléchie a inspiré... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jeff Wadlow</name>
       <name function="actor">Jim Carrey</name>
@@ -530,11 +289,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209002500 +0100" stop="20151209021000 +0100">
+  <programme channel="test" start="20151208222500 +0100" stop="20151209001000 +0100">
     <length units="minutes">105</length>
     <title>Oldboy (?)</title>
     <category>Film</category>
-    <desc>Joseph Doucett se réveille un jour dans une... (Lire la suite).(r)</desc>
+    <desc>Joseph Doucett se réveille un jour dans une pièce, enfermé. Comment est-il arrivé là ? Qui l'a emprisonné ? Il n'a pas de réponse à ces questions... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Spike Lee</name>
       <name function="actor">Josh Brolin</name>
@@ -548,11 +307,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209021000 +0100" stop="20151209033500 +0100">
+  <programme channel="test" start="20151209001000 +0100" stop="20151209013500 +0100">
     <length units="minutes">85</length>
     <title>Le dernier exorcisme (?)</title>
     <category>Film</category>
-    <desc>Révérend capable d'enflammer les foules,... (Lire la suite).(r)</desc>
+    <desc>Révérend capable d'enflammer les foules, Cotton Marcus pratique des exorcismes sans y croire lui-même. Il entend profiter du documentaire qu'on... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Daniel Stamm</name>
       <name function="actor">Patrick Fabian</name>
@@ -566,11 +325,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209033500 +0100" stop="20151209050000 +0100">
+  <programme channel="test" start="20151209013500 +0100" stop="20151209030000 +0100">
     <length units="minutes">85</length>
     <title>Cravate club (?)</title>
     <category>Film</category>
-    <desc>Bernard et Adrien travaillent dans le même... (Lire la suite).(r)</desc>
+    <desc>Bernard et Adrien travaillent dans le même cabinet d'architecture. Ils sont amis depuis longtemps et pourtant, ils sont très différents. Bernard,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Frédéric Jardin</name>
       <name function="actor">Edouard Baer</name>
@@ -584,11 +343,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209050000 +0100" stop="20151209064000 +0100">
+  <programme channel="test" start="20151209030000 +0100" stop="20151209044000 +0100">
     <length units="minutes">100</length>
     <title>Zulu (?)</title>
     <category>Film</category>
-    <desc>Dans une Afrique du Sud qui porte encore les... (Lire la suite).(r)</desc>
+    <desc>Dans une Afrique du Sud qui porte encore les stigmates de l'apartheid, deux policiers, l'un noir, Ali Sokhela, hanté par de douloureuses... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jérôme Salle</name>
       <name function="actor">Forest Whitaker</name>
@@ -602,11 +361,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209064000 +0100" stop="20151209080000 +0100">
+  <programme channel="test" start="20151209044000 +0100" stop="20151209060000 +0100">
     <length units="minutes">80</length>
     <title>Omar m'a tuer (?)</title>
     <category>Film</category>
-    <desc>En juin 1991, à Mougins, Ghislaine Marchal... (Lire la suite).(r)</desc>
+    <desc>En juin 1991, à Mougins, Ghislaine Marchal est retrouvée morte à son domicile à côté d'une inscription qu'elle a visiblement écrite avec son sang... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Roschdy Zem</name>
       <name function="actor">Sami Bouajila</name>
@@ -620,18 +379,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209080000 +0100" stop="20151209090000 +0100">
+  <programme channel="test" start="20151209060000 +0100" stop="20151209070000 +0100">
     <length units="minutes">60</length>
     <title>Interruption des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209090000 +0100" stop="20151209103000 +0100">
+  <programme channel="test" start="20151209070000 +0100" stop="20151209083000 +0100">
     <length units="minutes">90</length>
     <title>Grand Piano (?)</title>
     <category>Film</category>
-    <desc>Tom Selznick est considéré comme le pianiste... (Lire la suite).(r)</desc>
+    <desc>Tom Selznick est considéré comme le pianiste le plus talentueux de sa génération. Malheureusement, un trac paralysant l'a tenu éloigné des salles... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Eugenio Mira</name>
       <name function="actor">John Cusack</name>
@@ -645,11 +404,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209103000 +0100" stop="20151209121500 +0100">
+  <programme channel="test" start="20151209083000 +0100" stop="20151209101500 +0100">
     <length units="minutes">105</length>
     <title>Les Miller, une famille en herbe (?)</title>
     <category>Film</category>
-    <desc>David Clark est un dealer minable qui écoule... (Lire la suite).(r)</desc>
+    <desc>David Clark est un dealer minable qui écoule de petites quantités de marijuana. Un jour, il se fait agresser par trois voyous qui lui volent sa... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Rawson Marshall Thurber</name>
       <name function="actor">Tomer Sisley</name>
@@ -663,11 +422,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209121500 +0100" stop="20151209134000 +0100">
+  <programme channel="test" start="20151209101500 +0100" stop="20151209114000 +0100">
     <length units="minutes">85</length>
     <title>Grand départ (?)</title>
     <category>Film</category>
-    <desc>A l'aube de la trentaine, Romain apprend que... (Lire la suite).(r)</desc>
+    <desc>A l'aube de la trentaine, Romain apprend que son père est atteint d'une maladie neurodégénérative aussi insolite que terrifiante. Face à cette... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Nicolas Mercier</name>
       <name function="actor">Eddy Mitchell</name>
@@ -681,11 +440,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209134000 +0100" stop="20151209153000 +0100">
+  <programme channel="test" start="20151209114000 +0100" stop="20151209133000 +0100">
     <length units="minutes">110</length>
     <title>L'exercice de l'Etat (?)</title>
     <category>Film</category>
-    <desc>Le ministre des Transports, Bertrand Saint-Jean, (Lire la suite).(r)</desc>
+    <desc>Le ministre des Transports, Bertrand Saint-Jean, apprend en pleine nuit qu'un tragique accident de car sur une route enneigée des Ardennes... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Pierre Schoeller</name>
       <name function="actor">Jacques Boudet</name>
@@ -699,11 +458,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209153000 +0100" stop="20151209171000 +0100">
+  <programme channel="test" start="20151209133000 +0100" stop="20151209151000 +0100">
     <length units="minutes">100</length>
     <title>Crazy Joe (?)</title>
     <category>Film</category>
-    <desc>Ancien soldat des forces spéciales britanniques (Lire la suite).(r)</desc>
+    <desc>Ancien soldat des forces spéciales britanniques envoyé en Afghanistan, Joey Jones échappe à un procès en cour martiale en prenant la fuite. Sans... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Steven Knight</name>
       <name function="actor">Ger Ryan</name>
@@ -717,11 +476,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209171000 +0100" stop="20151209191500 +0100">
+  <programme channel="test" start="20151209151000 +0100" stop="20151209171500 +0100">
     <length units="minutes">125</length>
     <title>Blood Ties (?)</title>
     <category>Film</category>
-    <desc>New York 1974. Chris, la cinquantaine, vient... (Lire la suite).(r)</desc>
+    <desc>New York 1974. Chris, la cinquantaine, vient de purger une peine de prison. Il retrouve Frank, son frère plus jeune, qui lui, a choisi une vie... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Guillaume Canet</name>
       <name function="actor">James Caan</name>
@@ -735,11 +494,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209191500 +0100" stop="20151209210500 +0100">
+  <programme channel="test" start="20151209171500 +0100" stop="20151209190500 +0100">
     <length units="minutes">110</length>
     <title>Mon idole (?)</title>
     <category>Film</category>
-    <desc>Bastien est un jeune homme ambitieux qui,... (Lire la suite).(r)</desc>
+    <desc>Bastien est un jeune homme ambitieux qui, pour le moment, exerce ses talents comme chauffeur de salle pour la célèbre émission télévisée du fat... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Guillaume Canet</name>
       <name function="actor">Philippe Lefebvre</name>
@@ -753,11 +512,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209210500 +0100" stop="20151209224500 +0100">
+  <programme channel="test" start="20151209190500 +0100" stop="20151209204500 +0100">
     <length units="minutes">100</length>
     <title>Celle que j'aime (?)</title>
     <category>Film</category>
-    <desc>Isabelle, la trentaine, a tout ce qu'il faut... (Lire la suite).(r)</desc>
+    <desc>Isabelle, la trentaine, a tout ce qu'il faut pour être heureuse dans la vie : elle dirige un journal qu'elle a créé avec son partenaire, Brice.... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Elie Chouraqui</name>
       <name function="actor">Barbara Schulz</name>
@@ -771,11 +530,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209224500 +0100" stop="20151210004000 +0100">
+  <programme channel="test" start="20151209204500 +0100" stop="20151209224000 +0100">
     <length units="minutes">115</length>
     <title>Robocop (?)</title>
     <category>Film</category>
-    <desc>En 2028, Alex Murphy, un policier de Detroit,... (Lire la suite).(r)</desc>
+    <desc>En 2028, Alex Murphy, un policier de Detroit, a failli laisser sa vie lors de l'explosion de son véhicule. Paralysé, il est entre la vie et la... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">José Padilha</name>
       <name function="actor">Gary Oldman</name>
@@ -789,11 +548,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210004000 +0100" stop="20151210022500 +0100">
+  <programme channel="test" start="20151209224000 +0100" stop="20151210002500 +0100">
     <length units="minutes">105</length>
     <title>Zulu (?)</title>
     <category>Film</category>
-    <desc>Dans une Afrique du Sud qui porte encore les... (Lire la suite).(r)</desc>
+    <desc>Dans une Afrique du Sud qui porte encore les stigmates de l'apartheid, deux policiers, l'un noir, Ali Sokhela, hanté par de douloureuses... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jérôme Salle</name>
       <name function="actor">Forest Whitaker</name>
@@ -807,11 +566,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210022500 +0100" stop="20151210035500 +0100">
+  <programme channel="test" start="20151210002500 +0100" stop="20151210015500 +0100">
     <length units="minutes">90</length>
     <title>Landes (?)</title>
     <category>Film</category>
-    <desc>Années 20 dans les Landes. Alors qu'une crise... (Lire la suite).(r)</desc>
+    <desc>Années 20 dans les Landes. Alors qu'une crise sociale est en train de couver, Liena, 35 ans, veille, incrédule, le corps de son mari brutalement... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">François-Xavier Vives</name>
       <name function="actor">Marie Gillain</name>
@@ -825,7 +584,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210035500 +0100" stop="20151210044000 +0100">
+  <programme channel="test" start="20151210015500 +0100" stop="20151210024000 +0100">
     <length units="minutes">45</length>
     <title>Tous cinéma</title>
     <category>Magazine</category>
@@ -835,11 +594,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210044000 +0100" stop="20151210061500 +0100">
+  <programme channel="test" start="20151210024000 +0100" stop="20151210041500 +0100">
     <length units="minutes">95</length>
     <title>Le prix du sang</title>
     <category>Téléfilm</category>
-    <desc>Ruslan, un ancien diplomate russe devenu... (Lire la suite).(c)</desc>
+    <desc>Ruslan, un ancien diplomate russe devenu auteur de romans sensationnels, reçoit un coup de téléphone de son ex-femme Catherine. Cette dernière... (Lire la suite).(c)</desc>
     <credits>
       <name function="director">Jeff F King</name>
       <name function="actor">Robert Wisden</name>
@@ -853,11 +612,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210061500 +0100" stop="20151210081000 +0100">
+  <programme channel="test" start="20151210041500 +0100" stop="20151210061000 +0100">
     <length units="minutes">115</length>
     <title>Molière (?)</title>
     <category>Film</category>
-    <desc>A 22 ans, Molière rencontre de sérieuses... (Lire la suite).(r)</desc>
+    <desc>A 22 ans, Molière rencontre de sérieuses difficultés pour faire vivre sa troupe de théâtre. Afin de monter ses spectacles, il s'endette. Aussi... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Laurent Tirard</name>
       <name function="actor">Edouard Baer</name>
@@ -871,14 +630,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210081000 +0100" stop="20151210085000 +0100">
+  <programme channel="test" start="20151210061000 +0100" stop="20151210065000 +0100">
     <length units="minutes">40</length>
     <title>Interruption des programmes</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210085000 +0100" stop="20151210094000 +0100">
+  <programme channel="test" start="20151210065000 +0100" stop="20151210074000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -897,7 +656,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210094000 +0100" stop="20151210103000 +0100">
+  <programme channel="test" start="20151210074000 +0100" stop="20151210083000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -916,11 +675,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210103000 +0100" stop="20151210115500 +0100">
+  <programme channel="test" start="20151210083000 +0100" stop="20151210095500 +0100">
     <length units="minutes">85</length>
     <title>Les garçons et Guillaume, à table ! (?)</title>
     <category>Film</category>
-    <desc>Alors qu'il se démaquille dans la loge d'un... (Lire la suite).(r)</desc>
+    <desc>Alors qu'il se démaquille dans la loge d'un théâtre, Guillaume se remémore les souvenirs de son adolescence passée auprès d'une mère aimante, à... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Guillaume Gallienne</name>
       <name function="actor">Françoise Fabian</name>
@@ -934,11 +693,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210115500 +0100" stop="20151210134000 +0100">
+  <programme channel="test" start="20151210095500 +0100" stop="20151210114000 +0100">
     <length units="minutes">105</length>
     <title>Tip Top (?)</title>
     <category>Film</category>
-    <desc>Dans un café arabe de Villeneuve, dans la... (Lire la suite).(r)</desc>
+    <desc>Dans un café arabe de Villeneuve, dans la banlieue lilloise, l'inspecteur Mendès sauve son indic, Younès, d'un mauvais sort, en déclenchant une... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Serge Bozon</name>
       <name function="actor">Isabelle Huppert</name>
@@ -952,11 +711,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210134000 +0100" stop="20151210152000 +0100">
+  <programme channel="test" start="20151210114000 +0100" stop="20151210132000 +0100">
     <length units="minutes">100</length>
     <title>Inside Llewyn Davis (?)</title>
     <category>Film</category>
-    <desc>Dans les années 60, Llewyn Davis tente de se... (Lire la suite).(r)</desc>
+    <desc>Dans les années 60, Llewyn Davis tente de se faire une place sur la scène folk new-yorkaise. Pendant une semaine dans un New York enneigé, il... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Joel Coen,</name>
       <name function="director">Ethan Coen</name>
@@ -971,11 +730,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210152000 +0100" stop="20151210153000 +0100">
+  <programme channel="test" start="20151210132000 +0100" stop="20151210133000 +0100">
     <length units="minutes">10</length>
     <title>Le courrier du parc (?)</title>
     <category>Film</category>
-    <desc>Brouillé avec sa fiancée, un homme demande à... (Lire la suite).(r)</desc>
+    <desc>Brouillé avec sa fiancée, un homme demande à un petit garçon d'aller lui parler dans un parc, pour tenter de renouer le... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Agnès Caffin</name>
       <name function="actor">Sylvain Jacques</name>
@@ -984,11 +743,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210153000 +0100" stop="20151210171000 +0100">
+  <programme channel="test" start="20151210133000 +0100" stop="20151210151000 +0100">
     <length units="minutes">100</length>
     <title>En solitaire (?)</title>
     <category>Film</category>
-    <desc>Yann Kermadec, skipper ambitieux, va enfin... (Lire la suite).(r)</desc>
+    <desc>Yann Kermadec, skipper ambitieux, va enfin toucher son rêve du doigt. Il est autorisé à prendre le départ du Vendée Globe quand son ami Franck... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Christophe Offenstein</name>
       <name function="actor">Guillaume Canet</name>
@@ -1002,11 +761,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210171000 +0100" stop="20151210185000 +0100">
+  <programme channel="test" start="20151210151000 +0100" stop="20151210165000 +0100">
     <length units="minutes">100</length>
     <title>Kick-Ass 2 (?)</title>
     <category>Film</category>
-    <desc>Adolescent gavé de comics, Dave Lizewski,... (Lire la suite).(r)</desc>
+    <desc>Adolescent gavé de comics, Dave Lizewski, alias Kick-Ass, n'est plus le seul super-héros amateur de la ville. Sa bravoure non réfléchie a inspiré... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jeff Wadlow</name>
       <name function="actor">Jim Carrey</name>
@@ -1020,11 +779,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210185000 +0100" stop="20151210204500 +0100">
+  <programme channel="test" start="20151210165000 +0100" stop="20151210184500 +0100">
     <length units="minutes">115</length>
     <title>Le dahlia noir (?)</title>
     <category>Film</category>
-    <desc>Los Angeles, 1947, les émeutes font rage.... (Lire la suite).(r)</desc>
+    <desc>Los Angeles, 1947, les émeutes font rage. Deux policiers, Bucky et Lee, se rencontrent lors d'une manifestation sévèrement réprimée. L'un et... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Brian De Palma</name>
       <name function="actor">Mike Starr</name>
@@ -1038,7 +797,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210204500 +0100" stop="20151210211500 +0100">
+  <programme channel="test" start="20151210184500 +0100" stop="20151210191500 +0100">
     <length units="minutes">30</length>
     <title>Futurland</title>
     <category>Documentaire</category>
@@ -1048,11 +807,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210211500 +0100" stop="20151210224500 +0100">
+  <programme channel="test" start="20151210191500 +0100" stop="20151210204500 +0100">
     <length units="minutes">90</length>
     <title>Landes (?)</title>
     <category>Film</category>
-    <desc>Années 20 dans les Landes. Alors qu'une crise... (Lire la suite).(r)</desc>
+    <desc>Années 20 dans les Landes. Alors qu'une crise sociale est en train de couver, Liena, 35 ans, veille, incrédule, le corps de son mari brutalement... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">François-Xavier Vives</name>
       <name function="actor">Marie Gillain</name>
@@ -1066,11 +825,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210224500 +0100" stop="20151211003500 +0100">
+  <programme channel="test" start="20151210204500 +0100" stop="20151210223500 +0100">
     <length units="minutes">110</length>
     <title>Green Zone (?)</title>
     <category>Film</category>
-    <desc>Roy Miller est un sous-officier américain,... (Lire la suite).(r)</desc>
+    <desc>Roy Miller est un sous-officier américain, envoyé en mission en Irak en 2003 pour trouver des armes de destruction massive, raison pour laquelle... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Paul Greengrass</name>
       <name function="actor">Greg Kinnear</name>
@@ -1084,11 +843,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211003500 +0100" stop="20151211023500 +0100">
+  <programme channel="test" start="20151210223500 +0100" stop="20151211003500 +0100">
     <length units="minutes">120</length>
     <title>Robocop (?)</title>
     <category>Film</category>
-    <desc>En 2028, Alex Murphy, un policier de Detroit,... (Lire la suite).(r)</desc>
+    <desc>En 2028, Alex Murphy, un policier de Detroit, a failli laisser sa vie lors de l'explosion de son véhicule. Paralysé, il est entre la vie et la... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">José Padilha</name>
       <name function="actor">Gary Oldman</name>
@@ -1102,11 +861,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211023500 +0100" stop="20151211052500 +0100">
+  <programme channel="test" start="20151211003500 +0100" stop="20151211032500 +0100">
     <length units="minutes">170</length>
     <title>Casino (?)</title>
     <category>Film</category>
-    <desc>Dans les années 1970, sa chance insolente et... (Lire la suite).(r)</desc>
+    <desc>Dans les années 1970, sa chance insolente et son flair infaillible valent à Sam «Ace» Rothstein l'honneur d'être catapulté à la tête d'un luxueux... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Martin Scorsese</name>
       <name function="actor">Robert De Niro</name>
@@ -1120,7 +879,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211052500 +0100" stop="20151211071500 +0100">
+  <programme channel="test" start="20151211032500 +0100" stop="20151211051500 +0100">
     <length units="minutes">110</length>
     <title>Conjuring : les dossiers Warren (?)</title>
     <category>Film</category>
@@ -1138,7 +897,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211071500 +0100" stop="20151211085000 +0100">
+  <programme channel="test" start="20151211051500 +0100" stop="20151211065000 +0100">
     <length units="minutes">95</length>
     <title>Gangsters</title>
     <category>Téléfilm</category>
@@ -1157,7 +916,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211085000 +0100" stop="20151211094000 +0100">
+  <programme channel="test" start="20151211065000 +0100" stop="20151211074000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -1176,7 +935,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211094000 +0100" stop="20151211103000 +0100">
+  <programme channel="test" start="20151211074000 +0100" stop="20151211083000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
@@ -1195,11 +954,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211103000 +0100" stop="20151211123500 +0100">
+  <programme channel="test" start="20151211083000 +0100" stop="20151211103500 +0100">
     <length units="minutes">125</length>
     <title>Blood Ties (?)</title>
     <category>Film</category>
-    <desc>New York 1974. Chris, la cinquantaine, vient... (Lire la suite).(r)</desc>
+    <desc>New York 1974. Chris, la cinquantaine, vient de purger une peine de prison. Il retrouve Frank, son frère plus jeune, qui lui, a choisi une vie... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Guillaume Canet</name>
       <name function="actor">James Caan</name>
@@ -1213,11 +972,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211123500 +0100" stop="20151211140500 +0100">
+  <programme channel="test" start="20151211103500 +0100" stop="20151211120500 +0100">
     <length units="minutes">90</length>
     <title>Le premier cercle (?)</title>
     <category>Film</category>
-    <desc>Milo Malakian, chef d'un clan d'origine... (Lire la suite).(r)</desc>
+    <desc>Milo Malakian, chef d'un clan d'origine arménienne, est très attaché à sa famille. C'est «le Premier Cercle», celui qu'on ne transgresse pas. Il... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Laurent Tuel</name>
       <name function="actor">Sami Bouajila</name>
@@ -1231,11 +990,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211140500 +0100" stop="20151211153000 +0100">
+  <programme channel="test" start="20151211120500 +0100" stop="20151211133000 +0100">
     <length units="minutes">85</length>
     <title>Le sens de l'humour (?)</title>
     <category>Film</category>
-    <desc>Elise ne parvient pas à se remettre du décès... (Lire la suite).(r)</desc>
+    <desc>Elise ne parvient pas à se remettre du décès de son compagnon. Avec son fils Léo, elle essaie de mener une existence normale. Elise rencontre... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Marilyne Canto</name>
       <name function="actor">Antoine Chappey</name>
@@ -1249,11 +1008,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211153000 +0100" stop="20151211172500 +0100">
+  <programme channel="test" start="20151211133000 +0100" stop="20151211152500 +0100">
     <length units="minutes">115</length>
     <title>Robocop (?)</title>
     <category>Film</category>
-    <desc>En 2028, Alex Murphy, un policier de Detroit,... (Lire la suite).(r)</desc>
+    <desc>En 2028, Alex Murphy, un policier de Detroit, a failli laisser sa vie lors de l'explosion de son véhicule. Paralysé, il est entre la vie et la... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">José Padilha</name>
       <name function="actor">Gary Oldman</name>
@@ -1267,11 +1026,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211172500 +0100" stop="20151211201500 +0100">
+  <programme channel="test" start="20151211152500 +0100" stop="20151211181500 +0100">
     <length units="minutes">170</length>
     <title>Alexandre (?)</title>
     <category>Film</category>
-    <desc>Le IVe siècle avant Jésus-Christ, à Alexandrie. (Lire la suite).(r)</desc>
+    <desc>Le IVe siècle avant Jésus-Christ, à Alexandrie. Ptolémée retrace devant ses auditeurs la vie d'Alexandre, fondateur du pays et conquérant sans... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Oliver Stone</name>
       <name function="actor">Christopher Plummer</name>
@@ -1285,18 +1044,18 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211201500 +0100" stop="20151211204000 +0100">
+  <programme channel="test" start="20151211181500 +0100" stop="20151211184000 +0100">
     <length units="minutes">25</length>
     <title>Par ici les sorties</title>
     <category>Magazine</category>
     <desc>Episode 15 Le point sur les sorties de la semaine. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211204000 +0100" stop="20151211220000 +0100">
+  <programme channel="test" start="20151211184000 +0100" stop="20151211200000 +0100">
     <length units="minutes">80</length>
     <title>Grand départ (?)</title>
     <category>Film</category>
-    <desc>A l'aube de la trentaine, Romain apprend que... (Lire la suite).(r)</desc>
+    <desc>A l'aube de la trentaine, Romain apprend que son père est atteint d'une maladie neurodégénérative aussi insolite que terrifiante. Face à cette... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Nicolas Mercier</name>
       <name function="actor">Eddy Mitchell</name>
@@ -1310,7 +1069,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211220000 +0100" stop="20151211224500 +0100">
+  <programme channel="test" start="20151211200000 +0100" stop="20151211204500 +0100">
     <length units="minutes">45</length>
     <title>Tous cinéma</title>
     <category>Magazine</category>
@@ -1320,11 +1079,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211224500 +0100" stop="20151212003500 +0100">
+  <programme channel="test" start="20151211204500 +0100" stop="20151211223500 +0100">
     <length units="minutes">110</length>
     <title>Quai d'Orsay (?)</title>
     <category>Film</category>
-    <desc>Arthur Vlaminck est un jeune énarque, nouveau... (Lire la suite).(r)</desc>
+    <desc>Arthur Vlaminck est un jeune énarque, nouveau venu au Quai d'Orsay. Il a été embauché pour écrire les discours d'Alexandre Taillard de Vorms, le... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Bertrand Tavernier</name>
       <name function="actor">Julie Gayet</name>
@@ -1338,7 +1097,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212003500 +0100" stop="20151212020500 +0100">
+  <programme channel="test" start="20151211223500 +0100" stop="20151212000500 +0100">
     <length units="minutes">90</length>
     <title>Le dernier exorcisme : Part II (?)</title>
     <category>Film</category>
@@ -1356,11 +1115,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212020500 +0100" stop="20151212034000 +0100">
+  <programme channel="test" start="20151212000500 +0100" stop="20151212014000 +0100">
     <length units="minutes">95</length>
     <title>Secret Identity (?)</title>
     <category>Film</category>
-    <desc>Alors qu'il était agent gouvernemental, Paul... (Lire la suite).(r)</desc>
+    <desc>Alors qu'il était agent gouvernemental, Paul Shepherdson a passé le plus clair de son temps à traquer le mystérieux Cassius, un dangereux tueur... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Michael Brandt</name>
       <name function="actor">Stephen Moyer</name>
@@ -1374,11 +1133,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212034000 +0100" stop="20151212051000 +0100">
+  <programme channel="test" start="20151212014000 +0100" stop="20151212031000 +0100">
     <length units="minutes">90</length>
     <title>Grand Piano (?)</title>
     <category>Film</category>
-    <desc>Tom Selznick est considéré comme le pianiste... (Lire la suite).(r)</desc>
+    <desc>Tom Selznick est considéré comme le pianiste le plus talentueux de sa génération. Malheureusement, un trac paralysant l'a tenu éloigné des salles... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Eugenio Mira</name>
       <name function="actor">John Cusack</name>
@@ -1392,11 +1151,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212051000 +0100" stop="20151212063500 +0100">
+  <programme channel="test" start="20151212031000 +0100" stop="20151212043500 +0100">
     <length units="minutes">85</length>
     <title>Le bruit des glaçons (?)</title>
     <category>Film</category>
-    <desc>Charles Faulque, écrivain célèbre et alcoolique, (Lire la suite).(r)</desc>
+    <desc>Charles Faulque, écrivain célèbre et alcoolique, a la désagréable surprise de recevoir la visite de son cancer dans sa belle villa du Sud de la... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Bertrand Blier</name>
       <name function="actor">Myriam Boyer</name>
@@ -1410,7 +1169,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212063500 +0100" stop="20151212082000 +0100">
+  <programme channel="test" start="20151212043500 +0100" stop="20151212062000 +0100">
     <length units="minutes">105</length>
     <title>Soupçons</title>
     <category>Téléfilm</category>
@@ -1428,11 +1187,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212082000 +0100" stop="20151212101500 +0100">
+  <programme channel="test" start="20151212062000 +0100" stop="20151212081500 +0100">
     <length units="minutes">115</length>
     <title>Molière (?)</title>
     <category>Film</category>
-    <desc>A 22 ans, Molière rencontre de sérieuses... (Lire la suite).(r)</desc>
+    <desc>A 22 ans, Molière rencontre de sérieuses difficultés pour faire vivre sa troupe de théâtre. Afin de monter ses spectacles, il s'endette. Aussi... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Laurent Tirard</name>
       <name function="actor">Edouard Baer</name>
@@ -1446,11 +1205,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212101500 +0100" stop="20151212130500 +0100">
+  <programme channel="test" start="20151212081500 +0100" stop="20151212110500 +0100">
     <length units="minutes">170</length>
     <title>Alexandre (?)</title>
     <category>Film</category>
-    <desc>Le IVe siècle avant Jésus-Christ, à Alexandrie. (Lire la suite).(r)</desc>
+    <desc>Le IVe siècle avant Jésus-Christ, à Alexandrie. Ptolémée retrace devant ses auditeurs la vie d'Alexandre, fondateur du pays et conquérant sans... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Oliver Stone</name>
       <name function="actor">Christopher Plummer</name>
@@ -1464,11 +1223,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212130500 +0100" stop="20151212150000 +0100">
+  <programme channel="test" start="20151212110500 +0100" stop="20151212130000 +0100">
     <length units="minutes">115</length>
     <title>Green Zone (?)</title>
     <category>Film</category>
-    <desc>Roy Miller est un sous-officier américain,... (Lire la suite).(r)</desc>
+    <desc>Roy Miller est un sous-officier américain, envoyé en mission en Irak en 2003 pour trouver des armes de destruction massive, raison pour laquelle... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Paul Greengrass</name>
       <name function="actor">Greg Kinnear</name>
@@ -1482,11 +1241,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212150000 +0100" stop="20151212163000 +0100">
+  <programme channel="test" start="20151212130000 +0100" stop="20151212143000 +0100">
     <length units="minutes">90</length>
     <title>Les conquérants (?)</title>
     <category>Film</category>
-    <desc>Galaad et Noé rejoignent en stop le cimetière... (Lire la suite).(r)</desc>
+    <desc>Galaad et Noé rejoignent en stop le cimetière où une foule nombreuse enterre leur père, avant un dernier hommage en musique à cette sorte d'ogre,... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Xabi Molia</name>
       <name function="actor">Mathieu Demy</name>
@@ -1500,11 +1259,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212163000 +0100" stop="20151212182500 +0100">
+  <programme channel="test" start="20151212143000 +0100" stop="20151212162500 +0100">
     <length units="minutes">115</length>
     <title>Quai d'Orsay (?)</title>
     <category>Film</category>
-    <desc>Arthur Vlaminck est un jeune énarque, nouveau... (Lire la suite).(r)</desc>
+    <desc>Arthur Vlaminck est un jeune énarque, nouveau venu au Quai d'Orsay. Il a été embauché pour écrire les discours d'Alexandre Taillard de Vorms, le... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Bertrand Tavernier</name>
       <name function="actor">Julie Gayet</name>
@@ -1518,11 +1277,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212182500 +0100" stop="20151212201500 +0100">
+  <programme channel="test" start="20151212162500 +0100" stop="20151212181500 +0100">
     <length units="minutes">110</length>
     <title>Match retour (?)</title>
     <category>Film</category>
-    <desc>A 60 ans passés, Henry «Razor» Sharp et Billy... (Lire la suite).(r)</desc>
+    <desc>A 60 ans passés, Henry «Razor» Sharp et Billy «The Kid» McDonnen sont deux anciens boxeurs de Pittsburgh. Ils se sont jadis affrontés à deux... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Peter Segal</name>
       <name function="actor">Robert De Niro</name>
@@ -1536,11 +1295,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212201500 +0100" stop="20151212221000 +0100">
+  <programme channel="test" start="20151212181500 +0100" stop="20151212201000 +0100">
     <length units="minutes">115</length>
     <title>Les larmes du soleil (?)</title>
     <category>Film</category>
-    <desc>Après un violent putsch, le Nigeria est... (Lire la suite).(r)</desc>
+    <desc>Après un violent putsch, le Nigeria est plongé en plein chaos. L'armée des rebelles, qui a assassiné le président du pays et sa famille, sème la... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Antoine Fuqua</name>
       <name function="actor">Bruce Willis</name>
@@ -1554,25 +1313,25 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212221000 +0100" stop="20151212223000 +0100">
+  <programme channel="test" start="20151212201000 +0100" stop="20151212203000 +0100">
     <length units="minutes">20</length>
     <title>Par ici les sorties</title>
     <category>Magazine</category>
     <desc>Episode 15 Le point sur les sorties de la semaine. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212223000 +0100" stop="20151212224500 +0100">
+  <programme channel="test" start="20151212203000 +0100" stop="20151212204500 +0100">
     <length units="minutes">15</length>
     <title>Hollywood live</title>
     <category>Magazine</category>
     <desc>Une exploration très personnelle du microcosme (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212224500 +0100" stop="20151213010500 +0100">
+  <programme channel="test" start="20151212204500 +0100" stop="20151212230500 +0100">
     <length units="minutes">140</length>
     <title>La chute du Faucon noir (?)</title>
     <category>Film</category>
-    <desc>En 1992, Mohamed Farrah Aidid fait régner la... (Lire la suite).(r)</desc>
+    <desc>En 1992, Mohamed Farrah Aidid fait régner la terreur sur le territoire somalien. Pour venir en aide à la population qui meurt de faim, George... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Ridley Scott</name>
       <name function="actor">Sam Shepard</name>
@@ -1586,11 +1345,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213010500 +0100" stop="20151213023000 +0100">
+  <programme channel="test" start="20151212230500 +0100" stop="20151213003000 +0100">
     <length units="minutes">85</length>
     <title>Le dernier exorcisme (?)</title>
     <category>Film</category>
-    <desc>Révérend capable d'enflammer les foules,... (Lire la suite).(r)</desc>
+    <desc>Révérend capable d'enflammer les foules, Cotton Marcus pratique des exorcismes sans y croire lui-même. Il entend profiter du documentaire qu'on... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Daniel Stamm</name>
       <name function="actor">Patrick Fabian</name>
@@ -1604,11 +1363,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213023000 +0100" stop="20151213040500 +0100">
+  <programme channel="test" start="20151213003000 +0100" stop="20151213020500 +0100">
     <length units="minutes">95</length>
     <title>Grand Central (?)</title>
     <category>Film</category>
-    <desc>Jusqu'ici, Gary a navigué à vue dans sa vie... (Lire la suite).(n)</desc>
+    <desc>Jusqu'ici, Gary a navigué à vue dans sa vie professionnelle. Rejeté par sa famille, il enchaîne les petits boulots sans réelle perspective... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Rebecca Zlotowski</name>
       <name function="actor">Denis Ménochet</name>
@@ -1622,11 +1381,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213040500 +0100" stop="20151213054500 +0100">
+  <programme channel="test" start="20151213020500 +0100" stop="20151213034500 +0100">
     <length units="minutes">100</length>
     <title>Inside Llewyn Davis (?)</title>
     <category>Film</category>
-    <desc>Dans les années 60, Llewyn Davis tente de se... (Lire la suite).(n)</desc>
+    <desc>Dans les années 60, Llewyn Davis tente de se faire une place sur la scène folk new-yorkaise. Pendant une semaine dans un New York enneigé, il... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Joel Coen,</name>
       <name function="director">Ethan Coen</name>
@@ -1641,11 +1400,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213054500 +0100" stop="20151213073000 +0100">
+  <programme channel="test" start="20151213034500 +0100" stop="20151213053000 +0100">
     <length units="minutes">105</length>
     <title>Projet Lazarus</title>
     <category>Téléfilm</category>
-    <desc>Ancien criminel, Ben Garvey est installé à... (Lire la suite).(n)</desc>
+    <desc>Ancien criminel, Ben Garvey est installé à... (Lire la suite).</desc>
     <credits>
       <name function="director">John Glenn</name>
       <name function="actor">Bob Gunton</name>
@@ -1659,22 +1418,22 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213073000 +0100" stop="20151213082000 +0100">
+  <programme channel="test" start="20151213053000 +0100" stop="20151213062000 +0100">
     <length units="minutes">50</length>
     <title>Robolution</title>
     <category>Documentaire</category>
-    <desc>Des experts, comme Olivier Sigaud et Bruno... (Lire la suite).(n)</desc>
+    <desc>Des experts, comme Olivier Sigaud et Bruno... (Lire la suite).</desc>
     <credits>
       <name function="director">Xavier Sayanoff,</name>
       <name function="director">Vincent Gonon</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213082000 +0100" stop="20151213100500 +0100">
+  <programme channel="test" start="20151213062000 +0100" stop="20151213080500 +0100">
     <length units="minutes">105</length>
     <title>Inside Llewyn Davis (?)</title>
     <category>Film</category>
-    <desc>Dans les années 60, Llewyn Davis tente de se... (Lire la suite).(n)</desc>
+    <desc>Dans les années 60, Llewyn Davis tente de se faire une place sur la scène folk new-yorkaise. Pendant une semaine dans un New York enneigé, il... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Joel Coen,</name>
       <name function="director">Ethan Coen</name>
@@ -1689,11 +1448,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213100500 +0100" stop="20151213113500 +0100">
+  <programme channel="test" start="20151213080500 +0100" stop="20151213093500 +0100">
     <length units="minutes">90</length>
     <title>Eyjafjallajökull (?)</title>
     <category>Film</category>
-    <desc>Pour les voyageurs du monde entier, l'éruption du (Lire la suite).(n)</desc>
+    <desc>Pour les voyageurs du monde entier, l'éruption du volcan islandais Eyjafjallajökull est une catastrophe. Pour Alain et Valérie, c'est une... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Alexandre Coffre</name>
       <name function="actor">Albert Delpy</name>
@@ -1707,11 +1466,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213113500 +0100" stop="20151213131500 +0100">
+  <programme channel="test" start="20151213093500 +0100" stop="20151213111500 +0100">
     <length units="minutes">100</length>
     <title>Kick-Ass 2 (?)</title>
     <category>Film</category>
-    <desc>Adolescent gavé de comics, Dave Lizewski,... (Lire la suite).(n)</desc>
+    <desc>Adolescent gavé de comics, Dave Lizewski, alias Kick-Ass, n'est plus le seul super-héros amateur de la ville. Sa bravoure non réfléchie a inspiré... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Jeff Wadlow</name>
       <name function="actor">Jim Carrey</name>
@@ -1725,11 +1484,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213131500 +0100" stop="20151213150000 +0100">
+  <programme channel="test" start="20151213111500 +0100" stop="20151213130000 +0100">
     <length units="minutes">105</length>
     <title>Le dernier pub avant la fin du monde (?)</title>
     <category>Film</category>
-    <desc>Il y a vingt ans, Gary, Andrew, Oliver,... (Lire la suite).(n)</desc>
+    <desc>Il y a vingt ans, Gary, Andrew, Oliver, Steven et Peter étaient jeunes et fous et aimaient faire la tournée des bars. Les cinq amis d'enfance se... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Edgar Wright</name>
       <name function="actor">David Bradley</name>
@@ -1743,11 +1502,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213150000 +0100" stop="20151213155000 +0100">
+  <programme channel="test" start="20151213130000 +0100" stop="20151213135000 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
-    <desc>On retrouve le corps de Sofia, la jeune soeur... (Lire la suite).(n)</desc>
+    <desc>On retrouve le corps de Sofia, la jeune soeur... (Lire la suite).</desc>
     <credits>
       <name function="director">Pascal Chaumeil</name>
       <name function="actor">Vincent Winterhalter</name>
@@ -1762,11 +1521,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213155000 +0100" stop="20151213163500 +0100">
+  <programme channel="test" start="20151213135000 +0100" stop="20151213143500 +0100">
     <length units="minutes">45</length>
     <title>Engrenages</title>
     <category>Série</category>
-    <desc>Pierre ne veut pas abandonner l'affaire... (Lire la suite).(n)</desc>
+    <desc>Pierre ne veut pas abandonner l'affaire... (Lire la suite).</desc>
     <credits>
       <name function="director">Philippe Triboit</name>
       <name function="actor">Caroline Proust</name>
@@ -1781,11 +1540,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213163500 +0100" stop="20151213172500 +0100">
+  <programme channel="test" start="20151213143500 +0100" stop="20151213152500 +0100">
     <length units="minutes">50</length>
     <title>Engrenages</title>
     <category>Série</category>
-    <desc>Jacques Surrier, un commissaire-priseur d'une... (Lire la suite).(n)</desc>
+    <desc>Jacques Surrier, un commissaire-priseur d'une... (Lire la suite).</desc>
     <credits>
       <name function="director">Pascal Chaumeil</name>
       <name function="actor">Philippe Duclos</name>
@@ -1800,11 +1559,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213172500 +0100" stop="20151213182500 +0100">
+  <programme channel="test" start="20151213152500 +0100" stop="20151213162500 +0100">
     <length units="minutes">60</length>
     <title>Engrenages</title>
     <category>Série</category>
-    <desc>Benoît sombre dans un coma dont il ne sortira... (Lire la suite).(n)</desc>
+    <desc>Benoît sombre dans un coma dont il ne sortira... (Lire la suite).</desc>
     <credits>
       <name function="director">Pascal Chaumeil</name>
       <name function="actor">Philippe Duclos</name>
@@ -1819,11 +1578,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213182500 +0100" stop="20151213200500 +0100">
+  <programme channel="test" start="20151213162500 +0100" stop="20151213180500 +0100">
     <length units="minutes">100</length>
     <title>Projet Lazarus</title>
     <category>Téléfilm</category>
-    <desc>Ancien criminel, Ben Garvey est installé à... (Lire la suite).(n)</desc>
+    <desc>Ancien criminel, Ben Garvey est installé à... (Lire la suite).</desc>
     <credits>
       <name function="director">John Glenn</name>
       <name function="actor">Bob Gunton</name>
@@ -1837,11 +1596,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213200500 +0100" stop="20151213220000 +0100">
+  <programme channel="test" start="20151213180500 +0100" stop="20151213200000 +0100">
     <length units="minutes">115</length>
     <title>Robocop (?)</title>
     <category>Film</category>
-    <desc>En 2028, Alex Murphy, un policier de Detroit,... (Lire la suite).(n)</desc>
+    <desc>En 2028, Alex Murphy, un policier de Detroit, a failli laisser sa vie lors de l'explosion de son véhicule. Paralysé, il est entre la vie et la... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">José Padilha</name>
       <name function="actor">Gary Oldman</name>
@@ -1855,21 +1614,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213220000 +0100" stop="20151213224500 +0100">
+  <programme channel="test" start="20151213200000 +0100" stop="20151213204500 +0100">
     <length units="minutes">45</length>
     <title>Tous cinéma</title>
     <category>Magazine</category>
-    <desc>Un programme entièrement consacré à l'actualité (Lire la suite).(n)</desc>
+    <desc>Un programme entièrement consacré à l'actualité (Lire la suite).</desc>
     <credits>
       <name function="presenter">Pierre Zéni</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213224500 +0100" stop="20151214002000 +0100">
+  <programme channel="test" start="20151213204500 +0100" stop="20151213222000 +0100">
     <length units="minutes">95</length>
     <title>Secret Identity (?)</title>
     <category>Film</category>
-    <desc>Alors qu'il était agent gouvernemental, Paul... (Lire la suite).(n)</desc>
+    <desc>Alors qu'il était agent gouvernemental, Paul Shepherdson a passé le plus clair de son temps à traquer le mystérieux Cassius, un dangereux tueur... (Lire la suite).(r)</desc>
     <credits>
       <name function="director">Michael Brandt</name>
       <name function="actor">Stephen Moyer</name>
@@ -1883,11 +1642,11 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151214002000 +0100" stop="20151214021000 +0100">
+  <programme channel="test" start="20151213222000 +0100" stop="20151214001000 +0100">
     <length units="minutes">110</length>
     <title>Mesrine : l'instinct de mort (?)</title>
     <category>Film</category>
-    <desc>Jacques rentre en France après avoir servi... (Lire la suite).(n)</desc>
+    <desc>Jacques rentre en France après avoir servi... (Lire la suite).</desc>
     <credits>
       <name function="director">Jean-François Richet</name>
       <name function="actor">Michel Duchaussoy</name>
@@ -1898,6 +1657,266 @@
       <name function="actor">Cécile de France</name>
       <name function="actor">Elena Anaya</name>
       <name function="actor">Gérard Depardieu</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214001000 +0100" stop="20151214015000 +0100">
+    <length units="minutes">100</length>
+    <title>Celle que j'aime (?)</title>
+    <category>Film</category>
+    <desc>Isabelle, la trentaine, a tout ce qu'il faut pour être heureuse dans la vie : elle dirige un journal qu'elle a créé avec son partenaire, Brice.... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Elie Chouraqui</name>
+      <name function="actor">Barbara Schulz</name>
+      <name function="actor">Jean-Pierre Malo</name>
+      <name function="actor">Moira Grassi</name>
+      <name function="actor">Gérard Darmon</name>
+      <name function="actor">Lannick Gautry</name>
+      <name function="actor">Anton Balekdjian</name>
+      <name function="actor">Victoria Olloqui</name>
+      <name function="actor">Marc Lavoine</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214015000 +0100" stop="20151214035000 +0100">
+    <length units="minutes">120</length>
+    <title>Molière (?)</title>
+    <category>Film</category>
+    <desc>A 22 ans, Molière rencontre de sérieuses difficultés pour faire vivre sa troupe de théâtre. Afin de monter ses spectacles, il s'endette. Aussi... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Laurent Tirard</name>
+      <name function="actor">Edouard Baer</name>
+      <name function="actor">Ludivine Sagnier</name>
+      <name function="actor">Fabrice Luchini</name>
+      <name function="actor">Laura Morante</name>
+      <name function="actor">Fanny Valette</name>
+      <name function="actor">Romain Duris</name>
+      <name function="actor">Gonzague Requillart</name>
+      <name function="actor">Mélanie Dos Santos</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214035000 +0100" stop="20151214052500 +0100">
+    <length units="minutes">95</length>
+    <title>Le dernier exorcisme (?)</title>
+    <category>Film</category>
+    <desc>Révérend capable d'enflammer les foules, Cotton Marcus pratique des exorcismes sans y croire lui-même. Il entend profiter du documentaire qu'on... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Daniel Stamm</name>
+      <name function="actor">Patrick Fabian</name>
+      <name function="actor">Tony Bentley</name>
+      <name function="actor">Iris Bahr</name>
+      <name function="actor">Ashley Bell</name>
+      <name function="actor">Caleb Landry Jones</name>
+      <name function="actor">Shanna Forrestall</name>
+      <name function="actor">John Wright Jr</name>
+      <name function="actor">Louis Herthum</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214052500 +0100" stop="20151214065000 +0100">
+    <length units="minutes">85</length>
+    <title>Gangsters</title>
+    <category>Téléfilm</category>
+    <desc>A Nashville, le redoutable Tarzen Larkin tente de contrôler les trafics en tous genres. Le jeune Eli n'échappe pas à son emprise. Celui-ci,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Adam Arkin,</name>
+      <name function="director">Michael Dinner</name>
+      <name function="actor">Mary Steenburgen</name>
+      <name function="actor">John Hawkes</name>
+      <name function="actor">Frank Hoyt Taylor</name>
+      <name function="actor">Ron Prather</name>
+      <name function="actor">Haley Bennett</name>
+      <name function="actor">Luke Grimes</name>
+      <name function="actor">John-Paul Howard</name>
+      <name function="actor">Jim O'Rear</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214065000 +0100" stop="20151214083000 +0100">
+    <length units="minutes">100</length>
+    <title>La confrérie des larmes (?)</title>
+    <category>Film</category>
+    <desc>A Paris, Gabriel, la trentaine, croule sous les dettes de jeu. Licencié à la suite d'un drame personnel, cet ex-membre de la brigade criminelle... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jean-Baptiste Andrea</name>
+      <name function="actor">Antoine Basler</name>
+      <name function="actor">Bruno Ricci</name>
+      <name function="actor">Bouli Lanners</name>
+      <name function="actor">Audrey Fleurot</name>
+      <name function="actor">Jérémie Renier</name>
+      <name function="actor">Thomas Coumans</name>
+      <name function="actor">Mélusine Mayance</name>
+      <name function="actor">Affif Ben Badra</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214083000 +0100" stop="20151214102000 +0100">
+    <length units="minutes">110</length>
+    <title>Quai d'Orsay (?)</title>
+    <category>Film</category>
+    <desc>Arthur Vlaminck est un jeune énarque, nouveau venu au Quai d'Orsay. Il a été embauché pour écrire les discours d'Alexandre Taillard de Vorms, le... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Bertrand Tavernier</name>
+      <name function="actor">Julie Gayet</name>
+      <name function="actor">Niels Arestrup</name>
+      <name function="actor">Jane Birkin</name>
+      <name function="actor">Thierry Lhermitte</name>
+      <name function="actor">Bruno Raffaelli</name>
+      <name function="actor">Thomas Chabrol</name>
+      <name function="actor">Raphaël Personnaz</name>
+      <name function="actor">Sonia Rolland</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214102000 +0100" stop="20151214120500 +0100">
+    <length units="minutes">105</length>
+    <title>Les Miller, une famille en herbe (?)</title>
+    <category>Film</category>
+    <desc>David Clark est un dealer minable qui écoule de petites quantités de marijuana. Un jour, il se fait agresser par trois voyous qui lui volent sa... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Rawson Marshall Thurber</name>
+      <name function="actor">Tomer Sisley</name>
+      <name function="actor">Jennifer Aniston</name>
+      <name function="actor">Nick Offerman</name>
+      <name function="actor">Emma Roberts</name>
+      <name function="actor">Ed Helms</name>
+      <name function="actor">Jason Sudeikis</name>
+      <name function="actor">Molly C Quinn</name>
+      <name function="actor">Will Poulter</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214120500 +0100" stop="20151214133000 +0100">
+    <length units="minutes">85</length>
+    <title>Le bruit des glaçons (?)</title>
+    <category>Film</category>
+    <desc>Charles Faulque, écrivain célèbre et alcoolique, a la désagréable surprise de recevoir la visite de son cancer dans sa belle villa du Sud de la... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Bertrand Blier</name>
+      <name function="actor">Myriam Boyer</name>
+      <name function="actor">Eric Prat</name>
+      <name function="actor">Albert Dupontel</name>
+      <name function="actor">Anne Alvaro</name>
+      <name function="actor">Jean Dujardin</name>
+      <name function="actor">Audrey Dana</name>
+      <name function="actor">Christa Theret</name>
+      <name function="actor">Emile Berling</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214133000 +0100" stop="20151214145500 +0100">
+    <length units="minutes">85</length>
+    <title>Le dernier exorcisme : Part II (?)</title>
+    <category>Film</category>
+    <desc>Nell, une jeune fille, est prise en charge après avoir été retrouvée amnésique. Cette dernière n'a plus aucun souvenir de ce qu'il lui est... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Ed Gass-Donnelly</name>
+      <name function="actor">Spencer Treat Clark</name>
+      <name function="actor">Andrew Sensenig</name>
+      <name function="actor">Ashley Bell</name>
+      <name function="actor">Muse Watson</name>
+      <name function="actor">Julian Garner</name>
+      <name function="actor">Judd Lormand</name>
+      <name function="actor">E Roger Mitchell</name>
+      <name function="actor">Raeden Greer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214145500 +0100" stop="20151214164500 +0100">
+    <length units="minutes">110</length>
+    <title>Mesrine : l'instinct de mort (?)</title>
+    <category>Film</category>
+    <desc>Jacques rentre en France après avoir servi sous les drapeaux, en Algérie. N'ayant aucun projet, il se voit proposer du travail par son père,... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Jean-François Richet</name>
+      <name function="actor">Michel Duchaussoy</name>
+      <name function="actor">Vincent Cassel</name>
+      <name function="actor">Myriam Boyer</name>
+      <name function="actor">Roy Dupuis</name>
+      <name function="actor">Gilles Lellouche</name>
+      <name function="actor">Cécile de France</name>
+      <name function="actor">Elena Anaya</name>
+      <name function="actor">Gérard Depardieu</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214164500 +0100" stop="20151214185000 +0100">
+    <length units="minutes">125</length>
+    <title>Ca$h (?)</title>
+    <category>Film</category>
+    <desc>Solal est un escroc à la petite semaine qui s'en sort plutôt bien. En effet, il parvient toujours à éviter les foudres de ses victimes. Mais... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Eric Besnard</name>
+      <name function="actor">Valeria Golino</name>
+      <name function="actor">Clovis Cornillac</name>
+      <name function="actor">Jean Reno</name>
+      <name function="actor">Caroline Proust</name>
+      <name function="actor">Samir Guesmi</name>
+      <name function="actor">Jean Dujardin</name>
+      <name function="actor">Alice Taglioni</name>
+      <name function="actor">François Berléand</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214185000 +0100" stop="20151214191000 +0100">
+    <length units="minutes">20</length>
+    <title>Par ici les sorties</title>
+    <category>Magazine</category>
+    <desc>Episode 15 Le point sur les sorties de la semaine. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214191000 +0100" stop="20151214204500 +0100">
+    <length units="minutes">95</length>
+    <title>Le premier cercle (?)</title>
+    <category>Film</category>
+    <desc>Milo Malakian, chef d'un clan d'origine arménienne, est très attaché à sa famille. C'est «le Premier Cercle», celui qu'on ne transgresse pas. Il... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Laurent Tuel</name>
+      <name function="actor">Sami Bouajila</name>
+      <name function="actor">Julian Negulesco</name>
+      <name function="actor">Jean Reno</name>
+      <name function="actor">Gaspard Ulliel</name>
+      <name function="actor">Alberto Gimignani</name>
+      <name function="actor">Isaac Sharry</name>
+      <name function="actor">Eric Challier</name>
+      <name function="actor">Vahina Giocante</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214204500 +0100" stop="20151214223500 +0100">
+    <length units="minutes">110</length>
+    <title>Match retour (?)</title>
+    <category>Film</category>
+    <desc>A 60 ans passés, Henry «Razor» Sharp et Billy «The Kid» McDonnen sont deux anciens boxeurs de Pittsburgh. Ils se sont jadis affrontés à deux... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Peter Segal</name>
+      <name function="actor">Robert De Niro</name>
+      <name function="actor">Kim Basinger</name>
+      <name function="actor">Alan Arkin</name>
+      <name function="actor">Sylvester Stallone</name>
+      <name function="actor">Jon Bernthal</name>
+      <name function="actor">Kevin Hart</name>
+      <name function="actor">Nicole Andrews</name>
+      <name function="actor">Ritchie Little</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214223500 +0100" stop="20151215004000 +0100">
+    <length units="minutes">125</length>
+    <title>Blood Ties (?)</title>
+    <category>Film</category>
+    <desc>New York 1974. Chris, la cinquantaine, vient de purger une peine de prison. Il retrouve Frank, son frère plus jeune, qui lui, a choisi une vie... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="director">Guillaume Canet</name>
+      <name function="actor">James Caan</name>
+      <name function="actor">Clive Owen</name>
+      <name function="actor">Lili Taylor</name>
+      <name function="actor">Billy Crudup</name>
+      <name function="actor">Marion Cotillard</name>
+      <name function="actor">Mila Kunis</name>
+      <name function="actor">Zoe Saldana</name>
+      <name function="actor">Matthias Schoenaerts</name>
     </credits>
     <image />
   </programme>

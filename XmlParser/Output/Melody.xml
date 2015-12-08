@@ -1,74 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
   <channel id="Melody">
-    <display-name>burger</display-name>
+    <display-name>test</display-name>
   </channel>
-  <programme channel="burger" start="20151207022500 +0100" stop="20151207042000 +0100">
-    <length units="minutes">115</length>
-    <title>Melody clips de nuit</title>
-    <category>Clips</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207042000 +0100" stop="20151207083000 +0100">
-    <length units="minutes">250</length>
-    <title>Programmes de la nuit</title>
-    <category />
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207083000 +0100" stop="20151207092000 +0100">
-    <length units="minutes">50</length>
-    <title>Melody de ma vie</title>
-    <category>Magazine</category>
-    <desc>Un chanteur se raconte et évoque les artistes qui lui ont donné envie de faire sa carrière. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Frédéric Zeitoun</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207092000 +0100" stop="20151207110000 +0100">
-    <length units="minutes">100</length>
-    <title>Melody clips cultes</title>
-    <category>Clips</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207110000 +0100" stop="20151207111000 +0100">
+  <programme channel="test" start="20151208001500 +0100" stop="20151208002500 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151207111000 +0100" stop="20151207120000 +0100">
-    <length units="minutes">50</length>
-    <title>Melody clips cultes</title>
-    <category>Clips</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207120000 +0100" stop="20151207121000 +0100">
-    <length units="minutes">10</length>
-    <title>Melody Story</title>
-    <category>Magazine</category>
-    <desc>Chaque jour, Frédéric Zeitoun retrace l'histoire d'une chanson sous un angle souvent original et inattendu. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Frédéric Zeitoun</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207121000 +0100" stop="20151207123000 +0100">
-    <length units="minutes">20</length>
-    <title>Hit Melody Vintage</title>
-    <category>Clips</category>
-    <desc>Une sélection des meilleurs tubes de la période 1962 à 1983. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Christophe Daniel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207123000 +0100" stop="20151207123500 +0100">
+  <programme channel="test" start="20151208002500 +0100" stop="20151208003000 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -78,308 +20,49 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151207123500 +0100" stop="20151207134500 +0100">
-    <length units="minutes">70</length>
-    <title>Podium 70</title>
-    <category>Variétés</category>
-    <desc>Une émission diffusée en mai 1970. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207134500 +0100" stop="20151207142000 +0100">
-    <length units="minutes">35</length>
-    <title>L'académie des 9</title>
-    <category>Jeu</category>
-    <desc>Sur le principe du morpion, 9 personnalités sont réparties dans les 9 cases du décor. Deux candidats s'affrontent en choisissant quel invité... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Pierre Foucault</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207142000 +0100" stop="20151207142500 +0100">
-    <length units="minutes">5</length>
-    <title>Présentation</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207142500 +0100" stop="20151207152000 +0100">
-    <length units="minutes">55</length>
-    <title>Le temps des Yéyés</title>
-    <category>Documentaire</category>
-    <desc>Une émission enregistrée en janvier 1980, avec Catherine Ringer notamment. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207152000 +0100" stop="20151207154000 +0100">
-    <length units="minutes">20</length>
-    <title>La nouvelle séquence du spectateur</title>
-    <category>Magazine</category>
-    <desc>Pour tout savoir sur les sorties DVD des films musicaux, biopics et films avec des stars de la chanson. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Henry-Jean Servat</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207154000 +0100" stop="20151207155000 +0100">
-    <length units="minutes">10</length>
-    <title>Le mag</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207155000 +0100" stop="20151207164500 +0100">
-    <length units="minutes">55</length>
-    <title>Melody clips cultes</title>
-    <category>Clips</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207164500 +0100" stop="20151207165500 +0100">
-    <length units="minutes">10</length>
-    <title>Melody Story</title>
-    <category>Magazine</category>
-    <desc>Chaque jour, Frédéric Zeitoun retrace l'histoire d'une chanson sous un angle souvent original et inattendu. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Frédéric Zeitoun</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207165500 +0100" stop="20151207170000 +0100">
-    <length units="minutes">5</length>
-    <title>Présentation variétés</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Pierre Pasqualini</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207170000 +0100" stop="20151207173500 +0100">
-    <length units="minutes">35</length>
-    <title>Artistes à la carte</title>
-    <category>Variétés</category>
-    <desc>Une émission diffusée en mai 1985. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207173500 +0100" stop="20151207183500 +0100">
-    <length units="minutes">60</length>
-    <title>Melody clips cultes</title>
-    <category>Clips</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207183500 +0100" stop="20151207184000 +0100">
-    <length units="minutes">5</length>
-    <title>Présentation variétés</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Pierre Pasqualini</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207184000 +0100" stop="20151207194000 +0100">
-    <length units="minutes">60</length>
-    <title>Variétés jeunesse</title>
-    <category>Variétés</category>
-    <desc>Une émission réalisée par Raoul Sangla. Diffusée pour la première fois le 23 octobre 1968. Frank Zappa débarque pour la première fois en France... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Philippe Koechlin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207194000 +0100" stop="20151207195500 +0100">
-    <length units="minutes">15</length>
-    <title>Melody Collector</title>
-    <category>Magazine</category>
-    <desc>Les meilleurs clips, scopitones et extraits de concerts des années 60 et 70. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207195500 +0100" stop="20151207200000 +0100">
-    <length units="minutes">5</length>
-    <title>Présentation variétés</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Pierre Pasqualini</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207200000 +0100" stop="20151207210000 +0100">
-    <length units="minutes">60</length>
-    <title>Système Deux</title>
-    <category>Variétés</category>
-    <desc>Une émission diffusée en avril 1975. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Guy Lux,</name>
-      <name function="presenter">Sophie Darel</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207210000 +0100" stop="20151207211500 +0100">
-    <length units="minutes">15</length>
-    <title>Top Melody Vintage</title>
-    <category>Clips</category>
-    <desc>Une sélection des meilleurs tubes de la période 1984 à 1996. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Thierry Cadet</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207211500 +0100" stop="20151207212500 +0100">
-    <length units="minutes">10</length>
-    <title>Le mag</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207212500 +0100" stop="20151207213500 +0100">
-    <length units="minutes">10</length>
-    <title>Melody Story</title>
-    <category>Magazine</category>
-    <desc>Chaque jour, Frédéric Zeitoun retrace l'histoire d'une chanson sous un angle souvent original et inattendu. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Frédéric Zeitoun</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207213500 +0100" stop="20151207221000 +0100">
-    <length units="minutes">35</length>
-    <title>L'académie des 9</title>
-    <category>Jeu</category>
-    <desc>Sur le principe du morpion, 9 personnalités sont réparties dans les 9 cases du décor. Deux candidats s'affrontent en choisissant quel invité... (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Pierre Foucault</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207221000 +0100" stop="20151207222000 +0100">
-    <length units="minutes">10</length>
-    <title>Melody de ma vie</title>
-    <category>Magazine</category>
-    <desc>Un chanteur se raconte et évoque les artistes qui lui ont donné envie de faire sa carrière. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Frédéric Zeitoun</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207222000 +0100" stop="20151207224000 +0100">
-    <length units="minutes">20</length>
-    <title>Melody scopitones</title>
-    <category>Clips</category>
-    <desc>Une tranche de scopitones avec habillage et jingles. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207224000 +0100" stop="20151207224500 +0100">
-    <length units="minutes">5</length>
-    <title>Présentation variétés</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Pierre Pasqualini</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207224500 +0100" stop="20151207234500 +0100">
-    <length units="minutes">60</length>
-    <title>Passing Show</title>
-    <category>Variétés</category>
-    <desc>Une émission diffusée en décembre 1967. (Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Christophe Averty</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207234500 +0100" stop="20151207235000 +0100">
-    <length units="minutes">5</length>
-    <title>Présentation variétés</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Pierre Pasqualini</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151207235000 +0100" stop="20151208004000 +0100">
-    <length units="minutes">50</length>
-    <title>Rose d'Or festival de Juan les Pins</title>
-    <category>Variétés</category>
-    <desc>Une émission diffusée en juillet 1964. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208004000 +0100" stop="20151208004500 +0100">
-    <length units="minutes">5</length>
-    <title>Présentation concert</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208004500 +0100" stop="20151208021500 +0100">
-    <length units="minutes">90</length>
-    <title>Alors chante</title>
-    <category>Concert</category>
-    <desc>Un concert enregistré en septembre 2015. (Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208021500 +0100" stop="20151208022500 +0100">
-    <length units="minutes">10</length>
-    <title>Le mag</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208022500 +0100" stop="20151208023000 +0100">
-    <length units="minutes">5</length>
-    <title>Présentation variétés</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).</desc>
-    <credits>
-      <name function="presenter">Jean-Pierre Pasqualini</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151208023000 +0100" stop="20151208034000 +0100">
+  <programme channel="test" start="20151208003000 +0100" stop="20151208014000 +0100">
     <length units="minutes">70</length>
     <title>Bouvard en liberté</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en mai 1975. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208034000 +0100" stop="20151208043000 +0100">
+  <programme channel="test" start="20151208014000 +0100" stop="20151208023000 +0100">
     <length units="minutes">50</length>
     <title>Melody clips de nuit</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208043000 +0100" stop="20151208085000 +0100">
+  <programme channel="test" start="20151208023000 +0100" stop="20151208065000 +0100">
     <length units="minutes">260</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208085000 +0100" stop="20151208100000 +0100">
+  <programme channel="test" start="20151208065000 +0100" stop="20151208080000 +0100">
     <length units="minutes">70</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208100000 +0100" stop="20151208101000 +0100">
+  <programme channel="test" start="20151208080000 +0100" stop="20151208081000 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208101000 +0100" stop="20151208120000 +0100">
+  <programme channel="test" start="20151208081000 +0100" stop="20151208100000 +0100">
     <length units="minutes">110</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208120000 +0100" stop="20151208121000 +0100">
+  <programme channel="test" start="20151208100000 +0100" stop="20151208101000 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -389,7 +72,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208121000 +0100" stop="20151208123000 +0100">
+  <programme channel="test" start="20151208101000 +0100" stop="20151208103000 +0100">
     <length units="minutes">20</length>
     <title>Top Melody Vintage</title>
     <category>Clips</category>
@@ -399,14 +82,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208123000 +0100" stop="20151208130000 +0100">
+  <programme channel="test" start="20151208103000 +0100" stop="20151208110000 +0100">
     <length units="minutes">30</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208130000 +0100" stop="20151208130500 +0100">
+  <programme channel="test" start="20151208110000 +0100" stop="20151208110500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -416,7 +99,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208130500 +0100" stop="20151208134500 +0100">
+  <programme channel="test" start="20151208110500 +0100" stop="20151208114500 +0100">
     <length units="minutes">40</length>
     <title>Système Deux</title>
     <category>Variétés</category>
@@ -427,7 +110,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208134500 +0100" stop="20151208142000 +0100">
+  <programme channel="test" start="20151208114500 +0100" stop="20151208122000 +0100">
     <length units="minutes">35</length>
     <title>L'académie des 9</title>
     <category>Jeu</category>
@@ -437,7 +120,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208142000 +0100" stop="20151208142500 +0100">
+  <programme channel="test" start="20151208122000 +0100" stop="20151208122500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -447,28 +130,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208142500 +0100" stop="20151208152500 +0100">
+  <programme channel="test" start="20151208122500 +0100" stop="20151208132500 +0100">
     <length units="minutes">60</length>
     <title>Une rose sur la Deux</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en juillet 1971. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208152500 +0100" stop="20151208153500 +0100">
+  <programme channel="test" start="20151208132500 +0100" stop="20151208133500 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208153500 +0100" stop="20151208164500 +0100">
+  <programme channel="test" start="20151208133500 +0100" stop="20151208144500 +0100">
     <length units="minutes">70</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208164500 +0100" stop="20151208165500 +0100">
+  <programme channel="test" start="20151208144500 +0100" stop="20151208145500 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -478,7 +161,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208165500 +0100" stop="20151208170000 +0100">
+  <programme channel="test" start="20151208145500 +0100" stop="20151208150000 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -488,14 +171,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208170000 +0100" stop="20151208180000 +0100">
+  <programme channel="test" start="20151208150000 +0100" stop="20151208160000 +0100">
     <length units="minutes">60</length>
     <title>Top Club</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en juin 1978. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208180000 +0100" stop="20151208181000 +0100">
+  <programme channel="test" start="20151208160000 +0100" stop="20151208161000 +0100">
     <length units="minutes">10</length>
     <title>Melody 2 tubes</title>
     <category>Magazine</category>
@@ -505,35 +188,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208181000 +0100" stop="20151208182000 +0100">
+  <programme channel="test" start="20151208161000 +0100" stop="20151208162000 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208182000 +0100" stop="20151208182500 +0100">
+  <programme channel="test" start="20151208162000 +0100" stop="20151208162500 +0100">
     <length units="minutes">5</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208182500 +0100" stop="20151208183000 +0100">
+  <programme channel="test" start="20151208162500 +0100" stop="20151208163000 +0100">
     <length units="minutes">5</length>
     <title>Présentation</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208183000 +0100" stop="20151208193000 +0100">
+  <programme channel="test" start="20151208163000 +0100" stop="20151208173000 +0100">
     <length units="minutes">60</length>
     <title>Les chanteurs de charme</title>
     <category>Documentaire</category>
     <desc>Charles Aznavour et Hugues Aufray Une émission enregistrée en décembre 1977. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208193000 +0100" stop="20151208193500 +0100">
+  <programme channel="test" start="20151208173000 +0100" stop="20151208173500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -543,28 +226,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208193500 +0100" stop="20151208205000 +0100">
+  <programme channel="test" start="20151208173500 +0100" stop="20151208185000 +0100">
     <length units="minutes">75</length>
     <title>A l'affiche du monde</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en mars 1969. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208205000 +0100" stop="20151208210000 +0100">
+  <programme channel="test" start="20151208185000 +0100" stop="20151208190000 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208210000 +0100" stop="20151208212500 +0100">
+  <programme channel="test" start="20151208190000 +0100" stop="20151208192500 +0100">
     <length units="minutes">25</length>
     <title>Melody scopitones</title>
     <category>Clips</category>
     <desc>Une tranche de scopitones avec habillage et jingles. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208212500 +0100" stop="20151208213500 +0100">
+  <programme channel="test" start="20151208192500 +0100" stop="20151208193500 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -574,7 +257,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208213500 +0100" stop="20151208221000 +0100">
+  <programme channel="test" start="20151208193500 +0100" stop="20151208201000 +0100">
     <length units="minutes">35</length>
     <title>L'académie des 9</title>
     <category>Jeu</category>
@@ -584,7 +267,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208221000 +0100" stop="20151208222000 +0100">
+  <programme channel="test" start="20151208201000 +0100" stop="20151208202000 +0100">
     <length units="minutes">10</length>
     <title>Melody de ma vie</title>
     <category>Magazine</category>
@@ -594,7 +277,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208222000 +0100" stop="20151208224000 +0100">
+  <programme channel="test" start="20151208202000 +0100" stop="20151208204000 +0100">
     <length units="minutes">20</length>
     <title>La nouvelle séquence du spectateur</title>
     <category>Magazine</category>
@@ -604,14 +287,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151208224000 +0100" stop="20151208224500 +0100">
+  <programme channel="test" start="20151208204000 +0100" stop="20151208204500 +0100">
     <length units="minutes">5</length>
     <title>Présentation film</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151208224500 +0100" stop="20151209002500 +0100">
+  <programme channel="test" start="20151208204500 +0100" stop="20151208222500 +0100">
     <length units="minutes">100</length>
     <title>Je te tiens, tu me tiens par la barbichette (?)</title>
     <category>Film</category>
@@ -629,7 +312,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209002500 +0100" stop="20151209003000 +0100">
+  <programme channel="test" start="20151208222500 +0100" stop="20151208223000 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -639,14 +322,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209003000 +0100" stop="20151209012500 +0100">
+  <programme channel="test" start="20151208223000 +0100" stop="20151208232500 +0100">
     <length units="minutes">55</length>
     <title>Les rendez-vous du dimanche</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en mars 1976. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209012500 +0100" stop="20151209013000 +0100">
+  <programme channel="test" start="20151208232500 +0100" stop="20151208233000 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -656,35 +339,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209013000 +0100" stop="20151209022000 +0100">
+  <programme channel="test" start="20151208233000 +0100" stop="20151209002000 +0100">
     <length units="minutes">50</length>
     <title>Cadence 3</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en mai 1983. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209022000 +0100" stop="20151209041000 +0100">
+  <programme channel="test" start="20151209002000 +0100" stop="20151209021000 +0100">
     <length units="minutes">110</length>
     <title>Melody clips de nuit</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209041000 +0100" stop="20151209090000 +0100">
+  <programme channel="test" start="20151209021000 +0100" stop="20151209070000 +0100">
     <length units="minutes">290</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209090000 +0100" stop="20151209115500 +0100">
+  <programme channel="test" start="20151209070000 +0100" stop="20151209095500 +0100">
     <length units="minutes">175</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209115500 +0100" stop="20151209120500 +0100">
+  <programme channel="test" start="20151209095500 +0100" stop="20151209100500 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -694,7 +377,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209120500 +0100" stop="20151209125500 +0100">
+  <programme channel="test" start="20151209100500 +0100" stop="20151209105500 +0100">
     <length units="minutes">50</length>
     <title>Melody de ma vie</title>
     <category>Magazine</category>
@@ -704,14 +387,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209125500 +0100" stop="20151209130500 +0100">
+  <programme channel="test" start="20151209105500 +0100" stop="20151209110500 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209130500 +0100" stop="20151209131000 +0100">
+  <programme channel="test" start="20151209110500 +0100" stop="20151209111000 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -721,14 +404,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209131000 +0100" stop="20151209134500 +0100">
+  <programme channel="test" start="20151209111000 +0100" stop="20151209114500 +0100">
     <length units="minutes">35</length>
     <title>Artistes à la carte</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en mai 1985. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209134500 +0100" stop="20151209142000 +0100">
+  <programme channel="test" start="20151209114500 +0100" stop="20151209122000 +0100">
     <length units="minutes">35</length>
     <title>L'académie des 9</title>
     <category>Jeu</category>
@@ -738,7 +421,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209142000 +0100" stop="20151209142500 +0100">
+  <programme channel="test" start="20151209122000 +0100" stop="20151209122500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -748,14 +431,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209142500 +0100" stop="20151209155500 +0100">
+  <programme channel="test" start="20151209122500 +0100" stop="20151209135500 +0100">
     <length units="minutes">90</length>
     <title>Si le coeur vous en dit</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en juin 1972. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209155500 +0100" stop="20151209160500 +0100">
+  <programme channel="test" start="20151209135500 +0100" stop="20151209140500 +0100">
     <length units="minutes">10</length>
     <title>Melody 2 tubes</title>
     <category>Magazine</category>
@@ -765,21 +448,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209160500 +0100" stop="20151209161500 +0100">
+  <programme channel="test" start="20151209140500 +0100" stop="20151209141500 +0100">
     <length units="minutes">10</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209161500 +0100" stop="20151209162500 +0100">
+  <programme channel="test" start="20151209141500 +0100" stop="20151209142500 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209162500 +0100" stop="20151209164500 +0100">
+  <programme channel="test" start="20151209142500 +0100" stop="20151209144500 +0100">
     <length units="minutes">20</length>
     <title>La nouvelle séquence du spectateur</title>
     <category>Magazine</category>
@@ -789,7 +472,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209164500 +0100" stop="20151209165500 +0100">
+  <programme channel="test" start="20151209144500 +0100" stop="20151209145500 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -799,7 +482,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209165500 +0100" stop="20151209170000 +0100">
+  <programme channel="test" start="20151209145500 +0100" stop="20151209150000 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -809,21 +492,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209170000 +0100" stop="20151209181000 +0100">
+  <programme channel="test" start="20151209150000 +0100" stop="20151209161000 +0100">
     <length units="minutes">70</length>
     <title>Télé Dimanche</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en décembre 1965. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209181000 +0100" stop="20151209183000 +0100">
+  <programme channel="test" start="20151209161000 +0100" stop="20151209163000 +0100">
     <length units="minutes">20</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209183000 +0100" stop="20151209183500 +0100">
+  <programme channel="test" start="20151209163000 +0100" stop="20151209163500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -833,42 +516,42 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209183500 +0100" stop="20151209193500 +0100">
+  <programme channel="test" start="20151209163500 +0100" stop="20151209173500 +0100">
     <length units="minutes">60</length>
     <title>Miroir du temps présent</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en août 1974. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209193500 +0100" stop="20151209194500 +0100">
+  <programme channel="test" start="20151209173500 +0100" stop="20151209174500 +0100">
     <length units="minutes">10</length>
     <title>Melody Collector</title>
     <category>Magazine</category>
     <desc>Spécial clips Melody on the Rock Les meilleurs clips, scopitones et extraits de concerts des années 60 et 70. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209194500 +0100" stop="20151209195000 +0100">
+  <programme channel="test" start="20151209174500 +0100" stop="20151209175000 +0100">
     <length units="minutes">5</length>
     <title>Présentation</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209195000 +0100" stop="20151209210000 +0100">
+  <programme channel="test" start="20151209175000 +0100" stop="20151209190000 +0100">
     <length units="minutes">70</length>
     <title>Format 16/20</title>
     <category>Magazine</category>
     <desc>Une émission diffusée en janvier 1964. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209210000 +0100" stop="20151209212500 +0100">
+  <programme channel="test" start="20151209190000 +0100" stop="20151209192500 +0100">
     <length units="minutes">25</length>
     <title>Melody scopitones</title>
     <category>Clips</category>
     <desc>Une tranche de scopitones avec habillage et jingles. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209212500 +0100" stop="20151209213500 +0100">
+  <programme channel="test" start="20151209192500 +0100" stop="20151209193500 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -878,7 +561,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209213500 +0100" stop="20151209221000 +0100">
+  <programme channel="test" start="20151209193500 +0100" stop="20151209201000 +0100">
     <length units="minutes">35</length>
     <title>L'académie des 9</title>
     <category>Jeu</category>
@@ -888,7 +571,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209221000 +0100" stop="20151209222000 +0100">
+  <programme channel="test" start="20151209201000 +0100" stop="20151209202000 +0100">
     <length units="minutes">10</length>
     <title>Melody de ma vie</title>
     <category>Magazine</category>
@@ -898,7 +581,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209222000 +0100" stop="20151209224000 +0100">
+  <programme channel="test" start="20151209202000 +0100" stop="20151209204000 +0100">
     <length units="minutes">20</length>
     <title>Hit Melody Vintage</title>
     <category>Clips</category>
@@ -908,35 +591,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151209224000 +0100" stop="20151209224500 +0100">
+  <programme channel="test" start="20151209204000 +0100" stop="20151209204500 +0100">
     <length units="minutes">5</length>
     <title>Présentation concert</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151209224500 +0100" stop="20151210001500 +0100">
+  <programme channel="test" start="20151209204500 +0100" stop="20151209221500 +0100">
     <length units="minutes">90</length>
     <title>Jazz à Vienne</title>
     <category>Concert</category>
     <desc>Earth, Wind and Fire Un concert enregistré en juillet 2012. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210001500 +0100" stop="20151210002000 +0100">
+  <programme channel="test" start="20151209221500 +0100" stop="20151209222000 +0100">
     <length units="minutes">5</length>
     <title>Présentation concert</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210002000 +0100" stop="20151210015000 +0100">
+  <programme channel="test" start="20151209222000 +0100" stop="20151209235000 +0100">
     <length units="minutes">90</length>
     <title>Alors chante</title>
     <category>Concert</category>
     <desc>Un concert enregistré en septembre 2015. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210015000 +0100" stop="20151210015500 +0100">
+  <programme channel="test" start="20151209235000 +0100" stop="20151209235500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -946,56 +629,56 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210015500 +0100" stop="20151210030000 +0100">
+  <programme channel="test" start="20151209235500 +0100" stop="20151210010000 +0100">
     <length units="minutes">65</length>
     <title>La bonne étoile</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en mars 1983. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210030000 +0100" stop="20151210031000 +0100">
+  <programme channel="test" start="20151210010000 +0100" stop="20151210011000 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210031000 +0100" stop="20151210034000 +0100">
+  <programme channel="test" start="20151210011000 +0100" stop="20151210014000 +0100">
     <length units="minutes">30</length>
     <title>Melody clips de nuit</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210034000 +0100" stop="20151210085000 +0100">
+  <programme channel="test" start="20151210014000 +0100" stop="20151210065000 +0100">
     <length units="minutes">310</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210085000 +0100" stop="20151210094000 +0100">
+  <programme channel="test" start="20151210065000 +0100" stop="20151210074000 +0100">
     <length units="minutes">50</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210094000 +0100" stop="20151210095000 +0100">
+  <programme channel="test" start="20151210074000 +0100" stop="20151210075000 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210095000 +0100" stop="20151210120000 +0100">
+  <programme channel="test" start="20151210075000 +0100" stop="20151210100000 +0100">
     <length units="minutes">130</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210120000 +0100" stop="20151210121000 +0100">
+  <programme channel="test" start="20151210100000 +0100" stop="20151210101000 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -1005,14 +688,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210121000 +0100" stop="20151210123000 +0100">
+  <programme channel="test" start="20151210101000 +0100" stop="20151210103000 +0100">
     <length units="minutes">20</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210123000 +0100" stop="20151210123500 +0100">
+  <programme channel="test" start="20151210103000 +0100" stop="20151210103500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1022,7 +705,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210123500 +0100" stop="20151210133500 +0100">
+  <programme channel="test" start="20151210103500 +0100" stop="20151210113500 +0100">
     <length units="minutes">60</length>
     <title>Passing Show</title>
     <category>Variétés</category>
@@ -1032,14 +715,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210133500 +0100" stop="20151210134500 +0100">
+  <programme channel="test" start="20151210113500 +0100" stop="20151210114500 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210134500 +0100" stop="20151210142000 +0100">
+  <programme channel="test" start="20151210114500 +0100" stop="20151210122000 +0100">
     <length units="minutes">35</length>
     <title>L'académie des 9</title>
     <category>Jeu</category>
@@ -1049,7 +732,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210142000 +0100" stop="20151210142500 +0100">
+  <programme channel="test" start="20151210122000 +0100" stop="20151210122500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1059,14 +742,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210142500 +0100" stop="20151210154000 +0100">
+  <programme channel="test" start="20151210122500 +0100" stop="20151210134000 +0100">
     <length units="minutes">75</length>
     <title>La nouvelle affiche</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en avril 1987. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210154000 +0100" stop="20151210160000 +0100">
+  <programme channel="test" start="20151210134000 +0100" stop="20151210140000 +0100">
     <length units="minutes">20</length>
     <title>Top Melody Vintage</title>
     <category>Clips</category>
@@ -1076,14 +759,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210160000 +0100" stop="20151210164500 +0100">
+  <programme channel="test" start="20151210140000 +0100" stop="20151210144500 +0100">
     <length units="minutes">45</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210164500 +0100" stop="20151210165500 +0100">
+  <programme channel="test" start="20151210144500 +0100" stop="20151210145500 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -1093,21 +776,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210165500 +0100" stop="20151210170000 +0100">
+  <programme channel="test" start="20151210145500 +0100" stop="20151210150000 +0100">
     <length units="minutes">5</length>
     <title>Présentation</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210170000 +0100" stop="20151210175500 +0100">
+  <programme channel="test" start="20151210150000 +0100" stop="20151210155500 +0100">
     <length units="minutes">55</length>
     <title>Le temps des Yéyés</title>
     <category>Documentaire</category>
     <desc>Une émission enregistrée en janvier 1980, avec Catherine Ringer notamment. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210175500 +0100" stop="20151210181500 +0100">
+  <programme channel="test" start="20151210155500 +0100" stop="20151210161500 +0100">
     <length units="minutes">20</length>
     <title>Hit Melody Vintage</title>
     <category>Clips</category>
@@ -1117,21 +800,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210181500 +0100" stop="20151210182500 +0100">
+  <programme channel="test" start="20151210161500 +0100" stop="20151210162500 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210182500 +0100" stop="20151210183500 +0100">
+  <programme channel="test" start="20151210162500 +0100" stop="20151210163500 +0100">
     <length units="minutes">10</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210183500 +0100" stop="20151210184000 +0100">
+  <programme channel="test" start="20151210163500 +0100" stop="20151210164000 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1141,35 +824,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210184000 +0100" stop="20151210193500 +0100">
+  <programme channel="test" start="20151210164000 +0100" stop="20151210173500 +0100">
     <length units="minutes">55</length>
     <title>Les rendez-vous du dimanche</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en mars 1976. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210193500 +0100" stop="20151210195000 +0100">
+  <programme channel="test" start="20151210173500 +0100" stop="20151210175000 +0100">
     <length units="minutes">15</length>
     <title>Melody Collector</title>
     <category>Magazine</category>
     <desc>Les meilleurs clips, scopitones et extraits de concerts des années 60 et 70. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210195000 +0100" stop="20151210195500 +0100">
+  <programme channel="test" start="20151210175000 +0100" stop="20151210175500 +0100">
     <length units="minutes">5</length>
     <title>Présentation concert</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210195500 +0100" stop="20151210212500 +0100">
+  <programme channel="test" start="20151210175500 +0100" stop="20151210192500 +0100">
     <length units="minutes">90</length>
     <title>Jazz à Vienne</title>
     <category>Concert</category>
     <desc>Earth, Wind and Fire Un concert enregistré en juillet 2012. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210212500 +0100" stop="20151210213500 +0100">
+  <programme channel="test" start="20151210192500 +0100" stop="20151210193500 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -1179,7 +862,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210213500 +0100" stop="20151210221000 +0100">
+  <programme channel="test" start="20151210193500 +0100" stop="20151210201000 +0100">
     <length units="minutes">35</length>
     <title>L'académie des 9</title>
     <category>Jeu</category>
@@ -1189,7 +872,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210221000 +0100" stop="20151210222000 +0100">
+  <programme channel="test" start="20151210201000 +0100" stop="20151210202000 +0100">
     <length units="minutes">10</length>
     <title>Melody de ma vie</title>
     <category>Magazine</category>
@@ -1199,14 +882,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210222000 +0100" stop="20151210223000 +0100">
+  <programme channel="test" start="20151210202000 +0100" stop="20151210203000 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151210223000 +0100" stop="20151210224000 +0100">
+  <programme channel="test" start="20151210203000 +0100" stop="20151210204000 +0100">
     <length units="minutes">10</length>
     <title>Melody 2 tubes</title>
     <category>Magazine</category>
@@ -1216,7 +899,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210224000 +0100" stop="20151210224500 +0100">
+  <programme channel="test" start="20151210204000 +0100" stop="20151210204500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1226,14 +909,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151210224500 +0100" stop="20151211002000 +0100">
+  <programme channel="test" start="20151210204500 +0100" stop="20151210222000 +0100">
     <length units="minutes">95</length>
     <title>Ferrat 85</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en novembre 1985. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211002000 +0100" stop="20151211002500 +0100">
+  <programme channel="test" start="20151210222000 +0100" stop="20151210222500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1243,7 +926,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211002500 +0100" stop="20151211012500 +0100">
+  <programme channel="test" start="20151210222500 +0100" stop="20151210232500 +0100">
     <length units="minutes">60</length>
     <title>Variétés jeunesse</title>
     <category>Variétés</category>
@@ -1253,7 +936,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211012500 +0100" stop="20151211013000 +0100">
+  <programme channel="test" start="20151210232500 +0100" stop="20151210233000 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1263,14 +946,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211013000 +0100" stop="20151211024000 +0100">
+  <programme channel="test" start="20151210233000 +0100" stop="20151211004000 +0100">
     <length units="minutes">70</length>
     <title>Podium 70</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en mai 1970. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211024000 +0100" stop="20151211024500 +0100">
+  <programme channel="test" start="20151211004000 +0100" stop="20151211004500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1280,14 +963,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211024500 +0100" stop="20151211033500 +0100">
+  <programme channel="test" start="20151211004500 +0100" stop="20151211013500 +0100">
     <length units="minutes">50</length>
     <title>Rose d'Or festival de Juan les Pins</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en juillet 1964. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211033500 +0100" stop="20151211035500 +0100">
+  <programme channel="test" start="20151211013500 +0100" stop="20151211015500 +0100">
     <length units="minutes">20</length>
     <title>La nouvelle séquence du spectateur</title>
     <category>Magazine</category>
@@ -1297,35 +980,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211035500 +0100" stop="20151211043000 +0100">
+  <programme channel="test" start="20151211015500 +0100" stop="20151211023000 +0100">
     <length units="minutes">35</length>
     <title>Melody clips de nuit</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211043000 +0100" stop="20151211083000 +0100">
+  <programme channel="test" start="20151211023000 +0100" stop="20151211063000 +0100">
     <length units="minutes">240</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211083000 +0100" stop="20151211103000 +0100">
+  <programme channel="test" start="20151211063000 +0100" stop="20151211083000 +0100">
     <length units="minutes">120</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211103000 +0100" stop="20151211104000 +0100">
+  <programme channel="test" start="20151211083000 +0100" stop="20151211084000 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211104000 +0100" stop="20151211110000 +0100">
+  <programme channel="test" start="20151211084000 +0100" stop="20151211090000 +0100">
     <length units="minutes">20</length>
     <title>Hit Melody Vintage</title>
     <category>Clips</category>
@@ -1335,14 +1018,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211110000 +0100" stop="20151211120000 +0100">
+  <programme channel="test" start="20151211090000 +0100" stop="20151211100000 +0100">
     <length units="minutes">60</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211120000 +0100" stop="20151211121000 +0100">
+  <programme channel="test" start="20151211100000 +0100" stop="20151211101000 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -1352,14 +1035,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211121000 +0100" stop="20151211122500 +0100">
+  <programme channel="test" start="20151211101000 +0100" stop="20151211102500 +0100">
     <length units="minutes">15</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211122500 +0100" stop="20151211123500 +0100">
+  <programme channel="test" start="20151211102500 +0100" stop="20151211103500 +0100">
     <length units="minutes">10</length>
     <title>Melody 2 tubes</title>
     <category>Magazine</category>
@@ -1369,7 +1052,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211123500 +0100" stop="20151211124000 +0100">
+  <programme channel="test" start="20151211103500 +0100" stop="20151211104000 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1379,14 +1062,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211124000 +0100" stop="20151211134500 +0100">
+  <programme channel="test" start="20151211104000 +0100" stop="20151211114500 +0100">
     <length units="minutes">65</length>
     <title>La bonne étoile</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en mars 1983. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211134500 +0100" stop="20151211142000 +0100">
+  <programme channel="test" start="20151211114500 +0100" stop="20151211122000 +0100">
     <length units="minutes">35</length>
     <title>L'académie des 9</title>
     <category>Jeu</category>
@@ -1396,21 +1079,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211142000 +0100" stop="20151211142500 +0100">
+  <programme channel="test" start="20151211122000 +0100" stop="20151211122500 +0100">
     <length units="minutes">5</length>
     <title>Présentation concert</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211142500 +0100" stop="20151211155500 +0100">
+  <programme channel="test" start="20151211122500 +0100" stop="20151211135500 +0100">
     <length units="minutes">90</length>
     <title>Jazz à Vienne</title>
     <category>Concert</category>
     <desc>Earth, Wind and Fire Un concert enregistré en juillet 2012. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211155500 +0100" stop="20151211164500 +0100">
+  <programme channel="test" start="20151211135500 +0100" stop="20151211144500 +0100">
     <length units="minutes">50</length>
     <title>Melody de ma vie</title>
     <category>Magazine</category>
@@ -1420,7 +1103,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211164500 +0100" stop="20151211165500 +0100">
+  <programme channel="test" start="20151211144500 +0100" stop="20151211145500 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -1430,7 +1113,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211165500 +0100" stop="20151211170000 +0100">
+  <programme channel="test" start="20151211145500 +0100" stop="20151211150000 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1440,35 +1123,35 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211170000 +0100" stop="20151211172000 +0100">
+  <programme channel="test" start="20151211150000 +0100" stop="20151211152000 +0100">
     <length units="minutes">20</length>
     <title>Vient de paraître</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en mai 1966. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211172000 +0100" stop="20151211173500 +0100">
+  <programme channel="test" start="20151211152000 +0100" stop="20151211153500 +0100">
     <length units="minutes">15</length>
     <title>Melody Collector</title>
     <category>Magazine</category>
     <desc>Spécial clips Michel Polnareff Les meilleurs clips du chanteur au look singulier et à la voix d'or, Michel Polnareff. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211173500 +0100" stop="20151211174500 +0100">
+  <programme channel="test" start="20151211153500 +0100" stop="20151211154500 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211174500 +0100" stop="20151211182000 +0100">
+  <programme channel="test" start="20151211154500 +0100" stop="20151211162000 +0100">
     <length units="minutes">35</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211182000 +0100" stop="20151211182500 +0100">
+  <programme channel="test" start="20151211162000 +0100" stop="20151211162500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1478,28 +1161,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211182500 +0100" stop="20151211194000 +0100">
+  <programme channel="test" start="20151211162500 +0100" stop="20151211174000 +0100">
     <length units="minutes">75</length>
     <title>Podium 70</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en juin 1970. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211194000 +0100" stop="20151211201000 +0100">
+  <programme channel="test" start="20151211174000 +0100" stop="20151211181000 +0100">
     <length units="minutes">30</length>
     <title>Melody Collector</title>
     <category>Magazine</category>
     <desc>Les meilleurs clips, scopitones et extraits de concerts des années 60 et 70. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211201000 +0100" stop="20151211202000 +0100">
+  <programme channel="test" start="20151211181000 +0100" stop="20151211182000 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211202000 +0100" stop="20151211202500 +0100">
+  <programme channel="test" start="20151211182000 +0100" stop="20151211182500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1509,7 +1192,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211202500 +0100" stop="20151211210500 +0100">
+  <programme channel="test" start="20151211182500 +0100" stop="20151211190500 +0100">
     <length units="minutes">40</length>
     <title>Système Deux</title>
     <category>Variétés</category>
@@ -1520,14 +1203,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211210500 +0100" stop="20151211212500 +0100">
+  <programme channel="test" start="20151211190500 +0100" stop="20151211192500 +0100">
     <length units="minutes">20</length>
     <title>Melody scopitones</title>
     <category>Clips</category>
     <desc>Une tranche de scopitones avec habillage et jingles. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151211212500 +0100" stop="20151211213500 +0100">
+  <programme channel="test" start="20151211192500 +0100" stop="20151211193500 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -1537,7 +1220,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211213500 +0100" stop="20151211221000 +0100">
+  <programme channel="test" start="20151211193500 +0100" stop="20151211201000 +0100">
     <length units="minutes">35</length>
     <title>L'académie des 9</title>
     <category>Jeu</category>
@@ -1547,7 +1230,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211221000 +0100" stop="20151211222000 +0100">
+  <programme channel="test" start="20151211201000 +0100" stop="20151211202000 +0100">
     <length units="minutes">10</length>
     <title>Melody de ma vie</title>
     <category>Magazine</category>
@@ -1557,7 +1240,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211222000 +0100" stop="20151211224000 +0100">
+  <programme channel="test" start="20151211202000 +0100" stop="20151211204000 +0100">
     <length units="minutes">20</length>
     <title>Top Melody Vintage</title>
     <category>Clips</category>
@@ -1567,7 +1250,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211224000 +0100" stop="20151211224500 +0100">
+  <programme channel="test" start="20151211204000 +0100" stop="20151211204500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1577,7 +1260,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211224500 +0100" stop="20151211234500 +0100">
+  <programme channel="test" start="20151211204500 +0100" stop="20151211214500 +0100">
     <length units="minutes">60</length>
     <title>Suivez Lecoq</title>
     <category>Variétés</category>
@@ -1587,7 +1270,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211234500 +0100" stop="20151211235000 +0100">
+  <programme channel="test" start="20151211214500 +0100" stop="20151211215000 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1597,63 +1280,63 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151211235000 +0100" stop="20151212002500 +0100">
+  <programme channel="test" start="20151211215000 +0100" stop="20151211222500 +0100">
     <length units="minutes">35</length>
     <title>Artistes à la carte</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en mai 1985. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212002500 +0100" stop="20151212003500 +0100">
+  <programme channel="test" start="20151211222500 +0100" stop="20151211223500 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212003500 +0100" stop="20151212004000 +0100">
+  <programme channel="test" start="20151211223500 +0100" stop="20151211224000 +0100">
     <length units="minutes">5</length>
     <title>Présentation</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212004000 +0100" stop="20151212015000 +0100">
+  <programme channel="test" start="20151211224000 +0100" stop="20151211235000 +0100">
     <length units="minutes">70</length>
     <title>Format 16/20</title>
     <category>Magazine</category>
     <desc>Une émission diffusée en janvier 1964. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212015000 +0100" stop="20151212020000 +0100">
+  <programme channel="test" start="20151211235000 +0100" stop="20151212000000 +0100">
     <length units="minutes">10</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212020000 +0100" stop="20151212041000 +0100">
+  <programme channel="test" start="20151212000000 +0100" stop="20151212021000 +0100">
     <length units="minutes">130</length>
     <title>Melody clips de nuit</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212041000 +0100" stop="20151212085000 +0100">
+  <programme channel="test" start="20151212021000 +0100" stop="20151212065000 +0100">
     <length units="minutes">280</length>
     <title>Programmes de la nuit</title>
     <category />
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212085000 +0100" stop="20151212105500 +0100">
+  <programme channel="test" start="20151212065000 +0100" stop="20151212085500 +0100">
     <length units="minutes">125</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212105500 +0100" stop="20151212114500 +0100">
+  <programme channel="test" start="20151212085500 +0100" stop="20151212094500 +0100">
     <length units="minutes">50</length>
     <title>Melody de ma vie</title>
     <category>Magazine</category>
@@ -1663,21 +1346,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212114500 +0100" stop="20151212115000 +0100">
+  <programme channel="test" start="20151212094500 +0100" stop="20151212095000 +0100">
     <length units="minutes">5</length>
     <title>Présentation</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212115000 +0100" stop="20151212125000 +0100">
+  <programme channel="test" start="20151212095000 +0100" stop="20151212105000 +0100">
     <length units="minutes">60</length>
     <title>Les chanteurs de charme</title>
     <category>Documentaire</category>
     <desc>Charles Aznavour et Hugues Aufray Une émission enregistrée en décembre 1977. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212125000 +0100" stop="20151212130000 +0100">
+  <programme channel="test" start="20151212105000 +0100" stop="20151212110000 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -1687,28 +1370,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212130000 +0100" stop="20151212131000 +0100">
+  <programme channel="test" start="20151212110000 +0100" stop="20151212111000 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212131000 +0100" stop="20151212131500 +0100">
+  <programme channel="test" start="20151212111000 +0100" stop="20151212111500 +0100">
     <length units="minutes">5</length>
     <title>Présentation concert</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212131500 +0100" stop="20151212144500 +0100">
+  <programme channel="test" start="20151212111500 +0100" stop="20151212124500 +0100">
     <length units="minutes">90</length>
     <title>Jazz à Vienne</title>
     <category>Concert</category>
     <desc>Earth, Wind and Fire Un concert enregistré en juillet 2012. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212144500 +0100" stop="20151212150500 +0100">
+  <programme channel="test" start="20151212124500 +0100" stop="20151212130500 +0100">
     <length units="minutes">20</length>
     <title>Top Melody Vintage</title>
     <category>Clips</category>
@@ -1718,7 +1401,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212150500 +0100" stop="20151212151000 +0100">
+  <programme channel="test" start="20151212130500 +0100" stop="20151212131000 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1728,28 +1411,28 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212151000 +0100" stop="20151212161000 +0100">
+  <programme channel="test" start="20151212131000 +0100" stop="20151212141000 +0100">
     <length units="minutes">60</length>
     <title>Top Club</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en juin 1978. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212161000 +0100" stop="20151212163500 +0100">
+  <programme channel="test" start="20151212141000 +0100" stop="20151212143500 +0100">
     <length units="minutes">25</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212163500 +0100" stop="20151212164500 +0100">
+  <programme channel="test" start="20151212143500 +0100" stop="20151212144500 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212164500 +0100" stop="20151212165500 +0100">
+  <programme channel="test" start="20151212144500 +0100" stop="20151212145500 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -1759,7 +1442,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212165500 +0100" stop="20151212170000 +0100">
+  <programme channel="test" start="20151212145500 +0100" stop="20151212150000 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1769,21 +1452,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212170000 +0100" stop="20151212175000 +0100">
+  <programme channel="test" start="20151212150000 +0100" stop="20151212155000 +0100">
     <length units="minutes">50</length>
     <title>Cadence 3</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en mai 1983. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212175000 +0100" stop="20151212181500 +0100">
+  <programme channel="test" start="20151212155000 +0100" stop="20151212161500 +0100">
     <length units="minutes">25</length>
     <title>Melody Collector</title>
     <category>Magazine</category>
     <desc>Les meilleurs clips, scopitones et extraits de concerts des années 60 et 70. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212181500 +0100" stop="20151212182000 +0100">
+  <programme channel="test" start="20151212161500 +0100" stop="20151212162000 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1793,14 +1476,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212182000 +0100" stop="20151212192000 +0100">
+  <programme channel="test" start="20151212162000 +0100" stop="20151212172000 +0100">
     <length units="minutes">60</length>
     <title>Une rose sur la Deux</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en juillet 1971. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212192000 +0100" stop="20151212192500 +0100">
+  <programme channel="test" start="20151212172000 +0100" stop="20151212172500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1810,21 +1493,21 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212192500 +0100" stop="20151212210000 +0100">
+  <programme channel="test" start="20151212172500 +0100" stop="20151212190000 +0100">
     <length units="minutes">95</length>
     <title>Ferrat 85</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en novembre 1985. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212210000 +0100" stop="20151212212500 +0100">
+  <programme channel="test" start="20151212190000 +0100" stop="20151212192500 +0100">
     <length units="minutes">25</length>
     <title>Melody scopitones</title>
     <category>Clips</category>
     <desc>Une tranche de scopitones avec habillage et jingles. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212212500 +0100" stop="20151212214500 +0100">
+  <programme channel="test" start="20151212192500 +0100" stop="20151212194500 +0100">
     <length units="minutes">20</length>
     <title>Hit Melody Vintage</title>
     <category>Clips</category>
@@ -1834,14 +1517,14 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212214500 +0100" stop="20151212215500 +0100">
+  <programme channel="test" start="20151212194500 +0100" stop="20151212195500 +0100">
     <length units="minutes">10</length>
     <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212215500 +0100" stop="20151212223000 +0100">
+  <programme channel="test" start="20151212195500 +0100" stop="20151212203000 +0100">
     <length units="minutes">35</length>
     <title>L'académie des 9</title>
     <category>Jeu</category>
@@ -1851,7 +1534,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212223000 +0100" stop="20151212224000 +0100">
+  <programme channel="test" start="20151212203000 +0100" stop="20151212204000 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -1861,7 +1544,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212224000 +0100" stop="20151212224500 +0100">
+  <programme channel="test" start="20151212204000 +0100" stop="20151212204500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -1871,86 +1554,343 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151212224500 +0100" stop="20151212235500 +0100">
+  <programme channel="test" start="20151212204500 +0100" stop="20151212215500 +0100">
     <length units="minutes">70</length>
     <title>Allô Charles</title>
     <category>Variétés</category>
     <desc>Une émission diffusée en décembre 1977. (Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151212235500 +0100" stop="20151213010000 +0100">
+  <programme channel="test" start="20151212215500 +0100" stop="20151212230000 +0100">
     <length units="minutes">65</length>
     <title>Soirée dansante</title>
     <category>Clips</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213010000 +0100" stop="20151213020000 +0100">
+  <programme channel="test" start="20151212230000 +0100" stop="20151213000000 +0100">
     <length units="minutes">60</length>
     <title>Melody karaoké</title>
     <category>Magazine</category>
     <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213020000 +0100" stop="20151213041000 +0100">
+  <programme channel="test" start="20151213000000 +0100" stop="20151213021000 +0100">
     <length units="minutes">130</length>
     <title>Melody clips de nuit</title>
     <category>Clips</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213041000 +0100" stop="20151213083000 +0100">
+  <programme channel="test" start="20151213021000 +0100" stop="20151213063000 +0100">
     <length units="minutes">260</length>
     <title>Programmes de la nuit</title>
     <category />
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213083000 +0100" stop="20151213112000 +0100">
+  <programme channel="test" start="20151213063000 +0100" stop="20151213092000 +0100">
     <length units="minutes">170</length>
     <title>Melody clips cultes</title>
     <category>Clips</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213112000 +0100" stop="20151213115000 +0100">
+  <programme channel="test" start="20151213092000 +0100" stop="20151213095000 +0100">
     <length units="minutes">30</length>
     <title>Michael Bublé fête Noël</title>
     <category>Concert</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213115000 +0100" stop="20151213120000 +0100">
+  <programme channel="test" start="20151213095000 +0100" stop="20151213100000 +0100">
     <length units="minutes">10</length>
     <title>Melody 2 tubes</title>
     <category>Magazine</category>
-    <desc>Thierry Cadet revient sur la genèse d'un tube et sa reprise. (Lire la suite).(n)</desc>
+    <desc>Thierry Cadet revient sur la genèse d'un tube et sa reprise. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Thierry Cadet</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213120000 +0100" stop="20151213120500 +0100">
+  <programme channel="test" start="20151213100000 +0100" stop="20151213100500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
+    <desc>(Lire la suite).</desc>
     <credits>
       <name function="presenter">Jean-Pierre Pasqualini</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213120500 +0100" stop="20151213130500 +0100">
+  <programme channel="test" start="20151213100500 +0100" stop="20151213110500 +0100">
     <length units="minutes">60</length>
     <title>Suivez Lecoq</title>
     <category>Variétés</category>
-    <desc>Une émission diffusée en mai 1980. (Lire la suite).(n)</desc>
+    <desc>Une émission diffusée en mai 1980. (Lire la suite).</desc>
     <credits>
       <name function="presenter">Yves Lecoq</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213130500 +0100" stop="20151213131500 +0100">
+  <programme channel="test" start="20151213110500 +0100" stop="20151213111500 +0100">
+    <length units="minutes">10</length>
+    <title>Melody Story</title>
+    <category>Magazine</category>
+    <desc>Chaque jour, Frédéric Zeitoun retrace l'histoire d'une chanson sous un angle souvent original et inattendu. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Frédéric Zeitoun</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213111500 +0100" stop="20151213114000 +0100">
+    <length units="minutes">25</length>
+    <title>Melody clips cultes</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213114000 +0100" stop="20151213114500 +0100">
+    <length units="minutes">5</length>
+    <title>Présentation variétés</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Jean-Pierre Pasqualini</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213114500 +0100" stop="20151213124500 +0100">
+    <length units="minutes">60</length>
+    <title>Variétés jeunesse</title>
+    <category>Variétés</category>
+    <desc>Une émission réalisée par Raoul Sangla. Diffusée pour la première fois le 23 octobre 1968. Frank Zappa débarque pour la première fois en France... (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Philippe Koechlin</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213124500 +0100" stop="20151213130500 +0100">
+    <length units="minutes">20</length>
+    <title>Hit Melody Vintage</title>
+    <category>Clips</category>
+    <desc>Une sélection des meilleurs tubes de la période 1962 à 1983. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Christophe Daniel</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213130500 +0100" stop="20151213131000 +0100">
+    <length units="minutes">5</length>
+    <title>Présentation variétés</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Jean-Pierre Pasqualini</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213131000 +0100" stop="20151213142000 +0100">
+    <length units="minutes">70</length>
+    <title>Podium 70</title>
+    <category>Variétés</category>
+    <desc>Une émission diffusée en mai 1970. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213142000 +0100" stop="20151213144500 +0100">
+    <length units="minutes">25</length>
+    <title>Melody clips cultes</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213144500 +0100" stop="20151213145500 +0100">
+    <length units="minutes">10</length>
+    <title>Melody Story</title>
+    <category>Magazine</category>
+    <desc>Chaque jour, Frédéric Zeitoun retrace l'histoire d'une chanson sous un angle souvent original et inattendu. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Frédéric Zeitoun</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213145500 +0100" stop="20151213150000 +0100">
+    <length units="minutes">5</length>
+    <title>Présentation concert</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213150000 +0100" stop="20151213163000 +0100">
+    <length units="minutes">90</length>
+    <title>Jazz à Vienne</title>
+    <category>Concert</category>
+    <desc>Earth, Wind and Fire Un concert enregistré en juillet 2012. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213163000 +0100" stop="20151213163500 +0100">
+    <length units="minutes">5</length>
+    <title>Présentation variétés</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Jean-Pierre Pasqualini</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213163500 +0100" stop="20151213172500 +0100">
+    <length units="minutes">50</length>
+    <title>Rose d'Or festival de Juan les Pins</title>
+    <category>Variétés</category>
+    <desc>Une émission diffusée en juillet 1964. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213172500 +0100" stop="20151213174500 +0100">
+    <length units="minutes">20</length>
+    <title>Melody Collector</title>
+    <category>Magazine</category>
+    <desc>Les meilleurs clips, scopitones et extraits de concerts des années 60 et 70. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213174500 +0100" stop="20151213175000 +0100">
+    <length units="minutes">5</length>
+    <title>Présentation variétés</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Jean-Pierre Pasqualini</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213175000 +0100" stop="20151213190000 +0100">
+    <length units="minutes">70</length>
+    <title>Bouvard en liberté</title>
+    <category>Variétés</category>
+    <desc>Une émission diffusée en mai 1975. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213190000 +0100" stop="20151213193000 +0100">
+    <length units="minutes">30</length>
+    <title>Melody karaoké</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213193000 +0100" stop="20151213195500 +0100">
+    <length units="minutes">25</length>
+    <title>Melody scopitones</title>
+    <category>Clips</category>
+    <desc>Une tranche de scopitones avec habillage et jingles. (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213195500 +0100" stop="20151213200500 +0100">
+    <length units="minutes">10</length>
+    <title>Melody Story</title>
+    <category>Magazine</category>
+    <desc>Chaque jour, Frédéric Zeitoun retrace l'histoire d'une chanson sous un angle souvent original et inattendu. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Frédéric Zeitoun</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213200500 +0100" stop="20151213204000 +0100">
+    <length units="minutes">35</length>
+    <title>Générations Melody</title>
+    <category>Magazine</category>
+    <desc>Nicolas Peyrac / Sofia Essaïdi Deux artistes issus de générations et/ou d'univers musicaux différents, ayant travaillé ensemble, se racontent et lèvent le voile sur leur... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213204000 +0100" stop="20151213204500 +0100">
+    <length units="minutes">5</length>
+    <title>Présentation</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213204500 +0100" stop="20151213214500 +0100">
+    <length units="minutes">60</length>
+    <title>Souvenirs</title>
+    <category>Documentaire</category>
+    <desc>Edith Piaf Sur les traces de la Môme à travers des témoignages rares de ses proches disparus et également des professionnels qui ont lancé sa... (Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213214500 +0100" stop="20151213220500 +0100">
+    <length units="minutes">20</length>
+    <title>La nouvelle séquence du spectateur</title>
+    <category>Magazine</category>
+    <desc>Pour tout savoir sur les sorties DVD des films musicaux, biopics et films avec des stars de la chanson. (Lire la suite).</desc>
+    <credits>
+      <name function="presenter">Henry-Jean Servat</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213220500 +0100" stop="20151213221000 +0100">
+    <length units="minutes">5</length>
+    <title>Présentation film</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213221000 +0100" stop="20151213234500 +0100">
+    <length units="minutes">95</length>
+    <title>Téléphone public (?)</title>
+    <category>Film</category>
+    <desc>A peine sortis de l'adolescence et tout juste propulsés sur scène, les quatre musiciens de Téléphone, groupe formé en 1976, deviennent en... (Lire la suite).(r)</desc>
+    <credits>
+      <name function="director">Jean-Marie Périer</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151213234500 +0100" stop="20151214001500 +0100">
+    <length units="minutes">30</length>
+    <title>Melody d'hier et d'aujourd'hui</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214001500 +0100" stop="20151214022000 +0100">
+    <length units="minutes">125</length>
+    <title>Melody clips de nuit</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214022000 +0100" stop="20151214063000 +0100">
+    <length units="minutes">250</length>
+    <title>Programmes de la nuit</title>
+    <category />
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214063000 +0100" stop="20151214070500 +0100">
+    <length units="minutes">35</length>
+    <title>Générations Melody</title>
+    <category>Magazine</category>
+    <desc>Nicolas Peyrac / Sofia Essaïdi Deux artistes issus de générations et/ou d'univers musicaux différents, ayant travaillé ensemble, se racontent et lèvent le voile sur leur... (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214070500 +0100" stop="20151214090000 +0100">
+    <length units="minutes">115</length>
+    <title>Melody clips cultes</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214090000 +0100" stop="20151214091000 +0100">
+    <length units="minutes">10</length>
+    <title>Le mag</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214091000 +0100" stop="20151214100000 +0100">
+    <length units="minutes">50</length>
+    <title>Melody clips cultes</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214100000 +0100" stop="20151214101000 +0100">
     <length units="minutes">10</length>
     <title>Melody Story</title>
     <category>Magazine</category>
@@ -1960,34 +1900,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213131500 +0100" stop="20151213134000 +0100">
-    <length units="minutes">25</length>
-    <title>Melody clips cultes</title>
-    <category>Clips</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213134000 +0100" stop="20151213134500 +0100">
-    <length units="minutes">5</length>
-    <title>Présentation variétés</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Jean-Pierre Pasqualini</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213134500 +0100" stop="20151213144500 +0100">
-    <length units="minutes">60</length>
-    <title>Variétés jeunesse</title>
-    <category>Variétés</category>
-    <desc>Une émission réalisée par Raoul Sangla. Diffusée pour la première fois le 23 octobre 1968. Frank Zappa débarque pour la première fois en France... (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Philippe Koechlin</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213144500 +0100" stop="20151213150500 +0100">
+  <programme channel="test" start="20151214101000 +0100" stop="20151214103000 +0100">
     <length units="minutes">20</length>
     <title>Hit Melody Vintage</title>
     <category>Clips</category>
@@ -1997,7 +1910,7 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213150500 +0100" stop="20151213151000 +0100">
+  <programme channel="test" start="20151214103000 +0100" stop="20151214103500 +0100">
     <length units="minutes">5</length>
     <title>Présentation variétés</title>
     <category>Magazine</category>
@@ -2007,131 +1920,38 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213151000 +0100" stop="20151213162000 +0100">
+  <programme channel="test" start="20151214103500 +0100" stop="20151214114500 +0100">
     <length units="minutes">70</length>
-    <title>Podium 70</title>
+    <title>Allô Charles</title>
     <category>Variétés</category>
-    <desc>Une émission diffusée en mai 1970. (Lire la suite).(n)</desc>
+    <desc>Une émission diffusée en décembre 1977. (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213162000 +0100" stop="20151213164500 +0100">
-    <length units="minutes">25</length>
-    <title>Melody clips cultes</title>
-    <category>Clips</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213164500 +0100" stop="20151213165500 +0100">
-    <length units="minutes">10</length>
-    <title>Melody Story</title>
-    <category>Magazine</category>
-    <desc>Chaque jour, Frédéric Zeitoun retrace l'histoire d'une chanson sous un angle souvent original et inattendu. (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Frédéric Zeitoun</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213165500 +0100" stop="20151213170000 +0100">
-    <length units="minutes">5</length>
-    <title>Présentation concert</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213170000 +0100" stop="20151213183000 +0100">
-    <length units="minutes">90</length>
-    <title>Jazz à Vienne</title>
-    <category>Concert</category>
-    <desc>Earth, Wind and Fire Un concert enregistré en juillet 2012. (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213183000 +0100" stop="20151213183500 +0100">
-    <length units="minutes">5</length>
-    <title>Présentation variétés</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Jean-Pierre Pasqualini</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213183500 +0100" stop="20151213192500 +0100">
-    <length units="minutes">50</length>
-    <title>Rose d'Or festival de Juan les Pins</title>
-    <category>Variétés</category>
-    <desc>Une émission diffusée en juillet 1964. (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213192500 +0100" stop="20151213194500 +0100">
-    <length units="minutes">20</length>
-    <title>Melody Collector</title>
-    <category>Magazine</category>
-    <desc>Les meilleurs clips, scopitones et extraits de concerts des années 60 et 70. (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213194500 +0100" stop="20151213195000 +0100">
-    <length units="minutes">5</length>
-    <title>Présentation variétés</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Jean-Pierre Pasqualini</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213195000 +0100" stop="20151213210000 +0100">
-    <length units="minutes">70</length>
-    <title>Bouvard en liberté</title>
-    <category>Variétés</category>
-    <desc>Une émission diffusée en mai 1975. (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213210000 +0100" stop="20151213213000 +0100">
-    <length units="minutes">30</length>
-    <title>Melody karaoké</title>
-    <category>Magazine</category>
-    <desc>(Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213213000 +0100" stop="20151213215500 +0100">
-    <length units="minutes">25</length>
-    <title>Melody scopitones</title>
-    <category>Clips</category>
-    <desc>Une tranche de scopitones avec habillage et jingles. (Lire la suite).(n)</desc>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213215500 +0100" stop="20151213220500 +0100">
-    <length units="minutes">10</length>
-    <title>Melody Story</title>
-    <category>Magazine</category>
-    <desc>Chaque jour, Frédéric Zeitoun retrace l'histoire d'une chanson sous un angle souvent original et inattendu. (Lire la suite).(n)</desc>
-    <credits>
-      <name function="presenter">Frédéric Zeitoun</name>
-    </credits>
-    <image />
-  </programme>
-  <programme channel="burger" start="20151213220500 +0100" stop="20151213224000 +0100">
+  <programme channel="test" start="20151214114500 +0100" stop="20151214122000 +0100">
     <length units="minutes">35</length>
-    <title>Générations Melody</title>
-    <category>Magazine</category>
-    <desc>Nicolas Peyrac / Sofia Essaïdi Deux artistes issus de générations et/ou d'univers musicaux différents, ayant travaillé ensemble, se racontent et lèvent le voile sur leur... (Lire la suite).(n)</desc>
+    <title>L'académie des 9</title>
+    <category>Jeu</category>
+    <desc>Sur le principe du morpion, 9 personnalités sont réparties dans les 9 cases du décor. Deux candidats s'affrontent en choisissant quel invité... (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jean-Pierre Foucault</name>
+    </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151213224000 +0100" stop="20151213224500 +0100">
+  <programme channel="test" start="20151214122000 +0100" stop="20151214122500 +0100">
     <length units="minutes">5</length>
     <title>Présentation</title>
     <category>Magazine</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213224500 +0100" stop="20151213234500 +0100">
-    <length units="minutes">60</length>
-    <title>Souvenirs</title>
-    <category>Documentaire</category>
-    <desc>Edith Piaf Sur les traces de la Môme à travers des témoignages rares de ses proches disparus et également des professionnels qui ont lancé sa... (Lire la suite).(n)</desc>
+  <programme channel="test" start="20151214122500 +0100" stop="20151214133500 +0100">
+    <length units="minutes">70</length>
+    <title>Format 16/20</title>
+    <category>Magazine</category>
+    <desc>Une émission diffusée en janvier 1964. (Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151213234500 +0100" stop="20151214000500 +0100">
+  <programme channel="test" start="20151214133500 +0100" stop="20151214135500 +0100">
     <length units="minutes">20</length>
     <title>La nouvelle séquence du spectateur</title>
     <category>Magazine</category>
@@ -2141,28 +1961,195 @@
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151214000500 +0100" stop="20151214001000 +0100">
-    <length units="minutes">5</length>
-    <title>Présentation film</title>
+  <programme channel="test" start="20151214135500 +0100" stop="20151214140500 +0100">
+    <length units="minutes">10</length>
+    <title>Le mag</title>
     <category>Magazine</category>
     <desc>(Lire la suite).(n)</desc>
     <image />
   </programme>
-  <programme channel="burger" start="20151214001000 +0100" stop="20151214014500 +0100">
-    <length units="minutes">95</length>
-    <title>Téléphone public (?)</title>
-    <category>Film</category>
-    <desc>A peine sortis de l'adolescence et tout juste propulsés sur scène, les quatre musiciens de Téléphone, groupe formé en 1976, deviennent en... (Lire la suite).(n)</desc>
+  <programme channel="test" start="20151214140500 +0100" stop="20151214144500 +0100">
+    <length units="minutes">40</length>
+    <title>Melody clips cultes</title>
+    <category>Clips</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214144500 +0100" stop="20151214145500 +0100">
+    <length units="minutes">10</length>
+    <title>Melody Story</title>
+    <category>Magazine</category>
+    <desc>Chaque jour, Frédéric Zeitoun retrace l'histoire d'une chanson sous un angle souvent original et inattendu. (Lire la suite).(n)</desc>
     <credits>
-      <name function="director">Jean-Marie Périer</name>
+      <name function="presenter">Frédéric Zeitoun</name>
     </credits>
     <image />
   </programme>
-  <programme channel="burger" start="20151214014500 +0100" stop="20151214021500 +0100">
-    <length units="minutes">30</length>
-    <title>Melody d'hier et d'aujourd'hui</title>
+  <programme channel="test" start="20151214145500 +0100" stop="20151214150000 +0100">
+    <length units="minutes">5</length>
+    <title>Présentation variétés</title>
     <category>Magazine</category>
     <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jean-Pierre Pasqualini</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214150000 +0100" stop="20151214155500 +0100">
+    <length units="minutes">55</length>
+    <title>Les rendez-vous du dimanche</title>
+    <category>Variétés</category>
+    <desc>Une émission diffusée en mars 1976. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214155500 +0100" stop="20151214160000 +0100">
+    <length units="minutes">5</length>
+    <title>Présentation variétés</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jean-Pierre Pasqualini</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214160000 +0100" stop="20151214173000 +0100">
+    <length units="minutes">90</length>
+    <title>Si le coeur vous en dit</title>
+    <category>Variétés</category>
+    <desc>Une émission diffusée en juin 1972. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214173000 +0100" stop="20151214175000 +0100">
+    <length units="minutes">20</length>
+    <title>Melody Collector</title>
+    <category>Magazine</category>
+    <desc>Les meilleurs clips, scopitones et extraits de concerts des années 60 et 70. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214175000 +0100" stop="20151214175500 +0100">
+    <length units="minutes">5</length>
+    <title>Présentation variétés</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jean-Pierre Pasqualini</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214175500 +0100" stop="20151214190000 +0100">
+    <length units="minutes">65</length>
+    <title>La bonne étoile</title>
+    <category>Variétés</category>
+    <desc>Une émission diffusée en mars 1983. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214190000 +0100" stop="20151214191500 +0100">
+    <length units="minutes">15</length>
+    <title>Top Melody Vintage</title>
+    <category>Clips</category>
+    <desc>Une sélection des meilleurs tubes de la période 1984 à 1996. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Thierry Cadet</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214191500 +0100" stop="20151214192500 +0100">
+    <length units="minutes">10</length>
+    <title>Le mag</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214192500 +0100" stop="20151214193500 +0100">
+    <length units="minutes">10</length>
+    <title>Melody Story</title>
+    <category>Magazine</category>
+    <desc>Chaque jour, Frédéric Zeitoun retrace l'histoire d'une chanson sous un angle souvent original et inattendu. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Frédéric Zeitoun</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214193500 +0100" stop="20151214201000 +0100">
+    <length units="minutes">35</length>
+    <title>Les petits papiers de Noël</title>
+    <category>Variétés</category>
+    <desc>Une émission diffusée en décembre 1975. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214201000 +0100" stop="20151214202000 +0100">
+    <length units="minutes">10</length>
+    <title>Melody de ma vie</title>
+    <category>Magazine</category>
+    <desc>Un chanteur se raconte et évoque les artistes qui lui ont donné envie de faire sa carrière. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Frédéric Zeitoun</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214202000 +0100" stop="20151214204000 +0100">
+    <length units="minutes">20</length>
+    <title>Melody scopitones</title>
+    <category>Clips</category>
+    <desc>Une tranche de scopitones avec habillage et jingles. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214204000 +0100" stop="20151214204500 +0100">
+    <length units="minutes">5</length>
+    <title>Présentation variétés</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jean-Pierre Pasqualini</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214204500 +0100" stop="20151214221000 +0100">
+    <length units="minutes">85</length>
+    <title>Palmarès des chansons</title>
+    <category>Variétés</category>
+    <desc>Une émission diffusée en janvier 1966. (Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Guy Lux</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214221000 +0100" stop="20151214221500 +0100">
+    <length units="minutes">5</length>
+    <title>Présentation variétés</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <credits>
+      <name function="presenter">Jean-Pierre Pasqualini</name>
+    </credits>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214221500 +0100" stop="20151214223500 +0100">
+    <length units="minutes">20</length>
+    <title>Vient de paraître</title>
+    <category>Variétés</category>
+    <desc>Une émission diffusée en mai 1966. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214223500 +0100" stop="20151214225000 +0100">
+    <length units="minutes">15</length>
+    <title>Melody Collector</title>
+    <category>Magazine</category>
+    <desc>Spécial clips Michel Polnareff Les meilleurs clips du chanteur au look singulier et à la voix d'or, Michel Polnareff. (Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214225000 +0100" stop="20151214225500 +0100">
+    <length units="minutes">5</length>
+    <title>Présentation concert</title>
+    <category>Magazine</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
+  </programme>
+  <programme channel="test" start="20151214225500 +0100" stop="20151215002500 +0100">
+    <length units="minutes">90</length>
+    <title>Jazz à Vienne</title>
+    <category>Concert</category>
+    <desc>Earth, Wind and Fire Un concert enregistré en juillet 2012. (Lire la suite).(n)</desc>
     <image />
   </programme>
 </tv>

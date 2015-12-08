@@ -15,6 +15,11 @@ namespace XmlParser.Secured
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Session["USR_TYPE"] == null)
+                Response.Redirect("../default.aspx?id=ua");
+            else if (Convert.ToString(Session["USR_TYPE"]) == "Guest")
+                Response.Redirect("../default.aspx?id=ua");
+
             if (!IsPostBack)
             {
                 PopulateSources();

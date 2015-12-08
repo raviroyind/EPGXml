@@ -21,10 +21,10 @@ namespace XmlParser.Secured
             //Hard Coding session keys to enable outsite access to this page.
             //##############################################################//
             if (Session["USR_TYPE"] == null)
-                Session.Add("USR_TYPE", "Admin");
+                Session.Add("USR_TYPE", "Guest");
 
             if (Session["USER_KEY"] == null)
-                Session.Add("USER_KEY", "admin");
+                Session.Add("USER_KEY", "Guest");
             //##############################################################//
 
             if (!IsPostBack)
@@ -41,9 +41,9 @@ namespace XmlParser.Secured
                   
 
                 if (Convert.ToString(Session["USR_TYPE"]) == "Admin")
-                {
                     hypHomeLink.NavigateUrl = "../Admin/Dashboard.aspx";
-                }
+                else if (Convert.ToString(Session["USR_TYPE"]) == "Guest")
+                    hypHomeLink.NavigateUrl = "#";
 
                 lblUser.Text = "Welcome " + Convert.ToString(Session["USER_KEY"]);
 

@@ -1,1449 +1,856 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="tv:noNamespaceSchemaLocation">
-  <channel id="C4132.telerama.fr">
-    <display-name>testchannelname01</display-name>
+<tv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="tv:noNamespaceSchemaLocation">
+  <channel id="L'Equipe 21">
+    <display-name>test</display-name>
   </channel>
-  <programme channel="testchannelname01" start="20151207010000 +0100" stop="20151207013000 +0100">
-    <length units="minutes">30</length>
-    <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_00:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207013000 +0100" stop="20151207080000 +0100">
-    <length units="minutes">390</length>
-    <title>Programmes de la nuit</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_00:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207080000 +0100" stop="20151207090000 +0100">
-    <length units="minutes">60</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_07:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207090000 +0100" stop="20151207100000 +0100">
-    <length units="minutes">60</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_08:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207100000 +0100" stop="20151207123000 +0100">
-    <length units="minutes">150</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_09:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207123000 +0100" stop="20151207130000 +0100">
-    <length units="minutes">30</length>
-    <title>Sportbuzz</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_11:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207130000 +0100" stop="20151207143000 +0100">
-    <length units="minutes">90</length>
-    <title>Menu sport</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_12:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207143000 +0100" stop="20151207150000 +0100">
-    <length units="minutes">30</length>
-    <title>La course CasaqLigue</title>
-    <category>tiercé</category>
-    <desc />
-    <credits>
-      <name function="presenter">Julien Pichené</name>
-      <name function="presenter">Sébastien Darras</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_13:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207150000 +0100" stop="20151207164500 +0100">
-    <length units="minutes">105</length>
-    <title>Biathlon (Coupe du monde 2015/2016)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_14:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207164500 +0100" stop="20151207171500 +0100">
-    <length units="minutes">30</length>
-    <title>Le magazine Auto</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_15:45.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207171500 +0100" stop="20151207184500 +0100">
-    <length units="minutes">90</length>
-    <title>Course sur glace (Trophée Andros 2015/2016)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_16:15.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207184500 +0100" stop="20151207195700 +0100">
-    <length units="minutes">72</length>
-    <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_17:45.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207195700 +0100" stop="20151207202300 +0100">
-    <length units="minutes">26</length>
-    <title>La grande édition</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_18:57.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207202300 +0100" stop="20151207213500 +0100">
-    <length units="minutes">72</length>
-    <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_19:23.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207213500 +0100" stop="20151207215000 +0100">
-    <length units="minutes">15</length>
-    <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_20:35.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207215000 +0100" stop="20151207230000 +0100">
-    <length units="minutes">70</length>
-    <title>L'Équipe enquête</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_20:50.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207230000 +0100" stop="20151207233000 +0100">
-    <length units="minutes">30</length>
-    <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_22:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151207233000 +0100" stop="20151208010000 +0100">
-    <length units="minutes">90</length>
-    <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-07_4132_22:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151208010000 +0100" stop="20151208080000 +0100">
+  <programme channel="test" start="20151208000000 +0100" stop="20151208070000 +0100">
     <length units="minutes">420</length>
     <title>Programmes de la nuit</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_00:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208080000 +0100" stop="20151208090000 +0100">
+  <programme channel="test" start="20151208070000 +0100" stop="20151208080000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_07:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208090000 +0100" stop="20151208100000 +0100">
+  <programme channel="test" start="20151208080000 +0100" stop="20151208090000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_08:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208100000 +0100" stop="20151208113000 +0100">
+  <programme channel="test" start="20151208090000 +0100" stop="20151208103000 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_09:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208113000 +0100" stop="20151208130000 +0100">
+  <programme channel="test" start="20151208103000 +0100" stop="20151208120000 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_10:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208130000 +0100" stop="20151208143000 +0100">
+  <programme channel="test" start="20151208120000 +0100" stop="20151208133000 +0100">
     <length units="minutes">90</length>
     <title>Menu sport</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_12:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208143000 +0100" stop="20151208150000 +0100">
+  <programme channel="test" start="20151208133000 +0100" stop="20151208140000 +0100">
     <length units="minutes">30</length>
     <title>La course CasaqLigue</title>
-    <category>tiercé</category>
-    <desc />
+    <category />
+    <desc>(Lire la suite).</desc>
     <credits>
+      <name function="presenter">Guillaume Covès,</name>
       <name function="presenter">Julien Pichené</name>
-      <name function="presenter">Guillaume Covès</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_13:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208150000 +0100" stop="20151208160000 +0100">
+  <programme channel="test" start="20151208140000 +0100" stop="20151208150000 +0100">
     <length units="minutes">60</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_14:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208160000 +0100" stop="20151208180000 +0100">
+  <programme channel="test" start="20151208150000 +0100" stop="20151208170000 +0100">
     <length units="minutes">120</length>
     <title>Football (Modène / Bari)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_15:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208180000 +0100" stop="20151208181500 +0100">
+  <programme channel="test" start="20151208170000 +0100" stop="20151208171500 +0100">
     <length units="minutes">15</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_17:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208181500 +0100" stop="20151208184500 +0100">
+  <programme channel="test" start="20151208171500 +0100" stop="20151208174500 +0100">
     <length units="minutes">30</length>
     <title>Le magazine Auto</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_17:15.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208184500 +0100" stop="20151208195700 +0100">
+  <programme channel="test" start="20151208174500 +0100" stop="20151208185700 +0100">
     <length units="minutes">72</length>
     <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_17:45.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208195700 +0100" stop="20151208201000 +0100">
+  <programme channel="test" start="20151208185700 +0100" stop="20151208191000 +0100">
     <length units="minutes">13</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_18:57.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208201000 +0100" stop="20151208212000 +0100">
+  <programme channel="test" start="20151208191000 +0100" stop="20151208202000 +0100">
     <length units="minutes">70</length>
     <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_19:10.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208212000 +0100" stop="20151208233000 +0100">
+  <programme channel="test" start="20151208202000 +0100" stop="20151208223000 +0100">
     <length units="minutes">130</length>
     <title>Basket-ball (Nanterre (Fra) / Oldenbourg (All))</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_20:20.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151208233000 +0100" stop="20151209010000 +0100">
+  <programme channel="test" start="20151208223000 +0100" stop="20151209000000 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-08_4132_22:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209010000 +0100" stop="20151209080000 +0100">
+  <programme channel="test" start="20151209000000 +0100" stop="20151209070000 +0100">
     <length units="minutes">420</length>
     <title>Programmes de la nuit</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_00:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209080000 +0100" stop="20151209090000 +0100">
+  <programme channel="test" start="20151209070000 +0100" stop="20151209080000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_07:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209090000 +0100" stop="20151209100000 +0100">
+  <programme channel="test" start="20151209080000 +0100" stop="20151209090000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_08:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209100000 +0100" stop="20151209113000 +0100">
+  <programme channel="test" start="20151209090000 +0100" stop="20151209103000 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_09:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209113000 +0100" stop="20151209130000 +0100">
+  <programme channel="test" start="20151209103000 +0100" stop="20151209120000 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_10:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209130000 +0100" stop="20151209143000 +0100">
+  <programme channel="test" start="20151209120000 +0100" stop="20151209133000 +0100">
     <length units="minutes">90</length>
     <title>Menu sport</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_12:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209143000 +0100" stop="20151209150000 +0100">
+  <programme channel="test" start="20151209133000 +0100" stop="20151209140000 +0100">
     <length units="minutes">30</length>
     <title>La course CasaqLigue</title>
-    <category>tiercé</category>
-    <desc />
+    <category />
+    <desc>(Lire la suite).</desc>
     <credits>
+      <name function="presenter">Guillaume Covès,</name>
       <name function="presenter">Julien Pichené</name>
-      <name function="presenter">Guillaume Covès</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_13:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209150000 +0100" stop="20151209151500 +0100">
+  <programme channel="test" start="20151209140000 +0100" stop="20151209141500 +0100">
     <length units="minutes">15</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_14:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209151500 +0100" stop="20151209170000 +0100">
+  <programme channel="test" start="20151209141500 +0100" stop="20151209160000 +0100">
     <length units="minutes">105</length>
     <title>Basket-ball (Nanterre (Fra) / Oldenbourg (All))</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_14:15.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209170000 +0100" stop="20151209171500 +0100">
+  <programme channel="test" start="20151209160000 +0100" stop="20151209161500 +0100">
     <length units="minutes">15</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_16:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209171500 +0100" stop="20151209184500 +0100">
+  <programme channel="test" start="20151209161500 +0100" stop="20151209174500 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe enquête</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_16:15.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209184500 +0100" stop="20151209195700 +0100">
+  <programme channel="test" start="20151209174500 +0100" stop="20151209185700 +0100">
     <length units="minutes">72</length>
     <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_17:45.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209195700 +0100" stop="20151209202000 +0100">
+  <programme channel="test" start="20151209185700 +0100" stop="20151209192000 +0100">
     <length units="minutes">23</length>
     <title>La grande édition</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_18:57.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209202000 +0100" stop="20151209213000 +0100">
+  <programme channel="test" start="20151209192000 +0100" stop="20151209203000 +0100">
     <length units="minutes">70</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_19:20.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209213000 +0100" stop="20151209233000 +0100">
+  <programme channel="test" start="20151209203000 +0100" stop="20151209223000 +0100">
     <length units="minutes">120</length>
     <title>Basket-ball (Gérone (Esp) / Bourges (Fra))</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_20:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151209233000 +0100" stop="20151210010000 +0100">
+  <programme channel="test" start="20151209223000 +0100" stop="20151210000000 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-09_4132_22:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210010000 +0100" stop="20151210080000 +0100">
+  <programme channel="test" start="20151210000000 +0100" stop="20151210070000 +0100">
     <length units="minutes">420</length>
     <title>Programmes de la nuit</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_00:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210080000 +0100" stop="20151210090000 +0100">
+  <programme channel="test" start="20151210070000 +0100" stop="20151210080000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_07:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210090000 +0100" stop="20151210100000 +0100">
+  <programme channel="test" start="20151210080000 +0100" stop="20151210090000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_08:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210100000 +0100" stop="20151210113000 +0100">
+  <programme channel="test" start="20151210090000 +0100" stop="20151210103000 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_09:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210113000 +0100" stop="20151210130000 +0100">
+  <programme channel="test" start="20151210103000 +0100" stop="20151210120000 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_10:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210130000 +0100" stop="20151210143000 +0100">
+  <programme channel="test" start="20151210120000 +0100" stop="20151210133000 +0100">
     <length units="minutes">90</length>
     <title>Menu sport</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_12:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210143000 +0100" stop="20151210150000 +0100">
+  <programme channel="test" start="20151210133000 +0100" stop="20151210140000 +0100">
     <length units="minutes">30</length>
     <title>La course CasaqLigue</title>
-    <category>tiercé</category>
-    <desc />
+    <category />
+    <desc>(Lire la suite).</desc>
     <credits>
+      <name function="presenter">Guillaume Covès,</name>
       <name function="presenter">Julien Pichené</name>
-      <name function="presenter">Guillaume Covès</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_13:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210150000 +0100" stop="20151210151500 +0100">
+  <programme channel="test" start="20151210140000 +0100" stop="20151210141500 +0100">
     <length units="minutes">15</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_14:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210151500 +0100" stop="20151210170000 +0100">
+  <programme channel="test" start="20151210141500 +0100" stop="20151210160000 +0100">
     <length units="minutes">105</length>
     <title>Basket-ball (Gérone (Esp) / Bourges (Fra))</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_14:15.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210170000 +0100" stop="20151210171500 +0100">
+  <programme channel="test" start="20151210160000 +0100" stop="20151210161500 +0100">
     <length units="minutes">15</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_16:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210171500 +0100" stop="20151210184500 +0100">
+  <programme channel="test" start="20151210161500 +0100" stop="20151210174500 +0100">
     <length units="minutes">90</length>
     <title>Biathlon (Coupe du monde 2015/2016)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_16:15.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210184500 +0100" stop="20151210195700 +0100">
+  <programme channel="test" start="20151210174500 +0100" stop="20151210185700 +0100">
     <length units="minutes">72</length>
     <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_17:45.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210195700 +0100" stop="20151210202000 +0100">
+  <programme channel="test" start="20151210185700 +0100" stop="20151210192000 +0100">
     <length units="minutes">23</length>
     <title>La grande édition</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_18:57.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210202000 +0100" stop="20151210213000 +0100">
+  <programme channel="test" start="20151210192000 +0100" stop="20151210203000 +0100">
     <length units="minutes">70</length>
     <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_19:20.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210213000 +0100" stop="20151210214000 +0100">
+  <programme channel="test" start="20151210203000 +0100" stop="20151210204000 +0100">
     <length units="minutes">10</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_20:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210214000 +0100" stop="20151210233000 +0100">
+  <programme channel="test" start="20151210204000 +0100" stop="20151210223000 +0100">
     <length units="minutes">110</length>
     <title>The Two Escobars</title>
-    <category>documentaire</category>
-    <desc>Durant les années 1980 et 1990, beaucoup estimaient que les cartels de Medellin et de Cali avaient contribué à financer et construire l'équipe nationale de football colombienne pour en faire l'une des meilleures sélections du monde. Cependant, lors du deuxième match de poule de la Coupe du monde 1994, face aux Etats-Unis, le défenseur colombien Andres Escobar - sans relation avec Pablo Escobar - marque un but contre son camp. Moins de dix jours plus tard, il est tué de douze coups de pistolet devant un bar, dans la banlieue de Medellin. A chaque coup tiré, le meurtrier a crié «but» !</desc>
+    <category>Documentaire</category>
+    <desc>Durant les années 1980 et 1990, beaucoup estimaient que les cartels de Medellin et de Cali avaient contribué à financer et construire l'équipe... (Lire la suite).</desc>
     <credits>
-      <name function="director">Jeff Zimbalist, Michael Zimbalist</name>
+      <name function="director">Jeff Zimbalist,</name>
+      <name function="director">Michael Zimbalist</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_20:40.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151210233000 +0100" stop="20151211010000 +0100">
+  <programme channel="test" start="20151210223000 +0100" stop="20151211000000 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-10_4132_22:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211010000 +0100" stop="20151211080000 +0100">
+  <programme channel="test" start="20151211000000 +0100" stop="20151211070000 +0100">
     <length units="minutes">420</length>
     <title>Programmes de la nuit</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_00:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211080000 +0100" stop="20151211090000 +0100">
+  <programme channel="test" start="20151211070000 +0100" stop="20151211080000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_07:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211090000 +0100" stop="20151211100000 +0100">
+  <programme channel="test" start="20151211080000 +0100" stop="20151211090000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_08:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211100000 +0100" stop="20151211104500 +0100">
+  <programme channel="test" start="20151211090000 +0100" stop="20151211094500 +0100">
     <length units="minutes">45</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_09:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211104500 +0100" stop="20151211121500 +0100">
+  <programme channel="test" start="20151211094500 +0100" stop="20151211111500 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_09:45.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211121500 +0100" stop="20151211133000 +0100">
+  <programme channel="test" start="20151211111500 +0100" stop="20151211123000 +0100">
     <length units="minutes">75</length>
     <title>Biathlon (Sprint 7,5 km dames)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_11:15.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211133000 +0100" stop="20151211143000 +0100">
+  <programme channel="test" start="20151211123000 +0100" stop="20151211133000 +0100">
     <length units="minutes">60</length>
     <title>Menu sport</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_12:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211143000 +0100" stop="20151211150000 +0100">
+  <programme channel="test" start="20151211133000 +0100" stop="20151211140000 +0100">
     <length units="minutes">30</length>
     <title>La course CasaqLigue</title>
-    <category>tiercé</category>
-    <desc />
+    <category />
+    <desc>(Lire la suite).</desc>
     <credits>
+      <name function="presenter">Fabien Cailler,</name>
       <name function="presenter">Julien Pichené</name>
-      <name function="presenter">Fabien Cailler</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_13:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211150000 +0100" stop="20151211151500 +0100">
+  <programme channel="test" start="20151211140000 +0100" stop="20151211141500 +0100">
     <length units="minutes">15</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_14:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211151500 +0100" stop="20151211170500 +0100">
+  <programme channel="test" start="20151211141500 +0100" stop="20151211160500 +0100">
     <length units="minutes">110</length>
     <title>Biathlon (Sprint 10 km messieurs)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_14:15.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211170500 +0100" stop="20151211181500 +0100">
+  <programme channel="test" start="20151211160500 +0100" stop="20151211171500 +0100">
     <length units="minutes">70</length>
     <title>L'Équipe enquête</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_16:05.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211181500 +0100" stop="20151211184500 +0100">
+  <programme channel="test" start="20151211171500 +0100" stop="20151211174500 +0100">
     <length units="minutes">30</length>
     <title>Esprit bleu</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_17:15.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211184500 +0100" stop="20151211195700 +0100">
+  <programme channel="test" start="20151211174500 +0100" stop="20151211185700 +0100">
     <length units="minutes">72</length>
     <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_17:45.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211195700 +0100" stop="20151211202300 +0100">
+  <programme channel="test" start="20151211185700 +0100" stop="20151211192300 +0100">
     <length units="minutes">26</length>
     <title>La grande édition</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_18:57.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211202300 +0100" stop="20151211213000 +0100">
+  <programme channel="test" start="20151211192300 +0100" stop="20151211203000 +0100">
     <length units="minutes">67</length>
     <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_19:23.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211213000 +0100" stop="20151211215500 +0100">
+  <programme channel="test" start="20151211203000 +0100" stop="20151211205500 +0100">
     <length units="minutes">25</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_20:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211215500 +0100" stop="20151211233000 +0100">
+  <programme channel="test" start="20151211205500 +0100" stop="20151211223000 +0100">
     <length units="minutes">95</length>
     <title>Catch (Ring of Honor)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_20:55.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151211233000 +0100" stop="20151212010000 +0100">
+  <programme channel="test" start="20151211223000 +0100" stop="20151212000000 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-11_4132_22:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212010000 +0100" stop="20151212080000 +0100">
+  <programme channel="test" start="20151212000000 +0100" stop="20151212070000 +0100">
     <length units="minutes">420</length>
     <title>Programmes de la nuit</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_00:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212080000 +0100" stop="20151212090000 +0100">
+  <programme channel="test" start="20151212070000 +0100" stop="20151212080000 +0100">
     <length units="minutes">60</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_07:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212090000 +0100" stop="20151212100000 +0100">
+  <programme channel="test" start="20151212080000 +0100" stop="20151212090000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_08:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212100000 +0100" stop="20151212113000 +0100">
+  <programme channel="test" start="20151212090000 +0100" stop="20151212103000 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_09:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212113000 +0100" stop="20151212120000 +0100">
+  <programme channel="test" start="20151212103000 +0100" stop="20151212110000 +0100">
     <length units="minutes">30</length>
     <title>Le magazine Auto</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_10:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212120000 +0100" stop="20151212123000 +0100">
+  <programme channel="test" start="20151212110000 +0100" stop="20151212113000 +0100">
     <length units="minutes">30</length>
     <title>Sportbuzz</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_11:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212123000 +0100" stop="20151212133000 +0100">
+  <programme channel="test" start="20151212113000 +0100" stop="20151212123000 +0100">
     <length units="minutes">60</length>
     <title>Biathlon (Poursuite 10 km dames)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_11:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212133000 +0100" stop="20151212140000 +0100">
+  <programme channel="test" start="20151212123000 +0100" stop="20151212130000 +0100">
     <length units="minutes">30</length>
     <title>Esprit bleu</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_12:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212140000 +0100" stop="20151212141500 +0100">
+  <programme channel="test" start="20151212130000 +0100" stop="20151212131500 +0100">
     <length units="minutes">15</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_13:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212141500 +0100" stop="20151212153000 +0100">
+  <programme channel="test" start="20151212131500 +0100" stop="20151212143000 +0100">
     <length units="minutes">75</length>
     <title>L'Équipe enquête</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_13:15.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212153000 +0100" stop="20151212163000 +0100">
+  <programme channel="test" start="20151212143000 +0100" stop="20151212153000 +0100">
     <length units="minutes">60</length>
     <title>Biathlon (Poursuite 12,5 km messieurs)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_14:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212163000 +0100" stop="20151212190000 +0100">
+  <programme channel="test" start="20151212153000 +0100" stop="20151212180000 +0100">
     <length units="minutes">150</length>
     <title>Volley-ball (Paris / Mulhouse)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_15:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212190000 +0100" stop="20151212213000 +0100">
+  <programme channel="test" start="20151212180000 +0100" stop="20151212203000 +0100">
     <length units="minutes">150</length>
     <title>Edition spéciale</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_18:00.jpg</image>
+    <category>Sport</category>
+    <desc>Tirage au sort de l'Euro 2016 (Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212213000 +0100" stop="20151212214500 +0100">
+  <programme channel="test" start="20151212203000 +0100" stop="20151212204500 +0100">
     <length units="minutes">15</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_20:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151212214500 +0100" stop="20151213000000 +0100">
+  <programme channel="test" start="20151212204500 +0100" stop="20151212230000 +0100">
     <length units="minutes">135</length>
     <title>Course sur glace (Trophée Andros 2015/2016)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_20:45.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213000000 +0100" stop="20151213010000 +0100">
+  <programme channel="test" start="20151212230000 +0100" stop="20151213000000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du week-end</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-12_4132_23:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213010000 +0100" stop="20151213013000 +0100">
+  <programme channel="test" start="20151213000000 +0100" stop="20151213003000 +0100">
     <length units="minutes">30</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_00:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213013000 +0100" stop="20151213080000 +0100">
+  <programme channel="test" start="20151213003000 +0100" stop="20151213070000 +0100">
     <length units="minutes">390</length>
     <title>Programmes de la nuit</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_00:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213080000 +0100" stop="20151213090000 +0100">
+  <programme channel="test" start="20151213070000 +0100" stop="20151213080000 +0100">
     <length units="minutes">60</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_07:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213090000 +0100" stop="20151213100000 +0100">
+  <programme channel="test" start="20151213080000 +0100" stop="20151213090000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_08:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213100000 +0100" stop="20151213120000 +0100">
+  <programme channel="test" start="20151213090000 +0100" stop="20151213110000 +0100">
     <length units="minutes">120</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_09:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213120000 +0100" stop="20151213140000 +0100">
+  <programme channel="test" start="20151213110000 +0100" stop="20151213130000 +0100">
     <length units="minutes">120</length>
     <title>Biathlon (Relais 4x6 km dames)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_11:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213140000 +0100" stop="20151213143000 +0100">
+  <programme channel="test" start="20151213130000 +0100" stop="20151213133000 +0100">
     <length units="minutes">30</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_13:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213143000 +0100" stop="20151213150000 +0100">
+  <programme channel="test" start="20151213133000 +0100" stop="20151213140000 +0100">
     <length units="minutes">30</length>
     <title>Sportbuzz</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_13:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213150000 +0100" stop="20151213151500 +0100">
+  <programme channel="test" start="20151213140000 +0100" stop="20151213141500 +0100">
     <length units="minutes">15</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_14:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213151500 +0100" stop="20151213171500 +0100">
+  <programme channel="test" start="20151213141500 +0100" stop="20151213161500 +0100">
     <length units="minutes">120</length>
     <title>Biathlon (Relais 4x7,5 km messieurs)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_14:15.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213171500 +0100" stop="20151213173000 +0100">
+  <programme channel="test" start="20151213161500 +0100" stop="20151213163000 +0100">
     <length units="minutes">15</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_16:15.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213173000 +0100" stop="20151213183000 +0100">
+  <programme channel="test" start="20151213163000 +0100" stop="20151213173000 +0100">
     <length units="minutes">60</length>
     <title>Motocross freestyle (X-Fighters)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_16:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213183000 +0100" stop="20151213210000 +0100">
+  <programme channel="test" start="20151213173000 +0100" stop="20151213200000 +0100">
     <length units="minutes">150</length>
     <title>Motocross (Supercross de Montpellier 2015)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_17:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213210000 +0100" stop="20151213220000 +0100">
+  <programme channel="test" start="20151213200000 +0100" stop="20151213210000 +0100">
     <length units="minutes">60</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_20:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213220000 +0100" stop="20151213234500 +0100">
+  <programme channel="test" start="20151213210000 +0100" stop="20151213224500 +0100">
     <length units="minutes">105</length>
     <title>Biathlon (Coupe du monde 2015/2016)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_21:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151213234500 +0100" stop="20151214010000 +0100">
+  <programme channel="test" start="20151213224500 +0100" stop="20151214000000 +0100">
     <length units="minutes">75</length>
     <title>L'Équipe du week-end</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-13_4132_22:45.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214010000 +0100" stop="20151214013000 +0100">
+  <programme channel="test" start="20151214000000 +0100" stop="20151214003000 +0100">
     <length units="minutes">30</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_00:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214013000 +0100" stop="20151214080000 +0100">
+  <programme channel="test" start="20151214003000 +0100" stop="20151214070000 +0100">
     <length units="minutes">390</length>
     <title>Programmes de la nuit</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_00:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214080000 +0100" stop="20151214090000 +0100">
+  <programme channel="test" start="20151214070000 +0100" stop="20151214080000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_07:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214090000 +0100" stop="20151214100000 +0100">
+  <programme channel="test" start="20151214080000 +0100" stop="20151214090000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_08:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214100000 +0100" stop="20151214130000 +0100">
+  <programme channel="test" start="20151214090000 +0100" stop="20151214120000 +0100">
     <length units="minutes">180</length>
     <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_09:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214130000 +0100" stop="20151214140000 +0100">
+  <programme channel="test" start="20151214120000 +0100" stop="20151214130000 +0100">
     <length units="minutes">60</length>
     <title>Edition spéciale</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_12:00.jpg</image>
+    <category>Sport</category>
+    <desc>Tirage au sort des 8es de finale de la Ligue des champions (Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214140000 +0100" stop="20151214143000 +0100">
+  <programme channel="test" start="20151214130000 +0100" stop="20151214133000 +0100">
     <length units="minutes">30</length>
     <title>Menu sport</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_13:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214143000 +0100" stop="20151214150000 +0100">
+  <programme channel="test" start="20151214133000 +0100" stop="20151214140000 +0100">
     <length units="minutes">30</length>
     <title>La course CasaqLigue</title>
-    <category>tiercé</category>
-    <desc />
+    <category />
+    <desc>(Lire la suite).(n)</desc>
     <credits>
+      <name function="presenter">Sébastien Darras,</name>
       <name function="presenter">Julien Pichené</name>
-      <name function="presenter">Sébastien Darras</name>
     </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_13:30.jpg</image>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214150000 +0100" stop="20151214151500 +0100">
+  <programme channel="test" start="20151214140000 +0100" stop="20151214141500 +0100">
     <length units="minutes">15</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_14:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214151500 +0100" stop="20151214170000 +0100">
+  <programme channel="test" start="20151214141500 +0100" stop="20151214160000 +0100">
     <length units="minutes">105</length>
     <title>Biathlon (Coupe du monde 2015/2016)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_14:15.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214170000 +0100" stop="20151214171500 +0100">
+  <programme channel="test" start="20151214160000 +0100" stop="20151214161500 +0100">
     <length units="minutes">15</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_16:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214171500 +0100" stop="20151214184500 +0100">
+  <programme channel="test" start="20151214161500 +0100" stop="20151214174500 +0100">
     <length units="minutes">90</length>
     <title>Course sur glace (Trophée Andros 2015/2016)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_16:15.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214184500 +0100" stop="20151214200000 +0100">
+  <programme channel="test" start="20151214174500 +0100" stop="20151214190000 +0100">
     <length units="minutes">75</length>
     <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_17:45.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214200000 +0100" stop="20151214203000 +0100">
+  <programme channel="test" start="20151214190000 +0100" stop="20151214193000 +0100">
     <length units="minutes">30</length>
     <title>La grande édition</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_19:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214203000 +0100" stop="20151214213000 +0100">
+  <programme channel="test" start="20151214193000 +0100" stop="20151214203000 +0100">
     <length units="minutes">60</length>
     <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_19:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214213000 +0100" stop="20151214214500 +0100">
+  <programme channel="test" start="20151214203000 +0100" stop="20151214204500 +0100">
     <length units="minutes">15</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_20:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214214500 +0100" stop="20151214230000 +0100">
+  <programme channel="test" start="20151214204500 +0100" stop="20151214220000 +0100">
     <length units="minutes">75</length>
     <title>L'Équipe enquête</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_20:45.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214230000 +0100" stop="20151214233000 +0100">
+  <programme channel="test" start="20151214220000 +0100" stop="20151214223000 +0100">
     <length units="minutes">30</length>
     <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_22:00.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
-  <programme channel="testchannelname01" start="20151214233000 +0100" stop="20151215010000 +0100">
+  <programme channel="test" start="20151214223000 +0100" stop="20151215000000 +0100">
     <length units="minutes">90</length>
     <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-14_4132_22:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215010000 +0100" stop="20151215080000 +0100">
-    <length units="minutes">420</length>
-    <title>Programmes de la nuit</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_00:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215080000 +0100" stop="20151215090000 +0100">
-    <length units="minutes">60</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_07:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215090000 +0100" stop="20151215100000 +0100">
-    <length units="minutes">60</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_08:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215100000 +0100" stop="20151215113000 +0100">
-    <length units="minutes">90</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_09:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215113000 +0100" stop="20151215130000 +0100">
-    <length units="minutes">90</length>
-    <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_10:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215130000 +0100" stop="20151215143000 +0100">
-    <length units="minutes">90</length>
-    <title>Menu sport</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_12:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215143000 +0100" stop="20151215150000 +0100">
-    <length units="minutes">30</length>
-    <title>La course CasaqLigue</title>
-    <category>tiercé</category>
-    <desc />
-    <credits>
-      <name function="presenter">Julien Pichené</name>
-      <name function="presenter">Guillaume Covès</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_13:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215150000 +0100" stop="20151215151500 +0100">
-    <length units="minutes">15</length>
-    <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_14:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215151500 +0100" stop="20151215161500 +0100">
-    <length units="minutes">60</length>
-    <title>Motocross freestyle (X-Fighters)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_14:15.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215161500 +0100" stop="20151215164500 +0100">
-    <length units="minutes">30</length>
-    <title>Le magazine Auto</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_15:15.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215164500 +0100" stop="20151215171500 +0100">
-    <length units="minutes">30</length>
-    <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_15:45.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215171500 +0100" stop="20151215184500 +0100">
-    <length units="minutes">90</length>
-    <title>Football (Livourne / Cagliari)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_16:15.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215184500 +0100" stop="20151215200000 +0100">
-    <length units="minutes">75</length>
-    <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_17:45.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215200000 +0100" stop="20151215203000 +0100">
-    <length units="minutes">30</length>
-    <title>La grande édition</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_19:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215203000 +0100" stop="20151215213000 +0100">
-    <length units="minutes">60</length>
-    <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_19:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215213000 +0100" stop="20151215215000 +0100">
-    <length units="minutes">20</length>
-    <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_20:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215215000 +0100" stop="20151215233000 +0100">
-    <length units="minutes">100</length>
-    <title>Grip</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_20:50.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151215233000 +0100" stop="20151216010000 +0100">
-    <length units="minutes">90</length>
-    <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-15_4132_22:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216010000 +0100" stop="20151216080000 +0100">
-    <length units="minutes">420</length>
-    <title>Programmes de la nuit</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_00:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216080000 +0100" stop="20151216090000 +0100">
-    <length units="minutes">60</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_07:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216090000 +0100" stop="20151216100000 +0100">
-    <length units="minutes">60</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_08:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216100000 +0100" stop="20151216113000 +0100">
-    <length units="minutes">90</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_09:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216113000 +0100" stop="20151216130000 +0100">
-    <length units="minutes">90</length>
-    <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_10:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216130000 +0100" stop="20151216143000 +0100">
-    <length units="minutes">90</length>
-    <title>Menu sport</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_12:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216143000 +0100" stop="20151216150000 +0100">
-    <length units="minutes">30</length>
-    <title>La course CasaqLigue</title>
-    <category>tiercé</category>
-    <desc />
-    <credits>
-      <name function="presenter">Julien Pichené</name>
-      <name function="presenter">Guillaume Covès</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_13:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216150000 +0100" stop="20151216151500 +0100">
-    <length units="minutes">15</length>
-    <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_14:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216151500 +0100" stop="20151216170000 +0100">
-    <length units="minutes">105</length>
-    <title>Motocross (Supercross de Montpellier 2015)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_14:15.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216170000 +0100" stop="20151216174500 +0100">
-    <length units="minutes">45</length>
-    <title>Le magazine Auto</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_16:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216174500 +0100" stop="20151216184500 +0100">
-    <length units="minutes">60</length>
-    <title>L'Équipe enquête</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_16:45.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216184500 +0100" stop="20151216200000 +0100">
-    <length units="minutes">75</length>
-    <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_17:45.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216200000 +0100" stop="20151216203000 +0100">
-    <length units="minutes">30</length>
-    <title>La grande édition</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_19:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216203000 +0100" stop="20151216213000 +0100">
-    <length units="minutes">60</length>
-    <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_19:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216213000 +0100" stop="20151216233000 +0100">
-    <length units="minutes">120</length>
-    <title>Basket-ball (Bonn (All) / Nanterre (Fra))</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_20:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151216233000 +0100" stop="20151217010000 +0100">
-    <length units="minutes">90</length>
-    <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-16_4132_22:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217010000 +0100" stop="20151217080000 +0100">
-    <length units="minutes">420</length>
-    <title>Programmes de la nuit</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_4132_00:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217080000 +0100" stop="20151217090000 +0100">
-    <length units="minutes">60</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_4132_07:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217090000 +0100" stop="20151217100000 +0100">
-    <length units="minutes">60</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_4132_08:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217100000 +0100" stop="20151217113000 +0100">
-    <length units="minutes">90</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_4132_09:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217113000 +0100" stop="20151217130000 +0100">
-    <length units="minutes">90</length>
-    <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_4132_10:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217130000 +0100" stop="20151217143000 +0100">
-    <length units="minutes">90</length>
-    <title>Menu sport</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_4132_12:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217143000 +0100" stop="20151217150000 +0100">
-    <length units="minutes">30</length>
-    <title>La course CasaqLigue</title>
-    <category>tiercé</category>
-    <desc />
-    <credits>
-      <name function="presenter">Julien Pichené</name>
-      <name function="presenter">Guillaume Covès</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_4132_13:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217150000 +0100" stop="20151217151500 +0100">
-    <length units="minutes">15</length>
-    <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_4132_14:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217151500 +0100" stop="20151217171500 +0100">
-    <length units="minutes">120</length>
-    <title>Biathlon (Sprint 10 km messieurs)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_4132_14:15.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217171500 +0100" stop="20151217184500 +0100">
-    <length units="minutes">90</length>
-    <title>Basket-ball (Bonn (All) / Nanterre (Fra))</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_4132_16:15.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217184500 +0100" stop="20151217200000 +0100">
-    <length units="minutes">75</length>
-    <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_4132_17:45.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217200000 +0100" stop="20151217203000 +0100">
-    <length units="minutes">30</length>
-    <title>La grande édition</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_4132_19:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217203000 +0100" stop="20151217233000 +0100">
-    <length units="minutes">180</length>
-    <title>Boxe (Gala international 2015)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_4132_19:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151217233000 +0100" stop="20151218010000 +0100">
-    <length units="minutes">90</length>
-    <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-17_4132_22:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218010000 +0100" stop="20151218080000 +0100">
-    <length units="minutes">420</length>
-    <title>Programmes de la nuit</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_00:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218080000 +0100" stop="20151218090000 +0100">
-    <length units="minutes">60</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_07:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218090000 +0100" stop="20151218100000 +0100">
-    <length units="minutes">60</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_08:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218100000 +0100" stop="20151218113000 +0100">
-    <length units="minutes">90</length>
-    <title>L'Équipe du matin</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_09:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218113000 +0100" stop="20151218133000 +0100">
-    <length units="minutes">120</length>
-    <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_10:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218133000 +0100" stop="20151218143000 +0100">
-    <length units="minutes">60</length>
-    <title>Menu sport</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_12:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218143000 +0100" stop="20151218150000 +0100">
-    <length units="minutes">30</length>
-    <title>La course CasaqLigue</title>
-    <category>tiercé</category>
-    <desc />
-    <credits>
-      <name function="presenter">Julien Pichené</name>
-      <name function="presenter">Fabien Cailler</name>
-    </credits>
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_13:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218150000 +0100" stop="20151218151500 +0100">
-    <length units="minutes">15</length>
-    <title>Le journal</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_14:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218151500 +0100" stop="20151218161500 +0100">
-    <length units="minutes">60</length>
-    <title>Biathlon (Sprint 7,5 km dames)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_14:15.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218161500 +0100" stop="20151218171500 +0100">
-    <length units="minutes">60</length>
-    <title>Biathlon (Sprint 10 km messieurs)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_15:15.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218171500 +0100" stop="20151218183000 +0100">
-    <length units="minutes">75</length>
-    <title>L'Équipe enquête</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_16:15.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218183000 +0100" stop="20151218200000 +0100">
-    <length units="minutes">90</length>
-    <title>Esprit bleu</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_17:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218200000 +0100" stop="20151218204500 +0100">
-    <length units="minutes">45</length>
-    <title>La grande édition</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_19:00.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218204500 +0100" stop="20151218213000 +0100">
-    <length units="minutes">45</length>
-    <title>L'Équipe Type</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_19:45.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218213000 +0100" stop="20151218233000 +0100">
-    <length units="minutes">120</length>
-    <title>Boxe (Gala international 2015)</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_20:30.jpg</image>
-  </programme>
-  <programme channel="testchannelname01" start="20151218233000 +0100" stop="20151219010000 +0100">
-    <length units="minutes">90</length>
-    <title>L'Équipe du soir</title>
-    <category>sport</category>
-    <desc />
-    <image>http://guidetv-iphone.telerama.fr/verytv/procedures/images/2015-12-18_4132_22:30.jpg</image>
+    <category>Sport</category>
+    <desc>(Lire la suite).(n)</desc>
+    <image />
   </programme>
 </tv>
