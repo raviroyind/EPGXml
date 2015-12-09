@@ -1,17 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
-using System.Net;
-using System.Text;
-using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using XmlParser.Core.DataContext;
 
 namespace XmlParser.Secured
 {
-    public partial class ChannelSelection : System.Web.UI.Page
+    public partial class ChannelSelection : Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

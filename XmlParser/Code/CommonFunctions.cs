@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
-using System.Linq;
+using System.Globalization;
 using System.Reflection;
-using System.Text;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace BusinessLogic
+namespace XmlParser.Code
 {
     public class CommonFunctions : Page
     {
@@ -75,6 +74,50 @@ namespace BusinessLogic
             }
 
             return dataTable;
+        }
+         
+        public static string GetIpAddress()
+        {
+
+            System.Web.HttpContext context = System.Web.HttpContext.Current;
+            var ipAddress = context.Request.ServerVariables["HTTP_X_FORWARDED_FOR"];
+
+            if (!string.IsNullOrEmpty(ipAddress))
+            {
+                var addresses = ipAddress.Split(',');
+                if (addresses.Length != 0)
+                {
+                    return addresses[0];
+                }
+            }
+
+            return context.Request.ServerVariables["REMOTE_ADDR"];
+        }
+
+        /// <summary>
+        /// Add Time Offset to Start & End attributes of output xml based on query string value for offset.
+        /// </summary>
+        /// <param name="originalTimeSpan">Original Start/ Stop value.</param>
+        /// <param name="newOffset">Hours Offset to be added to original timespan.</param>
+        /// <returns>String representation of original DateTime value after adding hours offset.</returns>
+        public static string GetDateAddingOffset(string originalTimeSpan, int newOffset)
+        {
+            var dtAdditionalValue = string.Empty;
+
+            if (originalTimeSpan.Contains("+"))
+            {
+                dtAdditionalValue = originalTimeSpan.Substring(originalTimeSpan.IndexOf('+'));
+                originalTimeSpan = originalTimeSpan.Substring(0, originalTimeSpan.IndexOf('+')).Trim();
+            }
+
+            var originalDate = DateTime.ParseExact(originalTimeSpan, "yyyyMMddHHmmss", CultureInfo.InvariantCulture);
+
+            var newDate = originalDate.AddHours(newOffset);
+
+            var retval = newDate.Year.ToString() + newDate.Month.ToString() + newDate.Day.ToString("00").ToString() +
+                           newDate.Hour.ToString("00") + newDate.Minute.ToString("00") + newDate.Second.ToString("00");
+
+            return retval + " " + dtAdditionalValue;
         }
     }
 }

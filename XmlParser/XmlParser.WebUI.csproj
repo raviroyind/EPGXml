@@ -149,6 +149,7 @@
     <Content Include="Secured\ChannelSelection.aspx" />
     <Content Include="Secured\index.aspx" />
     <Content Include="Secured\XmlHistory.aspx" />
+    <Content Include="Secured\XmlTransformation.aspx" />
     <Content Include="Site.Master" />
     <Content Include="Content\theme.less" />
     <Content Include="Content\variables.less" />
@@ -229,6 +230,13 @@
     <Compile Include="Secured\XmlHistory.aspx.designer.cs">
       <DependentUpon>XmlHistory.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Secured\XmlTransformation.aspx.cs">
+      <DependentUpon>XmlTransformation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secured\XmlTransformation.aspx.designer.cs">
+      <DependentUpon>XmlTransformation.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -241,6 +249,7 @@
     <Folder Include="ImportedList\" />
     <Folder Include="Output\" />
     <Folder Include="SourceXmlFiles\" />
+    <Folder Include="temp\" />
     <Folder Include="ZipArchives\" />
   </ItemGroup>
   <ItemGroup>

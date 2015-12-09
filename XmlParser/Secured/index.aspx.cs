@@ -2,7 +2,6 @@
 #region Using ...
 
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Data.Entity.Validation;
@@ -13,7 +12,6 @@ using System.Net;
 using System.Text.RegularExpressions;
 using System.Web;
 using System.Web.UI;
-using System.Web.UI.HtmlControls;
 using System.Web.UI.WebControls;
 using System.Xml.Linq;
 using Ionic.Zip;
@@ -25,7 +23,7 @@ using XmlParser.Core.DataContext;
 
 namespace XmlParser
 {
-    public partial class Index : System.Web.UI.Page
+    public partial class Index : Page
     {
         #region Variables...
 
@@ -146,7 +144,7 @@ namespace XmlParser
                     foreach (var outFile in _outputXmlList)
                     {
                         var fileDetails = outFile.Split(',');
-                        grid.InnerHtml += "<tr><td>" + iCount + "</td><td><a href='" + fileDetails[0] + "' target='_blank' class='btn-link'> " + Path.GetFileName(fileDetails[0]) + "</a></td>";
+                        grid.InnerHtml += "<tr><td>" + iCount + "</td><td><a href='XmlTransformation.aspx?file=" + fileDetails[0] + "' target='_blank' class='btn-link'> " + Path.GetFileName(fileDetails[0]) + "</a></td>";
                         grid.InnerHtml += "<td>" + fileDetails[1] + "</td><td>" + fileDetails[2] +"</td></tr>";
 
 
@@ -497,8 +495,8 @@ namespace XmlParser
                     _tvProgrammes[iNodeCount] = new tvProgramme
                     {
                         channel = channelName,
-                        start = GetDateAddingOffset(item.Attributes("start").First().Value, newOffset),
-                        stop = GetDateAddingOffset(item.Attributes("stop").First().Value, newOffset),
+                        start = CommonFunctions.GetDateAddingOffset(item.Attributes("start").First().Value, newOffset),
+                        stop = CommonFunctions.GetDateAddingOffset(item.Attributes("stop").First().Value, newOffset),
 
                         length = new tvProgrammeLength
                         {
@@ -546,8 +544,7 @@ namespace XmlParser
 
                 var _tv2 = new Code.SecondOutput.tv();
                 Code.SecondOutput.tvProgramme[] _tvProgrammes2 = new Code.SecondOutput.tvProgramme[sourceXElements.Count];
-
-
+                 
                 iNodeCount = 0;
                 foreach (var item in sourceXElements)
                 {
@@ -575,8 +572,8 @@ namespace XmlParser
                     _tvProgrammes2[iNodeCount] = new Code.SecondOutput.tvProgramme()
                     {
                         channel = channelName,
-                        start = GetDateAddingOffset(item.Attributes("start").First().Value, newOffset),
-                        stop = GetDateAddingOffset(item.Attributes("stop").First().Value, newOffset),
+                        start = CommonFunctions.GetDateAddingOffset(item.Attributes("start").First().Value, newOffset),
+                        stop = CommonFunctions.GetDateAddingOffset(item.Attributes("stop").First().Value, newOffset),
                         title = item.Element("title") != null ? item.Element("title").Value : "",
                         desc = item.Element("desc") != null ? item.Element("desc").Value : "",
                         subTitle = item.Element("sub-title") != null ? item.Element("sub-title").Value : "",
@@ -608,32 +605,7 @@ namespace XmlParser
           
         }
 
-        /// <summary>
-        /// Add Time Offset to Start & End attributes of output xml based on query string value for offset.
-        /// </summary>
-        /// <param name="originalTimeSpan">Original Start/ Stop value.</param>
-        /// <param name="newOffset">Hours Offset to be added to original timespan.</param>
-        /// <returns>String representation of original DateTime value after adding hours offset.</returns>
-        private static string GetDateAddingOffset(string originalTimeSpan, int newOffset)
-        {
-            var dtAdditionalValue = string.Empty;
-
-            if (originalTimeSpan.Contains("+"))
-            {
-                dtAdditionalValue = originalTimeSpan.Substring(originalTimeSpan.IndexOf('+'));
-                originalTimeSpan = originalTimeSpan.Substring(0,originalTimeSpan.IndexOf('+')).Trim();
-            }
-
-            var originalDate = DateTime.ParseExact(originalTimeSpan, "yyyyMMddHHmmss", CultureInfo.InvariantCulture);
-
-            var newDate = originalDate.AddHours(newOffset);
-
-            var retval = newDate.Year.ToString() + newDate.Month.ToString() + newDate.Day.ToString("00").ToString() +
-                           newDate.Hour.ToString("00") + newDate.Minute.ToString("00") + newDate.Second.ToString("00");
-
-            return retval + " " +dtAdditionalValue;
-        }
-
+        
         private static string DownloadFile(string sourceUrl, string extension)
         {
             sourceUrl=sourceUrl.Trim();

@@ -1,17 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data.Entity;
 using System.Data.Entity.Validation;
 using System.Linq;
-using System.Runtime.InteropServices;
-using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using XmlParser.Core.DataContext;
 
 namespace XmlParser.Admin
 {
-    public partial class Dashboard : System.Web.UI.Page
+    public partial class Dashboard : Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

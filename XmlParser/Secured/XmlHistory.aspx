@@ -209,9 +209,6 @@
                                                                             <asp:CheckBox ID="chkSelect" runat="server" />
                                                                         </ItemTemplate>
                                                                     </asp:TemplateField>
-
-
-
                                                                     <asp:TemplateField>
                                                                         <HeaderTemplate>
                                                                             <asp:LinkButton ID="lnkbtnSourceURL" runat="server" Text="Source" CommandArgument="SourceURL"
@@ -243,7 +240,6 @@
                                                                                         </td>
                                                                                     </tr>
                                                                                 </table>
-
                                                                             </div>
                                                                         </HeaderTemplate>
                                                                         <ItemTemplate>
@@ -251,9 +247,7 @@
                                                                                 NavigateUrl='<%# Eval("SourceURL") %>'></asp:HyperLink>
                                                                         </ItemTemplate>
                                                                     </asp:TemplateField>
-
-
-
+                                                                     
                                                                     <asp:TemplateField>
                                                                         <HeaderTemplate>
                                                                             <asp:LinkButton ID="lnkbtnXmlFileName" runat="server" CommandArgument="XmlFileName" OnClick="gvFiles_Sorting"
@@ -303,12 +297,12 @@
                                                                     </asp:TemplateField>
                                                                     <asp:TemplateField>
                                                                         <ItemTemplate>
-                                                                            <asp:HyperLink ID="hypView" Target="_blank" runat="server" Text="View Xml" NavigateUrl='<%# Eval("URL") %>'></asp:HyperLink>
+                                                                            <asp:HyperLink ID="hypView" runat="server" Target="_blank"  NavigateUrl='<%# Eval("URL", "XmlTransformation.aspx?file={0}") %>'>View Xml</asp:HyperLink>
                                                                         </ItemTemplate>
                                                                     </asp:TemplateField>
                                                                     <asp:TemplateField HeaderText="Additional Xml">
                                                                         <ItemTemplate>
-                                                                            <asp:HyperLink ID="hypView2" Target="_blank" runat="server" Text="View Xml" NavigateUrl='<%# Eval("URL2") %>'></asp:HyperLink>
+                                                                            <asp:HyperLink ID="hypView2" runat="server" Target="_blank"  NavigateUrl='<%# Eval("URL2", "XmlTransformation.aspx?file={0}") %>'>View Xml</asp:HyperLink>
                                                                         </ItemTemplate>
                                                                     </asp:TemplateField>
                                                                 </Columns>

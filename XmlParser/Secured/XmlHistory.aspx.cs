@@ -1,15 +1,13 @@
-﻿using BusinessLogic;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data;
 using System.IO;
 using System.Linq;
-using System.Web;
 using System.Web.UI;
 using System.Web.UI.HtmlControls;
 using System.Web.UI.WebControls;
-using System.Xml;
 using Ionic.Zip;
+using XmlParser.Code;
 using XmlParser.Core.DataContext;
 
 namespace XmlParser.Secured
@@ -91,16 +89,16 @@ namespace XmlParser.Secured
         {
             var dtXml = new DataTable();
 
-            var dcXmlFileName = new DataColumn("XmlFileName", typeof(System.String));
+            var dcXmlFileName = new DataColumn("XmlFileName", typeof(String));
             dtXml.Columns.Add(dcXmlFileName);
 
-            var dcEpgStartDt = new DataColumn("EpgStartDt", typeof(System.DateTime));
+            var dcEpgStartDt = new DataColumn("EpgStartDt", typeof(DateTime));
             dtXml.Columns.Add(dcEpgStartDt);
 
-            var dcEpgEndDt = new DataColumn("EpgEndDt", typeof(System.DateTime));
+            var dcEpgEndDt = new DataColumn("EpgEndDt", typeof(DateTime));
             dtXml.Columns.Add(dcEpgEndDt);
 
-            var dcImportDate = new DataColumn("ImportDate", typeof(System.DateTime));
+            var dcImportDate = new DataColumn("ImportDate", typeof(DateTime));
             dtXml.Columns.Add(dcImportDate);
 
             var datatRow = dtXml.NewRow();
@@ -351,5 +349,6 @@ namespace XmlParser.Secured
                 Response.End();
             }
         }
+          
     }
 }
