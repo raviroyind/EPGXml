@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Home.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title>:: Xml Generation ::</title>
+  <%--  <script type="text/javascript" src="CSS/core.js"></script>--%>
+     <link href="CSS/bootstrap.min.css" rel="stylesheet" />
+    <link href="CSS/bootstrap-theme.css" rel="stylesheet" />
+    <link href="CSS/style.min.css" rel="stylesheet"  media="all"/>
+    <link rel="stylesheet" type="text/css" href="CSS/suit.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="CSS/examples.css" media="all"/>
+    <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+  
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+</head>
+<body>
+
+    <form runat="server">
+        <asp:ScriptManager ID="ScriptManager1" EnablePartialRendering="True" runat="server"></asp:ScriptManager>
+    <header>
+    </header>
+    <div id="body">
+        <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
+        <section class="content-wrapper main-content clear-fix">
+           
+            <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+           
+        </section>
+    </div>
+     <footer class="navbar navbar-fixed-bottom navbar-inverse" style="background-color:#373b3d;">
+        <div class="footerMenu">
+            <div style="margin-right: 560px; float: left; margin-top: 10px;">
+                <span style="font-size: 0.8em; margin-top: 20%; margin-left: 25px;">Copyright Alternet -2015 <i class="glyphicon glyphicon-copyright-mark"></i></span>
+            </div>
+            <div style="margin-right: 25px; float: right; margin-top: 10px;">
+            </div>
+        </div>
+    </footer>
+    </form>
+</body>
+</html>

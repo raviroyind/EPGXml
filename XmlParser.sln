@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlParser.WebUI", "XmlParser\XmlParser.WebUI.csproj", "{2D65C2B6-FA41-406F-B491-D9AEC21FA691}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3} = {BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3}
+		{3DD2B6EF-3A2B-46D9-9104-98300F49C5A5} = {3DD2B6EF-3A2B-46D9-9104-98300F49C5A5}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{0C2EB53F-4B58-493F-9807-C9052730D663}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlParser.Core", "XmlParser.Core\XmlParser.Core.csproj", "{BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlGeneration.CronApp", "XmlParser.CronApp\XmlGeneration.CronApp.csproj", "{6A53720E-A4C4-470F-8965-CB8077856345}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3} = {BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlParser.Service", "XmlParser.Service\XmlParser.Service\XmlParser.Service.csproj", "{3DD2B6EF-3A2B-46D9-9104-98300F49C5A5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3} = {BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlParser.FileProccessor", "XmlParser.FileProccessor\XmlParser.FileProccessor\XmlParser.FileProccessor.csproj", "{BF03A389-D08A-443B-8009-D4C21A7C1740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D65C2B6-FA41-406F-B491-D9AEC21FA691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D65C2B6-FA41-406F-B491-D9AEC21FA691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D65C2B6-FA41-406F-B491-D9AEC21FA691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D65C2B6-FA41-406F-B491-D9AEC21FA691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6A4CE6-CEE3-4EBA-858D-587E2F6C44C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A53720E-A4C4-470F-8965-CB8077856345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A53720E-A4C4-470F-8965-CB8077856345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A53720E-A4C4-470F-8965-CB8077856345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A53720E-A4C4-470F-8965-CB8077856345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD2B6EF-3A2B-46D9-9104-98300F49C5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD2B6EF-3A2B-46D9-9104-98300F49C5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD2B6EF-3A2B-46D9-9104-98300F49C5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD2B6EF-3A2B-46D9-9104-98300F49C5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF03A389-D08A-443B-8009-D4C21A7C1740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF03A389-D08A-443B-8009-D4C21A7C1740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF03A389-D08A-443B-8009-D4C21A7C1740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF03A389-D08A-443B-8009-D4C21A7C1740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

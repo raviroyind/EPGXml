@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="XmlParser.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="XmlParser_ChannelWebService_ChannelService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:1410/ChannelService.asmx</Value>
+    </Setting>
+    <Setting Name="XmlParser_FullChannelWebService_FullChannelService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:1410/FullChannelService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
